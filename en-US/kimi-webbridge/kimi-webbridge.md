@@ -27,15 +27,6 @@ WebBridge works through a local bridge service and a browser extension. All exec
   alt="Kimi WebBridge Introduction"
 />
 
-## System requirements
-
-| Item | Requirement |
-|------|-------------|
-| Operating System | macOS or Windows |
-| Browser | Chrome or Edge |
-| Network | Stable internet connection |
-| Companion App | Kimi Claw Desktop or other Local Agent |
-
 ## Download and installation
 
 ### Step 1: download the Kimi WebBridge extension
@@ -242,8 +233,6 @@ If you encounter any issues or have suggestions, please provide feedback.
 <Frames
   src="./images/feedback.png"
   alt="Feedback Entry"
-  width={1920}
-  height={1080}
 />
 
 When providing feedback, please include:

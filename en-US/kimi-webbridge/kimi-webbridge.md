@@ -23,11 +23,11 @@ WebBridge works through a local bridge service and a browser extension. All exec
 </Callout>
 
 <Frames
-  src="./images/kimi-webbridge-introduction/introduction.png"
+  src="./images/introduction.png"
   alt="Kimi WebBridge Introduction"
 />
 
-## System Requirements
+## System requirements
 
 | Item | Requirement |
 |------|-------------|
@@ -36,18 +36,18 @@ WebBridge works through a local bridge service and a browser extension. All exec
 | Network | Stable internet connection |
 | Companion App | Kimi Claw Desktop or other Local Agent |
 
-## Download and Installation
+## Download and installation
 
-### Step 1: Download the Kimi WebBridge Extension
+### Step 1: download the Kimi WebBridge extension
 
 You can download it through the following methods:
 
-**Method 1: Install from Web Store**
+**Method 1: install from web store**
 
 - For Chrome users: Go to the Chrome Web Store and search for "Kimi WebBridge"
 - For Edge users: Go to Edge Add-ons and search for "Kimi WebBridge"
 
-**Method 2: Manual Installation**
+**Method 2: manual installation**
 
 If you cannot access the web store, you can use the manual installation method.
 
@@ -65,9 +65,9 @@ Download the extension package from the [Kimi WebBridge official website](https:
 2. Enable "Developer mode" in the bottom-left corner
 3. Click "Load unpacked" and select the extracted folder
 
-### Step 2: Choose Your Setup Method and Complete Configuration
+### Step 2: Choose your setup method and complete configuration
 
-#### Method 1: Pair with Kimi Claw Desktop (Recommended)
+#### Method 1: pair with Kimi Claw Desktop (Recommended)
 
 1. Download Kimi Desktop (available for macOS / Windows from the official website)
 2. Deploy Kimi Claw
@@ -79,10 +79,8 @@ Download the extension package from the [Kimi WebBridge official website](https:
 Each user account currently supports up to 1 Kimi Claw Desktop deployment. If you have previously deployed on another computer, you will be prompted to disconnect the old Claw. You can choose according to your needs.
 </Callout>
 
-Reference document: **One-Click Deploy Kimi Claw Desktop**
-
 <Frames
-  src="./images/kimi-webbridge-introduction/deploy-steps-1.png"
+  src="./images/deploy-steps.png"
   alt="Deployment Step"
 />
 
@@ -130,7 +128,7 @@ Once the extension is connected, you can send instructions, for example:
   ]}
 />
 
-## How It Works
+## How it works？
 
 Kimi WebBridge operates as follows:
 
@@ -141,7 +139,7 @@ Kimi WebBridge operates as follows:
 Execution flow:
 
 <Frames
-  src="./images/kimi-webbridge-introduction/workflow.png"
+  src="./images/workflow.png"
   alt="WebBridge Execution Flow"
 />
 
@@ -176,9 +174,9 @@ Use cases:
 
 For more use cases, please refer to the [Kimi WebBridge official website](https://www.kimi.com/webbridge).
 
-## Frequently Asked Questions (FAQ)
+## FAQ
 
-### Installation and Configuration
+### Installation and configuration
 
 **Q: I see "Cannot add apps from this website" when installing the extension?**
 
@@ -196,7 +194,7 @@ A: Yes, but each computer needs to be installed and configured separately.
 
 A: Kimi Claw Desktop is a Kimi Claw deployed on your local computer. Open Kimi Desktop, find Kimi Claw in the left sidebar, create a new Claw, and select "Deploy on my computer".
 
-### Connection and Usage
+### Connection and usage
 
 **Q: The extension status shows "Disconnected"?**
 
@@ -227,7 +225,7 @@ A: Complex page structures or dynamic loading may cause operations to fail. Try 
 
 A: Currently supports Chrome and Edge. We recommend using the latest version for the best experience.
 
-### Working with Other Agents
+### Working with other agents
 
 **Q: Besides Kimi, which other Agents are supported?**
 
@@ -237,12 +235,12 @@ A: WebBridge supports all Local Agents, including Claude Code, Codex, Cursor, Ki
 
 A: The setup command is the same for all—run a single curl command to install. Refer to each Agent's Skill configuration for details.
 
-## Feedback and Support
+## Feedback and support
 
 If you encounter any issues or have suggestions, please provide feedback.
 
 <Frames
-  src="./images/kimi-webbridge-introduction/feedback.png"
+  src="./images/feedback.png"
   alt="Feedback Entry"
   width={1920}
   height={1080}

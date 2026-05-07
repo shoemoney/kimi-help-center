@@ -15,9 +15,7 @@ preview_content: "Let AI operate your browser — open pages, click buttons, fil
 
 # Kimi WebBridge
 
-Kimi WebBridge lets AI directly control your browser.
-
-Not a simulator, not a scraper — it's your own Chrome browser, with your login sessions, your cookies, and all your accounts. AI can open pages, read content, click buttons, and fill out forms just like you would.
+Kimi WebBridge is a browser extension for AI agents. It clicks, fills, navigates, and extracts. Tedious work, on autopilot.
 
 <Callout type="info">
 Kimi WebBridge works with any local AI agent that supports MCP or shell skill installation, such as Kimi Desktop, Claude Code, Codex, and Open Claw.
@@ -30,7 +28,7 @@ Kimi WebBridge works with any local AI agent that supports MCP or shell skill in
 
 ---
 
-## What Can You Do With It?
+## What can you do with Kimi WebBridge?
 
 You talk — AI handles the clicking, form filling, screenshotting, and content reading. Hand off those repetitive web tasks:
 
@@ -48,29 +46,33 @@ You talk — AI handles the clicking, form filling, screenshotting, and content 
 
 Install the Kimi WebBridge browser extension from your browser's app store:
 
-- **Chrome Web Store**: [Install from Chrome Web Store](https://chromewebstore.google.com)
-- **Edge Add-ons Store**: Coming soon
-
-If you cannot access the store directly, you can install it manually:
-
-<Callout type="tip">
-**Manual installation**
-
-1. Download the extension package: [Download .zip](https://kimi-web-img.moonshot.cn/webbridge/install_skill.sh)
-2. Unzip the file
-3. Open `chrome://extensions/` in Chrome
-4. Enable **Developer mode** (top-right toggle)
-5. Click **Load unpacked** and select the unzipped folder
-</Callout>
+- **Chrome Web Store**: [Install from Chrome Web Store](https://chromewebstore.google.com/detail/kimi-webbridge/fldmhceldgbpfpkbgopacenieobmligc)
+- **Edge Add-ons Store**: [Install from Edge Add-ons Store](https://microsoftedge.microsoft.com/addons/detail/kimi-webbridge/bnlffdbcfnanfbknnlaflhlhkocccckg)
 
 <Frames
   src="./images/kimi-webbridge/extension.png"
   alt="Chrome extensions page showing how to load the unpacked WebBridge extension"
 />
 
+If you cannot access the store directly, you can install it manually:
+
+<Callout type="tip">
+**Manual installation**
+
+1. Click to download the extension package from[Kimi WebBridge](https://www.kimi.com/features/webbridge)
+2. Open `chrome://extensions/` in Chrome
+3. Turn on **developer mode**
+4. Click **Load unpacked** and select the unzipped folder
+</Callout>
+
+<Frames
+  src="./images/kimi-webbridge/manul.png"
+  alt="Chrome extensions page showing how to load the unpacked WebBridge extension"
+/>
+
 ---
 
-### Step 2 — Install the WebBridge Skill in Your Agent
+### Step 2 — Install the WebBridge skill in your agent
 
 Open your local AI agent and send one of the following messages depending on which agent you use.
 
@@ -127,7 +129,7 @@ If the test fails, try restarting your agent first. The skill may need a fresh s
 
 ---
 
-## Optional: Install Site-Specific CLI Tools
+## Optional: install site-specific CLI tools
 
 Without a site CLI, your agent can still operate any website — but it may need some time to explore the interface on its own.
 
@@ -147,7 +149,7 @@ With a site-specific CLI installed, the agent gains pre-built knowledge of that 
 
 You can also find additional community CLIs on the open-source community or in Kimi Gyro.
 
-### How to Install a CLI?
+### How to install a CLI?
 
 You can paste the commands below directly into your terminal, or send them to your agent and let it handle the installation.
 

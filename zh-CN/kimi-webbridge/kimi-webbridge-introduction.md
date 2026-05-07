@@ -23,7 +23,7 @@ WebBridge 通过本地桥接服务和浏览器扩展协同工作，所有执行�
 </Callout>
 
 <Frames
-  src="./images/kimi-webbridge-introduction/introduction.png"
+  src="./images/introduction.png"
   alt="Kimi WebBridge 介绍"
 />
 
@@ -80,7 +80,7 @@ WebBridge 通过本地桥接服务和浏览器扩展协同工作，所有执行�
 </Callout>
 
 <Frames
-  src="./images/kimi-webbridge-introduction/deploy-steps-1.png"
+  src="./images/使用步骤.png"
   alt="部署步骤"
 />
 

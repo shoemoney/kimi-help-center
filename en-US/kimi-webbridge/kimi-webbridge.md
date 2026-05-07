@@ -169,7 +169,7 @@ For more use cases, please refer to the [Kimi WebBridge official website](https:
 
 ### Installation and configuration
 
-**Q: I see "Cannot add apps from this website" when installing the extension?**
+**Q: See "Cannot add apps from this website" when installing the extension?**
 
 A: Please make sure to install from the official web store (Chrome Web Store or Edge Add-ons). If you cannot access the web store, use the manual installation method provided on the official website.
 
@@ -208,7 +208,7 @@ A: Please confirm that the Kimi WebBridge browser extension is successfully inst
 
 A: No. All execution happens locally on your device—login states and web page content never leave your machine. The Agent can only access the operation results you authorize.
 
-**Q: Why do some operations fail?**
+**Q: Why do operations fail?**
 
 A: Complex page structures or dynamic loading may cause operations to fail. Try simplifying your instructions, or ask the Agent to take a screenshot first to confirm the page state before executing.
 
@@ -218,7 +218,7 @@ A: Currently supports Chrome and Edge. We recommend using the latest version for
 
 ### Working with other agents
 
-**Q: Besides Kimi, which other Agents are supported?**
+**Q: Which other Agents are supported?**
 
 A: WebBridge supports all Local Agents, including Claude Code, Codex, Cursor, Kimi Code, Hermers Claw, and more.
 

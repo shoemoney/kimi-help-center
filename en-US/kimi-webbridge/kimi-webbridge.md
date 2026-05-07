@@ -225,21 +225,3 @@ A: WebBridge supports all Local Agents, including Claude Code, Codex, Cursor, Ki
 **Q: Is the configuration the same for different Agents?**
 
 A: The setup command is the same for all—run a single curl command to install. Refer to each Agent's Skill configuration for details.
-
-## Feedback and support
-
-If you encounter any issues or have suggestions, please provide feedback.
-
-<Frames
-  src="./images/feedback.png"
-  alt="Feedback Entry"
-/>
-
-When providing feedback, please include:
-
-- Browser version
-- WebBridge extension version
-- The AI Agent you are using
-- Problem description and screenshots
-- Relevant logs (if available)
-

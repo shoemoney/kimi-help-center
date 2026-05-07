@@ -22,11 +22,6 @@ Kimi WebBridge 是一款专为 AI Agent 设计的浏览器插件。与云端浏�
 WebBridge 通过本地桥接服务和浏览器扩展协同工作，所有执行都在你本地完成，登录态和网页内容不会离开你的设备。
 </Callout>
 
-<Frames
-  src="./images/introduction.png"
-  alt="Kimi WebBridge 介绍"
-/>
-
 ## 系统要求
 
 | 项目 | 要求 |
@@ -137,11 +132,6 @@ Kimi WebBridge 通过以下方式工作：
 3. **安全隔离**：所有执行都在本地完成，登录态和网页内容不会离开你的设备
 
 执行流程：
-
-<Frames
-  src="./images/kimi-webbridge-introduction/workflow.png"
-  alt="WebBridge 执行流程"
-/>
 
 - Agent 发送指令给本地桥接服务
 - 扩展在浏览器中完成导航、点击、截图、读取页面等操作

@@ -129,56 +129,6 @@ If the test fails, try restarting your agent first. The skill may need a fresh s
 
 ---
 
-## Optional: install site-specific CLI tools
-
-Without a site CLI, your agent can still operate any website — but it may need some time to explore the interface on its own.
-
-With a site-specific CLI installed, the agent gains pre-built knowledge of that site's structure, which means **faster execution, fewer tokens used, and more accurate interactions**.
-
-### Available CLIs
-
-| CLI | Platform |
-|---|---|
-| `twitter-cli` | Twitter / X |
-| `xiaohongshu-cli` | Xiaohongshu (Little Red Book) |
-| `boss-cli` | BOSS Zhipin |
-| `baidu-cli` | Baidu Search |
-| `bing-cli` | Bing Search |
-| `google-cli` | Google Search |
-| `aichat-cli` | ChatGPT / Doubao |
-
-You can also find additional community CLIs on the open-source community or in Kimi Gyro.
-
-### How to install a CLI?
-
-You can paste the commands below directly into your terminal, or send them to your agent and let it handle the installation.
-
-<CodePreview
-  files={[
-    {
-      name: "install-cli.sh",
-      language: "bash",
-      content: `# Install gyro (Kimi's internal package manager) if you haven't already
-sh -c "$(curl -fsSL https://gyro.msh.work/install/install.sh)"
-
-# Browse available CLIs
-gyro search cli
-
-# Install the CLI you need — replace twitter-cli with your target CLI name
-gyro install twitter-cli
-
-# Keep it up to date
-gyro upgrade twitter-cli`,
-    },
-  ]}
-/>
-
-<Callout type="tip">
-Not comfortable with the terminal? Paste the commands above into your agent chat and ask it to run them for you.
-</Callout>
-
----
-
 ## FAQ
  
 ### How does Kimi WebBridge work?

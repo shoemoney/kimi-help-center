@@ -80,7 +80,7 @@ Each user account currently supports up to 1 Kimi Claw Desktop deployment. If yo
 </Callout>
 
 <Frames
-  src="./images/deploy-steps.png"
+  src="./images/deploy-step.png"
   alt="Deployment Step"
 />
 

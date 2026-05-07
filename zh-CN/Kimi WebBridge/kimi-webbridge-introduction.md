@@ -25,8 +25,6 @@ WebBridge 通过本地桥接服务和浏览器扩展协同工作，所有执行�
 <Frames
   src="./images/kimi-webbridge-introduction/introduction.png"
   alt="Kimi WebBridge 介绍"
-  width={1920}
-  height={1080}
 />
 
 ## 系统要求
@@ -81,13 +79,9 @@ WebBridge 通过本地桥接服务和浏览器扩展协同工作，所有执行�
 当前每个用户账号下，最多支持部署 1 个 Kimi Claw Desktop。若你在其他电脑上曾经部署过，则会和你确认是否要断开旧 Claw 的连接，你可以按需选择。
 </Callout>
 
-参考文档：**一键部署 Kimi Claw Desktop**
-
 <Frames
   src="./images/kimi-webbridge-introduction/deploy-steps-1.png"
   alt="部署步骤"
-  width={1920}
-  height={1080}
 />
 
 #### 开始使用
@@ -147,8 +141,6 @@ Kimi WebBridge 通过以下方式工作：
 <Frames
   src="./images/kimi-webbridge-introduction/workflow.png"
   alt="WebBridge 执行流程"
-  width={1920}
-  height={1080}
 />
 
 - Agent 发送指令给本地桥接服务

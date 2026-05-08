@@ -35,14 +35,14 @@ You can download it through the following methods:
 
 **Method 1: install from web store**
 
-- For Chrome users: Go to the Chrome Web Store and search for "Kimi WebBridge"
-- For Edge users: Go to Edge Add-ons and search for "Kimi WebBridge"
+- For Chrome users: Go to [Chrome Web Store](https://chromewebstore.google.com/detail/kimi-webbridge/fldmhceldgbpfpkbgopacenieobmligc)
+- For Edge users: Go to [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/kimi-webbridge/bnlffdbcfnanfbknnlaflhlhkocccckg)
 
 **Method 2: manual installation**
 
 If you cannot access the web store, you can use the manual installation method.
 
-Download the extension package from the [Kimi WebBridge official website](https://www.kimi.com/webbridge), then follow the steps for your browser:
+Download the extension package from the [Kimi WebBridge official website](https://www.kimi.com/features/webbridge), then follow the steps for your browser:
 
 **Chrome:**
 

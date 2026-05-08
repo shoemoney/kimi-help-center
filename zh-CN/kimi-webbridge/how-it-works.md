@@ -51,5 +51,5 @@ Kimi WebBridge 通过以下方式工作：
 - 表单填写：自动填写各类在线表单
 - 数据录入：将网页数据自动整理录入到指定格式
 
-更多使用案例请参考 [Kimi WebBridge 官网](https://www.kimi.com/webbridge)。
+更多使用案例请参考[Kimi WebBridge 官网](https://www.kimi.com/zh-cn/features/webbridge)。
 

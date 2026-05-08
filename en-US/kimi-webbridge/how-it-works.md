@@ -62,4 +62,4 @@ Use cases:
 - Form filling: Automatically fill out various online forms
 - Data entry: Automatically organize and enter web data into a specified format
 
-For more use cases, please refer to the [Kimi WebBridge official website](https://www.kimi.com/webbridge).
+For more use cases, please refer to the [Kimi WebBridge official website](https://www.kimi.com/features/webbridge).

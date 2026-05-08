@@ -88,7 +88,7 @@ Once deployed, you can send instructions in Kimi Claw, for example:
     {
       name: "prompt.txt",
       language: "text",
-      content: "Open X.com and search for posts about the Kimi K2.6 release",
+      content: "Kimi WebBridge open X.com and search for posts about the Kimi K2.6 release",
     },
   ]}
 />
@@ -118,7 +118,7 @@ Once the extension is connected, you can send instructions.
     {
       name: "prompt.txt",
       language: "text",
-      content: "Open X.com and search for posts about the Kimi K2.6 release",
+      content: "Kimi WebBridge open X.com and search for posts about the Kimi K2.6 release",
     },
   ]}
 />

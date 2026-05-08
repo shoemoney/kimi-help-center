@@ -91,7 +91,7 @@ WebBridge 通过本地桥接服务和浏览器扩展协同工作，所有执行�
     {
       name: "prompt.txt",
       language: "text",
-      content: "帮我打开小红书，搜索关于 Kimi K2.6 发布的帖子",
+      content: "Kimi WebBridge 帮我打开小红书，搜索关于 Kimi K2.6 发布的帖子",
     },
   ]}
 />
@@ -121,7 +121,7 @@ WebBridge 通过本地桥接服务和浏览器扩展协同工作，所有执行�
     {
       name: "prompt.txt",
       language: "text",
-      content: "帮我打开小红书，搜索关于 Kimi K2.6 发布的帖子",
+      content: "Kimi WebBridge 帮我打开小红书，搜索关于 Kimi K2.6 发布的帖子",
     },
   ]}
 />

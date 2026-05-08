@@ -107,14 +107,4 @@ Supports Claude Code, Codex, Cursor, Kimi Code, Hermers Claw, and more.
 
 2. Start Using
 
-Once the extension is connected, you can send instructions, for example:
-
-<CodePreview
-  files={[
-    {
-      name: "prompt.txt",
-      language: "text",
-      content: "Open Xiaohongshu and search for posts about the Kimi K2.6 release",
-    },
-  ]}
-/>
+Once the extension is connected, you can send instructions.

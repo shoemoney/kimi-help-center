@@ -39,6 +39,11 @@ Click the WebBridge icon in the browser toolbar to check the current connection 
 
 **Disconnected**: Check your configuration or re-run the connection command.
 
+<Frames
+  src="./images/connection.png"
+  alt="WebBridge Connection"
+/>
+
 ## Features
 
 | Feature | Description |

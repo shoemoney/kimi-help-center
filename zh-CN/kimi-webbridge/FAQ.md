@@ -73,7 +73,7 @@ A: WebBridge 支持所有 Local Agent，包括 Claude Code、Codex、Cursor、Ki
 
 A: 配置指令相同，都是运行一条 curl 命令完成安装。具体可参考各 Agent 的 Skill 配置方式。
 
-# 反馈与帮助
+## 反馈与帮助
 
 如果你在使用过程中遇到问题或有建议，欢迎提供反馈。
 
@@ -86,7 +86,7 @@ A: 配置指令相同，都是运行一条 curl 命令完成安装。具体可�
   alt="Kimi WebBridge用户群"
 />
 
-## 反馈时请提供
+反馈时请提供：
 
 - **浏览器版本**：例如 Chrome 124.0.6367.82
 - **WebBridge 插件版本**：可在浏览器扩展管理页面查看

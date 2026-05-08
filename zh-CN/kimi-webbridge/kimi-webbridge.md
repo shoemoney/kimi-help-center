@@ -44,14 +44,14 @@ WebBridge 通过本地桥接服务和浏览器扩展协同工作，所有执行�
 
 **方式一：应用商店安装**
 
-- Chrome 用户：前往[Chrome Web Store](https://chromewebstore.google.com/detail/kimi-webbridge/fldmhceldgbpfpkbgopacenieobmligc)
+- Chrome 用户：前往 [Chrome Web Store](https://chromewebstore.google.com/detail/kimi-webbridge/fldmhceldgbpfpkbgopacenieobmligc)
 - Edge 用户：前往 [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/kimi-webbridge/bnlffdbcfnanfbknnlaflhlhkocccckg)
 
 **方式二：手动安装**
 
 如果无法访问应用商店，可以使用手动安装方式。
 
-前往[Kimi WebBridge 官网](https://www.kimi.com/zh-cn/features/webbridge)下载扩展包，然后根据你的浏览器操作：
+前往 [Kimi WebBridge 官网](https://www.kimi.com/zh-cn/features/webbridge)下载扩展包，然后根据你的浏览器操作：
 
 **Chrome：**
 

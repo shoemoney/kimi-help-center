@@ -1,5 +1,5 @@
 ---
-title: "Kimi WebBridge 产品介绍"
+title: "Kimi WebBridge产品介绍"
 slug: "kimi-webbridge-introduction"
 order: 1
 extract_headings: false
@@ -11,6 +11,8 @@ preview: false
   description="Kimi WebBridge 是一款专为 AI Agent 设计的浏览器插件，支持 Chrome 和 Edge，让 Agent 像真人一样与网页交互。"
   ogType="article"
 />
+
+# Kimi WebBridge产品介绍
 
 Kimi WebBridge 是一款专为 AI Agent 设计的浏览器插件。与云端浏览器自动化方案不同，Kimi WebBridge 直接在你正在使用的 Chrome 或 Edge 浏览器中执行操作，能够自动获取你的登录态，让 Agent 像真人一样与网页交互。
 

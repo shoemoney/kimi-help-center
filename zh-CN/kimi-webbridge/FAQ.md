@@ -22,7 +22,7 @@ A: 请确保从官方应用商店（Chrome Web Store 或 Edge Add-ons）安装�
 
 **Q: 运行连接指令后没有反应？**
 
-A: 请检查网络连接是否正常，确保可以访问 `kimi-web-img.moonshot.cn` 域名。如仍有问题，尝试重启 Kimi Claw Desktop 后再次运行指令。
+A: 请检查网络连接是否正常。如仍有问题，尝试重启 Kimi Claw Desktop 后再次运行指令。
 
 **Q: 可以在多台电脑上使用吗？**
 

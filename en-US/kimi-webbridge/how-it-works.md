@@ -26,6 +26,11 @@ Execution flow:
 - The extension performs navigation, clicks, screenshots, page reading, and other operations in the browser
 - Execution results are returned to the Agent
 
+<Frames
+  src="./images/workflow.png"
+  alt="workflow"
+/>
+
 ## Extension Interface
 
 Click the WebBridge icon in the browser toolbar to check the current connection status:

@@ -22,6 +22,11 @@ We recommend deploying Kimi WebBridge on your primary work computer for the best
 WebBridge works through a local bridge service and a browser extension. All execution happens locally on your device—login states and web page content never leave your machine.
 </Callout>
 
+<Frames
+  src="./images/introduction.png"
+  alt="WebBridge Introduction"
+/>
+
 ## Download and installation
 
 ### Step 1: download the Kimi WebBridge extension

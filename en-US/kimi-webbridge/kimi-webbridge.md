@@ -75,7 +75,7 @@ Each user account currently supports up to 1 Kimi Claw Desktop deployment. If yo
   alt="Deployment Step"
 />
 
-#### Start Using
+3. Start Using
 
 Once deployed, you can send instructions in Kimi Claw, for example:
 

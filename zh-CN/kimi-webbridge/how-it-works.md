@@ -12,7 +12,7 @@ preview: false
   ogType="article"
 />
 
-## 工作原理
+# Kimi WebBridge工作原理
 
 Kimi WebBridge 通过以下方式工作：
 

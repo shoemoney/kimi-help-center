@@ -29,9 +29,7 @@ WebBridge works through a local bridge service and a browser extension. All exec
   alt="WebBridge Introduction"
 />
 
-## Download and installation
-
-### Step 1: download the Kimi WebBridge extension
+## Step 1: download the Kimi WebBridge extension
 
 You can download it through the following methods:
 
@@ -58,9 +56,39 @@ Download the extension package from the [Kimi WebBridge official website](https:
 2. Enable "Developer mode" in the bottom-left corner
 3. Click "Load unpacked" and select the extracted folder
 
-### Step 2: Choose your setup method and complete configuration
+## Step 2: Choose your setup method and complete configuration
 
-#### Method 1: pair with Kimi Claw Desktop
+### Method 1: Pair with Local Agents
+
+Supports Claude Code, Codex, Cursor, Kimi Code, Hermers Claw, and more.
+
+1. Send the following command in your Agent:
+
+<CodePreview
+  files={[
+    {
+      name: "command.sh",
+      language: "bash",
+      content: "curl -fsSL https://kimi-web-img.moonshot.cn/webbridge/install_skill.sh | bash -s -- -y",
+    },
+  ]}
+/>
+
+2. Start Using
+
+Once the extension is connected, you can send instructions.
+
+<CodePreview
+  files={[
+    {
+      name: "prompt.txt",
+      language: "text",
+      content: "/Kimi WebBridge open X.com and search for posts about the Kimi K2.6 release",
+    },
+  ]}
+/>
+
+### Method 2: pair with Kimi Claw Desktop
 
 1. Download Kimi Desktop (available for macOS / Windows from the official website)
    - Kimi Claw Desktop requires an **Allegretto or higher** plan. See [Membership Plans](https://www.kimi.com/membership/pricing).
@@ -93,32 +121,3 @@ Once deployed, you can send instructions in Kimi Claw, for example:
   ]}
 />
 
-#### Method 2: Pair with Other Local Agents
-
-Supports Claude Code, Codex, Cursor, Kimi Code, Hermers Claw, and more.
-
-1. Send the following command in your Agent:
-
-<CodePreview
-  files={[
-    {
-      name: "command.sh",
-      language: "bash",
-      content: "curl -fsSL https://kimi-web-img.moonshot.cn/webbridge/install_skill.sh | bash -s -- -y",
-    },
-  ]}
-/>
-
-2. Start Using
-
-Once the extension is connected, you can send instructions.
-
-<CodePreview
-  files={[
-    {
-      name: "prompt.txt",
-      language: "text",
-      content: "/Kimi WebBridge open X.com and search for posts about the Kimi K2.6 release",
-    },
-  ]}
-/>

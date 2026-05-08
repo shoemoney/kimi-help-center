@@ -65,7 +65,38 @@ WebBridge 通过本地桥接服务和浏览器扩展协同工作，所有执行�
 
 ## Step 2: 选择使用方式并完成配置
 
-### 方式一：搭配 Kimi Claw Desktop
+
+### 方式一：搭配 Local Agent
+
+支持 Claude Code、Codex、Cursor、Kimi Code、Hermers Claw 等。
+
+1. 在 Agent 中发送以下指令：
+
+<CodePreview
+  files={[
+    {
+      name: "command.sh",
+      language: "bash",
+      content: "curl -fsSL https://kimi-web-img.moonshot.cn/webbridge/install_skill.sh | bash -s -- -y",
+    },
+  ]}
+/>
+
+2. 开始使用
+
+插件连接成功后即可发送指令，例如：
+
+<CodePreview
+  files={[
+    {
+      name: "prompt.txt",
+      language: "text",
+      content: "/Kimi WebBridge 帮我打开小红书，搜索关于 Kimi K2.6 发布的帖子",
+    },
+  ]}
+/>
+
+### 方式二：搭配 Kimi Claw Desktop
 
 1. 下载 Kimi 桌面版（通过官网下载，支持 macOS / Windows）
    - Kimi Claw桌面版仅支持 **Allegretto 及以上**计划，详见 [Kimi 会员计划](https://www.kimi.com/membership/pricing)。
@@ -85,36 +116,6 @@ WebBridge 通过本地桥接服务和浏览器扩展协同工作，所有执行�
 />
 
 3. 部署成功后即可在 Kimi Claw 中发送指令，例如：
-
-<CodePreview
-  files={[
-    {
-      name: "prompt.txt",
-      language: "text",
-      content: "/Kimi WebBridge 帮我打开小红书，搜索关于 Kimi K2.6 发布的帖子",
-    },
-  ]}
-/>
-
-### 方式二：搭配其他 Local Agent
-
-支持 Claude Code、Codex、Cursor、Kimi Code、Hermers Claw 等。
-
-1. 在 Agent 中发送以下指令：
-
-<CodePreview
-  files={[
-    {
-      name: "command.sh",
-      language: "bash",
-      content: "curl -fsSL https://kimi-web-img.moonshot.cn/webbridge/install_skill.sh | bash -s -- -y",
-    },
-  ]}
-/>
-
-2. 开始使用
-
-插件连接成功后即可发送指令，例如：
 
 <CodePreview
   files={[

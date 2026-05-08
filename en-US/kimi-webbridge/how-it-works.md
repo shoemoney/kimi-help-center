@@ -20,12 +20,6 @@ Kimi WebBridge operates as follows:
 2. **Browser Extension**: Executes specific actions in the browser based on the Chrome DevTools Protocol
 3. **Security Isolation**: All execution happens locally—login states and web page content never leave your device
 
-Execution flow:
-
-- The Agent sends instructions to the local bridge service
-- The extension performs navigation, clicks, screenshots, page reading, and other operations in the browser
-- Execution results are returned to the Agent
-
 <Frames
   src="./images/workflow.png"
   alt="workflow"

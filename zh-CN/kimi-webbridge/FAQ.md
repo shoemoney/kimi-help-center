@@ -1,5 +1,5 @@
 ---
-title: "FAQ"
+title: "常见问题（FAQ）"
 slug: "kimi-webbridge-faq"
 order: 3
 extract_headings: true

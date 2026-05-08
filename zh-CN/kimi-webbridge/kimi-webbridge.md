@@ -84,9 +84,7 @@ WebBridge 通过本地桥接服务和浏览器扩展协同工作，所有执行�
   alt="部署步骤"
 />
 
-#### 开始使用
-
-部署成功后即可在 Kimi Claw 中发送指令，例如：
+3. 部署成功后即可在 Kimi Claw 中发送指令，例如：
 
 <CodePreview
   files={[

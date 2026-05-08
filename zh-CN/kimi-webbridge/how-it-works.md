@@ -1,5 +1,5 @@
 ---
-title: "How Kimi WebBridge works"
+title: "Kimi WebBridge工作原理"
 slug: "kimi-webbridge-how-it-works"
 order: 2
 extract_headings: true

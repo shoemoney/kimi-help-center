@@ -29,18 +29,14 @@ WebBridge 通过本地桥接服务和浏览器扩展协同工作，所有执行�
   alt="介绍图"
 />
 
-## 系统要求
-
-| 项目 | 要求 |
+| 项目 | 系统要求 |
 |------|------|
 | 操作系统 | macOS 或 Windows |
 | 浏览器 | Chrome 或 Edge |
 | 网络 | 需要稳定的网络连接 |
 | 配套应用 | Kimi Claw Desktop 或其他 Local Agent |
 
-## 下载与安装
-
-### Step 1: 下载 Kimi WebBridge 插件
+## Step 1: 下载 Kimi WebBridge 插件
 
 你可以通过以下方式下载：
 
@@ -67,9 +63,9 @@ WebBridge 通过本地桥接服务和浏览器扩展协同工作，所有执行�
 2. 开启左下角的"开发人员模式"
 3. 点击"加载解压缩的扩展"，选择解压后的文件夹
 
-### Step 2: 选择使用方式并完成配置
+## Step 2: 选择使用方式并完成配置
 
-#### 方式一：搭配 Kimi Claw Desktop
+### 方式一：搭配 Kimi Claw Desktop
 
 1. 下载 Kimi 桌面版（通过官网下载，支持 macOS / Windows）
 
@@ -101,7 +97,7 @@ WebBridge 通过本地桥接服务和浏览器扩展协同工作，所有执行�
   ]}
 />
 
-#### 方式二：搭配其他 Local Agent
+### 方式二：搭配其他 Local Agent
 
 支持 Claude Code、Codex、Cursor、Kimi Code、Hermers Claw 等。
 

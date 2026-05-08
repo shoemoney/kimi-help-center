@@ -1,6 +1,6 @@
 ---
 title: "FAQ"
-slug: "kimi-webbridge-introduction"
+slug: "kimi-webbridge-faq"
 order: 3
 extract_headings: true
 preview: false

@@ -1,6 +1,6 @@
 ---
 title: "How Kimi WebBridge works"
-slug: "kimi-webbridge-introduction"
+slug: "kimi-webbridge-how-it-works"
 order: 2
 extract_headings: true
 preview: false

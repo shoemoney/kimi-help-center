@@ -22,7 +22,7 @@ A: Please make sure to install from the official web store (Chrome Web Store or 
 
 **Q: Nothing happens after running the connection command?**
 
-A: Please check your internet connection and ensure you can access the `kimi-web-img.moonshot.cn` domain. If the issue persists, try restarting Kimi Claw Desktop and run the command again.
+A: Please check your internet connection. If the issue persists, try restarting Kimi Claw Desktop and run the command again.
 
 **Q: Can I use it on multiple computers?**
 
@@ -39,6 +39,7 @@ A: Kimi Claw Desktop is a Kimi Claw deployed on your local computer. Open Kimi D
 A: Please confirm that the Kimi WebBridge browser extension is successfully installed, then follow the steps for your setup method:
 
 - **Kimi Desktop**: Restart Kimi Desktop and try again
+
 - **Other Local Agents**: Resend the following command in your Agent, then restart the Agent after it runs:
 
 <CodePreview

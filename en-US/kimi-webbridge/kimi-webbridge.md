@@ -58,7 +58,7 @@ Download the extension package from the [Kimi WebBridge official website](https:
 
 ### Step 2: Choose your setup method and complete configuration
 
-#### Method 1: pair with Kimi Claw Desktop (Recommended)
+#### Method 1: pair with Kimi Claw Desktop
 
 1. Download Kimi Desktop (available for macOS / Windows from the official website)
 2. Deploy Kimi Claw

@@ -67,7 +67,7 @@ WebBridge 通过本地桥接服务和浏览器扩展协同工作，所有执行�
 
 ### Step 2: 选择使用方式并完成配置
 
-#### 方式一：搭配 Kimi Claw Desktop（推荐）
+#### 方式一：搭配 Kimi Claw Desktop
 
 1. 下载 Kimi 桌面版（通过官网下载，支持 macOS / Windows）
 2. 部署 Kimi Claw

@@ -70,6 +70,9 @@ WebBridge 通过本地桥接服务和浏览器扩展协同工作，所有执行�
 #### 方式一：搭配 Kimi Claw Desktop
 
 1. 下载 Kimi 桌面版（通过官网下载，支持 macOS / Windows）
+
+- Kimi Claw桌面版仅支持 **Allegretto 及以上**计划，详见 [Kimi 会员计划](https://kimi.com/pricing)。
+
 2. 部署 Kimi Claw
    1. 打开 Kimi 桌面版，在左侧侧边栏找到 Kimi Claw，点击"添加 Claw"
    2. 选择"在我的电脑部署"

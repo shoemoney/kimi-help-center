@@ -56,6 +56,11 @@ Download the extension package from the [Kimi WebBridge official website](https:
 2. Enable "Developer mode" in the bottom-left corner
 3. Click "Load unpacked" and select the extracted folder
 
+<Frames
+  src="./images/address-bar.png"
+  alt="Kimi WebBridge Address Bar"
+/>
+
 ### Step 2: Choose your setup method and complete configuration
 
 #### Method 1: pair with Kimi Claw Desktop

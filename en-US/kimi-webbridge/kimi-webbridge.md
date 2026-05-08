@@ -84,7 +84,7 @@ Once deployed, you can send instructions in Kimi Claw, for example:
     {
       name: "prompt.txt",
       language: "text",
-      content: "Open Xiaohongshu and search for posts about the Kimi K2.6 release",
+      content: "Open Twitter and search for posts about the Kimi K2.6 release",
     },
   ]}
 />
@@ -108,3 +108,13 @@ Supports Claude Code, Codex, Cursor, Kimi Code, Hermers Claw, and more.
 2. Start Using
 
 Once the extension is connected, you can send instructions.
+
+<CodePreview
+  files={[
+    {
+      name: "prompt.txt",
+      language: "text",
+      content: "Open Twitter and search for posts about the Kimi K2.6 release",
+    },
+  ]}
+/>

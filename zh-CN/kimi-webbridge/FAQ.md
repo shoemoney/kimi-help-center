@@ -20,21 +20,21 @@ preview: false
 
 请确保从官方应用商店（Chrome Web Store 或 Edge Add-ons）安装。如无法访问应用商店，可使用官网提供的手动安装方式。
 
-### 运行连接指令后没有反应？**
+### 运行连接指令后没有反应？
 
 请检查网络连接是否正常。如仍有问题，尝试重启 Kimi Claw Desktop 后再次运行指令。
 
-### 可以在多台电脑上使用吗？**
+### 可以在多台电脑上使用吗？
 
 可以，每台电脑需要单独安装和配置 WebBridge。
 
-### 找不到 Kimi Claw Desktop？**
+### 找不到 Kimi Claw Desktop？
 
 Kimi Claw Desktop 是部署在你本地电脑上的 Kimi Claw。打开 Kimi 桌面版，在左侧边栏找到 Kimi Claw，新建一个 Claw，选择部署到"我的电脑"。
 
 ## 连接与使用
 
-### 插件状态显示未连接？**
+### 插件状态显示未连接？
 
 请确认已成功安装 Kimi WebBridge 浏览器插件，然后根据你的使用方式操作：
 
@@ -51,25 +51,25 @@ Kimi Claw Desktop 是部署在你本地电脑上的 Kimi Claw。打开 Kimi 桌�
   ]}
 />
 
-### WebBridge 会泄露我的登录信息吗？**
+### WebBridge 会泄露我的登录信息吗？
 
 不会。所有执行都在你本地完成，登录态和网页内容不会离开你的设备。Agent 只能获取你授权的操作结果。
 
-### 为什么有时候操作会失败？**
+### 为什么有时候操作会失败？
 
 网页结构复杂或动态加载可能导致操作失败。可以尝试简化指令，或让 Agent 先截图确认页面状态后再执行操作。
 
-### 支持哪些浏览器？**
+### 支持哪些浏览器？
 
 目前支持 Chrome 和 Edge 浏览器，建议使用最新版本以获得最佳体验。
 
 ## 与其他 Agent 配合
 
-### 除了 Kimi，还支持哪些 Agent？**
+### 除了 Kimi，还支持哪些 Agent？
 
 WebBridge 支持所有 Local Agent，包括 Claude Code、Codex、Cursor、Kimi Code、Hermers Claw 等。
 
-### 不同 Agent 的配置方式一样吗？**
+### 不同 Agent 的配置方式一样吗？
 
 配置指令相同，都是运行一条 curl 命令完成安装。具体可参考各 Agent 的 Skill 配置方式。
 

@@ -63,7 +63,7 @@ Download the extension package from the [Kimi WebBridge official website](https:
 #### Method 1: pair with Kimi Claw Desktop
 
 1. Download Kimi Desktop (available for macOS / Windows from the official website)
-   - Kimi Claw Desktop requires an **Allegretto or higher** plan. See [Membership Plans](https://kimi.com/pricing).
+   - Kimi Claw Desktop requires an **Allegretto or higher** plan. See [Membership Plans](https://www.kimi.com/membership/pricing).
 
 2. Deploy Kimi Claw
    1. Open Kimi Desktop, find Kimi Claw in the left sidebar, and click "Add Claw"

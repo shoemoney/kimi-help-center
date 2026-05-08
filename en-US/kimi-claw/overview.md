@@ -28,7 +28,9 @@ preview_content: "Deploy and manage your own Kimi Claw AI assistant in the cloud
 Don't have an OpenClaw yet? Head to [kimi.com/bot](https://kimi.com/bot) to create one. Kimi deploys it to the cloud for you — no server purchases, no command-line setup.
 
 <Callout type="warning">
-- One-click deploy requires an **Allegretto or higher** plan. See [Membership Plans](https://kimi.com/pricing).
+
+- One-click deploy requires an **Allegretto or higher** plan. [Membership Plans](https://www.kimi.com/membership/pricing).
+
 </Callout>
 
 - Kimi automatically provisions the K2.6 Thinking model, connects your Kimi Code credits, and enables Kimi Web Search — no separate API configuration needed.

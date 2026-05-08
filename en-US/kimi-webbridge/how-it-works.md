@@ -14,6 +14,8 @@ preview: false
 
 # How Kimi WebBridge Works
 
+## Workflow
+
 Kimi WebBridge operates as follows:
 
 1. **Local Bridge Service**: A local service runs on your computer to receive instructions from the Agent

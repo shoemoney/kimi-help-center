@@ -14,6 +14,8 @@ preview: false
 
 # Kimi WebBridge工作原理
 
+## 工作方式
+
 Kimi WebBridge 通过以下方式工作：
 
 1. **本地桥接服务**：在你的电脑上运行一个本地服务，接收 Agent 的指令

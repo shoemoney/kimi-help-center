@@ -6,13 +6,12 @@ extract_headings: false
 preview: true
 preview_content: "Explore Kimi's chat modes, AI agents, file handling, and interface guide to get started."
 ---
-
-# Kimi overview
-
 <SeoMeta
   title="Kimi overview - Kimi Help Center"
   description="Explore Kimi's chat modes, AI agents, file handling, and interface guide to get started."
 />
+
+# Kimi overview
 
 <Callout type="info">
 Kimi is an AI assistant developed by Moonshot AI, with built-in web search, deep thinking, multimodal reasoning, and ultra-long context conversations.

@@ -7,12 +7,12 @@ preview: true
 preview_content: "Create and edit Word, PDF, and Excel documents with AI-powered Kimi Docs and Kimi Sheets."
 ---
 
-# Kimi Docs & Kimi Sheets
-
 <SeoMeta
   title="Kimi Docs \u0026 Kimi Sheets Overview - Kimi Help Center"
   description="Create and edit Word, PDF, and Excel documents with AI-powered Kimi Docs and Kimi Sheets."
 />
+
+# Kimi Docs & Kimi Sheets
 
 <Callout type="info">
 On January 27, 2026, Moonshot AI released Kimi K2.5, bringing major upgrades to Kimi Agent's productivity capabilities. Kimi Agent now "masters Office" with end-to-end file output for Word, PDF, Excel, and Slides.

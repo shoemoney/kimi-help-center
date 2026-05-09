@@ -19,6 +19,7 @@ Frequently asked questions about Kimi API developer accounts, verification, and 
 
 ## Can a personal account get a business invoice?
 A personal account **cannot directly receive a business invoice**. If you need a business invoice, first upgrade your account to an organization account. Once verified, you can request invoices under your organization's name.
+
 ## How do I upgrade from a personal account to an organization account?
 1. Log in to the [platform.moonshot.ai](https://platform.moonshot.ai) console.
 2. Go to **Account Settings → Verification**.
@@ -53,6 +54,7 @@ To change your registered email, contact support:
 1. Send an email to **support@moonshot.ai** with the subject line "Email Change Request".
 2. Provide both your current and new email addresses.
 3. Identity verification may be required to ensure account security.
+
 ## Benefits of completing verification
 - **Higher Rate Limits**: Verified users are eligible for higher API call rates.
 - **Full Feature Access**: Some advanced features may only be available to verified users.

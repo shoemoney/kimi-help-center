@@ -37,6 +37,17 @@ Best for:
 - Account-related questions (non-billing)
 - Feature requests and feedback
 
+## API service support
+
+**Email:** api-service@moonshot.ai.
+You can also go to [Kimi OpenPlatform Community](https://forum.moonshot.ai/)
+
+Best for:
+
+- API related questions
+- Technical issues while using Kimi API
+- Feature requests and feedback
+
 ## In-product feedback
 
 You can also submit feedback directly inside Kimi:

@@ -1,6 +1,6 @@
 ---
 title: "Kimi Websites"
-slug: "Websites-overview"
+slug: "websites-overview"
 order: 1
 extract_headings: false
 preview: true

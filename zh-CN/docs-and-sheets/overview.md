@@ -56,7 +56,7 @@ Kimi 可以像版面设计师一样，帮你策划视觉专题，自动编排图
 />
 
 1. **打开浏览器**：使用 Chrome、Safari、Edge、Firefox 等主流浏览器
-2. **打开官方访问地址**：Kimi Docs 专属页面：https://www.kimi.com/docs，支持中文/英文两种界面
+2. **打开官方访问地址**：Kimi Docs 专属页面：[https://www.kimi.com/docs](https://www.kimi.com/docs) ，支持中文/英文两种界面
 3. **登录账号**：使用 Kimi 账号登录（支持手机号、邮箱注册）
 4. **输入文档任务**：Kimi Docs 提供三种主要生成方式：
    1. **文字输入**：在对话框中输入任务，用自然语言描述想要创作的文档

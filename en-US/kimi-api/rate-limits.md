@@ -11,11 +11,13 @@ preview: false
   description="Kimi API enforces rate limits on request frequency and concurrency to ensure platform stability and fair usage. Rate limit tiers are based on your account's..."
 />
 
+# Rate limits
+
 Kimi API enforces rate limits on request frequency and concurrency to ensure platform stability and fair usage. Rate limit tiers are based on your account's cumulative top-up amount.
 
 ## Rate limit tiers
 
-API rate limits are tiered based on your account's **cumulative top-up amount** — the more you've topped up, the higher your available rate limits. For specific tier thresholds and corresponding RPM (requests per minute) and TPM (tokens per minute) limits, refer to the [platform.moonshot.ai](https://platform.moonshot.ai) console.
+API rate limits are tiered based on your account's **cumulative top-up amount** — the more you've topped up, the higher your available rate limits. For specific tier thresholds and corresponding RPM (requests per minute) and TPM (tokens per minute) limits, refer to the [platform.moonshot.ai](https://www.platform.moonshot.ai) console.
 
 ## How to check current limits？
 
@@ -38,4 +40,4 @@ When your request frequency exceeds the limit, the API returns a 429 status code
 If your business needs exceed the current rate limits:
 
 - **Top up to upgrade**: Increase your cumulative top-up amount and the system will automatically upgrade your rate limit tier.
-- **Contact sales**: For special requirements, reach out to the platform sales team via [platform.moonshot.ai/contact-sales](https://platform.moonshot.ai/contact-sales) to request a custom rate quota.
+- **Contact sales**: For special requirements, reach out to the platform sales team via [platform.moonshot.ai/contact-sales](https://www.platform.moonshot.ai/contact-sales) to request a custom rate quota.

@@ -18,7 +18,7 @@ The Kimi API platform provides developers with powerful large language model cap
 
 Kimi API is powered by Moonshot's proprietary large language models, offering text generation, multi-turn conversations, file parsing, web search, and other core capabilities. The platform is compatible with the OpenAI API format, enabling developers to migrate and integrate with minimal effort.
 
-**Platform URL**: [platform.moonshot.ai](https://platform.moonshot.ai)
+**Platform URL**: [platform.moonshot.ai](https://www.platform.moonshot.ai)
 
 ## Target audience
 

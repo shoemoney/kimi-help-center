@@ -19,7 +19,7 @@ Choose the right Kimi API model based on capability, speed, and pricing.
 
 Kimi API offers multiple models for developers to choose from.
 ## Available models
-Visit [platform.moonshot.ai/docs/introduction](https://platform.moonshot.ai/docs/introduction) for the complete model list and detailed specifications.
+Visit [platform.moonshot.ai/docs/introduction](https://www.platform.moonshot.ai/docs/introduction) for the complete model list and detailed specifications.
 When selecting a model, you can consider:
 | Dimension | Consideration |
 | --- | --- |

@@ -11,6 +11,8 @@ preview: false
   description="Kimi API provides multiple ways to view your account balance and usage details, helping you track consumption and costs."
 />
 
+# Balance & usage
+
 Kimi API provides multiple ways to view your account balance and usage details, helping you track consumption and costs.
 
 ## Console dashboard

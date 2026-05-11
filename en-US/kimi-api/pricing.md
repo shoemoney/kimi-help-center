@@ -41,9 +41,7 @@ Refer to the official documentation for detailed Context Caching pricing.
 
 For the complete model pricing table and billing rules:
 
-<Callout type="info">
-[platform.moonshot.ai/docs/pricing/chat](https://platform.moonshot.ai/docs/pricing/chat)
-</Callout>
+You can go to [platform.moonshot.ai/docs/pricing/chat](https://www.platform.moonshot.ai/docs/pricing/chat)
 
 ## Cost optimization tips
 

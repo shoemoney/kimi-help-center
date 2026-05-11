@@ -11,6 +11,8 @@ preview: false
   description="I am a professional securities analyst. Please help me conduct an in-depth analysis of Pop Mart from a financial perspective. The analysis should include but..."
 />
 
+# Deep Research use cases & prompt library
+
 ## Use case overview
 
 | Scenario | Example prompt |

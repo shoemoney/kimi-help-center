@@ -6,13 +6,12 @@ extract_headings: false
 preview: true
 preview_content: "Discover how Deep Research autonomously plans, searches, and delivers 10,000+ word research reports."
 ---
-
-# Deep Research
-
 <SeoMeta
   title="Deep Research Overview - Kimi Help Center"
   description="Discover how Deep Research autonomously plans, searches, and delivers 10,000+ word research reports."
 />
+
+# Deep Research
 
 <Callout type="info">
 **Deep Research** is Kimi's first Agent product, powered by the Kimi-Researcher model. It doesn't just answer questions — it works like a real researcher, autonomously completing the entire workflow from task planning to report delivery.

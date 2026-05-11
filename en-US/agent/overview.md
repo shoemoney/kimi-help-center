@@ -7,12 +7,12 @@ preview: true
 preview_content: "Learn about K2.6 Agent's autonomous task execution, 20+ tools, and supported use cases."
 ---
 
-# K2.6 Agent overview
-
 <SeoMeta
   title="K2.6 Agent Overview - Kimi Help Center"
   description="Discover Kimi K2.6 Agent's capabilities, evolution, and use cases."
 />
+
+# K2.6 Agent overview
 
 Kimi K2.6 Agent is an autonomous AI assistant that handles complex tasks end-to-end. Powered by the K2.6 model, it uses 20+ tools to build websites, generate documents, analyze data, and more.
 

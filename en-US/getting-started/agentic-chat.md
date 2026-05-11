@@ -11,9 +11,10 @@ preview: false
   description="You can type questions in the chat box, upload files, or switch between models depending on your needs."
 />
 
-You can type questions in the chat box, upload files, or switch between models depending on your needs.
+# Getting started with Kimi
 
-Open [kimi.com](https://kimi.com) and try sending a message — say hello to Kimi:
+You can type questions in the chat box, upload files, or switch between models depending on your needs.
+Open [kimi.com](https://www.kimi.com) and try sending a message — say hello to Kimi:
 
 <CodePreview
   files={[

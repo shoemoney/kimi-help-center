@@ -11,6 +11,8 @@ preview: false
   description="Kimi has truly learned to listen — the more you talk, the better it understands you. Here's how it works:"
 />
 
+# Memory space
+
 ## What is memory?
 Kimi has truly learned to listen — the more you talk, the better it understands you. Here's how it works:
 

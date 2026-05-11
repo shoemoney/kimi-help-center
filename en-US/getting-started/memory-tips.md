@@ -11,6 +11,8 @@ preview: false
   description="I'm name/nickname, currently based in city. Background in profession/role, with expertise in area 1 and area 2."
 />
 
+# Memory tips
+
 ## 1. Help Kimi understand your world
 
 ### Identity anchoring

@@ -11,7 +11,7 @@ preview: false
   description="Q: Where can I submit feedback?"
 />
 
-## Contact&feedback
+# Contact&feedback
 
 **Q: Where can I submit feedback?**
 

@@ -11,6 +11,8 @@ preview: false
   description="Presets are Kimi's quick-prompt feature, letting you save frequently used prompts and invoke them with a single click in any session — no more repetitive typ..."
 />
 
+# Presets
+
 Presets are Kimi's quick-prompt feature, letting you save frequently used prompts and invoke them with a single click in any session — no more repetitive typing.
 
 ## When should you use presets?

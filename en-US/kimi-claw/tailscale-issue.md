@@ -11,6 +11,8 @@ preview: false
   description="If Kimi Claw loses connectivity after you set up Tailscale, the cause is almost always a DNS override — Tailscale replaces the system's DNS settings, which b..."
 />
 
+# Tailscale disconnection
+
 If Kimi Claw loses connectivity after you set up Tailscale, the cause is almost always a DNS override — Tailscale replaces the system's DNS settings, which breaks Kimi Claw's ability to resolve hostnames.
 
 ## How to fix？

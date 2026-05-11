@@ -11,6 +11,8 @@ preview: false
   description="Image: 截图30"
 />
 
+# Core concepts & terminal
+
 ## Key concepts
 
 | Concept | Description |

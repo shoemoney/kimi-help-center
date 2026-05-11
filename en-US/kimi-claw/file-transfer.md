@@ -11,6 +11,8 @@ preview: false
   description="Kimi Claw supports sending and receiving files."
 />
 
+# File transfer
+
 Kimi Claw supports sending and receiving files.
 
 ## Send files to Kimi Claw

@@ -11,7 +11,7 @@ preview: false
   description="When the conversation context grows too long and exceeds the model's token limit, Kimi Claw may stop responding or return an error."
 />
 
-## Token limit exceeded?
+# Conversation limits
 
 When the conversation context grows too long and exceeds the model's token limit, Kimi Claw may stop responding or return an error.
 

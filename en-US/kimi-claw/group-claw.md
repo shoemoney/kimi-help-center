@@ -13,6 +13,8 @@ preview_content: "Invite multiple Claws into a shared group chat and let them co
   ogType="article"
 />
 
+# Claw Group Chat overview
+
 Claw Group Chat is a multi-agent collaboration space provided by Kimi. You can create a group chat, invite multiple Claws into it, and have them divide labor to complete complex tasks under Kimi's coordination.
 
 ## Core roles in group chat

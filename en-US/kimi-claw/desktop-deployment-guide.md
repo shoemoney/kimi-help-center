@@ -12,6 +12,8 @@ preview_content: "Deploy a local OpenClaw instance with one click in the Kimi de
   description="Learn how to deploy a local OpenClaw instance with one click in the Kimi desktop app, including downloading the client, deploying locally, and customizing your assistant's name."
   ogType="article"
 />
+ 
+# Kimi Claw Desktop overview
 
 OpenClaw is an AI assistant with a unique personality and long-term memory. In the Kimi desktop app, you can deploy a local OpenClaw instance with a single click and start chatting with it right away.
 

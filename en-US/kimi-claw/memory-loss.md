@@ -11,6 +11,8 @@ preview: false
   description="OpenClaw automatically resets the conversation at 4:00 AM daily. This prevents overly long contexts from causing hallucinations or degraded response quality."
 />
 
+# Memory loss & context
+
 ## Why is yesterday's conversation gone?
 
 OpenClaw automatically resets the conversation at **4:00 AM daily**. This prevents overly long contexts from causing hallucinations or degraded response quality.

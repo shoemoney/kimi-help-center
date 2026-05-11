@@ -11,7 +11,7 @@ preview: false
   description="Kimi Claw is available on the following platforms:"
 />
 
-## Supported platforms
+# Supported platforms
 Kimi Claw is available on the following platforms:
 
 - **Web** — Full-featured access at [kimi.com](https://kimi.com), including conversations, settings, terminal, and workspace management.

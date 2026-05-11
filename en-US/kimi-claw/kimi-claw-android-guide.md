@@ -12,9 +12,9 @@ preview: false
   ogType="article"
 />
 
-<Callout type="tip">
+# Kimi Claw Android overview
+
 This article will introduce how to deploy OpenClaw to Android phones and turn your idle phone into your 24/7 AI remote assistant. You can remotely control your phone, use apps, connect to smart homes, and create your own personalized assistant through messaging apps such as Kimi, Feishu, and WeChat.
-</Callout>
 
 It is recommended to deploy Kimi Claw Android on idle phones to avoid permission conflicts with daily use. Please do not manually upgrade the OpenClaw version; official adapted updates will be delivered through in-app version updates.
 

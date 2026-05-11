@@ -16,7 +16,6 @@ preview_content: "Troubleshooting and Feedback Guide for Slides: Feature Not Fou
 
 If you can't find the Slides feature entry point, can't open a generated presentation, or notice something abnormal with the downloaded file, try the following troubleshooting steps.
 
-
 ## Kimi Slides Access
 
 1. **Web**: Open [kimi.com](https://www.kimi.com/), click the Slides shortcut below the chat input box, or visit [Kimi Slides](https://www.kimi.com/slides) directly.

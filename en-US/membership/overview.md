@@ -7,12 +7,14 @@ preview: true
 preview_content: "Compare Kimi's five membership tiers, credit system, and billing options."
 ---
 
-Kimi offers five membership tiers — including a free plan — designed to scale with your needs, from everyday productivity to power-user workflows. All plans use a unified credit pool, so your credits work across every Kimi feature.
-
 <SeoMeta
   title="Kimi membership overview - Kimi Help Center"
   description="Compare Kimi's five membership tiers, credit system, and billing options."
 />
+
+# Membership plans overview
+
+Kimi offers five membership tiers — including a free plan — designed to scale with your needs, from everyday productivity to power-user workflows. All plans use a unified credit pool, so your credits work across every Kimi feature.
 
 ## Plan comparison
 

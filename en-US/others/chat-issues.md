@@ -11,6 +11,8 @@ preview: false
   description="This may be caused by:"
 />
 
+# Kimi chat common issues
+
 ## Can't send messages / red circle appears?
 
 This may be caused by:

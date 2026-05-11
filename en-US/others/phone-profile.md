@@ -11,6 +11,8 @@ preview: false
   description="Yes. Navigate to:"
 />
 
+# Account & profile settings
+
 ## Can I change my linked email or sign-in method?
 Yes. Navigate to:
 **Kimi App** → **Profile** → **Settings** → **Account Security** → **Email** → **Change**

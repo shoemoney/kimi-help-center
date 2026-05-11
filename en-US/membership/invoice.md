@@ -11,6 +11,8 @@ preview: false
   description="Kimi supports self-service invoice generation for your membership payments."
 />
 
+# Invoices
+
 Kimi supports self-service invoice generation for your membership payments.
 
 ## How to get an invoice？

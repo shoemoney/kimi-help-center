@@ -11,6 +11,8 @@ preview: false
   description="You can cancel auto-renewal at any time. After cancellation, your membership benefits remain active until the end of the current billing cycle."
 />
 
+# Cancel subscription
+
 You can cancel auto-renewal at any time. After cancellation, your membership benefits remain active until the end of the current billing cycle.
 
 ## How to cancel auto-renewal?

@@ -11,6 +11,8 @@ preview: false
   description="Kimi offers five membership tiers — including a free plan — each available as a monthly or annual subscription. Annual billing saves you up to $480/year."
 />
 
+# Pricing details
+
 Kimi offers five membership tiers — including a free plan — each available as a monthly or annual subscription. Annual billing saves you up to **$480/year**.
 
 ## Plans at a glance

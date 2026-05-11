@@ -12,6 +12,8 @@ preview_content: "Find answers to common account, profile, and data management q
   description="Find answers to common account, profile, and data management questions."
 />
 
+# Account deletion & data removal
+
 ## How to delete account?
 In the app: **Settings** → **Account Security** → **Delete Account**, then submit the deletion request.
 

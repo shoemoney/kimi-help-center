@@ -11,6 +11,8 @@ preview: false
   description="Need help? Here's how to reach us."
 />
 
+# Contact us
+
 Need help? Here's how to reach us.
 
 ## Billing & membership support

@@ -11,6 +11,8 @@ preview: false
   description="Running into trouble with billing? Here are the most common scenarios and how to resolve them."
 />
 
+# Payment issues
+
 Running into trouble with billing? Here are the most common scenarios and how to resolve them.
 
 ## Signed up but not a member?

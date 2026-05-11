@@ -11,16 +11,18 @@ preview: false
   description="Kimi Code benefits can be used with Claude Code and Roo Code, allowing you to enjoy Kimi's AI capabilities within your preferred coding tools."
 />
 
+# Using with third-party coding agents
+
 Kimi Code benefits can be used with Claude Code and Roo Code, allowing you to enjoy Kimi's AI capabilities within your preferred coding tools.
 
 ## Prerequisites
 
 - An active Kimi membership with Kimi Code benefits enabled.
-- An API Key (created in the [Kimi Console](https://kimi.com/code)).
+- An API Key (created in the [Kimi Console](https://www.kimi.com/code)).
 
 ## Using with Claude Code
 
-[Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) is a command-line coding assistant by Anthropic.
+[Claude Code](https://www.docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) is a command-line coding assistant by Anthropic.
 
 ### Configuration steps
 
@@ -54,7 +56,7 @@ Kimi Code benefits can be used with Claude Code and Roo Code, allowing you to en
 
 ## Using with Roo Code
 
-[Roo Code](https://github.com/RooCodeInc/Roo-Code) is an AI coding extension for VS Code.
+[Roo Code](https://www.github.com/RooCodeInc/Roo-Code) is an AI coding extension for VS Code.
 
 ### Install Roo Code
 

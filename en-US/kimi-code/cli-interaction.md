@@ -11,6 +11,8 @@ preview: false
   description="Kimi Code CLI provides multiple interaction methods to help you collaborate with the AI efficiently."
 />
 
+# Interaction & input
+
 Kimi Code CLI provides multiple interaction methods to help you collaborate with the AI efficiently.
 
 ## Agent mode vs. shell mode

@@ -23,7 +23,7 @@ Before configuring your IDE, make sure Kimi Code CLI is installed and you have c
 
 ## Using with Zed
 
-[Zed](https://zed.dev/) is a modern IDE with native ACP support.
+[Zed](https://www.zed.dev/) is a modern IDE with native ACP support.
 
 Add the following configuration to Zed's settings file `~/.config/zed/settings.json`:
 

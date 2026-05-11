@@ -11,6 +11,8 @@ preview: false
   description="Kimi Code CLI supports multi-session management and context persistence, allowing you to pause and resume work at any time."
 />
 
+# Sessions & context
+
 Kimi Code CLI supports multi-session management and context persistence, allowing you to pause and resume work at any time.
 
 ## Session resumption

@@ -11,6 +11,8 @@ preview: false
   description="Kimi Code CLI offers extensive customization options, allowing you to tailor the AI's behavior and workflow to your needs."
 />
 
+# Customization & reference
+
 Kimi Code CLI offers extensive customization options, allowing you to tailor the AI's behavior and workflow to your needs.
 
 ## Configuration file
@@ -71,4 +73,4 @@ Environment variables take priority over settings in the configuration file.
 
 - **Slash Command Reference**: Use `/help` to view all available commands.
 - **CLI Parameter Reference**: Run `kimi --help` to view all launch parameters.
-- **Official Documentation**: Visit [Kimi Code Docs](https://kimi.com/code/docs) for the latest complete documentation.
+- **Official Documentation**: Visit [Kimi Code Docs](https://www.kimi.com/code/docs) for the latest complete documentation.

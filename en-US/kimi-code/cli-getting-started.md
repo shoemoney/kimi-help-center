@@ -12,6 +12,8 @@ preview_content: "Set up Kimi Code with CLI, VS Code, or third-party agents usin
   description="Set up Kimi Code with CLI, VS Code, or third-party agents using your membership benefits."
 />
 
+# Getting started with Kimi Code
+
 Kimi Code CLI is an AI Agent that runs in your terminal, helping you complete software development tasks and terminal operations. It can read and edit code, execute Shell commands, search and scrape the web, and autonomously plan and adjust its actions during execution.
 
 ## Use cases
@@ -20,7 +22,7 @@ Kimi Code CLI is an AI Agent that runs in your terminal, helping you complete so
 - **Understand Projects**: Exploring unfamiliar codebases and answering questions about architecture and implementation.
 - **Automate Tasks**: Batch processing files, executing builds and tests, and running scripts.
 
-If you have any issues suggestions, provide feedback on [GitHub Issues](https://github.com/MoonshotAI/kimi-cli/issues) 
+If you have any issues suggestions, provide feedback on [GitHub Issues](https://www.github.com/MoonshotAI/kimi-cli/issues) 
 
 ## Ways to use
 

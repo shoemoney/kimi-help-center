@@ -1,5 +1,5 @@
 ---
-title: "计费、充值与开票"
+title: "充值与开票"
 slug: "api-billing-and-finance"
 order: 10
 extract_headings: true
@@ -12,7 +12,7 @@ preview_content: "API 充值、发票开具与退款政策说明。"
   description="了解 Kimi API 的账单生成规则、充值方式、发票申请流程和财务相关常见问题，方便企业用户进行费用管理。"
 />
 
-# 计费、充值与开票
+# 充值与开票
 
 以下是 Kimi API 计费与财务相关的常见问题。
 

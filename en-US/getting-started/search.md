@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Agentic search - Kimi Help Center"
+  title="Agentic Search for Guides and Answers｜Kimi Help Center"
   description="Kimi's Agentic Search is built on an end-to-end agentic reinforcement learning architecture. Unlike traditional tool-orchestration approaches, it lets the AI..."
 />
 

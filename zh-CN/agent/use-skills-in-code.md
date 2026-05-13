@@ -23,7 +23,7 @@ Kimi Code 是专为开发者设计的 AI 编程助手，可以直接在终端或
 
 ## 调用技能（Skills）
 
-Kimi Code CLI 使用斜杠命令调用 Skill：
+Kimi Code CLI 使用斜杠命令调用 Skills：
 
 <CodePreview
   files={[
@@ -37,7 +37,7 @@ Kimi Code CLI 使用斜杠命令调用 Skill：
 
 例如输入 `/skill:git-commits`，Kimi Code 会读取对应 `SKILL.md` 的内容，并将其作为指令发送给 Agent。
 
-斜杠命令后面还可以附带额外描述，内容会追加在 Skill 指令之后：
+斜杠命令后面还可以附带额外描述，内容会追加在 Skills 指令之后：
 
 <CodePreview
   files={[
@@ -49,11 +49,11 @@ Kimi Code CLI 使用斜杠命令调用 Skill：
   ]}
 />
 
-如果只是普通对话，不需要手动调用——Agent 会根据上下文自动判断是否需要读取 Skill 内容。
+如果只是普通对话，不需要手动调用——Agent 会根据上下文自动判断是否需要读取 Skills 内容。
 
-## 创建你的第一个 Skill
+## 创建你的第一个 Skills
 
-创建 Skill 只需两步：在 Skills 目录下新建一个子目录，然后在里面创建 `SKILL.md` 文件。
+创建 Skills 只需两步：在 Skills 目录下新建一个子目录，然后在里面创建 `SKILL.md` 文件。
 
 推荐的存放位置（对所有项目生效）：
 
@@ -81,9 +81,9 @@ Kimi Code CLI 使用斜杠命令调用 Skill：
 
 Frontmatter 中 `name` 和 `description` 均为可选字段，省略时默认使用目录名。
 
-### 示例：用 Skill 固化 Git 提交规范
+### 示例：用 Skills 固化 Git 提交规范
 
-团队规定提交信息必须遵循 Conventional Commits 格式，但每次都要重新说明很麻烦。把规范写成 Skill，之后只需一条命令就能调用。
+团队规定提交信息必须遵循 Conventional Commits 格式，但每次都要重新说明很麻烦。把规范写成 Skills，之后只需一条命令就能调用。
 
 **第一步：创建 Skill 文件**
 
@@ -97,7 +97,7 @@ Frontmatter 中 `name` 和 `description` 均为可选字段，省略时默认使
   ]}
 />
 
-**第二步：完成代码修改后，调用 Skill**
+**第二步：完成代码修改后，调用 Skills**
 
 <CodePreview
   files={[
@@ -111,11 +111,11 @@ Frontmatter 中 `name` 和 `description` 均为可选字段，省略时默认使
 
 Kimi Code 会读取你的规范，结合任务描述，直接输出符合格式的提交信息，不需要你再重复说明任何格式要求。
 
-## Flow Skill：定义多步骤工作流
+## Flow Skills：定义多步骤工作流
 
-普通 Skill 提供的是静态规范，**Flow Skill** 则可以定义一套自动执行的多步骤流程。
+普通 Skills 提供的是静态规范，**Flow Skills** 则可以定义一套自动执行的多步骤流程。
 
-在 Frontmatter 中设置 `type: flow`，并在内容中嵌入 Mermaid 或 D2 格式的流程图，即可创建 Flow Skill。
+在 Frontmatter 中设置 `type: flow`，并在内容中嵌入 Mermaid 或 D2 格式的流程图，即可创建 Flow Skills。
 
 <CodePreview
   files={[
@@ -129,9 +129,9 @@ Kimi Code 会读取你的规范，结合任务描述，直接输出符合格式�
 
 使用 `/flow:<name>` 命令执行，Agent 会从 `BEGIN` 节点开始，按流程图自动完成每个步骤，直到到达 `END`。
 
-## Skill 加载机制
+## Skills 加载机制
 
-Kimi Code CLI 按以下优先级查找并加载 Skills（先加载的同名 Skill 优先）：
+Kimi Code CLI 按以下优先级查找并加载 Skills（先加载的同名 Skills 优先）：
 
 1. **内置 Skills**：随软件包安装，提供基础能力
 2. **用户级 Skills**：存放在主目录中，对所有项目生效

@@ -98,7 +98,7 @@ No document on hand? Just describe your needs in chat and Kimi will guide you th
 Type `/skill-creator` in the input box, then describe what you want the Skill to do. Kimi will turn your requirements into a complete Skill.
 
 <Frames
-  src="./images/skills/skill-creator.png"
+  src="./images/skills/create-skill-en.png"
   alt="Creating a Skill through conversation"
 />
 

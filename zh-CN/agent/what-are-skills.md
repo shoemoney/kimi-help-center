@@ -40,12 +40,30 @@ preview: false
 
 为保证对话效率，Agent 并不会一次性加载技能的全部内容，而是通过“渐进式披露”机制，在对话中判断哪些技能与当前任务相关，然后仅加载完成任务所需的信息，从而避免上下文窗口过载。
 
-一个标准的技能文件夹通常包含以下几个部分：
+**SKILL.md基础模版：**
 
-- SKILL.md：Skill的使用说明书和元数据文件，可向 Agent 说明技能的名称和用途。
-- scripts：存放可执行的代码文件，用于执行确定性的计算任务。
-- references：存放技能相关的参考文档，例如第三方 API 文档、设计文档、等。
-- assets：存放技能依赖的静态资源和模板，为智能体提供执行任务所需的额外信息。
+<CodePreview
+  files={[
+    {
+      name: "SKILL.md",
+      language: "bash",
+      content: "---
+name: your-skill-name
+description: What it does and when Claude should use it
+---
+
+# Skill Title
+
+## Instructions
+Clear, concrete, actionable rules.
+
+## Examples
+- Example usage 1
+- Example usage 2
+
+## Guidelines
+- Guideline 1
+- Guideline 2
 
 ## 技能（Skills）和直接提问有什么区别？
 
@@ -56,7 +74,11 @@ preview: false
 | 每次是否需要说明要求 | 是 | 否，自动应用 |
 | 输出格式是否稳定 | 不固定 | 按技能定义一致 |
 | 适合场景 | 一次性、临时任务 | 反复执行的固定流程 |
-| 是否需要提前设置 | 不需要 | 需要创建或安装技能 |
+| 是否需要提前设置 | 不需要 | 需要创建或安装技能 |",
+    },
+  ]}
+/>
+
 
 ## 技能（Skills）类型
 

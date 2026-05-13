@@ -14,12 +14,6 @@ preview: false
 
 # Using Skills in Kimi Claw
 
-## What are Skills in Claw?
-
-Kimi Claw is an AI agent that runs persistently on your device. Skills give Claw a "work manual" — so it knows exactly how to handle specific tasks, what steps to follow, and what output format and standards you prefer.
-
-Think of Skills as personalized training for Claw: the Skills you install shape how it works.
-
 ## Get and Manage Skills
 
 ### Download Skills from Kimi

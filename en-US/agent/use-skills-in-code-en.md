@@ -16,16 +16,14 @@ preview: false
 
 ## What are Skills in Kimi Code?
 
-Kimi Code is an AI coding assistant built for developers — it runs in your terminal or editor and helps you write code, fix bugs, and generate documentation.
+Kimi Code is an AI coding assistant built for developers — it runs in your terminal or editor and helps you write code, fix bugs, and generate documentation.Skills can provide guidance through a `SKILL.md` file. The AI reads it and follows the rules inside. Best for defining code style, workflows, and best practices.
 
-In Kimi Code, Skills act as **reusable specification guides**. Write your team's coding style, commit conventions, or review standards into a Skill once, and Kimi Code will follow them automatically every time — no need to repeat yourself.
 
-Kimi Code supports two extension mechanisms with different purposes:
+<Frames
+  src="./images/skills/kimi-code-skill.png"
+  alt="slash to invoke skill"
+/>
 
-- **Skills**: Provide guidance through a `SKILL.md` file. The AI reads it and follows the rules inside. Best for defining code style, workflows, and best practices.
-- **Plugins**: Declare executable tools via `plugin.json`. The AI can call them directly to get results. Best for wrapping scripts, API calls, and database queries.
-
-This article covers Skills.
 
 ## Invoke a Skill
 

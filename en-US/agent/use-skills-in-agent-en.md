@@ -45,10 +45,13 @@ Just describe what you need — no manual selection required. Kimi reads your re
 Say you're a content marketer who wants to audit your site's SEO performance:
 
 1. Type `/` in the input box, find and select the `seo-analyzer` Skill.
-2. Add your request: `Analyze the SEO performance of https://example.com and list the main issues with improvement suggestions.`
+2. Add your request: `Analyze the SEO performance of https://www.kimi.com/help and list the main issues with improvement suggestions.`
 3. Kimi follows the workflow defined in the Skill — searching, organizing, and outputting a structured report automatically.
 
-You don't need to tell Kimi how to run the analysis. The Skill already defines every step.
+<Frames
+  src="./images/skills/SEO.png"
+  alt="SEO analyze"
+/>
 
 ## Discover and Manage Skills
 
@@ -95,7 +98,7 @@ No document on hand? Just describe your needs in chat and Kimi will guide you th
 Type `/skill-creator` in the input box, then describe what you want the Skill to do. Kimi will turn your requirements into a complete Skill.
 
 <Frames
-  src="./images/use-skills-in-agent/skill-creator.png"
+  src="./images/skills/skill-creator.png"
   alt="Creating a Skill through conversation"
 />
 
@@ -106,8 +109,6 @@ Switch to the **Custom Skills** tab in the **Skills** panel to edit, update docu
 <Frames
   src="./images/skills/managing-skills.png"
   alt="Managing custom Skills"
-  width={1920}
-  height={1080}
 />
 
 <Callout type="info">

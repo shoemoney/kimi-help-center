@@ -47,7 +47,7 @@ preview: false
     {
       name: "SKILL.md",
       language: "bash",
-      content: ---
+      content: “---
 name: your-skill-name
 description: What it does and when Claude should use it
 ---

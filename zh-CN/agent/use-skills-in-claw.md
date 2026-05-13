@@ -14,6 +14,8 @@ preview: false
 
 # 在 Kimi Claw 中使用技能（Skills）
 
+Kimi Claw 是一个具备独特个性与长期记忆能力的 AI 助手，它能在后台定时运行、跨平台协作、长期记忆上下文，把信息汇总、监控、通知等繁琐工作自动化。
+
 ## 获取和管理技能（Skills）
 
 ### 从 Kimi 下载技能（Skills）

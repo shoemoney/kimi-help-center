@@ -1,27 +1,31 @@
 ---
-
-## title: "在 Kimi Code 中使用技能"
+title: "在 Kimi Code 中使用技能"
 slug: "use-skills-in-code"
-order: 3
+order: 8
 extract_headings: false
 preview: false
+---
 
-
+<SeoMeta
+  title="在 Kimi Code 中使用技能 - Kimi 帮助中心"
+  description="了解如何在 Kimi Code CLI 中创建和调用 Skills，将团队编码规范和工作流固化为可复用的 AI 指令。"
+  ogType="article"
+/>
 
 # 在 Kimi Code 中使用技能（Skills）
 
-Kimi Code 支持通过 `SKILL.md` 提供知识性指导，AI 读取后遵循其中的规范。适合定义代码风格、工作流程、最佳实践。
+Kimi Code 是专为开发者设计的 AI 编程助手，可以直接在终端或编辑器中运行，帮你写代码、修 Bug、生成文档。Kimi Code 支持通过 `SKILL.md` 提供知识性指导，AI 读取后遵循其中的规范。适合定义代码风格、工作流程、最佳实践。
 
 ## 调用技能（Skills）
 
-Kimi Code CLI 支持使用斜杠命令调用 Skill：
+Kimi Code CLI 使用斜杠命令调用 Skill：
 
 <CodePreview
   files={[
     {
       name: "command.sh",
       language: "bash",
-      content: "/skill:",
+      content: "/skill:<name>",
     },
   ]}
 />
@@ -113,7 +117,7 @@ Kimi Code 会读取你的规范，结合任务描述，直接输出符合格式�
     {
       name: "~/.config/agents/skills/code-review/SKILL.md",
       language: "markdown",
-      content: "---\nname: code-review\ndescription: 代码审查工作流\ntype: flow\n---\n\n`mermaid\nflowchart TD\nA([BEGIN]) --> B[分析代码变更，列出所有修改的文件和功能]\nB --> C{代码质量是否达标？}\nC -->|是| D[生成代码审查报告]\nC -->|否| E[列出问题并提出改进建议]\nE --> B\nD --> F([END])\n`",
+      content: "---\nname: code-review\ndescription: 代码审查工作流\ntype: flow\n---\n\n```mermaid\nflowchart TD\nA([BEGIN]) --> B[分析代码变更，列出所有修改的文件和功能]\nB --> C{代码质量是否达标？}\nC -->|是| D[生成代码审查报告]\nC -->|否| E[列出问题并提出改进建议]\nE --> B\nD --> F([END])\n```",
     },
   ]}
 />
@@ -140,6 +144,8 @@ Kimi Code CLI 按以下优先级查找并加载 Skills（先加载的同名 Skil
   ]}
 />
 
+<Callout type="info">
 Kimi Code CLI 内置了两个实用 Skill：`kimi-cli-help`（解答 CLI 使用问题）和 `skill-creator`（引导你创建新的 Skill）。输入 `/skill:skill-creator` 即可开始。
+</Callout>
 
 完整的配置选项和参数说明，请参阅 [Kimi Code CLI Skills 文档](https://www.kimi.com/code/docs/kimi-code-cli/customization/skills.html)。

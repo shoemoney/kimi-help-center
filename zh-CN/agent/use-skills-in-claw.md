@@ -1,12 +1,16 @@
 ---
-
-## title: "在 Kimi Claw 中使用技能（Skills）"
+title: "在 Kimi Claw 中使用技能"
 slug: "use-skills-in-claw"
-order: 2
+order: 7
 extract_headings: false
 preview: false
+---
 
-
+<SeoMeta
+  title="在 Kimi Claw 中使用技能 - Kimi 帮助中心"
+  description="了解如何在 Kimi Claw 中下载、同步、调用和自定义技能，让 Claw 更高效地完成你的工作流任务。"
+  ogType="article"
+/>
 
 # 在 Kimi Claw 中使用技能（Skills）
 
@@ -20,7 +24,9 @@ preview: false
 2. 浏览技能列表，点击你需要的技能，选择 **下载到 Claw**。
 3. 下载后即可在 Claw 中直接调用。
 
+<Callout type="info">
 技能有更新时，不会自动覆盖本地版本。如需获取最新内容，请手动重新下载。
+</Callout>
 
 ### 同步 Kimi Agent 中的技能（Skills）
 
@@ -46,7 +52,9 @@ Kimi Claw 内置了 **Clawhub 技能库**，收录了经过验证的高质量技
 - 点击输入框旁的 **＋** 按钮，从菜单中选择
 - 直接输入技能名称
 
+<Callout type="warning">
 第三方 OpenClaw、本地端 Claw 以及桌面 Claw 的技能入口暂不可用。
+</Callout>
 
 ### 示例：让 Claw 按你的习惯整理市场信息
 
@@ -55,11 +63,17 @@ Kimi Claw 内置了 **Clawhub 技能库**，收录了经过验证的高质量技
 1. 在输入框输入 `/skill-creator`，告诉 Kimi："帮我做市场信息汇总时，先筛选权威来源，然后按'机会 / 风险 / 数据'三个维度整理，最后给出一个行动建议。"
 2. Kimi 会把这套流程生成为一个自定义技能。
 
+<Frames
+  src="./images/skills/行业动态.png"
+  alt="通过斜杠命令调用技能"
+/>
 
+3. 下次你只需要说"帮我汇总今天的新能源行业动态"，Claw 就会自动按这个结构输出，不需要你再重复说明。
 
-1. 下次你只需要说"帮我汇总今天的新能源行业动态"，Claw 就会自动按这个结构输出，不需要你再重复说明。
-
-
+<Frames
+  src="./images/skills/行业动态2.png"
+  alt="通过斜杠命令调用技能"
+/>
 
 ## 让 Claw 学习你的工作方式
 
@@ -71,7 +85,9 @@ Kimi Claw 内置了 **Clawhub 技能库**，收录了经过验证的高质量技
 
 **给模板**：告诉 Claw 你希望的输出格式。比如你写工作日报的结构是"今天做了什么 → 遇到的问题 → 明天计划 → 需要协助"，直接告诉 Claw，它以后就会按这个格式帮你整理。
 
+<Callout type="tip">
 通过技能和自定义工作方式的组合，Kimi Claw 能更快、更准确地完成任务，并持续生成符合你习惯的结果。
+</Callout>
 
 ## 移动端使用说明
 

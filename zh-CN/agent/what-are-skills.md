@@ -1,7 +1,7 @@
 ---
 title: "什么是技能（Skills）"
 slug: "what-are-skills"
-order: 1
+order: 5
 extract_headings: false
 preview: false
 ---

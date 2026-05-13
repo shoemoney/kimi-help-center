@@ -1,7 +1,7 @@
 ---
 title: "在 Agent 模式中使用技能"
 slug: "use-skills-in-agent"
-order: 1
+order: 6
 extract_headings: false
 preview: false
 ---
@@ -13,16 +13,6 @@ preview: false
 />
 
 # 在 Agent 模式中使用技能
-
-## 什么是技能？
-
-技能（Skills）是你可以交给 Kimi 的一套"工作说明书"。当你把任务描述发给 Kimi 时，Kimi 会根据你激活的技能，按照说明书里的步骤帮你完成工作——比如生成报告、整理文档、分析数据，或者执行你定义好的任何流程。
-
-你可以把技能理解为给 Kimi 配备的"专项助理"：不同的技能擅长不同的事，你随时可以切换和组合。
-
-<Callout type="info">
-技能支持在 Agent 模式和 Kimi Claw 中使用。带有 `swarm` 后缀的技能仅在 Swarm（Agent 集群）场景下可用，在其他场景中不会显示。
-</Callout>
 
 ## 如何调用技能
 
@@ -123,6 +113,10 @@ Kimi 提供了一批开箱即用的官方技能，点击即可添加：
   src="./images/skills/管理技能.png"
   alt="管理自定义技能"
 />
+
+<Callout type="info">
+技能支持在 Agent 模式和 Kimi Claw 中使用。带有 `swarm` 后缀的技能仅在 Swarm（Agent 集群）场景下可用，在其他场景中不会显示。
+</Callout>
 
 ## 写好技能描述的关键
 

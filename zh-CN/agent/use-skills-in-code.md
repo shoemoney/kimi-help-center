@@ -16,6 +16,11 @@ preview: false
 
 Kimi Code 是专为开发者设计的 AI 编程助手，可以直接在终端或编辑器中运行，帮你写代码、修 Bug、生成文档。Kimi Code 支持通过 `SKILL.md` 提供知识性指导，AI 读取后遵循其中的规范。适合定义代码风格、工作流程、最佳实践。
 
+<Frames
+  src="./images/skills/code-skill-zh.png"
+  alt="通过斜杠命令调用技能"
+/>
+
 ## 调用技能（Skills）
 
 Kimi Code CLI 使用斜杠命令调用 Skill：

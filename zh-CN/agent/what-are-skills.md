@@ -47,7 +47,7 @@ preview: false
     {
       name: "SKILL.md",
       language: "bash",
-      content: "---
+      content: ---
 name: your-skill-name
 description: What it does and when Claude should use it
 ---
@@ -63,7 +63,10 @@ Clear, concrete, actionable rules.
 
 ## Guidelines
 - Guideline 1
-- Guideline 2
+- Guideline 2"
+    },
+  ]}
+/>
 
 ## 技能（Skills）和直接提问有什么区别？
 
@@ -75,9 +78,6 @@ Clear, concrete, actionable rules.
 | 输出格式是否稳定 | 不固定 | 按技能定义一致 |
 | 适合场景 | 一次性、临时任务 | 反复执行的固定流程 |
 | 是否需要提前设置 | 不需要 | 需要创建或安装技能 |",
-    },
-  ]}
-/>
 
 
 ## 技能（Skills）类型
@@ -103,6 +103,14 @@ Clear, concrete, actionable rules.
 ### （2）社区 Skills
 
 在开源社区下载或安装适合的 Skills，搭配 Local Agent（如Kimi Code等）、云端 Agent（如Kimi Claw）使用
+
+# 常见 AI Skill Hub 平台
+
+| 平台名称 | 网址 | 简介 |
+|----------|------|------|
+| SkillsMP | https://skillsmp.com | AI Agent Skill 市场，收录来自 GitHub 的 SKILL.md 技能包，兼容 Claude Code 与 OpenAI Codex CLI |
+| SkillsLLM | https://skillsllm.com | 开源 AI Agent Skill 市场，收录 1600+ 经安全审查的技能，支持 Claude Code、Codex CLI 和 ChatGPT |
+| LobeHub Skills | https://lobehub.com/skills | 浏览与分发兼容 Claude Code、Codex CLI 及 ChatGPT 的 SKILL.md 技能包 |
 
 ### （3）自定义 Skills
 

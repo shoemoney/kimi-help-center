@@ -13,6 +13,8 @@ preview_content: "在 Kimi 桌面客户端一键部署本地 OpenClaw，打造�
   ogType="article"
 />
 
+# 一键部署 Kimi Claw Desktop
+
 OpenClaw 是一个具备独特个性与长期记忆能力的 AI 助手，在 Kimi PC 客户端里可以一键部署运行在本地的 OpenClaw，实现与 OpenClaw 的对话。
 
 <Frames

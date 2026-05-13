@@ -27,7 +27,7 @@ preview_content: "将 OpenClaw 部署到安卓手机，把闲置手机变成 7x2
 可以使用 Control（Command）+ F 快速查找报错信息/关键词。
 </Callout>
 
-## Kimi Claw Android 介绍
+# Kimi Claw Android 介绍
 
 Kimi Claw Android 是一款将 OpenClaw 部署到安卓手机的应用。与云端 Kimi Claw 不同，Kimi Claw Android 中的 OpenClaw 不是运行在云端虚拟机，而是运行在你自己的手机上，是你终端内的独占机器。
 

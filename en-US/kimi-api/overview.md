@@ -12,6 +12,8 @@ preview_content: "Get started with the Kimi API platform for text generation, co
   description="Get started with the Kimi API platform for text generation, conversations, file parsing, and web search."
 />
 
+# Kimi API overview
+
 The Kimi API platform provides developers with powerful large language model capabilities, helping you quickly integrate AI into your products and services.
 
 ## Platform overview

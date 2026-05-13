@@ -11,7 +11,7 @@ preview: false
   description="Deep Research uses a context length of 128K tokens approximately 200,000 words."
 />
 
-# Context length for Deep research
+# Context length
 
 <Callout type="info">
 Deep Research uses a context length of **128K tokens** (approximately 200,000 words).

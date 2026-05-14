@@ -17,7 +17,7 @@ preview: false
 Kimi Code is an AI programming assistant designed specifically for developers, running directly in terminals or editors to help write code, fix bugs, and generate documentation. Kimi Code supports providing knowledge-based guidance through `SKILL.md` files. After reading them, the AI follows the standards defined within. Suitable for defining code styles, workflows, and best practices.
 
 <Frames
-  src="./images/skills/code-skill-zh.png"
+  src="./images/skills/kimi-code-skill.png"
   alt="Invoke skills using slash command"
 />
 

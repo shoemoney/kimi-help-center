@@ -54,13 +54,13 @@ Kimi Code supports two authentication modes. You can switch modes at any time vi
 
 ## Typical Workflows
 
-Code Reading: Type @ to select a file or folder, request an explanation of the code flow, and continue asking follow-up questions.
+Code Reading: Type`@` to select a file or folder, request an explanation of the code flow, and continue asking follow-up questions.
 
-Refactoring: Reference target code such as @src/feature/, request a refactoring plan, review the diff and selectively approve, using rollback when necessary.
+Refactoring: Reference target code such as `@src/feature/`, request a refactoring plan, review the diff and selectively approve, using rollback when necessary.
 
 Debugging: Paste error messages or stack traces, reference related files, request diagnosis and fixes, then approve the proposed changes.
 
-Project Overview: Reference a folder such as @src/services/, request a module map or architecture summary, and continue asking about dependencies or weak points.
+Project Overview: Reference a folder such as `@src/services/`, request a module map or architecture summary, and continue asking about dependencies or weak points.
 
 ---
 

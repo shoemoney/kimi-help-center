@@ -32,7 +32,7 @@ Type `/` in the input box to bring up the Skill list. Click a Skill name to inse
 Click the **➕** button next to the input box. Select a Skill from the menu, and the Skill name will be inserted as text in the input box.
 
 <Frames
-  src="./images/skills/加号-zh.png"
+  src="./images/skills/加号-en.png"
   alt="Invoke skills using plus menu"
 />
 
@@ -63,7 +63,7 @@ You don't need to tell Kimi how to do the analysis—the workflow is already def
 Kimi offers a set of out-of-the-box recommended skills available for one-click addition:
 
 <Frames
-  src="./images/skills/推荐技能.png"
+  src="./images/skills/kimi-picks.png"
   alt="Recommended skills"
 />
 
@@ -87,7 +87,7 @@ If you already have ready-made templates, standard documents, or example files, 
 2. Click or drag files to the upload area. Supported formats: `docx`, `xlsx`, `pdf`, `pptx`, and document screenshots. Maximum 3 files per upload, each not exceeding 100 MB.
 
 <Frames
-  src="./images/skills/产物2skill.png"
+  src="./images/skills/document.png"
   alt="Upload documents to generate skills"
 />
 
@@ -101,7 +101,7 @@ If you don't have ready-made documents, you can directly describe your requireme
 Type `/skill-creator` in the input box, then describe what Skill you want to create. Kimi will help you organize the requirements into a complete Skill.
 
 <Frames
-  src="./images/skills/对话技能.png"
+  src="./images/skills/create-skill-en.png"
   alt="Create Skills through dialogue"
 />
 
@@ -110,7 +110,7 @@ Type `/skill-creator` in the input box, then describe what Skill you want to cre
 In the **Skills** panel, switch to the **Custom Skills** tab to edit, update documents, or delete Skills you have created.
 
 <Frames
-  src="./images/skills/管理技能.png"
+  src="./images/skills/managing-skills.png"
   alt="Manage custom Skills"
 />
 

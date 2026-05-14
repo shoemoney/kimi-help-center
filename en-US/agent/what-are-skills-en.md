@@ -75,7 +75,7 @@ Common recommended skills include:
 
 **Office document to skill**: Upload documents to generate skills and easily replicate style themes.
 
-### (2) Community skills
+### (2) Open-source skills
 
 Download or install suitable Skills from open-source communities, combined with Local Agents (like Kimi Code) or Cloud Agents (like Kimi Claw).
 

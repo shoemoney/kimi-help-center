@@ -48,7 +48,7 @@ Suppose you are a content manager who wants to analyze your website's SEO perfor
 2. Continue entering: `Please analyze https://help.com/zh-cn/help's SEO performance, list the main issues and optimization suggestions.`
 
 <Frames
-  src="./images/skills/SEO.png"
+  src="./images/skills/SEO-en.png"
   alt="SEO analysis"
 />
 

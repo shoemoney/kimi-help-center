@@ -222,7 +222,7 @@ Kimi Code CLI 也可以运行 Shell 命令并分析结果：
 | `Ctrl-J` | 换行（不提交） |
 | `Ctrl-C` / `Ctrl-D` | 中断当前操作 / 退出 |
 
-完整命令列表请参考[斜杠命令](/kimi-code-cli/reference/slash-commands)和[键盘快捷键](/kimi-code-cli/reference/keyboard-shortcuts)。
+完整命令列表请参考[斜杠命令](https://www.kimi.com/code/docs/kimi-code-cli/reference/kimi-command.html)和[键盘快捷键](https://www.kimi.com/code/docs/kimi-code-cli/reference/keyboard-shortcuts.html)。
 
 
 ## 常见问题

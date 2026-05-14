@@ -133,5 +133,5 @@ Kimi 提供五档会员计划（含免费 Adagio），均支持连续包月和�
 
 - [Kimi 付费服务协议](https://www.kimi.com/user/agreement/paidServiceAgreement?version=v2)
 - [Kimi 会员权益计费方式升级说明](https://www.kimi.com/membership-credits)
-- [Kimi 用户服务协议](https://www.kimi.com/user/agreement/userServiceAgreement)
-- [Kimi 隐私政策](https://www.kimi.com/user/agreement/privacyPolicy)
+- [Kimi 用户服务协议](https://www.kimi.com/user/agreement/modelUse?version=v2)
+- [Kimi 隐私政策](https://www.kimi.com/user/agreement/userPrivacy?version=v2)

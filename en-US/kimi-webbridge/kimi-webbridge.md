@@ -80,7 +80,9 @@ After installation, you should see WebBridge in your browser's extensions list. 
 
 Supports Claude Code, Codex, Cursor, Kimi Code, Hermers Claw, and more.
 
-1. Send the following command in your Agent:
+1. Send the following command directly in the Agent to automatically install WebBridge. The Agent will run the appropriate setup based on your operating system.
+
+If you are a macOS user, use the command below:
 
 <CodePreview
   files={[
@@ -92,6 +94,8 @@ Supports Claude Code, Codex, Cursor, Kimi Code, Hermers Claw, and more.
     },
   ]}
 />
+
+If you are a Windows user, use the command below:
 
 <CodePreview
   files={[

@@ -88,23 +88,34 @@ WebBridge 通过本地桥接服务和浏览器扩展协同工作，所有执行�
 
 支持 Claude Code、Codex、Cursor、Kimi Code、Hermers Claw 等。
 
-1. 在 Agent 中发送以下指令：
+
+1. 在 Agent 中直接发送以下指令，即可自动完成 WebBridge 安装。Agent 会根据你的操作系统自动执行对应的安装流程。
+
+如果你是 macOS 用户，请使用以下命令：
 
 <CodePreview
   files={[
     {
       name: "macos.sh",
       language: "bash",
-      content: "curl -fsSL https://kimi-web-img.moonshot.cn/webbridge/install_skill.sh | bash -s -- -y",
-    },
-    {
-      name: "windows.ps1",
-      language: "powershell",
-      content: "irm https://kimi-web-img.moonshot.cn/webbridge/install.ps1 | iex",
+      content:
+        "curl -fsSL https://kimi-web-img.moonshot.cn/webbridge/install_skill.sh | bash -s -- -y",
     },
   ]}
 />
 
+如果你是 Windows 用户，请使用以下命令：
+
+<CodePreview
+  files={[
+    {
+      name: "windows.ps1",
+      language: "powershell",
+      content:
+        "irm https://kimi-web-img.moonshot.cn/webbridge/install.ps1 | iex",
+    },
+  ]}
+/>
 
 2. 开始使用
 

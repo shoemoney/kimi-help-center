@@ -1,0 +1,20 @@
+{
+  "name": "kimi-helpcenter-doc",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@10.28.1",
+  "scripts": {
+    "validate:docs": "node scripts/setup-docs.js --dry-run .",
+    "setup:docs": "node scripts/setup-docs.js .",
+    "setup:docs:dry-run": "node scripts/setup-docs.js --dry-run .",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "@volcengine/tos-sdk": "^2.7.0",
+    "dotenv": "^16.4.5",
+    "js-yaml": "^4.1.0",
+    "pg": "^8.16.3"
+  },
+  "devDependencies": {}
+}

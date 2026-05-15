@@ -60,3 +60,69 @@ That includes:
 
 - `en-US/` contains English help center content.
 - `zh-CN/` contains Simplified Chinese help center content.
+
+## Setup Import Script
+
+This repo includes a Node.js version of the help-center setup importer:
+
+```bash
+pnpm install
+pnpm setup:docs:dry-run
+```
+
+To import into Postgres, provide the same DSN shape used by the API service:
+
+```bash
+DATABASE_URL="postgres://user:pass@localhost:5432/helpcenter?sslmode=disable" pnpm setup:docs
+```
+
+Local media can be uploaded to the CDN through Volcengine TOS, matching the
+`landing-ui` upload path. Put credentials in an untracked `.env.local` file or
+export them in your shell:
+
+```bash
+TOS_ACCESS_KEY_ID="..."
+TOS_ACCESS_KEY_SECRET="..."
+TOS_REGION="cn-beijing"
+TOS_BUCKET="static-moonshot-cn"
+CDN_PUBLIC_BASE="https://statics.moonshot.cn"
+CDN_PATH_PREFIX="kimi-helpcenter-doc/"
+DATABASE_URL="postgres://user:pass@localhost:5432/helpcenter?sslmode=disable"
+```
+
+Then run:
+
+```bash
+pnpm exec node scripts/setup-docs.js \
+  --upload-assets \
+  .
+```
+
+Useful direct options:
+
+- `node scripts/setup-docs.js --dry-run --locale zh-CN .`
+- `node scripts/setup-docs.js --dsn "$DATABASE_URL" .`
+- `node scripts/setup-docs.js --asset-url-prefix "https://static.example.com/help-docs" .`
+- `node scripts/setup-docs.js --upload-assets --cdn-public-base "https://statics.moonshot.cn" .`
+
+## GitLab CI
+
+The pipeline validates docs first, then deploys to test automatically, then
+offers a manual production deployment after test succeeds.
+
+Create separate GitLab CI/CD variables so sensitive values can be masked and
+hidden:
+
+```bash
+DATABASE_URL
+TOS_ACCESS_KEY_ID
+TOS_ACCESS_KEY_SECRET
+TOS_REGION
+TOS_BUCKET
+CDN_PUBLIC_BASE
+CDN_PATH_PREFIX
+```
+
+Use GitLab environment scopes to give test and production different values,
+for example scope test values to `test` and production values to `production`.
+`CDN_PATH_PREFIX` is optional; the script defaults to `kimi-helpcenter-doc/`.

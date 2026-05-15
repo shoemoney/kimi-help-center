@@ -1,0 +1,60 @@
+workflow:
+  rules:
+    - if: $CI_PIPELINE_SOURCE == "schedule"
+    - if: $CI_PIPELINE_SOURCE == "merge_request_event"
+    - if: $CI_COMMIT_BRANCH && $CI_OPEN_MERGE_REQUESTS
+      when: never
+    - if: $CI_COMMIT_BRANCH
+    - if: $CI_COMMIT_TAG
+
+default:
+  image: msai-cn-beijing.cr.volces.com/public/node:22
+  tags:
+    - kimi
+  before_script:
+    - corepack enable
+    - corepack prepare pnpm@10.28.1 --activate
+    - pnpm install --frozen-lockfile
+
+stages:
+  - validate
+  - deploy_test
+  - deploy_production
+
+validate:docs:
+  stage: validate
+  script:
+    - pnpm test
+    - pnpm validate:docs
+
+deploy:test:
+  stage: deploy_test
+  needs:
+    - validate:docs
+  script:
+    - test -n "$DATABASE_URL"
+    - test -n "$TOS_ACCESS_KEY_ID"
+    - test -n "$TOS_ACCESS_KEY_SECRET"
+    - test -n "$TOS_REGION"
+    - test -n "$TOS_BUCKET"
+    - test -n "$CDN_PUBLIC_BASE"
+    - pnpm exec node scripts/setup-docs.js --upload-assets .
+  environment:
+    name: test
+
+deploy:production:
+  stage: deploy_production
+  needs:
+    - deploy:test
+  script:
+    - test -n "$DATABASE_URL"
+    - test -n "$TOS_ACCESS_KEY_ID"
+    - test -n "$TOS_ACCESS_KEY_SECRET"
+    - test -n "$TOS_REGION"
+    - test -n "$TOS_BUCKET"
+    - test -n "$CDN_PUBLIC_BASE"
+    - pnpm exec node scripts/setup-docs.js --upload-assets .
+  environment:
+    name: production
+  when: manual
+  allow_failure: false

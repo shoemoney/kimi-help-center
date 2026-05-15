@@ -11,10 +11,6 @@ default:
   image: msai-cn-beijing.cr.volces.com/msai/devops/ci-base:latest
   tags:
     - kimi
-  before_script:
-    - corepack enable
-    - corepack prepare pnpm@10.28.1 --activate
-    - pnpm install --frozen-lockfile
 
 stages:
   - validate
@@ -24,6 +20,7 @@ stages:
 validate:docs:
   stage: validate
   script:
+    - pnpm install --frozen-lockfile
     - pnpm test
     - pnpm validate:docs
 
@@ -32,6 +29,7 @@ deploy:test:
   needs:
     - validate:docs
   script:
+    - pnpm install --frozen-lockfile
     - test -n "$DATABASE_URL"
     - test -n "$TOS_ACCESS_KEY_ID"
     - test -n "$TOS_ACCESS_KEY_SECRET"
@@ -47,6 +45,7 @@ deploy:production:
   needs:
     - deploy:test
   script:
+    - pnpm install --frozen-lockfile
     - test -n "$DATABASE_URL"
     - test -n "$TOS_ACCESS_KEY_ID"
     - test -n "$TOS_ACCESS_KEY_SECRET"

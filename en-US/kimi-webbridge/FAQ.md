@@ -52,6 +52,18 @@ Please confirm that the Kimi WebBridge browser extension is successfully install
   ]}
 />
 
+### In Windows, installing WebBridge, error: Installation failed
+
+  Kimi WebBridge supports the Windows operating system, and the installation command can be run in a Linux environment:
+  <CodePreview
+  files={[                                                                                                             
+  {                                                                                                                    
+  name: "command.sh",                                                                                                  
+  language: "bash",                                                                                                    
+  content: "irm https://kimi-web-img.moonshot.cn/webbridge/install.ps1 | iex",                                         
+  },                                                                                                                   
+  ]}                                                                                                                   
+  /> 
 ### Will WebBridge leak my login information?
 
 No. All execution happens locally on your device—login states and web page content never leave your machine. The Agent can only access the operation results you authorize.

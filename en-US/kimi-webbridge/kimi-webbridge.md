@@ -87,12 +87,19 @@ Supports Claude Code, Codex, Cursor, Kimi Code, Hermers Claw, and more.
     {
       name: "macos.sh",
       language: "bash",
-      content: "curl -fsSL https://kimi-web-img.moonshot.cn/webbridge/install_skill.sh | bash -s -- -y",
+      content:
+        "curl -fsSL https://kimi-web-img.moonshot.cn/webbridge/install_skill.sh | bash -s -- -y",
     },
+  ]}
+/>
+
+<CodePreview
+  files={[
     {
       name: "windows.ps1",
       language: "powershell",
-      content: "irm https://kimi-web-img.moonshot.cn/webbridge/install.ps1 | iex",
+      content:
+        "irm https://kimi-web-img.moonshot.cn/webbridge/install.ps1 | iex",
     },
   ]}
 />

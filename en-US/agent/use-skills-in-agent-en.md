@@ -22,11 +22,6 @@ In Kimi Agent Mode's input box, there are three ways to invoke Skills:
 
 Type `/` in the input box to bring up the Skill list. Click a Skill name to insert it. You can also type keywords after the `/` to filter the list.
 
-<Frames
-  src="./images/skills/slash-command-en.gif"
-  alt="Invoke Skills using slash command"
-/>
-
 **Method 2: Use the "➕" menu**
 
 Click the **➕** button next to the input box. Select a Skill from the menu, and the Skill name will be inserted as text in the input box.

@@ -53,7 +53,9 @@ Please confirm that the Kimi WebBridge browser extension is successfully install
 />
 
 ### In Windows, installing WebBridge, error: Installation failed
- Kimi WebBridge supports the Windows operating system, and the installation command can be run in a Linux environment:
+
+Kimi WebBridge supports the Windows operating system, and the installation command can be run in a Linux environment:
+
 <CodePreview
   files={[
     {

@@ -273,6 +273,52 @@ Rules:
 - Resolve relative article links to their actual `/<category>/<slug>` route.
 - Preserve external URLs as-is.
 
+## Setup Script
+
+This repo includes a Node.js setup script at `scripts/setup-docs.js`.
+
+Use pnpm:
+
+```bash
+pnpm install
+pnpm validate:docs
+```
+
+Validation performs a dry run across all supported locales and checks:
+
+- front matter and slug/path uniqueness
+- local media references in Markdown images and MDX `src` props
+- supported MDX component syntax, including malformed props and unbalanced
+  JSX braces or brackets
+- `CodePreview` conversion for raw fenced code blocks
+- Kimi `Chat` URL query normalization
+
+For locale-scoped checks, run:
+
+```bash
+node scripts/setup-docs.js --dry-run --locale zh-CN .
+```
+
+For real import/deploy, configure credentials in `.env.local` or CI variables:
+
+```bash
+DATABASE_URL="postgres://user:pass@host:5432/helpcenter?sslmode=disable"
+TOS_ACCESS_KEY_ID="..."
+TOS_ACCESS_KEY_SECRET="..."
+TOS_REGION="cn-beijing"
+TOS_BUCKET="static-moonshot-cn"
+CDN_PUBLIC_BASE="https://statics.moonshot.cn"
+CDN_PATH_PREFIX="kimi-helpcenter-doc/"
+```
+
+Then run:
+
+```bash
+node scripts/setup-docs.js --upload-assets .
+```
+
+Do not commit `.env` or `.env.local`.
+
 ## Quick Review Checklist
 
 - Front matter is present and complete.
@@ -285,3 +331,4 @@ Rules:
 - `Frames` local asset paths exist under the category `images/` tree.
 - `ColumnsContent` uses built-in `type` values where possible.
 - No unsupported custom components or imports were added.
+- `pnpm validate:docs` passes before committing docs or setup changes.

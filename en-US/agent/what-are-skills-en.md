@@ -20,11 +20,6 @@ Skills are reusable knowledge packages designed to extend the boundaries of an A
 - **Best practices & standards** — Industry standards and internal protocols to be followed.
 - **Scripts, tools & reference resources** — Optional tools and materials to assist in execution.
 
-<Frames
-  src="./images/skills/Skills示意图.png"
-  alt="What are skills"
-/>
-
 ## How to use?
 
 At the start of a conversation, the Agent will see a list of available skills with their names and brief descriptions. If a skill is relevant to the current task, the Agent will load the full instructions and execute accordingly.

@@ -14,6 +14,11 @@ preview: false
 
 # What are Skills?
 
+<Frames
+  src="./images/skills/what_is_skill.png"
+  alt="what_is_skill"
+/>
+
 Skills are reusable knowledge packages designed to extend the boundaries of an AI agent's capabilities. Each skill includes:
 
 - **Working approaches & operational guidance** — Methodologies tailored for specific task types.

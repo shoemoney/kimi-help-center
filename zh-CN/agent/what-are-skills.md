@@ -14,6 +14,11 @@ preview: false
 
 # 什么是技能（Skills）
 
+<Frames
+  src="./images/skills/什么是skill.png"
+  alt="什么是skill"
+/>
+
 技能是可复用的知识包，用于扩展 Agent（智能体）的能力边界了，每个技能包含：
 
 - **处理思路与操作指引** — 针对特定任务类型的方法论

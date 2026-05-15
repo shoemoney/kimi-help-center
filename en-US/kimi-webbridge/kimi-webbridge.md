@@ -42,19 +42,37 @@ You can download it through the following methods:
 
 If you cannot access the web store, you can use the manual installation method.
 
-Download the extension package from the [Kimi WebBridge official website](https://www.kimi.com/features/webbridge), then follow the steps for your browser:
+Then follow the steps for your browser:
 
 **Chrome:**
 
-1. Open `chrome://extensions/` in the address bar
-2. Enable "Developer mode" in the top-right corner
-3. Click "Load unpacked" and select the extracted folder
+1. Download the extension package from the [Kimi WebBridge official website](https://www.kimi.com/features/webbridge).
+2. Extract the downloaded file
+3. Open `chrome://extensions/` in the address bar
+4. Enable "Developer mode" in the top-right corner
+5. Click "Load unpacked"
+6. In the file picker, select the extracted WebBridge folder
+
+<Frames
+  src="./images/installation_chrome_en.png"
+  alt="installation_chrome_en"
+/>
 
 **Edge:**
 
-1. Open `edge://extensions/` in the address bar
-2. Enable "Developer mode" in the bottom-left corner
-3. Click "Load unpacked" and select the extracted folder
+1. Download the extension package from the [Kimi WebBridge official website](https://www.kimi.com/features/webbridge).
+2. Extract the downloaded file
+3. Open `edge://extensions/` in the address bar
+4. Enable "Developer mode" in the bottom-left corner
+5. Click "Load unpacked"
+6. In the file picker, select the extracted WebBridge folder
+
+<Frames
+  src="./images/installation_edge_en.png"
+  alt="installation_edge_en"
+/>
+
+After installation, you should see WebBridge in your browser's extensions list. For easier access, we recommend pinning it to the browser toolbar.
 
 ## Step 2: Choose your setup method and complete configuration
 
@@ -120,4 +138,3 @@ Once deployed, you can send instructions in Kimi Claw, for example:
     },
   ]}
 />
-

@@ -51,6 +51,19 @@ Kimi Claw Desktop 是部署在你本地电脑上的 Kimi Claw。打开 Kimi 桌�
   ]}
 />
 
+### 在Windows中安装WebBridge，报错：安装失败
+Kimi WebBridge支持Windows操作系统，可以在Linux环境中运行安装命令：
+<CodePreview
+  files={[
+    {
+      name: "command.sh",
+      language: "bash",
+      content: "irm https://kimi-web-img.moonshot.cn/webbridge/install.ps1 | iex",
+    },
+  ]}
+/>
+
+
 ### WebBridge 会泄露我的登录信息吗？
 
 不会。所有执行都在你本地完成，登录态和网页内容不会离开你的设备。Agent 只能获取你授权的操作结果。

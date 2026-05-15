@@ -93,12 +93,18 @@ WebBridge 通过本地桥接服务和浏览器扩展协同工作，所有执行�
 <CodePreview
   files={[
     {
-      name: "command.sh",
+      name: "macos.sh",
       language: "bash",
       content: "curl -fsSL https://kimi-web-img.moonshot.cn/webbridge/install_skill.sh | bash -s -- -y",
     },
+    {
+      name: "windows.ps1",
+      language: "powershell",
+      content: "irm https://kimi-web-img.moonshot.cn/webbridge/install.ps1 | iex",
+    },
   ]}
 />
+
 
 2. 开始使用
 

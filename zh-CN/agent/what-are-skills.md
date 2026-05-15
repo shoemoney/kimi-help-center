@@ -82,7 +82,7 @@ preview: false
 
 在开源社区下载或安装适合的 Skills，搭配 Local Agent（如Kimi Code等）、云端 Agent（如Kimi Claw）使用
 
-# 常见 AI Skill Hub 平台
+**常见 AI Skill Hub 平台**
 
 | 平台名称 | 网址 | 简介 |
 |----------|------|------|

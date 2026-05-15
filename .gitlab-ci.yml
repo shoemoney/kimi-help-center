@@ -36,6 +36,7 @@ deploy:test:
     - test -n "$TOS_REGION"
     - test -n "$TOS_BUCKET"
     - test -n "$CDN_PUBLIC_BASE"
+    - unset HTTP_PROXY HTTPS_PROXY ALL_PROXY http_proxy https_proxy all_proxy
     - pnpm exec node scripts/setup-docs.js --upload-assets .
   environment:
     name: test
@@ -51,6 +52,7 @@ deploy:production:
     - test -n "$TOS_REGION"
     - test -n "$TOS_BUCKET"
     - test -n "$CDN_PUBLIC_BASE"
+    - unset HTTP_PROXY HTTPS_PROXY ALL_PROXY http_proxy https_proxy all_proxy
     - pnpm exec node scripts/setup-docs.js --upload-assets .
   environment:
     name: production

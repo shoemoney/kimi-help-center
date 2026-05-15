@@ -23,7 +23,7 @@ preview: false
 在输入框中输入 `/`，会弹出技能列表，点击你想要的技能名称即可自动插入。你也可以在 `/` 后继续输入关键词来筛选技能。
 
 <Frames
-  src="./images/skills/斜杠命令-zh.png"
+  src="./images/skills/斜杠命令-zh.gif"
   alt="通过斜杠命令调用技能"
 />
 

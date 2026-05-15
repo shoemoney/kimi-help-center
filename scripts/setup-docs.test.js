@@ -11,6 +11,7 @@ import {
   parseFrontMatter,
   parseSecondLevelHeadings,
   rewriteMarkdownCodeFencesToCodePreview,
+  validateSupportedMDXComponents,
 } from "./setup-docs.js";
 
 test("parseFrontMatter extracts metadata and content", () => {
@@ -145,4 +146,45 @@ extract_headings: false
       throw error;
     }
   }, /validation error/);
+});
+
+test("validateSupportedMDXComponents catches malformed CodePreview props", () => {
+  assert.throws(() => {
+    try {
+      validateSupportedMDXComponents(
+        `<CodePreview
+  files={[
+    {
+      name: "SKILL.md",
+      language: "bash",
+      content: “---
+name: your-skill-name
+description: What it does
+---"
+    },
+  ]}
+/>`,
+        "/tmp/what-are-skills.md",
+      );
+    } catch (error) {
+      const formatted = formatValidationErrorForTest(error);
+      assert.match(formatted, /Malformed MDX component/);
+      assert.match(formatted, /Article: .*what-are-skills\.md:1/);
+      assert.match(formatted, /Component: CodePreview/);
+      assert.match(formatted, /Use straight quotes in JSX props/);
+      assert.match(formatted, /Fix: simplify the component props/);
+      throw error;
+    }
+  }, /validation error|Malformed MDX component/);
+});
+
+test("validateSupportedMDXComponents ignores component-like text in code fences", () => {
+  assert.doesNotThrow(() => {
+    validateSupportedMDXComponents([
+      "```mdx",
+      "<CodePreview",
+      "  files={[",
+      "```",
+    ].join("\n"));
+  });
 });

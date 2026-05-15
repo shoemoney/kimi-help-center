@@ -31,6 +31,16 @@ const framesTagRegex = /<Frames\b[^>]*>/gs;
 const chatTagRegex = /<Chat\b[^>]*>/gs;
 const mdxTypeAttrRegex = /\btype=["'][^"']*["']/;
 const codeFenceOpenRegex = /^(\s{0,3}(?:>\s*)?)(`{3,}|~{3,})(.*)$/;
+const supportedComponentNames = new Set([
+  "SeoMeta",
+  "Callout",
+  "Frames",
+  "Chat",
+  "CodePreview",
+  "ComparisonBlock",
+  "ColumnsContent",
+]);
+const componentNameRegex = /^<\/?([A-Z][A-Za-z0-9_]*)\b/;
 
 loadDotenv({ path: ".env.local", override: false });
 loadDotenv({ path: ".env", override: false });
@@ -367,6 +377,8 @@ async function readMarkdownDocumentWithImages(
     throw new Error(`markdown document ${markdownPath} is missing slug`);
   }
 
+  validateSupportedMDXComponents(originalContent, markdownPath);
+
   let content = await rewriteLocalMediaRefs(
     originalContent,
     markdownPath,
@@ -422,6 +434,187 @@ async function readMarkdownDocumentWithImages(
       published: true,
     },
   };
+}
+
+export function validateSupportedMDXComponents(content, markdownPath = "") {
+  const errors = [];
+  const lines = content.replace(/\r\n/g, "\n").split("\n");
+  let inFence = false;
+
+  for (let index = 0; index < lines.length; index += 1) {
+    const line = lines[index];
+    if (/^\s*(```+|~{3,})/.test(line.trim())) {
+      inFence = !inFence;
+      continue;
+    }
+    if (inFence) {
+      continue;
+    }
+
+    const tagStart = line.indexOf("<");
+    if (tagStart < 0) {
+      continue;
+    }
+    const match = line.slice(tagStart).match(componentNameRegex);
+    if (!match || !supportedComponentNames.has(match[1])) {
+      continue;
+    }
+
+    const { tag, endLine } = collectMDXTag(lines, index, tagStart);
+    if (!tag.includes(">")) {
+      errors.push(
+        mdxSyntaxError(markdownPath, index + 1, match[1], "Component tag is not closed with `>`"),
+      );
+      continue;
+    }
+
+    for (const validationError of validateMDXTagSyntax(tag, markdownPath, index + 1, match[1])) {
+      errors.push(validationError);
+    }
+
+    index = Math.max(index, endLine);
+  }
+
+  if (errors.length === 1) {
+    throw errors[0];
+  }
+  if (errors.length > 1) {
+    throw new ValidationAggregateError(errors);
+  }
+}
+
+function collectMDXTag(lines, startLine, tagStart) {
+  const collected = [];
+  let curlyDepth = 0;
+  let tagClosed = false;
+
+  for (let index = startLine; index < lines.length; index += 1) {
+    const segment = index === startLine ? lines[index].slice(tagStart) : lines[index];
+    collected.push(segment);
+    curlyDepth += countUnquotedChar(segment, "{") - countUnquotedChar(segment, "}");
+
+    if (segment.includes(">") && curlyDepth <= 0) {
+      tagClosed = true;
+      return { tag: collected.join("\n"), endLine: index };
+    }
+  }
+
+  return { tag: collected.join("\n"), endLine: lines.length - 1, tagClosed };
+}
+
+function validateMDXTagSyntax(tag, markdownPath, line, componentName) {
+  const errors = [];
+  const curlyQuote = findUnquotedCurlyQuote(tag);
+  if (curlyQuote) {
+    errors.push(
+      mdxSyntaxError(
+        markdownPath,
+        line,
+        componentName,
+        `Use straight quotes in JSX props; found ${JSON.stringify(curlyQuote[0])}`,
+      ),
+    );
+  }
+
+  const openCurly = countUnquotedChar(tag, "{");
+  const closeCurly = countUnquotedChar(tag, "}");
+  if (openCurly !== closeCurly) {
+    errors.push(
+      mdxSyntaxError(
+        markdownPath,
+        line,
+        componentName,
+        `Unbalanced JSX expression braces: ${openCurly} "{" and ${closeCurly} "}"`,
+      ),
+    );
+  }
+
+  const openSquare = countUnquotedChar(tag, "[");
+  const closeSquare = countUnquotedChar(tag, "]");
+  if (openSquare !== closeSquare) {
+    errors.push(
+      mdxSyntaxError(
+        markdownPath,
+        line,
+        componentName,
+        `Unbalanced array brackets: ${openSquare} "[" and ${closeSquare} "]"`,
+      ),
+    );
+  }
+
+  return errors;
+}
+
+function mdxSyntaxError(article, line, component, reason) {
+  return new ValidationError("Malformed MDX component", {
+    article,
+    line,
+    component,
+    reason,
+  });
+}
+
+function findUnquotedCurlyQuote(value) {
+  let quote = "";
+  let escaped = false;
+
+  for (const char of value) {
+    if (escaped) {
+      escaped = false;
+      continue;
+    }
+    if (quote && char === "\\") {
+      escaped = true;
+      continue;
+    }
+    if (quote) {
+      if (char === quote) {
+        quote = "";
+      }
+      continue;
+    }
+    if (char === `"` || char === "'" || char === "`") {
+      quote = char;
+      continue;
+    }
+    if (/[“”‘’]/.test(char)) {
+      return char;
+    }
+  }
+
+  return "";
+}
+
+function countUnquotedChar(value, target) {
+  let count = 0;
+  let quote = "";
+  let escaped = false;
+
+  for (const char of value) {
+    if (escaped) {
+      escaped = false;
+      continue;
+    }
+    if (quote && char === "\\") {
+      escaped = true;
+      continue;
+    }
+    if (quote) {
+      if (char === quote) {
+        quote = "";
+      }
+      continue;
+    }
+    if (char === `"` || char === "'" || char === "`") {
+      quote = char;
+      continue;
+    }
+    if (char === target) {
+      count += 1;
+    }
+  }
+
+  return count;
 }
 
 export function parseFrontMatter(markdown) {
@@ -1252,7 +1445,14 @@ function formatError(error) {
     const lines = [`Validation failed: ${error.message}`];
     const details = error.details || {};
     if (details.article) {
-      lines.push(`  Article: ${path.relative(process.cwd(), details.article)}`);
+      const articlePath = path.relative(process.cwd(), details.article);
+      lines.push(`  Article: ${details.line ? `${articlePath}:${details.line}` : articlePath}`);
+    }
+    if (details.component) {
+      lines.push(`  Component: ${details.component}`);
+    }
+    if (details.reason) {
+      lines.push(`  Reason: ${details.reason}`);
     }
     if (details.ref) {
       lines.push(`  Referenced path: ${details.ref}`);
@@ -1263,7 +1463,11 @@ function formatError(error) {
     if (details.categoryRoot) {
       lines.push(`  Category root: ${path.relative(process.cwd(), details.categoryRoot)}`);
     }
-    lines.push("  Fix: update the MDX src/path or add the missing asset under the category images directory.");
+    if (error.message === "Malformed MDX component") {
+      lines.push("  Fix: simplify the component props and use valid JSX string/object/array syntax.");
+    } else {
+      lines.push("  Fix: update the MDX src/path or add the missing asset under the category images directory.");
+    }
     return lines.join("\n");
   }
   return error?.message || String(error);

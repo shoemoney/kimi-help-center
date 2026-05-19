@@ -29,6 +29,17 @@ WebBridge works through a local bridge service and a browser extension. All exec
   alt="WebBridge Introduction"
 />
 
+<VideoList
+  column={1}
+  list={[
+    {
+      url: "./videos/H265_LoRes_WebBridge_用户教程_EN.mp4",
+      type: "video",
+      caption: "Kimi WebBridge tutorial",
+    },
+  ]}
+/>
+
 ## Step 1: download the Kimi WebBridge extension
 
 You can download it through the following methods:

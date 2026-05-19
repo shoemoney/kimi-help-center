@@ -13,7 +13,8 @@ folders such as `en-US/` and `zh-CN/`.
 ## Article Rules
 
 - Keep each article under `<locale>/<category>/`.
-- Keep local media under `<locale>/<category>/images/<article>/...`.
+- Keep local images under `<locale>/<category>/images/<article>/...`.
+- Keep local videos under `<locale>/<category>/videos/<article>/...`.
 - Do not add `import` statements in article files. The web app injects the
   supported MDX components.
 - Wrap every custom MDX component with one empty line before it and one empty
@@ -111,7 +112,7 @@ Video:
 ```mdx
 <Frames
   type="video"
-  src="https://kimi-file.moonshot.cn/example.mp4"
+  src="./videos/article-name/screen-recording-1.mp4"
   alt="Screen recording"
   width={1920}
   height={1080}
@@ -123,8 +124,46 @@ Rules:
 - Optional prop: `caption`.
 - Omit `type` for normal images.
 - Use `type="video"` for videos.
+- Local video files are uploaded to the CDN during import, the same as local
+  image files.
 - Prefer stable ASCII asset names such as `screenshot-23.png` or
   `agent-workflow.png`.
+
+### `VideoList`
+
+Use `VideoList` for a grid of playable videos.
+
+```mdx
+<VideoList
+  column={2}
+  list={[
+    {
+      url: "./videos/article-name/workflow-1.mp4",
+      type: "video",
+      poster: "./images/article-name/video-1-poster.png",
+      caption: "First workflow",
+    },
+    {
+      url: "./videos/article-name/workflow-2.mp4",
+      type: "video",
+      poster: "./images/article-name/video-2-poster.png",
+      caption: "Second workflow",
+    },
+  ]}
+/>
+```
+
+Rules:
+
+- Use a self-closing tag.
+- `list` is required and should be an array of objects.
+- Each list item must include `url` and `type: "video"`.
+- Optional item fields: `poster`, `caption`.
+- Optional prop: `column`. Supported values are `1`, `2`, `3`, and `4`;
+  omit it to use the default two-column layout.
+- Keep local `url` video assets under the article `videos/` folder. They are
+  uploaded to the CDN during import, the same as local `Frames` videos.
+- Keep local `poster` image assets under the article `images/` folder.
 
 ### `Chat`
 
@@ -287,7 +326,8 @@ pnpm validate:docs
 Validation performs a dry run across all supported locales and checks:
 
 - front matter and slug/path uniqueness
-- local media references in Markdown images and MDX `src` props
+- local media references in Markdown images, MDX `src` props, and `VideoList`
+  `url`/`poster` props
 - supported MDX component syntax, including malformed props and unbalanced
   JSX braces or brackets
 - `CodePreview` conversion for raw fenced code blocks
@@ -328,7 +368,9 @@ Do not commit `.env` or `.env.local`.
 - `SeoMeta` string props use correct MDX escaping for embedded quotes and
   punctuation.
 - `Chat` Kimi share URLs include both required query params.
-- `Frames` local asset paths exist under the category `images/` tree.
+- `Frames` local asset paths exist under the category media tree.
+- `VideoList` local `url` paths exist under `videos/`; local `poster` paths
+  exist under `images/`.
 - `ColumnsContent` uses built-in `type` values where possible.
 - No unsupported custom components or imports were added.
 - `pnpm validate:docs` passes before committing docs or setup changes.

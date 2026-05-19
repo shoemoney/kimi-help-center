@@ -29,6 +29,8 @@ const mdxSrcRefRegex = /\bsrc=["']([^"']+)["']/g;
 const mdxSrcAttrRegex = /\bsrc=(?:"([^"]+)"|'([^']+)')/;
 const framesTagRegex = /<Frames\b[^>]*>/gs;
 const chatTagRegex = /<Chat\b[^>]*>/gs;
+const videoListTagRegex = /<VideoList\b[\s\S]*?\/>/g;
+const videoListMediaRefRegex = /\b(?:url|poster)\s*:\s*["']([^"']+)["']/g;
 const mdxTypeAttrRegex = /\btype=["'][^"']*["']/;
 const codeFenceOpenRegex = /^(\s{0,3}(?:>\s*)?)(`{3,}|~{3,})(.*)$/;
 const supportedComponentNames = new Set([
@@ -39,6 +41,7 @@ const supportedComponentNames = new Set([
   "CodePreview",
   "ComparisonBlock",
   "ColumnsContent",
+  "VideoList",
 ]);
 const componentNameRegex = /^<\/?([A-Z][A-Za-z0-9_]*)\b/;
 
@@ -726,7 +729,7 @@ async function rewriteLocalMediaRefs(
 
   const resolvedRefs = [];
   for (const ref of refs) {
-    const resolvedPath = resolveLocalImagePath(ref, markdownPath, categoryRoot);
+    const resolvedPath = resolveLocalMediaPath(ref, markdownPath, categoryRoot);
     if (!(await isFile(resolvedPath))) {
       throw new ValidationError("Missing local media asset", {
         article: markdownPath,
@@ -753,7 +756,7 @@ async function rewriteLocalMediaRefs(
         : assetURL(assetUrlPrefix, relativePath);
       media = {
         url,
-        mediaType: "image",
+        mediaType: isVideoPath(resolvedPath) ? "video" : "image",
       };
       uploadedMediaRefs.set(resolvedPath, media);
     }
@@ -871,6 +874,10 @@ function contentTypeForPath(candidate) {
       return "image/webp";
     case ".mp4":
       return "video/mp4";
+    case ".webm":
+      return "video/webm";
+    case ".mov":
+      return "video/quicktime";
     case ".txt":
       return "text/plain";
     case ".xml":
@@ -923,7 +930,20 @@ function collectLocalMediaRefs(content) {
     regex.lastIndex = 0;
     for (const match of content.matchAll(regex)) {
       const ref = String(match[1] || "").trim();
-      if (!isLocalMediaRef(ref) || seen.has(ref)) {
+      if (!isLocalAssetRef(ref) || seen.has(ref)) {
+        continue;
+      }
+      seen.add(ref);
+      refs.push(ref);
+    }
+  }
+
+  videoListTagRegex.lastIndex = 0;
+  for (const tag of content.matchAll(videoListTagRegex)) {
+    videoListMediaRefRegex.lastIndex = 0;
+    for (const match of tag[0].matchAll(videoListMediaRefRegex)) {
+      const ref = String(match[1] || "").trim();
+      if (!isLocalAssetRef(ref) || seen.has(ref)) {
         continue;
       }
       seen.add(ref);
@@ -934,7 +954,7 @@ function collectLocalMediaRefs(content) {
   return refs;
 }
 
-function resolveLocalImagePath(ref, markdownPath, categoryRoot) {
+function resolveLocalMediaPath(ref, markdownPath, categoryRoot) {
   const resolvedPath = path.resolve(path.dirname(markdownPath), ref);
   const categoryRootAbs = path.resolve(categoryRoot);
   if (!isPathWithinBase(resolvedPath, categoryRootAbs)) {
@@ -952,7 +972,7 @@ function isPathWithinBase(candidate, base) {
   return relative === "" || (!relative.startsWith("..") && !path.isAbsolute(relative));
 }
 
-function isLocalMediaRef(ref) {
+function isLocalAssetRef(ref) {
   const trimmed = ref.trim();
   if (!trimmed) {
     return false;
@@ -968,11 +988,21 @@ function isLocalMediaRef(ref) {
     return false;
   }
   const withoutQuery = lowerRef.split("?")[0];
-  return [".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg"].includes(path.extname(withoutQuery));
+  return [
+    ".jpg",
+    ".jpeg",
+    ".png",
+    ".gif",
+    ".webp",
+    ".svg",
+    ".mp4",
+    ".webm",
+    ".mov",
+  ].includes(path.extname(withoutQuery));
 }
 
-function isGIFPath(candidate) {
-  return path.extname(candidate).toLowerCase() === ".gif";
+function isVideoPath(candidate) {
+  return [".mp4", ".webm", ".mov"].includes(path.extname(candidate).toLowerCase());
 }
 
 function isCodeFenceClose(line, prefix, fenceMarker, minLength) {
@@ -1466,7 +1496,7 @@ function formatError(error) {
     if (error.message === "Malformed MDX component") {
       lines.push("  Fix: simplify the component props and use valid JSX string/object/array syntax.");
     } else {
-      lines.push("  Fix: update the MDX src/path or add the missing asset under the category images directory.");
+      lines.push("  Fix: update the MDX src/path or add the missing asset under the category images or videos directory.");
     }
     return lines.join("\n");
   }

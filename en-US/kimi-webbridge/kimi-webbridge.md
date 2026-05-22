@@ -16,6 +16,17 @@ preview: false
 
 Kimi WebBridge is a browser extension designed for AI Agents. Unlike cloud-based browser automation solutions, Kimi WebBridge runs directly in your Chrome or Edge browser, automatically leveraging your existing login sessions to let Agents interact with web pages like a human.
 
+<VideoList
+  column={1}
+  list={[
+    {
+      url: "./videos/H265_LoRes_WebBridge_用户教程_EN.mp4",
+      type: "video",
+      caption: "Kimi WebBridge tutorial",
+    },
+  ]}
+/>
+
 <Callout type="tip">
 We recommend deploying Kimi WebBridge on your primary work computer for the best browser automation experience.
 </Callout>
@@ -27,17 +38,6 @@ WebBridge works through a local bridge service and a browser extension. All exec
 <Frames
   src="./images/introduction.png"
   alt="WebBridge Introduction"
-/>
-
-<VideoList
-  column={1}
-  list={[
-    {
-      url: "./videos/H265_LoRes_WebBridge_用户教程_EN.mp4",
-      type: "video",
-      caption: "Kimi WebBridge tutorial",
-    },
-  ]}
 />
 
 ## Step 1: download the Kimi WebBridge extension

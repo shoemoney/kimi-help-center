@@ -22,7 +22,7 @@ Kimi WebBridge 是一款专为 AI Agent 设计的浏览器插件。与云端浏�
     {
       url: "./videos/H265_LoRes_WebBridge_用户教程_CN.mp4",
       type: "video",
-      caption: "Kimi WebBridge tutorial",
+      caption: "Kimi WebBridge 视频教程",
     },
   ]}
 />

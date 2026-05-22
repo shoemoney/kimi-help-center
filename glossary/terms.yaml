@@ -1,0 +1,1991 @@
+meta:
+  version: 1.0.0
+  last_updated: '2026-05-22'
+  description: Kimi Help Center 多语言专有名词对照表
+  source_repo: git@dev.msh.team:search-engine/kimi-helpcenter-doc.git
+  total_terms: 168
+  locales:
+  - zh-CN
+  - en-US
+categories:
+- id: P1
+  name: 产品/功能名称
+  description: Kimi 产品线及功能模块名称
+- id: P2
+  name: 模型名称
+  description: AI 模型及版本代号
+- id: P3
+  name: 公司/品牌名称
+  description: 公司及主品牌名称
+- id: T1
+  name: 技术/学术术语
+  description: 技术概念、算法及学术术语
+- id: T2
+  name: 开发工具链
+  description: 开发、构建及部署工具
+- id: T3
+  name: 文件格式
+  description: 支持的文件类型及格式
+- id: T4
+  name: 网络基础设施
+  description: 网络、安全及后端基础设施
+- id: S1
+  name: 平台/渠道名称
+  description: 第三方通讯及社交平台
+- id: S2
+  name: 操作系统与客户端
+  description: 操作系统及设备平台
+- id: S3
+  name: IDE/编辑器/浏览器
+  description: 开发环境及浏览器
+- id: M1
+  name: 会员等级
+  description: 付费会员等级名称
+- id: M2
+  name: 计费与计量单位
+  description: 计费、额度及速率相关术语
+- id: M3
+  name: 支付方式
+  description: 支付渠道及金融服务商
+- id: E1
+  name: 错误码与状态
+  description: HTTP 状态码及错误描述
+- id: D1
+  name: 域名与 URL
+  description: 域名、网址及邮箱地址
+- id: L1
+  name: 法律协议名称
+  description: 用户协议及法律文档
+- id: X1
+  name: MDX 组件名
+  description: 文档格式层组件标识
+terms:
+- id: P1-001
+  category: P1
+  zh_form: 深度研究
+  en_form: Deep Research
+  alias:
+  - DR
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: global
+  context_example: 深度研究（Deep Research）是 Kimi 最早推出的 Agent 产品之一
+  source_article: zh-CN/deep-research/overview.md
+  status: confirmed
+- id: P1-002
+  category: P1
+  zh_form: Kimi Claw
+  en_form: Kimi Claw
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Kimi Claw 是 Moonshot AI 推出的云端自动化 Agent
+  source_article: zh-CN/kimi-claw/overview.md
+  status: confirmed
+- id: P1-003
+  category: P1
+  zh_form: Kimi Code
+  en_form: Kimi Code
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Kimi Code 是面向开发者的编码辅助工具
+  source_article: zh-CN/kimi-code/membership-guide.md
+  status: confirmed
+- id: P1-004
+  category: P1
+  zh_form: Kimi Agent
+  en_form: Kimi Agent
+  alias:
+  - Agent
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Kimi Agent 可自主完成复杂任务
+  source_article: zh-CN/agent/overview.md
+  status: confirmed
+- id: P1-005
+  category: P1
+  zh_form: Agent Swarm
+  en_form: Agent Swarm
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Agent Swarm 支持多 Agent 并行协作
+  source_article: zh-CN/agent/swarm.md
+  status: confirmed
+- id: P1-006
+  category: P1
+  zh_form: Kimi 文档
+  en_form: Kimi Docs
+  alias: []
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: global
+  context_example: Kimi Docs & Kimi Sheets 文档和表格
+  source_article: zh-CN/docs-and-sheets/overview.md
+  status: confirmed
+- id: P1-007
+  category: P1
+  zh_form: Kimi 表格
+  en_form: Kimi Sheets
+  alias: []
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: global
+  context_example: Kimi Sheets 表格处理的使用案例
+  source_article: zh-CN/docs-and-sheets/sheets-cases.md
+  status: confirmed
+- id: P1-008
+  category: P1
+  zh_form: Kimi PPT
+  en_form: Kimi Slides
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Kimi Slides 是 Kimi 推出的智能演示文稿生成工具
+  source_article: zh-CN/ppt/overview.md
+  status: confirmed
+- id: P1-009
+  category: P1
+  zh_form: Kimi 网页
+  en_form: Kimi Websites
+  alias: []
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: global
+  context_example: Kimi Websites 支持一键建站
+  source_article: zh-CN/websites/overview.md
+  status: confirmed
+- id: P1-010
+  category: P1
+  zh_form: Kimi WebBridge
+  en_form: Kimi WebBridge
+  alias:
+  - WebBridge
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Kimi WebBridge 允许 AI 控制真实浏览器
+  source_article: zh-CN/kimi-webbridge/kimi-webbridge.md
+  status: confirmed
+- id: P1-011
+  category: P1
+  zh_form: OK Computer
+  en_form: OK Computer
+  alias:
+  - Agent 模式
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: OK Computer 是 Kimi 的 Agent 模式
+  source_article: zh-CN/agent/overview.md
+  status: confirmed
+- id: P1-012
+  category: P1
+  zh_form: Kimi Conductor
+  en_form: Kimi Conductor
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Kimi Conductor 是 Agent 编排工具
+  source_article: zh-CN/kimi-claw/overview.md
+  status: confirmed
+- id: P1-013
+  category: P1
+  zh_form: Kimi 技能
+  en_form: Kimi Skills
+  alias:
+  - Skills
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: global
+  context_example: Kimi 技能（Skills）可扩展 Agent 能力
+  source_article: zh-CN/agent/what-are-skills.md
+  status: confirmed
+- id: P1-014
+  category: P1
+  zh_form: Thinking mode
+  en_form: Thinking mode
+  alias:
+  - K2.6 Thinking
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: 切换至 Thinking mode 进行深度推理
+  source_article: zh-CN/getting-started/overview.md
+  status: confirmed
+- id: P1-015
+  category: P1
+  zh_form: Search mode
+  en_form: Search mode
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Search mode 支持实时联网检索
+  source_article: zh-CN/getting-started/overview.md
+  status: confirmed
+- id: P1-016
+  category: P1
+  zh_form: 快速
+  en_form: Instant
+  alias:
+  - Fast mode
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Instant 模式优先响应速度
+  source_article: zh-CN/getting-started/overview.md
+  status: confirmed
+- id: P1-017
+  category: P1
+  zh_form: 记忆空间
+  en_form: Memory Space
+  alias: []
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: global
+  context_example: 记忆空间（Memory Space）支持长期记忆
+  source_article: zh-CN/getting-started/memory-space.md
+  status: confirmed
+- id: P1-018
+  category: P1
+  zh_form: 网页搜索
+  en_form: Web Search
+  alias: []
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: global
+  context_example: 网页搜索（Web Search）支持实时信息检索
+  source_article: zh-CN/getting-started/search.md
+  status: confirmed
+- id: P2-001
+  category: P2
+  zh_form: Kimi-Researcher
+  en_form: Kimi-Researcher
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: 由 Kimi-Researcher 模型驱动
+  source_article: zh-CN/deep-research/overview.md
+  status: confirmed
+- id: P2-002
+  category: P2
+  zh_form: K2.6
+  en_form: K2.6
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: K2.6 大模型驱动 Kimi PPT
+  source_article: zh-CN/ppt/overview.md
+  status: confirmed
+- id: P2-003
+  category: P2
+  zh_form: K2.5
+  en_form: K2.5
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Kimi K2.5 在办公场景下表现出色
+  source_article: zh-CN/docs-and-sheets/overview.md
+  status: confirmed
+- id: P2-004
+  category: P2
+  zh_form: K2
+  en_form: K2
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: K2 系列模型
+  source_article: zh-CN/getting-started/overview.md
+  status: confirmed
+- id: P3-001
+  category: P3
+  zh_form: Moonshot AI
+  en_form: Moonshot AI
+  alias:
+  - 月之暗面
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Moonshot AI 自研的 Kimi-Researcher 模型
+  source_article: zh-CN/deep-research/overview.md
+  notes: Kimi 的母公司，中文常称'月之暗面'，但英文文档中保留 Moonshot AI
+  status: confirmed
+- id: P3-002
+  category: P3
+  zh_form: Kimi
+  en_form: Kimi
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Kimi 是 Moonshot AI 推出的多模态 AI 对话产品
+  source_article: zh-CN/new-user-guide/overview.md
+  notes: 多重身份：产品品牌名、主产品名、模型前缀（如 Kimi-Researcher）
+  status: confirmed
+- id: T1-001
+  category: T1
+  zh_form: 端到端自主强化学习
+  en_form: End-to-End Agentic RL
+  alias:
+  - E2E Agentic RL
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: global
+  context_example: 基于端到端自主强化学习技术（End-to-End Agentic RL）训练而成
+  source_article: zh-CN/deep-research/overview.md
+  status: confirmed
+- id: T1-002
+  category: T1
+  zh_form: PARL
+  en_form: PARL
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: PARL 是 Agent Swarm 的技术原理之一
+  source_article: zh-CN/agent/swarm.md
+  notes: Parallel Agentic Reasoning with Language，上下文分片技术
+  status: confirmed
+- id: T1-003
+  category: T1
+  zh_form: 强化学习
+  en_form: RL
+  alias:
+  - Reinforcement Learning
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: global
+  context_example: 端到端 RL 训练
+  source_article: zh-CN/deep-research/overview.md
+  status: confirmed
+- id: T1-004
+  category: T1
+  zh_form: 大语言模型
+  en_form: LLM
+  alias:
+  - Large Language Model
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: global
+  context_example: LLM 驱动的对话能力
+  source_article: zh-CN/kimi-api/model-capabilities.md
+  status: confirmed
+- id: T1-005
+  category: T1
+  zh_form: 检索增强生成
+  en_form: RAG
+  alias:
+  - Retrieval-Augmented Generation
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: global
+  context_example: RAG 技术增强回答准确性
+  source_article: zh-CN/kimi-api/model-capabilities.md
+  status: confirmed
+- id: T1-006
+  category: T1
+  zh_form: Agentic Search
+  en_form: Agentic Search
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Agentic Search 主动规划搜索策略
+  source_article: zh-CN/deep-research/overview.md
+  status: confirmed
+- id: T1-007
+  category: T1
+  zh_form: 澄清
+  en_form: Clarification
+  alias: []
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: global
+  context_example: 澄清问题（Clarification）：理解问题时主动反问
+  source_article: zh-CN/deep-research/overview.md
+  status: confirmed
+- id: T1-008
+  category: T1
+  zh_form: 迭代推理
+  en_form: Iterative reasoning
+  alias: []
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: global
+  context_example: 迭代推理（Iterative reasoning）动态调整研究路径
+  source_article: zh-CN/deep-research/overview.md
+  status: confirmed
+- id: T1-009
+  category: T1
+  zh_form: Token 估算
+  en_form: Token Estimation
+  alias: []
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: global
+  context_example: Token Estimation 用于预估用量
+  source_article: zh-CN/kimi-claw/conversation-limits.md
+  status: confirmed
+- id: T1-010
+  category: T1
+  zh_form: 上下文分片
+  en_form: context sharding
+  alias: []
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: global
+  context_example: PARL 基于上下文分片（context sharding）技术
+  source_article: zh-CN/agent/swarm.md
+  status: confirmed
+- id: T1-011
+  category: T1
+  zh_form: 自研
+  en_form: in-house
+  alias: []
+  translation_strategy: keep_original_with_note
+  case_sensitive: false
+  region_note: global
+  context_example: Moonshot AI 自研的模型
+  source_article: zh-CN/deep-research/overview.md
+  status: confirmed
+- id: T2-001
+  category: T2
+  zh_form: 命令行界面
+  en_form: CLI
+  alias:
+  - Command Line Interface
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: global
+  context_example: Kimi Code CLI 安装命令
+  source_article: zh-CN/kimi-code/cli-getting-started.md
+  status: confirmed
+- id: T2-002
+  category: T2
+  zh_form: API
+  en_form: API
+  alias:
+  - Application Programming Interface
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Kimi API 开放平台
+  source_article: zh-CN/kimi-api/overview.md
+  status: confirmed
+- id: T2-003
+  category: T2
+  zh_form: SDK
+  en_form: SDK
+  alias:
+  - Software Development Kit
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: SDK 接入方式
+  source_article: zh-CN/kimi-api/overview.md
+  status: confirmed
+- id: T2-004
+  category: T2
+  zh_form: Git
+  en_form: Git
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Git 版本控制
+  source_article: zh-CN/kimi-code/cli-getting-started.md
+  status: confirmed
+- id: T2-005
+  category: T2
+  zh_form: GitHub
+  en_form: GitHub
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: GitHub 代码托管
+  source_article: zh-CN/kimi-code/cli-getting-started.md
+  status: confirmed
+- id: T2-006
+  category: T2
+  zh_form: GitLab
+  en_form: GitLab
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: GitLab CI/CD
+  source_article: README.md
+  status: confirmed
+- id: T2-007
+  category: T2
+  zh_form: pnpm
+  en_form: pnpm
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: pnpm install 安装依赖
+  source_article: README.md
+  status: confirmed
+- id: T2-008
+  category: T2
+  zh_form: npm
+  en_form: npm
+  alias:
+  - Node Package Manager
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: npm 包管理器
+  source_article: zh-CN/kimi-code/cli-getting-started.md
+  status: confirmed
+- id: T2-009
+  category: T2
+  zh_form: Node.js
+  en_form: Node.js
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Node.js 运行环境
+  source_article: README.md
+  status: confirmed
+- id: T2-010
+  category: T2
+  zh_form: OpenAPI
+  en_form: OpenAPI
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: OpenAPI 规范
+  source_article: zh-CN/kimi-api/overview.md
+  status: confirmed
+- id: T2-011
+  category: T2
+  zh_form: curl
+  en_form: curl
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: curl 命令行工具
+  source_article: zh-CN/kimi-api/overview.md
+  status: confirmed
+- id: T2-012
+  category: T2
+  zh_form: OAuth
+  en_form: OAuth
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: OAuth 2.0 认证
+  source_article: zh-CN/kimi-api/account-and-auth.md
+  status: confirmed
+- id: T2-013
+  category: T2
+  zh_form: JWT
+  en_form: JWT
+  alias:
+  - JSON Web Token
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: JWT 令牌验证
+  source_article: zh-CN/kimi-api/account-and-auth.md
+  status: confirmed
+- id: T2-014
+  category: T2
+  zh_form: REST
+  en_form: REST
+  alias:
+  - Representational State Transfer
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: REST API 设计
+  source_article: zh-CN/kimi-api/overview.md
+  status: confirmed
+- id: T2-015
+  category: T2
+  zh_form: JSON
+  en_form: JSON
+  alias:
+  - JavaScript Object Notation
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: JSON 数据格式
+  source_article: zh-CN/kimi-api/overview.md
+  status: confirmed
+- id: T2-016
+  category: T2
+  zh_form: XML
+  en_form: XML
+  alias:
+  - Extensible Markup Language
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: XML 格式响应
+  source_article: zh-CN/kimi-api/overview.md
+  status: confirmed
+- id: T2-017
+  category: T2
+  zh_form: HTML
+  en_form: HTML
+  alias:
+  - HyperText Markup Language
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: HTML 可视化报告
+  source_article: zh-CN/deep-research/overview.md
+  status: confirmed
+- id: T2-018
+  category: T2
+  zh_form: CSS
+  en_form: CSS
+  alias:
+  - Cascading Style Sheets
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: CSS 样式
+  source_article: zh-CN/kimi-api/overview.md
+  status: confirmed
+- id: T2-019
+  category: T2
+  zh_form: OpenClaw
+  en_form: OpenClaw
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: OpenClaw 是开源自动化框架
+  source_article: zh-CN/kimi-claw/overview.md
+  notes: 与 Kimi Claw 区分：OpenClaw 为开源框架，Kimi Claw 为云托管产品
+  status: confirmed
+- id: T3-001
+  category: T3
+  zh_form: PDF
+  en_form: PDF
+  alias:
+  - Portable Document Format
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: 支持 PDF 格式输入
+  source_article: zh-CN/ppt/overview.md
+  status: confirmed
+- id: T3-002
+  category: T3
+  zh_form: Word
+  en_form: Word
+  alias:
+  - Microsoft Word
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Word 文档导出
+  source_article: zh-CN/docs-and-sheets/overview.md
+  status: confirmed
+- id: T3-003
+  category: T3
+  zh_form: Excel
+  en_form: Excel
+  alias:
+  - Microsoft Excel
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Excel 表格处理
+  source_article: zh-CN/docs-and-sheets/sheets-cases.md
+  status: confirmed
+- id: T3-004
+  category: T3
+  zh_form: PPT
+  en_form: PPT
+  alias:
+  - PowerPoint
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: PPT 幻灯片生成
+  source_article: zh-CN/ppt/overview.md
+  status: confirmed
+- id: T3-005
+  category: T3
+  zh_form: PowerPoint
+  en_form: PowerPoint
+  alias:
+  - Microsoft PowerPoint
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: PowerPoint 格式导出
+  source_article: zh-CN/ppt/overview.md
+  status: confirmed
+- id: T3-006
+  category: T3
+  zh_form: Markdown
+  en_form: Markdown
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Markdown 格式报告
+  source_article: zh-CN/deep-research/overview.md
+  status: confirmed
+- id: T3-007
+  category: T3
+  zh_form: CSV
+  en_form: CSV
+  alias:
+  - Comma-Separated Values
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: CSV 数据导出
+  source_article: zh-CN/docs-and-sheets/sheets-cases.md
+  status: confirmed
+- id: T3-008
+  category: T3
+  zh_form: TXT
+  en_form: TXT
+  alias:
+  - Text
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: TXT 纯文本
+  source_article: zh-CN/ppt/overview.md
+  status: confirmed
+- id: T3-009
+  category: T3
+  zh_form: JPEG
+  en_form: JPEG
+  alias:
+  - JPG
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: JPEG 图片上传
+  source_article: zh-CN/getting-started/overview.md
+  status: confirmed
+- id: T3-010
+  category: T3
+  zh_form: PNG
+  en_form: PNG
+  alias:
+  - Portable Network Graphics
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: PNG 图片格式
+  source_article: zh-CN/getting-started/overview.md
+  status: confirmed
+- id: T3-011
+  category: T3
+  zh_form: GIF
+  en_form: GIF
+  alias:
+  - Graphics Interchange Format
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: GIF 动图
+  source_article: zh-CN/deep-research/overview.md
+  status: confirmed
+- id: T3-012
+  category: T3
+  zh_form: MP4
+  en_form: MP4
+  alias:
+  - MPEG-4
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: MP4 视频文件
+  source_article: README.md
+  status: confirmed
+- id: T3-013
+  category: T3
+  zh_form: YAML
+  en_form: YAML
+  alias:
+  - YAML Ain't Markup Language
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: YAML 配置文件
+  source_article: README.md
+  status: confirmed
+- id: T3-014
+  category: T3
+  zh_form: MDX
+  en_form: MDX
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: MDX 格式文档
+  source_article: README.md
+  status: confirmed
+- id: T4-001
+  category: T4
+  zh_form: CDN
+  en_form: CDN
+  alias:
+  - Content Delivery Network
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: CDN 静态资源分发
+  source_article: README.md
+  status: confirmed
+- id: T4-002
+  category: T4
+  zh_form: DNS
+  en_form: DNS
+  alias:
+  - Domain Name System
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: DNS 解析
+  source_article: zh-CN/kimi-api/api-troubleshooting.md
+  status: confirmed
+- id: T4-003
+  category: T4
+  zh_form: TLS
+  en_form: TLS
+  alias:
+  - Transport Layer Security
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: TLS 加密传输
+  source_article: zh-CN/kimi-api/data-security.md
+  status: confirmed
+- id: T4-004
+  category: T4
+  zh_form: SSL
+  en_form: SSL
+  alias:
+  - Secure Sockets Layer
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: SSL 证书
+  source_article: zh-CN/kimi-api/data-security.md
+  status: confirmed
+- id: T4-005
+  category: T4
+  zh_form: SSH
+  en_form: SSH
+  alias:
+  - Secure Shell
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: SSH 远程连接
+  source_article: zh-CN/kimi-code/cli-getting-started.md
+  status: confirmed
+- id: T4-006
+  category: T4
+  zh_form: Tailscale
+  en_form: Tailscale
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Tailscale 组网工具
+  source_article: zh-CN/kimi-claw/tailscale-issue.md
+  status: confirmed
+- id: T4-007
+  category: T4
+  zh_form: Wi-Fi
+  en_form: Wi-Fi
+  alias:
+  - Wireless Fidelity
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Wi-Fi 网络连接
+  source_article: zh-CN/kimi-claw/android-user-guide.md
+  status: confirmed
+- id: T4-008
+  category: T4
+  zh_form: 蓝牙
+  en_form: Bluetooth
+  alias: []
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: global
+  context_example: 蓝牙（Bluetooth）连接
+  source_article: zh-CN/kimi-claw/android-user-guide.md
+  status: confirmed
+- id: T4-009
+  category: T4
+  zh_form: 火山引擎 TOS
+  en_form: Volcengine TOS
+  alias:
+  - TOS
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: cn-only
+  context_example: Volcengine TOS 对象存储
+  source_article: README.md
+  status: confirmed
+- id: T4-010
+  category: T4
+  zh_form: Postgres
+  en_form: Postgres
+  alias:
+  - PostgreSQL
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Postgres 数据库存储
+  source_article: README.md
+  status: confirmed
+- id: T4-011
+  category: T4
+  zh_form: XPC
+  en_form: XPC
+  alias:
+  - Inter-Process Communication
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: XPC 进程间通信
+  source_article: zh-CN/kimi-claw/android-user-guide.md
+  status: confirmed
+- id: T4-012
+  category: T4
+  zh_form: Mach
+  en_form: Mach
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Mach 服务查找
+  source_article: zh-CN/kimi-claw/android-user-guide.md
+  status: confirmed
+- id: T4-013
+  category: T4
+  zh_form: seccomp
+  en_form: seccomp
+  alias:
+  - secure computing mode
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: seccomp 沙箱隔离
+  source_article: zh-CN/kimi-code/benefits.md
+  status: confirmed
+- id: T4-014
+  category: T4
+  zh_form: bwrap
+  en_form: bwrap
+  alias:
+  - bubblewrap
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: bwrap 沙箱工具
+  source_article: zh-CN/kimi-code/benefits.md
+  status: confirmed
+- id: T4-015
+  category: T4
+  zh_form: bubblewrap
+  en_form: bubblewrap
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: bubblewrap 命名空间隔离
+  source_article: zh-CN/kimi-code/benefits.md
+  status: confirmed
+- id: T4-016
+  category: T4
+  zh_form: socat
+  en_form: socat
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: socat 网络代理
+  source_article: zh-CN/kimi-code/benefits.md
+  status: confirmed
+- id: T4-017
+  category: T4
+  zh_form: OpenTelemetry
+  en_form: OpenTelemetry
+  alias:
+  - OTel
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: OpenTelemetry 链路追踪
+  source_article: zh-CN/kimi-code/benefits.md
+  status: confirmed
+- id: T4-018
+  category: T4
+  zh_form: ripgrep
+  en_form: ripgrep
+  alias:
+  - rg
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: ripgrep 文本搜索
+  source_article: zh-CN/kimi-code/benefits.md
+  status: confirmed
+- id: S1-001
+  category: S1
+  zh_form: 微信
+  en_form: WeChat
+  alias: []
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: global
+  context_example: 微信（WeChat）插件配置
+  source_article: zh-CN/kimi-claw/wechat-bot.md
+  status: confirmed
+- id: S1-002
+  category: S1
+  zh_form: 飞书
+  en_form: Feishu
+  alias:
+  - Lark
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: cn-only
+  context_example: 飞书（Feishu）机器人接入
+  source_article: zh-CN/kimi-claw/feishu-bot.md
+  notes: 国内用 Feishu，海外用 Lark，属同一产品的不同区域品牌名
+  status: confirmed
+- id: S1-003
+  category: S1
+  zh_form: Lark
+  en_form: Lark
+  alias:
+  - Feishu
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global-only
+  context_example: Lark bot integration
+  source_article: en-US/kimi-claw/telegram-bot.md
+  notes: Lark 是 Feishu 的海外品牌名
+  status: confirmed
+- id: S1-004
+  category: S1
+  zh_form: 企业微信
+  en_form: WeCom
+  alias: []
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: cn-only
+  context_example: 企业微信（WeCom）部署
+  source_article: zh-CN/kimi-claw/wecom-bot.md
+  status: confirmed
+- id: S1-005
+  category: S1
+  zh_form: 钉钉
+  en_form: DingTalk
+  alias: []
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: cn-only
+  context_example: 钉钉（DingTalk）机器人
+  source_article: zh-CN/kimi-claw/dingtalk-bot.md
+  status: confirmed
+- id: S1-006
+  category: S1
+  zh_form: Telegram
+  en_form: Telegram
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global-only
+  context_example: Telegram bot setup
+  source_article: en-US/kimi-claw/telegram-bot.md
+  status: confirmed
+- id: S1-007
+  category: S1
+  zh_form: 微博
+  en_form: Weibo
+  alias: []
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: cn-only
+  context_example: 微博（Weibo）助手
+  source_article: zh-CN/kimi-claw/weibo-bot.md
+  status: confirmed
+- id: S2-001
+  category: S2
+  zh_form: iOS
+  en_form: iOS
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: iOS 客户端
+  source_article: zh-CN/kimi-claw/platform-support.md
+  status: confirmed
+- id: S2-002
+  category: S2
+  zh_form: Android
+  en_form: Android
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Android 用户指南
+  source_article: zh-CN/kimi-claw/android-user-guide.md
+  status: confirmed
+- id: S2-003
+  category: S2
+  zh_form: HarmonyOS
+  en_form: HarmonyOS
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: cn-only
+  context_example: HarmonyOS 应用
+  source_article: zh-CN/kimi-claw/platform-support.md
+  status: confirmed
+- id: S2-004
+  category: S2
+  zh_form: macOS
+  en_form: macOS
+  alias:
+  - Mac OS X
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: macOS 桌面客户端
+  source_article: zh-CN/kimi-claw/desktop-deployment-guide.md
+  status: confirmed
+- id: S2-005
+  category: S2
+  zh_form: Windows
+  en_form: Windows
+  alias:
+  - Microsoft Windows
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Windows 桌面部署
+  source_article: zh-CN/kimi-claw/desktop-deployment-guide.md
+  status: confirmed
+- id: S2-006
+  category: S2
+  zh_form: Linux
+  en_form: Linux
+  alias:
+  - GNU/Linux
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Linux 环境
+  source_article: zh-CN/kimi-code/cli-getting-started.md
+  status: confirmed
+- id: S3-001
+  category: S3
+  zh_form: VS Code
+  en_form: VS Code
+  alias:
+  - Visual Studio Code
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: VS Code 扩展安装
+  source_article: zh-CN/kimi-code/vscode-getting-started.md
+  status: confirmed
+- id: S3-002
+  category: S3
+  zh_form: Visual Studio Code
+  en_form: Visual Studio Code
+  alias:
+  - VS Code
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Visual Studio Code 编辑器
+  source_article: zh-CN/kimi-code/vscode-getting-started.md
+  status: confirmed
+- id: S3-003
+  category: S3
+  zh_form: JetBrains
+  en_form: JetBrains
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: JetBrains IDE 插件
+  source_article: zh-CN/kimi-code/cli-ides.md
+  status: confirmed
+- id: S3-004
+  category: S3
+  zh_form: Chrome
+  en_form: Chrome
+  alias:
+  - Google Chrome
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Chrome 浏览器扩展
+  source_article: zh-CN/kimi-webbridge/how-it-works.md
+  status: confirmed
+- id: S3-005
+  category: S3
+  zh_form: Edge
+  en_form: Edge
+  alias:
+  - Microsoft Edge
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Edge 浏览器
+  source_article: zh-CN/kimi-webbridge/how-it-works.md
+  status: confirmed
+- id: S3-006
+  category: S3
+  zh_form: Safari
+  en_form: Safari
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Safari 浏览器
+  source_article: zh-CN/kimi-webbridge/FAQ.md
+  status: confirmed
+- id: S3-007
+  category: S3
+  zh_form: Firefox
+  en_form: Firefox
+  alias:
+  - Mozilla Firefox
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Firefox 浏览器
+  source_article: zh-CN/kimi-webbridge/FAQ.md
+  status: confirmed
+- id: S3-008
+  category: S3
+  zh_form: IntelliJ
+  en_form: IntelliJ
+  alias:
+  - IntelliJ IDEA
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: IntelliJ IDEA
+  source_article: zh-CN/kimi-code/cli-ides.md
+  status: confirmed
+- id: S3-009
+  category: S3
+  zh_form: PyCharm
+  en_form: PyCharm
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: PyCharm IDE
+  source_article: zh-CN/kimi-code/cli-ides.md
+  status: confirmed
+- id: S3-010
+  category: S3
+  zh_form: WebStorm
+  en_form: WebStorm
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: WebStorm IDE
+  source_article: zh-CN/kimi-code/cli-ides.md
+  status: confirmed
+- id: M1-001
+  category: M1
+  zh_form: Adagio
+  en_form: Adagio
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Adagio 免费套餐
+  source_article: zh-CN/membership/overview.md
+  notes: 音乐术语命名体系，免费 tier
+  status: confirmed
+- id: M1-002
+  category: M1
+  zh_form: Andante
+  en_form: Andante
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: cn-only
+  context_example: Andante 入门套餐
+  source_article: zh-CN/membership/pricing.md
+  notes: 中国区特有付费 tier，全球区无此等级
+  status: confirmed
+- id: M1-003
+  category: M1
+  zh_form: Moderato
+  en_form: Moderato
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Moderato 标准套餐
+  source_article: zh-CN/membership/pricing.md
+  status: confirmed
+- id: M1-004
+  category: M1
+  zh_form: Allegretto
+  en_form: Allegretto
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Allegretto 高级套餐
+  source_article: zh-CN/membership/pricing.md
+  status: confirmed
+- id: M1-005
+  category: M1
+  zh_form: Allegro
+  en_form: Allegro
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Allegro 旗舰套餐
+  source_article: zh-CN/membership/pricing.md
+  status: confirmed
+- id: M1-006
+  category: M1
+  zh_form: Vivace
+  en_form: Vivace
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global-only
+  context_example: Vivace 顶级套餐
+  source_article: en-US/membership/pricing.md
+  notes: 全球区特有付费 tier，中国区无此等级
+  status: confirmed
+- id: M2-001
+  category: M2
+  zh_form: token
+  en_form: token
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: token 消耗量
+  source_article: zh-CN/kimi-api/pricing.md
+  notes: 计费基本单位，绝对不可译
+  status: confirmed
+- id: M2-002
+  category: M2
+  zh_form: 额度
+  en_form: credit
+  alias:
+  - Unified Credits
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: global
+  context_example: 统一额度（Unified Credits）
+  source_article: zh-CN/membership/update-rules.md
+  status: confirmed
+- id: M2-003
+  category: M2
+  zh_form: 配额
+  en_form: quota
+  alias: []
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: global
+  context_example: Agent 配额（quota）
+  source_article: zh-CN/agent/quota-and-billing.md
+  status: confirmed
+- id: M2-004
+  category: M2
+  zh_form: RPM
+  en_form: RPM
+  alias:
+  - Requests Per Minute
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: API RPM 限制
+  source_article: zh-CN/kimi-api/rate-limits.md
+  status: confirmed
+- id: M2-005
+  category: M2
+  zh_form: TPM
+  en_form: TPM
+  alias:
+  - Tokens Per Minute
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: API TPM 限制
+  source_article: zh-CN/kimi-api/rate-limits.md
+  status: confirmed
+- id: M2-006
+  category: M2
+  zh_form: 速率限制
+  en_form: rate limit
+  alias:
+  - rate limiting
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: global
+  context_example: 速率限制（rate limit）配置
+  source_article: zh-CN/kimi-api/rate-limits.md
+  status: confirmed
+- id: M2-007
+  category: M2
+  zh_form: 并发
+  en_form: concurrency
+  alias: []
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: global
+  context_example: 并发（concurrency）限制
+  source_article: zh-CN/kimi-api/rate-limits.md
+  status: confirmed
+- id: M3-001
+  category: M3
+  zh_form: 支付宝
+  en_form: Alipay
+  alias: []
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: cn-only
+  context_example: 支付宝（Alipay）支付
+  source_article: zh-CN/membership/payment-issues.md
+  status: confirmed
+- id: M3-002
+  category: M3
+  zh_form: 微信支付
+  en_form: WeChat Pay
+  alias: []
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: cn-only
+  context_example: 微信支付（WeChat Pay）
+  source_article: zh-CN/membership/payment-issues.md
+  status: confirmed
+- id: M3-003
+  category: M3
+  zh_form: Apple Pay
+  en_form: Apple Pay
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Apple Pay 支付
+  source_article: zh-CN/membership/payment-issues.md
+  status: confirmed
+- id: M3-004
+  category: M3
+  zh_form: Google Pay
+  en_form: Google Pay
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global-only
+  context_example: Google Pay
+  source_article: en-US/membership/payment-issues.md
+  status: confirmed
+- id: M3-005
+  category: M3
+  zh_form: Stripe
+  en_form: Stripe
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global-only
+  context_example: Stripe 支付
+  source_article: en-US/membership/payment-issues.md
+  status: confirmed
+- id: M3-006
+  category: M3
+  zh_form: Airwallex
+  en_form: Airwallex
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global-only
+  context_example: Airwallex 支付
+  source_article: en-US/membership/payment-issues.md
+  status: confirmed
+- id: M3-007
+  category: M3
+  zh_form: 银联
+  en_form: UnionPay
+  alias: []
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: cn-only
+  context_example: 银联（UnionPay）
+  source_article: zh-CN/membership/payment-issues.md
+  status: confirmed
+  notes: 中文文档用「银联」，英文文档用 UnionPay；多语言场景保留英文品牌名 UnionPay
+- id: M3-008
+  category: M3
+  zh_form: PayPal
+  en_form: PayPal
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global-only
+  context_example: PayPal 支付
+  source_article: en-US/membership/payment-issues.md
+  status: confirmed
+- id: E1-001
+  category: E1
+  zh_form: '401'
+  en_form: '401'
+  alias:
+  - Unauthorized
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: 401 Unauthorized 认证失败
+  source_article: zh-CN/kimi-api/api-troubleshooting.md
+  status: confirmed
+- id: E1-002
+  category: E1
+  zh_form: '403'
+  en_form: '403'
+  alias:
+  - Forbidden
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: 403 Forbidden 余额不足
+  source_article: zh-CN/kimi-api/api-troubleshooting.md
+  status: confirmed
+- id: E1-003
+  category: E1
+  zh_form: '429'
+  en_form: '429'
+  alias:
+  - Too Many Requests
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: 429 Too Many Requests 速率超限
+  source_article: zh-CN/kimi-api/api-troubleshooting.md
+  status: confirmed
+- id: E1-004
+  category: E1
+  zh_form: '500'
+  en_form: '500'
+  alias:
+  - Internal Server Error
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: 500 Internal Server Error
+  source_article: zh-CN/kimi-api/api-troubleshooting.md
+  status: confirmed
+- id: E1-005
+  category: E1
+  zh_form: '502'
+  en_form: '502'
+  alias:
+  - Bad Gateway
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: 502 Bad Gateway
+  source_article: zh-CN/kimi-api/api-troubleshooting.md
+  status: confirmed
+- id: E1-006
+  category: E1
+  zh_form: 余额不足
+  en_form: Insufficient Balance
+  alias: []
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: global
+  context_example: 403 Insufficient Balance 余额不足
+  source_article: zh-CN/kimi-api/api-troubleshooting.md
+  status: confirmed
+- id: E1-007
+  category: E1
+  zh_form: 请求过多
+  en_form: Too Many Requests
+  alias: []
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: global
+  context_example: 429 Too Many Requests 请求过多
+  source_article: zh-CN/kimi-api/api-troubleshooting.md
+  status: confirmed
+- id: E1-008
+  category: E1
+  zh_form: 认证错误
+  en_form: Authentication Error
+  alias: []
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: global
+  context_example: 401 Authentication Error 认证错误
+  source_article: zh-CN/kimi-api/api-troubleshooting.md
+  status: confirmed
+- id: E1-009
+  category: E1
+  zh_form: 服务器内部错误
+  en_form: Internal Server Error
+  alias: []
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: global
+  context_example: 500 Internal Server Error 服务器内部错误
+  source_article: zh-CN/kimi-api/api-troubleshooting.md
+  status: confirmed
+- id: D1-001
+  category: D1
+  zh_form: kimi.com
+  en_form: kimi.com
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: https://www.kimi.com
+  source_article: zh-CN/deep-research/overview.md
+  status: confirmed
+- id: D1-002
+  category: D1
+  zh_form: kimi.ai
+  en_form: kimi.ai
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global-only
+  context_example: https://www.kimi.ai
+  source_article: en-US/membership/overview.md
+  status: confirmed
+- id: D1-003
+  category: D1
+  zh_form: platform.kimi.com
+  en_form: platform.kimi.com
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: cn-only
+  context_example: https://platform.kimi.com
+  source_article: zh-CN/kimi-api/overview.md
+  status: confirmed
+- id: D1-004
+  category: D1
+  zh_form: platform.kimi.ai
+  en_form: platform.kimi.ai
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global-only
+  context_example: https://platform.kimi.ai
+  source_article: en-US/kimi-api/overview.md
+  status: confirmed
+- id: D1-005
+  category: D1
+  zh_form: moonshot.cn
+  en_form: moonshot.cn
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: cn-only
+  context_example: https://www.moonshot.cn
+  source_article: zh-CN/membership/contact.md
+  status: confirmed
+- id: D1-006
+  category: D1
+  zh_form: moonshot.ai
+  en_form: moonshot.ai
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global-only
+  context_example: https://www.moonshot.ai
+  source_article: en-US/membership/contact.md
+  status: confirmed
+- id: D1-007
+  category: D1
+  zh_form: statics.moonshot.cn
+  en_form: statics.moonshot.cn
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: cn-only
+  context_example: https://statics.moonshot.cn
+  source_article: README.md
+  status: confirmed
+- id: D1-008
+  category: D1
+  zh_form: larksuite.com
+  en_form: larksuite.com
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global-only
+  context_example: https://www.larksuite.com
+  source_article: en-US/kimi-claw/platform-support.md
+  status: confirmed
+- id: D1-009
+  category: D1
+  zh_form: feishu.cn
+  en_form: feishu.cn
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: cn-only
+  context_example: https://www.feishu.cn
+  source_article: zh-CN/kimi-claw/feishu-bot.md
+  status: confirmed
+- id: L1-001
+  category: L1
+  zh_form: 《Kimi 用户服务协议》
+  en_form: Kimi User Service Agreement
+  alias: []
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: global
+  context_example: 须遵守《Kimi 用户服务协议》
+  source_article: zh-CN/deep-research/overview.md
+  status: confirmed
+- id: L1-002
+  category: L1
+  zh_form: 《隐私政策》
+  en_form: Privacy Policy
+  alias: []
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: global
+  context_example: 隐私政策（Privacy Policy）说明
+  source_article: zh-CN/membership/overview.md
+  status: confirmed
+  notes: 无法律文档中的 Kimi 品牌名，可按 locale 翻译为《隐私政策》/ Privacy Policy
+- id: X1-001
+  category: X1
+  zh_form: SeoMeta
+  en_form: SeoMeta
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: <SeoMeta title="..." description="..." />
+  source_article: AGENTS.md
+  status: confirmed
+- id: X1-002
+  category: X1
+  zh_form: Callout
+  en_form: Callout
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: <Callout type="info">...</Callout>
+  source_article: AGENTS.md
+  status: confirmed
+- id: X1-003
+  category: X1
+  zh_form: Frames
+  en_form: Frames
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: <Frames src="..." alt="..." />
+  source_article: AGENTS.md
+  status: confirmed
+- id: X1-004
+  category: X1
+  zh_form: VideoList
+  en_form: VideoList
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: <VideoList column={2} list={[...]} />
+  source_article: AGENTS.md
+  status: confirmed
+- id: X1-005
+  category: X1
+  zh_form: Chat
+  en_form: Chat
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: <Chat src="https://www.kimi.com/share/..." />
+  source_article: AGENTS.md
+  status: confirmed
+- id: X1-006
+  category: X1
+  zh_form: CodePreview
+  en_form: CodePreview
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: <CodePreview files={[{ name, content, language }]} />
+  source_article: AGENTS.md
+  status: confirmed
+- id: X1-007
+  category: X1
+  zh_form: ComparisonBlock
+  en_form: ComparisonBlock
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: <ComparisonBlock wrong={"..."} correct={"..."} />
+  source_article: AGENTS.md
+  status: confirmed
+- id: X1-008
+  category: X1
+  zh_form: ColumnsContent
+  en_form: ColumnsContent
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: <ColumnsContent columns={[{ title, description, pageUrl, type }]}
+    />
+  source_article: AGENTS.md
+  status: confirmed
+- id: P2-005
+  category: P2
+  zh_form: K1.5
+  en_form: K1.5
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: K1.5 模型版本
+  source_article: zh-CN/getting-started/overview.md
+  status: confirmed
+- id: P2-006
+  category: P2
+  zh_form: v1
+  en_form: v1
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: v1 版本
+  source_article: zh-CN/getting-started/overview.md
+  status: confirmed
+- id: P2-007
+  category: P2
+  zh_form: Kimi-VL
+  en_form: Kimi-VL
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Kimi-VL 视觉语言模型
+  source_article: zh-CN/getting-started/overview.md
+  status: confirmed
+- id: P1-019
+  category: P1
+  zh_form: Nano Banana
+  en_form: Nano Banana
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Nano Banana 功能
+  source_article: zh-CN/getting-started/overview.md
+  status: confirmed
+- id: P1-020
+  category: P1
+  zh_form: Nano Banana Pro
+  en_form: Nano Banana Pro
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Nano Banana Pro 高级版
+  source_article: zh-CN/getting-started/overview.md
+  status: confirmed
+- id: P1-021
+  category: P1
+  zh_form: 全球金融数据库
+  en_form: Global Finance Data
+  alias: []
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: global
+  context_example: 全球金融数据库（Global Finance Data）数据源
+  source_article: zh-CN/deep-research/overview.md
+  status: confirmed
+- id: P1-022
+  category: P1
+  zh_form: 同花顺ifind金融数据库
+  en_form: Stock Finance data
+  alias: []
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: cn-only
+  context_example: 同花顺ifind金融数据库（Stock Finance data）数据源
+  source_article: zh-CN/deep-research/overview.md
+  notes: ifind 为品牌名，不可译
+  status: confirmed
+- id: P1-023
+  category: P1
+  zh_form: 学术数据库
+  en_form: Academic data
+  alias: []
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: global
+  context_example: 学术数据库（Academic data）数据源
+  source_article: zh-CN/deep-research/overview.md
+  status: confirmed
+- id: T1-012
+  category: T1
+  zh_form: Subagent
+  en_form: Subagent
+  alias: []
+  translation_strategy: keep_original
+  case_sensitive: true
+  region_note: global
+  context_example: Subagent 子代理技术
+  source_article: zh-CN/agent/swarm.md
+  status: confirmed
+- id: P1-024
+  category: P1
+  zh_form: 复刻
+  en_form: remix
+  alias: []
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: global
+  context_example: 复刻（remix）功能
+  source_article: zh-CN/getting-started/overview.md
+  status: confirmed

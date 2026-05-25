@@ -15,7 +15,7 @@ preview: false
 # Kimi WebBridge 使用案例演示
 
 <Callout type="warning">
-本页面提供的 Skill 与 CLI 仅供教学与技术交流，如有异议，可以联系 <a href="mailto:support@kimi.com">support@kimi.com</a> 进行沟通。
+本页面提供的 Skill 与 CLI 仅供教学与技术交流，如有异议，可以联系 <a href="mailto:support@moonshot.cn">support@moonshot.cn</a> 进行沟通。
 </Callout>
 
 Kimi WebBridge 让 Agent 像真人一样操作浏览器，沿用你已经登录的网站，自动完成导航、提取和整理。

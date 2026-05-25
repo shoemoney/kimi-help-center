@@ -2,7 +2,7 @@
 title: "Kimi WebBridge 使用案例演示"
 slug: "kimi-webbridge-use-cases"
 order: 3
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

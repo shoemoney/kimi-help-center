@@ -16,6 +16,17 @@ preview: false
 
 Kimi WebBridge 是一款专为 AI Agent 设计的浏览器插件。与云端浏览器自动化方案不同，Kimi WebBridge 直接在你正在使用的 Chrome 或 Edge 浏览器中执行操作，能够自动获取你的登录态，让 Agent 像真人一样与网页交互。
 
+<VideoList
+  column={1}
+  list={[
+    {
+      url: "./videos/H265_LoRes_WebBridge_用户教程_CN.mp4",
+      type: "video",
+      caption: "Kimi WebBridge 视频教程",
+    },
+  ]}
+/>
+
 <Callout type="tip">
 建议在主力工作电脑上部署 Kimi WebBridge，以获得最佳的浏览器自动化体验。
 </Callout>
@@ -88,14 +99,31 @@ WebBridge 通过本地桥接服务和浏览器扩展协同工作，所有执行�
 
 支持 Claude Code、Codex、Cursor、Kimi Code、Hermers Claw 等。
 
-1. 在 Agent 中发送以下指令：
+
+1. 在 Agent 中直接发送以下指令，即可自动完成 WebBridge 安装。Agent 会根据你的操作系统自动执行对应的安装流程。
+
+如果你是 macOS 用户，请使用以下命令：
 
 <CodePreview
   files={[
     {
-      name: "command.sh",
+      name: "macos.sh",
       language: "bash",
-      content: "curl -fsSL https://kimi-web-img.moonshot.cn/webbridge/install_skill.sh | bash -s -- -y",
+      content:
+        "curl -fsSL https://kimi-web-img.moonshot.cn/webbridge/install_skill.sh | bash -s -- -y",
+    },
+  ]}
+/>
+
+如果你是 Windows 用户，请使用以下命令：
+
+<CodePreview
+  files={[
+    {
+      name: "windows.ps1",
+      language: "powershell",
+      content:
+        "irm https://kimi-web-img.moonshot.cn/webbridge/install.ps1 | iex",
     },
   ]}
 />

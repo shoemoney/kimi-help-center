@@ -153,4 +153,4 @@ You can also manually specify additional Skills directories using the `--skills-
 Kimi Code CLI includes two built-in useful Skills: `kimi-cli-help` (answers CLI usage questions) and `skill-creator` (guides you through creating new Skills). Enter `/skill:skill-creator` to get started.
 </Callout>
 
-For complete configuration options and parameter explanations, please refer to the [Kimi Code CLI Skills Documentation](https://www.kimi.com/code/docs/kimi-code-cli/customization/skills.html).
+For complete configuration options and parameter explanations, please refer to the [Kimi Code CLI Skills Documentation](https://www.kimi.com/code/docs/en/kimi-code-cli/customization/skills.html).

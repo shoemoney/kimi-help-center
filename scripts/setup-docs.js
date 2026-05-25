@@ -29,8 +29,21 @@ const mdxSrcRefRegex = /\bsrc=["']([^"']+)["']/g;
 const mdxSrcAttrRegex = /\bsrc=(?:"([^"]+)"|'([^']+)')/;
 const framesTagRegex = /<Frames\b[^>]*>/gs;
 const chatTagRegex = /<Chat\b[^>]*>/gs;
+const videoListTagRegex = /<VideoList\b[\s\S]*?\/>/g;
+const videoListMediaRefRegex = /\b(?:url|poster)\s*:\s*["']([^"']+)["']/g;
 const mdxTypeAttrRegex = /\btype=["'][^"']*["']/;
 const codeFenceOpenRegex = /^(\s{0,3}(?:>\s*)?)(`{3,}|~{3,})(.*)$/;
+const supportedComponentNames = new Set([
+  "SeoMeta",
+  "Callout",
+  "Frames",
+  "Chat",
+  "CodePreview",
+  "ComparisonBlock",
+  "ColumnsContent",
+  "VideoList",
+]);
+const componentNameRegex = /^<\/?([A-Z][A-Za-z0-9_]*)\b/;
 
 loadDotenv({ path: ".env.local", override: false });
 loadDotenv({ path: ".env", override: false });
@@ -367,6 +380,8 @@ async function readMarkdownDocumentWithImages(
     throw new Error(`markdown document ${markdownPath} is missing slug`);
   }
 
+  validateSupportedMDXComponents(originalContent, markdownPath);
+
   let content = await rewriteLocalMediaRefs(
     originalContent,
     markdownPath,
@@ -422,6 +437,187 @@ async function readMarkdownDocumentWithImages(
       published: true,
     },
   };
+}
+
+export function validateSupportedMDXComponents(content, markdownPath = "") {
+  const errors = [];
+  const lines = content.replace(/\r\n/g, "\n").split("\n");
+  let inFence = false;
+
+  for (let index = 0; index < lines.length; index += 1) {
+    const line = lines[index];
+    if (/^\s*(```+|~{3,})/.test(line.trim())) {
+      inFence = !inFence;
+      continue;
+    }
+    if (inFence) {
+      continue;
+    }
+
+    const tagStart = line.indexOf("<");
+    if (tagStart < 0) {
+      continue;
+    }
+    const match = line.slice(tagStart).match(componentNameRegex);
+    if (!match || !supportedComponentNames.has(match[1])) {
+      continue;
+    }
+
+    const { tag, endLine } = collectMDXTag(lines, index, tagStart);
+    if (!tag.includes(">")) {
+      errors.push(
+        mdxSyntaxError(markdownPath, index + 1, match[1], "Component tag is not closed with `>`"),
+      );
+      continue;
+    }
+
+    for (const validationError of validateMDXTagSyntax(tag, markdownPath, index + 1, match[1])) {
+      errors.push(validationError);
+    }
+
+    index = Math.max(index, endLine);
+  }
+
+  if (errors.length === 1) {
+    throw errors[0];
+  }
+  if (errors.length > 1) {
+    throw new ValidationAggregateError(errors);
+  }
+}
+
+function collectMDXTag(lines, startLine, tagStart) {
+  const collected = [];
+  let curlyDepth = 0;
+  let tagClosed = false;
+
+  for (let index = startLine; index < lines.length; index += 1) {
+    const segment = index === startLine ? lines[index].slice(tagStart) : lines[index];
+    collected.push(segment);
+    curlyDepth += countUnquotedChar(segment, "{") - countUnquotedChar(segment, "}");
+
+    if (segment.includes(">") && curlyDepth <= 0) {
+      tagClosed = true;
+      return { tag: collected.join("\n"), endLine: index };
+    }
+  }
+
+  return { tag: collected.join("\n"), endLine: lines.length - 1, tagClosed };
+}
+
+function validateMDXTagSyntax(tag, markdownPath, line, componentName) {
+  const errors = [];
+  const curlyQuote = findUnquotedCurlyQuote(tag);
+  if (curlyQuote) {
+    errors.push(
+      mdxSyntaxError(
+        markdownPath,
+        line,
+        componentName,
+        `Use straight quotes in JSX props; found ${JSON.stringify(curlyQuote[0])}`,
+      ),
+    );
+  }
+
+  const openCurly = countUnquotedChar(tag, "{");
+  const closeCurly = countUnquotedChar(tag, "}");
+  if (openCurly !== closeCurly) {
+    errors.push(
+      mdxSyntaxError(
+        markdownPath,
+        line,
+        componentName,
+        `Unbalanced JSX expression braces: ${openCurly} "{" and ${closeCurly} "}"`,
+      ),
+    );
+  }
+
+  const openSquare = countUnquotedChar(tag, "[");
+  const closeSquare = countUnquotedChar(tag, "]");
+  if (openSquare !== closeSquare) {
+    errors.push(
+      mdxSyntaxError(
+        markdownPath,
+        line,
+        componentName,
+        `Unbalanced array brackets: ${openSquare} "[" and ${closeSquare} "]"`,
+      ),
+    );
+  }
+
+  return errors;
+}
+
+function mdxSyntaxError(article, line, component, reason) {
+  return new ValidationError("Malformed MDX component", {
+    article,
+    line,
+    component,
+    reason,
+  });
+}
+
+function findUnquotedCurlyQuote(value) {
+  let quote = "";
+  let escaped = false;
+
+  for (const char of value) {
+    if (escaped) {
+      escaped = false;
+      continue;
+    }
+    if (quote && char === "\\") {
+      escaped = true;
+      continue;
+    }
+    if (quote) {
+      if (char === quote) {
+        quote = "";
+      }
+      continue;
+    }
+    if (char === `"` || char === "'" || char === "`") {
+      quote = char;
+      continue;
+    }
+    if (/[“”‘’]/.test(char)) {
+      return char;
+    }
+  }
+
+  return "";
+}
+
+function countUnquotedChar(value, target) {
+  let count = 0;
+  let quote = "";
+  let escaped = false;
+
+  for (const char of value) {
+    if (escaped) {
+      escaped = false;
+      continue;
+    }
+    if (quote && char === "\\") {
+      escaped = true;
+      continue;
+    }
+    if (quote) {
+      if (char === quote) {
+        quote = "";
+      }
+      continue;
+    }
+    if (char === `"` || char === "'" || char === "`") {
+      quote = char;
+      continue;
+    }
+    if (char === target) {
+      count += 1;
+    }
+  }
+
+  return count;
 }
 
 export function parseFrontMatter(markdown) {
@@ -533,7 +729,7 @@ async function rewriteLocalMediaRefs(
 
   const resolvedRefs = [];
   for (const ref of refs) {
-    const resolvedPath = resolveLocalImagePath(ref, markdownPath, categoryRoot);
+    const resolvedPath = resolveLocalMediaPath(ref, markdownPath, categoryRoot);
     if (!(await isFile(resolvedPath))) {
       throw new ValidationError("Missing local media asset", {
         article: markdownPath,
@@ -560,7 +756,7 @@ async function rewriteLocalMediaRefs(
         : assetURL(assetUrlPrefix, relativePath);
       media = {
         url,
-        mediaType: "image",
+        mediaType: isVideoPath(resolvedPath) ? "video" : "image",
       };
       uploadedMediaRefs.set(resolvedPath, media);
     }
@@ -678,6 +874,10 @@ function contentTypeForPath(candidate) {
       return "image/webp";
     case ".mp4":
       return "video/mp4";
+    case ".webm":
+      return "video/webm";
+    case ".mov":
+      return "video/quicktime";
     case ".txt":
       return "text/plain";
     case ".xml":
@@ -730,7 +930,20 @@ function collectLocalMediaRefs(content) {
     regex.lastIndex = 0;
     for (const match of content.matchAll(regex)) {
       const ref = String(match[1] || "").trim();
-      if (!isLocalMediaRef(ref) || seen.has(ref)) {
+      if (!isLocalAssetRef(ref) || seen.has(ref)) {
+        continue;
+      }
+      seen.add(ref);
+      refs.push(ref);
+    }
+  }
+
+  videoListTagRegex.lastIndex = 0;
+  for (const tag of content.matchAll(videoListTagRegex)) {
+    videoListMediaRefRegex.lastIndex = 0;
+    for (const match of tag[0].matchAll(videoListMediaRefRegex)) {
+      const ref = String(match[1] || "").trim();
+      if (!isLocalAssetRef(ref) || seen.has(ref)) {
         continue;
       }
       seen.add(ref);
@@ -741,7 +954,7 @@ function collectLocalMediaRefs(content) {
   return refs;
 }
 
-function resolveLocalImagePath(ref, markdownPath, categoryRoot) {
+function resolveLocalMediaPath(ref, markdownPath, categoryRoot) {
   const resolvedPath = path.resolve(path.dirname(markdownPath), ref);
   const categoryRootAbs = path.resolve(categoryRoot);
   if (!isPathWithinBase(resolvedPath, categoryRootAbs)) {
@@ -759,7 +972,7 @@ function isPathWithinBase(candidate, base) {
   return relative === "" || (!relative.startsWith("..") && !path.isAbsolute(relative));
 }
 
-function isLocalMediaRef(ref) {
+function isLocalAssetRef(ref) {
   const trimmed = ref.trim();
   if (!trimmed) {
     return false;
@@ -775,11 +988,21 @@ function isLocalMediaRef(ref) {
     return false;
   }
   const withoutQuery = lowerRef.split("?")[0];
-  return [".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg"].includes(path.extname(withoutQuery));
+  return [
+    ".jpg",
+    ".jpeg",
+    ".png",
+    ".gif",
+    ".webp",
+    ".svg",
+    ".mp4",
+    ".webm",
+    ".mov",
+  ].includes(path.extname(withoutQuery));
 }
 
-function isGIFPath(candidate) {
-  return path.extname(candidate).toLowerCase() === ".gif";
+function isVideoPath(candidate) {
+  return [".mp4", ".webm", ".mov"].includes(path.extname(candidate).toLowerCase());
 }
 
 function isCodeFenceClose(line, prefix, fenceMarker, minLength) {
@@ -1252,7 +1475,14 @@ function formatError(error) {
     const lines = [`Validation failed: ${error.message}`];
     const details = error.details || {};
     if (details.article) {
-      lines.push(`  Article: ${path.relative(process.cwd(), details.article)}`);
+      const articlePath = path.relative(process.cwd(), details.article);
+      lines.push(`  Article: ${details.line ? `${articlePath}:${details.line}` : articlePath}`);
+    }
+    if (details.component) {
+      lines.push(`  Component: ${details.component}`);
+    }
+    if (details.reason) {
+      lines.push(`  Reason: ${details.reason}`);
     }
     if (details.ref) {
       lines.push(`  Referenced path: ${details.ref}`);
@@ -1263,7 +1493,11 @@ function formatError(error) {
     if (details.categoryRoot) {
       lines.push(`  Category root: ${path.relative(process.cwd(), details.categoryRoot)}`);
     }
-    lines.push("  Fix: update the MDX src/path or add the missing asset under the category images directory.");
+    if (error.message === "Malformed MDX component") {
+      lines.push("  Fix: simplify the component props and use valid JSX string/object/array syntax.");
+    } else {
+      lines.push("  Fix: update the MDX src/path or add the missing asset under the category images or videos directory.");
+    }
     return lines.join("\n");
   }
   return error?.message || String(error);

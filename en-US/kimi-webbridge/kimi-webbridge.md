@@ -16,6 +16,17 @@ preview: false
 
 Kimi WebBridge is a browser extension designed for AI Agents. Unlike cloud-based browser automation solutions, Kimi WebBridge runs directly in your Chrome or Edge browser, automatically leveraging your existing login sessions to let Agents interact with web pages like a human.
 
+<VideoList
+  column={1}
+  list={[
+    {
+      url: "./videos/H265_LoRes_WebBridge_用户教程_EN.mp4",
+      type: "video",
+      caption: "Kimi WebBridge tutorial",
+    },
+  ]}
+/>
+
 <Callout type="tip">
 We recommend deploying Kimi WebBridge on your primary work computer for the best browser automation experience.
 </Callout>
@@ -80,14 +91,30 @@ After installation, you should see WebBridge in your browser's extensions list. 
 
 Supports Claude Code, Codex, Cursor, Kimi Code, Hermers Claw, and more.
 
-1. Send the following command in your Agent:
+1. Send the following command directly in the Agent to automatically install WebBridge. The Agent will run the appropriate setup based on your operating system.
+
+If you are a macOS user, use the command below:
 
 <CodePreview
   files={[
     {
-      name: "command.sh",
+      name: "macos.sh",
       language: "bash",
-      content: "curl -fsSL https://kimi-web-img.moonshot.cn/webbridge/install_skill.sh | bash -s -- -y",
+      content:
+        "curl -fsSL https://kimi-web-img.moonshot.cn/webbridge/install_skill.sh | bash -s -- -y",
+    },
+  ]}
+/>
+
+If you are a Windows user, use the command below:
+
+<CodePreview
+  files={[
+    {
+      name: "windows.ps1",
+      language: "powershell",
+      content:
+        "irm https://kimi-web-img.moonshot.cn/webbridge/install.ps1 | iex",
     },
   ]}
 />

@@ -14,6 +14,11 @@ preview: false
 
 # 什么是技能（Skills）
 
+<Frames
+  src="./images/skills/什么是skill.png"
+  alt="什么是skill"
+/>
+
 技能是可复用的知识包，用于扩展 Agent（智能体）的能力边界了，每个技能包含：
 
 - **处理思路与操作指引** — 针对特定任务类型的方法论
@@ -41,24 +46,8 @@ preview: false
   files={[
     {
       name: "SKILL.md",
-      language: "bash",
-      content: “---
-name: your-skill-name
-description: What it does and when Claude should use it
----
-
-# Skill Title
-
-## Instructions
-Clear, concrete, actionable rules.
-
-## Examples
-- Example usage 1
-- Example usage 2
-
-## Guidelines
-- Guideline 1
-- Guideline 2"
+      language: "markdown",
+      content: "---\nname: your-skill-name\ndescription: What it does and when Kimi should use it\n---\n\n# Skill Title\n\n## Instructions\nClear, concrete, actionable rules.\n\n## Examples\n- Example usage 1\n- Example usage 2\n\n## Guidelines\n- Guideline 1\n- Guideline 2",
     },
   ]}
 />
@@ -72,8 +61,7 @@ Clear, concrete, actionable rules.
 | 每次是否需要说明要求 | 是 | 否，自动应用 |
 | 输出格式是否稳定 | 不固定 | 按技能定义一致 |
 | 适合场景 | 一次性、临时任务 | 反复执行的固定流程 |
-| 是否需要提前设置 | 不需要 | 需要创建或安装技能 |",
-
+| 是否需要提前设置 | 不需要 | 需要创建或安装技能 |
 
 ## 技能（Skills）类型
 
@@ -99,7 +87,7 @@ Clear, concrete, actionable rules.
 
 在开源社区下载或安装适合的 Skills，搭配 Local Agent（如Kimi Code等）、云端 Agent（如Kimi Claw）使用
 
-# 常见 AI Skill Hub 平台
+**常见 AI Skill Hub 平台**
 
 | 平台名称 | 网址 | 简介 |
 |----------|------|------|
@@ -115,6 +103,5 @@ Clear, concrete, actionable rules.
 - 按固定模板生成邮件或沟通内容
 - 使用特定格式整理会议纪要
 - 执行特定的数据分析工作流
-
 
 

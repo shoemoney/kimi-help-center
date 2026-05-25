@@ -11,6 +11,7 @@ import {
   parseFrontMatter,
   parseSecondLevelHeadings,
   rewriteMarkdownCodeFencesToCodePreview,
+  validateSupportedMDXComponents,
 } from "./setup-docs.js";
 
 test("parseFrontMatter extracts metadata and content", () => {
@@ -145,4 +146,280 @@ extract_headings: false
       throw error;
     }
   }, /validation error/);
+});
+
+test("validateSupportedMDXComponents catches malformed CodePreview props", () => {
+  assert.throws(() => {
+    try {
+      validateSupportedMDXComponents(
+        `<CodePreview
+  files={[
+    {
+      name: "SKILL.md",
+      language: "bash",
+      content: “---
+name: your-skill-name
+description: What it does
+---"
+    },
+  ]}
+/>`,
+        "/tmp/what-are-skills.md",
+      );
+    } catch (error) {
+      const formatted = formatValidationErrorForTest(error);
+      assert.match(formatted, /Malformed MDX component/);
+      assert.match(formatted, /Article: .*what-are-skills\.md:1/);
+      assert.match(formatted, /Component: CodePreview/);
+      assert.match(formatted, /Use straight quotes in JSX props/);
+      assert.match(formatted, /Fix: simplify the component props/);
+      throw error;
+    }
+  }, /validation error|Malformed MDX component/);
+});
+
+test("validateSupportedMDXComponents accepts VideoList props", () => {
+  assert.doesNotThrow(() => {
+    validateSupportedMDXComponents(
+      `<VideoList
+  column={2}
+  list={[
+    {
+      url: "./videos/overview/demo.mp4",
+      type: "video",
+      poster: "./images/overview/video-poster.png",
+      caption: "Workflow",
+    },
+  ]}
+/>`,
+      "/tmp/overview.md",
+    );
+  });
+});
+
+test("loadLocales validates VideoList local media refs during dry parse", async () => {
+  const root = await fs.mkdtemp(path.join(os.tmpdir(), "kimi-docs-"));
+  await fs.mkdir(path.join(root, "en-US", "agent"), { recursive: true });
+  await fs.writeFile(path.join(root, "en-US", "_config.json"), `{"title":"Help Center"}`);
+  await fs.writeFile(
+    path.join(root, "en-US", "agent", "_category.json"),
+    JSON.stringify({
+      title: "Agent",
+      description: "Agent docs",
+      order: 1,
+    }),
+  );
+  await fs.writeFile(
+    path.join(root, "en-US", "agent", "overview.md"),
+    `---
+title: "Overview"
+slug: "overview"
+order: 1
+extract_headings: false
+---
+
+<VideoList
+  column={1}
+  list={[
+    {
+      url: "https://kimi-file.moonshot.cn/example.mp4",
+      type: "video",
+      poster: "./images/overview/missing-poster.png",
+      caption: "Workflow",
+    },
+  ]}
+/>
+`,
+  );
+
+  await assert.rejects(async () => {
+    try {
+      await loadLocales(root, { dryRun: true });
+    } catch (error) {
+      const formatted = formatValidationErrorForTest(error);
+      assert.match(formatted, /Validation failed: Missing local media asset/);
+      assert.match(formatted, /Referenced path: \.\/images\/overview\/missing-poster\.png/);
+      throw error;
+    }
+  }, /validation error/);
+});
+
+test("loadLocales rewrites VideoList local video refs to CDN URLs", async () => {
+  const root = await fs.mkdtemp(path.join(os.tmpdir(), "kimi-docs-"));
+  await fs.mkdir(path.join(root, "en-US", "agent", "videos", "overview"), { recursive: true });
+  await fs.mkdir(path.join(root, "en-US", "agent", "images", "overview"), { recursive: true });
+  await fs.writeFile(path.join(root, "en-US", "_config.json"), `{"title":"Help Center"}`);
+  await fs.writeFile(
+    path.join(root, "en-US", "agent", "_category.json"),
+    JSON.stringify({
+      title: "Agent",
+      description: "Agent docs",
+      order: 1,
+    }),
+  );
+  await fs.writeFile(path.join(root, "en-US", "agent", "videos", "overview", "demo.mp4"), "");
+  await fs.writeFile(
+    path.join(root, "en-US", "agent", "images", "overview", "demo-poster.png"),
+    "",
+  );
+  await fs.writeFile(
+    path.join(root, "en-US", "agent", "overview.md"),
+    `---
+title: "Overview"
+slug: "overview"
+order: 1
+extract_headings: false
+---
+
+<VideoList
+  column={1}
+  list={[
+    {
+      url: "./videos/overview/demo.mp4",
+      type: "video",
+      poster: "./images/overview/demo-poster.png",
+      caption: "Workflow",
+    },
+  ]}
+/>
+`,
+  );
+
+  const locales = await loadLocales(root, {
+    dryRun: true,
+    assetUrlPrefix: "https://cdn.example.com/kimi-helpcenter-doc",
+  });
+  const content = locales[0].docs[0].content;
+
+  assert.match(
+    content,
+    /url: "https:\/\/cdn\.example\.com\/kimi-helpcenter-doc\/en-US\/agent\/videos\/overview\/demo\.mp4"/,
+  );
+  assert.match(
+    content,
+    /poster: "https:\/\/cdn\.example\.com\/kimi-helpcenter-doc\/en-US\/agent\/images\/overview\/demo-poster\.png"/,
+  );
+});
+
+test("loadLocales rewrites Frames local video refs to CDN URLs", async () => {
+  const root = await fs.mkdtemp(path.join(os.tmpdir(), "kimi-docs-"));
+  await fs.mkdir(path.join(root, "en-US", "agent", "videos", "overview"), { recursive: true });
+  await fs.writeFile(path.join(root, "en-US", "_config.json"), `{"title":"Help Center"}`);
+  await fs.writeFile(
+    path.join(root, "en-US", "agent", "_category.json"),
+    JSON.stringify({
+      title: "Agent",
+      description: "Agent docs",
+      order: 1,
+    }),
+  );
+  await fs.writeFile(path.join(root, "en-US", "agent", "videos", "overview", "demo.mp4"), "");
+  await fs.writeFile(
+    path.join(root, "en-US", "agent", "overview.md"),
+    `---
+title: "Overview"
+slug: "overview"
+order: 1
+extract_headings: false
+---
+
+<Frames
+  src="./videos/overview/demo.mp4"
+  alt="Demo video"
+/>
+`,
+  );
+
+  const locales = await loadLocales(root, {
+    dryRun: true,
+    assetUrlPrefix: "https://cdn.example.com/kimi-helpcenter-doc",
+  });
+  const content = locales[0].docs[0].content;
+
+  assert.match(content, /type="video"/);
+  assert.match(
+    content,
+    /src="https:\/\/cdn\.example\.com\/kimi-helpcenter-doc\/en-US\/agent\/videos\/overview\/demo\.mp4"/,
+  );
+});
+
+test("loadLocales rewrites local video refs through upload asset dry run", async () => {
+  const root = await fs.mkdtemp(path.join(os.tmpdir(), "kimi-docs-"));
+  await fs.mkdir(path.join(root, "en-US", "agent", "videos", "overview"), { recursive: true });
+  await fs.writeFile(path.join(root, "en-US", "_config.json"), `{"title":"Help Center"}`);
+  await fs.writeFile(
+    path.join(root, "en-US", "agent", "_category.json"),
+    JSON.stringify({
+      title: "Agent",
+      description: "Agent docs",
+      order: 1,
+    }),
+  );
+  await fs.writeFile(path.join(root, "en-US", "agent", "videos", "overview", "demo.mp4"), "");
+  await fs.writeFile(
+    path.join(root, "en-US", "agent", "overview.md"),
+    `---
+title: "Overview"
+slug: "overview"
+order: 1
+extract_headings: false
+---
+
+<VideoList
+  column={1}
+  list={[
+    {
+      url: "./videos/overview/demo.mp4",
+      type: "video",
+      caption: "Workflow",
+    },
+  ]}
+/>
+`,
+  );
+
+  const previousEnv = {
+    TOS_ACCESS_KEY_ID: process.env.TOS_ACCESS_KEY_ID,
+    TOS_ACCESS_KEY_SECRET: process.env.TOS_ACCESS_KEY_SECRET,
+    TOS_REGION: process.env.TOS_REGION,
+    TOS_BUCKET: process.env.TOS_BUCKET,
+  };
+  process.env.TOS_ACCESS_KEY_ID = "test-access-key";
+  process.env.TOS_ACCESS_KEY_SECRET = "test-access-secret";
+  process.env.TOS_REGION = "cn-beijing";
+  process.env.TOS_BUCKET = "test-bucket";
+
+  try {
+    const locales = await loadLocales(root, {
+      dryRun: true,
+      uploadAssets: true,
+      cdnPublicBase: "https://statics.example.com",
+      cdnPathPrefix: "kimi-helpcenter-doc/",
+    });
+    const content = locales[0].docs[0].content;
+
+    assert.match(
+      content,
+      /url: "https:\/\/statics\.example\.com\/kimi-helpcenter-doc\/en-US\/agent\/videos\/overview\/demo\.mp4"/,
+    );
+  } finally {
+    for (const [name, value] of Object.entries(previousEnv)) {
+      if (value === undefined) {
+        delete process.env[name];
+      } else {
+        process.env[name] = value;
+      }
+    }
+  }
+});
+
+test("validateSupportedMDXComponents ignores component-like text in code fences", () => {
+  assert.doesNotThrow(() => {
+    validateSupportedMDXComponents([
+      "```mdx",
+      "<CodePreview",
+      "  files={[",
+      "```",
+    ].join("\n"));
+  });
 });

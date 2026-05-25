@@ -14,6 +14,10 @@ preview: false
 
 # Kimi WebBridge 使用案例演示
 
+<Callout type="warning">
+本页面提供的 Skill 与 CLI 仅供教学与技术交流，如有异议，可以联系 <a href="mailto:support@kimi.com">support@kimi.com</a> 进行沟通。
+</Callout>
+
 Kimi WebBridge 让 Agent 像真人一样操作浏览器，沿用你已经登录的网站，自动完成导航、提取和整理。
 
 实际使用时常配合 Skill 和 CLI：Skill 沉淀任务经验——访问哪些网站、按什么步骤收集信息、如何整理结果；CLI 提供具体能力——搜索、读取页面、下载文件、查询结构化数据。

@@ -1,7 +1,7 @@
 ---
 title: "常见问题（FAQ）"
 slug: "kimi-webbridge-faq"
-order: 3
+order: 4
 extract_headings: true
 preview: false
 ---

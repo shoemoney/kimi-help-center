@@ -14,10 +14,6 @@ preview: false
 
 # Kimi WebBridge 使用案例演示
 
-<Callout type="warning">
-本页面提供的 Skill 与 CLI 仅供教学与技术交流，如有异议，可以联系 <a href="mailto:support@moonshot.cn">support@moonshot.cn</a> 进行沟通。
-</Callout>
-
 Kimi WebBridge 让 Agent 像真人一样操作浏览器，沿用你已经登录的网站，自动完成导航、提取和整理。
 
 <Callout type="tip">
@@ -29,6 +25,10 @@ Kimi WebBridge 让 Agent 像真人一样操作浏览器，沿用你已经登录�
 把你在网页上反复做的事，一句话告诉 AI Agent，它就能帮你生成一个 CLI，直接使用你真实的 Chrome 登录态，不走 API，也不用配置和管理 API Token。
 
 下面这些场景用到的 Skill 和 CLI 都是这样做出来的，可以直接安装使用，也可以作为参考案例。
+
+<Callout type="warning">
+本页面提供的 Skill 与 CLI 仅供教学与技术交流，如有异议，可以联系 <a href="mailto:support@moonshot.cn">support@moonshot.cn</a> 进行沟通。
+</Callout>
 
 ## 信息查询与整理
 

@@ -20,6 +20,10 @@ preview: false
 
 Kimi WebBridge 让 Agent 像真人一样操作浏览器，沿用你已经登录的网站，自动完成导航、提取和整理。
 
+<Callout type="tip">
+使用 WebBridge 时，任务描述越具体，Agent 完成得越准确。建议明确指定目标网站、筛选条件和期望的输出格式。如果页面结构复杂，也可以让 Agent 先截图确认页面状态，再执行后续操作。
+</Callout>
+
 实际使用时常配合 Skill 和 CLI：Skill 沉淀任务经验——访问哪些网站、按什么步骤收集信息、如何整理结果；CLI 提供具体能力——搜索、读取页面、下载文件、查询结构化数据。
 
 把你在网页上反复做的事，一句话告诉 AI Agent，它就能帮你生成一个 CLI，直接使用你真实的 Chrome 登录态，不走 API，也不用配置和管理 API Token。
@@ -188,9 +192,5 @@ WebBridge 可以帮助 Agent 自动浏览搜索结果、进入详情页，提取
     },
   ]}
 />
-
-<Callout type="tip">
-使用 WebBridge 时，任务描述越具体，Agent 完成得越准确。建议明确指定目标网站、筛选条件和期望的输出格式。如果页面结构复杂，也可以让 Agent 先截图确认页面状态，再执行后续操作。
-</Callout>
 
 更多使用案例请参考 [Kimi WebBridge 官网](https://www.kimi.com/zh-cn/features/webbridge)。

@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Kimi WebBridge 使用案例演示 - Kimi Help Center"
-  description="了解 Kimi WebBridge 的典型使用场景，包括高考志愿、旅游攻略、租房、文献调研等多种场景下的 Skill 和 CLI 使用示例。"
+  description="了解 Kimi WebBridge 的典型使用场景，包括旅游攻略、租房、文献调研等多种场景下的 Skill 和 CLI 使用示例。"
   ogType="article"
 />
 
@@ -33,31 +33,6 @@ Kimi WebBridge 让 Agent 像真人一样操作浏览器，沿用你已经登录�
 ## 信息查询与整理
 
 当你需要在多个网站之间来回查找信息时，WebBridge 可以让 Agent 自动打开目标页面，提取关键内容并整理成结构化输出，省去你逐个打开页面、复制粘贴的繁琐工作。
-
-### 高考志愿填报
-
-同时查询多个学校的招生信息、历年分数线、专业介绍，按"冲、稳、保"分类整理志愿方案。
-
-相关工具：
-
-- Skill：[gaokao-assistant](https://github.com/better-world-ai/x-cli/tree/main/skills/gaokao-assistant)
-- CLI：[gaokao-cli](https://github.com/better-world-ai/x-cli/tree/main/gaokao-cli)
-
-<CodePreview
-  files={[
-    {
-      name: "prompt.txt",
-      language: "text",
-      content: "我是一名 2026 年浙江高考考生，估分 628 分。请帮我查询适合填报的学校，整理近三年分数线、招生计划和专业介绍，按冲、稳、保分类输出志愿方案。",
-    },
-  ]}
-/>
-
-安装与使用：
-
-1. 从 [Releases](https://github.com/better-world-ai/x-cli/releases) 下载 gaokao-cli
-2. 运行 `npx skills add better-world-ai/x-cli --skill gaokao-assistant`
-3. 打开本地 Agent（如 Kimi Code、Claude Code、Codex CLI、Cursor 等支持 Skill 的客户端），发上面的 prompt
 
 ### 旅游攻略规划
 
@@ -91,7 +66,7 @@ Kimi WebBridge 让 Agent 像真人一样操作浏览器，沿用你已经登录�
 相关工具：
 
 - Skill：[rental-assistant](https://github.com/better-world-ai/x-cli/tree/main/skills/rental-assistant)
-- CLI：[58-cli](https://github.com/better-world-ai/x-cli/tree/main/58-cli)、[anjuke-cli](https://github.com/better-world-ai/x-cli/tree/main/anjuke-cli)
+- CLI：[58-cli](https://github.com/better-world-ai/x-cli/tree/main/58-cli)、[anjuke-cli](https://github.com/better-world-ai/x-cli/tree/main/anjuke-cli)、[apartments-cli](https://github.com/better-world-ai/x-cli/tree/main/apartments-cli)、[rightmove-cli](https://github.com/better-world-ai/x-cli/tree/main/rightmove-cli)、[idealista-cli](https://github.com/better-world-ai/x-cli/tree/main/idealista-cli)
 
 <CodePreview
   files={[
@@ -105,7 +80,7 @@ Kimi WebBridge 让 Agent 像真人一样操作浏览器，沿用你已经登录�
 
 安装与使用：
 
-1. 从 [Releases](https://github.com/better-world-ai/x-cli/releases) 下载 58-cli、anjuke-cli
+1. 从 [Releases](https://github.com/better-world-ai/x-cli/releases) 下载 58-cli、anjuke-cli、apartments-cli、rightmove-cli、idealista-cli
 2. 运行 `npx skills add better-world-ai/x-cli --skill rental-assistant`
 3. 打开本地 Agent（如 Kimi Code、Claude Code、Codex CLI、Cursor 等支持 Skill 的客户端），发上面的 prompt
 

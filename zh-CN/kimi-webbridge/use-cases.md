@@ -113,27 +113,29 @@ WebBridge 可以帮助 Agent 自动浏览搜索结果、进入详情页，提取
 2. 运行 `npx skills add better-world-ai/x-cli --skill paper-research`
 3. 打开本地 Agent（如 Kimi Code、Claude Code、Codex CLI、Cursor 等支持 Skill 的客户端），发上面的 prompt
 
-### 热点话题分析
+### 话题深度搜索
 
-在内容平台搜索热门话题，整理热度数据、标题模式和用户评论关键词，为内容创作提供选题参考。
+想了解一个不熟悉的话题，老办法是打开搜索引擎、每个结果点进去读完、复制重点、整理成笔记，一上午没了。
+
+让 AI 替你跑完这个流程：它自动搜索、顺着结果抓取正文，你可以直接让它综合成一份摘要，也可以保留原文自己看。研究选题、追踪领域新进展、找资料写文章，先用它把信息汇总到一处。
 
 相关工具：
 
-- CLI：xiaohongshu-cli
+- CLI：[google-cli](https://github.com/better-world-ai/x-cli/tree/main/google-cli)、[baidu-cli](https://github.com/better-world-ai/x-cli/tree/main/baidu-cli)
 
 <CodePreview
   files={[
     {
       name: "prompt.txt",
       language: "text",
-      content: "我正在做小户型租房改造方向的内容选题。请在相关平台搜索热门笔记，整理标题、互动数据和评论关键词，总结 5 个适合继续创作的选题方向。",
+      content: "搜一下 2025 年值得用的本地 AI 模型，把前 10 篇正文都拿回来",
     },
   ]}
 />
 
 安装与使用：
 
-1. 通过 Homebrew 安装：`brew install xpzouying/agent-cli/xiaohongshu-cli`
+1. 从 [Releases](https://github.com/better-world-ai/x-cli/releases) 下载 google-cli 或 baidu-cli
 2. 打开本地 Agent（如 Kimi Code、Claude Code、Codex CLI、Cursor 等支持 Skill 的客户端），发上面的 prompt
 
 ## 日常办公辅助

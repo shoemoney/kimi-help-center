@@ -23,8 +23,8 @@ Kimi Business offers annual subscriptions starting from 5 seats, ideal for small
 
 | Item | Details |
 |------|---------|
-| Price | $580/seat/year (approx. $48/seat/month) |
-| Minimum Purchase | 5 seats, starting from $2,900/year |
+| Price | $599/seat/year (approx. $50/seat/month) |
+| Minimum Purchase | 5 seats, starting from $2,995/year |
 | Billing | Annual subscription, supports adding seats during subscription period |
 
 Additional seats purchased during the subscription period are prorated based on remaining days, with the same expiration date as the original subscription.

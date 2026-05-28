@@ -136,3 +136,5 @@ Yes. Administrators can add seats at any time during the subscription period, wi
 ### Can the administrator role be transferred?
 
 The current version does not support self-service administrator transfer. Please contact customer service if you need to change the administrator.
+
+**Customer Service Email:** [sales@kimi.ai](mailto:sales@kimi.ai)

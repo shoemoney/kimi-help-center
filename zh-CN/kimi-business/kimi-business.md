@@ -11,7 +11,7 @@ preview: false
   description="了解 Kimi Business 企业版的权益、定价、成员管理和使用指南。专为团队和企业设计，提供数据隐私保护、成员管理和企业级技术支持。"
 />
 
-# Kimi Business 企业版
+# Kimi Business 介绍
 
 Kimi Business 是专为企业团队打造的智能办公解决方案，在提供完整 AI 能力的同时，保障企业数据安全、支持团队协作管理。
 

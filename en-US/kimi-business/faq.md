@@ -11,7 +11,7 @@ preview: false
   description="Frequently asked questions about Kimi Business enterprise plan, including team eligibility, multiple organizations, benefit activation, seat additions, and administrator transfer."
 />
 
-# FAQ
+# Kimi Business FAQ
 
 ### What types of teams is Kimi Business suitable for?
 

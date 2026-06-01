@@ -45,6 +45,13 @@ preview: false
 
 **支付宝支付用户发票流程：**
 
+<Frames
+  src="./images/faq/invoice-workflow.png"
+  alt="Kimi Business 订阅开发票流程"
+  width={1920}
+  height={1080}
+/>
+
 1. **点击"开发票"**
    - 在账单详情页面，找到账单管理区域
    - 点击 **"开发票"** 按钮
@@ -75,10 +82,3 @@ preview: false
 - 服务平台：票通发票服务平台（通过支付宝接入）
 - 发票类型：电子发票
 </Callout>
-
-<Frames
-  src="./images/faq/invoice-workflow.png"
-  alt="Kimi Business 订阅开发票流程"
-  width={1920}
-  height={1080}
-/>

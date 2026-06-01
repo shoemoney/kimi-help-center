@@ -37,7 +37,13 @@ The current version does not support self-service administrator transfer. Please
 
 ### How do I request an invoice for Kimi Business subscription?
 
-Administrators can request an invoice on the bill details page by following these steps:
+Administrators can request an invoice on the bill details page. If you paid via Alipay, follow the steps below; for other payment methods, please contact customer service.
+
+<Callout type="tip">
+If you did not pay via Alipay and need an invoice, please contact customer service at [sales@kimi.ai](mailto:sales@kimi.ai).
+</Callout>
+
+**Alipay users invoice request process:**
 
 1. **Click "开发票" (Issue Invoice)**
    - On the bill details page, locate the bill management area

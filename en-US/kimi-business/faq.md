@@ -13,23 +13,23 @@ preview: false
 
 # Kimi Business FAQ
 
-### What types of teams is Kimi Business suitable for?
+## What types of teams is Kimi Business suitable for?
 
 Kimi Business is suitable for small and medium-sized businesses with team collaboration needs, particularly those requiring shared AI workspace capabilities and data security protection.
 
-### Can a user join multiple enterprises?
+## Can a user join multiple enterprises?
 
 Yes. Each user can join up to 10 enterprise organizations, independently occupying seats in different organizations.
 
-### How soon can members use benefits after joining?
+## How soon can members use benefits after joining?
 
 Benefits activate immediately upon accepting the invitation, with quota prorated based on remaining days in the current month.
 
-### Can seats be added during the subscription period?
+## Can seats be added during the subscription period?
 
 Yes. Administrators can add seats at any time during the subscription period, with pricing prorated based on remaining days. Added seats share the same expiration date as the original subscription.
 
-### Can the administrator role be transferred?
+## Can the administrator role be transferred?
 
 The current version does not support self-service administrator transfer. Please contact customer service if you need to change the administrator.
 

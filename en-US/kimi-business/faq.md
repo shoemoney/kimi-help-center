@@ -40,9 +40,3 @@ The current version does not support self-service administrator transfer. Please
 Currently, the Kimi App and desktop client do not support Kimi Business enterprise features — they only support personal memberships. To access enterprise benefits, please visit [kimi.com](https://kimi.com) in a desktop browser, log in, and switch to the enterprise workspace via the avatar / workspace switcher.
 
 The personal and enterprise versions are completely independent. If you have already subscribed to a personal membership, you can continue to use personal membership benefits in the App and desktop client as usual.
-
-## Why does Kimi Business show as not a member in the App or desktop client?
-
-Currently, the Kimi App and desktop client do not support Kimi Business enterprise features. They only support personal membership. To access enterprise benefits, please visit kimi.com in a desktop browser, log in, and switch to the enterprise workspace via the avatar / workspace menu.
-
-The personal and enterprise versions are independent. If you have an active personal membership, you can continue to use personal benefits in the App and desktop client.

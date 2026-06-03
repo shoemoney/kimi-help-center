@@ -36,8 +36,8 @@ WebBridge 通过本地桥接服务和浏览器扩展协同工作，所有执行�
 </Callout>
 
 <Frames
-  src="./images/介绍图.png"
-  alt="介绍图"
+  src="./images/introduction-cn.png"
+  alt="introduction-cn"
 />
 
 | 项目 | 系统要求 |
@@ -94,8 +94,23 @@ WebBridge 通过本地桥接服务和浏览器扩展协同工作，所有执行�
 
 ## Step 2: 选择使用方式并完成配置
 
+### 方式一：搭配 Kimi Work Desktop
 
-### 方式一：搭配 Local Agent
+1. 通过[官网](https://www.kimi.com/zh-cn/products/kimi-work)下载 Kimi Work
+
+2. 安装成功后即可在 Kimi Work 中发送指令，例如：
+
+<CodePreview
+  files={[
+    {
+      name: "prompt.txt",
+      language: "text",
+      content: "/Kimi-webbridge 帮我打开小红书，搜索关于 Kimi K2.6 发布的帖子",
+    },
+  ]}
+/>
+
+### 方式二：搭配 Local Agent
 
 支持 Claude Code、Codex、Cursor、Kimi Code、Hermers Claw 等。
 
@@ -142,33 +157,3 @@ WebBridge 通过本地桥接服务和浏览器扩展协同工作，所有执行�
   ]}
 />
 
-### 方式二：搭配 Kimi Claw Desktop
-
-1. 下载 Kimi 桌面版（通过官网下载，支持 macOS / Windows）
-   - Kimi Claw桌面版仅支持 **Allegretto 及以上**计划，详见 [Kimi 会员计划](https://www.kimi.com/membership/pricing)。
-
-2. 部署 Kimi Claw
-   1. 打开 Kimi 桌面版，在左侧侧边栏找到 Kimi Claw，点击"添加 Claw"
-   2. 选择"在我的电脑部署"
-   3. 部署成功后，浏览器插件将自动连接
-
-<Callout type="warning">
-当前每个用户账号下，最多支持部署 1 个 Kimi Claw Desktop。若你在其他电脑上曾经部署过，则会和你确认是否要断开旧 Claw 的连接，你可以按需选择。
-</Callout>
-
-<Frames
-  src="./images/使用步骤.png"
-  alt="部署步骤"
-/>
-
-3. 部署成功后即可在 Kimi Claw 中发送指令，例如：
-
-<CodePreview
-  files={[
-    {
-      name: "prompt.txt",
-      language: "text",
-      content: "/Kimi WebBridge 帮我打开小红书，搜索关于 Kimi K2.6 发布的帖子",
-    },
-  ]}
-/>

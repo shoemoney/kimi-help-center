@@ -87,7 +87,23 @@ After installation, you should see WebBridge in your browser's extensions list. 
 
 ## Step 2: Choose your setup method and complete configuration
 
-### Method 1: Pair with Local Agents
+### Method 1: Using with Kimi Work Desktop
+
+1. Download Kimi Work from the [official website](https://www.kimi.com/zh-cn/products/kimi-work)
+
+2. Once installed, you can send instructions in Kimi Work, for example:
+
+<CodePreview
+  files={[
+    {
+      name: "prompt.txt",
+      language: "text",
+      content: "/Kimi-webbridge Open Xiaohongshu and search for posts about the Kimi K2.6 release",
+    },
+  ]}
+/>
+
+### Method 2: Pair with Local Agents
 
 Supports Claude Code, Codex, Cursor, Kimi Code, Hermers Claw, and more.
 
@@ -133,35 +149,4 @@ Once the extension is connected, you can send instructions.
   ]}
 />
 
-### Method 2: pair with Kimi Claw Desktop
 
-1. Download Kimi Desktop (available for macOS / Windows from the official website)
-   - Kimi Claw Desktop requires an **Allegretto or higher** plan. See [Membership Plans](https://www.kimi.com/membership/pricing).
-
-2. Deploy Kimi Claw
-   1. Open Kimi Desktop, find Kimi Claw in the left sidebar, and click "Add Claw"
-   2. Select "Deploy on my computer"
-   3. Once deployed, the browser extension will connect automatically
-
-<Callout type="warning">
-Each user account currently supports up to 1 Kimi Claw Desktop deployment. If you have previously deployed on another computer, you will be prompted to disconnect the old Claw. You can choose according to your needs.
-</Callout>
-
-<Frames
-  src="./images/deploy-step.png"
-  alt="Deployment Step"
-/>
-
-3. Start Using
-
-Once deployed, you can send instructions in Kimi Claw, for example:
-
-<CodePreview
-  files={[
-    {
-      name: "prompt.txt",
-      language: "text",
-      content: "/Kimi WebBridge open X.com and search for posts about the Kimi K2.6 release",
-    },
-  ]}
-/>

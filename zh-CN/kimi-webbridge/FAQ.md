@@ -108,7 +108,7 @@ WebBridge 支持所有 Local Agent，包括 Claude Code、Codex、Cursor、Kimi 
 </Callout>
 
 <Frames
-  src="./images/用户群.png"
+  src="./images/FAQ/用户群.png"
   alt="Kimi WebBridge用户群"
 />
 

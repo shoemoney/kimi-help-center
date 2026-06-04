@@ -27,6 +27,11 @@ Kimi WebBridge 是一款专为 AI Agent 设计的浏览器插件。与云端浏�
   ]}
 />
 
+<Frames
+  src="./images/introduction-cn.png"
+  alt="introduction-cn"
+/>
+
 <Callout type="tip">
 建议在主力工作电脑上部署 Kimi WebBridge，以获得最佳的浏览器自动化体验。
 </Callout>
@@ -35,17 +40,13 @@ Kimi WebBridge 是一款专为 AI Agent 设计的浏览器插件。与云端浏�
 WebBridge 通过本地桥接服务和浏览器扩展协同工作，所有执行都在你本地完成，登录态和网页内容不会离开你的设备。
 </Callout>
 
-<Frames
-  src="./images/introduction-cn.png"
-  alt="introduction-cn"
-/>
 
 | 项目 | 系统要求 |
 |------|------|
 | 操作系统 | macOS 或 Windows |
 | 浏览器 | Chrome 或 Edge |
 | 网络 | 需要稳定的网络连接 |
-| 配套应用 | Kimi Claw Desktop 或其他 Local Agent |
+| 配套应用 | Kimi Work 或其他 Local Agent |
 
 ## Step 1: 下载 Kimi WebBridge 插件
 
@@ -105,7 +106,7 @@ WebBridge 通过本地桥接服务和浏览器扩展协同工作，所有执行�
     {
       name: "prompt.txt",
       language: "text",
-      content: "/Kimi-webbridge 帮我打开小红书，搜索关于 Kimi K2.6 发布的帖子",
+      content: "使用Kimi WebBridge 帮我打开小红书，搜索关于 Kimi K2.6 发布的帖子",
     },
   ]}
 />
@@ -152,7 +153,7 @@ WebBridge 通过本地桥接服务和浏览器扩展协同工作，所有执行�
     {
       name: "prompt.txt",
       language: "text",
-      content: "/Kimi WebBridge 帮我打开小红书，搜索关于 Kimi K2.6 发布的帖子",
+      content: "使用Kimi WebBridge 帮我打开小红书，搜索关于 Kimi K2.6 发布的帖子",
     },
   ]}
 />

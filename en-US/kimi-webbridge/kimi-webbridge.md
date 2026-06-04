@@ -98,7 +98,7 @@ After installation, you should see WebBridge in your browser's extensions list. 
     {
       name: "prompt.txt",
       language: "text",
-      content: "Use Kimi-webbridge and open Xiaohongshu, search for posts about the Kimi K2.6 release",
+      content: "Use Kimi Webbridge and open Xiaohongshu, search for posts about the Kimi K2.6 release",
     },
   ]}
 />

@@ -41,8 +41,8 @@ Currently, the Kimi App and desktop client do not support Kimi Business enterpri
 
 The personal and enterprise versions are completely independent. If you have already subscribed to a personal membership, you can continue to use personal membership benefits in the App and desktop client as usual.
 
-## Where can I find Kimi Business licenses, agreements, compliance, and security information?
+## Where can I find Kimi Business agreements, compliance, and security information?
 
-For questions about Kimi Business licenses, agreements, compliance, and security, please refer to the official Kimi agreements and published pages. You can start by reading the [Kimi User Service Agreement](https://www.kimi.com/user/agreement/modelUse?version=v2) and the [Kimi Paid Service Agreement](https://www.kimi.com/user/agreement/paidServiceAgreement?version=v2) to learn about account usage, paid services, benefit scope, risk disclosures, and liability limitations.
+For questions about Kimi Business authorization, agreements, compliance, security, paid subscriptions, seats, fees, data protection, risk disclosures, and liability limitations, please refer to the official [Kimi Business Service Agreement](https://www.kimi.com/user/agreement/business-service-agreement-overseas).
 
-For enterprise contracts, compliance materials, or security-related documents, please contact sales or customer service for further assistance.
+For enterprise contracts, authorization documents, compliance materials, or other security-related documents, please contact sales or customer service.

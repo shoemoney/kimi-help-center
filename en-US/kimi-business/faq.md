@@ -40,3 +40,9 @@ The current version does not support self-service administrator transfer. Please
 Currently, the Kimi App and desktop client do not support Kimi Business enterprise features — they only support personal memberships. To access enterprise benefits, please visit [kimi.com](https://kimi.com) in a desktop browser, log in, and switch to the enterprise workspace via the avatar / workspace switcher.
 
 The personal and enterprise versions are completely independent. If you have already subscribed to a personal membership, you can continue to use personal membership benefits in the App and desktop client as usual.
+
+## Where can I find Kimi Business licenses, agreements, compliance, and security information?
+
+For questions about Kimi Business licenses, agreements, compliance, and security, please refer to the official Kimi agreements and published pages. You can start by reading the [Kimi User Service Agreement](https://www.kimi.com/user/agreement/modelUse?version=v2) and the [Kimi Paid Service Agreement](https://www.kimi.com/user/agreement/paidServiceAgreement?version=v2) to learn about account usage, paid services, benefit scope, risk disclosures, and liability limitations.
+
+For enterprise contracts, compliance materials, or security-related documents, please contact sales or customer service for further assistance.

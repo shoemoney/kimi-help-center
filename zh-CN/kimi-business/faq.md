@@ -121,3 +121,9 @@ preview: false
 目前 Kimi App 和桌面客户端暂不支持 Kimi Business 企业版功能，仅支持个人会员。企业版权益请在电脑浏览器访问 [kimi.com](https://kimi.com)，登录后在头像 / 工作空间入口切换到企业空间使用。
 
 个人版和企业版相互独立，如果已开通个人会员，仍可在 App 和桌面客户端正常使用个人会员权益。
+
+## Kimi Business 授权、协议、合规、安全等问题在哪里查看？
+
+Kimi Business 的授权、协议、合规、安全等问题，请以 Kimi 官方协议及页面公示为准。你可以先阅读 [Kimi 用户服务协议](https://www.kimi.com/user/agreement/modelUse?version=v2) 和 [Kimi 付费服务协议](https://www.kimi.com/user/agreement/paidServiceAgreement?version=v2)，了解账号使用、付费服务、权益范围、风险提示和责任限制等说明。
+
+如需企业合同、合规材料或安全相关资料，请联系销售或客服进一步确认。

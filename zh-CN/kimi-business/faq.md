@@ -39,6 +39,13 @@ preview: false
 
 国内订单支付完成后，请前往支付宝，在对应订单的账单详情页最下方找到「开发票」入口，并按支付宝页面提示填写发票信息、提交开票申请。开票完成后，可在支付宝「发票管家」中查看或导出电子发票。
 
+<Frames
+  src="./images/faq/invoice-workflow.png"
+  alt="Kimi Business 订阅开发票流程"
+  width={1920}
+  height={1080}
+/>
+
 ## Kimi Business 如何对公转账的方式支付？
 
 支持对公转账支付，操作流程如下：

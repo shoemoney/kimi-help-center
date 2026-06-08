@@ -35,6 +35,39 @@ The current version does not support self-service administrator transfer. Please
 
 **Customer Service Email:** [sales@kimi.com](mailto:sales@kimi.com)
 
+## How do I pay via enterprise bank transfer?
+
+Enterprise bank transfer is supported. Follow these steps:
+
+1. **Select Payment Method**
+
+   After scanning the QR code, enter the payment page and click the dropdown arrow to expand the payment method list.
+
+2. **Switch to Enterprise Payment**
+
+   Select the "Switch to Enterprise Payment" option.
+
+3. **Add Payment Enterprise**
+
+   Enter the corporate bank account name and click "Confirm".
+
+4. **Complete Transfer**
+
+   Copy the receiving account number, account name, receiving bank, and amount information. Complete the transfer via your banking app, then return to the page to check the payment status after 1–5 minutes.
+
+<Callout type="warning">
+
+Note: The receiving account number is for this transfer only and does not need to be retained. The transfer amount must match the order amount (example: ¥14,900.00). Funds for failed orders due to non-compliant transfers will be refunded within 24 hours. For questions, please contact customer service at [sales@kimi.com](mailto:sales@kimi.com).
+
+</Callout>
+
+<Frames
+  src="./images/faq/enterprise-payment.png"
+  alt="Kimi Business enterprise bank transfer payment process"
+  width={1920}
+  height={1080}
+/>
+
 ## Why does Kimi Business show as not a member in the App or desktop client?
 
 Currently, the Kimi App and desktop client do not support Kimi Business enterprise features — they only support personal memberships. To access enterprise benefits, please visit [kimi.com](https://www.kimi.com/) in a desktop browser, log in, and switch to the enterprise workspace via the avatar / workspace switcher.

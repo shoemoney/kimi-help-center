@@ -61,13 +61,6 @@ Note: The receiving account number is for this transfer only and does not need t
 
 </Callout>
 
-<Frames
-  src="./images/faq/enterprise-payment.png"
-  alt="Kimi Business enterprise bank transfer payment process"
-  width={1920}
-  height={1080}
-/>
-
 ## Why does Kimi Business show as not a member in the App or desktop client?
 
 Currently, the Kimi App and desktop client do not support Kimi Business enterprise features — they only support personal memberships. To access enterprise benefits, please visit [kimi.com](https://www.kimi.com/) in a desktop browser, log in, and switch to the enterprise workspace via the avatar / workspace switcher.

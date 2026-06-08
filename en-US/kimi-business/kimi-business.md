@@ -62,12 +62,12 @@ The administrator role is automatically assigned to the account that first purch
 
 ### Inviting Members
 
-Administrators can generate invitation links with configurable expiration periods of 3, 7, or 30 days. Members can join the organization and access enterprise benefits after accepting the invitation.
+Administrators can generate invitation links with configurable expiration periods of 2 or 7 days. Members can join the organization and access enterprise benefits after accepting the invitation.
 
 <Callout type="info">
-- Each user can join up to 10 enterprise organizations
-- Members occupy 1 seat upon joining; the same user occupies only 1 seat within an organization
-- Organizations must have unallocated seats available to invite new members
+
+Each user can join up to 10 enterprise organizations. Members occupy 1 seat upon joining, and the same user occupies only 1 seat within an organization. Organizations must have unallocated seats available to invite new members.
+
 </Callout>
 
 ### Seat Status
@@ -76,14 +76,13 @@ Administrators can generate invitation links with configurable expiration period
 |--------|-------------|
 | Total Seats | All unexpired seats purchased by the organization |
 | Unallocated | Seats not currently occupied, available for inviting new members |
-| Pending Release | Seats occupied by removed members until the end of current billing cycle, released in next cycle |
+| Pending Release | Seats occupied by removed members during the current billing cycle; these seats cannot be assigned to new members and are released in next cycle |
 
 ### Removing Members
 
 - Removed members immediately lose access to the enterprise workspace
-- Benefits already distributed for the current billing cycle remain valid until cycle end
+- Removed members immediately lose Kimi Business benefits and can no longer use enterprise quota for the current period
 - Seats of removed members enter "Pending Release" status and are released in the next billing cycle
-- Member history data is retained for 30 days; rejoining within 30 days restores the data
 
 ## Workspace
 
@@ -97,9 +96,9 @@ Kimi Business introduces the workspace concept to achieve complete isolation bet
 When switching workspaces, the page automatically refreshes to load data and benefit configurations for the selected workspace.
 
 <Callout type="warning">
-Platform Support:
-- Web: Full support for all Kimi Business features
-- Mobile/Desktop: Personal membership only, enterprise features not available
+
+Platform Support: Web fully supports Kimi Business features. Mobile and desktop clients support personal membership only; enterprise features are not available.
+
 </Callout>
 
 ## Benefit Distribution Rules
@@ -107,10 +106,10 @@ Platform Support:
 ### Activation Rules
 
 - **Immediate Activation**: Members receive current period benefits immediately upon accepting invitation
-- **Prorated Quota**: Monthly quota is prorated based on remaining days from join date to cycle end
+- **Full Current-Period Quota**: Members who join with an unallocated or newly added seat receive the full quota for the current period
 - **Cycle Alignment**: Enterprise benefits are settled uniformly according to subscription cycle, refreshed monthly
 
 ### Expiration Rules
 
-- **Member Removal**: Removed members retain current period benefits until cycle end; new benefits stop in next cycle
+- **Member Removal**: Removed members immediately lose enterprise workspace access and Kimi Business benefits; new benefits stop in next cycle
 - **Subscription Expiration**: All member benefits are suspended when organization subscription expires; restored upon renewal

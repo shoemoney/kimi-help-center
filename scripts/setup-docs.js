@@ -817,29 +817,38 @@ function createAssetUploader(options) {
 
   return {
     async upload(localPath, relativePath) {
-      const normalizedRelativePath = relativePath.split(path.sep).join("/");
-      const key = `${cdnPathPrefix}${normalizedRelativePath}`;
-      const publicURL = `${cdnPublicBase}/${key.split("/").map(encodeURIComponent).join("/")}`;
       if (uploaded.has(localPath)) {
         return uploaded.get(localPath);
       }
+
+      const body = await fs.readFile(localPath);
+      const normalizedRelativePath = relativePath.split(path.sep).join("/");
+      const versionedPath = versionedAssetPath(normalizedRelativePath, body);
+      const key = `${cdnPathPrefix}${versionedPath}`;
+      const publicURL = `${cdnPublicBase}/${key.split("/").map(encodeURIComponent).join("/")}`;
       if (options.dryRun) {
         uploaded.set(localPath, publicURL);
         return publicURL;
       }
 
-      const body = await fs.readFile(localPath);
       await tosClient.putObject({
         bucket,
         key,
         body,
         contentType: contentTypeForPath(localPath),
-        cacheControl: cacheControlForPath(localPath),
+        cacheControl: cacheControlForPath(versionedPath),
       });
       uploaded.set(localPath, publicURL);
       return publicURL;
     },
   };
+}
+
+function versionedAssetPath(relativePath, body) {
+  const extension = path.extname(relativePath);
+  const basePath = extension ? relativePath.slice(0, -extension.length) : relativePath;
+  const hash = crypto.createHash("sha256").update(body).digest("hex").slice(0, 12);
+  return `${basePath}.${hash}${extension}`;
 }
 
 function normalizeCDNPathPrefix(value) {
@@ -892,7 +901,11 @@ function cacheControlForPath(candidate) {
   if (filename.endsWith(".html") || filename === "index.html") {
     return "no-cache, no-store, must-revalidate";
   }
-  if (/\.[A-Za-z0-9]{8,}\.(js|css|png|jpg|jpeg|gif|svg|webp|woff|woff2|ttf|eot)$/.test(filename)) {
+  if (
+    /\.[A-Za-z0-9]{8,}\.(js|css|png|jpg|jpeg|gif|svg|webp|mp4|webm|mov|woff|woff2|ttf|eot)$/.test(
+      filename,
+    )
+  ) {
     return "public, max-age=31536000, immutable";
   }
   return "public, max-age=3600";

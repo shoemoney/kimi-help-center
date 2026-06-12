@@ -65,7 +65,7 @@ After migration, sessions imported from kimi-cli are tagged with `[imported]` in
 
 ### No models available when running `/login`
 
-If you see "No models available for the selected platform" when running `/login` (or `/setup`), it may be due to:
+If you see "No models available for the selected platform" when running `/login`, it may be due to:
 
 - **Invalid or expired API key**: Check whether the API key you entered is correct and still valid.
 - **Network connection issue**: Confirm that you can access the API service address (such as `api.kimi.com` or `api.moonshot.cn`).
@@ -76,7 +76,7 @@ Kimi Code membership benefits and the [Kimi Open Platform](https://platform.kimi
 
 | Platform | Base URL | Billing | Key creation |
 |------|---------|---------|-------------|
-| **Kimi Code** | OpenAI compatible: `https://api.kimi.com/coding/v1`<br> Anthropic compatible: `https://api.kimi.com/coding/` | Kimi membership subscription (includes quota) | [Kimi Code Console](https://www.kimi.com/code/console) |
+| **Kimi Code** | Anthropic compatible: `https://api.kimi.com/coding/` | Kimi membership subscription (includes quota) | [Kimi Code Console](https://www.kimi.com/code/console) |
 | **Kimi Open Platform** | `https://api.moonshot.cn/v1` | Pay-as-you-go | [Kimi Open Platform](https://platform.kimi.com) |
 
 ### API key is invalid
@@ -85,17 +85,18 @@ Possible reasons for an invalid API key:
 
 - **Key entered incorrectly**: Check for extra spaces or missing characters.
 - **Key expired or revoked**: Confirm the key status in the platform console.
-- **Environment variable override**: Check whether `KIMI_API_KEY` or `OPENAI_API_KEY` environment variables are overriding the config file. Run `echo $KIMI_API_KEY` to check.
 
 ### Membership expired or quota exhausted
 
-If you are using the Kimi Code platform, you can check your current quota and membership status via the `/usage` command. If your quota is exhausted or your membership has expired, you need to renew or upgrade at [Kimi Code](https://kimi.com/coding).
+If you are using the Kimi Code platform, you can check your current quota and membership status via the `/usage` command. If your quota is exhausted or your membership has expired, you need to renew or upgrade at [Kimi Code](https://kimi.com/code).
+
+## Subscription
+
+### How do I request an invoice or upgrade my membership?
+
+Visit the [Kimi Membership page](https://www.kimi.com/membership/pricing?from=kfc_docs_faq#pricing-faq) and follow the instructions to submit an invoice request or upgrade your plan.
 
 ## Interaction issues
-
-### Working directory removed or unmounted
-
-If the working directory becomes inaccessible during a session (external drive unplugged, directory deleted, or filesystem unmounted), Kimi Code CLI detects this and shows a crash report containing the session ID and working directory path, then exits cleanly. You can resume the session in the correct directory via `kimi -r <session-id>`.
 
 ### Paste image fails
 
@@ -105,59 +106,6 @@ Solutions:
 
 - **Switch to a model that supports images**: Use a model with the `image_in` capability.
 - **Check clipboard contents**: Make sure the clipboard actually contains image data, not a path to an image file.
-
-## ACP issues
-
-### IDE cannot connect to Kimi Code CLI
-
-If the IDE (such as Zed or JetBrains IDE) cannot connect to Kimi Code CLI, check the following:
-
-- **Confirm Kimi Code CLI is installed**: Run `kimi --version` to confirm successful installation.
-- **Check the config path**: Make sure the Kimi Code CLI path in the IDE config is correct. You can usually use `kimi acp` as the command.
-- **Check the PATH**: If installed via the script, ensure `~/.local/bin` is in your PATH. You can use an absolute path, such as `/Users/yourname/.local/bin/kimi acp`.
-
-## MCP issues
-
-### MCP server fails to start
-
-After adding an MCP server, if the tool does not load or reports an error, it may be due to:
-
-- **Command not found**: For stdio-type servers, make sure the command (such as `npx`) is in your PATH. You can use an absolute path in the config.
-- **Incorrect config format**: Check whether `~/.kimi-code/mcp.json` is valid JSON. Run `kimi mcp list` to view the current configuration.
-
-Debugging steps:
-
-<CodePreview
-  files={[
-    {
-      name: "command.sh",
-      language: "bash",
-      content: "# View configured servers\nkimi mcp list\n\n# Test whether a server is working\nkimi mcp test <server-name>",
-    },
-  ]}
-/>
-
-### OAuth authorization fails
-
-For MCP servers that require OAuth authorization (such as Linear), if authorization fails:
-
-- **Check network connection**: Make sure you can access the authorization server.
-- **Re-authorize**: Run `kimi mcp auth <server-name>` to re-authorize.
-- **Reset authorization**: If the authorization info is corrupted, run `kimi mcp reset-auth <server-name>` to clear and retry.
-
-### Header format error
-
-When adding an HTTP-type MCP server, the Header format should be `KEY: VALUE` (space after colon). For example:
-
-<CodePreview
-  files={[
-    {
-      name: "command.sh",
-      language: "bash",
-      content: "# Correct\nkimi mcp add --transport http context7 https://mcp.context7.com/mcp --header \"CONTEXT7_API_KEY: your-key\"\n\n# Incorrect (missing space or using equals sign)\nkimi mcp add --transport http context7 https://mcp.context7.com/mcp --header \"CONTEXT7_API_KEY=your-key\"",
-    },
-  ]}
-/>
 
 ## Updates & upgrades
 
@@ -181,30 +129,6 @@ Run `kimi upgrade` to check for the latest version and present update options. C
     },
   ]}
 />
-
-### Update reminder on startup
-
-When a background check finds a new version, Kimi Code CLI shows a blocking update reminder before the shell prompt, listing the current and latest version info. You can choose an action via the following keys:
-
-- **Enter**: Upgrade to the latest version immediately
-- **q**: Skip for now; reminder will show again on next launch
-- **s**: Skip this version; no more reminders until a newer version is released
-
-### How to disable update reminders
-
-If you don't want Kimi Code CLI to check for updates in the background, set the environment variable:
-
-<CodePreview
-  files={[
-    {
-      name: "command.sh",
-      language: "bash",
-      content: "export KIMI_CLI_NO_AUTO_UPDATE=1",
-    },
-  ]}
-/>
-
-You can add this line to your shell config file (such as `~/.zshrc` or `~/.bashrc`).
 
 ## VS Code extension FAQ
 

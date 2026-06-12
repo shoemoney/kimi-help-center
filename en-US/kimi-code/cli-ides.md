@@ -107,7 +107,3 @@ Paseo's generic ACP adapter does not drive the login flow, so complete the termi
 - **IDE shows "auth required"**: the CLI has no usable authentication token. Exit the IDE, run `kimi` in a terminal to complete login, then restart the IDE.
 - **MCP tools not visible**: check the `kimi acp` capability table to confirm that the MCP transport type configured in your IDE is supported. The Kimi Code CLI ACP adapter currently supports `http` and `stdio` transports; `sse` and `acp` types are silently dropped and a warning is written to the log.
 
-## Next steps
-
-- [kimi acp reference](/kimi-code-cli/reference/kimi-acp) — ACP capability matrix and method coverage details
-- [kimi command reference](/kimi-code-cli/reference/kimi-command) — full subcommand list

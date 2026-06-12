@@ -98,7 +98,7 @@ Kimi Code CLI 是一个运行在终端中的 AI Agent，帮助你完成软件开
 
 > 若安装后未显示扩展，请重启 VS Code 或在命令面板中执行 "Developer: Reload Window" (Mac: Cmd+Shift+P, Windows/Linux: Ctrl+Shift+P)。
 
-其他编辑器如 JetBrains、Zed 可通过 CLI 的 ACP 协议接入使用，详见 [JetBrains 配置](https://www.kimi.com/code/docs/third-party-tools/jetbrains.html) 和 [Zed 配置](https://www.kimi.com/code/docs/third-party-tools/zed.html)。
+其他编辑器如 JetBrains、Zed 可通过 CLI 的 ACP 协议接入使用。
 
 
 ### 方式三：第三方工具接入

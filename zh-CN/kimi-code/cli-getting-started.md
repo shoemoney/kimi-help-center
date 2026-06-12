@@ -18,9 +18,11 @@ Kimi Code CLI 是一个运行在终端中的 AI Agent，帮助你完成软件开
 
 ## 适合场景
 
-- **编写和修改代码**：描述需求，AI 自动完成代码编写与修改。
-- **理解项目**：快速了解项目架构、代码逻辑和文件作用。
-- **自动化任务**：批量修改代码、添加文档、生成测试用例等重复性工作。
+- **编写和修改代码**：实现新功能、修复 bug、完成重构
+- **理解项目**：探索陌生的代码库，解答架构和实现层面的问题
+- **自动化任务**：批量处理文件、运行构建与测试、串联多个脚本
+
+整套 CLI 以 TypeScript 编写，通过 npm 分发，运行在 Node.js 之上。
 
 ## 两种使用方式
 
@@ -57,7 +59,7 @@ macOS / Linux：
     {
       name: "command.sh",
       language: "bash",
-      content: "curl -fsSL https://code.kimi.com/kimi-code/install.sh | bash",
+      content: "# Linux / macOS\ncurl -fsSL https://code.kimi.com/kimi-code/install.sh | bash",
     },
   ]}
 />
@@ -69,7 +71,7 @@ Windows（PowerShell）：
     {
       name: "command.ps1",
       language: "powershell",
-      content: "irm https://code.kimi.com/kimi-code/install.ps1 | iex",
+      content: "# Windows (PowerShell)\nirm https://code.kimi.com/kimi-code/install.ps1 | iex",
     },
   ]}
 />
@@ -87,7 +89,7 @@ Windows（PowerShell）：
     {
       name: "command.sh",
       language: "bash",
-      content: "npm install -g @moonshot-ai/kimi-code",
+      content: "node --version\nnpm install -g @moonshot-ai/kimi-code",
     },
   ]}
 />
@@ -122,6 +124,12 @@ Windows（PowerShell）：
     },
   ]}
 />
+
+> 由于 macOS 的安全检查机制（Gatekeeper），首次运行 `kimi` 命令可能需要较长时间。可以在「系统设置 → 隐私与安全性 → 开发者工具」中添加你的终端应用来加速后续启动。
+
+<Callout type="tip">
+如果 `kimi` 命令未找到，请尝试重新打开终端或执行 `source ~/.bashrc`（或 `~/.zshrc`）。
+</Callout>
 
 ## 升级与卸载
 
@@ -270,6 +278,19 @@ Kimi Code CLI 会规划步骤、修改代码、运行测试，并在每一步告
 
 ## 常用命令与快捷键速查
 
+### 基础命令
+
+| 命令 | 说明 |
+| --- | --- |
+| `kimi` | 启动交互式对话 |
+| `kimi web` | 打开浏览器图形界面 |
+| `kimi -p "..."` | 执行单条指令后退出 |
+| `kimi -C` | 继续上一次会话 |
+| `/login` | 配置或切换 API 来源 |
+| `/usage` | 查看剩余额度和配额 |
+| `/help` | 查看所有命令和快捷键 |
+| `/exit` | 退出 CLI |
+
 ### 会话相关命令
 
 | 命令 | 说明 |
@@ -286,6 +307,7 @@ Kimi Code CLI 会规划步骤、修改代码、运行测试，并在每一步告
 | --- | --- |
 | `Esc` | 中断流式输出 / 关闭弹窗 |
 | `Ctrl-C` | 中断输出；空闲时连按两次退出 |
+| `Ctrl-J` | 换行（不提交） |
 | `Shift-Tab` | 切换 Plan 模式 |
 | `Ctrl-S` | 输出中途插入消息，无需等待结束 |
 | `Ctrl-O` | 折叠 / 展开工具输出 |

@@ -1,5 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
+import crypto from "node:crypto";
 import fs from "node:fs/promises";
 import os from "node:os";
 import path from "node:path";
@@ -390,6 +391,7 @@ extract_headings: false
   process.env.TOS_BUCKET = "test-bucket";
 
   try {
+    const expectedHash = crypto.createHash("sha256").update("").digest("hex").slice(0, 12);
     const locales = await loadLocales(root, {
       dryRun: true,
       uploadAssets: true,
@@ -400,8 +402,90 @@ extract_headings: false
 
     assert.match(
       content,
-      /url: "https:\/\/statics\.example\.com\/kimi-helpcenter-doc\/en-US\/agent\/videos\/overview\/demo\.mp4"/,
+      new RegExp(
+        `url: "https:\\/\\/statics\\.example\\.com\\/kimi-helpcenter-doc\\/en-US\\/agent\\/videos\\/overview\\/demo\\.${expectedHash}\\.mp4"`,
+      ),
     );
+  } finally {
+    for (const [name, value] of Object.entries(previousEnv)) {
+      if (value === undefined) {
+        delete process.env[name];
+      } else {
+        process.env[name] = value;
+      }
+    }
+  }
+});
+
+test("loadLocales upload asset URLs change when same image filename has new content", async () => {
+  const root = await fs.mkdtemp(path.join(os.tmpdir(), "kimi-docs-"));
+  await fs.mkdir(path.join(root, "en-US", "agent", "images", "overview"), { recursive: true });
+  await fs.writeFile(path.join(root, "en-US", "_config.json"), `{"title":"Help Center"}`);
+  await fs.writeFile(
+    path.join(root, "en-US", "agent", "_category.json"),
+    JSON.stringify({
+      title: "Agent",
+      description: "Agent docs",
+      order: 1,
+    }),
+  );
+  await fs.writeFile(
+    path.join(root, "en-US", "agent", "overview.md"),
+    `---
+title: "Overview"
+slug: "overview"
+order: 1
+extract_headings: false
+---
+
+<Frames
+  src="./images/overview/screenshot.png"
+  alt="Screenshot"
+/>
+`,
+  );
+
+  const imagePath = path.join(root, "en-US", "agent", "images", "overview", "screenshot.png");
+  const previousEnv = {
+    TOS_ACCESS_KEY_ID: process.env.TOS_ACCESS_KEY_ID,
+    TOS_ACCESS_KEY_SECRET: process.env.TOS_ACCESS_KEY_SECRET,
+    TOS_REGION: process.env.TOS_REGION,
+    TOS_BUCKET: process.env.TOS_BUCKET,
+  };
+  process.env.TOS_ACCESS_KEY_ID = "test-access-key";
+  process.env.TOS_ACCESS_KEY_SECRET = "test-access-secret";
+  process.env.TOS_REGION = "cn-beijing";
+  process.env.TOS_BUCKET = "test-bucket";
+
+  try {
+    await fs.writeFile(imagePath, "first image");
+    const firstLocales = await loadLocales(root, {
+      dryRun: true,
+      uploadAssets: true,
+      cdnPublicBase: "https://statics.example.com",
+      cdnPathPrefix: "kimi-helpcenter-doc/",
+    });
+    const firstContent = firstLocales[0].docs[0].content;
+
+    await fs.writeFile(imagePath, "second image");
+    const secondLocales = await loadLocales(root, {
+      dryRun: true,
+      uploadAssets: true,
+      cdnPublicBase: "https://statics.example.com",
+      cdnPathPrefix: "kimi-helpcenter-doc/",
+    });
+    const secondContent = secondLocales[0].docs[0].content;
+
+    const firstHash = crypto.createHash("sha256").update("first image").digest("hex").slice(0, 12);
+    const secondHash = crypto
+      .createHash("sha256")
+      .update("second image")
+      .digest("hex")
+      .slice(0, 12);
+
+    assert.match(firstContent, new RegExp(`/screenshot\\.${firstHash}\\.png"`));
+    assert.match(secondContent, new RegExp(`/screenshot\\.${secondHash}\\.png"`));
+    assert.notEqual(firstContent, secondContent);
   } finally {
     for (const [name, value] of Object.entries(previousEnv)) {
       if (value === undefined) {

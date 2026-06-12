@@ -1,0 +1,283 @@
+---
+title: "Kimi Code FAQ"
+slug: "faq"
+order: 4
+extract_headings: false
+preview: true
+preview_content: "Kimi Code frequently asked questions."
+---
+
+<SeoMeta
+  title="Kimi Code FAQ - Kimi Help Center"
+  description="Frequently asked questions about Kimi Code CLI installation, authentication, migration, interaction, and more."
+/>
+
+# Frequently asked questions
+
+## Migrating from the legacy version
+
+<Callout type="info">
+Kimi Code CLI has gone through a major version upgrade — moving from Python/uv to Node.js, bringing a simpler install experience, faster startup, and a redesigned terminal UI. The legacy version will gradually be phased out, so we recommend upgrading as soon as possible.
+</Callout>
+
+If you are migrating from the legacy version, follow the steps below — a single command migrates your config, MCP servers, and session history to the new version.
+
+### What's new
+
+- **No more Python / uv**: Rebuilt on Node.js — no Python environment needed, simpler to install
+- **Native binary, works out of the box**: Faster startup, lighter footprint
+- **Redesigned terminal UI**: Smoother, more responsive experience
+- **Full data migration**: Config, MCP servers, and session history all carry over seamlessly
+
+### How to migrate
+
+There are two ways to migrate.
+
+The **first time you run `kimi`** after installing kimi-code, it automatically checks whether kimi-cli data exists under `~/.kimi/`. If it finds any, a migration prompt appears, and you can choose to migrate now, do it later, or never be asked again.
+
+You can also **run it manually at any time**:
+
+<CodePreview
+  files={[
+    {
+      name: "command.sh",
+      language: "bash",
+      content: "kimi migrate",
+    },
+  ]}
+/>
+
+You can choose whether to migrate chat sessions as well. If you don't need the history yet, pick **Config only**; otherwise pick **Config + N sessions** to bring everything across in one go. A summary is printed at the end.
+
+### What happens during migration
+
+**What gets migrated**: configuration (`config.toml`), MCP server configuration, input history, and whichever chat sessions you chose to migrate.
+
+**What does not get migrated**: OAuth login credentials and MCP service authorizations are not copied, so you will need to run `/login` again and re-authorize MCP servers after migrating. kimi-cli plugins are also out of scope.
+
+<Callout type="tip">
+Migration **never modifies or deletes** any of the old data under `~/.kimi/`. kimi-cli keeps working as before, and the two do not interfere with each other. Migration can also be run repeatedly — sessions that have already been migrated are not imported again.
+</Callout>
+
+After migration, sessions imported from kimi-cli are tagged with `[imported]` in the session picker so you can tell them apart from new ones.
+
+## Installation & authentication
+
+### No models available when running `/login`
+
+If you see "No models available for the selected platform" when running `/login` (or `/setup`), it may be due to:
+
+- **Invalid or expired API key**: Check whether the API key you entered is correct and still valid.
+- **Network connection issue**: Confirm that you can access the API service address (such as `api.kimi.com` or `api.moonshot.cn`).
+
+**Note the platform distinction**
+
+Kimi Code membership benefits and the [Kimi Open Platform](https://platform.kimi.com) have different Base URLs. Please make sure the Base URL matches the API Key when configuring.
+
+| Platform | Base URL | Billing | Key creation |
+|------|---------|---------|-------------|
+| **Kimi Code** | OpenAI compatible: `https://api.kimi.com/coding/v1`<br> Anthropic compatible: `https://api.kimi.com/coding/` | Kimi membership subscription (includes quota) | [Kimi Code Console](https://www.kimi.com/code/console) |
+| **Kimi Open Platform** | `https://api.moonshot.cn/v1` | Pay-as-you-go | [Kimi Open Platform](https://platform.kimi.com) |
+
+### API key is invalid
+
+Possible reasons for an invalid API key:
+
+- **Key entered incorrectly**: Check for extra spaces or missing characters.
+- **Key expired or revoked**: Confirm the key status in the platform console.
+- **Environment variable override**: Check whether `KIMI_API_KEY` or `OPENAI_API_KEY` environment variables are overriding the config file. Run `echo $KIMI_API_KEY` to check.
+
+### Membership expired or quota exhausted
+
+If you are using the Kimi Code platform, you can check your current quota and membership status via the `/usage` command. If your quota is exhausted or your membership has expired, you need to renew or upgrade at [Kimi Code](https://kimi.com/coding).
+
+## Interaction issues
+
+### `cd` command does not work in Shell mode
+
+In Shell mode, `cd` commands do not change Kimi Code CLI's working directory. This is because each shell command runs in an independent subprocess, and the directory change only takes effect within that process.
+
+To switch working directories:
+
+- **Exit and restart**: Re-run the `kimi` command in the target directory.
+- **Use the `--work-dir` flag**: Specify the working directory at startup, e.g. `kimi --work-dir /path/to/project`.
+- **Use absolute paths in commands**: Execute commands with absolute paths, e.g. `ls /path/to/dir`.
+
+### Working directory removed or unmounted
+
+If the working directory becomes inaccessible during a session (external drive unplugged, directory deleted, or filesystem unmounted), Kimi Code CLI detects this and shows a crash report containing the session ID and working directory path, then exits cleanly. You can resume the session in the correct directory via `kimi -r <session-id>`.
+
+### Paste image fails
+
+When pasting an image with `Ctrl-V`, if you see "Current model does not support image input", the current model does not support image input.
+
+Solutions:
+
+- **Switch to a model that supports images**: Use a model with the `image_in` capability.
+- **Check clipboard contents**: Make sure the clipboard actually contains image data, not a path to an image file.
+
+## ACP issues
+
+### IDE cannot connect to Kimi Code CLI
+
+If the IDE (such as Zed or JetBrains IDE) cannot connect to Kimi Code CLI, check the following:
+
+- **Confirm Kimi Code CLI is installed**: Run `kimi --version` to confirm successful installation.
+- **Check the config path**: Make sure the Kimi Code CLI path in the IDE config is correct. You can usually use `kimi acp` as the command.
+- **Check the PATH**: If installed via the script, ensure `~/.local/bin` is in your PATH. You can use an absolute path, such as `/Users/yourname/.local/bin/kimi acp`.
+
+## MCP issues
+
+### MCP server fails to start
+
+After adding an MCP server, if the tool does not load or reports an error, it may be due to:
+
+- **Command not found**: For stdio-type servers, make sure the command (such as `npx`) is in your PATH. You can use an absolute path in the config.
+- **Incorrect config format**: Check whether `~/.kimi-code/mcp.json` is valid JSON. Run `kimi mcp list` to view the current configuration.
+
+Debugging steps:
+
+<CodePreview
+  files={[
+    {
+      name: "command.sh",
+      language: "bash",
+      content: "# View configured servers\nkimi mcp list\n\n# Test whether a server is working\nkimi mcp test <server-name>",
+    },
+  ]}
+/>
+
+### OAuth authorization fails
+
+For MCP servers that require OAuth authorization (such as Linear), if authorization fails:
+
+- **Check network connection**: Make sure you can access the authorization server.
+- **Re-authorize**: Run `kimi mcp auth <server-name>` to re-authorize.
+- **Reset authorization**: If the authorization info is corrupted, run `kimi mcp reset-auth <server-name>` to clear and retry.
+
+### Header format error
+
+When adding an HTTP-type MCP server, the Header format should be `KEY: VALUE` (space after colon). For example:
+
+<CodePreview
+  files={[
+    {
+      name: "command.sh",
+      language: "bash",
+      content: "# Correct\nkimi mcp add --transport http context7 https://mcp.context7.com/mcp --header \"CONTEXT7_API_KEY: your-key\"\n\n# Incorrect (missing space or using equals sign)\nkimi mcp add --transport http context7 https://mcp.context7.com/mcp --header \"CONTEXT7_API_KEY=your-key\"",
+    },
+  ]}
+/>
+
+## Print / Wire mode issues
+
+### JSONL input format is invalid
+
+When using `--input-format stream-json`, the input must be valid JSONL (one JSON object per line). Common issues:
+
+- **JSON format error**: Make sure each line is a complete JSON object with no syntax errors.
+- **Encoding issue**: Make sure the input uses UTF-8 encoding.
+- **Line ending issue**: Windows users should check that line endings are `\n` rather than `\r\n`.
+
+Correct input format example:
+
+<CodePreview
+  files={[
+    {
+      name: "example.json",
+      language: "json",
+      content: '{"role": "user", "content": "hello"}',
+    },
+  ]}
+/>
+
+### Print mode produces no output
+
+If there is no output in `--print` mode, it may be because:
+
+- **No input provided**: You need to provide input via `--prompt` (or `--command`) or stdin. For example: `kimi --print --prompt "hello"`.
+- **Output is buffered**: Try using `--output-format stream-json` to get streaming output.
+- **Configuration incomplete**: Make sure the API key and model have been configured via `/login`.
+
+## Updates & upgrades
+
+### macOS first launch is slow
+
+macOS Gatekeeper performs a security check the first time a new program runs, causing slower startup. Solutions:
+
+- **Wait for the check to complete**: Be patient on the first run; subsequent launches will return to normal speed.
+- **Add to Developer Tools**: Add your terminal app in **System Settings → Privacy & Security → Developer Tools**.
+
+### How to upgrade Kimi Code CLI
+
+Run `kimi upgrade` to check for the latest version and present update options. Choose `Install update now` to upgrade. You can also upgrade directly via the package manager:
+
+<CodePreview
+  files={[
+    {
+      name: "command.sh",
+      language: "bash",
+      content: "npm install -g @moonshot-ai/kimi-code@latest",
+    },
+  ]}
+/>
+
+### Update reminder on startup
+
+When a background check finds a new version, Kimi Code CLI shows a blocking update reminder before the shell prompt, listing the current and latest version info. You can choose an action via the following keys:
+
+- **Enter**: Upgrade to the latest version immediately
+- **q**: Skip for now; reminder will show again on next launch
+- **s**: Skip this version; no more reminders until a newer version is released
+
+### How to disable update reminders
+
+If you don't want Kimi Code CLI to check for updates in the background, set the environment variable:
+
+<CodePreview
+  files={[
+    {
+      name: "command.sh",
+      language: "bash",
+      content: "export KIMI_CLI_NO_AUTO_UPDATE=1",
+    },
+  ]}
+/>
+
+You can add this line to your shell config file (such as `~/.zshrc` or `~/.bashrc`).
+
+## VS Code extension FAQ
+
+Below are frequently asked questions about the Kimi Code VS Code Extension.
+
+### VS Code says no workspace is open
+
+Please open a folder in VS Code. The Kimi Code VS Code extension requires a workspace to function properly.
+
+### VS Code says CLI cannot be found
+
+Please install Kimi Code CLI manually and configure `kimi.executablePath` in VS Code settings, or make sure the built-in CLI is present.
+
+### VS Code login fails
+
+Try skipping login and using API key mode instead, check your network connection, or retry later via the Kimi Code extension action menu.
+
+### VS Code sends messages with no response
+
+Please confirm that Kimi Code CLI is available, the model is configured, and a workspace folder is open in VS Code. Check error logs via "Kimi Code: Show Logs".
+
+### VS Code connection times out
+
+If there is no response within 30 seconds, it will time out. Please check your network and retry.
+
+### VS Code error before sending a message
+
+Certain errors prevent sending messages in VS Code, such as Kimi Code CLI not found, version too low, not logged in, or session busy. The error will be shown as a toast notification, and your input will be preserved for retry.
+
+## Feedback & contact
+
+### Documentation did not solve my problem
+
+If the above did not solve your problem, feel free to contact us via email: [code@moonshot.ai](mailto:code@moonshot.ai). Please describe the issue you encountered, the steps you took, and any relevant log information in the email, and we will respond as soon as possible.
+
+If you have any issues or suggestions, you can also provide feedback on [GitHub Issues](https://www.github.com/MoonshotAI/kimi-cli/issues).

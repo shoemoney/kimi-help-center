@@ -26,15 +26,12 @@ preview_content: "Kimi Code CLI、VS Code 扩展和第三方工具的完整文�
 ### 快速开始
 
 - [快速开始](https://www.kimi.com/code/docs/kimi-code-cli/guides/getting-started.html)
-- [核心操作](https://www.kimi.com/code/docs/kimi-code-cli/core-operations.html)
 
 ### 配置
 
 - [配置文件](https://www.kimi.com/code/docs/kimi-code-cli/configuration/config-files.html)
 - [环境变量](https://www.kimi.com/code/docs/kimi-code-cli/configuration/env-vars.html)
-- [平台与模型](https://www.kimi.com/code/docs/kimi-code-cli/configuration/providers-and-models.html)
 - [数据路径](https://www.kimi.com/code/docs/kimi-code-cli/configuration/data-locations.html)
-- [配置覆盖](https://www.kimi.com/code/docs/kimi-code-cli/configuration/overrides-and-precedence.html)
 
 ### 定制化
 
@@ -47,8 +44,6 @@ preview_content: "Kimi Code CLI、VS Code 扩展和第三方工具的完整文�
 
 ### 参考手册
 
-- [kimi 命令](https://www.kimi.com/code/docs/kimi-code-cli/reference/kimi-command.html)
-- [kimi acp 子命令](https://www.kimi.com/code/docs/kimi-code-cli/reference/kimi-acp.html)
 - [内置工具](https://www.kimi.com/code/docs/kimi-code-cli/reference/tools.html)
 - [斜杠命令](https://www.kimi.com/code/docs/kimi-code-cli/reference/slash-commands.html)
 - [键盘快捷键](https://www.kimi.com/code/docs/kimi-code-cli/reference/keyboard.html)
@@ -62,7 +57,4 @@ preview_content: "Kimi Code CLI、VS Code 扩展和第三方工具的完整文�
 
 ## 第三方工具
 
-- [JetBrains](https://www.kimi.com/code/docs/third-party-tools/jetbrains.html)
-- [Zed](https://www.kimi.com/code/docs/third-party-tools/zed.html)
-- [Zsh](https://www.kimi.com/code/docs/third-party-tools/zsh.html)
 - [在第三方 Coding Agent 中使用](https://www.kimi.com/code/docs/third-party-tools/other-coding-agents.html)

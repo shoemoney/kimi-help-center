@@ -107,7 +107,4 @@ Kimi Code 权益支持在主流 Coding Agent 中使用——例如 Claude Code�
 
 ## 详细教程
 
-- [在 JetBrains IDE 中使用](https://www.kimi.com/code/docs/third-party-tools/jetbrains.html)
-- [在 Zed 中使用](https://www.kimi.com/code/docs/third-party-tools/zed.html)
-- [Zsh 插件集成](https://www.kimi.com/code/docs/third-party-tools/zsh.html)
 - [在第三方 Coding Agent（Claude Code、Roo Code）中使用](https://www.kimi.com/code/docs/third-party-tools/other-coding-agents.html)

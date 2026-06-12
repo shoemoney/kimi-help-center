@@ -93,16 +93,6 @@ If you are using the Kimi Code platform, you can check your current quota and me
 
 ## Interaction issues
 
-### `cd` command does not work in Shell mode
-
-In Shell mode, `cd` commands do not change Kimi Code CLI's working directory. This is because each shell command runs in an independent subprocess, and the directory change only takes effect within that process.
-
-To switch working directories:
-
-- **Exit and restart**: Re-run the `kimi` command in the target directory.
-- **Use the `--work-dir` flag**: Specify the working directory at startup, e.g. `kimi --work-dir /path/to/project`.
-- **Use absolute paths in commands**: Execute commands with absolute paths, e.g. `ls /path/to/dir`.
-
 ### Working directory removed or unmounted
 
 If the working directory becomes inaccessible during a session (external drive unplugged, directory deleted, or filesystem unmounted), Kimi Code CLI detects this and shows a crash report containing the session ID and working directory path, then exits cleanly. You can resume the session in the correct directory via `kimi -r <session-id>`.
@@ -168,36 +158,6 @@ When adding an HTTP-type MCP server, the Header format should be `KEY: VALUE` (s
     },
   ]}
 />
-
-## Print / Wire mode issues
-
-### JSONL input format is invalid
-
-When using `--input-format stream-json`, the input must be valid JSONL (one JSON object per line). Common issues:
-
-- **JSON format error**: Make sure each line is a complete JSON object with no syntax errors.
-- **Encoding issue**: Make sure the input uses UTF-8 encoding.
-- **Line ending issue**: Windows users should check that line endings are `\n` rather than `\r\n`.
-
-Correct input format example:
-
-<CodePreview
-  files={[
-    {
-      name: "example.json",
-      language: "json",
-      content: '{"role": "user", "content": "hello"}',
-    },
-  ]}
-/>
-
-### Print mode produces no output
-
-If there is no output in `--print` mode, it may be because:
-
-- **No input provided**: You need to provide input via `--prompt` (or `--command`) or stdin. For example: `kimi --print --prompt "hello"`.
-- **Output is buffered**: Try using `--output-format stream-json` to get streaming output.
-- **Configuration incomplete**: Make sure the API key and model have been configured via `/login`.
 
 ## Updates & upgrades
 

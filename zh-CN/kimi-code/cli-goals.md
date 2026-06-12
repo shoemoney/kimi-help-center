@@ -1,18 +1,18 @@
 ---
-title: "使用目标模式"
+title: "使用目标（goal）模式"
 slug: "cli-goals"
 order: 9
 extract_headings: false
 preview: true
-preview_content: "使用目标模式让 Kimi Code 在多个轮次中持续朝明确结果工作。"
+preview_content: "使用目标（goal）模式让 Kimi Code 在多个轮次中持续朝明确结果工作。"
 ---
 
 <SeoMeta
-  title="使用目标模式 - Kimi 帮助中心"
+  title="使用目标（goal）模式 - Kimi 帮助中心"
   description="使用 /goal 命令让 Kimi Code 在多个轮次中持续朝明确结果工作。了解何时使用目标模式、如何管理生命周期、以及如何安排后续目标。"
 />
 
-# 使用目标模式
+# 使用目标（goal）模式
 
 目标（goal）让 Kimi Code 在多个轮次中持续朝一个明确结果工作——不同于普通提示词只说"下一步做什么"，目标说的是"最终要达成什么状态"。当任务有清晰终点，但下一步取决于 Agent 工作中发现的信息时，使用 `/goal`，例如：修复一批失败的测试、追踪并修复构建失败的根因。
 

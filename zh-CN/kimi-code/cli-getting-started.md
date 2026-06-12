@@ -17,9 +17,12 @@ Kimi Code CLI 是一个运行在终端中的 AI Agent，帮助你完成软件开
 
 ## 适合场景
 
-- **编写和修改代码**：描述需求，AI 自动完成代码编写与修改。
-- **理解项目**：快速了解项目架构、代码逻辑和文件作用。
-- **自动化任务**：批量修改代码、添加文档、生成测试用例等重复性工作。
+- **编写和修改代码**：实现新功能、修复 bug、完成重构
+- **理解项目**：探索陌生的代码库，解答架构和实现层面的问题
+- **自动化任务**：批量处理文件、运行构建与测试、串联多个脚本
+
+整套 CLI 以 TypeScript 编写，通过 npm 分发，运行在 Node.js 之上。
+
 
 ## 三种使用方式
 
@@ -36,7 +39,9 @@ Kimi Code CLI 是一个运行在终端中的 AI Agent，帮助你完成软件开
 
 ## 安装
 
-运行安装脚本即可完成安装。脚本会先安装 [uv](https://docs.astral.sh/uv/)（Python 包管理工具），再通过 uv 安装 Kimi Code CLI：
+::: tip 安装之前
+Kimi Code CLI 为全交互式 TUI 应用，推荐在支持真彩色与连字的现代终端中运行以获得最佳体验，例如 [Kitty](https://sw.kovidgoyal.net/kitty/) 或 [Ghostty](https://ghostty.org/)。
+:::
 
 <Frames
   src="./images/cli-getting-started/cli-getting-started-01.png"
@@ -47,8 +52,8 @@ Kimi Code CLI 是一个运行在终端中的 AI Agent，帮助你完成软件开
   files={[
     {
       name: "command.sh",
-      language: "bash",
-      content: "# Linux / macOS\ncurl -LsSf https://code.kimi.com/install.sh | bash",
+      language: "sh",
+      content: "# Linux / macOS\curl -fsSL https://code.kimi.com/kimi-code/install.sh | bash",
     },
   ]}
 />
@@ -58,10 +63,29 @@ Kimi Code CLI 是一个运行在终端中的 AI Agent，帮助你完成软件开
     {
       name: "example.txt",
       language: "powershell",
-      content: "# Windows (PowerShell)\nInvoke-RestMethod https://code.kimi.com/install.ps1 | Invoke-Expression",
+      content: "# Windows (PowerShell)\irm https://code.kimi.com/kimi-code/install.ps1 | iex",
     },
   ]}
 />
+
+> Windows 用户首次启动前还需要安装 [Git for Windows](https://gitforwindows.org/)，Kimi Code CLI 会使用其中的 Git Bash 作为 Shell 环境。如果 Git Bash 安装在非标准路径，请把 `KIMI_SHELL_PATH` 设为 `bash.exe` 的绝对路径。
+
+脚本会自动下载最新版本、校验 checksum，并把 `kimi` 可执行文件放到你的 `PATH` 中。
+
+### npm 安装
+
+需要 Node.js 22.19.0 或更高版本：
+
+```sh
+node --version
+npm install -g @moonshot-ai/kimi-code
+```
+
+或用 pnpm：
+
+```sh
+pnpm add -g @moonshot-ai/kimi-code
+```
 
 验证安装是否成功：
 
@@ -83,19 +107,6 @@ Kimi Code CLI 是一个运行在终端中的 AI Agent，帮助你完成软件开
 
 > 由于 macOS 的安全检查机制（Gatekeeper），首次运行 `kimi` 命令可能需要较长时间。可以在「系统设置 → 隐私与安全性 → 开发者工具」中添加你的终端应用来加速后续启动。
 
-如果你已经安装了 uv，也可以直接运行：
-
-<CodePreview
-  files={[
-    {
-      name: "command.sh",
-      language: "bash",
-      content: "uv tool install --python 3.13 kimi-cli",
-    },
-  ]}
-/>
-
-> Kimi Code CLI 支持 Python 3.12-3.14，但建议使用 3.13 以获得最佳兼容性。
 
 <Callout type="tip">
 如果 `kimi` 命令未找到，请尝试重新打开终端或执行 `source ~/.bashrc`（或 `~/.zshrc`）。
@@ -212,15 +223,25 @@ Kimi Code CLI 也可以运行 Shell 命令并分析结果：
 
 ## 常用命令速查
 
+**会话相关命令**
+
 | 命令 | 说明 |
-|------|------|
-| `kimi` | 启动交互式对话 |
-| `kimi web` | 打开浏览器图形界面 |
-| `/login` | 配置或切换 API 来源 |
-| `/usage` | 查看剩余额度和配额 |
-| `/help` | 查看所有命令和快捷键 |
-| `Ctrl-J` | 换行（不提交） |
-| `Ctrl-C` / `Ctrl-D` | 中断当前操作 / 退出 |
+| --- | --- |
+| `/new` | 开启新会话，清空当前上下文 |
+| `/sessions` | 浏览历史会话，选择恢复 |
+| `/model` | 切换当前使用的模型 |
+| `/compact` | 手动压缩上下文，释放 token |
+| `/fork` | 派生当前会话，保留历史独立继续 |
+
+**最常用快捷键**
+
+| 快捷键 | 说明 |
+| --- | --- |
+| `Esc` | 中断流式输出 / 关闭弹窗 |
+| `Ctrl-C` | 中断输出；空闲时连按两次退出 |
+| `Shift-Tab` | 切换 Plan 模式 |
+| `Ctrl-S` | 输出中途插入消息，无需等待结束 |
+| `Ctrl-O` | 折叠 / 展开工具输出 |
 
 完整命令列表请参考[斜杠命令](https://www.kimi.com/code/docs/kimi-code-cli/reference/slash-commands.html)和[键盘快捷键](https://www.kimi.com/code/docs/kimi-code-cli/reference/keyboard-shortcuts.html)。
 
@@ -252,24 +273,22 @@ Kimi Code CLI 也可以运行 Shell 命令并分析结果：
 
 升级到最新版本：
 
-<CodePreview
-  files={[
-    {
-      name: "command.sh",
-      language: "bash",
-      content: "uv tool upgrade kimi-cli --no-cache",
-    },
-  ]}
-/>
+## 升级与卸载
 
-卸载 Kimi Code CLI：
+安装完成后，验证可执行文件是否就绪：
 
-<CodePreview
-  files={[
-    {
-      name: "command.sh",
-      language: "bash",
-      content: "uv tool uninstall kimi-cli",
-    },
-  ]}
-/>
+```sh
+kimi --version
+```
+
+**升级**：运行 `kimi upgrade`，CLI 会检查最新版本并展示更新选项。选择 `Install update now` 后根据当前安装来源执行升级；也可以直接用包管理器：
+
+```sh
+npm install -g @moonshot-ai/kimi-code@latest
+```
+
+**卸载**：脚本安装的用户删除 `kimi` 可执行文件即可；npm 安装的用户：
+
+```sh
+npm uninstall -g @moonshot-ai/kimi-code
+```

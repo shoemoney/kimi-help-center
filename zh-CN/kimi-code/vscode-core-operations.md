@@ -14,6 +14,12 @@ description="掌握 Kimi Code VS Code 扩展的核心功能：@文件引用、�
 
 # VS Code 核心操作
 
+<Callout type="warning">
+**VS Code 插件适配中**
+
+Kimi Code for VS Code 目前仅对旧版 Python CLI 用户开放新增安装。已安装插件的老用户升级新版 CLI 后仍可继续使用，其他 TS 版本 CLI 用户暂不支持安装。
+</Callout>
+
 ## 打开面板
 
 <Frames

@@ -13,6 +13,12 @@ preview: false
 
 # Kimi Code for VS Code quick start
 
+<Callout type="warning">
+**VS Code Extension Compatibility Notice**
+
+Kimi Code for VS Code is currently only available for new installation to users of the legacy Python CLI. Existing users who have already installed the plugin can continue using it after upgrading to the new CLI. TS version CLI users are not supported for installation at this time.
+</Callout>
+
 Kimi Code for VS Code is an extension integrated into Visual Studio Code. After installation, you can ask questions directly within the editor, review code diffs, and quickly commit changes. 
 
 The extension can read the content of files you reference and display modification suggestions through a visual interface, executing them after your confirmation. The entire workflow is under your control while significantly improving development efficiency.

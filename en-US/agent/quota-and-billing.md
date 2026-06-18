@@ -8,17 +8,17 @@ preview: false
 
 <SeoMeta
   title="Agent quota & billing - Kimi Help Center"
-  description="Agent mode uses Kimi's unified quota system. All membership features Agent, Deep Research, Slides, Docs, Sheets, Kimi Code, Kimi Claw, etc. share a single qu..."
+  description="Agent mode uses Kimi's quota system. All membership benefits include two quota pools: Kimi Code uses a separate quota pool; other membership features share a single quota pool, with quota deducted based on actual token consumption."
 />
 
 # Agent quota & billing
 
 <Callout type="info">
-Agent mode uses Kimi's unified quota system. All membership features (Agent, Deep Research, Slides, Docs, Sheets, Kimi Code, Kimi Claw, etc.) share a single quota pool, with quota deducted based on actual token consumption.
+Agent mode uses Kimi's quota system. All membership benefits include two quota pools: Kimi Code uses a separate quota pool; other membership features (Agent, Deep Research, Slides, Docs, Sheets, Kimi Claw, etc.) share a single quota pool, with quota deducted based on actual token consumption.
 </Callout>
 
 ## Billing model
-- **Unified quota**: All membership features share one quota pool — allocate usage however you like
+- **Two quota pools**: All membership benefits include two quota pools. Kimi Code uses a separate quota pool; other membership features share one quota pool — allocate usage however you like
 - **Pay-per-use**: Quota consumption depends on task complexity and duration (i.e., token usage) — simple tasks cost less, complex tasks cost more
 - **Monthly refresh**: Quota resets monthly, aligned with your subscription cycle
 - **Usage priority**: Bonus quota (e.g., trial credits, promotional rewards) is consumed first, followed by plan quota

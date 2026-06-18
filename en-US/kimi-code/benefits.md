@@ -20,7 +20,7 @@ Kimi Code is a service included in the Kimi membership plan, providing coding-re
 ## Billing
 
 - Kimi Code usage is **included in your subscription fee** — no additional charges apply.
-- Each request consumes credits from your plan's unified allowance; different plans include different credit amounts.
+- Each request consumes credits from your **Kimi Code exclusive quota pool**; different plans include different credit amounts.
 - The system prioritizes bonus credits before consuming plan credits.
 
 ## Credit refresh

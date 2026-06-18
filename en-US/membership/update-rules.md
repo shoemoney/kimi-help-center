@@ -8,27 +8,28 @@ preview: false
 
 <SeoMeta
   title="Credit update \u0026 usage rules - Kimi Help Center"
-  description="Kimi upgrades membership benefits to a unified credit system. All features share one credit pool, and credits are consumed based on actual usage."
+  description="Kimi membership benefits include two credit pools. Kimi Code uses a separate quota pool; other membership features share one credit pool, and credits are consumed based on actual usage."
 />
 
 # Credit update & usage rules
 
 <Callout type="info">
-Kimi upgrades membership benefits to a unified credit system. All features share one credit pool, and credits are consumed based on actual usage.
+Kimi membership benefits include two credit pools. Kimi Code uses a separate quota pool; other membership features share one credit pool, and credits are consumed based on actual usage.
 </Callout>
 
-## What are unified credits?
-Instead of separate quotas for each feature, your membership gives you a single credit pool that works everywhere:
+## What are the two credit pools?
+Instead of separate quotas for each feature, your membership gives you two credit pools. Kimi Code uses a separate quota pool; other membership features share one quota pool that works everywhere:
 | Feature | Description |
 |---------|-------------|
 | **Agent tasks** | Websites, documents, slides, spreadsheets, deep research |
-| **Kimi Code** | AI-powered coding assistant |
 | **Kimi Claw** | Your personal cloud-deployed AI assistant |
-| **Kimi Chat** | Conversations with the latest models |
 | **Other features** | Image generation and more |
 
+> **Kimi Chat**: Conversations with the latest models (no quota consumption)
+> **Kimi Code**: AI-powered coding assistant (separate quota pool)
+
 <Callout type="tip">
-This means you can allocate credits however you like — spend more on coding one month, more on research the next.
+This means you can allocate credits however you like across the shared pool — spend more on research one month, more on documents the next. Kimi Chat does not consume quota, and Kimi Code uses its own separate quota pool.
 </Callout>
 
 ## How are credits calculated?

@@ -61,11 +61,15 @@ Note: The receiving account number is for this transfer only and does not need t
 
 </Callout>
 
-## Why does Kimi Business show as not a member in the App or desktop client?
+## Why does Kimi Business show as not a member in the App? How do I use it on desktop?
 
-Currently, the Kimi App and desktop client do not support Kimi Business enterprise features — they only support personal memberships. To access enterprise benefits, please visit [kimi.com](https://www.kimi.com/) in a desktop browser, log in, and switch to the enterprise workspace via the avatar / workspace switcher.
+Currently, the Kimi App does not support Kimi Business enterprise features and only supports personal memberships. The desktop client now supports Kimi Business. To use it:
 
-The personal and enterprise versions are completely independent. If you have already subscribed to a personal membership, you can continue to use personal membership benefits in the App and desktop client as usual.
+1. Open the Kimi desktop client and log in with an account that has joined your enterprise organization.
+2. Click the avatar / workspace entry and switch to the enterprise workspace.
+3. After switching, you can use Kimi Business enterprise benefits in the desktop client.
+
+Personal and enterprise memberships are independent. If you have already subscribed to a personal membership, you can continue to use personal membership benefits in the App; in the desktop client, your available benefits follow the currently selected workspace.
 
 ## Where can I find Kimi Business agreements, compliance, and security information?
 

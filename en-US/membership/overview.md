@@ -14,7 +14,7 @@ preview_content: "Compare Kimi's five membership tiers, credit system, and billi
 
 # Membership plans overview
 
-Kimi offers five membership tiers — including a free plan — designed to scale with your needs, from everyday productivity to power-user workflows. All plans use a unified credit pool, so your credits work across every Kimi feature.
+Kimi offers five membership tiers — including a free plan — designed to scale with your needs, from everyday productivity to power-user workflows. All plans include **two credit pools**: Kimi Code uses a separate quota pool; other membership features share one quota pool.
 
 ## Plan comparison
 
@@ -38,7 +38,7 @@ Use all credit limit for the same function
 
 ## How billing works
 
-- **Unified credit pool** — All features draw from the same credit balance, metered by token usage.
+- **Two credit pools** — Kimi Code uses a separate quota pool; other membership features share one quota pool, metered by token usage.
 - **Monthly refresh** — Credits reset at the start of each billing cycle.
 - **Priority order** — Bonus credits are consumed first, then plan credits.
 

@@ -27,7 +27,7 @@ Kimi Code 的额度以订阅日为起点**每 7 天自动刷新**，未用完不
   alt="控制台额度示意图"
 />
 
-> Kimi Code 与 Kimi 会员计划共享额度，如 Kimi 会员的月总额度达到上限，Kimi Code 额度会变为冻结状态，需等待月额度重置或升级订阅，月额度消耗可在 Kimi 主页设置中的 [订阅](https://www.kimi.com/membership/subscription) 查看。
+> Kimi Code 使用单独额度池，与 Kimi 会员其他功能额度不共享。如 Kimi Code 额度达到上限，需等待额度重置或升级订阅，额度消耗可在 [Kimi Code 控制台](https://www.kimi.com/code/console) 查看。
 
 <Frames
   src="./images/benefits/benefits-02.png"
@@ -69,5 +69,5 @@ Kimi Code 权益适用于以下工具：
 ## 计费方式
 
 - Kimi Code 的使用**包含在套餐费用中**，无需额外付费。
-- 每次调用会消耗套餐内的统一额度，不同套餐包含的额度不同。
+- 每次调用会消耗 Kimi Code 专属额度，不同套餐包含的额度不同。
 - 系统优先消耗获赠额度，再消耗套餐额度。

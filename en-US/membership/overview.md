@@ -23,8 +23,8 @@ Kimi offers five membership tiers — including a free plan — designed to scal
 | Agent quota* | 6 | 60 | 150 | 360 | 720 |
 | Agent concurrent tasks | 1 | 2 | 2 | 4 | 4 |
 | Agent speed priority | — | 4× | 4× | 4× | 4× |
-| Agent Swarm (beta) | — | — | 50 uses | 120 uses | 240 uses |
-| Agent Swarm concurrent subtasks | — | — | 4 | 4 | 8 |
+| Agent Swarm (beta) | — | 25 uses | 50 uses | 120 uses | 240 uses |
+| Agent Swarm concurrent subtasks | — | 2 | 4 | 4 | 8 |
 | Kimi Code quota | — | 1× | 5× | 15× | 30× |
 | Kimi Claw | — | — | ✅ | ✅ | ✅ |
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |

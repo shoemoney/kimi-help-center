@@ -59,7 +59,7 @@ Kimi Agent Swarm（智能体集群）通过PARL（Parallel-Agent Reinforcement L
 - 网页版：[https://www.kimi.com/agent-swarm](https://www.kimi.com/agent-swarm)
 - 手机/平板：打开 Kimi App → 选择切换模式 → 切换至 K2.6 Agent 集群模式
 
-注意：目前，K2.6 Agent 集群还处于Beta（内测）阶段，仅Allegretto、Allegro会员可用。Agent 集群任务消耗的额度较高（约为普通 Agent 任务的数倍），具体取决于任务复杂度和子智能体数量。
+注意：目前，K2.6 Agent 集群还处于Beta（内测）阶段，Moderato、Allegretto、Allegro 会员可用。Agent 集群任务消耗的额度较高（约为普通 Agent 任务的数倍），具体取决于任务复杂度和子智能体数量。
 
 ### 操作步骤
 

@@ -22,8 +22,8 @@ Kimi는 무료 요금제를 포함해 다섯 가지 멤버십 등급을 제공�
 | Agent quota* | 6 | 60 | 150 | 360 | 720 |
 | Agent 동시 작업 수 | 1 | 2 | 2 | 4 | 4 |
 | Agent 속도 우선순위 | — | 4× | 4× | 4× | 4× |
-| Agent Swarm (베타) | — | — | 50회 | 120회 | 240회 |
-| Agent Swarm 동시 하위 작업 수 | — | — | 4 | 4 | 8 |
+| Agent Swarm (베타) | — | 25회 | 50회 | 120회 | 240회 |
+| Agent Swarm 동시 하위 작업 수 | — | 2 | 4 | 4 | 8 |
 | Kimi Code quota | — | 1× | 5× | 15× | 30× |
 | Kimi Claw | — | — | ✅ | ✅ | ✅ |
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |

@@ -49,7 +49,7 @@ K2.6 Agent Swarm [Beta], PARL (Parallel-Agent Reinforcement Learning) eğitim y�
 - **Mobil**: Kimi uygulaması → Modu değiştir → K2.6 Agent Swarm [Beta] seçin
 
 <Callout type="warning">
-**Beta Erişimi**: K2.6 Agent Swarm [Beta] şu anda Allegretto, Allegro ve Vivace üyelerine açıktır. Görevler, standart Agent görevlerine kıyasla çok daha fazla quota tüketir.
+**Beta Erişimi**: K2.6 Agent Swarm [Beta] şu anda Moderato, Allegretto, Allegro ve Vivace üyelerine açıktır. Görevler, standart Agent görevlerine kıyasla çok daha fazla quota tüketir.
 </Callout>
 
 **Adımlar:**

@@ -22,8 +22,8 @@ Kimi menawarkan lima tingkat keanggotaan — termasuk paket gratis — masing-ma
 | Quota Agent* | 6 | 60 | 150 | 360 | 720 |
 | Tugas serentak Agent | 1 | 2 | 2 | 4 | 4 |
 | Prioritas kecepatan Agent | — | 4× | 4× | 4× | 4× |
-| Agent Swarm (beta) | — | — | 50 penggunaan | 120 penggunaan | 240 penggunaan |
-| Subtugas serentak Agent Swarm | — | — | 4 | 4 | 8 |
+| Agent Swarm (beta) | — | 25 penggunaan | 50 penggunaan | 120 penggunaan | 240 penggunaan |
+| Subtugas serentak Agent Swarm | — | 2 | 4 | 4 | 8 |
 | Quota Kimi Code | — | 1× | 5× | 15× | 30× |
 | Kimi Claw | — | — | ✅ | ✅ | ✅ |
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |

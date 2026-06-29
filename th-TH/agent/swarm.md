@@ -49,7 +49,7 @@ K2.6 Agent Swarm [Beta] ใช้วิธีฝึก PARL (Parallel-Agent Rein
 - **มือถือ**: แอป Kimi → สลับโหมด → เลือก K2.6 Agent Swarm [Beta]
 
 <Callout type="warning">
-**การเข้าถึงเวอร์ชัน Beta**: ปัจจุบัน K2.6 Agent Swarm [Beta] เปิดให้สมาชิก Allegretto, Allegro และ Vivace ใช้งานได้ โดยงานแต่ละงานจะใช้ quota มากกว่างาน Agent ทั่วไปอย่างมาก
+**การเข้าถึงเวอร์ชัน Beta**: ปัจจุบัน K2.6 Agent Swarm [Beta] เปิดให้สมาชิก Moderato, Allegretto, Allegro และ Vivace ใช้งานได้ โดยงานแต่ละงานจะใช้ quota มากกว่างาน Agent ทั่วไปอย่างมาก
 </Callout>
 
 **ขั้นตอน:**

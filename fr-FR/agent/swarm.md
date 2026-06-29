@@ -49,7 +49,7 @@ K2.6 Agent Swarm [Bêta] s'appuie sur la méthode d'entraînement PARL (Parallel
 - **Mobile** : application Kimi → Changer de mode → Sélectionner K2.6 Agent Swarm [Bêta]
 
 <Callout type="warning">
-**Accès bêta** : K2.6 Agent Swarm [Bêta] est actuellement réservé aux membres Allegretto, Allegro et Vivace. Les tâches consomment nettement plus de quota que les tâches Agent standard.
+**Accès bêta** : K2.6 Agent Swarm [Bêta] est actuellement réservé aux membres Moderato, Allegretto, Allegro et Vivace. Les tâches consomment nettement plus de quota que les tâches Agent standard.
 </Callout>
 
 **Étapes :**

@@ -49,7 +49,7 @@ K2.6 Agent Swarm [Beta] menggunakan metode pelatihan PARL (Parallel-Agent Reinfo
 - **Seluler**: Aplikasi Kimi → Ganti mode → Pilih K2.6 Agent Swarm [Beta]
 
 <Callout type="warning">
-**Akses Beta**: K2.6 Agent Swarm [Beta] saat ini tersedia untuk anggota Allegretto, Allegro, dan Vivace. Tugas-tugasnya menghabiskan quota jauh lebih banyak daripada tugas Agent standar.
+**Akses Beta**: K2.6 Agent Swarm [Beta] saat ini tersedia untuk anggota Moderato, Allegretto, Allegro, dan Vivace. Tugas-tugasnya menghabiskan quota jauh lebih banyak daripada tugas Agent standar.
 </Callout>
 
 **Langkah-langkah:**

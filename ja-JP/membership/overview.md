@@ -23,8 +23,8 @@ Kimiには、無料プランを含む5つのメンバーシップランクがあ
 | Agent quota* | 6 | 60 | 150 | 360 | 720 |
 | Agent 同時タスク数 | 1 | 2 | 2 | 4 | 4 |
 | Agent 速度優先度 | — | 4× | 4× | 4× | 4× |
-| Agent Swarm (beta) | — | — | 50回 | 120回 | 240回 |
-| Agent Swarm 同時サブタスク数 | — | — | 4 | 4 | 8 |
+| Agent Swarm (beta) | — | 25回 | 50回 | 120回 | 240回 |
+| Agent Swarm 同時サブタスク数 | — | 2 | 4 | 4 | 8 |
 | Kimi Code quota | — | 1× | 5× | 15× | 30× |
 | Kimi Claw | — | — | ✅ | ✅ | ✅ |
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |

@@ -22,8 +22,8 @@ Kimi bietet fünf Mitgliedschaftsstufen – einschließlich eines kostenlosen Ta
 | Agent-Kontingent* | 6 | 60 | 150 | 360 | 720 |
 | Gleichzeitige Agent-Aufgaben | 1 | 2 | 2 | 4 | 4 |
 | Agent-Geschwindigkeitspriorität | — | 4× | 4× | 4× | 4× |
-| Agent Swarm (Beta) | — | — | 50 Nutzungen | 120 Nutzungen | 240 Nutzungen |
-| Gleichzeitige Agent-Swarm-Teilaufgaben | — | — | 4 | 4 | 8 |
+| Agent Swarm (Beta) | — | 25 Nutzungen | 50 Nutzungen | 120 Nutzungen | 240 Nutzungen |
+| Gleichzeitige Agent-Swarm-Teilaufgaben | — | 2 | 4 | 4 | 8 |
 | Kimi Code-Kontingent | — | 1× | 5× | 15× | 30× |
 | Kimi Claw | — | — | ✅ | ✅ | ✅ |
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |

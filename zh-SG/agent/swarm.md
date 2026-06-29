@@ -49,7 +49,7 @@ K2.6 Agent Swarm [测试版] 采用 PARL（Parallel-Agent Reinforcement Learning
 - **移动端**：Kimi app → 切换模式 → 选择 K2.6 Agent Swarm [测试版]
 
 <Callout type="warning">
-**测试版权限**：K2.6 Agent Swarm [测试版] 目前面向 Allegretto、Allegro 和 Vivace 会员开放。相比标准 Agent 任务，此类任务会消耗显著更多配额。
+**测试版权限**：K2.6 Agent Swarm [测试版] 目前面向 Moderato、Allegretto、Allegro 和 Vivace 会员开放。相比标准 Agent 任务，此类任务会消耗显著更多配额。
 </Callout>
 
 **步骤：**

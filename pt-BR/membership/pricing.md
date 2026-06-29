@@ -22,8 +22,8 @@ O Kimi oferece cinco níveis de assinatura — incluindo um plano gratuito — c
 | Quota do Agent* | 6 | 60 | 150 | 360 | 720 |
 | Tarefas simultâneas do Agent | 1 | 2 | 2 | 4 | 4 |
 | Prioridade de velocidade do Agent | — | 4× | 4× | 4× | 4× |
-| Agent Swarm (beta) | — | — | 50 usos | 120 usos | 240 usos |
-| Subtarefas simultâneas do Agent Swarm | — | — | 4 | 4 | 8 |
+| Agent Swarm (beta) | — | 25 usos | 50 usos | 120 usos | 240 usos |
+| Subtarefas simultâneas do Agent Swarm | — | 2 | 4 | 4 | 8 |
 | Quota do Kimi Code | — | 1× | 5× | 15× | 30× |
 | Kimi Claw | — | — | ✅ | ✅ | ✅ |
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |

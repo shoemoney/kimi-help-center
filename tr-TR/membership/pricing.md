@@ -22,8 +22,8 @@ Kimi, biri ücretsiz olmak üzere beş üyelik kademesi sunar; her biri aylık v
 | Agent quota* | 6 | 60 | 150 | 360 | 720 |
 | Agent eşzamanlı görevler | 1 | 2 | 2 | 4 | 4 |
 | Agent hız önceliği | — | 4× | 4× | 4× | 4× |
-| Agent Swarm (beta) | — | — | 50 kullanım | 120 kullanım | 240 kullanım |
-| Agent Swarm eşzamanlı alt görevler | — | — | 4 | 4 | 8 |
+| Agent Swarm (beta) | — | 25 kullanım | 50 kullanım | 120 kullanım | 240 kullanım |
+| Agent Swarm eşzamanlı alt görevler | — | 2 | 4 | 4 | 8 |
 | Kimi Code quota | — | 1× | 5× | 15× | 30× |
 | Kimi Claw | — | — | ✅ | ✅ | ✅ |
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |

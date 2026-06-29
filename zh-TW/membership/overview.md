@@ -23,8 +23,8 @@ Kimi 提供五種會員等級（含免費方案），可依你的需求彈性搭
 | Agent quota* | 6 | 60 | 150 | 360 | 720 |
 | Agent 同時任務數 | 1 | 2 | 2 | 4 | 4 |
 | Agent 速度優先權 | — | 4× | 4× | 4× | 4× |
-| Agent Swarm (beta) | — | — | 50 次使用 | 120 次使用 | 240 次使用 |
-| Agent Swarm 同時子任務數 | — | — | 4 | 4 | 8 |
+| Agent Swarm (beta) | — | 25 次使用 | 50 次使用 | 120 次使用 | 240 次使用 |
+| Agent Swarm 同時子任務數 | — | 2 | 4 | 4 | 8 |
 | Kimi Code quota | — | 1× | 5× | 15× | 30× |
 | Kimi Claw | — | — | ✅ | ✅ | ✅ |
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |

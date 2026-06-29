@@ -23,8 +23,8 @@ Kimi, günlük üretkenlikten ileri düzey kullanıcı iş akışlarına kadar i
 | Agent quota* | 6 | 60 | 150 | 360 | 720 |
 | Eşzamanlı Agent görevleri | 1 | 2 | 2 | 4 | 4 |
 | Agent hız önceliği | — | 4× | 4× | 4× | 4× |
-| Agent Swarm (beta) | — | — | 50 kullanım | 120 kullanım | 240 kullanım |
-| Eşzamanlı Agent Swarm alt görevleri | — | — | 4 | 4 | 8 |
+| Agent Swarm (beta) | — | 25 kullanım | 50 kullanım | 120 kullanım | 240 kullanım |
+| Eşzamanlı Agent Swarm alt görevleri | — | 2 | 4 | 4 | 8 |
 | Kimi Code quota | — | 1× | 5× | 15× | 30× |
 | Kimi Claw | — | — | ✅ | ✅ | ✅ |
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |

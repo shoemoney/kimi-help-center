@@ -1,0 +1,11 @@
+{
+  "title": "入门指南",
+  "description": "聊天基础、模型选择、网页搜索、记忆空间和预设",
+  "seo": {
+    "title": "入门指南",
+    "description": "聊天基础、模型选择、网页搜索、记忆空间和预设"
+  },
+  "icon": "getting-started",
+  "order": 1,
+  "note": "每个 md front matter 中的 extract_headings 控制 ## 标题是否在列表页显示为可展开项"
+}

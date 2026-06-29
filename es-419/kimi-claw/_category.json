@@ -1,0 +1,11 @@
+{
+  "title": "Kimi Claw",
+  "description": "Tu asistente personal de IA: configuración, plataformas de chat, memoria y solución de problemas",
+  "seo": {
+    "title": "Kimi Claw",
+    "description": "Tu asistente personal de IA: configuración, plataformas de chat, memoria y solución de problemas"
+  },
+  "icon": "kimi-claw",
+  "order": 3,
+  "note": "extract_headings: true/false in each md front matter controls whether ## headings are shown as sub-items on list pages"
+}

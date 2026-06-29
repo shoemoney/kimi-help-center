@@ -1,0 +1,11 @@
+{
+  "title": "ドキュメント・シート",
+  "description": "ドキュメント作成、Excel処理、形式変換、データ可視化",
+  "seo": {
+    "title": "ドキュメント・シート",
+    "description": "ドキュメント作成、Excel処理、形式変換、データ可視化"
+  },
+  "icon": "docs-sheets",
+  "order": 6,
+  "note": "各 md の front matter にある extract_headings は、## 見出しを一覧ページで展開可能な項目として表示するかどうかを制御します"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "メンバーシップ",
+  "description": "プラン、請求、credit、アップグレード、請求書、よくある質問",
+  "seo": {
+    "title": "メンバーシップ",
+    "description": "プラン、請求、credit、アップグレード、請求書、よくある質問"
+  },
+  "icon": "membership",
+  "order": 9,
+  "note": "各 md のフロントマターにある extract_headings: true/false で、リストページに ## 見出しをサブ項目として表示するかどうかを制御します"
+}

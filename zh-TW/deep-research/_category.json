@@ -1,0 +1,11 @@
+{
+  "title": "Deep Research",
+  "description": "深度研究、搜尋技巧、報告生成、下載與儲存",
+  "seo": {
+    "title": "Deep Research",
+    "description": "深度研究、搜尋技巧、報告生成、下載與儲存"
+  },
+  "icon": "deep-research",
+  "order": 7,
+  "note": "每個 md front matter 中的 extract_headings 會控制 ## 標題是否在列表頁顯示為可展開項目"
+}

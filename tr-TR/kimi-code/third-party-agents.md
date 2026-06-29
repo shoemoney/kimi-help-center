@@ -1,0 +1,83 @@
+---
+title: "Üçüncü taraf kodlama araçlarıyla kullanım"
+slug: "third-party-agents"
+order: 11
+extract_headings: false
+preview: false
+---
+
+<SeoMeta
+  title="Üçüncü taraf kodlama araçlarıyla kullanım - Kimi Yardım Merkezi"
+  description="Kimi Code avantajları Claude Code ve Roo Code ile kullanılabilir; böylece tercih ettiğiniz kodlama araçlarında Kimi'nin yapay zeka yeteneklerinden yararlanabilirsiniz."
+/>
+
+# Üçüncü taraf kodlama araçlarıyla kullanım
+
+Kimi Code avantajları Claude Code ve Roo Code ile kullanılabilir; böylece tercih ettiğiniz kodlama araçlarında Kimi'nin yapay zeka yeteneklerinden yararlanabilirsiniz.
+
+## Ön koşullar
+
+- Kimi Code avantajları etkinleştirilmiş, aktif bir Kimi üyeliği.
+- Bir API Anahtarı ([Kimi Console](https://www.kimi.com/code) üzerinden oluşturulur).
+
+## Claude Code ile kullanım
+
+[Claude Code](https://www.docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview), Anthropic tarafından geliştirilen komut satırı tabanlı bir kodlama asistanıdır.
+
+### Yapılandırma adımları
+
+1. Ortam değişkenlerini ayarlayın:
+
+<CodePreview
+  files={[
+    {
+      name: "command.sh",
+      language: "bash",
+      content: "export ANTHROPIC_BASE_URL=https://api.kimi.com/coding/v1\nexport ANTHROPIC_API_KEY=your-api-key",
+    },
+  ]}
+/>
+
+2. Claude Code'u `kimi-k2.5` modeliyle başlatın:
+
+<CodePreview
+  files={[
+    {
+      name: "command.sh",
+      language: "bash",
+      content: "claude --model kimi-k2.5",
+    },
+  ]}
+/>
+
+> Claude Code'da **Tab** tuşuna basarak Kimi K2 Thinking modeline geçebilirsiniz.
+
+> `tool_search` çağrılarından kaynaklanan bir 400 hatasıyla karşılaşırsanız, `ENABLE_TOOL_SEARCH=false` ortam değişkenini ayarlayarak sorunu geçici olarak çözebilirsiniz.
+
+## Roo Code ile kullanım
+
+[Roo Code](https://www.github.com/RooCodeInc/Roo-Code), VS Code için bir yapay zeka kodlama eklentisidir.
+
+### Roo Code'u yükleyin
+
+1. VS Code Eklenti Mağazası'nda **Roo Code** araması yapıp eklentiyi yükleyin.
+2. Kurulumun ardından Roo Code simgesi etkinlik çubuğunda görünür; görünmezse VS Code'u yeniden başlatın.
+
+### Kimi Code modelini yapılandırın
+
+1. Roo Code panelini açın ve **Settings** sayfasına gidin.
+2. **Providers** bölümünde **OpenAI Compatible** seçeneğini seçin ve aşağıdakileri doldurun:
+
+   | Ayar | Değer |
+   | --- | --- |
+   | Entrypoint | `https://api.kimi.com/coding/v1` |
+   | API Anahtarı | API Anahtarınız |
+   | Model | `kimi-k2.5` |
+
+3. Yapılandırmayı kaydedin; kullanıma hazırsınız.
+
+## Önemli notlar
+
+- Kimi Code avantajları yalnızca **Kimi Code CLI**, **Claude Code** ve **Roo Code** ile desteklenir.
+- API Anahtarınızı yetkisiz platformlarda veya araçlarda kullanmak ihlal sayılabilir ve erişiminizin kısıtlanmasına yol açabilir.
+- Sorularınız için [Avantajlar](/kimi-code/benefits) sayfasına bakın veya Kimi destek ekibiyle iletişime geçin.

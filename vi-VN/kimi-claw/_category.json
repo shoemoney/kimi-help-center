@@ -1,0 +1,11 @@
+{
+  "title": "Kimi Claw",
+  "description": "Trợ lý AI cá nhân của bạn — thiết lập, nền tảng trò chuyện, bộ nhớ và xử lý sự cố",
+  "seo": {
+    "title": "Kimi Claw",
+    "description": "Trợ lý AI cá nhân của bạn — thiết lập, nền tảng trò chuyện, bộ nhớ và xử lý sự cố"
+  },
+  "icon": "kimi-claw",
+  "order": 3,
+  "note": "extract_headings: true/false in each md front matter controls whether ## headings are shown as sub-items on list pages"
+}

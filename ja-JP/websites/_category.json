@@ -1,0 +1,11 @@
+{
+  "title": "Webサイト",
+  "description": "AgentでWebページを作成し、デプロイ・共有、反復編集",
+  "seo": {
+    "title": "Webサイト",
+    "description": "AgentでWebページを作成し、デプロイ・共有、反復編集"
+  },
+  "icon": "websites",
+  "order": 8,
+  "note": "各mdのfront matterにあるextract_headingsは、リストページで##見出しを展開可能な項目として表示するかどうかを制御します"
+}

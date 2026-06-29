@@ -1,0 +1,18 @@
+{
+  "title": "Kimi Hilfe-Center",
+  "description": "Hier finden Sie alles Wissenswerte rund um Kimi – Anleitungen, Funktionen, API-Dokumentation und mehr",
+  "hot_questions": [
+    "Mitgliedschaftstarife",
+    "Kimi Claw",
+    "Slides herunterladen",
+    "API-Fehler"
+  ],
+  "search_placeholder": "PPT/Word/Excel lässt sich nicht aus dem Chat herunterladen?",
+  "field_definitions": {
+    "extract_headings": {
+      "type": "boolean",
+      "default": false,
+      "description": "Legt fest, ob ##-Überschriften als aufklappbare Unterpunkte in die Artikelliste übernommen werden. true = FAQ-Artikel; false = Anleitungsartikel"
+    }
+  }
+}

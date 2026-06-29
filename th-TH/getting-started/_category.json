@@ -1,0 +1,11 @@
+{
+  "title": "เริ่มต้นใช้งาน",
+  "description": "พื้นฐานการแชท การเลือกโมเดล Web Search, Memory Space และการตั้งค่าสำเร็จรูป",
+  "seo": {
+    "title": "เริ่มต้นใช้งาน",
+    "description": "พื้นฐานการแชท การเลือกโมเดล Web Search, Memory Space และการตั้งค่าสำเร็จรูป"
+  },
+  "icon": "getting-started",
+  "order": 1,
+  "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
+}

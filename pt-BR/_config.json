@@ -1,0 +1,18 @@
+{
+  "title": "Central de Ajuda do Kimi",
+  "description": "Encontre tudo o que você precisa saber sobre o Kimi — guias, recursos, documentação da API e muito mais",
+  "hot_questions": [
+    "Planos de assinatura",
+    "Kimi Claw",
+    "Download de slides",
+    "Erros da API"
+  ],
+  "search_placeholder": "Não consegue baixar PPT/Word/Excel do chat?",
+  "field_definitions": {
+    "extract_headings": {
+      "type": "boolean",
+      "default": false,
+      "description": "Define se os títulos ## devem ser extraídos para a página de lista de artigos como subitens expansíveis. true = artigos de FAQ; false = artigos de guia"
+    }
+  }
+}

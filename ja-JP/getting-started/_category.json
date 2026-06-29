@@ -1,0 +1,11 @@
+{
+  "title": "はじめに",
+  "description": "チャットの基本、モデルの選択、Web Search、Memory Space、プリセット",
+  "seo": {
+    "title": "はじめに",
+    "description": "チャットの基本、モデルの選択、Web Search、Memory Space、プリセット"
+  },
+  "icon": "getting-started",
+  "order": 1,
+  "note": "各 md の front matter にある extract_headings は、## 見出しを一覧ページで展開可能な項目として表示するかどうかを制御します"
+}

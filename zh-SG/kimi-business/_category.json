@@ -1,0 +1,11 @@
+{
+  "title": "Kimi 商业版",
+  "description": "企业方案权益、价格、团队管理、工作空间和常见问题",
+  "seo": {
+    "title": "Kimi 商业版",
+    "description": "企业方案权益、价格、团队管理、工作空间和常见问题"
+  },
+  "icon": "okcomputer",
+  "order": 12,
+  "note": "每个 md front matter 中的 extract_headings: true/false 控制 ## 标题是否在列表页显示为子项"
+}

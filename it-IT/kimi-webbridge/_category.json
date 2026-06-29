@@ -1,0 +1,11 @@
+{
+  "title": "Kimi WebBridge",
+  "description": "Un'estensione del browser per agenti AI",
+  "seo": {
+    "title": "Kimi WebBridge",
+    "description": "Un'estensione del browser per agenti AI"
+  },
+  "icon": "kimi-webbridge",
+  "order": 4,
+  "note": "extract_headings: true/false in each md front matter controls whether ## headings are shown as sub-items on list pages"
+}

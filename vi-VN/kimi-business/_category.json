@@ -1,0 +1,11 @@
+{
+  "title": "Kimi Business",
+  "description": "Quyền lợi gói doanh nghiệp, bảng giá, quản lý nhóm, không gian làm việc và các câu hỏi thường gặp",
+  "seo": {
+    "title": "Kimi Business",
+    "description": "Quyền lợi gói doanh nghiệp, bảng giá, quản lý nhóm, không gian làm việc và các câu hỏi thường gặp"
+  },
+  "icon": "okcomputer",
+  "order": 12,
+  "note": "extract_headings: true/false in each md front matter controls whether ## headings are shown as sub-items on list pages"
+}

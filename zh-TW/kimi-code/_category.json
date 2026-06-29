@@ -1,0 +1,11 @@
+{
+  "title": "Kimi Code",
+  "description": "CLI 代理程式、VS Code 擴充功能、IDE 整合、第三方代理程式",
+  "seo": {
+    "title": "Kimi Code",
+    "description": "CLI 代理程式、VS Code 擴充功能、IDE 整合、第三方代理程式"
+  },
+  "icon": "kimi-code",
+  "order": 10,
+  "note": "各 md front matter 中的 extract_headings 會控制 ## 標題是否在列表頁顯示為可展開項目"
+}

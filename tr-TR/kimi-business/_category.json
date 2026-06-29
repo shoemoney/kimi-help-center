@@ -1,0 +1,11 @@
+{
+  "title": "Kimi Business",
+  "description": "Kurumsal plan avantajları, fiyatlandırma, ekip yönetimi, çalışma alanları ve sık sorulan sorular",
+  "seo": {
+    "title": "Kimi Business",
+    "description": "Kurumsal plan avantajları, fiyatlandırma, ekip yönetimi, çalışma alanları ve sık sorulan sorular"
+  },
+  "icon": "okcomputer",
+  "order": 12,
+  "note": "extract_headings: true/false in each md front matter controls whether ## headings are shown as sub-items on list pages"
+}

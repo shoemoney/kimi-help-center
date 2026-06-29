@@ -1,0 +1,11 @@
+{
+  "title": "Abbonamento",
+  "description": "Piani, fatturazione, credit, upgrade, fatture e domande frequenti",
+  "seo": {
+    "title": "Abbonamento",
+    "description": "Piani, fatturazione, credit, upgrade, fatture e domande frequenti"
+  },
+  "icon": "membership",
+  "order": 9,
+  "note": "extract_headings: true/false in each md front matter controls whether ## headings are shown as sub-items on list pages"
+}

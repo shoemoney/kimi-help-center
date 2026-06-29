@@ -1,0 +1,11 @@
+{
+  "title": "슬라이드",
+  "description": "Adaptive 또는 Visual 모드로 프레젠테이션 만들기",
+  "seo": {
+    "title": "슬라이드",
+    "description": "Adaptive 또는 Visual 모드로 프레젠테이션 만들기"
+  },
+  "icon": "slides",
+  "order": 5,
+  "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
+}

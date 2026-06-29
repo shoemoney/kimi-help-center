@@ -1,0 +1,11 @@
+{
+  "title": "Kimi Business",
+  "description": "Avantages des formules entreprise, tarification, gestion d'équipe, espaces de travail et questions fréquentes",
+  "seo": {
+    "title": "Kimi Business",
+    "description": "Avantages des formules entreprise, tarification, gestion d'équipe, espaces de travail et questions fréquentes"
+  },
+  "icon": "okcomputer",
+  "order": 12,
+  "note": "extract_headings: true/false in each md front matter controls whether ## headings are shown as sub-items on list pages"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "문서 및 스프레드시트",
+  "description": "문서 작성, Excel 처리, 형식 변환, 데이터 시각화",
+  "seo": {
+    "title": "문서 및 스프레드시트",
+    "description": "문서 작성, Excel 처리, 형식 변환, 데이터 시각화"
+  },
+  "icon": "docs-sheets",
+  "order": 6,
+  "note": "각 md 프런트매터의 extract_headings는 목록 페이지에서 ## 제목이 펼침 항목으로 표시될지 여부를 제어합니다"
+}

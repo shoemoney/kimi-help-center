@@ -1,0 +1,11 @@
+{
+  "title": "Kimi Claw",
+  "description": "あなた専用のAIアシスタント — セットアップ、チャットプラットフォーム、メモリ、トラブルシューティング",
+  "seo": {
+    "title": "Kimi Claw",
+    "description": "あなた専用のAIアシスタント — セットアップ、チャットプラットフォーム、メモリ、トラブルシューティング"
+  },
+  "icon": "kimi-claw",
+  "order": 3,
+  "note": "各mdフロントマターのextract_headings: true/falseで、リストページに##見出しをサブ項目として表示するかどうかを制御します"
+}

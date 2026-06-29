@@ -59,7 +59,8 @@ That includes:
 ## Locales
 
 - `en-US/` contains English help center content.
-- `zh-CN/` contains Simplified Chinese help center content.
+- `zh-CN/` contains Simplified Chinese help center content and is maintained
+  manually, not by the machine translation helper.
 
 ## Setup Import Script
 
@@ -104,6 +105,39 @@ Useful direct options:
 - `node scripts/setup-docs.js --dsn "$DATABASE_URL" .`
 - `node scripts/setup-docs.js --asset-url-prefix "https://static.example.com/help-docs" .`
 - `node scripts/setup-docs.js --upload-assets --cdn-public-base "https://statics.moonshot.cn" .`
+
+## One-time Translation
+
+English articles under `en-US/` can be translated into SEO-supported locales
+with the one-time translation helper. `zh-CN/` is excluded because Simplified
+Chinese for mainland users is maintained manually; use `zh-SG/` for the
+machine-translated overseas Simplified Chinese locale. Existing target files are
+skipped unless `--overwrite` is passed.
+
+```bash
+TRANSLATION_API_KEY="..." pnpm translate:docs -- --target-locale ja-JP
+```
+
+Useful direct options:
+
+- `node scripts/translate-docs.js --target-locale ja-JP --article en-US/agent/overview.md .`
+- `node scripts/translate-docs.js --all-seo-locales .`
+- `node scripts/translate-docs.js --target-locale ja-JP --dry-run .`
+- `node scripts/translate-docs.js --target-locale ja-JP --mock .`
+
+The script uses an OpenAI-compatible `/chat/completions` API directly. Defaults
+are aligned with Sagan's Weaver translation template:
+`TRANSLATION_BASE_URL=https://openai.app.msh.team/v1`,
+`TRANSLATION_MODEL=gpt-5.5`, `TRANSLATION_TEMPERATURE=0.6`, and
+`TRANSLATION_THINKING=none`. Sagan's Weaver template sets `thinking: disabled`,
+but Sagan skips the OpenAI thinking parameter for the `qianxun-openai` provider;
+the direct script follows that behavior by default. Configure those environment
+variables, or pass `--base-url`, `--api-key`, `--model`, `--temperature`, and
+`--thinking` directly. `temperature` is omitted automatically for
+`claude-opus-4-8`; use `--temperature none` to omit it explicitly. For full
+runs, tune throughput with `TRANSLATION_CONCURRENCY` / `--concurrency` and
+`TRANSLATION_MAX_RETRIES` / `--max-retries`; pass `--max-retries 0` to disable
+request retries.
 
 ## GitLab CI
 

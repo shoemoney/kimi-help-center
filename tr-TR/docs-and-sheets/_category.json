@@ -1,0 +1,11 @@
+{
+  "title": "Belgeler ve Sayfalar",
+  "description": "Belge yazımı, Excel işleme, biçim dönüştürme, veri görselleştirme",
+  "seo": {
+    "title": "Belgeler ve Sayfalar",
+    "description": "Belge yazımı, Excel işleme, biçim dönüştürme, veri görselleştirme"
+  },
+  "icon": "docs-sheets",
+  "order": 6,
+  "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
+}

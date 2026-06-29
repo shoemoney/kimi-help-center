@@ -13,6 +13,7 @@ Thumbs.db
 
 # Node dependencies
 node_modules/
+.pnpm-store/
 
 # Vim swap files
 *.swp

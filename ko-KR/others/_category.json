@@ -1,0 +1,11 @@
+{
+  "title": "기타",
+  "description": "계정 보안, 피드백, 개인정보 처리방침 및 기타 설정",
+  "seo": {
+    "title": "기타",
+    "description": "계정 보안, 피드백, 개인정보 처리방침 및 기타 설정"
+  },
+  "icon": "others",
+  "order": 13,
+  "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Kimi API",
+  "description": "Kimi API の使い方、認証、エラーのトラブルシューティング、料金",
+  "seo": {
+    "title": "Kimi API",
+    "description": "Kimi API の使い方、認証、エラーのトラブルシューティング、料金"
+  },
+  "icon": "api",
+  "order": 11,
+  "note": "各 md の front matter にある extract_headings は、## 見出しを一覧ページで展開可能な項目として表示するかどうかを制御します"
+}

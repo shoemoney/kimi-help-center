@@ -1,0 +1,11 @@
+{
+  "title": "Deep Research",
+  "description": "Tiefgehende Recherche, Suchtipps, Berichterstellung, Download und Speichern",
+  "seo": {
+    "title": "Deep Research",
+    "description": "Tiefgehende Recherche, Suchtipps, Berichterstellung, Download und Speichern"
+  },
+  "icon": "deep-research",
+  "order": 7,
+  "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
+}

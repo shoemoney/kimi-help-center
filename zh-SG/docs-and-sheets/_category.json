@@ -1,0 +1,11 @@
+{
+  "title": "文档与表格",
+  "description": "文档写作、Excel 处理、格式转换、数据可视化",
+  "seo": {
+    "title": "文档与表格",
+    "description": "文档写作、Excel 处理、格式转换、数据可视化"
+  },
+  "icon": "docs-sheets",
+  "order": 6,
+  "note": "每个 md front matter 中的 extract_headings 控制 ## 标题是否在列表页显示为可展开项目"
+}

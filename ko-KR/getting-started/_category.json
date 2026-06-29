@@ -1,0 +1,11 @@
+{
+  "title": "시작하기",
+  "description": "채팅 기초, 모델 선택, Web Search, Memory Space, 프리셋",
+  "seo": {
+    "title": "시작하기",
+    "description": "채팅 기초, 모델 선택, Web Search, Memory Space, 프리셋"
+  },
+  "icon": "getting-started",
+  "order": 1,
+  "note": "각 md front matter의 extract_headings는 목록 페이지에서 ## 제목을 펼칠 수 있는 항목으로 표시할지 여부를 제어합니다"
+}

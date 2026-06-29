@@ -1,0 +1,45 @@
+---
+title: "Fiyatlandırma ayrıntıları"
+slug: "membership-pricing"
+order: 4
+extract_headings: true
+preview: false
+---
+
+<SeoMeta
+  title="Fiyatlandırma ayrıntıları - Kimi Yardım Merkezi"
+  description="Kimi, biri ücretsiz olmak üzere beş üyelik kademesi sunar; her biri aylık veya yıllık abonelik olarak kullanılabilir. Yıllık ödeme ile yılda 480 dolara varan tasarruf edersiniz."
+/>
+
+# Fiyatlandırma ayrıntıları
+
+Kimi, biri ücretsiz olmak üzere beş üyelik kademesi sunar; her biri aylık veya yıllık abonelik olarak kullanılabilir. Yıllık ödeme ile **yılda 480 dolara varan** tasarruf edersiniz.
+
+## Planlara bir bakış
+
+| Özellik | Adagio (Ücretsiz) | Moderato (19 $/ay) | Allegretto (39 $/ay) | Allegro (99 $/ay) | Vivace (199 $/ay) |
+|---------|---------------|-------------------|---------------------|-------------------|-------------------|
+| Agent quota* | 6 | 60 | 150 | 360 | 720 |
+| Agent eşzamanlı görevler | 1 | 2 | 2 | 4 | 4 |
+| Agent hız önceliği | — | 4× | 4× | 4× | 4× |
+| Agent Swarm (beta) | — | — | 50 kullanım | 120 kullanım | 240 kullanım |
+| Agent Swarm eşzamanlı alt görevler | — | — | 4 | 4 | 8 |
+| Kimi Code quota | — | 1× | 5× | 15× | 30× |
+| Kimi Claw | — | — | ✅ | ✅ | ✅ |
+| Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
+| Profesyonel veritabanı | 200 çağrı | 2.000 çağrı | 5.000 çağrı | 12.000 çağrı | 24.000 çağrı |
+
+\* Tipik görev token tüketimine dayalı yaklaşık değerlerdir. Aylık credit'ler, aynı özellik için eşdeğer görev sayısına dönüştürülmüştür; yalnızca referans amaçlıdır.
+
+## Aylık ve yıllık fiyatlandırma
+
+| Plan | Aylık | Yıllık (aylık başına) | Yıllık Toplam | Tasarrufunuz |
+| --- | --- | --- | --- | --- |
+| Moderato | 19 $/ay | 15 $/ay | 180 $/yıl | 48 $/yıl |
+| Allegretto | 39 $/ay | 31 $/ay | 372 $/yıl | 96 $/yıl |
+| Allegro | 99 $/ay | 79 $/ay | 948 $/yıl | 240 $/yıl |
+| Vivace | 199 $/ay | 159 $/ay | 1.908 $/yıl | 480 $/yıl |
+
+## Credit dağılımı
+
+Tüm planlar iki credit havuzu içerir: Kimi Code ayrı bir quota havuzu kullanır; diğer üyelik özellikleri tek bir quota havuzunu paylaşır. Daha yüksek kademeler orantılı olarak daha büyük bir credit havuzu içererek daha sık ve karmaşık iş akışlarını destekler. Ayrıntılar için [Credit Güncellemesi ve Kullanım Kuralları](/membership/update-rules) sayfasına bakın.

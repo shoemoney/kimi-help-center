@@ -1,0 +1,11 @@
+{
+  "title": "其他",
+  "description": "帳戶安全、意見回饋、Privacy Policy 和其他設定",
+  "seo": {
+    "title": "其他",
+    "description": "帳戶安全、意見回饋、Privacy Policy 和其他設定"
+  },
+  "icon": "others",
+  "order": 13,
+  "note": "每個 md front matter 中的 extract_headings 會控制 ## 標題是否在列表頁顯示為可展開項目"
+}

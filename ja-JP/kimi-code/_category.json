@@ -1,0 +1,11 @@
+{
+  "title": "Kimi Code",
+  "description": "CLIエージェント、VS Code拡張機能、IDE連携、サードパーティ製エージェント",
+  "seo": {
+    "title": "Kimi Code",
+    "description": "CLIエージェント、VS Code拡張機能、IDE連携、サードパーティ製エージェント"
+  },
+  "icon": "kimi-code",
+  "order": 10,
+  "note": "各 md のフロントマターにある extract_headings は、リストページで ## 見出しを展開可能な項目として表示するかどうかを制御します"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Slides",
+  "description": "Präsentationen im Adaptive- oder Visual-Modus erstellen",
+  "seo": {
+    "title": "Slides",
+    "description": "Präsentationen im Adaptive- oder Visual-Modus erstellen"
+  },
+  "icon": "slides",
+  "order": 5,
+  "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
+}

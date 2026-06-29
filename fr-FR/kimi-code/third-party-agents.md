@@ -1,0 +1,83 @@
+---
+title: "Utilisation avec des agents de codage tiers"
+slug: "third-party-agents"
+order: 11
+extract_headings: false
+preview: false
+---
+
+<SeoMeta
+  title="Utilisation avec des agents de codage tiers - Centre d'aide Kimi"
+  description="Les avantages Kimi Code peuvent être utilisés avec Claude Code et Roo Code, ce qui vous permet de profiter des capacités d'IA de Kimi au sein de vos outils de codage préférés."
+/>
+
+# Utilisation avec des agents de codage tiers
+
+Les avantages Kimi Code peuvent être utilisés avec Claude Code et Roo Code, ce qui vous permet de profiter des capacités d'IA de Kimi au sein de vos outils de codage préférés.
+
+## Prérequis
+
+- Un abonnement Kimi actif avec les avantages Kimi Code activés.
+- Une clé API (créée dans la [console Kimi](https://www.kimi.com/code)).
+
+## Utilisation avec Claude Code
+
+[Claude Code](https://www.docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) est un assistant de codage en ligne de commande proposé par Anthropic.
+
+### Étapes de configuration
+
+1. Définissez les variables d'environnement :
+
+<CodePreview
+  files={[
+    {
+      name: "command.sh",
+      language: "bash",
+      content: "export ANTHROPIC_BASE_URL=https://api.kimi.com/coding/v1\nexport ANTHROPIC_API_KEY=your-api-key",
+    },
+  ]}
+/>
+
+2. Lancez Claude Code avec le modèle `kimi-k2.5` :
+
+<CodePreview
+  files={[
+    {
+      name: "command.sh",
+      language: "bash",
+      content: "claude --model kimi-k2.5",
+    },
+  ]}
+/>
+
+> Dans Claude Code, vous pouvez appuyer sur **Tab** pour passer au modèle Kimi K2 Thinking.
+
+> Si vous rencontrez une erreur 400 provoquée par des appels à `tool_search`, vous pouvez la résoudre temporairement en définissant la variable d'environnement `ENABLE_TOOL_SEARCH=false`.
+
+## Utilisation avec Roo Code
+
+[Roo Code](https://www.github.com/RooCodeInc/Roo-Code) est une extension de codage par IA pour VS Code.
+
+### Installer Roo Code
+
+1. Recherchez **Roo Code** dans la marketplace d'extensions de VS Code et installez-le.
+2. Une fois l'installation terminée, l'icône Roo Code apparaît dans la barre d'activité ; si ce n'est pas le cas, redémarrez VS Code.
+
+### Configurer le modèle Kimi Code
+
+1. Ouvrez le panneau Roo Code et accédez à la page **Settings**.
+2. Dans la section **Providers**, sélectionnez **OpenAI Compatible** et renseignez les champs suivants :
+
+   | Paramètre | Valeur |
+   | --- | --- |
+   | Entrypoint | `https://api.kimi.com/coding/v1` |
+   | Clé API | Votre clé API |
+   | Modèle | `kimi-k2.5` |
+
+3. Enregistrez la configuration, et le tour est joué.
+
+## Remarques importantes
+
+- Les avantages Kimi Code sont uniquement pris en charge dans **Kimi Code CLI**, **Claude Code** et **Roo Code**.
+- L'utilisation de votre clé API avec des plateformes ou des outils non autorisés peut être considérée comme une infraction et entraîner une restriction d'accès.
+- Pour toute question, consultez la page [Avantages](/kimi-code/benefits) ou contactez l'assistance Kimi.

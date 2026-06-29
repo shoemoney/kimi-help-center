@@ -1,0 +1,11 @@
+{
+  "title": "Kimi Code",
+  "description": "CLI ajanı, VS Code eklentisi, IDE entegrasyonu, üçüncü taraf ajanlar",
+  "seo": {
+    "title": "Kimi Code",
+    "description": "CLI ajanı, VS Code eklentisi, IDE entegrasyonu, üçüncü taraf ajanlar"
+  },
+  "icon": "kimi-code",
+  "order": 10,
+  "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
+}

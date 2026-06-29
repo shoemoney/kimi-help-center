@@ -1,0 +1,11 @@
+{
+  "title": "멤버십",
+  "description": "요금제, 결제, credit, 업그레이드, 인보이스 및 자주 묻는 질문",
+  "seo": {
+    "title": "멤버십",
+    "description": "요금제, 결제, credit, 업그레이드, 인보이스 및 자주 묻는 질문"
+  },
+  "icon": "membership",
+  "order": 9,
+  "note": "extract_headings: true/false in each md front matter controls whether ## headings are shown as sub-items on list pages"
+}

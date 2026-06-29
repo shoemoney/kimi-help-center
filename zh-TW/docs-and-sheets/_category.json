@@ -1,0 +1,11 @@
+{
+  "title": "文件與試算表",
+  "description": "文件撰寫、Excel 處理、格式轉換、資料視覺化",
+  "seo": {
+    "title": "文件與試算表",
+    "description": "文件撰寫、Excel 處理、格式轉換、資料視覺化"
+  },
+  "icon": "docs-sheets",
+  "order": 6,
+  "note": "每個 md front matter 中的 extract_headings 控制 ## 標題是否在列表頁顯示為可展開項目"
+}

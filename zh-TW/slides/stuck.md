@@ -1,0 +1,110 @@
+---
+title: "Slides 生成卡住時該怎麼辦？"
+slug: "ppt-stuck"
+order: 3
+extract_headings: false
+preview: false
+preview_content: "Slides 疑難排解與回饋指南：找不到功能、無法開啟或預覽異常。"
+---
+
+<SeoMeta
+  title="Slides 生成卡住時該怎麼辦？ - Kimi 說明中心"
+  description="如果生成流程停滯、檔案一直無法完成，通常是因為 Kimi Slides 生成失敗。"
+/>
+
+# 常見問題與疑難排解
+
+如果你找不到 Slides 功能入口、無法開啟已生成的簡報，或發現下載後的檔案異常，請依照以下步驟排查。
+
+## Kimi Slides 存取方式
+
+1. **Web**：開啟 [kimi.com](https://www.kimi.com/)，點擊聊天輸入框下方的 Slides 捷徑，或直接前往 [Kimi Slides](https://www.kimi.com/slides)。
+2. **App**：開啟 Kimi app，點擊輸入框下方工具列中的 Slides 按鈕。
+3. **Agent 模式**：在一般 Agent 模式中直接描述你的簡報需求，Kimi 會自動呼叫 Slides 生成能力。
+
+## 自適應模式下 Slides 生成卡住時該怎麼辦
+
+Kimi Slides 生成可能會在以下情況卡住：
+
+- **生成過程中任務中斷**：點擊右下角按鈕繼續任務，模型會接著完成你的簡報。
+- **任務已取消**：這通常是 Kimi Slides 生成失敗造成的。請直接開啟新對話，輸入相同的任務指令後再試一次。
+
+<Callout type="info">
+如需進一步協助，請透過產品內的 👎 回饋管道聯絡我們的團隊，或寄信至 [support@moonshot.cn](mailto:support@moonshot.cn)。
+</Callout>
+
+## 自適應模式下 Slides 彈出卡片與預覽問題
+
+模型完成簡報建立後，對話末尾會出現「點擊下方卡片預覽」的提示，並彈出 Slides 卡片。點擊該卡片即可進入 Slides 編輯頁面。
+
+<Frames
+  src="./images/pptcard.png"
+  alt="pptcard"
+/>
+
+如果點擊 Slides 卡片後無法開啟編輯頁面，請嘗試重新整理並重新開啟頁面。若問題仍然存在，請清除瀏覽器快取後再試一次。
+
+### Slides 卡片未彈出
+
+- 使用其他瀏覽器（例如 Chrome、Safari、Firefox）開啟同一段對話，確認 Slides 卡片是否能正常顯示。
+- 在手機 app 或另一台電腦上登入同一帳號，確認該對話中是否包含 Slides 結果。
+- 如果在多個瀏覽器與裝置上 Slides 卡片仍未出現，請依照下方的[問題回饋指南](#bug-feedback-guidelines)提交回饋，並開啟新對話重新生成。
+
+<Callout type="info">
+如果你已確認問題在多台裝置與多個瀏覽器上都持續存在，請寄信至 [support@moonshot.cn](mailto:support@moonshot.cn) 回報，並附上對話連結與問題截圖。確認為 bug 後，我們會補償相應的 credit。
+</Callout>
+
+### Slides 預覽空白或樣式異常
+
+- 使用最新版的主流瀏覽器，例如 Chrome、Edge 或 Safari。
+- 確認網路連線穩定，因為 Slides 預覽需要載入線上資源。
+- 嘗試切換瀏覽器，或使用無痕／私密瀏覽模式，以排除瀏覽器擴充功能的干擾。
+
+## 如何下載 Slides
+
+- **Web**：在 Slides 編輯器中，點擊右上角的 **[下載]** 按鈕，再點擊 **確認** 即可開始下載檔案。如果下載時遇到任何問題，請確認網路連線穩定，或嘗試切換瀏覽器。
+- **App**：Slides 生成完成後，點擊 **[匯出]** 即可分享至其他 app。
+
+
+## 下載後無法開啟 Slides
+
+- **Web**：嘗試重新整理頁面並重新開啟；如果仍然無法開啟，請清除瀏覽器快取後再試一次。
+- **下載後無法開啟**：請確認你使用的是支援 `.pptx` 格式的軟體，例如 Microsoft PowerPoint 或 Keynote。部分較舊版本的辦公軟體可能不相容。
+- **檔案為 0 KB 或已損毀**：這通常是生成過程中發生問題所致。請開啟新對話並重新生成。
+
+<Callout type="info">
+部分較舊版本的辦公軟體可能不相容。如果下載後無法開啟檔案，建議下載最新版的辦公軟體。
+</Callout>
+
+
+
+## 問題回饋指南
+
+如果上述方法無法解決問題，請透過產品內的 👎 回饋管道提交回饋，或寄信至 [support@moonshot.cn](mailto:support@moonshot.cn)。為了協助我們更快定位問題，請盡可能提供以下資訊：
+
+| 資訊類型 | 詳細內容 |
+|------------------|---------|
+| **瀏覽器資訊** | 瀏覽器名稱與版本（例如 Chrome 126、Safari 18.1、Edge 126） |
+| **系統資訊** | 電腦：作業系統與版本（例如 macOS 15.4、Windows 11 24H2）；手機：系統與版本（例如 iOS 18.4、Android 15、HarmonyOS 5.0）以及手機型號 |
+| **截圖** | 擷取完整的瀏覽器視窗或 App 介面，並顯示異常頁面 |
+| **重現步驟** | 簡要描述重現問題的步驟 |
+
+<Callout type="info">
+**如何查看瀏覽器版本：** Chrome：點擊右上角的 ⋮ 圖示 → 說明 → 關於 Google Chrome；Safari：點擊選單列中的「Safari」→ 關於 Safari；Edge：點擊右上角的 ⋯ 圖示 → 說明與意見反應 → 關於 Microsoft Edge。
+</Callout>
+
+## 回饋入口
+
+**Web：** 官網左下角：帳號 → 使用者回饋 → 說明與回饋
+
+<Frames
+  src="./images/feedback1.png"
+  alt="feedback1"
+/>
+
+**Slides 結果頁：** 點擊 Slides 結果頁右下角的「☰」選單按鈕 →「使用者回饋」→「Slides 專屬回饋入口」，即可進入 Slides 回饋頁面並填寫資訊。
+
+<Frames
+  src="./images/feedback2.png"
+  alt="feedback2"
+/>

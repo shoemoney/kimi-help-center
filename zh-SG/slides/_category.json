@@ -1,0 +1,11 @@
+{
+  "title": "幻灯片",
+  "description": "使用自适应模式或视觉模式创建演示文稿",
+  "seo": {
+    "title": "幻灯片",
+    "description": "使用自适应模式或视觉模式创建演示文稿"
+  },
+  "icon": "slides",
+  "order": 5,
+  "note": "每个 md 的前置元数据中的 extract_headings 控制 ## 标题是否在列表页显示为可展开项"
+}

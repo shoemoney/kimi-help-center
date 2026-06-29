@@ -1,0 +1,31 @@
+---
+title: "계정 삭제 및 데이터 제거"
+slug: "account-deletion"
+order: 1
+extract_headings: false
+preview: true
+preview_content: "계정, 프로필, 데이터 관리에 관한 자주 묻는 질문의 답을 확인하세요."
+---
+
+<SeoMeta
+  title="계정 삭제 및 데이터 제거 - Kimi Help Center"
+  description="계정, 프로필, 데이터 관리에 관한 자주 묻는 질문의 답을 확인하세요."
+/>
+
+# 계정 삭제 및 데이터 제거
+
+## 계정을 삭제하려면 어떻게 하나요?
+앱에서 **설정** → **계정 보안** → **계정 삭제**로 이동한 뒤 삭제 요청을 제출하세요.
+
+<Callout type="warning">
+**삭제는 되돌릴 수 없습니다**: 계정과 연결된 모든 정보, 데이터, 유료 혜택은 영구적으로 삭제되어 복구할 수 없습니다. 신중하게 진행해 주세요.
+</Callout>
+
+## 수동으로 삭제한 대화도 보관되나요?
+아니요. 삭제 후에는 관련 법령에서 저장 및 보안 목적으로 요구하는 최소한의 범위에서만 데이터가 보관됩니다. 열람이나 복구는 제공되지 않으며, 데이터를 다시 가져올 수 없습니다.
+## 실수로 삭제한 대화 기록을 복구할 수 있나요?
+아니요. 삭제 버튼을 누르는 순간 복구 권한을 잃게 되며, 이후에는 데이터를 되살릴 수 없습니다.
+
+<Callout type="info">
+자세한 내용은 [Kimi Privacy Policy](https://www.kimi.com/user/agreement/userPrivacy?version=v2)를 참고하세요.
+</Callout>

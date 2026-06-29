@@ -1,0 +1,11 @@
+{
+  "title": "Memulai",
+  "description": "Dasar-dasar chat, pemilihan model, Web Search, Memory Space, dan preset",
+  "seo": {
+    "title": "Memulai",
+    "description": "Dasar-dasar chat, pemilihan model, Web Search, Memory Space, dan preset"
+  },
+  "icon": "getting-started",
+  "order": 1,
+  "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Websites",
+  "description": "Tạo trang web bằng Agent, triển khai và chia sẻ, chỉnh sửa lặp lại",
+  "seo": {
+    "title": "Websites",
+    "description": "Tạo trang web bằng Agent, triển khai và chia sẻ, chỉnh sửa lặp lại"
+  },
+  "icon": "websites",
+  "order": 8,
+  "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
+}

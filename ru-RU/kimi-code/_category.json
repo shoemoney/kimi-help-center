@@ -1,0 +1,11 @@
+{
+  "title": "Kimi Code",
+  "description": "CLI-агент, расширение VS Code, интеграция с IDE, сторонние агенты",
+  "seo": {
+    "title": "Kimi Code",
+    "description": "CLI-агент, расширение VS Code, интеграция с IDE, сторонние агенты"
+  },
+  "icon": "kimi-code",
+  "order": 10,
+  "note": "extract_headings в front matter каждого md-файла определяет, будут ли заголовки ## отображаться на странице списка как раскрываемые элементы"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Hội viên",
+  "description": "Gói dịch vụ, thanh toán, credit, nâng cấp, hóa đơn và các câu hỏi thường gặp",
+  "seo": {
+    "title": "Hội viên",
+    "description": "Gói dịch vụ, thanh toán, credit, nâng cấp, hóa đơn và các câu hỏi thường gặp"
+  },
+  "icon": "membership",
+  "order": 9,
+  "note": "extract_headings: true/false in each md front matter controls whether ## headings are shown as sub-items on list pages"
+}

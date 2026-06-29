@@ -1,0 +1,11 @@
+{
+  "title": "Erste Schritte",
+  "description": "Chat-Grundlagen, Modellauswahl, Web Search, Memory Space und Voreinstellungen",
+  "seo": {
+    "title": "Erste Schritte",
+    "description": "Chat-Grundlagen, Modellauswahl, Web Search, Memory Space und Voreinstellungen"
+  },
+  "icon": "getting-started",
+  "order": 1,
+  "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
+}

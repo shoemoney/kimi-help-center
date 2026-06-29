@@ -1,0 +1,24 @@
+---
+title: "Deep Research มีความยาวบริบทเท่าไหร่?"
+slug: "deep-research-context-length"
+order: 5
+extract_headings: false
+preview: false
+---
+
+<SeoMeta
+  title="Deep Research มีความยาวบริบทเท่าไหร่? - Kimi Help Center"
+  description="Deep Research ใช้ความยาวบริบท 128K tokens หรือประมาณ 200,000 คำ"
+/>
+
+# ความยาวบริบท
+
+<Callout type="info">
+Deep Research ใช้ความยาวบริบท **128K tokens** (ประมาณ 200,000 คำ)
+</Callout>
+
+นั่นหมายความว่า Kimi-Researcher สามารถประมวลผลและอ้างอิงข้อความได้ในปริมาณมากภายในงานวิจัยเดียว ซึ่งเพียงพอต่อการสร้างรายงานเชิงลึกที่ซับซ้อนได้อย่างสบาย ๆ
+
+<Callout type="tip">
+**เคล็ดลับ**: หากคำถามวิจัยของคุณกว้างเกินไป ลองแยกออกเป็นคำถามย่อยหลาย ๆ ข้อแล้วค้นคว้าแยกกัน วิธีนี้จะช่วยเพิ่มความลึกและความแม่นยำของแต่ละงานให้ดียิ่งขึ้น
+</Callout>

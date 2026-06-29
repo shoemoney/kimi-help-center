@@ -1,0 +1,11 @@
+{
+  "title": "Dokumente & Tabellen",
+  "description": "Dokumente erstellen, Excel verarbeiten, Formate konvertieren, Daten visualisieren",
+  "seo": {
+    "title": "Dokumente & Tabellen",
+    "description": "Dokumente erstellen, Excel verarbeiten, Formate konvertieren, Daten visualisieren"
+  },
+  "icon": "docs-sheets",
+  "order": 6,
+  "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
+}

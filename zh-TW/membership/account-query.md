@@ -1,0 +1,38 @@
+---
+title: "帳戶與 credit（點數）查詢"
+slug: "membership-account-query"
+order: 5
+extract_headings: false
+preview: false
+---
+
+<SeoMeta
+  title="帳戶與 credit（點數）查詢 - Kimi 說明中心"
+  description="購買會員後，權益通常會立即生效。若情況看起來不太對，請參考以下指南。"
+/>
+
+# 帳戶與 credit（點數）查詢
+
+<Callout type="info">
+購買會員後，權益通常會立即生效。若情況看起來不太對，請參考以下指南。
+</Callout>
+
+## 購買後未顯示 credit（點數）？
+如果付款已完成，但會員資格尚未啟用：
+1. **確認扣款** — 請查看銀行或付款服務商紀錄，確認交易已完成。部分付款方式可能會有短暫延遲；請等待幾分鐘後重新整理頁面
+2. **確認帳戶** — 請確定你登入的是結帳時使用的同一個 Kimi 帳戶。如果你有多個帳戶，請嘗試切換帳戶
+3. **登出後重新登入** — 重新登入通常可以刷新會員狀態
+
+<Callout type="info">
+如果問題仍未解決，請將扣款截圖與你的帳戶資訊寄至 **membership@moonshot.ai**。
+</Callout>
+
+## 在哪裡查看剩餘 credit（點數）？
+### 網頁版（kimi.com）
+1. 點擊左下角的頭像或個人檔案圖示
+2. 前往 **設定 → 訂閱**
+3. 你目前的方案與剩餘 credit（點數）會顯示在此處
+### 行動版（iOS / Android）
+1. 開啟 Kimi app，點選 **個人檔案** 分頁
+2. 前往 **會員**
+3. 你會看到方案詳情與 credit（點數）使用明細

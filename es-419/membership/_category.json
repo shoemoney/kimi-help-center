@@ -1,0 +1,11 @@
+{
+  "title": "Membresía",
+  "description": "Planes, facturación, credits, mejoras, facturas y preguntas frecuentes",
+  "seo": {
+    "title": "Membresía",
+    "description": "Planes, facturación, credits, mejoras, facturas y preguntas frecuentes"
+  },
+  "icon": "membership",
+  "order": 9,
+  "note": "extract_headings: true/false in each md front matter controls whether ## headings are shown as sub-items on list pages"
+}

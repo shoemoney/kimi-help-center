@@ -1,0 +1,11 @@
+{
+  "title": "快速入門",
+  "description": "聊天基礎、模型選擇、Web Search、Memory Space 與預設",
+  "seo": {
+    "title": "快速入門",
+    "description": "聊天基礎、模型選擇、Web Search、Memory Space 與預設"
+  },
+  "icon": "getting-started",
+  "order": 1,
+  "note": "每個 md front matter 中的 extract_headings 會控制 ## 標題是否在列表頁顯示為可展開項目"
+}

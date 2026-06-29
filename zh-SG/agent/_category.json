@@ -1,0 +1,11 @@
+{
+  "title": "Agent 模式",
+  "description": "Agent 模式概览、Agent Swarm、功能与限制",
+  "seo": {
+    "title": "Agent 模式",
+    "description": "Agent 模式概览、Agent Swarm、功能与限制"
+  },
+  "icon": "agent",
+  "order": 2,
+  "note": "每个 md front matter 中的 extract_headings 用于控制 ## 标题是否在列表页显示为可展开项"
+}

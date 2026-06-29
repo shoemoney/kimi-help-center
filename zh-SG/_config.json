@@ -1,0 +1,18 @@
+{
+  "title": "Kimi 帮助中心",
+  "description": "在这里了解 Kimi 的使用指南、功能介绍、API 文档等所需信息",
+  "hot_questions": [
+    "会员计划",
+    "Kimi Claw",
+    "幻灯片下载",
+    "API 错误"
+  ],
+  "search_placeholder": "在聊天中下载不了 PPT/Word/Excel？",
+  "field_definitions": {
+    "extract_headings": {
+      "type": "boolean",
+      "default": false,
+      "description": "是否将 ## 标题提取到文章列表页，并作为可展开的子项显示。true = FAQ 文章；false = 指南文章"
+    }
+  }
+}

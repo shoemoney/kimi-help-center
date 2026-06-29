@@ -1,0 +1,11 @@
+{
+  "title": "Documentos y hojas de cálculo",
+  "description": "Redacción de documentos, procesamiento en Excel, conversión de formatos y visualización de datos",
+  "seo": {
+    "title": "Documentos y hojas de cálculo",
+    "description": "Redacción de documentos, procesamiento en Excel, conversión de formatos y visualización de datos"
+  },
+  "icon": "docs-sheets",
+  "order": 6,
+  "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
+}

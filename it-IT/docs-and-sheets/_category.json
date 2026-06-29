@@ -1,0 +1,11 @@
+{
+  "title": "Documenti e fogli di calcolo",
+  "description": "Redazione di documenti, elaborazione di file Excel, conversione di formati, visualizzazione dei dati",
+  "seo": {
+    "title": "Documenti e fogli di calcolo",
+    "description": "Redazione di documenti, elaborazione di file Excel, conversione di formati, visualizzazione dei dati"
+  },
+  "icon": "docs-sheets",
+  "order": 6,
+  "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
+}

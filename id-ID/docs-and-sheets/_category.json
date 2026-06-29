@@ -1,0 +1,11 @@
+{
+  "title": "Dokumen & Spreadsheet",
+  "description": "Penulisan dokumen, pemrosesan Excel, konversi format, visualisasi data",
+  "seo": {
+    "title": "Dokumen & Spreadsheet",
+    "description": "Penulisan dokumen, pemrosesan Excel, konversi format, visualisasi data"
+  },
+  "icon": "docs-sheets",
+  "order": 6,
+  "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
+}

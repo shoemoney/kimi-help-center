@@ -1,0 +1,11 @@
+{
+  "title": "Mitgliedschaft",
+  "description": "Tarife, Abrechnung, credits, Upgrades, Rechnungen und häufige Fragen",
+  "seo": {
+    "title": "Mitgliedschaft",
+    "description": "Tarife, Abrechnung, credits, Upgrades, Rechnungen und häufige Fragen"
+  },
+  "icon": "membership",
+  "order": 9,
+  "note": "extract_headings: true/false in each md front matter controls whether ## headings are shown as sub-items on list pages"
+}

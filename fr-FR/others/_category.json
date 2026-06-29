@@ -1,0 +1,11 @@
+{
+  "title": "Autres",
+  "description": "Sécurité du compte, commentaires, politique de confidentialité et autres paramètres",
+  "seo": {
+    "title": "Autres",
+    "description": "Sécurité du compte, commentaires, politique de confidentialité et autres paramètres"
+  },
+  "icon": "others",
+  "order": 13,
+  "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
+}

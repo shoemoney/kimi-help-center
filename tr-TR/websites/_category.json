@@ -1,0 +1,11 @@
+{
+  "title": "Websites",
+  "description": "Agent ile web sayfaları oluşturun, yayınlayıp paylaşın, sürekli düzenleyin",
+  "seo": {
+    "title": "Websites",
+    "description": "Agent ile web sayfaları oluşturun, yayınlayıp paylaşın, sürekli düzenleyin"
+  },
+  "icon": "websites",
+  "order": 8,
+  "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
+}

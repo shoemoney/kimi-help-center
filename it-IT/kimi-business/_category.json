@@ -1,0 +1,11 @@
+{
+  "title": "Kimi Business",
+  "description": "Vantaggi del piano enterprise, prezzi, gestione del team, spazi di lavoro e domande frequenti",
+  "seo": {
+    "title": "Kimi Business",
+    "description": "Vantaggi del piano enterprise, prezzi, gestione del team, spazi di lavoro e domande frequenti"
+  },
+  "icon": "okcomputer",
+  "order": 12,
+  "note": "extract_headings: true/false in each md front matter controls whether ## headings are shown as sub-items on list pages"
+}

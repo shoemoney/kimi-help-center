@@ -8,10 +8,11 @@ import { config as loadDotenv } from "dotenv";
 import yaml from "js-yaml";
 import pg from "pg";
 import { TosClient } from "@volcengine/tos-sdk";
+import { SEO_LOCALE_CODES } from "./seo-locales.js";
 
 const ROOT_CONFIG_FILE_NAME = "_config.json";
 const MARKDOWN_EXT = ".md";
-const SUPPORTED_LOCALES = ["en-US", "zh-CN"];
+const SUPPORTED_LOCALES = SEO_LOCALE_CODES;
 const CATEGORY_IMAGE_NAMES = [
   "_category.png",
   "_category.jpg",

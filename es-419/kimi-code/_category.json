@@ -1,0 +1,11 @@
+{
+  "title": "Kimi Code",
+  "description": "Agente CLI, extensión para VS Code, integración con el IDE, agentes de terceros",
+  "seo": {
+    "title": "Kimi Code",
+    "description": "Agente CLI, extensión para VS Code, integración con el IDE, agentes de terceros"
+  },
+  "icon": "kimi-code",
+  "order": 10,
+  "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
+}

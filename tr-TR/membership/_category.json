@@ -1,0 +1,11 @@
+{
+  "title": "Üyelik",
+  "description": "Planlar, faturalandırma, credit, yükseltmeler, faturalar ve sık sorulan sorular",
+  "seo": {
+    "title": "Üyelik",
+    "description": "Planlar, faturalandırma, credit, yükseltmeler, faturalar ve sık sorulan sorular"
+  },
+  "icon": "membership",
+  "order": 9,
+  "note": "extract_headings: true/false in each md front matter controls whether ## headings are shown as sub-items on list pages"
+}

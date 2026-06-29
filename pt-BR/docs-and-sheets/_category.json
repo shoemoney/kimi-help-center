@@ -1,0 +1,11 @@
+{
+  "title": "Documentos e Planilhas",
+  "description": "Criação de documentos, processamento de Excel, conversão de formatos e visualização de dados",
+  "seo": {
+    "title": "Documentos e Planilhas",
+    "description": "Criação de documentos, processamento de Excel, conversão de formatos e visualização de dados"
+  },
+  "icon": "docs-sheets",
+  "order": 6,
+  "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
+}

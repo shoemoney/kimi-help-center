@@ -1,0 +1,11 @@
+{
+  "title": "スライド",
+  "description": "アダプティブまたはビジュアルモードでプレゼンテーションを作成",
+  "seo": {
+    "title": "スライド",
+    "description": "アダプティブまたはビジュアルモードでプレゼンテーションを作成"
+  },
+  "icon": "slides",
+  "order": 5,
+  "note": "各 md の front matter にある extract_headings は、リストページで ## 見出しを展開可能な項目として表示するかどうかを制御します"
+}

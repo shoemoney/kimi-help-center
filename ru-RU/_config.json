@@ -1,0 +1,18 @@
+{
+  "title": "Справочный центр Kimi",
+  "description": "Найдите всё, что нужно знать о Kimi: руководства, возможности, документацию API и многое другое",
+  "hot_questions": [
+    "Тарифы подписки",
+    "Kimi Claw",
+    "Скачивание презентаций",
+    "Ошибки API"
+  ],
+  "search_placeholder": "Не получается скачать PPT/Word/Excel из чата?",
+  "field_definitions": {
+    "extract_headings": {
+      "type": "boolean",
+      "default": false,
+      "description": "Извлекать ли заголовки ## на страницу списка статей как раскрываемые подпункты. true = статьи FAQ; false = статьи-руководства"
+    }
+  }
+}

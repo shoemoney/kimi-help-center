@@ -6,6 +6,8 @@
   "packageManager": "pnpm@10.28.1",
   "scripts": {
     "validate:docs": "node scripts/setup-docs.js --dry-run .",
+    "translate:docs": "node scripts/translate-docs.js .",
+    "check:translations": "node scripts/check-translations.js .",
     "setup:docs": "node scripts/setup-docs.js .",
     "setup:docs:dry-run": "node scripts/setup-docs.js --dry-run .",
     "test": "node --test"

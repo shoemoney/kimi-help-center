@@ -4,12 +4,12 @@ slug: "ppt-overview"
 order: 1
 extract_headings: false
 preview: true
-preview_content: "使用 Kimi 的 AI 驅動 Slides 工具，從文字或文件生成精美專業的簡報。"
+preview_content: "使用 Kimi AI 驅動的幻燈片工具，從文字或文件生成精美專業的簡報。"
 ---
 
 <SeoMeta
   title="Kimi Slides 概覽 - Kimi 說明中心"
-  description="使用 Kimi 的 AI 驅動 Slides 工具，從文字或文件生成精美專業的簡報。"
+  description="使用 Kimi AI 驅動的幻燈片工具，從文字或文件生成精美專業的簡報。"
 />
 
 # Kimi Slides

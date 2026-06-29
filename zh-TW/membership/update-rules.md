@@ -21,7 +21,7 @@ Kimi 會員權益包含兩個 credit 池。Kimi Code 使用獨立的 quota 池�
 你的會員資格不會為每項功能分別配置 quota，而是提供兩個 credit 池。Kimi Code 使用獨立的 quota 池；其他會員功能則共用一個可在各處使用的 quota 池：
 | 功能 | 說明 |
 |---------|-------------|
-| **Agent 任務** | 網站、文件、投影片、試算表、deep research |
+| **Agent 任務** | 網站、文件、幻燈片、試算表、deep research |
 | **Kimi Claw** | 你的個人雲端部署 AI 助理 |
 | **其他功能** | 圖片生成等更多功能 |
 
@@ -37,7 +37,7 @@ credit 會依任務處理的 token 數量消耗。輸入與輸出越長，使用
 
 <Callout type="info">
 **免費方案使用者的粗略參考**：
-- 生成一份簡單的投影片 ≈ credit 的 1–2%
+- 生成一份簡單的幻燈片 ≈ credit 的 1–2%
 - 執行一份 deep research 報告 ≈ 5–10%
 - 撰寫一段程式碼片段 ≈ 0.5–2%
 較高階的方案會提供按比例更大的 credit 池。

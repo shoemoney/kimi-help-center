@@ -14,7 +14,7 @@ preview: false
 # Agent quota 與計費
 
 <Callout type="info">
-Agent 模式採用 Kimi 的 quota 系統。所有會員權益都包含兩個 quota 池：Kimi Code 使用獨立的 quota 池；其他會員功能（Agent、Deep Research、Slides、Docs、Sheets、Kimi Claw 等）共用同一個 quota 池，並依實際 token 消耗扣除 quota。
+Agent 模式採用 Kimi 的 quota 系統。所有會員權益都包含兩個 quota 池：Kimi Code 使用獨立的 quota 池；其他會員功能（Agent、Deep Research、幻燈片、Docs、Sheets、Kimi Claw 等）共用同一個 quota 池，並依實際 token 消耗扣除 quota。
 </Callout>
 
 ## 計費模式

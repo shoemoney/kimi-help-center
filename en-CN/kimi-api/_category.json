@@ -1,0 +1,11 @@
+{
+  "title": "Kimi API and Enterprise Partnerships",
+  "description": "API reference, models and pricing, contact sales",
+  "seo": {
+    "title": "Kimi API and Enterprise Partnerships",
+    "description": "API reference, models and pricing, contact sales"
+  },
+  "icon": "api",
+  "order": 11,
+  "note": "In the front matter of each md file, extract_headings: true/false controls whether ## headings are expanded on the list page"
+}

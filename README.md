@@ -108,9 +108,13 @@ Useful direct options:
 
 ## One-time Translation
 
-English articles under `en-US/` can be translated into SEO-supported locales
-with the one-time translation helper. `zh-CN/` is excluded because Simplified
-Chinese for mainland users is maintained manually; use `zh-SG/` for the
+The one-time translation helper has two maintained source locales:
+
+- `en-US/` is the default source for overseas SEO-supported locales.
+- `zh-CN/` is maintained manually for mainland China users and is the default
+  source for `en-cn` / `en-CN`, the mainland China English locale.
+
+`zh-CN/` is excluded as a machine translation target. Use `zh-SG/` for the
 machine-translated overseas Simplified Chinese locale. Existing target files are
 skipped unless `--overwrite` is passed.
 
@@ -121,6 +125,7 @@ TRANSLATION_API_KEY="..." pnpm translate:docs -- --target-locale ja-JP
 Useful direct options:
 
 - `node scripts/translate-docs.js --target-locale ja-JP --article en-US/agent/overview.md .`
+- `node scripts/translate-docs.js --target-locale en-cn --article zh-CN/agent/overview.md .`
 - `node scripts/translate-docs.js --all-seo-locales .`
 - `node scripts/translate-docs.js --target-locale ja-JP --dry-run .`
 - `node scripts/translate-docs.js --target-locale ja-JP --mock .`

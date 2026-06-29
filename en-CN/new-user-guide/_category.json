@@ -1,0 +1,11 @@
+{
+  "title": "Getting Started",
+  "description": "Agentic conversations, search features, Memory Space, contact and feedback",
+  "seo": {
+    "title": "Getting Started",
+    "description": "Agentic conversations, search features, Memory Space, contact and feedback"
+  },
+  "icon": "getting-started",
+  "order": 1,
+  "note": "In the front matter of each md file, extract_headings: true/false controls whether ## headings are expanded on the list page"
+}

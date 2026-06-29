@@ -1,0 +1,11 @@
+{
+  "title": "Agent Mode",
+  "description": "Introduction to Agent Mode, Agent Swarm, features, and limitations",
+  "seo": {
+    "title": "Agent Mode",
+    "description": "Introduction to Agent Mode, Agent Swarm, features, and limitations"
+  },
+  "icon": "agent",
+  "order": 2,
+  "note": "In each md file's front matter, extract_headings: true/false controls whether ## headings are expanded on the list page."
+}

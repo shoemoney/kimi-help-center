@@ -6,7 +6,9 @@ import path from "node:path";
 
 import { parseFrontMatter } from "./setup-docs.js";
 import {
+  defaultSourceLocaleForTarget,
   machineTranslationTargetLocaleCodes,
+  normalizeTranslationSourceLocale,
   normalizeSeoLocale,
 } from "./seo-locales.js";
 import { translateDocs } from "./translate-docs.js";
@@ -78,6 +80,63 @@ Use Agent to finish multi-step work.
 />
 `,
   );
+  await fs.mkdir(path.join(root, "zh-CN", "agent", "images", "overview"), {
+    recursive: true,
+  });
+  await fs.writeFile(
+    path.join(root, "zh-CN", "_config.json"),
+    JSON.stringify({
+      title: "Kimi 帮助中心",
+      description: "查找产品指南",
+      hot_questions: ["会员方案"],
+      search_placeholder: "搜索帮助",
+    }),
+  );
+  await fs.writeFile(
+    path.join(root, "zh-CN", "agent", "_category.json"),
+    JSON.stringify({
+      title: "智能体",
+      description: "智能体文档",
+      icon: "okcomputer",
+      order: 1,
+      seo: {
+        title: "智能体",
+        description: "智能体文档",
+      },
+    }),
+  );
+  await fs.writeFile(
+    path.join(root, "zh-CN", "agent", "images", "overview", "screenshot.png"),
+    "",
+  );
+  await fs.writeFile(
+    path.join(root, "zh-CN", "agent", "overview.md"),
+    `---
+title: "智能体概览"
+slug: "agent-overview"
+order: 1
+extract_headings: false
+preview: true
+preview_content: "了解智能体如何工作。"
+---
+
+<SeoMeta
+  title="智能体概览 - Kimi 帮助中心"
+  description="了解智能体如何工作。"
+/>
+
+# 智能体概览
+
+使用智能体完成多步骤任务。
+
+<Frames
+  src="./images/overview/screenshot.png"
+  alt="智能体概览"
+  width={1200}
+  height={800}
+/>
+`,
+  );
   return root;
 }
 
@@ -121,6 +180,36 @@ test("translateDocs creates missing target article, metadata, and assets once", 
     fs.stat(path.join(root, "ja-JP", "agent", "images", "unused.png")),
     /ENOENT/,
   );
+});
+
+test("translateDocs uses zh-CN as the default source for en-CN", async () => {
+  const root = await createFixture();
+
+  const summary = await translateDocs({
+    docsRoot: root,
+    targetLocales: ["en-cn"],
+    mock: true,
+  });
+
+  assert.equal(summary.sourceLocale, "zh-CN");
+  assert.deepEqual(summary.sourceLocales, ["zh-CN"]);
+  assert.deepEqual(summary.targetSourceLocales, { "en-CN": "zh-CN" });
+  assert.equal(summary.translated, 3);
+
+  const articlePath = path.join(root, "en-CN", "agent", "overview.md");
+  const article = await fs.readFile(articlePath, "utf8");
+  const { frontMatter, content } = parseFrontMatter(article);
+  assert.equal(frontMatter.slug, "agent-overview");
+  assert.equal(frontMatter.title, "[en-CN] 智能体概览");
+  assert.equal(frontMatter.preview_content, "[en-CN] 了解智能体如何工作。");
+  assert.match(content, /# 智能体概览/);
+
+  const category = JSON.parse(
+    await fs.readFile(path.join(root, "en-CN", "agent", "_category.json"), "utf8"),
+  );
+  assert.equal(category.title, "[en-CN] 智能体");
+
+  await fs.stat(path.join(root, "en-CN", "agent", "images", "overview", "screenshot.png"));
 });
 
 test("translateDocs skips existing target files unless overwrite is set", async () => {
@@ -176,12 +265,32 @@ test("translateDocs rejects human-maintained zh-CN targets", async () => {
   );
 });
 
-test("SEO locales include overseas Simplified Chinese and Russian as machine targets", () => {
+test("translateDocs only accepts maintained source locales", async () => {
+  const root = await createFixture();
+
+  assert.equal(normalizeTranslationSourceLocale("en"), "en-US");
+  assert.equal(normalizeTranslationSourceLocale("zh-cn"), "zh-CN");
+  await assert.rejects(
+    translateDocs({
+      docsRoot: root,
+      sourceLocale: "ja-JP",
+      targetLocales: ["ko-KR"],
+      mock: true,
+    }),
+    /unsupported translation source locale: ja-JP/,
+  );
+});
+
+test("SEO locales include domestic English, overseas Simplified Chinese, and Russian as machine targets", () => {
+  assert.equal(normalizeSeoLocale("en-cn"), "en-CN");
   assert.equal(normalizeSeoLocale("zh-sg"), "zh-SG");
   assert.equal(normalizeSeoLocale("ru-ru"), "ru-RU");
+  assert.equal(defaultSourceLocaleForTarget("en-cn"), "zh-CN");
+  assert.equal(defaultSourceLocaleForTarget("ja-JP"), "en-US");
 
   const targets = machineTranslationTargetLocaleCodes();
   assert.equal(targets.includes("zh-CN"), false);
+  assert.equal(targets.includes("en-CN"), true);
   assert.equal(targets.includes("zh-SG"), true);
   assert.equal(targets.includes("ru-RU"), true);
 });

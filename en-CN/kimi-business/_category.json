@@ -1,0 +1,11 @@
+{
+  "title": "Kimi Business",
+  "description": "Business plan benefits, pricing, member management, workspaces, and FAQs",
+  "seo": {
+    "title": "Kimi Business",
+    "description": "Business plan benefits, pricing, member management, workspaces, and FAQs"
+  },
+  "icon": "okcomputer",
+  "order": 12,
+  "note": "In each md file's front matter, extract_headings: true/false controls whether ## headings are expanded on the list page"
+}

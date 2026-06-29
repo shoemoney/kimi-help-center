@@ -1,0 +1,11 @@
+{
+  "title": "Deep Research",
+  "description": "Product introduction and issue feedback",
+  "seo": {
+    "title": "Deep Research",
+    "description": "Product introduction and issue feedback"
+  },
+  "icon": "deep-research",
+  "order": 7,
+  "note": "In each md file's front matter, extract_headings: true/false controls whether ## headings are expanded on the list page"
+}

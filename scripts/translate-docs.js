@@ -12,10 +12,12 @@ import {
 } from "./setup-docs.js";
 import {
   HUMAN_MAINTAINED_LOCALE_CODES,
-  SOURCE_LOCALE,
   SEO_LOCALES,
+  defaultSourceLocaleForTarget,
+  groupTargetLocalesBySource,
   isHumanMaintainedLocale,
   machineTranslationTargetLocaleCodes,
+  normalizeTranslationSourceLocale,
   normalizeSeoLocale,
   seoLocaleInfo,
 } from "./seo-locales.js";
@@ -66,15 +68,15 @@ loadDotenv({ path: ".env", override: false });
 
 export async function translateDocs(options = {}) {
   const docsRoot = path.resolve(options.docsRoot || ".");
-  const sourceLocale = normalizeSeoLocale(options.sourceLocale || SOURCE_LOCALE);
-  const targetLocales = normalizeTargetLocales(options.targetLocales || [], sourceLocale);
-  const articleFilters = normalizeArticleFilters(options.articles || [], sourceLocale);
+  const sourceLocaleOverride = options.sourceLocale
+    ? normalizeTranslationSourceLocale(options.sourceLocale)
+    : null;
+  const targetLocales = normalizeTargetLocales(
+    options.targetLocales || [],
+    sourceLocaleOverride,
+  );
+  const targetGroups = groupTargetLocalesBySource(targetLocales, sourceLocaleOverride);
   const glossary = await loadGlossary(docsRoot);
-  const sourceRoot = path.join(docsRoot, sourceLocale);
-
-  await assertDirectory(sourceRoot, `source locale ${sourceLocale}`);
-
-  const plan = await buildTranslationPlan(sourceRoot, sourceLocale, articleFilters);
   const concurrency = normalizePositiveInteger(
     options.concurrency || process.env.TRANSLATION_CONCURRENCY,
     DEFAULT_TRANSLATION_CONCURRENCY,
@@ -84,10 +86,18 @@ export async function translateDocs(options = {}) {
     : options.mock
       ? new MockTranslationProvider()
       : new OpenAICompatibleTranslationProvider(options);
+  const sourceLocales = targetGroups.map((group) => group.sourceLocale);
+  const targetSourceLocales = Object.fromEntries(
+    targetGroups.flatMap((group) =>
+      group.targetLocales.map((targetLocale) => [targetLocale, group.sourceLocale]),
+    ),
+  );
 
   const summary = {
     docsRoot,
-    sourceLocale,
+    sourceLocale: sourceLocales.length === 1 ? sourceLocales[0] : "mixed",
+    sourceLocales,
+    targetSourceLocales,
     targetLocales,
     dryRun: Boolean(options.dryRun),
     translated: 0,
@@ -99,85 +109,103 @@ export async function translateDocs(options = {}) {
     planned: [],
   };
 
-  for (const targetLocale of targetLocales) {
-    const targetRoot = path.join(docsRoot, targetLocale);
-    if (!options.dryRun) {
-      await fs.mkdir(targetRoot, { recursive: true });
-    }
+  for (const group of targetGroups) {
+    const { sourceLocale, targetLocales: groupTargetLocales } = group;
+    const sourceRoot = path.join(docsRoot, sourceLocale);
+    const articleFilters = normalizeArticleFilters(options.articles || []);
 
-    const pending = [];
-    let localeSkipped = 0;
-    for (const item of plan.items) {
-      const targetPath = path.join(targetRoot, item.relativePath);
-      const exists = await isFile(targetPath);
-      if (exists && !options.overwrite) {
-        summary.skipped += 1;
-        localeSkipped += 1;
-        summary.planned.push({ targetLocale, path: targetPath, action: "skip-existing" });
-        continue;
+    await assertDirectory(sourceRoot, `source locale ${sourceLocale}`);
+
+    const plan = await buildTranslationPlan(sourceRoot, sourceLocale, articleFilters);
+
+    for (const targetLocale of groupTargetLocales) {
+      const targetRoot = path.join(docsRoot, targetLocale);
+      if (!options.dryRun) {
+        await fs.mkdir(targetRoot, { recursive: true });
       }
-      const equivalentPath = !exists && !options.overwrite && item.kind === "article"
-        ? await findExistingArticleBySlug(targetRoot, item)
-        : null;
-      if (equivalentPath) {
-        summary.skipped += 1;
-        localeSkipped += 1;
+
+      const pending = [];
+      let localeSkipped = 0;
+      for (const item of plan.items) {
+        const targetPath = path.join(targetRoot, item.relativePath);
+        const exists = await isFile(targetPath);
+        if (exists && !options.overwrite) {
+          summary.skipped += 1;
+          localeSkipped += 1;
+          summary.planned.push({
+            sourceLocale,
+            targetLocale,
+            path: targetPath,
+            action: "skip-existing",
+          });
+          continue;
+        }
+        const equivalentPath = !exists && !options.overwrite && item.kind === "article"
+          ? await findExistingArticleBySlug(targetRoot, item)
+          : null;
+        if (equivalentPath) {
+          summary.skipped += 1;
+          localeSkipped += 1;
+          summary.planned.push({
+            sourceLocale,
+            targetLocale,
+            path: targetPath,
+            action: "skip-existing-route",
+            existingPath: equivalentPath,
+          });
+          continue;
+        }
+
         summary.planned.push({
+          sourceLocale,
           targetLocale,
           path: targetPath,
-          action: "skip-existing-route",
-          existingPath: equivalentPath,
+          action: options.dryRun ? "dry-run" : exists ? "overwrite" : "create",
         });
-        continue;
-      }
-
-      summary.planned.push({
-        targetLocale,
-        path: targetPath,
-        action: options.dryRun ? "dry-run" : exists ? "overwrite" : "create",
-      });
-      if (options.dryRun) {
-        continue;
-      }
-
-      pending.push({ item, targetPath, targetLocale });
-    }
-
-    if (!options.dryRun && pending.length > 0) {
-      let localeCompleted = 0;
-      let localeFailed = 0;
-      console.error(
-        `[translate-docs] locale=${targetLocale} pending=${pending.length} skipped=${localeSkipped}`,
-      );
-      await runLimited(pending, concurrency, async (task) => {
-        try {
-          await translatePlannedItem({ ...task, provider, glossary });
-          summary.translated += 1;
-          localeCompleted += 1;
-          console.error(
-            `[translate-docs] ok locale=${targetLocale} progress=${localeCompleted + localeFailed}/${pending.length} path=${path.relative(docsRoot, task.targetPath)}`,
-          );
-        } catch (error) {
-          summary.failed += 1;
-          localeFailed += 1;
-          summary.failures.push({
-            targetLocale: task.targetLocale,
-            path: task.targetPath,
-            error: error.message,
-          });
-          console.error(
-            `[translate-docs] failed locale=${targetLocale} progress=${localeCompleted + localeFailed}/${pending.length} path=${path.relative(docsRoot, task.targetPath)} error=${error.message}`,
-          );
+        if (options.dryRun) {
+          continue;
         }
-      });
-      console.error(
-        `[translate-docs] locale=${targetLocale} completed translated=${localeCompleted} failed=${localeFailed}`,
-      );
-    }
 
-    if (!options.dryRun) {
-      console.error(`[translate-docs] copy-assets locale=${targetLocale}`);
-      summary.copiedAssets += await copyReferencedAssets(sourceRoot, targetRoot, plan.assetPaths);
+        pending.push({ item, targetPath, sourceLocale, targetLocale });
+      }
+
+      if (!options.dryRun && pending.length > 0) {
+        let localeCompleted = 0;
+        let localeFailed = 0;
+        console.error(
+          `[translate-docs] source=${sourceLocale} locale=${targetLocale} pending=${pending.length} skipped=${localeSkipped}`,
+        );
+        await runLimited(pending, concurrency, async (task) => {
+          try {
+            await translatePlannedItem({ ...task, provider, glossary });
+            summary.translated += 1;
+            localeCompleted += 1;
+            console.error(
+              `[translate-docs] ok source=${sourceLocale} locale=${targetLocale} progress=${localeCompleted + localeFailed}/${pending.length} path=${path.relative(docsRoot, task.targetPath)}`,
+            );
+          } catch (error) {
+            summary.failed += 1;
+            localeFailed += 1;
+            summary.failures.push({
+              sourceLocale,
+              targetLocale: task.targetLocale,
+              path: task.targetPath,
+              error: error.message,
+            });
+            console.error(
+              `[translate-docs] failed source=${sourceLocale} locale=${targetLocale} progress=${localeCompleted + localeFailed}/${pending.length} path=${path.relative(docsRoot, task.targetPath)} error=${error.message}`,
+            );
+          }
+        });
+        console.error(
+          `[translate-docs] source=${sourceLocale} locale=${targetLocale} completed translated=${localeCompleted} failed=${localeFailed}`,
+        );
+      }
+
+      if (!options.dryRun) {
+        console.error(`[translate-docs] copy-assets source=${sourceLocale} locale=${targetLocale}`);
+        summary.copiedAssets += await copyReferencedAssets(sourceRoot, targetRoot, plan.assetPaths);
+      }
     }
   }
 
@@ -189,12 +217,20 @@ export async function translateDocs(options = {}) {
   return summary;
 }
 
-async function translatePlannedItem({ item, targetPath, targetLocale, provider, glossary }) {
+async function translatePlannedItem({
+  item,
+  targetPath,
+  sourceLocale,
+  targetLocale,
+  provider,
+  glossary,
+}) {
   await fs.mkdir(path.dirname(targetPath), { recursive: true });
   if (item.kind === "article") {
     const translated = await translateArticleFile({
       sourcePath: item.sourcePath,
       relativePath: item.relativePath,
+      sourceLocale,
       targetLocale,
       provider,
       glossary,
@@ -206,6 +242,7 @@ async function translatePlannedItem({ item, targetPath, targetLocale, provider, 
   const translated = await translateJSONFile({
     sourcePath: item.sourcePath,
     relativePath: item.relativePath,
+    sourceLocale,
     targetLocale,
     provider,
     glossary,
@@ -236,12 +273,13 @@ async function findExistingArticleBySlug(targetRoot, item) {
   return null;
 }
 
-function normalizeTargetLocales(input, sourceLocale) {
+function normalizeTargetLocales(input, sourceLocaleOverride) {
   const requested = input.length > 0 ? input : machineTranslationTargetLocaleCodes();
   const seen = new Set();
   const out = [];
   for (const raw of requested) {
     const locale = normalizeSeoLocale(raw);
+    const sourceLocale = sourceLocaleOverride || defaultSourceLocaleForTarget(locale);
     if (locale === sourceLocale || seen.has(locale)) {
       continue;
     }
@@ -257,14 +295,21 @@ function normalizeTargetLocales(input, sourceLocale) {
   return out;
 }
 
-function normalizeArticleFilters(filters, sourceLocale) {
+function normalizeArticleFilters(filters) {
   return filters
     .map((filter) => String(filter || "").trim())
     .filter(Boolean)
     .map((filter) => {
       const withoutLeading = filter.replace(/^\.?\//, "");
-      if (withoutLeading.startsWith(`${sourceLocale}/`)) {
-        return withoutLeading.slice(sourceLocale.length + 1);
+      const slashIndex = withoutLeading.indexOf("/");
+      if (slashIndex > 0) {
+        const firstSegment = withoutLeading.slice(0, slashIndex);
+        try {
+          normalizeSeoLocale(firstSegment);
+          return withoutLeading.slice(slashIndex + 1);
+        } catch {
+          // The first segment is a category name, not a locale prefix.
+        }
       }
       return withoutLeading;
     });
@@ -435,6 +480,7 @@ function isLocalAssetRef(ref) {
 async function translateArticleFile({
   sourcePath,
   relativePath,
+  sourceLocale,
   targetLocale,
   provider,
   glossary,
@@ -446,6 +492,8 @@ async function translateArticleFile({
     content,
   };
   const translated = await provider.translateArticle({
+    sourceLocale,
+    sourceLanguage: seoLocaleInfo(sourceLocale).name,
     targetLocale,
     targetLanguage: seoLocaleInfo(targetLocale).name,
     relativePath,
@@ -515,9 +563,18 @@ function renderArticle(frontMatter, content) {
   return `---\n${frontMatterText}---\n\n${content}`;
 }
 
-async function translateJSONFile({ sourcePath, relativePath, targetLocale, provider, glossary }) {
+async function translateJSONFile({
+  sourcePath,
+  relativePath,
+  sourceLocale,
+  targetLocale,
+  provider,
+  glossary,
+}) {
   const source = JSON.parse(await fs.readFile(sourcePath, "utf8"));
   const translated = await provider.translateJSON({
+    sourceLocale,
+    sourceLanguage: seoLocaleInfo(sourceLocale).name,
     targetLocale,
     targetLanguage: seoLocaleInfo(targetLocale).name,
     relativePath,
@@ -683,11 +740,20 @@ function mockTranslateValue(value, targetLocale, parentKey = "") {
   return value;
 }
 
-function articleMessages({ targetLocale, targetLanguage, relativePath, glossary, payload }) {
+function articleMessages({
+  sourceLocale,
+  sourceLanguage,
+  targetLocale,
+  targetLanguage,
+  relativePath,
+  glossary,
+  payload,
+}) {
   return [
     {
       role: "system",
       content: directTranslationSystemPrompt({
+        sourceLanguage,
         targetLanguage,
         contentKind: "Kimi Help Center MDX-compatible Markdown",
         outputContract: "Return strict JSON only with keys: frontMatter and content.",
@@ -696,6 +762,7 @@ function articleMessages({ targetLocale, targetLanguage, relativePath, glossary,
           "Do not add imports or unsupported MDX components.",
           "For SeoMeta and other MDX string props, translate visible string values but keep MDX valid.",
           "Do not translate fenced code block contents.",
+          ...localeSpecificTranslationRules(targetLocale),
         ],
       }),
     },
@@ -703,10 +770,12 @@ function articleMessages({ targetLocale, targetLanguage, relativePath, glossary,
       role: "user",
       content: JSON.stringify(
         {
+          source_locale: sourceLocale,
+          source_language: sourceLanguage,
           target_locale: targetLocale,
           target_language: targetLanguage,
           article: relativePath,
-          glossary: glossaryPromptSections(glossary, targetLocale),
+          glossary: glossaryPromptSections(glossary, sourceLocale, targetLocale),
           payload,
         },
         null,
@@ -716,17 +785,27 @@ function articleMessages({ targetLocale, targetLanguage, relativePath, glossary,
   ];
 }
 
-function jsonMessages({ targetLocale, targetLanguage, relativePath, glossary, payload }) {
+function jsonMessages({
+  sourceLocale,
+  sourceLanguage,
+  targetLocale,
+  targetLanguage,
+  relativePath,
+  glossary,
+  payload,
+}) {
   return [
     {
       role: "system",
       content: directTranslationSystemPrompt({
+        sourceLanguage,
         targetLanguage,
         contentKind: "Kimi Help Center metadata JSON",
         outputContract: "Return strict JSON only with the same object shape as the input payload.",
         extraRules: [
           "Preserve object keys, arrays, numbers, booleans, route paths, URLs, slugs, icons, and type values.",
           "Translate only user-visible string values such as title, description, search placeholders, and SEO text.",
+          ...localeSpecificTranslationRules(targetLocale),
         ],
       }),
     },
@@ -734,10 +813,12 @@ function jsonMessages({ targetLocale, targetLanguage, relativePath, glossary, pa
       role: "user",
       content: JSON.stringify(
         {
+          source_locale: sourceLocale,
+          source_language: sourceLanguage,
           target_locale: targetLocale,
           target_language: targetLanguage,
           file: relativePath,
-          glossary: glossaryPromptSections(glossary, targetLocale),
+          glossary: glossaryPromptSections(glossary, sourceLocale, targetLocale),
           payload,
         },
         null,
@@ -747,7 +828,17 @@ function jsonMessages({ targetLocale, targetLanguage, relativePath, glossary, pa
   ];
 }
 
+function localeSpecificTranslationRules(targetLocale) {
+  if (targetLocale === "en-CN") {
+    return [
+      "For en-CN, write English for mainland China users. Preserve mainland China product availability, account, payment, compliance, and support context from the Simplified Chinese source; do not adapt it to overseas/global Kimi services.",
+    ];
+  }
+  return [];
+}
+
 function directTranslationSystemPrompt({
+  sourceLanguage,
   targetLanguage,
   contentKind,
   outputContract,
@@ -755,13 +846,13 @@ function directTranslationSystemPrompt({
 }) {
   return [
     `You are an expert translator for Weaver CMS-style ${contentKind}.`,
-    `Your job is to translate every user-visible value from English to ${targetLanguage}.`,
+    `Your job is to translate every user-visible value from ${sourceLanguage} to ${targetLanguage}.`,
     outputContract,
     "Do not answer with explanations, markdown fences, or commentary.",
     "",
     "# TRANSLATION RULES",
     `- Translate every value unless it is code, URL, placeholder, spreadsheet formula, or another non-translatable literal.`,
-    `- Be faithful to the source meaning, but render the text in fluent, idiomatic ${targetLanguage} with elegance appropriate to the context. The final text should read as if originally written by a native speaker of ${targetLanguage}, not as a literal translation from English. Avoid translationese: do not mechanically preserve English sentence structures, word order, passive voice patterns, or marketing clichés when they sound unnatural in ${targetLanguage}. Prefer natural idioms, active voice, and culturally appropriate expressions that convey the same intent and tone. For heading-like, label-like, or navigational strings that coordinate multiple concepts, apply the target language's native compression strategies rather than mirroring the source's syntactic conjunction structure. The output must conform to the brevity and register conventionally expected in the target locale's analogous technical or editorial contexts.`,
+    `- Be faithful to the source meaning, but render the text in fluent, idiomatic ${targetLanguage} with elegance appropriate to the context. The final text should read as if originally written by a native speaker of ${targetLanguage}, not as a literal translation from ${sourceLanguage}. Avoid translationese: do not mechanically preserve source sentence structures, word order, passive voice patterns, or marketing clichés when they sound unnatural in ${targetLanguage}. Prefer natural idioms, active voice, and culturally appropriate expressions that convey the same intent and tone. For heading-like, label-like, or navigational strings that coordinate multiple concepts, apply the target language's native compression strategies rather than mirroring the source's syntactic conjunction structure. The output must conform to the brevity and register conventionally expected in the target locale's analogous technical or editorial contexts.`,
     "- Preserve Markdown syntax while translating visible text.",
     "- Preserve exactly: brand names, product names, URLs, paths, IDs, slugs, locale codes, hashes, inline code/backticks, HTML tags, table separators, list/heading markers, and code-like literals.",
     "- Preserve placeholders and template tokens exactly: `{{...}}`, `${...}`, `%{...}`, `__TOKEN__`.",
@@ -807,13 +898,13 @@ async function loadGlossary(docsRoot) {
   return null;
 }
 
-function glossaryPromptSections(glossary, targetLocale) {
+function glossaryPromptSections(glossary, sourceLocale, targetLocale) {
   const terms = Array.isArray(glossary?.terms) ? glossary.terms : [];
   const preferred = [];
   const protectedTerms = [];
   const contextual = [];
   for (const term of terms.slice(0, MAX_GLOSSARY_TERMS)) {
-    const source = term.en_form || term.source || term.zh_form;
+    const source = glossarySourceValue(term, sourceLocale);
     const target = glossaryTargetValue(term, targetLocale);
     const strategy = term.translation_strategy || term.default || "";
     if (!source) {
@@ -846,11 +937,18 @@ function glossaryPromptSections(glossary, targetLocale) {
   };
 }
 
+function glossarySourceValue(term, sourceLocale) {
+  if (sourceLocale === "zh-CN" || sourceLocale === "zh-SG" || sourceLocale === "zh-TW") {
+    return term.zh_form || term.source || term.en_form;
+  }
+  return term.en_form || term.source || term.zh_form;
+}
+
 function glossaryTargetValue(term, targetLocale) {
   if (targetLocale === "zh-CN" || targetLocale === "zh-SG") {
     return term.zh_form || term.en_form || term.source;
   }
-  if (targetLocale === "en-US") {
+  if (targetLocale === "en-US" || targetLocale === "en-CN") {
     return term.en_form || term.source || term.zh_form;
   }
   return term.en_form || term.source || term.zh_form;
@@ -995,7 +1093,6 @@ async function assertDirectory(candidate, label) {
 function parseArgs(argv) {
   const options = {
     docsRoot: ".",
-    sourceLocale: SOURCE_LOCALE,
     targetLocales: [],
     articles: [],
     dryRun: false,
@@ -1101,7 +1198,7 @@ function printHelp() {
 Options:
   --target-locale <locale>     Target locale, repeatable or comma-separated.
   --all-seo-locales            Translate to every machine-translation SEO locale.
-  --source-locale <locale>     Source locale. Defaults to en-US.
+  --source-locale <locale>     Force source locale to en-US or zh-CN. Defaults by target: en-CN uses zh-CN; other machine targets use en-US.
   --article <path>             Translate one source article, repeatable.
   --dry-run                    Show planned work without writing files or calling translation.
   --mock                       Use a deterministic local mock translator.
@@ -1134,6 +1231,7 @@ function printSummary(summary, json) {
     [
       "help-center translation completed",
       `source=${summary.sourceLocale}`,
+      `source_locales=${summary.sourceLocales.join(",")}`,
       `targets=${summary.targetLocales.join(",")}`,
       `translated=${summary.translated}`,
       `skipped=${summary.skipped}`,

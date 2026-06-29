@@ -1,0 +1,18 @@
+{
+  "title": "Kimi Help Center",
+  "description": "Find all Kimi help information here",
+  "hot_questions": [
+    "Membership Benefits",
+    "Kimi Claw",
+    "PPT Download",
+    "API Call Error"
+  ],
+  "search_placeholder": "Why can’t I download PPT/Word/Excel files from a chat?",
+  "field_definitions": {
+    "extract_headings": {
+      "type": "boolean",
+      "default": false,
+      "description": "Whether to extract ## headings from an article into the second-level article list page as expandable subitems. true = FAQ articles, where ## headings are shown as subitems on the list page; false = introductory articles, where ## headings appear only in the right-hand table of contents on the detail page."
+    }
+  }
+}

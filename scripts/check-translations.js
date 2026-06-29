@@ -10,10 +10,12 @@ import {
 } from "./setup-docs.js";
 import {
   HUMAN_MAINTAINED_LOCALE_CODES,
-  SOURCE_LOCALE,
   SEO_LOCALES,
+  defaultSourceLocaleForTarget,
+  groupTargetLocalesBySource,
   isHumanMaintainedLocale,
   machineTranslationTargetLocaleCodes,
+  normalizeTranslationSourceLocale,
   normalizeSeoLocale,
 } from "./seo-locales.js";
 
@@ -25,51 +27,74 @@ const JSON_LOCKED_KEYS = new Set(["slug", "icon", "type", "pageUrl", "url", "src
 
 export async function checkTranslations(options = {}) {
   const docsRoot = path.resolve(options.docsRoot || ".");
-  const sourceLocale = normalizeSeoLocale(options.sourceLocale || SOURCE_LOCALE);
-  const targetLocales = normalizeTargets(options.targetLocales || [], sourceLocale);
-  const sourceRoot = path.join(docsRoot, sourceLocale);
-  await assertDirectory(sourceRoot, `source locale ${sourceLocale}`);
+  const sourceLocaleOverride = options.sourceLocale
+    ? normalizeTranslationSourceLocale(options.sourceLocale)
+    : null;
+  const targetLocales = normalizeTargets(options.targetLocales || [], sourceLocaleOverride);
+  const targetGroups = groupTargetLocalesBySource(targetLocales, sourceLocaleOverride);
+  const sourceLocales = targetGroups.map((group) => group.sourceLocale);
+  const targetSourceLocales = Object.fromEntries(
+    targetGroups.flatMap((group) =>
+      group.targetLocales.map((targetLocale) => [targetLocale, group.sourceLocale]),
+    ),
+  );
 
-  const plan = await buildExpectedFiles(sourceRoot);
   const report = {
     docsRoot,
-    sourceLocale,
+    sourceLocale: sourceLocales.length === 1 ? sourceLocales[0] : "mixed",
+    sourceLocales,
+    targetSourceLocales,
     targetLocales,
-    expectedPerLocale: plan.length,
+    expectedPerLocale: null,
+    expectedPerSourceLocale: {},
     checkedFiles: 0,
     missing: [],
     errors: [],
     warnings: [],
   };
 
-  for (const targetLocale of targetLocales) {
-    const targetRoot = path.join(docsRoot, targetLocale);
-    for (const item of plan) {
-      const targetPath = path.join(targetRoot, item.relativePath);
-      if (!(await isFile(targetPath))) {
-        const equivalentPath = item.kind === "article"
-          ? await findExistingArticleBySlug(targetRoot, item)
-          : null;
-        if (equivalentPath) {
-          report.checkedFiles += 1;
-          await checkArticle({ item, targetPath: equivalentPath, targetLocale, report });
-          report.warnings.push({
-            targetLocale,
-            path: equivalentPath,
-            issue: `source article is covered by same-slug file instead of ${targetPath}`,
-          });
+  for (const group of targetGroups) {
+    const { sourceLocale, targetLocales: groupTargetLocales } = group;
+    const sourceRoot = path.join(docsRoot, sourceLocale);
+    await assertDirectory(sourceRoot, `source locale ${sourceLocale}`);
+    const plan = await buildExpectedFiles(sourceRoot);
+    report.expectedPerSourceLocale[sourceLocale] = plan.length;
+
+    for (const targetLocale of groupTargetLocales) {
+      const targetRoot = path.join(docsRoot, targetLocale);
+      for (const item of plan) {
+        const targetPath = path.join(targetRoot, item.relativePath);
+        if (!(await isFile(targetPath))) {
+          const equivalentPath = item.kind === "article"
+            ? await findExistingArticleBySlug(targetRoot, item)
+            : null;
+          if (equivalentPath) {
+            report.checkedFiles += 1;
+            await checkArticle({ item, targetPath: equivalentPath, targetLocale, report });
+            report.warnings.push({
+              sourceLocale,
+              targetLocale,
+              path: equivalentPath,
+              issue: `source article is covered by same-slug file instead of ${targetPath}`,
+            });
+            continue;
+          }
+          report.missing.push({ sourceLocale, targetLocale, path: targetPath });
           continue;
         }
-        report.missing.push({ targetLocale, path: targetPath });
-        continue;
-      }
-      report.checkedFiles += 1;
-      if (item.kind === "article") {
-        await checkArticle({ item, targetPath, targetLocale, report });
-      } else {
-        await checkJSON({ item, targetPath, targetLocale, report });
+        report.checkedFiles += 1;
+        if (item.kind === "article") {
+          await checkArticle({ item, targetPath, targetLocale, report });
+        } else {
+          await checkJSON({ item, targetPath, targetLocale, report });
+        }
       }
     }
+  }
+
+  const expectedCounts = Object.values(report.expectedPerSourceLocale);
+  if (expectedCounts.length === 1 || new Set(expectedCounts).size === 1) {
+    report.expectedPerLocale = expectedCounts[0] || 0;
   }
 
   report.ok = report.missing.length === 0 && report.errors.length === 0;
@@ -83,16 +108,20 @@ export async function checkTranslations(options = {}) {
   return report;
 }
 
-function normalizeTargets(input, sourceLocale) {
+function normalizeTargets(input, sourceLocaleOverride) {
   const requested = input.length > 0 ? input : machineTranslationTargetLocaleCodes();
+  const seen = new Set();
   const out = [];
-  for (const locale of [...new Set(requested.map(normalizeSeoLocale))]) {
-    if (locale === sourceLocale) {
+  for (const raw of requested) {
+    const locale = normalizeSeoLocale(raw);
+    const sourceLocale = sourceLocaleOverride || defaultSourceLocaleForTarget(locale);
+    if (locale === sourceLocale || seen.has(locale)) {
       continue;
     }
     if (isHumanMaintainedLocale(locale)) {
       throw new Error(`${locale} is human-maintained and is excluded from machine translation checks`);
     }
+    seen.add(locale);
     out.push(locale);
   }
   return out;
@@ -343,7 +372,7 @@ function printHelp() {
 Options:
   --target-locale <locale>     Target locale, repeatable or comma-separated.
   --all-seo-locales            Check every machine-translation SEO locale.
-  --source-locale <locale>     Source locale. Defaults to en-US.
+  --source-locale <locale>     Force source locale to en-US or zh-CN. Defaults by target: en-CN uses zh-CN; other machine targets use en-US.
   --json                       Print report as JSON.
   -h, --help                   Show this help.
 
@@ -364,8 +393,9 @@ function printReport(report, json) {
     [
       "translation check completed",
       `source=${report.sourceLocale}`,
+      `source_locales=${report.sourceLocales.join(",")}`,
       `targets=${report.targetLocales.join(",")}`,
-      `expected_per_locale=${report.expectedPerLocale}`,
+      `expected_per_locale=${formatExpectedPerLocale(report)}`,
       `checked=${report.checkedFiles}`,
       `missing=${report.missing.length}`,
       `errors=${report.errors.length}`,
@@ -373,6 +403,15 @@ function printReport(report, json) {
       `ok=${report.ok}`,
     ].join(" "),
   );
+}
+
+function formatExpectedPerLocale(report) {
+  if (report.expectedPerLocale !== null && report.expectedPerLocale !== undefined) {
+    return report.expectedPerLocale;
+  }
+  return Object.entries(report.expectedPerSourceLocale)
+    .map(([sourceLocale, count]) => `${sourceLocale}:${count}`)
+    .join(",");
 }
 
 async function main() {

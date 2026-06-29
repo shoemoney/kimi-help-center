@@ -1,4 +1,10 @@
 export const SOURCE_LOCALE = "en-US";
+export const MAINLAND_SOURCE_LOCALE = "zh-CN";
+export const MAINLAND_ENGLISH_LOCALE = "en-CN";
+export const TRANSLATION_SOURCE_LOCALE_CODES = [
+  SOURCE_LOCALE,
+  MAINLAND_SOURCE_LOCALE,
+];
 
 export const SEO_LOCALES = [
   {
@@ -12,6 +18,12 @@ export const SEO_LOCALES = [
     name: "Simplified Chinese",
     nativeName: "简体中文",
     routePrefix: "zh-cn",
+  },
+  {
+    code: "en-CN",
+    name: "English for mainland China",
+    nativeName: "English (China)",
+    routePrefix: "en-cn",
   },
   {
     code: "zh-SG",
@@ -103,6 +115,7 @@ export const SEO_LOCALE_CODES = SEO_LOCALES.map((locale) => locale.code);
 export const HUMAN_MAINTAINED_LOCALE_CODES = ["zh-CN"];
 
 const humanMaintainedLocaleCodeSet = new Set(HUMAN_MAINTAINED_LOCALE_CODES);
+const translationSourceLocaleCodeSet = new Set(TRANSLATION_SOURCE_LOCALE_CODES);
 
 const localeByLowerCode = new Map(
   SEO_LOCALES.flatMap((locale) => {
@@ -144,4 +157,40 @@ export function machineTranslationTargetLocaleCodes() {
 
 export function isHumanMaintainedLocale(code) {
   return humanMaintainedLocaleCodeSet.has(normalizeSeoLocale(code));
+}
+
+export function normalizeTranslationSourceLocale(input) {
+  const locale = normalizeSeoLocale(input);
+  if (!translationSourceLocaleCodeSet.has(locale)) {
+    throw new Error(
+      `unsupported translation source locale: ${input}; expected ${TRANSLATION_SOURCE_LOCALE_CODES.join(" or ")}`,
+    );
+  }
+  return locale;
+}
+
+export function defaultSourceLocaleForTarget(targetLocale) {
+  const normalizedTargetLocale = normalizeSeoLocale(targetLocale);
+  return normalizedTargetLocale === MAINLAND_ENGLISH_LOCALE
+    ? MAINLAND_SOURCE_LOCALE
+    : SOURCE_LOCALE;
+}
+
+export function groupTargetLocalesBySource(targetLocales, sourceLocaleOverride = null) {
+  const forcedSourceLocale = sourceLocaleOverride
+    ? normalizeTranslationSourceLocale(sourceLocaleOverride)
+    : null;
+  const groups = [];
+
+  for (const targetLocale of targetLocales.map(normalizeSeoLocale)) {
+    const sourceLocale = forcedSourceLocale || defaultSourceLocaleForTarget(targetLocale);
+    let group = groups.find((candidate) => candidate.sourceLocale === sourceLocale);
+    if (!group) {
+      group = { sourceLocale, targetLocales: [] };
+      groups.push(group);
+    }
+    group.targetLocales.push(targetLocale);
+  }
+
+  return groups;
 }

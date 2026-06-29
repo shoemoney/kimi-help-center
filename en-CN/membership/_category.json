@@ -1,11 +1,11 @@
 {
-  "title": "会员订阅",
-  "description": "权益介绍、计费说明、续费升级、自助开票",
+  "title": "Membership",
+  "description": "Plans, billing, credits, upgrades, invoices, and common questions",
   "seo": {
-    "title": "会员订阅",
-    "description": "权益介绍、计费说明、续费升级、自助开票"
+    "title": "Membership",
+    "description": "Plans, billing, credits, upgrades, invoices, and common questions"
   },
   "icon": "membership",
   "order": 9,
-  "note": "每篇 md 的 front matter 中 extract_headings: true/false 控制是否在列表页展开 ## 标题"
+  "note": "extract_headings: true/false in each md front matter controls whether ## headings are shown as sub-items on list pages"
 }

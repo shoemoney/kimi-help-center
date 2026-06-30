@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Contacto \u0026 comentarios - Kimi Help Center"
+  title="Contacto \u0026 comentarios - Centro de ayuda de Kimi"
   description="P: ¿Dónde puedo enviar mis comentarios?"
 />
 

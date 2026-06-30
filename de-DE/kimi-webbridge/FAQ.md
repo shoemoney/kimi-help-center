@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi WebBridge FAQ - Kimi Help Center"
+  title="Kimi WebBridge FAQ - Kimi Hilfecenter"
   description="Häufig gestellte Fragen zu Installation, Verbindung und Nutzung von Kimi WebBridge mit verschiedenen Browsern und Local Agents."
   ogType="article"
 />

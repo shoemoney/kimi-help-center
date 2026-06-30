@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Panduan keanggotaan Kimi Code - Kimi Help Center"
+  title="Panduan keanggotaan Kimi Code - Pusat Bantuan Kimi"
   description="Kimi Code adalah benefit yang dirancang untuk developer dalam paket keanggotaan Kimi, menghadirkan kemampuan coding AI berperforma tinggi. Anda dapat memanfaatkan benefit ini melalui..."
 />
 

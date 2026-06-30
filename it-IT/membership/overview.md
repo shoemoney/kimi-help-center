@@ -8,7 +8,7 @@ preview_content: "Confronta i cinque livelli di abbonamento di Kimi, il sistema 
 ---
 
 <SeoMeta
-  title="Panoramica degli abbonamenti Kimi - Kimi Help Center"
+  title="Panoramica degli abbonamenti Kimi - Centro assistenza Kimi"
   description="Confronta i cinque livelli di abbonamento di Kimi, il sistema di credit e le opzioni di fatturazione."
 />
 

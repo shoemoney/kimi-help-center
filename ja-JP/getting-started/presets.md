@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="プリセット - Kimi Help Center"
+  title="プリセット - Kimi ヘルプセンター"
   description="プリセットは、よく使うプロンプトを保存し、どのセッションでもワンクリックで呼び出せるKimiのクイックプロンプト機能です。もう同じ入力を繰り返す必要はありま..."
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="I credit sono stati detratti prima del completamento dell'attività? - Kimi Help Center"
+  title="I credit sono stati detratti prima del completamento dell'attività? - Centro assistenza Kimi"
   description="Deep Research prevede due tipi di attività: &quot;conversazioni standard&quot; ed &quot;esecuzione di attività.&quot; L'addebito viene applicato in base all'attività..."
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Créditos descontados antes da conclusão da tarefa? - Kimi Help Center"
+  title="Créditos descontados antes da conclusão da tarefa? - Central de Ajuda Kimi"
   description="O Deep Research tem dois tipos de tarefa: &quot;conversas padrão&quot; e &quot;execução de tarefas&quot;. A cobrança é aplicada com base na tarefa..."
 />
 

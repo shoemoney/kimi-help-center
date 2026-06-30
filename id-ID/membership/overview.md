@@ -8,7 +8,7 @@ preview_content: "Bandingkan lima tingkat keanggotaan Kimi, sistem credit, dan o
 ---
 
 <SeoMeta
-  title="Ikhtisar keanggotaan Kimi - Kimi Help Center"
+  title="Ikhtisar keanggotaan Kimi - Pusat Bantuan Kimi"
   description="Bandingkan lima tingkat keanggotaan Kimi, sistem credit, dan opsi penagihan."
 />
 

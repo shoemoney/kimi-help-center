@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="K2.6 Agent Swarm [Beta] - Kimi Help Center"
+  title="K2.6 Agent Swarm [Beta] - Centro assistenza Kimi"
   description="K2.6 Agent Swarm Beta è un'architettura di &quot;scalabilità orizzontale&quot; che coordina fino a 300 sub-agent in parallelo — senza ruoli predefiniti né workflow..."
 />
 

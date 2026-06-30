@@ -8,7 +8,7 @@ preview_content: "Slidesで機能が見つからない、開けない、プレ�
 ---
 
 <SeoMeta
-  title="Slides生成が途中で止まった場合の対処法 - Kimi Help Center"
+  title="Slides生成が途中で止まった場合の対処法 - Kimi ヘルプセンター"
   description="生成処理が止まり、ファイルがいつまでも完成しない場合は、多くの場合、Slides生成の失敗が原因です。"
 />
 

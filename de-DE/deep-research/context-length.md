@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Wie groß ist die Kontextlänge bei Deep Research? - Kimi Help Center"
+  title="Wie groß ist die Kontextlänge bei Deep Research? - Kimi Hilfecenter"
   description="Deep Research nutzt eine Kontextlänge von 128K Token, was etwa 200.000 Wörtern entspricht."
 />
 

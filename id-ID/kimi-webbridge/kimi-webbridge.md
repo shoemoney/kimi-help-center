@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Pengenalan Kimi WebBridge - Kimi Help Center"
+  title="Pengenalan Kimi WebBridge - Pusat Bantuan Kimi"
   description="Kimi WebBridge adalah ekstensi peramban yang dirancang untuk AI Agent. Ekstensi ini berjalan langsung di peramban Chrome atau Edge Anda, memanfaatkan sesi login yang sudah ada agar Agent dapat berinteraksi dengan halaman web layaknya manusia."
   ogType="article"
 />

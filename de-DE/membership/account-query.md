@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Konto- \u0026 Guthabenabfrage - Kimi Help Center"
+  title="Konto- \u0026 Guthabenabfrage - Kimi Hilfecenter"
   description="Nach dem Kauf einer Mitgliedschaft werden Ihre Vorteile in der Regel sofort freigeschaltet. Falls etwas nicht stimmt, lesen Sie die folgenden Anleitungen."
 />
 

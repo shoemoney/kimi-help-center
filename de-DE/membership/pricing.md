@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Preisdetails - Kimi Help Center"
+  title="Preisdetails - Kimi Hilfecenter"
   description="Kimi bietet fünf Mitgliedschaftsstufen – einschließlich eines kostenlosen Tarifs – jeweils als monatliches oder jährliches Abonnement. Mit der jährlichen Abrechnung sparen Sie bis zu 480 $/Jahr."
 />
 

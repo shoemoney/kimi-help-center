@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="API-Fehlercodes - Kimi Help Center"
+  title="API-Fehlercodes - Kimi Hilfecenter"
   description="Häufige Fehlercodes bei der Nutzung der Kimi API und ihre Behebung."
 />
 

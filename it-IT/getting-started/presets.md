@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Preset - Kimi Help Center"
+  title="Preset - Centro assistenza Kimi"
   description="I Preset sono la funzione dei prompt rapidi di Kimi: ti permettono di salvare i prompt che usi più spesso e richiamarli con un solo clic in qualsiasi sessione, senza doverli riscrivere ogni volta..."
 />
 

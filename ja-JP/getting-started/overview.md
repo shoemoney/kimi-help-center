@@ -8,7 +8,7 @@ preview_content: "Kimi のチャットモード、AIエージェント、ファ�
 ---
 
 <SeoMeta
-  title="Kimi の概要 - Kimi Help Center"
+  title="Kimi の概要 - Kimi ヘルプセンター"
   description="Kimi のチャットモード、AIエージェント、ファイル処理、インターフェースガイドを確認して、さっそく使い始めましょう。"
 />
 

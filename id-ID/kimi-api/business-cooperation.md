@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kerja sama bisnis \u0026 penjualan - Kimi Help Center"
+  title="Kerja sama bisnis \u0026 penjualan - Pusat Bantuan Kimi"
   description="Pilihan kemitraan untuk klien perusahaan — mulai dari diskon volume hingga SLA khusus."
 />
 

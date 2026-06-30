@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Hubungi kami - Kimi Help Center"
+  title="Hubungi kami - Pusat Bantuan Kimi"
   description="Butuh bantuan? Berikut cara menghubungi kami."
 />
 

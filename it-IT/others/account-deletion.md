@@ -8,7 +8,7 @@ preview_content: "Trova le risposte alle domande più frequenti su account, prof
 ---
 
 <SeoMeta
-  title="Eliminazione dell'account e rimozione dei dati - Kimi Help Center"
+  title="Eliminazione dell'account e rimozione dei dati - Centro assistenza Kimi"
   description="Trova le risposte alle domande più frequenti su account, profilo e gestione dei dati."
 />
 

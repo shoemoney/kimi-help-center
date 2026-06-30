@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Dettagli sui prezzi - Kimi Help Center"
+  title="Dettagli sui prezzi - Centro assistenza Kimi"
   description="Kimi offre cinque livelli di abbonamento — incluso un piano gratuito — ciascuno disponibile con sottoscrizione mensile o annuale. La fatturazione annuale ti fa risparmiare fino a 480 $/anno."
 />
 

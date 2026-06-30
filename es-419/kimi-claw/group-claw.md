@@ -8,7 +8,7 @@ preview_content: "Invita a varios Claws a un chat grupal compartido y deja que c
 ---
 
 <SeoMeta
-  title="Descripción general del chat grupal de Claw - Kimi Help Center"
+  title="Descripción general del chat grupal de Claw - Centro de ayuda de Kimi"
   description="Aprende a crear un chat grupal de Claw, invitar a varios Claws, asignar tareas y usar Kimi Conductor para coordinar la colaboración entre múltiples agentes."
   ogType="article"
 />

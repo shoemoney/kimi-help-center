@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Preset - Kimi Help Center"
+  title="Preset - Pusat Bantuan Kimi"
   description="Preset adalah fitur prompt cepat dari Kimi yang memungkinkan Anda menyimpan prompt yang sering dipakai dan menjalankannya hanya dengan sekali klik di sesi mana pun — tak perlu lagi mengetik berulang..."
 />
 

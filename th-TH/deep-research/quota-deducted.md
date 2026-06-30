@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="ถูกหักเครดิตก่อนที่งานจะเสร็จ? - Kimi Help Center"
+  title="ถูกหักเครดิตก่อนที่งานจะเสร็จ? - ศูนย์ช่วยเหลือ Kimi"
   description="Deep Research มีงานสองประเภท ได้แก่ &quot;การสนทนาทั่วไป&quot; และ &quot;การดำเนินงาน&quot; โดยจะคิดค่าใช้จ่ายตามประเภทของงาน..."
 />
 

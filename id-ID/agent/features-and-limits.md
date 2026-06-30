@@ -9,7 +9,7 @@ preview: false
 # Fitur & batasan Agent
 
 <SeoMeta
-  title="Agent Features \u0026 Limitations - Kimi Help Center"
+  title="Agent Features \u0026 Limitations - Pusat Bantuan Kimi"
   description="Learn about Kimi Agent's capabilities, usage tips, limitations, and best practices for optimal results."
 />
 

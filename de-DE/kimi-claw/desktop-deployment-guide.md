@@ -8,7 +8,7 @@ preview_content: "Richten Sie mit einem Klick eine lokale OpenClaw-Instanz in de
 ---
 
 <SeoMeta
-  title="Kimi Claw Desktop – Überblick - Kimi Help Center"
+  title="Kimi Claw Desktop – Überblick - Kimi Hilfecenter"
   description="Erfahren Sie, wie Sie mit einem Klick eine lokale OpenClaw-Instanz in der Kimi-Desktop-App einrichten – vom Herunterladen des Clients über die lokale Bereitstellung bis hin zum Anpassen des Namens Ihres Assistenten."
   ogType="article"
 />

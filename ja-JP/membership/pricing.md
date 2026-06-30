@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="料金詳細 - Kimi Help Center"
+  title="料金詳細 - Kimi ヘルプセンター"
   description="Kimi では、無料プランを含む 5 つのメンバーシッププランをご用意しています。各プランは月額または年額サブスクリプションでご利用いただけます。年額払いなら、最大で $480/年 お得になります。"
 />
 

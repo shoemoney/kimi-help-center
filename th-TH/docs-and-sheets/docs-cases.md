@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="กรณีการใช้งานและคลังพรอมต์ Kimi Docs - Kimi Help Center"
+  title="กรณีการใช้งานและคลังพรอมต์ Kimi Docs - ศูนย์ช่วยเหลือ Kimi"
   description="ตัวอย่างกรณีการใช้งานและพรอมต์สำหรับ Kimi Docs — ตั้งแต่การตรวจทานต้นฉบับ ไปจนถึงการแปลระดับมืออาชีพและการออกแบบ PDF"
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Tipps zur Nutzung - Kimi Help Center"
+  title="Tipps zur Nutzung - Kimi Hilfecenter"
   description="Kimi Claw ist nicht nur ein Frage-Antwort-Tool – es ist ein formbarer Assistent. Lege die Regeln fest, und er nimmt eine neue Persönlichkeit an. Bring ihm eine Methode bei, und er entwickelt eine Gewohnheit. Gib ihm einen..."
 />
 

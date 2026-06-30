@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="スキルとは？ - Kimi Help Center"
+  title="スキルとは？ - Kimi ヘルプセンター"
   description="Kimi Skillsの仕組み、種類、使い方を説明します。スキルは、特定のタスクでAgentの能力を拡張するための再利用可能なナレッジパッケージで、指示、ベストプラクティス、スクリプト、リソースを含みます。"
   ogType="article"
 />

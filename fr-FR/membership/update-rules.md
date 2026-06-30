@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Crédits : mise à jour et règles d'utilisation - Kimi Help Center"
+  title="Crédits : mise à jour et règles d'utilisation - Centre d'aide Kimi"
   description="L'abonnement Kimi inclut deux réserves de crédits. Kimi Code dispose de son propre quota ; les autres fonctionnalités de l'abonnement partagent une même réserve de crédits, consommés selon l'usage réel."
 />
 

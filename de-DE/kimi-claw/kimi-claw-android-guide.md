@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi Claw Android – Überblick - Kimi Help Center"
+  title="Kimi Claw Android – Überblick - Kimi Hilfecenter"
   description="Erfahren Sie, wie Sie OpenClaw auf Ihrem Android-Smartphone bereitstellen und es in einen rund um die Uhr verfügbaren KI-Remote-Assistenten verwandeln."
   ogType="article"
 />

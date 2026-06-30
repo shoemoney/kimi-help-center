@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Dépannage de l'API - Kimi Help Center"
+  title="Dépannage de l'API - Centre d'aide Kimi"
   description="Problèmes courants et solutions pour les développeurs utilisant l'API Kimi."
 />
 

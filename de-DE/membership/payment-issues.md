@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Zahlungsprobleme - Kimi Help Center"
+  title="Zahlungsprobleme - Kimi Hilfecenter"
   description="Probleme mit der Abrechnung? Hier finden Sie die häufigsten Fälle und wie Sie sie lösen."
 />
 

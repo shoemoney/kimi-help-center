@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi Business - Kimi Help Center"
+  title="Kimi Business - ศูนย์ช่วยเหลือ Kimi"
   description="เรียนรู้เกี่ยวกับแผนสำหรับองค์กร Kimi Business ทั้งราคา การจัดการทีม และฟีเจอร์สำหรับองค์กร ออกแบบมาเพื่อทีมและธุรกิจ พร้อมการปกป้องความเป็นส่วนตัวของข้อมูลและการสนับสนุนเฉพาะทาง"
 />
 

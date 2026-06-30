@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="검색 또는 추론 방향이 잘못되었나요? - Kimi Help Center"
+  title="검색 또는 추론 방향이 잘못되었나요? - Kimi 도움말 센터"
   description="Deep Research의 검색 방향이나 추론이 기대와 크게 어긋났다면, 페이지 하단의 &quot;👎&quot; 버튼을 클릭하고 문제를 간단히 설명..."
 />
 

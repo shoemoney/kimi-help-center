@@ -8,7 +8,7 @@ preview_content: "ACPを介してKimi Code CLIをIDEに統合します。"
 ---
 
 <SeoMeta
-  title="IDE連携 - Kimi Help Center"
+  title="IDE連携 - Kimi ヘルプセンター"
   description="Agent Client Protocol (ACP) を介して Kimi Code CLI を IDE に統合します。Zed、JetBrains IDE、Paseo のセットアップ手順とトラブルシューティングを紹介します。"
 />
 

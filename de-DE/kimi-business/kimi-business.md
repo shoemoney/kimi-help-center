@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi Business - Kimi Help Center"
+  title="Kimi Business - Kimi Hilfecenter"
   description="Erfahren Sie mehr über den Kimi-Business-Unternehmenstarif – einschließlich Preisen, Teamverwaltung und Unternehmensfunktionen. Konzipiert für Teams und Unternehmen, mit Datenschutz und persönlichem Support."
 />
 

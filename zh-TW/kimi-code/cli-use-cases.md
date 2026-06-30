@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="常見使用情境 - Kimi Help Center"
+  title="常見使用情境 - Kimi 說明中心"
   description="以下整理了在日常開發中使用 Kimi Code CLI 的幾個典型情境，並附上範例提示詞供參考。"
 />
 

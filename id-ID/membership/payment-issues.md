@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Masalah pembayaran - Kimi Help Center"
+  title="Masalah pembayaran - Pusat Bantuan Kimi"
   description="Mengalami kendala dengan penagihan? Berikut skenario yang paling sering terjadi beserta cara mengatasinya."
 />
 

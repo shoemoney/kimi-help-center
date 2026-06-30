@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Perché il sito creato dall'agent non funziona? - Kimi Help Center"
+  title="Perché il sito creato dall'agent non funziona? - Centro assistenza Kimi"
   description="Un progetto full-stack comprende l'interfaccia frontend, i servizi backend e l'archiviazione persistente. Kimi Agent può generare tutti e tre, ma il corretto funzionamento dipende dalla configurazione dell'ambiente..."
 />
 

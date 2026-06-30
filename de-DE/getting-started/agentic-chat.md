@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Erste Schritte mit Kimi - Kimi Help Center"
+  title="Erste Schritte mit Kimi - Kimi Hilfecenter"
   description="Im Chatfenster kannst du Fragen stellen, Dateien hochladen oder je nach Bedarf zwischen Modellen wechseln."
 />
 

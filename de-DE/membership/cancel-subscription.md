@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Abonnement kündigen - Kimi Help Center"
+  title="Abonnement kündigen - Kimi Hilfecenter"
   description="Sie können die automatische Verlängerung jederzeit deaktivieren. Nach der Kündigung bleiben Ihre Mitgliedervorteile bis zum Ende des laufenden Abrechnungszeitraums aktiv."
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Personalizzazione e riferimento - Kimi Help Center"
+  title="Personalizzazione e riferimento - Centro assistenza Kimi"
   description="La CLI di Kimi Code offre ampie possibilità di personalizzazione, che ti permettono di adattare il comportamento e il flusso di lavoro dell'IA alle tue esigenze."
 />
 

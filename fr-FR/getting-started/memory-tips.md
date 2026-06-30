@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Astuces pour la mémoire - Kimi Help Center"
+  title="Astuces pour la mémoire - Centre d'aide Kimi"
   description="Je m'appelle nom/surnom, et je vis actuellement à ville. Formé(e) en profession/rôle, avec une expertise dans domaine 1 et domaine 2."
 />
 

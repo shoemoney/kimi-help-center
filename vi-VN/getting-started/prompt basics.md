@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kiến thức cơ bản về prompt - Kimi Help Center"
+  title="Kiến thức cơ bản về prompt - Trung tâm trợ giúp Kimi"
   description="Prompt là câu lệnh văn bản bạn gửi cho Kimi — đó có thể là một câu hỏi, một mô tả, một loạt yêu cầu, hoặc thậm chí là toàn bộ bản tóm tắt nhiệm vụ. Kimi dựa vào..."
 />
 

@@ -8,7 +8,7 @@ preview_content: "Temukan bagaimana Deep Research secara mandiri merencanakan, m
 ---
 
 <SeoMeta
-  title="Sekilas tentang Deep Research - Kimi Help Center"
+  title="Sekilas tentang Deep Research - Pusat Bantuan Kimi"
   description="Temukan bagaimana Deep Research secara mandiri merencanakan, mencari, dan menyajikan laporan riset sepanjang lebih dari 10.000 kata."
 />
 

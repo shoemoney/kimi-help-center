@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Các trường hợp sử dụng phổ biến - Kimi Help Center"
+  title="Các trường hợp sử dụng phổ biến - Trung tâm trợ giúp Kimi"
   description="Dưới đây là một số tình huống điển hình khi dùng Kimi Code CLI trong công việc phát triển hằng ngày, mỗi tình huống đều kèm ví dụ prompt để bạn tham khảo."
 />
 

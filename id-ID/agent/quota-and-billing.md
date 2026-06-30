@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Quota & penagihan Agent - Kimi Help Center"
+  title="Quota & penagihan Agent - Pusat Bantuan Kimi"
   description="Mode Agent menggunakan sistem quota Kimi. Semua manfaat keanggotaan mencakup dua kumpulan quota: Kimi Code memakai kumpulan quota tersendiri; fitur keanggotaan lain berbagi satu kumpulan quota, dengan quota dipotong berdasarkan konsumsi token sebenarnya."
 />
 

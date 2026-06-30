@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="K2.6 Agent Swarm [Beta] - Kimi Help Center"
+  title="K2.6 Agent Swarm [Beta] - ศูนย์ช่วยเหลือ Kimi"
   description="K2.6 Agent Swarm Beta คือสถาปัตยกรรมแบบ &quot;ขยายตามแนวนอน&quot; ที่ประสานงานซับเอเจนต์ทำงานคู่ขนานได้สูงสุด 300 ตัว — โดยไม่ต้องกำหนดบทบาทล่วงหน้าหรือออกแบบเวิร์กโฟลว์ด้วยมือ..."
 />
 

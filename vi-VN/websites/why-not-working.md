@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Vì sao website do agent tạo lại không hoạt động? - Kimi Help Center"
+  title="Vì sao website do agent tạo lại không hoạt động? - Trung tâm trợ giúp Kimi"
   description="Một dự án full-stack bao gồm giao diện frontend, dịch vụ backend và lưu trữ bền vững. Kimi Agent có thể tạo cả ba, nhưng việc chạy thành công còn phụ thuộc vào cấu hình môi trường..."
 />
 

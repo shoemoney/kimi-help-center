@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Tùy chỉnh \u0026 tham khảo - Kimi Help Center"
+  title="Tùy chỉnh \u0026 tham khảo - Trung tâm trợ giúp Kimi"
   description="Kimi Code CLI cung cấp nhiều tùy chọn tùy chỉnh phong phú, cho phép bạn điều chỉnh hành vi và quy trình làm việc của AI theo nhu cầu của mình."
 />
 

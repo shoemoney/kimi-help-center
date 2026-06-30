@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="การจำกัดอัตราการเรียกใช้ - Kimi Help Center"
+  title="การจำกัดอัตราการเรียกใช้ - ศูนย์ช่วยเหลือ Kimi"
   description="Kimi API กำหนด rate limit ทั้งความถี่ของคำขอและ concurrency เพื่อรักษาเสถียรภาพของแพลตฟอร์มและการใช้งานอย่างเป็นธรรม ระดับของ rate limit อ้างอิงจากบัญชีของคุณ..."
 />
 

@@ -8,7 +8,7 @@ preview_content: "Kimiの5つのメンバーシップランク、creditシステ
 ---
 
 <SeoMeta
-  title="Kimiメンバーシップ概要 - Kimi Help Center"
+  title="Kimiメンバーシップ概要 - Kimi ヘルプセンター"
   description="Kimiの5つのメンバーシップランク、creditシステム、お支払い方法を比較できます。"
 />
 

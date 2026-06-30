@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Khái niệm cốt lõi \u0026 terminal - Kimi Help Center"
+  title="Khái niệm cốt lõi \u0026 terminal - Trung tâm trợ giúp Kimi"
   description="Image: 截图30"
 />
 

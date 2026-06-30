@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Tool-Integrationen - Kimi Help Center"
+  title="Tool-Integrationen - Kimi Hilfecenter"
   description="Neben der IDE-Integration lässt sich Kimi Code CLI in weitere Tools einbinden, um Ihren Terminal-Workflow zu verbessern."
 />
 

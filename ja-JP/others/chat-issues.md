@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimiチャットのよくある問題 - Kimi Help Center"
+  title="Kimiチャットのよくある問題 - Kimi ヘルプセンター"
   description="原因として、次のようなことが考えられます。"
 />
 

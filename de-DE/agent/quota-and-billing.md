@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Agent-Kontingent & Abrechnung - Kimi Help Center"
+  title="Agent-Kontingent & Abrechnung - Kimi Hilfecenter"
   description="Der Agent-Modus nutzt das Kontingentsystem von Kimi. Alle Mitgliedsvorteile umfassen zwei Kontingent-Pools: Kimi Code verwendet einen eigenen Kontingent-Pool; andere Mitgliedsfunktionen teilen sich einen gemeinsamen Kontingent-Pool, wobei das Kontingent anhand des tatsächlichen Tokenverbrauchs abgezogen wird."
 />
 

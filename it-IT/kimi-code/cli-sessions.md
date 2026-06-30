@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Sessioni e contesto - Kimi Help Center"
+  title="Sessioni e contesto - Centro assistenza Kimi"
   description="Kimi Code CLI supporta la gestione di più sessioni e la persistenza del contesto, permettendoti di mettere in pausa e riprendere il lavoro in qualsiasi momento."
 />
 

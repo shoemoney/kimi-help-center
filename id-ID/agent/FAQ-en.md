@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="FAQ pembuatan skill - Kimi Help Center"
+  title="FAQ pembuatan skill - Pusat Bantuan Kimi"
   description="Pertanyaan umum seputar pembuatan Kimi Skills, termasuk unggah dokumen, penggunaan token, batas frekuensi, penamaan skill, dan penanganan kegagalan pembuatan."
 />
 

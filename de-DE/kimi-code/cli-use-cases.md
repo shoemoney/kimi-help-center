@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Häufige Anwendungsfälle - Kimi Help Center"
+  title="Häufige Anwendungsfälle - Kimi Hilfecenter"
   description="Hier finden Sie einige typische Szenarien für den Einsatz der Kimi Code CLI im Entwickleralltag – jeweils mit Beispiel-Prompts zur Orientierung."
 />
 

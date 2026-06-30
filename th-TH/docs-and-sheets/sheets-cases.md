@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="กรณีการใช้งานและคลังพรอมป์ของ Kimi Sheets - Kimi Help Center"
+  title="กรณีการใช้งานและคลังพรอมป์ของ Kimi Sheets - ศูนย์ช่วยเหลือ Kimi"
   description="ตัวอย่างกรณีการใช้งานและพรอมป์สำหรับ Kimi Sheets — ตั้งแต่การประเมินมูลค่าทางการเงินไปจนถึงการสร้างสตอรีบอร์ด"
 />
 

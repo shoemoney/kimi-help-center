@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Credit-Aktualisierung und Nutzungsregeln - Kimi Help Center"
+  title="Credit-Aktualisierung und Nutzungsregeln - Kimi Hilfecenter"
   description="Zu den Kimi-Mitgliedsvorteilen gehören zwei Credit-Pools. Kimi Code nutzt einen eigenen quota-Pool; die übrigen Mitgliedsfunktionen teilen sich einen Credit-Pool, wobei Credits nach tatsächlicher Nutzung verbraucht werden."
 />
 

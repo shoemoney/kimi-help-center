@@ -8,7 +8,7 @@ preview_content: "Guida alla risoluzione dei problemi e all'invio di feedback pe
 ---
 
 <SeoMeta
-  title="Cosa fare se la generazione delle Slides si blocca? - Kimi Help Center"
+  title="Cosa fare se la generazione delle Slides si blocca? - Centro assistenza Kimi"
   description="Se il processo di generazione si interrompe e il file non viene mai completato, di solito la causa è un errore nella generazione delle Slides."
 />
 

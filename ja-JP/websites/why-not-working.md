@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Agent が構築したWebサイトが動かないのはなぜですか？ - Kimi Help Center"
+  title="Agent が構築したWebサイトが動かないのはなぜですか？ - Kimi ヘルプセンター"
   description="フルスタックプロジェクトは、フロントエンドUI、バックエンドサービス、永続ストレージで構成されます。Kimi Agent はそのすべてを生成できますが、正しく実行できるかは env..."
 />
 

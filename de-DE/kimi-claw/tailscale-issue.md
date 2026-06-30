@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Tailscale-Verbindungsabbruch - Kimi Help Center"
+  title="Tailscale-Verbindungsabbruch - Kimi Hilfecenter"
   description="Wenn Kimi Claw nach der Einrichtung von Tailscale die Verbindung verliert, liegt die Ursache fast immer in einer DNS-Überschreibung – Tailscale ersetzt die DNS-Einstellungen des Systems, was b..."
 />
 

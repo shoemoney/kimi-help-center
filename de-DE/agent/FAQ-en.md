@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="FAQ zum Erstellen von Skills - Kimi Help Center"
+  title="FAQ zum Erstellen von Skills - Kimi Hilfecenter"
   description="Häufige Fragen zum Erstellen von Kimi Skills, darunter Dokument-Uploads, Token-Verbrauch, Häufigkeitsbeschränkungen, Skill-Benennung und der Umgang mit fehlgeschlagenen Erstellungen."
 />
 

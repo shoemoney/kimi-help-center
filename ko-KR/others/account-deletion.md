@@ -8,7 +8,7 @@ preview_content: "계정, 프로필, 데이터 관리에 관한 자주 묻는 �
 ---
 
 <SeoMeta
-  title="계정 삭제 및 데이터 제거 - Kimi Help Center"
+  title="계정 삭제 및 데이터 제거 - Kimi 도움말 센터"
   description="계정, 프로필, 데이터 관리에 관한 자주 묻는 질문의 답을 확인하세요."
 />
 

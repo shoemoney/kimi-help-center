@@ -8,7 +8,7 @@ preview_content: "Anleitung zur Installation, Anmeldung und für die ersten Schr
 ---
 
 <SeoMeta
-  title="Kimi Code CLI – Installation & Schnellstart – Kimi Help Center"
+  title="Kimi Code CLI – Installation & Schnellstart – Kimi Hilfecenter"
   description="Erste Schritte mit der Kimi Code CLI: Installationsbefehle, Nutzung im Terminal und Browser, erstmalige Anmeldung und Erstellen von AGENTS.md mit /init."
 />
 

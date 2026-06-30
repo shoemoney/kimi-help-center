@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Tidak merespons atau lambat? - Kimi Help Center"
+  title="Tidak merespons atau lambat? - Pusat Bantuan Kimi"
   description="Jika Kimi Claw tidak membalas atau terasa sangat lambat, ada beberapa kemungkinan penyebabnya. Ikuti langkah pemecahan masalah di bawah ini."
 />
 

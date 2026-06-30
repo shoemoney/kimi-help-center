@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi Business FAQ - Kimi Help Center"
+  title="Kimi Business FAQ - Kimi Hilfecenter"
   description="Häufig gestellte Fragen zum Unternehmenstarif Kimi Business, darunter Team-Berechtigung, mehrere Organisationen, Aktivierung von Leistungen, Hinzufügen von Plätzen und Übertragung der Administratorrolle."
 />
 

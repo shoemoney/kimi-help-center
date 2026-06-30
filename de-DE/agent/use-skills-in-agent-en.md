@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Skills im Agent-Modus verwenden - Kimi Help Center"
+  title="Skills im Agent-Modus verwenden - Kimi Hilfecenter"
   description="Erfahren Sie, wie Sie Skills aufrufen, eigene Skills erstellen, empfohlene Skills entdecken und die Fähigkeiten von Kimi im Agent-Modus erweitern."
   ogType="article"
 />

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="คู่มือสมาชิก Kimi Code - Kimi Help Center"
+  title="คู่มือสมาชิก Kimi Code - ศูนย์ช่วยเหลือ Kimi"
   description="Kimi Code คือสิทธิประโยชน์สำหรับนักพัฒนาภายในแพ็กเกจสมาชิก Kimi ที่มอบความสามารถด้านการเขียนโค้ดด้วย AI ประสิทธิภาพสูง คุณสามารถใช้สิทธิประโยชน์นี้ผ่าน..."
 />
 

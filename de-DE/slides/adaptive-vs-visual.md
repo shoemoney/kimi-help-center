@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Wie wählt man den Erstellungsmodus von Kimi Slides? - Kimi Help Center"
+  title="Wie wählt man den Erstellungsmodus von Kimi Slides? - Kimi Hilfecenter"
   description="Vergleichen Sie die beiden Generierungsmodi von Kimi Slides – den adaptiven Modus (personalisiertes KI-Design) und den visuellen Modus (mit Nano Banana Pro) – und erfahren Sie, wie Sie das passende Szenario und die richtige Vorlage für Ihre Präsentation auswählen."
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Unterstützte Plattformen - Kimi Help Center"
+  title="Unterstützte Plattformen - Kimi Hilfecenter"
   description="Kimi Claw ist auf den folgenden Plattformen verfügbar:"
 />
 

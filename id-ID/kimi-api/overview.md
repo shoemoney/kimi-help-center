@@ -8,7 +8,7 @@ preview_content: "Mulai gunakan platform Kimi API untuk pembuatan teks, percakap
 ---
 
 <SeoMeta
-  title="Sekilas tentang Kimi API - Kimi Help Center"
+  title="Sekilas tentang Kimi API - Pusat Bantuan Kimi"
   description="Mulai gunakan platform Kimi API untuk pembuatan teks, percakapan, penguraian berkas, dan pencarian web."
 />
 

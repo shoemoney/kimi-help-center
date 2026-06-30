@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="計費與財務 - Kimi Help Center"
+  title="計費與財務 - Kimi 說明中心"
   description="關於 Kimi API 計費、定價與付款的常見問題。"
 />
 

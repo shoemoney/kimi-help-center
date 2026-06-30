@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Consejos de uso - Kimi Help Center"
+  title="Consejos de uso - Centro de ayuda de Kimi"
   description="Kimi Claw no es solo una herramienta de preguntas y respuestas: es un asistente moldeable. Define las reglas y adopta una nueva personalidad. Enséñale un método y forma un hábito. Dale un..."
 />
 

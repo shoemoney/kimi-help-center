@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi WebBridge 的運作方式 - Kimi Help Center"
+  title="Kimi WebBridge 的運作方式 - Kimi 說明中心"
   description="了解 Kimi WebBridge 如何在本機將你的瀏覽器連接至 AI Agent，安全地進行網頁瀏覽、點擊、截圖等操作。"
   ogType="article"
 />

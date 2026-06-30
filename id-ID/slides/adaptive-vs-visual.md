@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Bagaimana Memilih Mode Pembuatan Kimi Slides? - Kimi Help Center"
+  title="Bagaimana Memilih Mode Pembuatan Kimi Slides? - Pusat Bantuan Kimi"
   description="Bandingkan dua mode pembuatan Kimi Slides—mode Adaptive (desain personal oleh AI) versus mode Visual (didukung nano banana pro)—dan pelajari cara memilih skenario serta templat yang tepat untuk presentasi Anda."
 />
 

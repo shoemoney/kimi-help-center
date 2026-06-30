@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Perte de mémoire et contexte - Kimi Help Center"
+  title="Perte de mémoire et contexte - Centre d'aide Kimi"
   description="OpenClaw réinitialise automatiquement la conversation chaque jour à 4 h 00. Cela évite que des contextes trop longs ne provoquent des hallucinations ou ne dégradent la qualité des réponses."
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="เริ่มต้นใช้งาน Kimi Code สำหรับ VS Code อย่างรวดเร็ว - Kimi Help Center"
+  title="เริ่มต้นใช้งาน Kimi Code สำหรับ VS Code อย่างรวดเร็ว - ศูนย์ช่วยเหลือ Kimi"
   description="Kimi Code สำหรับ VS Code เป็นส่วนขยายที่ผสานเข้ากับ Visual Studio Code เมื่อติดตั้งแล้ว คุณสามารถถามคำถาม ตรวจสอบความแตกต่างของโค้ด และคอมมิตการเปลี่ยนแปลงได้อย่างรวดเร็ว..."
 />
 

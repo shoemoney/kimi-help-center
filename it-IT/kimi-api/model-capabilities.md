@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Funzionalità dei modelli - Kimi Help Center"
+  title="Funzionalità dei modelli - Centro assistenza Kimi"
   description="Di seguito trovi le domande frequenti sulle funzionalità dei modelli della Kimi API."
 />
 

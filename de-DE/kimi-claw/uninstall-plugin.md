@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Das Kimi-Plug-in deinstallieren - Kimi Help Center"
+  title="Das Kimi-Plug-in deinstallieren - Kimi Hilfecenter"
   description="Dies gilt ausschließlich für selbst gehostete OpenClaw-Geräte, die Sie mit Kimi verknüpft haben. Stellen Sie sicher, dass Sie dies auf Ihrem eigenen Gerät ausführen."
 />
 

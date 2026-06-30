@@ -8,7 +8,7 @@ preview_content: "Usa gli obiettivi per far sì che Kimi Code lavori verso un ri
 ---
 
 <SeoMeta
-  title="Obiettivi - Kimi Help Center"
+  title="Obiettivi - Centro assistenza Kimi"
   description="Usa /goal per far sì che Kimi Code lavori verso un risultato definito attraverso i vari turni. Scopri quando usare gli obiettivi, come gestirne il ciclo di vita e come mettere in coda gli obiettivi successivi."
 />
 

@@ -9,7 +9,7 @@ preview: false
 # Funciones y limitaciones del Agent
 
 <SeoMeta
-  title="Funciones y limitaciones del Agent - Kimi Help Center"
+  title="Funciones y limitaciones del Agent - Centro de ayuda de Kimi"
   description="Conoce las capacidades de Kimi Agent, consejos de uso, limitaciones y mejores prácticas para obtener resultados óptimos."
 />
 

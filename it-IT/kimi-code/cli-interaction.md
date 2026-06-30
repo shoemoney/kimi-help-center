@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Interazione e input - Kimi Help Center"
+  title="Interazione e input - Centro assistenza Kimi"
   description="La CLI di Kimi Code offre diversi metodi di interazione per collaborare con l'AI in modo efficiente."
 />
 

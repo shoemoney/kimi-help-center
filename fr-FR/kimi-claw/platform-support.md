@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Plateformes prises en charge - Kimi Help Center"
+  title="Plateformes prises en charge - Centre d'aide Kimi"
   description="Kimi Claw est disponible sur les plateformes suivantes :"
 />
 

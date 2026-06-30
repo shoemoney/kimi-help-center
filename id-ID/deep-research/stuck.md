@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Deep Research macet atau tidak memberikan hasil? - Kimi Help Center"
+  title="Deep Research macet atau tidak memberikan hasil? - Pusat Bantuan Kimi"
   description="Deep Research melakukan pencarian web ekstensif, verifikasi sumber, dan penalaran. Halaman yang belum diperbarui secara visual bukan berarti tugasnya terputus..."
 />
 

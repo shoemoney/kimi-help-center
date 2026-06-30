@@ -8,7 +8,7 @@ preview_content: "เริ่มต้นใช้งานแพลตฟอ�
 ---
 
 <SeoMeta
-  title="ภาพรวม Kimi API - Kimi Help Center"
+  title="ภาพรวม Kimi API - ศูนย์ช่วยเหลือ Kimi"
   description="เริ่มต้นใช้งานแพลตฟอร์ม Kimi API สำหรับการสร้างข้อความ การสนทนา การแยกวิเคราะห์ไฟล์ และ Web Search"
 />
 

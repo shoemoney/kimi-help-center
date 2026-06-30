@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="API-Preise - Kimi Help Center"
+  title="API-Preise - Kimi Hilfecenter"
   description="Die Abrechnung der Kimi API erfolgt nach Token-Verbrauch, mit modell- und funktionsspezifischen Preisen."
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="プロンプトの基本 - Kimi Help Center"
+  title="プロンプトの基本 - Kimi ヘルプセンター"
   description="プロンプトとは、Kimi に送るテキスト形式の指示です。質問、説明、要件の一覧、あるいはタスク全体のブリーフにもなります。Kimi はあなたの..."
 />
 

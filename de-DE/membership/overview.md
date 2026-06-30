@@ -8,7 +8,7 @@ preview_content: "Vergleichen Sie Kimis fünf Mitgliedschaftsstufen, das credit-
 ---
 
 <SeoMeta
-  title="Übersicht der Kimi-Mitgliedschaft – Kimi Help Center"
+  title="Übersicht der Kimi-Mitgliedschaft – Kimi Hilfecenter"
   description="Vergleichen Sie Kimis fünf Mitgliedschaftsstufen, das credit-System und die Abrechnungsoptionen."
 />
 

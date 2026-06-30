@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Rechnungen - Kimi Help Center"
+  title="Rechnungen - Kimi Hilfecenter"
   description="Kimi ermöglicht die Selbstbedienungs-Erstellung von Rechnungen für Ihre Mitgliedszahlungen."
 />
 

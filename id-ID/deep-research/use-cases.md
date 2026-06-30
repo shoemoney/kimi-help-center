@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Contoh penggunaan \u0026 kumpulan prompt Deep Research - Kimi Help Center"
+  title="Contoh penggunaan \u0026 kumpulan prompt Deep Research - Pusat Bantuan Kimi"
   description="Saya seorang analis sekuritas profesional. Tolong bantu saya melakukan analisis mendalam terhadap Pop Mart dari sudut pandang finansial. Analisis ini harus mencakup, tetapi..."
 />
 

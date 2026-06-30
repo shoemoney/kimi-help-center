@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="一般疑難排解 - Kimi Help Center"
+  title="一般疑難排解 - Kimi 說明中心"
   description="本頁說明 Kimi Claw 常見錯誤代碼與自行修復選項。"
 />
 

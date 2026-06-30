@@ -8,7 +8,7 @@ preview_content: "Pelajari eksekusi tugas otonom K2.6 Agent, lebih dari 20 tool,
 ---
 
 <SeoMeta
-  title="Sekilas tentang K2.6 Agent - Kimi Help Center"
+  title="Sekilas tentang K2.6 Agent - Pusat Bantuan Kimi"
   description="Kenali kemampuan, evolusi, dan kasus penggunaan Kimi K2.6 Agent."
 />
 

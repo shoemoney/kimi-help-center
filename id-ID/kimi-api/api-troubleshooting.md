@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Pemecahan masalah API - Kimi Help Center"
+  title="Pemecahan masalah API - Pusat Bantuan Kimi"
   description="Masalah umum dan solusinya bagi developer yang menggunakan Kimi API."
 />
 

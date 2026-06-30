@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="İletişim \u0026 geri bildirim - Kimi Help Center"
+  title="İletişim \u0026 geri bildirim - Kimi Yardım Merkezi"
   description="S: Geri bildirimi nereden gönderebilirim?"
 />
 

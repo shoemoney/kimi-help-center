@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Limiti delle conversazioni - Kimi Help Center"
+  title="Limiti delle conversazioni - Centro assistenza Kimi"
   description="Quando il contesto della conversazione diventa troppo lungo e supera il limite di token del modello, Kimi Claw potrebbe smettere di rispondere o restituire un errore."
 />
 

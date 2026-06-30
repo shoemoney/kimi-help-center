@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Rate limit - Kimi Help Center"
+  title="Rate limit - Pusat Bantuan Kimi"
   description="Kimi API menerapkan rate limit pada frekuensi dan concurrency permintaan untuk menjaga stabilitas platform serta pemakaian yang adil. Tingkatan rate limit ditentukan oleh akun Anda..."
 />
 

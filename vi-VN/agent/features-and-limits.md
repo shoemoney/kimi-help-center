@@ -9,7 +9,7 @@ preview: false
 # Tính năng & giới hạn của Agent
 
 <SeoMeta
-  title="Agent Features \u0026 Limitations - Kimi Help Center"
+  title="Agent Features \u0026 Limitations - Trung tâm trợ giúp Kimi"
   description="Tìm hiểu về khả năng, mẹo sử dụng, giới hạn và các phương pháp tối ưu của Kimi Agent để đạt kết quả tốt nhất."
 />
 

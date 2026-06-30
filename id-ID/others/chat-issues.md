@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Masalah umum pada chat Kimi - Kimi Help Center"
+  title="Masalah umum pada chat Kimi - Pusat Bantuan Kimi"
   description="Hal ini mungkin disebabkan oleh:"
 />
 

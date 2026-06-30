@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Batas percakapan - Kimi Help Center"
+  title="Batas percakapan - Pusat Bantuan Kimi"
   description="Ketika konteks percakapan menjadi terlalu panjang dan melampaui batas token model, Kimi Claw bisa berhenti merespons atau menampilkan pesan error."
 />
 

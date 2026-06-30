@@ -8,7 +8,7 @@ preview_content: "Entdecken Sie Kimis Chat-Modi, KI-Agenten, Dateiverarbeitung u
 ---
 
 <SeoMeta
-  title="Kimi im Überblick - Kimi Help Center"
+  title="Kimi im Überblick - Kimi Hilfecenter"
   description="Entdecken Sie Kimis Chat-Modi, KI-Agenten, Dateiverarbeitung und die Oberfläche für einen gelungenen Einstieg."
 />
 

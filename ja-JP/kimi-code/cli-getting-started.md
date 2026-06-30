@@ -8,7 +8,7 @@ preview_content: "Kimi Code CLIのインストール、ログイン、入門ガ�
 ---
 
 <SeoMeta
-  title="Kimi Code CLIのインストールとクイックスタート - Kimi Help Center"
+  title="Kimi Code CLIのインストールとクイックスタート - Kimi ヘルプセンター"
   description="Kimi Code CLIを始めましょう。インストールコマンド、ターミナルとブラウザでの使い方、初回ログイン、/initによるAGENTS.md生成までを説明します。"
 />
 

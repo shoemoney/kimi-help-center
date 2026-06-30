@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Anpassung \u0026 Referenz - Kimi Help Center"
+  title="Anpassung \u0026 Referenz - Kimi Hilfecenter"
   description="Die Kimi Code CLI bietet umfangreiche Anpassungsmöglichkeiten, mit denen Sie das Verhalten und den Arbeitsablauf der KI an Ihre Bedürfnisse anpassen können."
 />
 

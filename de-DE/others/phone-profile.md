@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Konto- und Profileinstellungen - Kimi Help Center"
+  title="Konto- und Profileinstellungen - Kimi Hilfecenter"
   description="Ja. Gehen Sie zu:"
 />
 

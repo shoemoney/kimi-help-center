@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Akun \u0026 autentikasi - Kimi Help Center"
+  title="Akun \u0026 autentikasi - Pusat Bantuan Kimi"
   description="Pertanyaan yang sering diajukan seputar akun developer Kimi API, verifikasi, dan autentikasi."
 />
 

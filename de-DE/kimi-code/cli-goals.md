@@ -8,7 +8,7 @@ preview_content: "Mit Zielen sorgst du dafür, dass Kimi Code über mehrere Schr
 ---
 
 <SeoMeta
-  title="Ziele - Kimi Help Center"
+  title="Ziele - Kimi Hilfecenter"
   description="Nutze /goal, damit Kimi Code über mehrere Schritte hinweg auf ein definiertes Ergebnis hinarbeitet. Erfahre, wann sich Ziele lohnen, wie du ihren Lebenszyklus steuerst und wie du kommende Ziele in die Warteschlange stellst."
 />
 

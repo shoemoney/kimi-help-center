@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="ツール連携 - Kimi Help Center"
+  title="ツール連携 - Kimi ヘルプセンター"
   description="IDE 連携に加えて、Kimi Code CLI はほかのツールにも組み込めるため、ターミナルでの作業フローを強化できます。"
 />
 

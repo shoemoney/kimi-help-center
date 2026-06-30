@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Tarifwechsel - Kimi Help Center"
+  title="Tarifwechsel - Kimi Hilfecenter"
   description="Sie können Ihre Kimi-Mitgliedschaft jederzeit anpassen. So funktionieren Upgrades und Downgrades."
 />
 

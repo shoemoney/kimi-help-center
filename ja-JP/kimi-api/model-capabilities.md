@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="モデル機能 - Kimi Help Center"
+  title="モデル機能 - Kimi ヘルプセンター"
   description="Kimi API のモデル機能に関するよくある質問をまとめています。"
 />
 

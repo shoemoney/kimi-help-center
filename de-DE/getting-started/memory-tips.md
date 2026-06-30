@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Tipps zum Memory - Kimi Help Center"
+  title="Tipps zum Memory - Kimi Hilfecenter"
   description="Ich bin Name/Spitzname und lebe derzeit in Stadt. Hintergrund in Beruf/Rolle, mit Fachkenntnissen in Bereich 1 und Bereich 2."
 />
 

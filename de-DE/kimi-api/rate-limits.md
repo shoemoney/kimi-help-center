@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Rate Limits - Kimi Help Center"
+  title="Rate Limits - Kimi Hilfecenter"
   description="Die Kimi API erzwingt rate limits für Anfragehäufigkeit und concurrency, um die Stabilität der Plattform und eine faire Nutzung zu gewährleisten. Die rate-limit-Stufen richten sich nach dem..."
 />
 

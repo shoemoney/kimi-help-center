@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Apa itu Skills? - Kimi Help Center"
+  title="Apa itu Skills? - Pusat Bantuan Kimi"
   description="Pelajari cara kerja, jenis, dan penggunaan Kimi Skills. Skills adalah paket pengetahuan yang dapat digunakan kembali untuk memperluas kemampuan Agent dalam tugas tertentu, berisi instruksi, praktik terbaik, skrip, dan sumber daya."
   ogType="article"
 />

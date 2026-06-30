@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kode kesalahan API - Kimi Help Center"
+  title="Kode kesalahan API - Pusat Bantuan Kimi"
   description="Kode kesalahan umum saat memanggil Kimi API dan cara mengatasinya."
 />
 

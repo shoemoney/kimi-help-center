@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Des crédits déduits avant la fin de la tâche ? - Kimi Help Center"
+  title="Des crédits déduits avant la fin de la tâche ? - Centre d'aide Kimi"
   description="Deep Research comporte deux types de tâches : les « conversations standard » et l'« exécution de tâche ». La facturation s'applique selon le type de tâche..."
 />
 

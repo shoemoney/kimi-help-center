@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Mengapa situs web buatan agent tidak berfungsi? - Kimi Help Center"
+  title="Mengapa situs web buatan agent tidak berfungsi? - Pusat Bantuan Kimi"
   description="Proyek full-stack mencakup UI frontend, layanan backend, dan penyimpanan persisten. Kimi Agent dapat menghasilkan ketiganya, tetapi keberhasilan runtime bergantung pada env..."
 />
 

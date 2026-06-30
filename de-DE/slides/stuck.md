@@ -8,7 +8,7 @@ preview_content: "Leitfaden zur Fehlerbehebung und Rückmeldung für Slides: Fun
 ---
 
 <SeoMeta
-  title="Was tun, wenn die Slides-Erstellung hängen bleibt? - Kimi Help Center"
+  title="Was tun, wenn die Slides-Erstellung hängen bleibt? - Kimi Hilfecenter"
   description="Wenn der Erstellungsprozess stockt und die Datei nie fertig wird, liegt das meist an einem Fehler bei der Slides-Erstellung."
 />
 

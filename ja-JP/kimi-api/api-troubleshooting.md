@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="API トラブルシューティング - Kimi Help Center"
+  title="API トラブルシューティング - Kimi ヘルプセンター"
   description="Kimi API を利用する開発者向けのよくある問題と解決方法。"
 />
 

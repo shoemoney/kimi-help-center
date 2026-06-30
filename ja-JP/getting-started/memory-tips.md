@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="メモリー活用のコツ - Kimi Help Center"
+  title="メモリー活用のコツ - Kimi ヘルプセンター"
   description="私は[name/nickname]で、現在[city]を拠点にしています。[profession/role]の経験があり、[area 1]と[area 2]を専門としています。"
 />
 

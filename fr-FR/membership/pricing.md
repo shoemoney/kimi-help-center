@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Détails de tarification - Kimi Help Center"
+  title="Détails de tarification - Centre d'aide Kimi"
   description="Kimi propose cinq formules d'abonnement — dont une formule gratuite — chacune disponible en abonnement mensuel ou annuel. La facturation annuelle vous permet d'économiser jusqu'à 480 $/an."
 />
 

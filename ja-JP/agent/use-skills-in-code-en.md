@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi Code で Skill を使う - Kimi Help Center"
+  title="Kimi Code で Skill を使う - Kimi ヘルプセンター"
   description="Kimi Code CLI で Skill を作成・呼び出し、チームのコーディング規約を標準化し、開発ワークフローを自動化する方法を説明します。"
   ogType="article"
 />

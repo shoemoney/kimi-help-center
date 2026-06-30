@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="การตั้งค่าบัญชีและโปรไฟล์ - Kimi Help Center"
+  title="การตั้งค่าบัญชีและโปรไฟล์ - ศูนย์ช่วยเหลือ Kimi"
   description="ได้ ไปที่:"
 />
 

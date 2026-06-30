@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="프롬프트 기본 사항 - Kimi Help Center"
+  title="프롬프트 기본 사항 - Kimi 도움말 센터"
   description="프롬프트는 Kimi에게 보내는 텍스트 지시문입니다. 질문, 설명, 요구 사항 모음, 또는 완성된 작업 브리프가 될 수 있습니다. Kimi는 사용자의..."
 />
 

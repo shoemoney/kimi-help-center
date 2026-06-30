@@ -8,7 +8,7 @@ preview_content: "Domande frequenti su Kimi Code."
 ---
 
 <SeoMeta
-  title="Domande frequenti su Kimi Code - Kimi Help Center"
+  title="Domande frequenti su Kimi Code - Centro assistenza Kimi"
   description="Domande frequenti su installazione, autenticazione, migrazione, interazione e altro ancora della CLI di Kimi Code."
 />
 

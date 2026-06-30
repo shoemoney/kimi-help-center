@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Vorteile - Kimi Help Center"
+  title="Vorteile - Kimi Hilfecenter"
   description="Kimi Code ist ein im Kimi-Abo enthaltener Dienst, der Coding-bezogene Unterstützung und Funktionen bietet, damit Mitglieder Programmieraufgaben in ihrem persönlichen Entwicklungsworkflow effizienter erledigen ..."
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="แนวคิดหลักและเทอร์มินัล - Kimi Help Center"
+  title="แนวคิดหลักและเทอร์มินัล - ศูนย์ช่วยเหลือ Kimi"
   description="Image: 截图30"
 />
 

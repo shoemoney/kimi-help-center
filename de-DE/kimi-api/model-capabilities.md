@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Modellfähigkeiten - Kimi Help Center"
+  title="Modellfähigkeiten - Kimi Hilfecenter"
   description="Nachfolgend finden Sie häufig gestellte Fragen zu den Modellfähigkeiten der Kimi API."
 />
 

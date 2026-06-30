@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Penangguhan akun \u0026 banding - Kimi Help Center"
+  title="Penangguhan akun \u0026 banding - Pusat Bantuan Kimi"
   description="Jika Anda melanggar hukum yang berlaku, perjanjian pengguna, atau kebijakan platform, platform dapat mengambil tindakan termasuk memblokir konten, membekukan/mentransfer aku..."
 />
 

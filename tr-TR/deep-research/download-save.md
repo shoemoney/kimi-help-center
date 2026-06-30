@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Deep Research raporunu indiremiyor ya da kaydedemiyor musunuz? - Kimi Help Center"
+  title="Deep Research raporunu indiremiyor ya da kaydedemiyor musunuz? - Kimi Yardım Merkezi"
   description="Deep Research iki tür rapor oluşturur ve her ikisini de indirebilirsiniz."
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Bị trừ credit trước khi tác vụ hoàn tất? - Kimi Help Center"
+  title="Bị trừ credit trước khi tác vụ hoàn tất? - Trung tâm trợ giúp Kimi"
   description="Deep Research có hai loại tác vụ: &quot;trò chuyện thông thường&quot; và &quot;thực thi tác vụ.&quot; Việc tính phí được áp dụng dựa trên tác vụ..."
 />
 

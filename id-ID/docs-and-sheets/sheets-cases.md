@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Contoh kasus penggunaan \u0026 koleksi prompt Kimi Sheets - Kimi Help Center"
+  title="Contoh kasus penggunaan \u0026 koleksi prompt Kimi Sheets - Pusat Bantuan Kimi"
   description="Contoh kasus penggunaan dan prompt untuk Kimi Sheets — mulai dari valuasi keuangan hingga pembuatan storyboard."
 />
 

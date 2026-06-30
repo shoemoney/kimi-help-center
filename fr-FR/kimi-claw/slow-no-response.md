@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Pas de réponse ou lenteur ? - Kimi Help Center"
+  title="Pas de réponse ou lenteur ? - Centre d'aide Kimi"
   description="Si Kimi Claw ne répond pas ou se montre anormalement lent, plusieurs causes sont possibles. Suivez la démarche de dépannage ci-dessous."
 />
 

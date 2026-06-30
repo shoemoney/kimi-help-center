@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Allgemeine Fehlerbehebung - Kimi Help Center"
+  title="Allgemeine Fehlerbehebung - Kimi Hilfecenter"
   description="Diese Seite behandelt häufige Fehlercodes und Optionen zur Selbstreparatur für Kimi Claw."
 />
 

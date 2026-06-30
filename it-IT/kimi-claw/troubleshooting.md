@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Risoluzione dei problemi generali - Kimi Help Center"
+  title="Risoluzione dei problemi generali - Centro assistenza Kimi"
   description="Questa pagina illustra i codici di errore più comuni e le opzioni di riparazione automatica per Kimi Claw."
 />
 

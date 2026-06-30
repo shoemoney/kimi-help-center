@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Saldo y uso - Kimi Help Center"
+  title="Saldo y uso - Centro de ayuda de Kimi"
   description="La API de Kimi ofrece varias maneras de consultar el saldo de tu cuenta y los detalles de uso, para ayudarte a controlar el consumo y los costos."
 />
 

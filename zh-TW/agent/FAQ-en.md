@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="建立技能常見問題 - Kimi Help Center"
+  title="建立技能常見問題 - Kimi 說明中心"
   description="關於建立 Kimi Skills 的常見問題，涵蓋文件上傳、token 使用、頻率限制、技能命名，以及建立失敗的處理方式。"
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Phiên làm việc \u0026 ngữ cảnh - Kimi Help Center"
+  title="Phiên làm việc \u0026 ngữ cảnh - Trung tâm trợ giúp Kimi"
   description="Kimi Code CLI hỗ trợ quản lý nhiều phiên làm việc và lưu giữ ngữ cảnh, cho phép bạn tạm dừng và tiếp tục công việc bất cứ lúc nào."
 />
 

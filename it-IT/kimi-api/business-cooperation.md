@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Collaborazioni commerciali e vendite - Kimi Help Center"
+  title="Collaborazioni commerciali e vendite - Centro assistenza Kimi"
   description="Opzioni di partnership per i clienti aziendali — dagli sconti sui volumi agli SLA personalizzati."
 />
 

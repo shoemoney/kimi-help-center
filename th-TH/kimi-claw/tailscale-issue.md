@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="การหลุดการเชื่อมต่อของ Tailscale - Kimi Help Center"
+  title="การหลุดการเชื่อมต่อของ Tailscale - ศูนย์ช่วยเหลือ Kimi"
   description="หาก Kimi Claw เชื่อมต่อไม่ได้หลังจากที่คุณตั้งค่า Tailscale สาเหตุมักมาจากการ override ค่า DNS เสมอ — Tailscale จะแทนที่การตั้งค่า DNS ของระบบ ซึ่ง..."
 />
 

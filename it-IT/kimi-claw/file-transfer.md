@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Trasferimento di file - Kimi Help Center"
+  title="Trasferimento di file - Centro assistenza Kimi"
   description="Kimi Claw consente di inviare e ricevere file."
 />
 

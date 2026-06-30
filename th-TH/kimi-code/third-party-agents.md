@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="การใช้งานร่วมกับ coding agent ของบุคคลที่สาม - Kimi Help Center"
+  title="การใช้งานร่วมกับ coding agent ของบุคคลที่สาม - ศูนย์ช่วยเหลือ Kimi"
   description="สิทธิประโยชน์ Kimi Code ใช้งานได้ร่วมกับ Claude Code และ Roo Code ช่วยให้คุณเพลิดเพลินกับความสามารถ AI ของ Kimi ในเครื่องมือเขียนโค้ดที่คุณชื่นชอบ"
 />
 

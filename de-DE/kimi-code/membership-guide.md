@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi Code – Mitgliedschaftsleitfaden - Kimi Help Center"
+  title="Kimi Code – Mitgliedschaftsleitfaden - Kimi Hilfecenter"
   description="Kimi Code ist ein speziell auf Entwickler zugeschnittener Vorteil im Rahmen der Kimi-Mitgliedschaft und bietet leistungsstarke KI-gestützte Programmierfunktionen. Sie können diesen Vorteil über..."
 />
 

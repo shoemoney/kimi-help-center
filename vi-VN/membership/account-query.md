@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Tra cứu tài khoản \u0026 credit - Kimi Help Center"
+  title="Tra cứu tài khoản \u0026 credit - Trung tâm trợ giúp Kimi"
   description="Sau khi mua gói thành viên, các quyền lợi của bạn thường được kích hoạt ngay lập tức. Nếu có gì đó bất thường, hãy tham khảo các hướng dẫn dưới đây."
 />
 

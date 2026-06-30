@@ -8,7 +8,7 @@ preview_content: "自然言語による説明、デザインモックアップ�
 ---
 
 <SeoMeta
-  title="Kimi Websites 概要 - Kimi Help Center"
+  title="Kimi Websites 概要 - Kimi ヘルプセンター"
   description="自然言語による説明、デザインモックアップ、テンプレートからWebサイトを構築し、デプロイできます。"
 />
 

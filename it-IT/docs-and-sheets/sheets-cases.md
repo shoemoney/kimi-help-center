@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Casi d'uso e libreria di prompt di Kimi Sheets - Kimi Help Center"
+  title="Casi d'uso e libreria di prompt di Kimi Sheets - Centro assistenza Kimi"
   description="Esempi di casi d'uso e prompt per Kimi Sheets — dalla valutazione finanziaria alla creazione di storyboard."
 />
 

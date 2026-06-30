@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Tạm khóa tài khoản \u0026 khiếu nại - Kimi Help Center"
+  title="Tạm khóa tài khoản \u0026 khiếu nại - Trung tâm trợ giúp Kimi"
   description="Nếu bạn vi phạm pháp luật hiện hành, thỏa thuận người dùng hoặc chính sách của nền tảng, nền tảng có thể thực hiện các biện pháp như chặn nội dung, đóng băng/chuyển nhượng tài khoản, tạm dừng quyền lợi hoặc chấm dứt dịch vụ..."
 />
 

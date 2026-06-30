@@ -8,7 +8,7 @@ preview_content: "สำรวจโหมดแชต AI agent การจั�
 ---
 
 <SeoMeta
-  title="ภาพรวมของ Kimi - Kimi Help Center"
+  title="ภาพรวมของ Kimi - ศูนย์ช่วยเหลือ Kimi"
   description="สำรวจโหมดแชต AI agent การจัดการไฟล์ และคู่มือการใช้งานอินเทอร์เฟซของ Kimi เพื่อเริ่มต้นใช้งาน"
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="K2.6 Agent Swarm [Beta] - Kimi Help Center"
+  title="K2.6 Agent Swarm [Beta] - Trung tâm trợ giúp Kimi"
   description="K2.6 Agent Swarm Beta là một kiến trúc &quot;mở rộng theo chiều ngang&quot; phối hợp tới 300 sub-agent chạy song song — không cần vai trò định sẵn hay quy trình thủ công..."
 />
 

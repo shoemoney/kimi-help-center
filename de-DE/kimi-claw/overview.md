@@ -8,7 +8,7 @@ preview_content: "Stelle deinen eigenen Kimi Claw KI-Assistenten mit einem Klick
 ---
 
 <SeoMeta
-  title="Kimi Claw – Überblick - Kimi Help Center"
+  title="Kimi Claw – Überblick - Kimi Hilfecenter"
   description="Stelle deinen eigenen Kimi Claw KI-Assistenten mit einem Klick in der Cloud bereit und verwalte ihn."
 />
 

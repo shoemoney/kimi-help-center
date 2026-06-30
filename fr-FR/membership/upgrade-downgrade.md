@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Changement d'offre - Kimi Help Center"
+  title="Changement d'offre - Centre d'aide Kimi"
   description="Vous pouvez ajuster votre abonnement Kimi à tout moment. Voici comment fonctionnent les passages à une offre supérieure ou inférieure."
 />
 

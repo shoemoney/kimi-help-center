@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Account \u0026 profile settings - Kimi Help Center"
+  title="Account \u0026 profile settings - Kimi Yardım Merkezi"
   description="Yes. Navigate to:"
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Such- oder Argumentationsrichtung fehlgeschlagen? - Kimi Help Center"
+  title="Such- oder Argumentationsrichtung fehlgeschlagen? - Kimi Hilfecenter"
   description="Wenn die Suchrichtung oder Argumentation von Deep Research deutlich von den Erwartungen abweicht, klicken Sie unten auf der Seite auf die Schaltfläche &quot;👎&quot; und beschreiben Sie kurz das Problem ..."
 />
 

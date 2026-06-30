@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Deep Research takıldı ya da sonuç döndürmüyor mu? - Kimi Help Center"
+  title="Deep Research takıldı ya da sonuç döndürmüyor mu? - Kimi Yardım Merkezi"
   description="Deep Research kapsamlı web aramaları yapar, kaynakları doğrular ve akıl yürütür. Sayfanın görsel olarak güncellenmemesi, görevin kesintiye uğradığı anlamına gelmez..."
 />
 

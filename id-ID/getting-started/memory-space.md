@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Memory Space - Kimi Help Center"
+  title="Memory Space - Pusat Bantuan Kimi"
   description="Kimi benar-benar belajar mendengarkan — semakin banyak Anda berbicara, semakin baik ia memahami Anda. Begini cara kerjanya:"
 />
 

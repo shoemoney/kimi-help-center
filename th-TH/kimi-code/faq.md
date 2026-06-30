@@ -8,7 +8,7 @@ preview_content: "คำถามที่พบบ่อยเกี่ยว�
 ---
 
 <SeoMeta
-  title="คำถามที่พบบ่อยเกี่ยวกับ Kimi Code - Kimi Help Center"
+  title="คำถามที่พบบ่อยเกี่ยวกับ Kimi Code - ศูนย์ช่วยเหลือ Kimi"
   description="คำถามที่พบบ่อยเกี่ยวกับการติดตั้ง การยืนยันตัวตน การย้ายข้อมูล การโต้ตอบ และอื่น ๆ ของ Kimi Code CLI"
 />
 

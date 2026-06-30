@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="กฎการอัปเดตและการใช้ credit - Kimi Help Center"
+  title="กฎการอัปเดตและการใช้ credit - ศูนย์ช่วยเหลือ Kimi"
   description="สิทธิประโยชน์สมาชิก Kimi ประกอบด้วย credit สองกลุ่ม โดย Kimi Code ใช้ quota แยกต่างหาก ส่วนฟีเจอร์สมาชิกอื่น ๆ ใช้ credit ร่วมกันหนึ่งกลุ่ม และ credit จะถูกหักตามการใช้งานจริง"
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Tips penggunaan - Kimi Help Center"
+  title="Tips penggunaan - Pusat Bantuan Kimi"
   description="Kimi Claw bukan sekadar alat tanya-jawab — ia adalah asisten yang bisa dibentuk. Tetapkan aturan dan ia mengadopsi kepribadian baru. Ajari satu metode dan ia membentuk kebiasaan. Beri ia..."
 />
 

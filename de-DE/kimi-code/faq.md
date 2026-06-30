@@ -8,7 +8,7 @@ preview_content: "Häufig gestellte Fragen zu Kimi Code."
 ---
 
 <SeoMeta
-  title="Kimi Code FAQ - Kimi Help Center"
+  title="Kimi Code FAQ - Kimi Hilfecenter"
   description="Häufig gestellte Fragen zur Installation, Authentifizierung, Migration und Bedienung von Kimi Code CLI und mehr."
 />
 

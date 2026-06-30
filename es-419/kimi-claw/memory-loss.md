@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Pérdida de memoria y contexto - Kimi Help Center"
+  title="Pérdida de memoria y contexto - Centro de ayuda de Kimi"
   description="OpenClaw reinicia automáticamente la conversación todos los días a las 4:00 a. m. Esto evita que los contextos demasiado largos provoquen alucinaciones o una menor calidad en las respuestas."
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Sesi \u0026 konteks - Kimi Help Center"
+  title="Sesi \u0026 konteks - Pusat Bantuan Kimi"
   description="Kimi Code CLI mendukung pengelolaan multi-sesi dan persistensi konteks, sehingga Anda dapat menjeda dan melanjutkan pekerjaan kapan saja."
 />
 

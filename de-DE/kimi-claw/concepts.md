@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Grundlagen \u0026 Terminal - Kimi Help Center"
+  title="Grundlagen \u0026 Terminal - Kimi Hilfecenter"
   description="Image: 截图30"
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Annullare l'abbonamento - Kimi Help Center"
+  title="Annullare l'abbonamento - Centro assistenza Kimi"
   description="Puoi annullare il rinnovo automatico in qualsiasi momento. Dopo l'annullamento, i vantaggi del tuo abbonamento restano attivi fino alla fine del ciclo di fatturazione in corso."
 />
 

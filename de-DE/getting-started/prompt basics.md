@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Grundlagen des Promptings - Kimi Help Center"
+  title="Grundlagen des Promptings - Kimi Hilfecenter"
   description="Ein Prompt ist die textbasierte Anweisung, die Sie an Kimi senden – es kann eine Frage, eine Beschreibung, eine Reihe von Anforderungen oder sogar ein vollständiger Aufgabenauftrag sein. Kimi nutzt Ihren..."
 />
 

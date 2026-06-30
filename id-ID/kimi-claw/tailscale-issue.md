@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Tailscale terputus - Kimi Help Center"
+  title="Tailscale terputus - Pusat Bantuan Kimi"
   description="Jika Kimi Claw kehilangan koneksi setelah Anda menyiapkan Tailscale, penyebabnya hampir selalu penggantian DNS — Tailscale mengubah pengaturan DNS sistem, yang m..."
 />
 

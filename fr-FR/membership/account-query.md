@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Compte et crédits - Kimi Help Center"
+  title="Compte et crédits - Centre d'aide Kimi"
   description="Après l'achat d'un abonnement, vos avantages s'activent généralement aussitôt. Si quelque chose semble anormal, consultez les guides ci-dessous."
 />
 

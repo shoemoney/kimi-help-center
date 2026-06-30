@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="เคล็ดลับการใช้ Memory - Kimi Help Center"
+  title="เคล็ดลับการใช้ Memory - ศูนย์ช่วยเหลือ Kimi"
   description="ฉันชื่อ/ชื่อเล่น ตอนนี้อยู่ที่เมือง มีพื้นฐานด้านอาชีพ/บทบาท และเชี่ยวชาญในด้าน 1 กับด้าน 2"
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="FAQ sulla creazione delle skill - Kimi Help Center"
+  title="FAQ sulla creazione delle skill - Centro assistenza Kimi"
   description="Domande frequenti sulla creazione delle Kimi Skills, tra cui caricamento di documenti, utilizzo dei token, limiti di frequenza, denominazione delle skill e gestione degli errori di creazione."
 />
 

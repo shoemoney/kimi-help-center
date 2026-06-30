@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Consigli sulla memoria - Kimi Help Center"
+  title="Consigli sulla memoria - Centro assistenza Kimi"
   description="Sono nome/soprannome, attualmente residente a città. Ho una formazione in professione/ruolo, con competenze in area 1 e area 2."
 />
 

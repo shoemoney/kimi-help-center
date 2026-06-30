@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Model yetenekleri - Kimi Help Center"
+  title="Model yetenekleri - Kimi Yardım Merkezi"
   description="Kimi API model yetenekleri hakkında sıkça sorulan sorular aşağıdadır."
 />
 

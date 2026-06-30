@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Quota e fatturazione di Agent - Kimi Help Center"
+  title="Quota e fatturazione di Agent - Centro assistenza Kimi"
   description="La modalità Agent utilizza il sistema di quota di Kimi. Tutti i vantaggi dell'abbonamento includono due pool di quota: Kimi Code utilizza un pool di quota separato; le altre funzionalità dell'abbonamento condividono un unico pool di quota, con la quota detratta in base al consumo effettivo di token."
 />
 

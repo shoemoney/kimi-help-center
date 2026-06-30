@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Panduan cepat Kimi Code untuk VS Code - Kimi Help Center"
+  title="Panduan cepat Kimi Code untuk VS Code - Pusat Bantuan Kimi"
   description="Kimi Code untuk VS Code adalah ekstensi yang terintegrasi ke dalam Visual Studio Code. Setelah dipasang, Anda dapat mengajukan pertanyaan, meninjau perbedaan kode, dan dengan cepat melakukan commit perubahan..."
 />
 

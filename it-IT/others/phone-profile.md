@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Impostazioni dell'account e del profilo - Kimi Help Center"
+  title="Impostazioni dell'account e del profilo - Centro assistenza Kimi"
   description="Sì. Vai a:"
 />
 

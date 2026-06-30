@@ -8,7 +8,7 @@ preview_content: "Lade mehrere Claws in einen gemeinsamen Gruppenchat ein und la
 ---
 
 <SeoMeta
-  title="Claw Gruppenchat – Überblick - Kimi Help Center"
+  title="Claw Gruppenchat – Überblick - Kimi Hilfecenter"
   description="Erfahre, wie du einen Claw-Gruppenchat erstellst, mehrere Claws einlädst, Aufgaben verteilst und mit Kimi Conductor die Zusammenarbeit mehrerer Agenten koordinierst."
   ogType="article"
 />

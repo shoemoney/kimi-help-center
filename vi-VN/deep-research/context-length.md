@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Độ dài ngữ cảnh của Deep Research là bao nhiêu? - Kimi Help Center"
+  title="Độ dài ngữ cảnh của Deep Research là bao nhiêu? - Trung tâm trợ giúp Kimi"
   description="Deep Research sử dụng độ dài ngữ cảnh 128K token, tương đương khoảng 200.000 từ."
 />
 

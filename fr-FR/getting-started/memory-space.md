@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Memory Space - Kimi Help Center"
+  title="Memory Space - Centre d'aide Kimi"
   description="Kimi a véritablement appris à vous écouter : plus vous échangez avec lui, mieux il vous comprend. Voici comment cela fonctionne :"
 />
 

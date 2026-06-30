@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Traitement des données et sécurité - Kimi Help Center"
+  title="Traitement des données et sécurité - Centre d'aide Kimi"
   description="FAQ sur la sécurité des données utilisateur et la protection de la vie privée pour l'API Kimi."
 />
 

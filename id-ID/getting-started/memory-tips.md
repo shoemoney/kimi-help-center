@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Tips memori - Kimi Help Center"
+  title="Tips memori - Pusat Bantuan Kimi"
   description="Saya nama/nama panggilan, saat ini berdomisili di kota. Berlatar belakang profesi/peran, dengan keahlian di bidang 1 dan bidang 2."
 />
 

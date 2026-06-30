@@ -8,7 +8,7 @@ preview_content: "Temukan jawaban atas pertanyaan umum seputar akun, profil, dan
 ---
 
 <SeoMeta
-  title="Penghapusan akun \u0026 data - Kimi Help Center"
+  title="Penghapusan akun \u0026 data - Pusat Bantuan Kimi"
   description="Temukan jawaban atas pertanyaan umum seputar akun, profil, dan pengelolaan data."
 />
 

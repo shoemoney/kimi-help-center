@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Bot Telegram - Kimi Help Center"
+  title="Bot Telegram - Centro assistenza Kimi"
   description="Collega Kimi Claw a Telegram per chattare con lui da qualsiasi dispositivo, senza bisogno di un browser."
 />
 

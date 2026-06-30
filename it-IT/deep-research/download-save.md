@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Non riesci a scaricare o salvare un report di Deep Research? - Kimi Help Center"
+  title="Non riesci a scaricare o salvare un report di Deep Research? - Centro assistenza Kimi"
   description="Deep Research genera due tipi di report ed entrambi possono essere scaricati."
 />
 

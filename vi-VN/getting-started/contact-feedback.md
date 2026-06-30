@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Liên hệ \u0026 phản hồi - Kimi Help Center"
+  title="Liên hệ \u0026 phản hồi - Trung tâm trợ giúp Kimi"
   description="Hỏi: Tôi có thể gửi phản hồi ở đâu?"
 />
 

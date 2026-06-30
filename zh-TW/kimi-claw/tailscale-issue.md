@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Tailscale 連線中斷 - Kimi Help Center"
+  title="Tailscale 連線中斷 - Kimi 說明中心"
   description="如果你設定 Tailscale 後 Kimi Claw 失去連線，原因幾乎總是 DNS 覆寫——Tailscale 會取代系統的 DNS 設定，導致 Kimi Claw 無..."
 />
 

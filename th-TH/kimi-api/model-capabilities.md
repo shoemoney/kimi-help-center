@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="ความสามารถของโมเดล - Kimi Help Center"
+  title="ความสามารถของโมเดล - ศูนย์ช่วยเหลือ Kimi"
   description="ด้านล่างนี้คือคำถามที่พบบ่อยเกี่ยวกับความสามารถของโมเดล Kimi API"
 />
 

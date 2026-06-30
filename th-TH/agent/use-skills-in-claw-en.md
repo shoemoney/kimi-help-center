@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="การใช้ Skills ใน Kimi Claw - Kimi Help Center"
+  title="การใช้ Skills ใน Kimi Claw - ศูนย์ช่วยเหลือ Kimi"
   description="เรียนรู้วิธีดาวน์โหลด ซิงค์ เรียกใช้ และปรับแต่ง skills ใน Kimi Claw เพื่อทำงานอัตโนมัติได้อย่างมีประสิทธิภาพและจัดการหน่วยความจำระยะยาว"
   ogType="article"
 />

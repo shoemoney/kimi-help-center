@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Schnellstart mit Kimi Code für VS Code - Kimi Help Center"
+  title="Schnellstart mit Kimi Code für VS Code - Kimi Hilfecenter"
   description="Kimi Code für VS Code ist eine in Visual Studio Code integrierte Erweiterung. Nach der Installation können Sie Fragen stellen, Code-Diffs prüfen und Änderungen schnell committen..."
 />
 

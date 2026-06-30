@@ -8,7 +8,7 @@ preview_content: "Erstellen und bearbeiten Sie Word-, PDF- und Excel-Dokumente m
 ---
 
 <SeoMeta
-  title="Kimi Docs \u0026 Kimi Sheets im Überblick - Kimi Help Center"
+  title="Kimi Docs \u0026 Kimi Sheets im Überblick - Kimi Hilfecenter"
   description="Erstellen und bearbeiten Sie Word-, PDF- und Excel-Dokumente mit KI-gestützten Kimi Docs und Kimi Sheets."
 />
 

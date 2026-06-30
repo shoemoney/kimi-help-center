@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Ikhtisar Kimi Claw Android - Kimi Help Center"
+  title="Ikhtisar Kimi Claw Android - Pusat Bantuan Kimi"
   description="Pelajari cara menerapkan OpenClaw di ponsel Android Anda dan mengubahnya menjadi asisten AI jarak jauh 24/7."
   ogType="article"
 />

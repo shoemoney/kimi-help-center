@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="แพลตฟอร์มที่รองรับ - Kimi Help Center"
+  title="แพลตฟอร์มที่รองรับ - ศูนย์ช่วยเหลือ Kimi"
   description="Kimi Claw พร้อมให้ใช้งานบนแพลตฟอร์มต่อไปนี้:"
 />
 

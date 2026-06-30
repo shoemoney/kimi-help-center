@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Sitzungen \u0026 Kontext - Kimi Help Center"
+  title="Sitzungen \u0026 Kontext - Kimi Hilfecenter"
   description="Die Kimi Code CLI unterstützt die Verwaltung mehrerer Sitzungen und die dauerhafte Speicherung des Kontexts, sodass Sie Ihre Arbeit jederzeit pausieren und fortsetzen können."
 />
 

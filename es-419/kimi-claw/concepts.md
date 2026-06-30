@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Conceptos básicos y terminal - Kimi Help Center"
+  title="Conceptos básicos y terminal - Centro de ayuda de Kimi"
   description="Image: 截图30"
 />
 

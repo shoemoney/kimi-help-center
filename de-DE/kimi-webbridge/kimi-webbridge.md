@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Einführung in Kimi WebBridge - Kimi Help Center"
+  title="Einführung in Kimi WebBridge - Kimi Hilfecenter"
   description="Kimi WebBridge ist eine Browser-Erweiterung für KI-Agenten. Sie läuft direkt in Ihrem Chrome- oder Edge-Browser und nutzt Ihre bestehenden Login-Sitzungen, damit Agenten mit Webseiten interagieren können wie ein Mensch."
   ogType="article"
 />

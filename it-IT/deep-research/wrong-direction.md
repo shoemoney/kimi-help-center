@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Direzione di ricerca o ragionamento errata? - Kimi Help Center"
+  title="Direzione di ricerca o ragionamento errata? - Centro assistenza Kimi"
   description="Se la direzione di ricerca o il ragionamento di Deep Research si discosta in modo significativo dalle aspettative, fai clic sul pulsante &quot;👎&quot; in fondo alla pagina e descrivi brevemente il problema..."
 />
 

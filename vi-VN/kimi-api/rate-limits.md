@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Giới hạn tần suất - Kimi Help Center"
+  title="Giới hạn tần suất - Trung tâm trợ giúp Kimi"
   description="Kimi API áp dụng giới hạn về tần suất và mức độ đồng thời của yêu cầu nhằm đảm bảo sự ổn định của nền tảng và việc sử dụng công bằng. Các bậc giới hạn tần suất được xác định dựa trên..."
 />
 

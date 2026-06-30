@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="發票 - Kimi Help Center"
+  title="發票 - Kimi 說明中心"
   description="Kimi 支援會員付款的自助開立發票。"
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Faktur - Kimi Help Center"
+  title="Faktur - Pusat Bantuan Kimi"
   description="Kimi mendukung pembuatan faktur secara mandiri untuk pembayaran keanggotaan Anda."
 />
 

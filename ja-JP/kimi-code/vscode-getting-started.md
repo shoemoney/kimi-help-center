@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi Code for VS Code クイックスタート - Kimi Help Center"
+  title="Kimi Code for VS Code クイックスタート - Kimi ヘルプセンター"
   description="Kimi Code for VS Code は Visual Studio Code に統合される拡張機能です。インストール後は、質問、コード差分の確認、変更の迅速なコミットができます..."
 />
 

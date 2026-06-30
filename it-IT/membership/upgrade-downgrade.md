@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Modifiche al piano - Kimi Help Center"
+  title="Modifiche al piano - Centro assistenza Kimi"
   description="Puoi modificare il tuo abbonamento Kimi in qualsiasi momento. Ecco come funzionano upgrade e downgrade."
 />
 

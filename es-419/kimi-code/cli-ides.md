@@ -8,7 +8,7 @@ preview_content: "Integra Kimi Code CLI en tu IDE mediante ACP."
 ---
 
 <SeoMeta
-  title="Integración con IDE - Kimi Help Center"
+  title="Integración con IDE - Centro de ayuda de Kimi"
   description="Integra Kimi Code CLI en tu IDE mediante el Agent Client Protocol (ACP). Guías de configuración para Zed, IDE de JetBrains y Paseo, además de solución de problemas."
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Berapa panjang konteks untuk Deep research? - Kimi Help Center"
+  title="Berapa panjang konteks untuk Deep research? - Pusat Bantuan Kimi"
   description="Deep Research menggunakan panjang konteks 128K token, sekitar 200.000 kata."
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Dasar-dasar prompt - Kimi Help Center"
+  title="Dasar-dasar prompt - Pusat Bantuan Kimi"
   description="Prompt adalah instruksi teks yang Anda kirimkan ke Kimi — bisa berupa pertanyaan, deskripsi, sekumpulan persyaratan, atau bahkan ringkasan tugas yang lengkap. Kimi menggunakan..."
 />
 

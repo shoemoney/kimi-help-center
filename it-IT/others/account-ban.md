@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Sospensione dell'account e ricorsi - Kimi Help Center"
+  title="Sospensione dell'account e ricorsi - Centro assistenza Kimi"
   description="Se violi le leggi vigenti, il contratto utente o le policy della piattaforma, la piattaforma può adottare misure quali il blocco dei contenuti, il congelamento/trasferimento dell'acc..."
 />
 

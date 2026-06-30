@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="ภาพรวม Kimi Claw Android - Kimi Help Center"
+  title="ภาพรวม Kimi Claw Android - ศูนย์ช่วยเหลือ Kimi"
   description="เรียนรู้วิธีติดตั้ง OpenClaw บนโทรศัพท์ Android และเปลี่ยนให้เป็นผู้ช่วย AI ระยะไกลที่พร้อมทำงานตลอด 24/7"
   ogType="article"
 />

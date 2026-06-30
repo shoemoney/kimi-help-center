@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="K2.6 Agent Swarm [Beta] - Kimi Help Center"
+  title="K2.6 Agent Swarm [Beta] - Pusat Bantuan Kimi"
   description="K2.6 Agent Swarm Beta adalah arsitektur &quot;penskalaan horizontal&quot; yang mengoordinasikan hingga 300 sub-agen yang bekerja secara paralel — tanpa peran yang ditentukan sebelumnya atau alur kerja buatan..."
 />
 

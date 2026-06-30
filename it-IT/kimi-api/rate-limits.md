@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Rate limit - Kimi Help Center"
+  title="Rate limit - Centro assistenza Kimi"
   description="Le API di Kimi applicano rate limit sulla frequenza delle richieste e sulla concurrency per garantire la stabilità della piattaforma e un utilizzo equo. I livelli di rate limit si basano sull'importo cumulativo di ricarica del tuo account..."
 />
 

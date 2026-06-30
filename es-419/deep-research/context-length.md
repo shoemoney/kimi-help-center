@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="¿Cuál es la longitud de contexto de Deep Research? - Kimi Help Center"
+  title="¿Cuál es la longitud de contexto de Deep Research? - Centro de ayuda de Kimi"
   description="Deep Research usa una longitud de contexto de 128K tokens, aproximadamente 200,000 palabras."
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi Clawでスキルを使う - Kimi Help Center"
+  title="Kimi Clawでスキルを使う - Kimi ヘルプセンター"
   description="Kimi Clawでスキルをダウンロード、同期、呼び出し、カスタマイズし、ワークフローの自動化と長期記憶の管理を効率化する方法を学びます。"
   ogType="article"
 />

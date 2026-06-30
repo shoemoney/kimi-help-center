@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Integrasi alat - Kimi Help Center"
+  title="Integrasi alat - Pusat Bantuan Kimi"
   description="Selain integrasi IDE, Kimi Code CLI dapat diintegrasikan ke alat lain untuk menyempurnakan alur kerja terminal Anda."
 />
 

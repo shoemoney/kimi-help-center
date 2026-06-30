@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Agent 모드에서 스킬 사용하기 - Kimi Help Center"
+  title="Agent 모드에서 스킬 사용하기 - Kimi 도움말 센터"
   description="Agent 모드에서 스킬을 호출하고, 맞춤 스킬을 만들고, 추천 스킬을 찾아 Kimi의 역량을 확장하는 방법을 알아보세요."
   ogType="article"
 />

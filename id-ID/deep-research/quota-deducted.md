@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Credit terpotong sebelum tugas selesai? - Kimi Help Center"
+  title="Credit terpotong sebelum tugas selesai? - Pusat Bantuan Kimi"
   description="Deep Research memiliki dua jenis tugas: &quot;percakapan standar&quot; dan &quot;eksekusi tugas.&quot; Penagihan diterapkan berdasarkan tugas..."
 />
 

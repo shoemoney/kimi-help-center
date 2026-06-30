@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Memory Space - Kimi Help Center"
+  title="Memory Space - ศูนย์ช่วยเหลือ Kimi"
   description="Kimi เรียนรู้ที่จะรับฟังอย่างแท้จริง ยิ่งคุณพูดคุยมากเท่าไหร่ Kimi ก็ยิ่งเข้าใจคุณมากขึ้นเท่านั้น นี่คือวิธีการทำงาน:"
 />
 

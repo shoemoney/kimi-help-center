@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Fundamentos dos prompts - Kimi Help Center"
+  title="Fundamentos dos prompts - Central de Ajuda Kimi"
   description="Um prompt é a instrução de texto que você envia ao Kimi — pode ser uma pergunta, uma descrição, um conjunto de requisitos ou até mesmo um briefing completo de tarefa. O Kimi usa seu..."
 />
 

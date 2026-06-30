@@ -8,7 +8,7 @@ preview_content: "Erste Schritte mit der Kimi-API-Plattform für Textgenerierung
 ---
 
 <SeoMeta
-  title="Überblick über die Kimi API - Kimi Help Center"
+  title="Überblick über die Kimi API - Kimi Hilfecenter"
   description="Erste Schritte mit der Kimi-API-Plattform für Textgenerierung, Konversationen, Dateianalyse und Web Search."
 />
 

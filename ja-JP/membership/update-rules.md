@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="creditの更新と利用ルール - Kimi Help Center"
+  title="creditの更新と利用ルール - Kimi ヘルプセンター"
   description="Kimiのメンバーシップ特典には、2つのcreditプールが含まれています。Kimi Codeは専用のquotaプールを使用し、その他のメンバーシップ機能は1つのcreditプールを共有します。creditは実際の利用量に応じて消費されます。"
 />
 

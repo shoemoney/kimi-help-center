@@ -8,7 +8,7 @@ preview_content: "Encuentra respuestas a las preguntas más comunes sobre cuenta
 ---
 
 <SeoMeta
-  title="Eliminación de cuenta y de datos - Kimi Help Center"
+  title="Eliminación de cuenta y de datos - Centro de ayuda de Kimi"
   description="Encuentra respuestas a las preguntas más comunes sobre cuentas, perfiles y gestión de datos."
 />
 

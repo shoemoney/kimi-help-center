@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kontakt - Kimi Help Center"
+  title="Kontakt - Kimi Hilfecenter"
   description="Brauchen Sie Hilfe? So erreichen Sie uns."
 />
 

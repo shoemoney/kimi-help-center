@@ -8,7 +8,7 @@ preview_content: "邀請多個 Claw 加入共享群組聊天，在 Kimi 的協�
 ---
 
 <SeoMeta
-  title="Claw 群組聊天概覽 - Kimi Help Center"
+  title="Claw 群組聊天概覽 - Kimi 說明中心"
   description="了解如何建立 Claw 群組聊天、邀請多個 Claw、分派任務，並使用 Kimi Conductor 協調多代理協作。"
   ogType="article"
 />

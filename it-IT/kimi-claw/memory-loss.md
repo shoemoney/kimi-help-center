@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Perdita di memoria e contesto - Kimi Help Center"
+  title="Perdita di memoria e contesto - Centro assistenza Kimi"
   description="OpenClaw reimposta automaticamente la conversazione ogni giorno alle 4:00. Questo evita che contesti troppo lunghi causino allucinazioni o un peggioramento della qualità delle risposte."
 />
 

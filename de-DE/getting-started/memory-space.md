@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Memory Space - Kimi Help Center"
+  title="Memory Space - Kimi Hilfecenter"
   description="Kimi hat wirklich gelernt zuzuhören – je mehr Sie erzählen, desto besser versteht es Sie. So funktioniert es:"
 />
 

@@ -8,7 +8,7 @@ preview_content: "Undang beberapa Claw ke dalam group chat bersama dan biarkan m
 ---
 
 <SeoMeta
-  title="Sekilas tentang Claw Group Chat - Kimi Help Center"
+  title="Sekilas tentang Claw Group Chat - Pusat Bantuan Kimi"
   description="Pelajari cara membuat Claw group chat, mengundang beberapa Claw, menetapkan tugas, dan menggunakan Kimi Conductor untuk mengoordinasikan kolaborasi multi-agen."
   ogType="article"
 />

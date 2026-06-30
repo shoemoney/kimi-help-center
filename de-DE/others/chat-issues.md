@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Häufige Probleme im Kimi-Chat - Kimi Help Center"
+  title="Häufige Probleme im Kimi-Chat - Kimi Hilfecenter"
   description="Mögliche Ursachen:"
 />
 

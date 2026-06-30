@@ -8,7 +8,7 @@ preview_content: "在 Kimi 桌面應用程式中一鍵部署本機 OpenClaw 執�
 ---
 
 <SeoMeta
-  title="Kimi Claw Desktop 概覽 - Kimi Help Center"
+  title="Kimi Claw Desktop 概覽 - Kimi 說明中心"
   description="了解如何在 Kimi 桌面應用程式中一鍵部署本機 OpenClaw 執行個體，包括下載用戶端、本機部署，以及自訂助理名稱。"
   ogType="article"
 />

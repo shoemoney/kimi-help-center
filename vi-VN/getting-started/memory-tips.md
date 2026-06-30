@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Mẹo sử dụng bộ nhớ - Kimi Help Center"
+  title="Mẹo sử dụng bộ nhớ - Trung tâm trợ giúp Kimi"
   description="Tôi là tên/biệt danh, hiện sống tại thành phố. Có nền tảng về nghề nghiệp/vai trò, chuyên sâu trong lĩnh vực 1 và lĩnh vực 2."
 />
 

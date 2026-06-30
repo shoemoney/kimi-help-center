@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="スキル作成 FAQ - Kimi Help Center"
+  title="スキル作成 FAQ - Kimi ヘルプセンター"
   description="Kimi Skills の作成に関するよくある質問です。ドキュメントのアップロード、token の使用、頻度制限、スキル名、作成失敗時の対応について説明します。"
 />
 

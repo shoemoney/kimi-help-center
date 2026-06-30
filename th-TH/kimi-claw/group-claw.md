@@ -8,7 +8,7 @@ preview_content: "เชิญ Claw หลายตัวเข้าร่ว�
 ---
 
 <SeoMeta
-  title="ภาพรวม Claw Group Chat - Kimi Help Center"
+  title="ภาพรวม Claw Group Chat - ศูนย์ช่วยเหลือ Kimi"
   description="เรียนรู้วิธีสร้างกลุ่มแชท Claw เชิญ Claw หลายตัว มอบหมายงาน และใช้ Kimi Conductor ในการประสานงานความร่วมมือแบบหลายเอเจนต์"
   ogType="article"
 />

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Agent'ın oluşturduğu web sitesi neden çalışmıyor? - Kimi Help Center"
+  title="Agent'ın oluşturduğu web sitesi neden çalışmıyor? - Kimi Yardım Merkezi"
   description="Tam yığın bir proje; ön yüz arayüzü, arka uç servisleri ve kalıcı depolamayı içerir. Kimi Agent bu üçünü de oluşturabilir, ancak çalışmanın başarısı ortam..."
 />
 

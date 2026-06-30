@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Credits vor Abschluss der Aufgabe abgezogen? - Kimi Help Center"
+  title="Credits vor Abschluss der Aufgabe abgezogen? - Kimi Hilfecenter"
   description="Deep Research kennt zwei Aufgabentypen: &quot;Standardunterhaltungen&quot; und &quot;Aufgabenausführung&quot;. Die Abrechnung richtet sich nach der Aufgabe..."
 />
 

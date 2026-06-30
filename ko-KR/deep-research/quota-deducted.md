@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="작업 완료 전에 credit이 차감되었나요? - Kimi Help Center"
+  title="작업 완료 전에 credit이 차감되었나요? - Kimi 도움말 센터"
   description="Deep Research에는 &quot;표준 대화&quot;와 &quot;작업 실행&quot;이라는 두 가지 작업 유형이 있습니다. 과금은 작업..."
 />
 

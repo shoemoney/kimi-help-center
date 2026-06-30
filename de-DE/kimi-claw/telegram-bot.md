@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Telegram-Bot - Kimi Help Center"
+  title="Telegram-Bot - Kimi Hilfecenter"
   description="Verbinde Kimi Claw mit Telegram, damit du von jedem Gerät aus mit Kimi chatten kannst – ganz ohne Browser."
 />
 

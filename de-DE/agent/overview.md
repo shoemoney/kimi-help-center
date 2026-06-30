@@ -8,7 +8,7 @@ preview_content: "Erfahren Sie mehr über die autonome Aufgabenbearbeitung des K
 ---
 
 <SeoMeta
-  title="K2.6 Agent – Überblick - Kimi Help Center"
+  title="K2.6 Agent – Überblick - Kimi Hilfecenter"
   description="Entdecken Sie die Fähigkeiten, die Entwicklung und die Anwendungsfälle des Kimi K2.6 Agent."
 />
 

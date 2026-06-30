@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Deep Research – Anwendungsfälle und Prompt-Bibliothek - Kimi Help Center"
+  title="Deep Research – Anwendungsfälle und Prompt-Bibliothek - Kimi Hilfecenter"
   description="Ich bin ein professioneller Wertpapieranalyst. Bitte hilf mir bei einer tiefgehenden Analyse von Pop Mart aus finanzieller Perspektive. Die Analyse sollte unter anderem..."
 />
 

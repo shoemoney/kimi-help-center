@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Transfer file - Kimi Help Center"
+  title="Transfer file - Pusat Bantuan Kimi"
   description="Kimi Claw mendukung pengiriman dan penerimaan file."
 />
 

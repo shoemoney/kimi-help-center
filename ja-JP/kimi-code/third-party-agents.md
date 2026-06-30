@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="サードパーティ製コーディングエージェントで利用する - Kimi Help Center"
+  title="サードパーティ製コーディングエージェントで利用する - Kimi ヘルプセンター"
   description="Kimi Code の特典は Claude Code や Roo Code でも利用でき、普段お使いのコーディングツール上で Kimi の AI 機能を活用できます。"
 />
 

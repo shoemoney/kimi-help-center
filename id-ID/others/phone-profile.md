@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Pengaturan akun \u0026 profil - Kimi Help Center"
+  title="Pengaturan akun \u0026 profil - Pusat Bantuan Kimi"
   description="Ya. Buka:"
 />
 

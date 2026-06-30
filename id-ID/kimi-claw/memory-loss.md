@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Hilangnya memori \u0026 konteks - Kimi Help Center"
+  title="Hilangnya memori \u0026 konteks - Pusat Bantuan Kimi"
   description="OpenClaw secara otomatis mereset percakapan setiap hari pukul 04.00. Ini mencegah konteks yang terlalu panjang menyebabkan halusinasi atau menurunnya kualitas respons."
 />
 

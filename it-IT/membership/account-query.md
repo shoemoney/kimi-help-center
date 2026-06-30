@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Verifica account e credit - Kimi Help Center"
+  title="Verifica account e credit - Centro assistenza Kimi"
   description="Dopo l'acquisto di un abbonamento, i vantaggi si attivano in genere all'istante. Se qualcosa non funziona come previsto, consulta le guide qui sotto."
 />
 

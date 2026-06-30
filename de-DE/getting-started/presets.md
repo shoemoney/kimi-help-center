@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Presets - Kimi Help Center"
+  title="Presets - Kimi Hilfecenter"
   description="Presets sind Kimis Schnellbefehl-Funktion: Speichern Sie häufig genutzte Prompts und rufen Sie sie in jeder Sitzung mit einem Klick auf – kein wiederholtes Tipp..."
 />
 

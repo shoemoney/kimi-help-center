@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Tình huống sử dụng Deep Research \u0026 thư viện prompt - Kimi Help Center"
+  title="Tình huống sử dụng Deep Research \u0026 thư viện prompt - Trung tâm trợ giúp Kimi"
   description="Tôi là một nhà phân tích chứng khoán chuyên nghiệp. Hãy giúp tôi phân tích chuyên sâu về Pop Mart dưới góc độ tài chính. Phân tích cần bao gồm nhưng..."
 />
 

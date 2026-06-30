@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Conseils d'utilisation - Kimi Help Center"
+  title="Conseils d'utilisation - Centre d'aide Kimi"
   description="Kimi Claw n'est pas un simple outil de questions-réponses : c'est un assistant que vous façonnez. Définissez des règles et il adopte une nouvelle personnalité. Enseignez-lui une méthode et il en fait une habitude. Donnez-lui un..."
 />
 

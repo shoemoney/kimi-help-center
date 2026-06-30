@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Lässt sich ein Deep-Research-Bericht nicht herunterladen oder speichern? - Kimi Help Center"
+  title="Lässt sich ein Deep-Research-Bericht nicht herunterladen oder speichern? - Kimi Hilfecenter"
   description="Deep Research erstellt zwei Arten von Berichten, und beide lassen sich herunterladen."
 />
 

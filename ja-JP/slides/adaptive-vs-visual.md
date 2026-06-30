@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi Slides の作成モードの選び方 - Kimi Help Center"
+  title="Kimi Slides の作成モードの選び方 - Kimi ヘルプセンター"
   description="Kimi Slides の2つの生成モード、アダプティブモード（AI によるパーソナライズデザイン）とビジュアルモード（Nano Banana Pro 搭載）を比較し、プレゼンテーションに適したシナリオとテンプレートの選び方を紹介します。"
 />
 

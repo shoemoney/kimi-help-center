@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Facturation et finances - Kimi Help Center"
+  title="Facturation et finances - Centre d'aide Kimi"
   description="Questions fréquentes sur la facturation, la tarification et le paiement de l'API Kimi."
 />
 

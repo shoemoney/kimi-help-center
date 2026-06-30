@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Deep Research มีความยาวบริบทเท่าไหร่? - Kimi Help Center"
+  title="Deep Research มีความยาวบริบทเท่าไหร่? - ศูนย์ช่วยเหลือ Kimi"
   description="Deep Research ใช้ความยาวบริบท 128K tokens หรือประมาณ 200,000 คำ"
 />
 

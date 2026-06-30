@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Casi d'uso comuni - Kimi Help Center"
+  title="Casi d'uso comuni - Centro assistenza Kimi"
   description="Ecco alcuni scenari tipici di utilizzo di Kimi Code CLI nello sviluppo quotidiano, ciascuno con prompt di esempio a cui fare riferimento."
 />
 

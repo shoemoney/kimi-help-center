@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Suspensão de conta e contestações - Kimi Help Center"
+  title="Suspensão de conta e contestações - Central de Ajuda Kimi"
   description="Se você violar leis aplicáveis, o contrato do usuário ou as políticas da plataforma, poderemos tomar medidas como bloquear conteúdo, congelar/transferir con..."
 />
 

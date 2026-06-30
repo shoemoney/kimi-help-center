@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="プラン変更 - Kimi Help Center"
+  title="プラン変更 - Kimi ヘルプセンター"
   description="Kimi のメンバーシップはいつでも変更できます。アップグレードとダウングレードの仕組みをご案内します。"
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Pengecekan akun \u0026 credit - Kimi Help Center"
+  title="Pengecekan akun \u0026 credit - Pusat Bantuan Kimi"
   description="Setelah membeli keanggotaan, manfaat Anda biasanya langsung aktif. Jika ada yang tampak tidak beres, ikuti panduan di bawah ini."
 />
 

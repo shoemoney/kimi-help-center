@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="搜尋或推理方向偏了嗎？ - Kimi Help Center"
+  title="搜尋或推理方向偏了嗎？ - Kimi 說明中心"
   description="如果 Deep Research 的搜尋方向或推理明顯偏離預期，請點擊頁面底部的 &quot;👎&quot; 按鈕，並簡要描述..."
 />
 

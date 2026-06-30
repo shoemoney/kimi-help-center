@@ -8,7 +8,7 @@ preview_content: "Gunakan goal agar Kimi Code terus mengupayakan hasil yang suda
 ---
 
 <SeoMeta
-  title="Goal - Kimi Help Center"
+  title="Goal - Pusat Bantuan Kimi"
   description="Gunakan /goal agar Kimi Code terus mengupayakan hasil yang sudah ditetapkan di sepanjang giliran percakapan. Pelajari kapan menggunakan goal, cara mengelola siklus hidupnya, dan cara mengantrekan goal berikutnya."
 />
 

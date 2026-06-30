@@ -8,7 +8,7 @@ preview_content: "ผสานรวม Kimi Code CLI เข้ากับ IDE 
 ---
 
 <SeoMeta
-  title="การผสานรวมกับ IDE - Kimi Help Center"
+  title="การผสานรวมกับ IDE - ศูนย์ช่วยเหลือ Kimi"
   description="ผสานรวม Kimi Code CLI เข้ากับ IDE ของคุณผ่าน Agent Client Protocol (ACP) พร้อมคู่มือการตั้งค่าสำหรับ Zed, JetBrains IDE และ Paseo รวมถึงวิธีแก้ปัญหา"
 />
 

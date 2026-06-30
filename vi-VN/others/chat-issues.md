@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Các vấn đề thường gặp khi trò chuyện với Kimi - Kimi Help Center"
+  title="Các vấn đề thường gặp khi trò chuyện với Kimi - Trung tâm trợ giúp Kimi"
   description="Nguyên nhân có thể đến từ:"
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Saldo \u0026 penggunaan - Kimi Help Center"
+  title="Saldo \u0026 penggunaan - Pusat Bantuan Kimi"
   description="Kimi API menyediakan beragam cara untuk melihat saldo akun dan detail penggunaan Anda, sehingga memudahkan pemantauan konsumsi dan biaya."
 />
 

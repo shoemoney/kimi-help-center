@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="ビジネス提携・営業窓口 - Kimi Help Center"
+  title="ビジネス提携・営業窓口 - Kimi ヘルプセンター"
   description="エンタープライズのお客様向けの提携オプション。ボリュームディスカウントからカスタムSLAまで対応します。"
 />
 

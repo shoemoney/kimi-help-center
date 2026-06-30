@@ -8,7 +8,7 @@ preview_content: "Découvrez les modes de conversation, les agents IA, la gestio
 ---
 
 <SeoMeta
-  title="Présentation de Kimi - Kimi Help Center"
+  title="Présentation de Kimi - Centre d'aide Kimi"
   description="Découvrez les modes de conversation, les agents IA, la gestion des fichiers et le guide de l'interface de Kimi pour bien démarrer."
 />
 

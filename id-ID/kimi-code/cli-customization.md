@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kustomisasi \u0026 referensi - Kimi Help Center"
+  title="Kustomisasi \u0026 referensi - Pusat Bantuan Kimi"
   description="Kimi Code CLI menyediakan beragam opsi kustomisasi yang memungkinkan Anda menyesuaikan perilaku dan alur kerja AI sesuai kebutuhan."
 />
 

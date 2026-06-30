@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="เลือกโหมดการสร้าง Kimi Slides อย่างไรดี? - Kimi Help Center"
+  title="เลือกโหมดการสร้าง Kimi Slides อย่างไรดี? - ศูนย์ช่วยเหลือ Kimi"
   description="เปรียบเทียบโหมดการสร้างสไลด์ทั้งสองของ Kimi Slides—โหมด Adaptive (ดีไซน์เฉพาะตัวด้วย AI) กับโหมด Visual (ขับเคลื่อนด้วย nano banana pro)—พร้อมเรียนรู้วิธีเลือกสถานการณ์และเทมเพลตที่เหมาะกับงานนำเสนอของคุณ"
 />
 

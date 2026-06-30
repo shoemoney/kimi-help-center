@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Limites de débit - Kimi Help Center"
+  title="Limites de débit - Centre d'aide Kimi"
   description="L'API Kimi applique des rate limits sur la fréquence des requêtes et la concurrency afin de garantir la stabilité de la plateforme et un usage équitable. Les paliers de rate limit dépendent du..."
 />
 

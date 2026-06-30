@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Batalkan langganan - Kimi Help Center"
+  title="Batalkan langganan - Pusat Bantuan Kimi"
   description="Anda dapat membatalkan perpanjangan otomatis kapan saja. Setelah dibatalkan, manfaat keanggotaan Anda tetap aktif hingga akhir siklus penagihan saat ini."
 />
 

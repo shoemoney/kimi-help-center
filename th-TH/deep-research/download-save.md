@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="ดาวน์โหลดหรือบันทึกรายงาน Deep Research ไม่ได้ใช่ไหม? - Kimi Help Center"
+  title="ดาวน์โหลดหรือบันทึกรายงาน Deep Research ไม่ได้ใช่ไหม? - ศูนย์ช่วยเหลือ Kimi"
   description="Deep Research สร้างรายงานออกมา 2 ประเภท และคุณดาวน์โหลดได้ทั้งสองแบบ"
 />
 

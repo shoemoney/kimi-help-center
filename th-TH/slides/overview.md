@@ -8,7 +8,7 @@ preview_content: "สร้างงานนำเสนอที่ดูเ�
 ---
 
 <SeoMeta
-  title="ภาพรวม Kimi Slides - Kimi Help Center"
+  title="ภาพรวม Kimi Slides - ศูนย์ช่วยเหลือ Kimi"
   description="สร้างงานนำเสนอที่ดูเป็นมืออาชีพจากข้อความหรือเอกสารด้วยเครื่องมือ Slides ที่ขับเคลื่อนด้วย AI ของ Kimi"
 />
 

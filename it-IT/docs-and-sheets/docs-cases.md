@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Casi d'uso di Kimi Docs e libreria di prompt - Kimi Help Center"
+  title="Casi d'uso di Kimi Docs e libreria di prompt - Centro assistenza Kimi"
   description="Esempi di casi d'uso e prompt per Kimi Docs — dalla revisione di manoscritti alla traduzione professionale e al design di PDF."
 />
 

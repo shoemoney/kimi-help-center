@@ -8,7 +8,7 @@ preview_content: "Guide de dépannage et de retour d'expérience pour Slides : f
 ---
 
 <SeoMeta
-  title="Que faire si la génération de Slides reste bloquée ? - Kimi Help Center"
+  title="Que faire si la génération de Slides reste bloquée ? - Centre d'aide Kimi"
   description="Si le processus de génération s'interrompt et que le fichier ne s'achève jamais, cela résulte généralement d'un échec de génération de Slides."
 />
 

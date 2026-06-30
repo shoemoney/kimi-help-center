@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="การใช้ Skills ในโหมด Agent - Kimi Help Center"
+  title="การใช้ Skills ในโหมด Agent - ศูนย์ช่วยเหลือ Kimi"
   description="เรียนรู้วิธีเรียกใช้ skills สร้าง skills ที่กำหนดเอง ค้นพบ skills ที่แนะนำ และขยายความสามารถของ Kimi ในโหมด Agent"
   ogType="article"
 />

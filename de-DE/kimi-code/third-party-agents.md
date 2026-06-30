@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Verwendung mit Coding-Agents von Drittanbietern - Kimi Help Center"
+  title="Verwendung mit Coding-Agents von Drittanbietern - Kimi Hilfecenter"
   description="Die Kimi-Code-Vorteile lassen sich mit Claude Code und Roo Code nutzen, sodass Sie die KI-Fähigkeiten von Kimi direkt in Ihren bevorzugten Coding-Tools einsetzen können."
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Quota & thanh toán cho Agent - Kimi Help Center"
+  title="Quota & thanh toán cho Agent - Trung tâm trợ giúp Kimi"
   description="Chế độ Agent sử dụng hệ thống quota của Kimi. Mọi quyền lợi thành viên đều bao gồm hai nhóm quota: Kimi Code dùng nhóm quota riêng; các tính năng thành viên khác chia sẻ chung một nhóm quota, với quota được trừ dựa trên lượng token thực tế tiêu thụ."
 />
 

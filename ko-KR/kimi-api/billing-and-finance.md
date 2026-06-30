@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="청구 및 결제 - Kimi Help Center"
+  title="청구 및 결제 - Kimi 도움말 센터"
   description="Kimi API 청구, 가격, 결제에 관한 자주 묻는 질문입니다."
 />
 

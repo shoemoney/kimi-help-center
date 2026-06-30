@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Skills in Kimi Claw nutzen - Kimi Help Center"
+  title="Skills in Kimi Claw nutzen - Kimi Hilfecenter"
   description="Erfahren Sie, wie Sie Skills in Kimi Claw herunterladen, synchronisieren, aufrufen und anpassen, um Arbeitsabläufe effizient zu automatisieren und Ihr Langzeitgedächtnis zu verwalten."
   ogType="article"
 />

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Konsep inti \u0026 terminal - Kimi Help Center"
+  title="Konsep inti \u0026 terminal - Pusat Bantuan Kimi"
   description="Image: 截图30"
 />
 

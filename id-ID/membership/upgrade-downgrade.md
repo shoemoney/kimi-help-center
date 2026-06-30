@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Perubahan paket - Kimi Help Center"
+  title="Perubahan paket - Pusat Bantuan Kimi"
   description="Anda dapat menyesuaikan keanggotaan Kimi kapan saja. Berikut cara kerja peningkatan dan penurunan paket."
 />
 

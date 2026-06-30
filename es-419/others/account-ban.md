@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Suspensión de cuenta y apelaciones - Kimi Help Center"
+  title="Suspensión de cuenta y apelaciones - Centro de ayuda de Kimi"
   description="Si infringes las leyes aplicables, el acuerdo de usuario o las políticas de la plataforma, esta puede tomar medidas como bloquear contenido, congelar o transferir cuen..."
 />
 

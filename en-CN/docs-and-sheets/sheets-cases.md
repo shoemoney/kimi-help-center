@@ -61,7 +61,7 @@ preview_content: "Use cases and prompt templates for working with spreadsheets i
 |------|-----------|
 | Financial modeling | Use the DCF method to value XX Company. Put the full process and data into Excel, cite data sources, and explain the estimation logic for key assumptions such as growth rate. |
 | Industry data comparison | Research the top 20 domestic new energy vehicle companies, list market capitalization, 2025 sales volume, flagship models, and recent news, and output a comparison table. |
-| Literature整理 into a table | Search for papers from the past three months on LLM inference optimization and organize them in Excel, including title, authors, core method, and innovations. |
+| Organize literature into a table | Search for papers from the past three months on LLM inference optimization and organize them in Excel, including title, authors, core method, and innovations. |
 | Merging multiple spreadsheets | [Upload 12 months of sales Excel files] Merge these 12 spreadsheets into an annual summary, calculate month-over-month growth for each month, and use formulas to link multiple sheets. |
 | Sales lead extraction | [Upload trade show PDF/images] Extract all exhibitor information and organize it into a 1,000-row sales leads Excel file, including company name, contact details, and product category. |
 | Project management sheet | Create a PMO project management Excel file for me, including task list, owner, progress status, Gantt chart, and linked sheets. |

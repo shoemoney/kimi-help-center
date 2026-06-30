@@ -49,7 +49,7 @@ If clicking the PPT card does not take you to the editing page, refresh the page
 
 - Open the same conversation in another browser, such as Chrome, Safari, or Firefox, and check whether the PPT card displays properly
 - Log in to the same account on the mobile App or another computer, and check whether the conversation contains the PPT result
-- If the correct PPT card is not visible across multiple browsers and devices, follow the [Bug Feedback Guide](#bug-反馈指引) below to submit feedback, and create a new chat to generate it again
+- If the correct PPT card is not visible across multiple browsers and devices, follow the [Bug Feedback Guide](#bug-feedback-guide) below to submit feedback, and create a new chat to generate it again
 
 <Callout type="tip">
 If you confirm that the PPT cannot be viewed across multiple devices and browsers, email [support@moonshot.cn](mailto:support@moonshot.cn) with the conversation link and screenshots of the issue. Once verified as a Bug, we will compensate you with the corresponding credit.

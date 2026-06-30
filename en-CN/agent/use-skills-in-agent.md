@@ -45,7 +45,7 @@ Simply describe what you need—no manual Skill selection required. Kimi will id
 Suppose you work in content operations and want to analyze your website’s SEO performance:
 
 1. Type `/` in the input box, then find and select the `seo-analyzer` Skill.
-2. Continue by entering: `请分析 https://help.com/zh-cn/help 的 SEO 表现，列出主要问题和优化建议。`
+2. Continue by entering: `Please analyze https://help.com/zh-cn/help's SEO performance, list the main issues and optimization suggestions.`
 
 <Frames
   src="./images/skills/SEO.png"

@@ -53,7 +53,7 @@ Kimi Agent is designed to provide powerful intelligent support in real professio
 - Document processing (Docs): provide intelligent document editing, writing, and formatting, with output support for Word, PDF, Markdown, TxT, and other formats;
 - Spreadsheet analysis (Sheets): help users analyze and process data, automatically generate reports, support output in Excel, CSV, and other formats, and provide pivot and complex data processing capabilities;
 - PPT creation (Slides): automate PPT design, provide intelligent templates, and generate high-quality slides from structure to content in one stop;
-- Deep Research (深度研究): support in-depth market research and generate high-quality long-form research and visualization reports through complex search, multi-step reasoning, and AI programming;
+- Deep Research: support in-depth market research and generate high-quality long-form research and visualization reports through complex search, multi-step reasoning, and AI programming;
 - Agent Swarm: automatically generate and coordinate up to 300 sub-agents to work in parallel on complex tasks, support more than 4,000 tool calls (Tool Use), and suit massive search, long-form writing, and batch processing tasks;
 - Kimi Claw: a zero-deployment cloud automation platform that starts an always-running AI agent in 30 seconds, without servers or Docker. It includes a 5,000+ skills library (ClawHub), supports chained composition calls and multi-step autonomous planning, and makes complex research and data analysis workflows easy to complete.
 

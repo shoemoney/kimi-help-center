@@ -9,7 +9,7 @@ preview_content: "A quick reference for common Kimi Claw terminal commands, cove
 
 <SeoMeta
   title="Kimi Claw terminal commands - Kimi Help Center"
-  description="Learn Kimi Claw terminal commands, including how to check the gateway, Bot instance status, Skill installation information, scheduled task status, and Memory Space (记忆空间), so you can better understand and use Kimi Claw features."
+  description="Learn Kimi Claw terminal commands, including how to check the gateway, Bot instance status, Skill installation information, scheduled task status, and Memory Space, so you can better understand and use Kimi Claw features."
 />
 
 # Common Kimi Claw terminal commands
@@ -25,7 +25,7 @@ Terminal is required to install OpenClaw on macOS. It is a built-in Mac app that
   alt="Kimi Claw terminal interface"
 />
 
-Click the “Terminal” button in the [Kimi Claw web app](https://www.kimi.com/bot) to open the CLI (命令行界面). Commands entered in Terminal are executed directly and are not affected by the chat context.
+Click the “Terminal” button in the [Kimi Claw web app](https://www.kimi.com/bot) to open the CLI. Commands entered in Terminal are executed directly and are not affected by the chat context.
 
 ## Terminal commands and features
 
@@ -65,7 +65,7 @@ Terminal and plugins share the same interaction channel. Restarting OpenClaw Gat
 |------|------|
 | `/skills` | List all installed Skills |
 | `/skills info <skill_id>` | View details and configuration parameters for the specified Skill |
-| `/skills install <url或id>` | Install a new Skill |
+| `/skills install <url or id>` | Install a new Skill |
 | `/skills uninstall <skill_id>` | Uninstall the specified Skill |
 | `/skills update <skill_id>` | Update a Skill to the latest version |
 | `/skills reload` | Reload all Skills after configuration changes |
@@ -78,12 +78,12 @@ Terminal and plugins share the same interaction channel. Restarting OpenClaw Gat
 | `/cron log <task_id>` | View execution logs and error details for the specified task |
 | `/cron enable/disable <task_id>` | Enable or pause a scheduled task |
 
-### Memory Space (记忆空间)
+### Memory Space
 
 | Command | Function |
 |------|------|
 | `/memory` | View the number of current memory entries and capacity usage |
-| `/memory search <关键词>` | Search historical memory entries |
+| `/memory search <keyword>` | Search historical memory entries |
 | `/memory export` | Export a memory file for backup |
 
 ### Configuration and debugging
@@ -91,10 +91,10 @@ Terminal and plugins share the same interaction channel. Restarting OpenClaw Gat
 | Command | Function |
 |------|------|
 | `/config` | View the current gateway and platform configuration |
-| `/config reload` | Reload the configuration file after modifying Feishu (飞书), email, or other credentials |
+| `/config reload` | Reload the configuration file after modifying Feishu, email, or other credentials |
 | `/logs` | View recent system logs |
 | `/debug on/off` | Turn debug mode on or off to output detailed execution steps |
 
 <Callout type="tip">
-**快速 diagnosis:** If a Skill or scheduled task is abnormal, run `/status` → `/logs` → `/cron log <任务ID>` in order to locate the issue.
+**Quick diagnosis:** If a Skill or scheduled task is abnormal, run `/status` → `/logs` → `/cron log <task_id>` in order to locate the issue.
 </Callout>

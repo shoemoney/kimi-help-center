@@ -29,13 +29,13 @@ Kimi Claw’s response style is not fixed. With a single “setting” instructi
 - “From now on, reply in a ‘three-part structure’: conclusion first, then reasons, and finally actionable steps. No fluff.”
 - “You are a rigorous investment research analyst. Every conclusion must indicate its uncertainty and include one risk warning.”
 
-## View the Lobster Settings Document
+## View the Claw Settings Document
 
-In the Kimi Claw workspace, you can view the complete lobster settings document. This document defines the core configuration of your Kimi Claw and contains the following five modules:
+In the Kimi Claw workspace, you can view the complete Claw settings document. This document defines the core configuration of your Kimi Claw and contains the following seven modules:
 
 | Module | Meaning | Description |
 |------|------|------|
-| **Identity** | Role positioning | The role positioning you assign to the lobster Claw, including its name, profession, persona, and more. Customizable |
+| **Identity** | Role positioning | The role positioning you assign to your Claw, including its name, profession, persona, and more. Customizable |
 | **Memory** | Persistent memory | Cross-session persistent working memory that records your preferences, habits, and important information, and retains them long term |
 | **Soul** | Core traits | Like a human soul, it sits above instructions and determines Claw’s basic interaction style and behavioral principles |
 | **Skills** | Function modules | Installable capability modules from the ClawHub skill library that provide Claw with abilities for specific domains |
@@ -45,7 +45,7 @@ In the Kimi Claw workspace, you can view the complete lobster settings document.
 
 <Frames
   src="./images/kimi-claw/usage-tips-01.png"
-  alt="Lobster workspace document"
+  alt="Claw workspace document"
 />
 
 You can view and modify these settings in the workspace at any time to make Kimi Claw fit your habits better.

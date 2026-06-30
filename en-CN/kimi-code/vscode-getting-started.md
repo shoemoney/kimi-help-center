@@ -1,5 +1,5 @@
 ---
-title: "Kimi Code for VS Code 快速 Start"
+title: "Kimi Code for VS Code Quick Start"
 slug: "vscode-getting-started"
 order: 11
 extract_headings: false
@@ -8,11 +8,11 @@ preview_content: "Install, sign in to, and get started with the Kimi Code VS Cod
 ---
 
 <SeoMeta
-  title="Kimi Code for VS Code 快速 Getting Started - Kimi Help Center"
+  title="Kimi Code for VS Code Quick Start - Kimi Help Center"
   description="A complete guide to installing and using the Kimi Code extension in VS Code: sign-in, chat panel, @ file references, slash commands, code change Diff view, and MCP integration."
 />
 
-# Kimi Code for VS Code 快速 Start
+# Kimi Code for VS Code Quick Start
 
 <Callout type="warning">
 **VS Code extension compatibility in progress**

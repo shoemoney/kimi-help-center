@@ -21,7 +21,7 @@ Visit [Kimi.com](https://www.kimi.com/) or download the Kimi App to start chatti
 ## Chat modes
 
 - **Search mode**: Connects to the web for real-time information and supports searching online information.
-- **快速 mode**: Quickly answers with relevant information.
+- **Fast mode**: Quickly answers with relevant information.
 - **Thinking mode**: Supports deeper multi-round thinking and search—ideal for coding, logic, and analysis tasks.
 
 <Callout type="tip">

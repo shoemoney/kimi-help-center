@@ -31,7 +31,7 @@ You can think of it as a “text-based file manager”: in a terminal, instead o
 
 | Operating system | How to open it |
 |---------|---------|
-| **macOS** | Press `Cmd + 空格`, enter "Terminal" or "终端", then press Enter |
+| **macOS** | Press `Cmd + Space`, enter "Terminal" or "终端", then press Enter |
 | **Windows** | Press `Win + R`, enter `powershell` or `wt`;<br>or search for "PowerShell"/"Terminal" in the Start menu |
 | **Linux** | Press `Ctrl + Alt + T`, or find "Terminal" in the applications menu |
 
@@ -67,7 +67,7 @@ When Kimi Code CLI starts, it uses your current folder as the **working director
 
 - The terminal prompt usually shows the current directory, such as `~/projects/my-app$`
 - Enter `pwd` (macOS/Linux) or `cd` (Windows) to view the full path
-- Use `cd 文件夹名` to enter the target project directory, then run `kimi`
+- Use `cd <folder-name>` to enter the target project directory, then run `kimi`
 
 > **Example**: Suppose your project is in `~/Documents/my-project`. Start it as follows:
 > 1. Open the terminal

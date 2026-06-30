@@ -1,10 +1,10 @@
 ---
-title: "Deep Research (深度研究)"
+title: "Deep Research"
 slug: "deep-research-overview"
 order: 1
 extract_headings: false
 preview: true
-preview_content: "Capabilities, entry points, deliverables, and usage tips for Deep Research (深度研究)."
+preview_content: "Capabilities, entry points, deliverables, and usage tips for Deep Research."
 ---
 
 <SeoMeta
@@ -16,16 +16,16 @@ preview_content: "Capabilities, entry points, deliverables, and usage tips for D
 
 ## What is Deep Research?
 
-Deep Research (深度研究) is one of the first Agent products launched by Kimi, powered by Kimi-Researcher, a model developed in-house by Moonshot AI.
-Kimi-Researcher is trained with End-to-End Agentic RL (端到端自主强化学习). It is a next-generation Agent model built for complex research tasks: it does more than answer questions—it works like a real researcher, independently completing the entire workflow from task planning to report delivery.
+Deep Research is one of the first Agent products launched by Kimi, powered by Kimi-Researcher, a model developed in-house by Moonshot AI.
+Kimi-Researcher is trained with End-to-End Agentic RL. It is a next-generation Agent model built for complex research tasks: it does more than answer questions—it works like a real researcher, independently completing the entire workflow from task planning to report delivery.
 
 ## Workflow
 
 For every question it receives, Kimi-Researcher independently completes the full research workflow:
-- Clarification (意图澄清): proactively asks follow-up questions while understanding the task, building a clearer problem space;
+- Clarification: proactively asks follow-up questions while understanding the task, building a clearer problem space;
 - Deep thinking: performs an average of 23 reasoning steps per task, independently organizing and resolving the requirements;
-- Proactive search: for each task, plans an average of 74 keywords and finds 206 URLs. The model then evaluates and filters out the top 3.2% of content with the highest information quality, removing redundant and low-quality information;
-- Iterative reasoning (深度推理): decides whether supplementary retrieval is needed based on intermediate results, dynamically adjusting the research path;
+- Proactive search: for each task, plans an average of 74 keywords and finds 206 URLs. The model then evaluates and selects the top 3.2% of content with the highest information quality, removing redundant and low-quality information;
+- Iterative reasoning: decides whether supplementary retrieval is needed based on intermediate results, dynamically adjusting the research path;
 - Tool use: independently calls tools such as browsers and code execution to process raw data and generate analytical conclusions;
 - Report generation: integrates all information into a structured long-form report with cited sources
 
@@ -87,7 +87,7 @@ After each research task is completed, you will receive two deliverables:
   alt="App entry point"
 />
 
-Deep Research (深度研究) entry points
+Deep Research entry points
 - Web: [https://www.kimi.com/deep-research](https://www.kimi.com/deep-research)
 - Mobile/tablet: Open Kimi App → Taskbar → Switch to Deep Research Agent mode
 
@@ -105,7 +105,7 @@ Deep Research (深度研究) entry points
   alt="Intent clarification"
 />
 
-2. Based on the Clarification (意图澄清) questions returned by Kimi, confirm or refine the research direction. You can also click “Include everything” to skip;
+2. Based on the Clarification questions returned by Kimi, confirm or refine the research direction. You can also click “Include everything” to skip;
 3. The system enters the automatic execution stage. You can view retrieved keywords, the reasoning process, and visited URLs in real time;
 
 <Frames
@@ -136,8 +136,8 @@ The research quality of Kimi-Researcher largely depends on how clear the questio
 - Source type: specify the types of information to prioritize, such as “prioritize official reports and academic papers”. For specific fields, you can further narrow the scope—for example, PubMed for medicine, or papers and evaluation results on arXiv or Papers With Code for AI;
 - Problem breakdown: for broad and complex questions, split them into multiple sub-questions and research them separately instead of submitting everything at once. This improves depth and accuracy each time.
 
-2. During Clarification (意图澄清): actively calibrate the research direction
-After you submit a question, Kimi will return a Clarification (意图澄清) confirmation. This step is critical to research quality, so make full use of it:
+2. During Clarification: actively calibrate the research direction
+After you submit a question, Kimi will return a Clarification confirmation. This step is critical to research quality, so make full use of it:
 - Clearly state any directions you do not want covered to help the model avoid distractions;
 - Add the specific dimensions or angles that need special attention;
 - If the question is complex, add background information or usage scenarios here to help the model understand the research intent more accurately.

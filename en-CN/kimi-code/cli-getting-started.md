@@ -4,11 +4,11 @@ slug: "cli-getting-started"
 order: 6
 extract_headings: false
 preview: true
-preview_content: "A 快速-start guide to installing, signing in to, and initializing Kimi Code CLI."
+preview_content: "A quick-start guide to installing, signing in to, and initializing Kimi Code CLI."
 ---
 
 <SeoMeta
-  title="Install Kimi Code CLI and 快速 Start Guide - Kimi Help Center"
+  title="Install Kimi Code CLI and Quick Start Guide - Kimi Help Center"
   description="Start using Kimi Code CLI from scratch: installation commands, two ways to use it (terminal/browser), a four-step first sign-in guide, and generating a project configuration file with /init."
 />
 

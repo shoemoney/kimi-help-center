@@ -24,7 +24,7 @@ Welcome to Kimi Claw Android. This article explains how to deploy OpenClaw on an
 </Callout>
 
 <Callout type="info">
-Use Control（Command）+ F to 快速 find error messages/keywords.
+Use Control (Command) + F to quickly find error messages/keywords.
 </Callout>
 
 # Introduction to Kimi Claw Android
@@ -94,7 +94,7 @@ Open the Kimi App and tap Kimi Claw Android to download it.
 
 When you open Kimi Claw Android for the first time, you will see a welcome page. After reviewing the following important information, tap “Start setup” to enter the setup flow.
 
-- 快速 deployment of OpenClaw — Deploy OpenClaw to your local phone and communicate through Kimi, Feishu, and more
+- Quick deployment of OpenClaw — Deploy OpenClaw to your local phone and communicate through Kimi, Feishu, and more
 - Use an idle phone — Kimi Claw Android requires a stable network to run, so an idle phone is recommended
 - Use it safely — OpenClaw may present privacy and security risks; use it with caution
 
@@ -264,7 +264,7 @@ After opening it, you will be redirected to SkillHub, where you can download a S
 
 #### OpenClaw workspace
 
-Open it to enter the local OpenClaw runtime directory, where you can define your personal AGENTS.md、HEARTBEAT.md、IDENTITY.md, and more.
+Open it to enter the local OpenClaw runtime directory, where you can define your personal AGENTS.md, HEARTBEAT.md, IDENTITY.md, and more.
 
 <Frames
   src="./images/android-user-guide/screenshot-25.png"
@@ -674,7 +674,7 @@ For the security of users’ funds and privacy, Kimi Claw Android automatically 
 
 - On the Dashboard main screen, you can view the gateway status and runtime
 - Tap “Real-time logs” to view detailed runtime logs
-- Use log search and level filtering to 快速 locate issues
+- Use log search and level filtering to quickly locate issues
 
 ### Upgrades and versions
 

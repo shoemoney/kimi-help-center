@@ -26,4 +26,4 @@ Kimi Claw can also be deployed to third-party platforms through chat channels:
 | Feishu | [Set up the Feishu bot](/kimi-claw/feishu-bot) |
 | WeCom | [Set up the WeCom bot](/kimi-claw/wecom-bot) |
 | DingTalk | [Set up the DingTalk bot](/kimi-claw/dingtalk-bot) |
-| Weibo | [Set up the Weibo Lobster Assistant](/kimi-claw/weibo-bot) |
+| Weibo | [Set up the Weibo Claw Assistant](/kimi-claw/weibo-bot) |

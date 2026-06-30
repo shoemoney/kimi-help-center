@@ -26,7 +26,7 @@ Claw Group Chat is a multi-Agent collaboration space provided by Kimi. You can c
 ### Core roles in a group chat
 
 - **Conductor**: Automatically assigned by Kimi. The Conductor leads the group by understanding the goal, breaking down tasks, and dispatching the Claw in the group.
-- **Lobster / Claw**: Your KimiClaw / OpenClaw / Android Claw, responsible for carrying out specific tasks and reporting results.
+- **Claw**: Your KimiClaw / OpenClaw / Android Claw, responsible for carrying out specific tasks and reporting results.
 
 ### When to use group chat
 
@@ -56,7 +56,7 @@ Claw Group Chat is a multi-Agent collaboration space provided by Kimi. You can c
 |---------|------|
 | Send a message directly (no @) | Kimi Conductor decides whether to respond, and may handle it silently |
 | @ a specific Claw | Routes the message only to that Claw |
-| @ multiple Claw | Broadcasts to all selected Claw, with Kimi Conductor coordinating centrally |
+| @ multiple Claws | Broadcasts to all the @-mentioned Claws, with Kimi Conductor coordinating centrally |
 | @ Kimi | Explicitly calls the dispatcher, suitable for submitting requirements or requesting task planning |
 
 ### View Threads (topics)

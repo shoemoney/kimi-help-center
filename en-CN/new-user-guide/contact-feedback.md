@@ -24,7 +24,7 @@ Choose the appropriate channel based on the type of feedback:
 | Account appeals / complaints and reports | [support@moonshot.cn](mailto:support@moonshot.cn) |
 | Media inquiries | [pr@kimi.com](mailto:pr@kimi.com) |
 | Kimi API support | Log in to the [Open Platform](https://platform.kimi.com/) to find customer support contact information and the developer community |
-| Official WeCom (企业微信) customer support | Follow the WeChat (微信) Official Account “月之暗面Kimi”, then use the bottom menu “Contact Us” - “Contact Customer Support” to find the official customer support WeCom (企业微信) account |
+| Official WeCom customer support | Follow the WeChat Official Account “月之暗面Kimi”, then use the bottom menu “Contact Us” - “Contact Customer Support” to find the official customer support WeCom account |
 | Investor contact | [legalteam@moonshot.ai](mailto:legalteam@moonshot.ai) |
 
 ### Product issue feedback
@@ -35,7 +35,7 @@ On the official website, go to “Account → User Feedback → Help & Feedback�
   alt="image"
 />
 
-### Official WeCom (企业微信) customer support
+### Official WeCom customer support
 
 <Frames
   src="./images/contact-feedback/contact-feedback-02.png"

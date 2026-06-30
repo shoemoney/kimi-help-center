@@ -89,7 +89,7 @@ Describe what you need in natural language in the input box, and Kimi will under
 |--------------------|------------------------------------------|
 | Text description   | Enter website requirements directly, and AI generates the site automatically |
 | Design mockup parsing | Upload a design mockup, and AI recognizes and recreates it as a webpage |
-| 快速 build standard websites | Choose a preset template and edit the content |
+| Quickly build standard websites | Choose a preset template and edit the content |
 
 ### Practical Example
 

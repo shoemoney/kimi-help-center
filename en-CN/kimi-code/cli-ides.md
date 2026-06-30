@@ -101,7 +101,7 @@ Select **Kimi Code CLI** from Paseo’s built-in ACP provider catalog, or add a 
   ]}
 />
 
-Paseo’s generic ACP adapter does not handle sign-in for you, so complete terminal sign-in first. See [Prerequisites](#前置准备). Otherwise, session creation will fail with `Authentication required`.
+Paseo’s generic ACP adapter does not handle sign-in for you, so complete terminal sign-in first. See [Prerequisites](#prerequisites). Otherwise, session creation will fail with `Authentication required`.
 
 ## Troubleshooting
 

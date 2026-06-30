@@ -1,18 +1,18 @@
 ---
-title: "Deep Research (深度研究) Use Cases and Prompt Library"
+title: "Deep Research Use Cases and Prompt Library"
 slug: "deep-research-use-cases"
 order: 2
 extract_headings: false
 preview: true
-preview_content: "Use cases and prompt templates for Deep Research (深度研究), covering a wide range of research scenarios."
+preview_content: "Use cases and prompt templates for Deep Research, covering a wide range of research scenarios."
 ---
 
 <SeoMeta
-  title="Kimi Deep Research (深度研究) Use Cases - Kimi Help Center"
-  description="Explore typical use cases for Kimi Deep Research (深度研究), including industry analysis, competitor research, market trends, academic literature reviews, and more, with practical prompt examples to help you get started quickly."
+  title="Kimi Deep Research Use Cases - Kimi Help Center"
+  description="Explore typical use cases for Kimi Deep Research, including industry analysis, competitor research, market trends, academic literature reviews, and more, with practical prompt examples to help you get started quickly."
 />
 
-# Deep Research (深度研究) Use Cases and Prompt Library
+# Deep Research Use Cases and Prompt Library
 ## Use Case Overview
 
 | Scenario | Example Prompt |
@@ -55,7 +55,7 @@ preview_content: "Use cases and prompt templates for Deep Research (深度研究
     {
       name: "prompt.txt",
       language: "text",
-      content: "Conduct Deep Research (深度研究) on [company name]:\n1. Business model and core barriers (moat, technology/channel advantages, competitive landscape);\n2. Financial health (revenue structure, profitability, cash flow, key risk points);\n3. Team and governance (founder background, shareholding structure, key talent);\n4. Market and policy (TAM/SAM/SOM, industry growth rate, regulatory environment);\n5. Risk identification (business, legal, exit barriers);\n6. Valuation reference (comparable companies, historical financing, reasonable range).\nRequirements: cite data sources, mark key conclusions with ⭐, and list controversial points separately.",
+      content: "Conduct Deep Research on [company name]:\n1. Business model and core barriers (moat, technology/channel advantages, competitive landscape);\n2. Financial health (revenue structure, profitability, cash flow, key risk points);\n3. Team and governance (founder background, shareholding structure, key talent);\n4. Market and policy (TAM/SAM/SOM, industry growth rate, regulatory environment);\n5. Risk identification (business, legal, exit barriers);\n6. Valuation reference (comparable companies, historical financing, reasonable range).\nRequirements: cite data sources, mark key conclusions with ⭐, and list controversial points separately.",
     },
   ]}
 />
@@ -79,7 +79,7 @@ preview_content: "Use cases and prompt templates for Deep Research (深度研究
     {
       name: "prompt.txt",
       language: "text",
-      content: "I am a graduate student in communication studies conducting academic research on the \"digital divide\". Please help me carry out systematic Deep Research (深度研究). I would like you to provide at least 15 core journal articles in Chinese and English. Give me the definition of this concept, summarize literature from the past 3–5 years, and suggest 3 more focused research topics for further study. Focus on the latest research and policy documents since 2020, with special attention to new research developments after the AI boom in 2023.",
+      content: "I am a graduate student in communication studies conducting academic research on the \"digital divide\". Please help me carry out systematic Deep Research. I would like you to provide at least 15 core journal articles in Chinese and English. Give me the definition of this concept, summarize literature from the past 3–5 years, and suggest 3 more focused research topics for further study. Focus on the latest research and policy documents since 2020, with special attention to new research developments after the AI boom in 2023.",
     },
   ]}
 />

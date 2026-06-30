@@ -27,16 +27,16 @@ Choose the cancellation method that matches the channel you used to subscribe:
 3. Click “Cancel Auto-Renewal” or “Manage Subscription”.
 4. Confirm the cancellation.
 
-### Cancel via WeChat (微信)
+### Cancel via WeChat
 
-1. Open WeChat (微信) and go to “Me → Services → Wallet”.
+1. Open WeChat and go to “Me → Services → Wallet”.
 2. Tap “Bills” in the upper-right corner → search for “Moonshot AI” → “Manage Payment Services” (or “Auto-Renewal”).
 3. Find and tap the relevant payment bill.
 4. Tap “Disable Payment Service” and confirm.
 
-### Cancel via Alipay (支付宝)
+### Cancel via Alipay
 
-1. Open Alipay (支付宝) and go to “Me → Settings”.
+1. Open Alipay and go to “Me → Settings”.
 2. Tap “Payment Settings → Password-Free Payment/Auto-Debit”.
 3. Find “Kimi Membership” and tap to open it.
 4. Tap “Disable Service” and confirm.

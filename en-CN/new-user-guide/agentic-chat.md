@@ -4,7 +4,7 @@ slug: "agentic-chat"
 order: 2
 extract_headings: false
 preview: true
-preview_content: "快速 get started with Kimi Chat and learn about model selection, tool calling, and session management."
+preview_content: "Quickly get started with Kimi Chat and learn about model selection, tool calling, and session management."
 ---
 
 <SeoMeta
@@ -43,7 +43,7 @@ No additional setup is required:
 | Web Search | Searches the web in real time to retrieve the latest information and updates |
 | Fetch Tool | Accesses a specified URL, such as web pages, documents, images, and other online resources |
 | Data Source | Connects to professional databases, supporting database list queries and data retrieval |
-| Image Search | Searches by text or image to 快速 find visual content |
+| Image Search | Searches by text or image to quickly find visual content |
 | IPython | Runs Python code for data analysis and visualization |
 | Memory | Provides intelligent memory, recording your personal habits and preferences |
 

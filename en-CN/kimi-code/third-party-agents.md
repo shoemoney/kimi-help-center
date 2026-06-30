@@ -54,7 +54,7 @@ Set the environment variables, then start Claude Code:
       name: "mac-linux.sh",
       language: "bash",
       content:
-        "export ANTHROPIC_BASE_URL=https://api.kimi.com/coding/\nexport ANTHROPIC_API_KEY=你的API Key\n\nclaude",
+        "export ANTHROPIC_BASE_URL=https://api.kimi.com/coding/\nexport ANTHROPIC_API_KEY=your-api-key\n\nclaude",
     },
   ]}
 />
@@ -67,7 +67,7 @@ Set the environment variables, then start Claude Code:
       name: "windows.ps1",
       language: "powershell",
       content:
-        '$env:ANTHROPIC_BASE_URL="https://api.kimi.com/coding/"\n$env:ANTHROPIC_API_KEY="你的API Key"\n\nclaude',
+        '$env:ANTHROPIC_BASE_URL="https://api.kimi.com/coding/"\n$env:ANTHROPIC_API_KEY="your-api-key"\n\nclaude',
     },
   ]}
 />

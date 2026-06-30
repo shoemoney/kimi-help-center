@@ -23,7 +23,7 @@ Oui. Chaque utilisateur peut rejoindre jusqu'à 10 organisations d'entreprise, e
 
 ## Au bout de combien de temps les membres peuvent-ils profiter des avantages après les avoir rejoints ?
 
-Les avantages s'activent dès l'acceptation de l'invitation. Les membres qui rejoignent l'organisation avec un siège non attribué ou nouvellement ajouté reçoivent l'intégralité du quota de la période en cours.
+Les avantages s'activent dès l'acceptation de l'invitation. Les membres qui rejoignent l'organisation avec un siège non attribué ou nouvellement ajouté reçoivent l'intégralité du crédits de la période en cours.
 
 ## Peut-on ajouter des sièges en cours d'abonnement ?
 

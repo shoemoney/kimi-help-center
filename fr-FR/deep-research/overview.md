@@ -23,10 +23,10 @@ preview_content: "Découvrez comment Deep Research planifie, recherche et rédig
 Pour chaque question, Kimi-Researcher mène de façon autonome l'ensemble du processus de recherche :
 | Étape | Description |
 | --- | --- |
-| **Clarification** | Pose de façon proactive des questions complémentaires afin de mieux cerner le problème |
+| **Clarification de l'intention** | Pose de façon proactive des questions complémentaires afin de mieux cerner le problème |
 | **Raisonnement approfondi** | En moyenne 23 étapes de raisonnement par tâche, pour organiser et clarifier les besoins |
 | **Recherche active** | Planifie environ 74 mots-clés, identifie 206 URL et ne retient que les 3,2 % de contenus de la plus haute qualité |
-| **Iterative reasoning** | Évalue les résultats pour déterminer si des recherches supplémentaires sont nécessaires |
+| **Raisonnement itératif approfondi** | Évalue les résultats pour déterminer si des recherches supplémentaires sont nécessaires |
 | **Appel d'outils** | Fait appel à des navigateurs, à l'exécution de code et à d'autres outils pour traiter les données |
 | **Génération du rapport** | Synthétise les informations dans un rapport long et structuré, agrémenté de citations |
 
@@ -79,7 +79,7 @@ Chaque tâche de recherche produit deux livrables :
 - **Mobile** : application Kimi → barre des tâches → mode Agent Deep Research
 **Étapes** :
 1. Saisissez votre question de recherche et envoyez-la
-2. Répondez aux questions de clarification pour confirmer l'orientation (ou cliquez sur « Tout inclure » pour passer cette étape)
+2. Répondez aux questions de Clarification de l'intention pour confirmer l'orientation (ou cliquez sur « Tout inclure » pour passer cette étape)
 3. Suivez en temps réel les mots-clés de recherche, le processus de raisonnement et les URL consultées
 4. Recevez deux livrables une fois la recherche terminée :
    - **Rapport Deep Research** (Markdown) : plus de 10 000 mots, avec table des matières et sources traçables
@@ -93,13 +93,13 @@ Avant de valider, pensez à préciser :
 - **Types de sources** : « privilégier les rapports officiels et les articles académiques »
 - **Décomposition de la question** : divisez les questions larges en sous-questions
 
-### 2. Affiner lors de la clarification
+### 2. Affiner lors de la Clarification de l'intention
 - Indiquez les directions que vous ne souhaitez *pas* aborder
 - Ajoutez des dimensions ou des angles précis à privilégier
 - Fournissez un contexte pour les questions complexes
 
 <Callout type="warning">
-Gardez vos réponses de clarification concises et précises : un message trop long ou trop vague risque de faire dévier la recherche.
+Gardez vos réponses de Clarification de l'intention concises et précises : un message trop long ou trop vague risque de faire dévier la recherche.
 </Callout>
 
 ### 3. Patientez pendant l'exécution

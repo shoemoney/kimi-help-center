@@ -23,7 +23,7 @@ Yes. Each user can join up to 10 enterprise organizations, independently occupyi
 
 ## How soon can members use benefits after joining?
 
-Benefits activate immediately upon accepting the invitation. Members who join with an unassigned or newly added seat receive the full quota for the current period.
+Benefits activate immediately upon accepting the invitation. Members who join with an unassigned or newly added seat receive the full credits for the current period.
 
 ## Can seats be added during the subscription period?
 

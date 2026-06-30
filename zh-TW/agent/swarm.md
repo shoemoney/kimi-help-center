@@ -49,7 +49,7 @@ K2.6 Agent Swarm [Beta 版] 採用 PARL（Parallel-Agent Reinforcement Learning�
 - **Mobile**：Kimi app → 切換模式 → 選擇 K2.6 Agent Swarm [Beta 版]
 
 <Callout type="warning">
-**Beta 版權限**：K2.6 Agent Swarm [Beta 版] 目前開放給 Moderato、Allegretto、Allegro 與 Vivace 會員使用。此類任務消耗的 quota（配額）明顯高於標準 Agent 任務。
+**Beta 版權限**：K2.6 Agent Swarm [Beta 版] 目前開放給 Moderato、Allegretto、Allegro 與 Vivace 會員使用。此類任務消耗的額度（配額）明顯高於標準 Agent 任務。
 </Callout>
 
 **步驟：**

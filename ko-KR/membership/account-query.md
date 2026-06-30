@@ -1,5 +1,5 @@
 ---
-title: "계정 및 credit 조회"
+title: "계정 및 크레딧 조회"
 slug: "membership-account-query"
 order: 5
 extract_headings: false
@@ -7,11 +7,11 @@ preview: false
 ---
 
 <SeoMeta
-  title="계정 및 credit 조회 - Kimi 헬프 센터"
+  title="계정 및 크레딧 조회 - Kimi 헬프 센터"
   description="멤버십을 구매하면 일반적으로 혜택이 즉시 활성화됩니다. 문제가 있어 보인다면 아래 안내를 확인해 보세요."
 />
 
-# 계정 및 credit 조회
+# 계정 및 크레딧 조회
 
 <Callout type="info">
 멤버십을 구매하면 일반적으로 혜택이 즉시 활성화됩니다. 문제가 있어 보인다면 아래 안내를 확인해 보세요.
@@ -35,4 +35,4 @@ preview: false
 ### 모바일 (iOS / Android)
 1. Kimi 앱을 열고 **프로필** 탭을 누르세요
 2. **멤버십**으로 이동하세요
-3. 요금제 정보와 credit 사용 내역을 확인할 수 있습니다
+3. 요금제 정보와 크레딧 사용 내역을 확인할 수 있습니다

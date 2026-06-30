@@ -301,7 +301,7 @@ First, confirm that your Key and Base URL belong to the same platform. `api.kimi
 
 | Platform | Base URL | Billing | Key creation |
 |------|---------|---------|-------------|
-| **Kimi Code** | OpenAI compatible: `https://api.kimi.com/coding/v1`<br> Anthropic compatible: `https://api.kimi.com/coding/` | Kimi membership subscription (includes quota) | [Kimi Code Console](https://www.kimi.com/code/console) |
+| **Kimi Code** | OpenAI compatible: `https://api.kimi.com/coding/v1`<br> Anthropic compatible: `https://api.kimi.com/coding/` | Kimi membership subscription (includes credits) | [Kimi Code Console](https://www.kimi.com/code/console) |
 | **Kimi Open Platform** | `https://api.moonshot.cn/v1` | Pay-as-you-go | [Kimi Open Platform](https://platform.kimi.com) |
 
 **The `kimi` command is not found after installation.**

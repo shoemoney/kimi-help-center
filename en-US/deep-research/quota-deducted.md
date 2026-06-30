@@ -17,7 +17,7 @@ Deep Research distinguishes between "standard conversations" and "task execution
 
 ## Billing rules
 
-- **Billing method**: After selecting a Deep Research task, credits are deducted from the shared pool (other membership features). Kimi Code uses a separate quota pool.
+- **Billing method**: After selecting a Deep Research task, credits are deducted from the shared pool (other membership features). Kimi Code uses a separate credit pool.
 - **Refund on failure**: If a task fails (no valid results returned), click the "👎" feedback button. Our team will verify the issue and refund the corresponding credits.
 
 ## How to check remaining credits？

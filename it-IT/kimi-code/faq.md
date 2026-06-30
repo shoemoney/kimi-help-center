@@ -76,7 +76,7 @@ I vantaggi dell'abbonamento Kimi Code e la [Kimi Open Platform](https://platform
 
 | Piattaforma | Base URL | Fatturazione | Creazione della chiave |
 |------|---------|---------|-------------|
-| **Kimi Code** | Compatibile con Anthropic: `https://api.kimi.com/coding/` | Abbonamento Kimi (quota inclusa) | [Console di Kimi Code](https://www.kimi.com/code/console) |
+| **Kimi Code** | Compatibile con Anthropic: `https://api.kimi.com/coding/` | Abbonamento Kimi (crediti inclusa) | [Console di Kimi Code](https://www.kimi.com/code/console) |
 | **Kimi Open Platform** | `https://api.moonshot.cn/v1` | Pagamento a consumo | [Kimi Open Platform](https://platform.kimi.com) |
 
 ### La chiave API non è valida
@@ -86,9 +86,9 @@ Possibili motivi per cui una chiave API non è valida:
 - **Chiave inserita in modo errato**: controlla la presenza di spazi extra o caratteri mancanti.
 - **Chiave scaduta o revocata**: verifica lo stato della chiave nella console della piattaforma.
 
-### Abbonamento scaduto o quota esaurita
+### Abbonamento scaduto o crediti esaurita
 
-Se utilizzi la piattaforma Kimi Code, puoi controllare la quota attuale e lo stato dell'abbonamento con il comando `/usage`. Se la quota è esaurita o l'abbonamento è scaduto, devi rinnovarlo o aggiornarlo su [Kimi Code](https://kimi.com/code).
+Se utilizzi la piattaforma Kimi Code, puoi controllare la crediti attuale e lo stato dell'abbonamento con il comando `/usage`. Se la crediti è esaurita o l'abbonamento è scaduto, devi rinnovarlo o aggiornarlo su [Kimi Code](https://kimi.com/code).
 
 ## Abbonamento
 

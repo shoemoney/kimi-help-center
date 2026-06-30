@@ -22,10 +22,10 @@ Kimi-Researcher is trained with End-to-End Agentic RL (端到端自主强化学�
 ## Workflow
 
 For every question it receives, Kimi-Researcher independently completes the full research workflow:
-- Clarification (澄清): proactively asks follow-up questions while understanding the task, building a clearer problem space;
+- Clarification (意图澄清): proactively asks follow-up questions while understanding the task, building a clearer problem space;
 - Deep thinking: performs an average of 23 reasoning steps per task, independently organizing and resolving the requirements;
 - Proactive search: for each task, plans an average of 74 keywords and finds 206 URLs. The model then evaluates and filters out the top 3.2% of content with the highest information quality, removing redundant and low-quality information;
-- Iterative reasoning (迭代推理): decides whether supplementary retrieval is needed based on intermediate results, dynamically adjusting the research path;
+- Iterative reasoning (深度推理): decides whether supplementary retrieval is needed based on intermediate results, dynamically adjusting the research path;
 - Tool use: independently calls tools such as browsers and code execution to process raw data and generate analytical conclusions;
 - Report generation: integrates all information into a structured long-form report with cited sources
 
@@ -105,7 +105,7 @@ Deep Research (深度研究) entry points
   alt="Intent clarification"
 />
 
-2. Based on the clarification questions returned by Kimi, confirm or refine the research direction. You can also click “Include everything” to skip;
+2. Based on the Clarification (意图澄清) questions returned by Kimi, confirm or refine the research direction. You can also click “Include everything” to skip;
 3. The system enters the automatic execution stage. You can view retrieved keywords, the reasoning process, and visited URLs in real time;
 
 <Frames
@@ -136,8 +136,8 @@ The research quality of Kimi-Researcher largely depends on how clear the questio
 - Source type: specify the types of information to prioritize, such as “prioritize official reports and academic papers”. For specific fields, you can further narrow the scope—for example, PubMed for medicine, or papers and evaluation results on arXiv or Papers With Code for AI;
 - Problem breakdown: for broad and complex questions, split them into multiple sub-questions and research them separately instead of submitting everything at once. This improves depth and accuracy each time.
 
-2. During clarification: actively calibrate the research direction
-After you submit a question, Kimi will return a clarification confirmation. This step is critical to research quality, so make full use of it:
+2. During Clarification (意图澄清): actively calibrate the research direction
+After you submit a question, Kimi will return a Clarification (意图澄清) confirmation. This step is critical to research quality, so make full use of it:
 - Clearly state any directions you do not want covered to help the model avoid distractions;
 - Add the specific dimensions or angles that need special attention;
 - If the question is complex, add background information or usage scenarios here to help the model understand the research intent more accurately.

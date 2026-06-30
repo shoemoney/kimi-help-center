@@ -51,7 +51,7 @@ Kimi Slides 生成可能會在以下情況卡住：
 - 如果在多個瀏覽器與裝置上幻燈片卡片仍未出現，請依照下方的[問題回饋指南](#bug-feedback-guidelines)提交回饋，並開啟新對話重新生成。
 
 <Callout type="info">
-如果你已確認問題在多台裝置與多個瀏覽器上都持續存在，請寄信至 [support@moonshot.cn](mailto:support@moonshot.cn) 回報，並附上對話連結與問題截圖。確認為 bug 後，我們會補償相應的 credit。
+如果你已確認問題在多台裝置與多個瀏覽器上都持續存在，請寄信至 [support@moonshot.cn](mailto:support@moonshot.cn) 回報，並附上對話連結與問題截圖。確認為 bug 後，我們會補償相應的額度。
 </Callout>
 
 ### 幻燈片預覽空白或樣式異常

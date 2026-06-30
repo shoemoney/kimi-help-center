@@ -54,13 +54,13 @@ Devido ao limite de contexto de 256K caracteres dos large language models (cerca
 ## Observações importantes
 
 <Callout type="warning">
-**Uso de quota**: as tarefas do Agent consomem quota do pool compartilhado (outros recursos de assinatura). O Kimi Code usa um pool de quota separado. Cada tarefa do Agent normalmente consome 1 unidade de quota. Para informações detalhadas de quota por nível de assinatura, consulte [Quota e cobrança](/agent/quota-and-billing).
+**Uso de créditos**: as tarefas do Agent consomem créditos do pool compartilhado (outros recursos de assinatura). O Kimi Code usa um pool de créditos separado. Cada tarefa do Agent normalmente consome 1 unidade de créditos. Para informações detalhadas de créditos por nível de assinatura, consulte [Créditos e cobrança](/agent/créditos-and-billing).
 Nível gratuito: 6 tarefas do Agent/mês
 Níveis pagos: de 60 a 720 tarefas do Agent/mês, dependendo do seu plano
 </Callout>
 
 - **Tempo de execução**: no modo Agent, uma única tarefa normalmente leva de 5 a 20 minutos. As tarefas do K2.6 Agent Swarm [Beta] podem demorar mais. Você pode sair da página — basta não clicar em Parar para interromper a tarefa.
-- **Uso de quota**: as tarefas do Agent consomem quota do pool compartilhado. O Kimi Code usa um pool de quota separado.
+- **Uso de créditos**: as tarefas do Agent consomem créditos do pool compartilhado. O Kimi Code usa um pool de créditos separado.
 - **Tarefas simples**: para perguntas e respostas simples, recomenda-se o modo de chat padrão, que oferece respostas mais rápidas.
 
 <Callout type="warning">
@@ -91,6 +91,6 @@ Um projeto completo normalmente é formado por três partes: interface de fronte
 
 O Agent usa um tamanho de contexto de **256K caracteres** (cerca de 40.000 a 50.000 caracteres chineses / ~100.000 palavras em inglês).
 
-**P: Como a quota do Agent é calculada?**
+**P: Como a créditos do Agent é calculada?**
 
-O Agent, o PPT e outros recursos de assinatura compartilham um único pool de quota. O Kimi Code usa um pool de quota separado. Cada tarefa do Agent normalmente conta como uma unidade de quota. Veja sua quota e uso atuais em [Créditos de assinatura](https://www.kimi.com/membership-credits).
+O Agent, o PPT e outros recursos de assinatura compartilham um único pool de créditos. O Kimi Code usa um pool de créditos separado. Cada tarefa do Agent normalmente conta como uma unidade de créditos. Veja sua créditos e uso atuais em [Créditos de assinatura](https://www.kimi.com/membership-credits).

@@ -301,7 +301,7 @@ Kimi Code CLI, yerel verilerini varsayılan olarak `~/.kimi-code/` altında sakl
 
 | Platform | Base URL | Faturalandırma | Anahtar oluşturma |
 |------|---------|---------|-------------|
-| **Kimi Code** | OpenAI uyumlu: `https://api.kimi.com/coding/v1`<br> Anthropic uyumlu: `https://api.kimi.com/coding/` | Kimi üyelik aboneliği (quota dahildir) | [Kimi Code Konsolu](https://www.kimi.com/code/console) |
+| **Kimi Code** | OpenAI uyumlu: `https://api.kimi.com/coding/v1`<br> Anthropic uyumlu: `https://api.kimi.com/coding/` | Kimi üyelik aboneliği (kredi dahildir) | [Kimi Code Konsolu](https://www.kimi.com/code/console) |
 | **Kimi Açık Platformu** | `https://api.moonshot.cn/v1` | Kullandıkça öde | [Kimi Açık Platformu](https://platform.kimi.com) |
 
 **Kurulumdan sonra `kimi` komutu bulunamıyor.**

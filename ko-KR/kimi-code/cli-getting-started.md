@@ -301,7 +301,7 @@ Kimi Code CLI는 기본적으로 로컬 데이터를 `~/.kimi-code/` 아래에 �
 
 | 플랫폼 | Base URL | 과금 | 키 발급 |
 |------|---------|---------|-------------|
-| **Kimi Code** | OpenAI 호환: `https://api.kimi.com/coding/v1`<br> Anthropic 호환: `https://api.kimi.com/coding/` | Kimi 멤버십 구독(quota 포함) | [Kimi Code 콘솔](https://www.kimi.com/code/console) |
+| **Kimi Code** | OpenAI 호환: `https://api.kimi.com/coding/v1`<br> Anthropic 호환: `https://api.kimi.com/coding/` | Kimi 멤버십 구독(크레딧 포함) | [Kimi Code 콘솔](https://www.kimi.com/code/console) |
 | **Kimi 오픈 플랫폼** | `https://api.moonshot.cn/v1` | 사용량 기반 과금 | [Kimi 오픈 플랫폼](https://platform.kimi.com) |
 
 **설치 후 `kimi` 명령을 찾을 수 없습니다.**

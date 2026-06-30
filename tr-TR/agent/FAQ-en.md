@@ -18,15 +18,15 @@ preview: false
 Bunun nedeni aşağıdakilerden biri olabilir:
 1. Yüklediğiniz dosya veya beceri açıklaması eksik.
 2. Dosya biçimi ya da sayısı gereksinimleri karşılamıyor.
-3. Sistem, hesabınızın quota'sının tükendiğini tespit etti.
+3. Sistem, hesabınızın kredi'sının tükendiğini tespit etti.
 
-## Beceri oluşturmak quota'yı nasıl tüketir?
+## Beceri oluşturmak kredi'yı nasıl tüketir?
 
-Beceri oluşturmak **token'larınızı** harcar; bunlar hediye aramalarınızdan ya da resmi üyelik quota'nızdan gelebilir.
+Beceri oluşturmak **token'larınızı** harcar; bunlar hediye aramalarınızdan ya da resmi üyelik kredi'nızdan gelebilir.
 
 **Düşülme Sırası**:
 1. Önce hediye aramalar kullanılır.
-2. Hediye arama kalmadıysa üyelik quota'sından düşülür.
+2. Hediye arama kalmadıysa üyelik kredi'sından düşülür.
 
 <Callout type="info">
 Oluşturma işlemi başarısız olursa hiçbir token düşülmez. Token'lar yalnızca işlem başarıyla tamamlandığında harcanır.
@@ -42,7 +42,7 @@ Evet, sistemin kararlılığını ve adil kullanımı sağlamak için aşağıda
 ## Beceri oluşturma başarısız olursa ne yapmalıyım?
 
 * Başarısız beceri kartında **Yeniden Dene** veya **Sil** seçeneklerini kullanabilirsiniz.
-* Başarısız denemeler quota tüketmez.
+* Başarısız denemeler kredi tüketmez.
 * Başarısız kartta özgün beceri açıklaması gösterilir; böylece farklı görevleri kolayca ayırt edebilirsiniz.
 
 ## Yeni beceriler için hangi adlandırma gereksinimleri geçerli?

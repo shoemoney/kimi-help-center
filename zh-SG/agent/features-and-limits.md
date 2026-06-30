@@ -54,7 +54,7 @@ Agent 可以生成全栈内容，包括前端界面、后端服务和持久化�
 ## 重要说明
 
 <Callout type="warning">
-**配额使用**：Agent 任务会消耗共享池（其他会员功能）的配额。Kimi Code 使用单独的配额池。每个 Agent 任务通常消耗 1 个配额单位。不同会员等级的详细配额信息，请参阅[配额与计费](/agent/quota-and-billing)。
+**配额使用**：Agent 任务会消耗共享池（其他会员功能）的配额。Kimi Code 使用单独的配额池。每个 Agent 任务通常消耗 1 个配额单位。不同会员等级的详细配额信息，请参阅[配额与计费](/agent/额度-and-billing)。
 免费等级：每月 6 个 Agent 任务
 付费等级：每月 60–720 个 Agent 任务，具体取决于你的套餐
 </Callout>
@@ -93,4 +93,4 @@ Agent 使用 **256K 个字符** 的上下文长度（约 40,000–50,000 个中�
 
 **问：Agent 配额如何计算？**
 
-Agent、PPT 及其他会员功能共用一个配额池。Kimi Code 使用单独的配额池。每个 Agent 任务通常计为 1 个配额单位。你可以在[会员额度](https://www.kimi.com/membership-credits)查看当前配额和使用情况。
+Agent、PPT 及其他会员功能共用一个配额池。Kimi Code 使用单独的配额池。每个 Agent 任务通常计为 1 个配额单位。你可以在[会员额度](https://www.kimi.com/membership-额度)查看当前配额和使用情况。

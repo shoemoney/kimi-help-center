@@ -26,9 +26,9 @@ Ao enviar sua pergunta:
 | Dica | Descrição |
 | --- | --- |
 | **Delimite o escopo** | Defina o período, a abrangência geográfica e os tipos de fonte para evitar perguntas amplas demais |
-| **Aproveite a clarification** | Use o prompt de clarification para indicar quais direções você não quer abordar e acrescentar dimensões de foco |
-| **Seja conciso na entrada** | Textos longos demais ou pouco claros durante a clarification podem causar desvios |
+| **Aproveite a Clarification (Esclarecimento de intenção)** | Use o prompt de Clarification (Esclarecimento de intenção) para indicar quais direções você não quer abordar e acrescentar dimensões de foco |
+| **Seja conciso na entrada** | Textos longos demais ou pouco claros durante a Clarification (Esclarecimento de intenção) podem causar desvios |
 
 <Callout type="tip">
-Para obter os melhores resultados, mantenha suas respostas na clarification concisas e específicas.
+Para obter os melhores resultados, mantenha suas respostas na Clarification (Esclarecimento de intenção) concisas e específicas.
 </Callout>

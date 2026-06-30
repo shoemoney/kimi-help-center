@@ -23,5 +23,5 @@ The platform will complete the review within 1–3 business days. If the issue i
 When submitting a question, we recommend paying attention to the following:
 
 - **Focus the question scope**: Specify the time range, geographic scope, and source types to avoid making the question too broad;
-- **Make good use of Clarification**: After you submit a question, Kimi will return a Clarification confirmation. Use this step to clearly state the directions you do not want covered and add the dimensions that need special focus;
-- **Keep your input concise**: If your input during Clarification is too long, unclear, or deviates from the original question, the research direction may go off track.
+- **Make good use of Clarification (意图澄清)**: After you submit a question, Kimi will return a Clarification (意图澄清) confirmation. Use this step to clearly state the directions you do not want covered and add the dimensions that need special focus;
+- **Keep your input concise**: If your input during Clarification (意图澄清) is too long, unclear, or deviates from the original question, the research direction may go off track.

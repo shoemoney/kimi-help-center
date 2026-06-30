@@ -76,7 +76,7 @@ Kimi Code 會員權益與 [Kimi 開放平台](https://platform.kimi.com) 使用�
 
 | 平台 | Base URL | 計費方式 | 建立 Key |
 |------|---------|---------|-------------|
-| **Kimi Code** | Anthropic 相容：`https://api.kimi.com/coding/` | Kimi 會員訂閱（包含 quota） | [Kimi Code Console](https://www.kimi.com/code/console) |
+| **Kimi Code** | Anthropic 相容：`https://api.kimi.com/coding/` | Kimi 會員訂閱（包含額度） | [Kimi Code Console](https://www.kimi.com/code/console) |
 | **Kimi 開放平台** | `https://api.moonshot.cn/v1` | 按量付費 | [Kimi 開放平台](https://platform.kimi.com) |
 
 ### API key 無效
@@ -86,9 +86,9 @@ API key 無效可能有以下原因：
 - **Key 輸入錯誤**：請檢查是否有多餘空格或遺漏字元。
 - **Key 已過期或已撤銷**：請在平台主控台確認 Key 狀態。
 
-### 會員已到期或 quota 已用完
+### 會員已到期或額度 已用完
 
-如果你使用的是 Kimi Code 平台，可以透過 `/usage` 指令查看目前的 quota 與會員狀態。若 quota 已用完或會員已到期，需要前往 [Kimi Code](https://kimi.com/code) 續訂或升級。
+如果你使用的是 Kimi Code 平台，可以透過 `/usage` 指令查看目前的額度 與會員狀態。若額度 已用完或會員已到期，需要前往 [Kimi Code](https://kimi.com/code) 續訂或升級。
 
 ## 訂閱
 

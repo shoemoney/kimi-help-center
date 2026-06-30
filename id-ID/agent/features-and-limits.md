@@ -54,13 +54,13 @@ Karena batas konteks model bahasa besar sebesar 256K karakter (kira-kira 40.000�
 ## Catatan penting
 
 <Callout type="warning">
-**Penggunaan Quota**: Tugas Agent mengonsumsi quota dari kumpulan bersama (fitur keanggotaan lainnya). Kimi Code menggunakan kumpulan quota terpisah. Setiap tugas Agent biasanya mengonsumsi 1 unit quota. Untuk informasi quota rinci menurut tingkat keanggotaan, lihat [Quota & Penagihan](/agent/quota-and-billing).
+**Penggunaan kredit**: Tugas Agent mengonsumsi kredit dari kumpulan bersama (fitur keanggotaan lainnya). Kimi Code menggunakan kumpulan kredit terpisah. Setiap tugas Agent biasanya mengonsumsi 1 unit kredit. Untuk informasi kredit rinci menurut tingkat keanggotaan, lihat [Kredit & Penagihan](/agent/kredit-and-billing).
 Tingkat gratis: 6 tugas Agent/bulan
 Tingkat berbayar: 60–720 tugas Agent/bulan tergantung paket Anda
 </Callout>
 
 - **Waktu eksekusi**: Dalam mode Agent, satu tugas biasanya memakan waktu 5–20 menit. Tugas K2.6 Agent Swarm [Beta] mungkin lebih lama. Anda boleh meninggalkan halaman — cukup jangan klik Stop agar tugas tidak terhenti.
-- **Penggunaan quota**: Tugas Agent mengonsumsi quota dari kumpulan bersama. Kimi Code menggunakan kumpulan quota terpisah. 
+- **Penggunaan kredit**: Tugas Agent mengonsumsi kredit dari kumpulan bersama. Kimi Code menggunakan kumpulan kredit terpisah. 
 - **Tugas sederhana**: Untuk tanya jawab sederhana, mode chat standar disarankan demi respons yang lebih cepat.
 
 <Callout type="warning">
@@ -91,6 +91,6 @@ Sebuah proyek yang lengkap biasanya terdiri dari tiga bagian: antarmuka frontend
 
 Agent menggunakan panjang konteks **256K karakter** (kira-kira 40.000–50.000 karakter Mandarin / ~100.000 kata Inggris).
 
-**T: Bagaimana quota Agent dihitung?**
+**T: Bagaimana kredit Agent dihitung?**
 
-Agent, PPT, dan fitur keanggotaan lainnya berbagi satu kumpulan quota. Kimi Code menggunakan kumpulan quota terpisah. Setiap tugas Agent biasanya dihitung sebagai satu unit quota. Lihat quota dan penggunaan Anda saat ini di [Kredit Keanggotaan](https://www.kimi.com/membership-credits).
+Agent, PPT, dan fitur keanggotaan lainnya berbagi satu kumpulan kredit. Kimi Code menggunakan kumpulan kredit terpisah. Setiap tugas Agent biasanya dihitung sebagai satu unit kredit. Lihat kredit dan penggunaan Anda saat ini di [Kredit Keanggotaan](https://www.kimi.com/membership-credits).

@@ -33,7 +33,7 @@ preview_content: "ワンクリック設定で、自分専用の Kimi Claw AI ア
 
 </Callout>
 
-- Kimi は K2.6 Thinking モデルを自動でプロビジョニングし、Kimi Code の credit を接続して、Kimi Web Search を有効にします。個別の API 設定は必要ありません。
+- Kimi は K2.6 Thinking モデルを自動でプロビジョニングし、Kimi Code の クレジット を接続して、Kimi Web Search を有効にします。個別の API 設定は必要ありません。
 - Kimi Claw は Telegram やその他のチャットプラットフォームに直接デプロイできます。
 
 ## はじめに

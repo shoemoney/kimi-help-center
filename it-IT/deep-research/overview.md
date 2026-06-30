@@ -23,10 +23,10 @@ preview_content: "Scopri come Deep Research pianifica, cerca e produce in totale
 Per ogni domanda, Kimi-Researcher completa in modo indipendente l'intera pipeline di ricerca:
 | Fase | Descrizione |
 | --- | --- |
-| **Clarification** | Pone domande di approfondimento in modo proattivo per definire con maggiore chiarezza lo spazio del problema |
+| **Chiarimento dell'intento** | Pone domande di approfondimento in modo proattivo per definire con maggiore chiarezza lo spazio del problema |
 | **Ragionamento approfondito** | In media 23 passaggi di ragionamento per compito, per organizzare e soddisfare i requisiti |
 | **Ricerca attiva** | Pianifica ~74 parole chiave, individua 206 URL e filtra il 3,2% dei contenuti di qualità più elevata |
-| **Iterative reasoning** | Valuta i risultati per stabilire se sono necessarie ulteriori ricerche |
+| **Ragionamento iterativo approfondito** | Valuta i risultati per stabilire se sono necessarie ulteriori ricerche |
 | **Invocazione di strumenti** | Richiama browser, esecuzione di codice e altri strumenti per elaborare i dati |
 | **Generazione del report** | Sintetizza le informazioni in un report strutturato e dettagliato con citazioni |
 
@@ -79,7 +79,7 @@ Ogni compito di ricerca produce due risultati:
 - **Mobile**: app Kimi → Barra delle attività → modalità Deep Research Agent
 **Passaggi**:
 1. Inserisci la tua domanda di ricerca e invia
-2. Rispondi alle domande di chiarimento per confermare la direzione (oppure clicca su "Includi tutto" per saltare questo passaggio)
+2. Rispondi alle domande di Clarification (Chiarimento dell'intento) per confermare la direzione (oppure clicca su "Includi tutto" per saltare questo passaggio)
 3. Segui in tempo reale le parole chiave di ricerca, il processo di ragionamento e gli URL visitati
 4. Al termine ricevi due risultati:
    - **Report Deep Research** (Markdown): oltre 10.000 parole con indice e fonti tracciabili
@@ -93,13 +93,13 @@ Prima di inviare, valuta se specificare:
 - **Tipi di fonti**: "dai priorità a report ufficiali e articoli accademici"
 - **Scomposizione della domanda**: suddividi domande ampie in sotto-domande
 
-### 2. Affina durante la fase di chiarimento
+### 2. Affina durante la Clarification (Chiarimento dell'intento)
 - Indica le direzioni che *non* vuoi trattare
 - Aggiungi dimensioni o angolazioni specifiche su cui concentrarti
 - Fornisci un contesto di base per le domande complesse
 
 <Callout type="warning">
-Mantieni le risposte di chiarimento concise e precise: input troppo lunghi o poco chiari possono far deviare la ricerca.
+Mantieni le risposte di Clarification (Chiarimento dell'intento) concise e precise: input troppo lunghi o poco chiari possono far deviare la ricerca.
 </Callout>
 
 ### 3. Porta pazienza durante l'esecuzione

@@ -76,7 +76,7 @@ Manfaat keanggotaan Kimi Code dan [Kimi Open Platform](https://platform.kimi.com
 
 | Platform | Base URL | Penagihan | Pembuatan key |
 |------|---------|---------|-------------|
-| **Kimi Code** | Kompatibel dengan Anthropic: `https://api.kimi.com/coding/` | Langganan keanggotaan Kimi (termasuk quota) | [Konsol Kimi Code](https://www.kimi.com/code/console) |
+| **Kimi Code** | Kompatibel dengan Anthropic: `https://api.kimi.com/coding/` | Langganan keanggotaan Kimi (termasuk kredit) | [Konsol Kimi Code](https://www.kimi.com/code/console) |
 | **Kimi Open Platform** | `https://api.moonshot.cn/v1` | Bayar sesuai pemakaian | [Kimi Open Platform](https://platform.kimi.com) |
 
 ### API key tidak valid
@@ -86,9 +86,9 @@ Kemungkinan penyebab API key tidak valid:
 - **Key dimasukkan secara keliru**: Periksa apakah ada spasi tambahan atau karakter yang hilang.
 - **Key kedaluwarsa atau dicabut**: Konfirmasikan status key di konsol platform.
 
-### Keanggotaan kedaluwarsa atau quota habis
+### Keanggotaan kedaluwarsa atau kredit habis
 
-Jika Anda menggunakan platform Kimi Code, Anda dapat memeriksa quota saat ini dan status keanggotaan melalui perintah `/usage`. Jika quota Anda habis atau keanggotaan Anda kedaluwarsa, Anda perlu memperbarui atau meningkatkan di [Kimi Code](https://kimi.com/code).
+Jika Anda menggunakan platform Kimi Code, Anda dapat memeriksa kredit saat ini dan status keanggotaan melalui perintah `/usage`. Jika kredit Anda habis atau keanggotaan Anda kedaluwarsa, Anda perlu memperbarui atau meningkatkan di [Kimi Code](https://kimi.com/code).
 
 ## Langganan
 

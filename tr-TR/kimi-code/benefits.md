@@ -20,7 +20,7 @@ Kimi Code, Kimi üyelik planına dahil olan ve üyelerin kişisel geliştirme i�
 ## Faturalandırma
 
 - Kimi Code kullanımı **abonelik ücretinize dahildir** — ek ücret alınmaz.
-- Her istek, **Kimi Code'a özel quota havuzunuzdan** credit tüketir; farklı planlar farklı miktarda credit içerir.
+- Her istek, **Kimi Code'a özel kredi havuzunuzdan** credit tüketir; farklı planlar farklı miktarda credit içerir.
 - Sistem, plan creditlerini tüketmeden önce bonus creditleri önceliklendirir.
 
 ## Credit yenileme

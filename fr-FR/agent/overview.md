@@ -67,7 +67,7 @@ Décrivez clairement votre tâche, suivez l'avancement de l'exécution, puis té
       type: "document",
     },
     {
-      title: "Quota \u0026 facturation",
+      title: "crédits \u0026 facturation",
       description: "Détails sur les tarifs et l'abonnement",
       pageUrl: "/agent/quota-and-billing",
       type: "data",

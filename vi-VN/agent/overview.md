@@ -62,12 +62,12 @@ Mô tả tác vụ của bạn một cách rõ ràng, theo dõi tiến trình th
   columns={[
     {
       title: "Tính năng \u0026 Giới hạn",
-      description: "Khả năng và quota",
+      description: "Khả năng và tín dụng",
       pageUrl: "/agent/agent-features-and-limits",
       type: "document",
     },
     {
-      title: "Quota \u0026 Thanh toán",
+      title: "tín dụng \u0026 Thanh toán",
       description: "Chi tiết về giá và tư cách thành viên",
       pageUrl: "/agent/quota-and-billing",
       type: "data",

@@ -26,9 +26,9 @@ Sorunuzu gönderirken:
 | İpucu | Açıklama |
 | --- | --- |
 | **Kapsamı daraltın** | Aşırı geniş sorulardan kaçınmak için zaman aralığını, coğrafi kapsamı ve kaynak türlerini belirleyin |
-| **Clarification'dan yararlanın** | Kapsanmasını istemediğiniz yönleri belirtmek ve odak boyutları eklemek için clarification istemini kullanın |
-| **Girdiyi öz tutun** | Clarification sırasında aşırı uzun veya belirsiz girdiler sapmaya yol açabilir |
+| **Niyet netleştirmeden yararlanın** | Kapsanmasını istemediğiniz yönleri belirtmek ve odak boyutları eklemek için Clarification (Niyet netleştirme) istemini kullanın |
+| **Girdiyi öz tutun** | Clarification (Niyet netleştirme) sırasında aşırı uzun veya belirsiz girdiler sapmaya yol açabilir |
 
 <Callout type="tip">
-En iyi sonuçlar için clarification yanıtlarını öz ve net tutun.
+En iyi sonuçlar için Clarification (Niyet netleştirme) yanıtlarını öz ve net tutun.
 </Callout>

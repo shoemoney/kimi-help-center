@@ -20,7 +20,7 @@ Kimi Code est un service inclus dans l'offre d'abonnement Kimi, qui propose une 
 ## Facturation
 
 - L'utilisation de Kimi Code est **incluse dans vos frais d'abonnement** — aucuns frais supplémentaires ne s'appliquent.
-- Chaque requête consomme des credits de votre **réserve de quota exclusive Kimi Code** ; les différentes offres incluent des montants de credits différents.
+- Chaque requête consomme des credits de votre **réserve de crédits exclusive Kimi Code** ; les différentes offres incluent des montants de credits différents.
 - Le système privilégie les credits bonus avant de consommer les credits de l'offre.
 
 ## Renouvellement des credits

@@ -1,9 +1,9 @@
 {
   "title": "メンバーシップ",
-  "description": "プラン、請求、credit、アップグレード、請求書、よくある質問",
+  "description": "プラン、請求、クレジット、アップグレード、請求書、よくある質問",
   "seo": {
     "title": "メンバーシップ",
-    "description": "プラン、請求、credit、アップグレード、請求書、よくある質問"
+    "description": "プラン、請求、クレジット、アップグレード、請求書、よくある質問"
   },
   "icon": "membership",
   "order": 9,

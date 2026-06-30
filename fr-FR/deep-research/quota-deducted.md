@@ -17,7 +17,7 @@ Deep Research fait la distinction entre les « conversations standard » et l'«
 
 ## Règles de facturation
 
-- **Mode de facturation** : après la sélection d'une tâche Deep Research, les crédits sont déduits du pool partagé (autres fonctionnalités de l'abonnement). Kimi Code utilise un pool de quota distinct.
+- **Mode de facturation** : après la sélection d'une tâche Deep Research, les crédits sont déduits du pool partagé (autres fonctionnalités de l'abonnement). Kimi Code utilise un pool de crédits distinct.
 - **Remboursement en cas d'échec** : si une tâche échoue (aucun résultat valable renvoyé), cliquez sur le bouton de retour « 👎 ». Notre équipe vérifiera le problème et remboursera les crédits correspondants.
 
 ## Comment consulter les crédits restants ？

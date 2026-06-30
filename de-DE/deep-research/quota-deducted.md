@@ -17,7 +17,7 @@ Deep Research unterscheidet zwischen „Standardunterhaltungen“ und „Aufgabe
 
 ## Abrechnungsregeln
 
-- **Abrechnungsweise**: Nach Auswahl einer Deep-Research-Aufgabe werden Credits aus dem gemeinsamen Pool (sonstige Mitgliedschaftsfunktionen) abgezogen. Kimi Code nutzt einen eigenen quota-Pool.
+- **Abrechnungsweise**: Nach Auswahl einer Deep-Research-Aufgabe werden Credits aus dem gemeinsamen Pool (sonstige Mitgliedschaftsfunktionen) abgezogen. Kimi Code nutzt einen eigenen Credits-Pool.
 - **Erstattung bei Fehlschlag**: Schlägt eine Aufgabe fehl (es werden keine verwertbaren Ergebnisse geliefert), klicken Sie auf die Feedback-Schaltfläche „👎“. Unser Team prüft das Problem und erstattet die entsprechenden Credits.
 
 ## Wie prüfe ich meine verbleibenden Credits？

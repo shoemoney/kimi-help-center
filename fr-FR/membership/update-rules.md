@@ -8,28 +8,28 @@ preview: false
 
 <SeoMeta
   title="Crédits : mise à jour et règles d'utilisation - Centre d'aide Kimi"
-  description="L'abonnement Kimi inclut deux réserves de crédits. Kimi Code dispose de son propre quota ; les autres fonctionnalités de l'abonnement partagent une même réserve de crédits, consommés selon l'usage réel."
+  description="L'abonnement Kimi inclut deux réserves de crédits. Kimi Code dispose de son propre crédits ; les autres fonctionnalités de l'abonnement partagent une même réserve de crédits, consommés selon l'usage réel."
 />
 
 # Crédits : mise à jour et règles d'utilisation
 
 <Callout type="info">
-L'abonnement Kimi inclut deux réserves de crédits. Kimi Code dispose de son propre quota ; les autres fonctionnalités de l'abonnement partagent une même réserve de crédits, consommés selon l'usage réel.
+L'abonnement Kimi inclut deux réserves de crédits. Kimi Code dispose de son propre crédits ; les autres fonctionnalités de l'abonnement partagent une même réserve de crédits, consommés selon l'usage réel.
 </Callout>
 
 ## Que sont les deux réserves de crédits ?
-Plutôt que d'attribuer un quota distinct à chaque fonctionnalité, votre abonnement vous donne accès à deux réserves de crédits. Kimi Code dispose de son propre quota ; les autres fonctionnalités de l'abonnement partagent une même réserve, utilisable partout :
+Plutôt que d'attribuer un crédits distinct à chaque fonctionnalité, votre abonnement vous donne accès à deux réserves de crédits. Kimi Code dispose de son propre crédits ; les autres fonctionnalités de l'abonnement partagent une même réserve, utilisable partout :
 | Fonctionnalité | Description |
 |---------|-------------|
 | **Tâches d'agent** | Sites web, documents, présentations, feuilles de calcul, recherche approfondie |
 | **Kimi Claw** | Votre assistant IA personnel déployé dans le cloud |
 | **Autres fonctionnalités** | Génération d'images et bien plus |
 
-> **Kimi Chat** : conversations avec les modèles les plus récents (sans consommation de quota)
-> **Kimi Code** : assistant de programmation propulsé par l'IA (réserve de quota distincte)
+> **Kimi Chat** : conversations avec les modèles les plus récents (sans consommation de crédits)
+> **Kimi Code** : assistant de programmation propulsé par l'IA (réserve de crédits distincte)
 
 <Callout type="tip">
-Vous pouvez ainsi répartir vos crédits comme bon vous semble au sein de la réserve partagée — privilégier la recherche un mois, les documents le mois suivant. Kimi Chat ne consomme aucun quota, et Kimi Code utilise sa propre réserve de quota distincte.
+Vous pouvez ainsi répartir vos crédits comme bon vous semble au sein de la réserve partagée — privilégier la recherche un mois, les documents le mois suivant. Kimi Chat ne consomme aucun crédits, et Kimi Code utilise sa propre réserve de crédits distincte.
 </Callout>
 
 ## Comment les crédits sont-ils calculés ?

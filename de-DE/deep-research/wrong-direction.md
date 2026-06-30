@@ -26,9 +26,9 @@ Beachten Sie beim Stellen Ihrer Frage Folgendes:
 | Tipp | Beschreibung |
 | --- | --- |
 | **Den Rahmen eingrenzen** | Legen Sie Zeitraum, geografischen Bereich und Quellentypen fest, um zu weit gefasste Fragen zu vermeiden |
-| **Clarification nutzen** | Geben Sie im Clarification-Schritt an, welche Richtungen ausgeschlossen werden sollen, und ergänzen Sie gewünschte Schwerpunkte |
-| **Eingaben knapp halten** | Zu lange oder unklare Eingaben während der Clarification können zum Abdriften führen |
+| **Clarification (Absichtsklärung) nutzen** | Geben Sie im Clarification (Absichtsklärung)-Schritt an, welche Richtungen ausgeschlossen werden sollen, und ergänzen Sie gewünschte Schwerpunkte |
+| **Eingaben knapp halten** | Zu lange oder unklare Eingaben während der Clarification (Absichtsklärung) können zum Abdriften führen |
 
 <Callout type="tip">
-Halten Sie Ihre Clarification-Antworten knapp und präzise – das liefert die besten Ergebnisse.
+Halten Sie Ihre Clarification (Absichtsklärung)-Antworten knapp und präzise – das liefert die besten Ergebnisse.
 </Callout>

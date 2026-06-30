@@ -20,7 +20,7 @@ Kimi Code adalah layanan yang termasuk dalam paket keanggotaan Kimi, menyediakan
 ## Penagihan
 
 - Penggunaan Kimi Code **sudah termasuk dalam biaya langganan Anda** — tanpa biaya tambahan.
-- Setiap permintaan menggunakan credit dari **kumpulan quota eksklusif Kimi Code** Anda; setiap paket menyediakan jumlah credit yang berbeda.
+- Setiap permintaan menggunakan credit dari **kumpulan kredit eksklusif Kimi Code** Anda; setiap paket menyediakan jumlah credit yang berbeda.
 - Sistem memprioritaskan penggunaan credit bonus sebelum credit dari paket.
 
 ## Pembaruan credit

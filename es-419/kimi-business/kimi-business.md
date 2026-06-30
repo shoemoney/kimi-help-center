@@ -33,13 +33,13 @@ Los asientos adicionales comprados durante el periodo de suscripción se prorrat
 
 ### Capacidades de IA
 
-| Beneficio | Quota |
+| Beneficio | Créditos |
 |---------|-------|
 | Uso de Agent | 4x (aprox. 150/mes) |
 | Tareas de Agent en paralelo | 2 tareas |
 | Cola prioritaria | 4x de velocidad |
 | Clúster de Agent | 50 veces/mes, 4 subtareas en paralelo |
-| Kimi Code | Quota de 20x |
+| Kimi Code | créditos de 20x |
 | Kimi Claw | Implementación con un solo clic de un asistente de IA dedicado, compatible con Web y Android |
 | Base de datos profesional | 5,000 veces/mes, con fuentes de datos financieros, económicos y académicos |
 
@@ -56,7 +56,7 @@ Los asientos adicionales comprados durante el periodo de suscripción se prorrat
 | Rol | Permisos |
 |------|-------------|
 | Administrador | Comprar asientos, generar enlaces de invitación, gestionar miembros, ver pedidos |
-| Miembro | Usar los beneficios de la empresa, ver su quota personal |
+| Miembro | Usar los beneficios de la empresa, ver su créditos personal |
 
 El rol de administrador se asigna automáticamente a la cuenta que compra la suscripción empresarial por primera vez.
 
@@ -81,7 +81,7 @@ Cada usuario puede unirse a un máximo de 10 organizaciones empresariales. Los m
 ### Eliminar miembros
 
 - Los miembros eliminados pierden de inmediato el acceso al espacio de trabajo de la empresa
-- Los miembros eliminados pierden de inmediato los beneficios de Kimi Business y ya no pueden usar la quota de la empresa del periodo actual
+- Los miembros eliminados pierden de inmediato los beneficios de Kimi Business y ya no pueden usar la créditos de la empresa del periodo actual
 - Los asientos de los miembros eliminados pasan al estado "Pendientes de liberar" y se liberan en el siguiente ciclo de facturación
 
 ## Espacio de trabajo
@@ -106,7 +106,7 @@ Compatibilidad de plataformas: la Web es totalmente compatible con las funciones
 ### Reglas de activación
 
 - **Activación inmediata**: los miembros reciben los beneficios del periodo actual de inmediato al aceptar la invitación
-- **Quota completa del periodo actual**: los miembros que se unen con un asiento sin asignar o recién agregado reciben la quota completa del periodo actual
+- **créditos completa del periodo actual**: los miembros que se unen con un asiento sin asignar o recién agregado reciben la créditos completa del periodo actual
 - **Alineación de ciclos**: los beneficios de la empresa se liquidan de manera uniforme según el ciclo de suscripción y se renuevan mensualmente
 
 ### Reglas de vencimiento

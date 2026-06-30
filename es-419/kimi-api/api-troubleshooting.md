@@ -24,7 +24,7 @@ Un error 429 significa que la frecuencia de tus solicitudes ha superado el rate 
 - Implementa una estrategia de reintento con backoff exponencial (espera 1s, 2s, 4s… antes de reintentar).
 - Controla la cantidad de solicitudes concurrentes mediante un mecanismo de cola.
 - Aumenta tu monto acumulado de recarga para subir de nivel en tu rate limit.
-- Comunícate con el equipo de ventas si necesitas un quota mayor.
+- Comunícate con el equipo de ventas si necesitas un créditos mayor.
 
 ## ¿Cómo manejar el error 401 de autenticación?
 
@@ -79,7 +79,7 @@ Los **planes de membresía de Kimi** (como Allegretto) y la **API** son sistemas
 | --- | --- | --- |
 | **Destinatario** | Producto conversacional orientado al consumidor | Interfaz de integración orientada al desarrollador |
 | **Acceso** | Mediante navegador | Llamadas programáticas a la API |
-| **Facturación** | Sistema de membresía/quota | Pago por uso según tokens |
+| **Facturación** | Sistema de membresía/créditos | Pago por uso según tokens |
 | **Cuenta** | Inicio de sesión compartido | Inicio de sesión compartido |
 | **Créditos** | No transferibles entre sistemas | No transferibles entre sistemas |
 

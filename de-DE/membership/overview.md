@@ -14,18 +14,18 @@ preview_content: "Vergleichen Sie Kimis fünf Mitgliedschaftsstufen, das credit-
 
 # Übersicht der Mitgliedschaftspläne
 
-Kimi bietet fünf Mitgliedschaftsstufen – darunter einen kostenlosen Plan –, die mit Ihren Anforderungen mitwachsen: vom alltäglichen Arbeiten bis hin zu Workflows für Power-User. Alle Pläne umfassen **zwei credit-Pools**: Kimi Code nutzt einen eigenen quota-Pool, während sich die übrigen Mitgliedschaftsfunktionen einen gemeinsamen quota-Pool teilen.
+Kimi bietet fünf Mitgliedschaftsstufen – darunter einen kostenlosen Plan –, die mit Ihren Anforderungen mitwachsen: vom alltäglichen Arbeiten bis hin zu Workflows für Power-User. Alle Pläne umfassen **zwei credit-Pools**: Kimi Code nutzt einen eigenen Credits-Pool, während sich die übrigen Mitgliedschaftsfunktionen einen gemeinsamen Credits-Pool teilen.
 
 ## Plan-Vergleich
 
 | Funktion | Adagio (Kostenlos) | Moderato 19 $/Monat | Allegretto 39 $/Monat | Allegro 99 $/Monat | Vivace 199 $/Monat |
 | --- | --- | --- | --- | --- | --- |
-| Agent-quota* | 6 | 60 | 150 | 360 | 720 |
+| Agent-Credits* | 6 | 60 | 150 | 360 | 720 |
 | Agent – gleichzeitige Aufgaben | 1 | 2 | 2 | 4 | 4 |
 | Agent – Geschwindigkeitspriorität | — | 4× | 4× | 4× | 4× |
 | Agent Swarm (Beta) | — | 25 Nutzungen | 50 Nutzungen | 120 Nutzungen | 240 Nutzungen |
 | Agent Swarm – gleichzeitige Teilaufgaben | — | 2 | 4 | 4 | 8 |
-| Kimi Code-quota | — | 1× | 5× | 15× | 30× |
+| Kimi Code-Credits | — | 1× | 5× | 15× | 30× |
 | Kimi Claw | — | — | ✅ | ✅ | ✅ |
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
 | Professionelle Datenbank | 200 Aufrufe | 2.000 Aufrufe | 5.000 Aufrufe | 12.000 Aufrufe | 24.000 Aufrufe |
@@ -38,7 +38,7 @@ Nutzen Sie das gesamte credit-Limit für dieselbe Funktion
 
 ## So funktioniert die Abrechnung
 
-- **Zwei credit-Pools** – Kimi Code nutzt einen eigenen quota-Pool; die übrigen Mitgliedschaftsfunktionen teilen sich einen gemeinsamen quota-Pool, abgerechnet nach token-Verbrauch.
+- **Zwei credit-Pools** – Kimi Code nutzt einen eigenen Credits-Pool; die übrigen Mitgliedschaftsfunktionen teilen sich einen gemeinsamen Credits-Pool, abgerechnet nach token-Verbrauch.
 - **Monatliche Erneuerung** – Die credits werden zu Beginn jedes Abrechnungszeitraums zurückgesetzt.
 - **Verbrauchsreihenfolge** – Zuerst werden Bonus-credits verbraucht, danach die credits des Plans.
 

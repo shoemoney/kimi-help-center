@@ -67,7 +67,7 @@ Descreva sua tarefa com clareza, acompanhe o progresso da execução e depois ba
       type: "document",
     },
     {
-      title: "Quota \u0026 cobrança",
+      title: "créditos \u0026 cobrança",
       description: "Detalhes de preços e assinatura",
       pageUrl: "/agent/quota-and-billing",
       type: "data",

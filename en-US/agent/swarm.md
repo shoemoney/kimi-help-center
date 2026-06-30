@@ -49,7 +49,7 @@ K2.6 Agent Swarm [Beta] uses the PARL (Parallel-Agent Reinforcement Learning) tr
 - **Mobile**: Kimi app → Switch mode → Select K2.6 Agent Swarm [Beta]
 
 <Callout type="warning">
-**Beta Access**: K2.6 Agent Swarm [Beta] is currently available to Moderato, Allegretto, Allegro, and Vivace members. Tasks consume significantly more quota than standard Agent tasks.
+**Beta Access**: K2.6 Agent Swarm [Beta] is currently available to Moderato, Allegretto, Allegro, and Vivace members. Tasks consume significantly more credits than standard Agent tasks.
 </Callout>
 
 **Steps:**

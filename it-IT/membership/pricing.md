@@ -19,12 +19,12 @@ Kimi offre cinque livelli di abbonamento — incluso un piano gratuito — ciasc
 
 | Funzionalità | Adagio (Gratuito) | Moderato (19 $/mese) | Allegretto (39 $/mese) | Allegro (99 $/mese) | Vivace (199 $/mese) |
 |---------|---------------|-------------------|---------------------|-------------------|-------------------|
-| Quota Agent* | 6 | 60 | 150 | 360 | 720 |
+| Crediti Agent* | 6 | 60 | 150 | 360 | 720 |
 | Attività concorrenti Agent | 1 | 2 | 2 | 4 | 4 |
 | Priorità di velocità Agent | — | 4× | 4× | 4× | 4× |
 | Agent Swarm (beta) | — | 25 utilizzi | 50 utilizzi | 120 utilizzi | 240 utilizzi |
 | Sottoattività concorrenti Agent Swarm | — | 2 | 4 | 4 | 8 |
-| Quota Kimi Code | — | 1× | 5× | 15× | 30× |
+| crediti Kimi Code | — | 1× | 5× | 15× | 30× |
 | Kimi Claw | — | — | ✅ | ✅ | ✅ |
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
 | Database professionale | 200 chiamate | 2.000 chiamate | 5.000 chiamate | 12.000 chiamate | 24.000 chiamate |
@@ -42,4 +42,4 @@ Kimi offre cinque livelli di abbonamento — incluso un piano gratuito — ciasc
 
 ## Assegnazione dei credit
 
-Tutti i piani includono due pool di credit: Kimi Code utilizza un pool di quota separato, mentre le altre funzionalità dell'abbonamento condividono un unico pool di quota. I livelli superiori includono un pool di credit proporzionalmente più ampio, a supporto di flussi di lavoro più frequenti e complessi. Per maggiori dettagli, consulta [Aggiornamento dei credit e regole di utilizzo](/membership/update-rules).
+Tutti i piani includono due pool di credit: Kimi Code utilizza un pool di crediti separato, mentre le altre funzionalità dell'abbonamento condividono un unico pool di crediti. I livelli superiori includono un pool di credit proporzionalmente più ampio, a supporto di flussi di lavoro più frequenti e complessi. Per maggiori dettagli, consulta [Aggiornamento dei credit e regole di utilizzo](/membership/update-rules).

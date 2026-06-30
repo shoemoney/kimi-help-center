@@ -23,10 +23,10 @@ preview_content: "Temukan bagaimana Deep Research secara mandiri merencanakan, m
 Untuk setiap pertanyaan, Kimi-Researcher menyelesaikan seluruh rangkaian riset secara mandiri:
 | Langkah | Deskripsi |
 | --- | --- |
-| **Clarification** | Secara proaktif mengajukan pertanyaan lanjutan untuk membangun ruang permasalahan yang lebih jelas |
+| **Klarifikasi intent** | Secara proaktif mengajukan pertanyaan lanjutan untuk membangun ruang permasalahan yang lebih jelas |
 | **Penalaran mendalam** | Rata-rata 23 langkah penalaran per tugas, menyusun dan menuntaskan kebutuhan |
 | **Pencarian aktif** | Merencanakan ~74 kata kunci, menemukan 206 URL, menyaring hingga 3,2% konten berkualitas tertinggi |
-| **Iterative reasoning** | Mengevaluasi hasil untuk menentukan apakah diperlukan pencarian tambahan |
+| **Penalaran iteratif mendalam** | Mengevaluasi hasil untuk menentukan apakah diperlukan pencarian tambahan |
 | **Pemanggilan alat** | Memanggil browser, eksekusi kode, dan alat lainnya untuk mengolah data |
 | **Pembuatan laporan** | Menyusun informasi menjadi laporan panjang yang terstruktur lengkap dengan kutipan sumber |
 
@@ -79,7 +79,7 @@ Setiap tugas riset menghasilkan dua keluaran:
 - **Seluler**: Aplikasi Kimi → Taskbar → mode Deep Research Agent
 **Langkah-langkah**:
 1. Masukkan pertanyaan riset Anda dan kirim
-2. Jawab pertanyaan klarifikasi untuk memastikan arah riset (atau klik "Include everything" untuk melewatinya)
+2. Jawab pertanyaan Clarification (Klarifikasi intent) untuk memastikan arah riset (atau klik "Include everything" untuk melewatinya)
 3. Pantau kata kunci pencarian, proses penalaran, dan URL yang dikunjungi secara real-time
 4. Terima dua keluaran setelah selesai:
    - **Laporan Deep Research** (Markdown): lebih dari 10.000 kata lengkap dengan daftar isi dan sumber yang dapat ditelusuri
@@ -93,13 +93,13 @@ Sebelum mengirim, pertimbangkan untuk menetapkan:
 - **Jenis sumber**: "utamakan laporan resmi dan makalah akademis"
 - **Penguraian pertanyaan**: Pecah pertanyaan luas menjadi sub-pertanyaan
 
-### 2. Sesuaikan saat klarifikasi
+### 2. Sesuaikan saat Clarification (Klarifikasi intent)
 - Sebutkan arah yang *tidak* ingin Anda bahas
 - Tambahkan dimensi atau sudut pandang tertentu sebagai fokus
 - Berikan konteks latar belakang untuk pertanyaan yang kompleks
 
 <Callout type="warning">
-Jawab pertanyaan klarifikasi secara ringkas dan spesifik — masukan yang terlalu panjang atau tidak jelas dapat membuat riset melenceng.
+Jawab pertanyaan Clarification (Klarifikasi intent) secara ringkas dan spesifik — masukan yang terlalu panjang atau tidak jelas dapat membuat riset melenceng.
 </Callout>
 
 ### 3. Bersabarlah selama proses berjalan

@@ -54,13 +54,13 @@ Agent는 프런트엔드 인터페이스, 백엔드 서비스, 영구 저장 로
 ## 중요 참고 사항
 
 <Callout type="warning">
-**quota 사용량**: Agent 작업은 공유 풀(기타 멤버십 기능)에서 quota를 소비합니다. Kimi Code는 별도의 quota 풀을 사용합니다. 각 Agent 작업은 일반적으로 quota 1단위를 소비합니다. 멤버십 등급별 자세한 quota 정보는 [Quota 및 결제](/agent/quota-and-billing)를 참고하세요.
+**크레딧 사용량**: Agent 작업은 공유 풀(기타 멤버십 기능)에서 quota를 소비합니다. Kimi Code는 별도의 크레딧 풀을 사용합니다. 각 Agent 작업은 일반적으로 크레딧 1단위를 소비합니다. 멤버십 등급별 자세한 크레딧 정보는 [크레딧 및 결제](/agent/크레딧-and-billing)를 참고하세요.
 무료 등급: 월 6회 Agent 작업
 유료 등급: 요금제에 따라 월 60~720회 Agent 작업
 </Callout>
 
 - **실행 시간**: Agent 모드에서는 단일 작업이 보통 5~20분 정도 걸립니다. K2.6 Agent Swarm [베타] 작업은 더 오래 걸릴 수 있습니다. 페이지를 떠나도 괜찮지만, Stop을 클릭해 작업을 중단하지 마세요.
-- **quota 사용량**: Agent 작업은 공유 풀에서 quota를 소비합니다. Kimi Code는 별도의 quota 풀을 사용합니다. 
+- **크레딧 사용량**: Agent 작업은 공유 풀에서 quota를 소비합니다. Kimi Code는 별도의 크레딧 풀을 사용합니다. 
 - **간단한 작업**: 간단한 질의응답에는 더 빠른 응답을 위해 표준 채팅 모드를 권장합니다.
 
 <Callout type="warning">
@@ -93,4 +93,4 @@ Agent는 **256K자**의 컨텍스트 길이(중국어 약 40,000~50,000자 / 영
 
 **Q: Agent quota는 어떻게 계산되나요?**
 
-Agent, PPT 및 기타 멤버십 기능은 하나의 quota 풀을 공유합니다. Kimi Code는 별도의 quota 풀을 사용합니다. 각 Agent 작업은 일반적으로 quota 1단위로 계산됩니다. 현재 quota와 사용량은 [멤버십 Credits](https://www.kimi.com/membership-credits)에서 확인할 수 있습니다.
+Agent, PPT 및 기타 멤버십 기능은 하나의 크레딧 풀을 공유합니다. Kimi Code는 별도의 크레딧 풀을 사용합니다. 각 Agent 작업은 일반적으로 크레딧 1단위로 계산됩니다. 현재 quota와 사용량은 [멤버십 크레딧](https://www.kimi.com/membership-크레딧)에서 확인할 수 있습니다.

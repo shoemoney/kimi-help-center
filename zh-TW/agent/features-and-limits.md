@@ -54,13 +54,13 @@ Agent 可以生成全端內容，包括前端介面、後端服務，以及持�
 ## 重要注意事項
 
 <Callout type="warning">
-**quota 使用量**：Agent 任務會消耗共用池中的 quota（其他會員功能亦使用此池）。Kimi Code 使用獨立的 quota 池。每個 Agent 任務通常消耗 1 個 quota 單位。各會員方案的詳細 quota 資訊，請參閱 [Quota 與帳單](/agent/quota-and-billing)。
+**額度 使用量**：Agent 任務會消耗共用池中的額度（其他會員功能亦使用此池）。Kimi Code 使用獨立的額度池。每個 Agent 任務通常消耗 1 個額度 單位。各會員方案的詳細額度 資訊，請參閱 [額度 與帳單](/agent/額度-and-billing)。
 免費方案：每月 6 個 Agent 任務
 付費方案：依方案不同，每月 60–720 個 Agent 任務
 </Callout>
 
 - **執行時間**：在 Agent 模式中，單一任務通常需要 5–20 分鐘。K2.6 Agent Swarm [Beta] 任務可能需要更長時間。你可以離開頁面，但請不要點擊停止而中斷任務。
-- **quota 使用量**：Agent 任務會消耗共用池中的 quota。Kimi Code 使用獨立的 quota 池。 
+- **額度 使用量**：Agent 任務會消耗共用池中的額度。Kimi Code 使用獨立的額度池。 
 - **簡單任務**：若只是簡單問答，建議使用標準聊天模式，以獲得更快回應。
 
 <Callout type="warning">
@@ -91,6 +91,6 @@ Agent 可透過多次工具呼叫滿足以下需求：
 
 Agent 使用 **256K 字元** 的上下文長度（約 40,000–50,000 個中文字 / 約 100,000 個英文單字）。
 
-**問：Agent quota 如何計算？**
+**問：Agent額度 如何計算？**
 
-Agent、PPT 與其他會員功能共用同一個 quota 池。Kimi Code 使用獨立的 quota 池。每個 Agent 任務通常計為一個 quota 單位。你可以在 [會員 credit](https://www.kimi.com/membership-credits) 查看目前 quota 與使用量。
+Agent、PPT 與其他會員功能共用同一個額度池。Kimi Code 使用獨立的額度池。每個 Agent 任務通常計為一個額度 單位。你可以在 [會員額度](https://www.kimi.com/membership-額度) 查看目前額度 與使用量。

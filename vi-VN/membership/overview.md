@@ -14,18 +14,18 @@ preview_content: "So sánh năm hạng thành viên của Kimi, hệ thống cre
 
 # Tổng quan các gói thành viên
 
-Kimi cung cấp năm hạng thành viên — bao gồm cả gói miễn phí — được thiết kế để mở rộng theo nhu cầu của bạn, từ công việc thường ngày đến quy trình dành cho người dùng chuyên sâu. Tất cả các gói đều có **hai nguồn credit**: Kimi Code dùng một nguồn quota riêng; các tính năng thành viên khác dùng chung một nguồn quota.
+Kimi cung cấp năm hạng thành viên — bao gồm cả gói miễn phí — được thiết kế để mở rộng theo nhu cầu của bạn, từ công việc thường ngày đến quy trình dành cho người dùng chuyên sâu. Tất cả các gói đều có **hai nguồn credit**: Kimi Code dùng một nguồn tín dụng riêng; các tính năng thành viên khác dùng chung một nguồn tín dụng.
 
 ## So sánh các gói
 
 | Tính năng | Adagio (Miễn phí) | Moderato $19/tháng | Allegretto $39/tháng | Allegro $99/tháng | Vivace $199/tháng |
 | --- | --- | --- | --- | --- | --- |
-| Quota Agent* | 6 | 60 | 150 | 360 | 720 |
+| Tín dụng Agent* | 6 | 60 | 150 | 360 | 720 |
 | Tác vụ đồng thời của Agent | 1 | 2 | 2 | 4 | 4 |
 | Ưu tiên tốc độ Agent | — | 4× | 4× | 4× | 4× |
 | Agent Swarm (beta) | — | 25 lượt | 50 lượt | 120 lượt | 240 lượt |
 | Tác vụ con đồng thời của Agent Swarm | — | 2 | 4 | 4 | 8 |
-| Quota Kimi Code | — | 1× | 5× | 15× | 30× |
+| tín dụng Kimi Code | — | 1× | 5× | 15× | 30× |
 | Kimi Claw | — | — | ✅ | ✅ | ✅ |
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
 | Cơ sở dữ liệu chuyên nghiệp | 200 lượt gọi | 2.000 lượt gọi | 5.000 lượt gọi | 12.000 lượt gọi | 24.000 lượt gọi |
@@ -38,7 +38,7 @@ Dùng toàn bộ hạn mức credit cho cùng một chức năng
 
 ## Cách tính phí hoạt động
 
-- **Hai nguồn credit** — Kimi Code dùng một nguồn quota riêng; các tính năng thành viên khác dùng chung một nguồn quota, tính theo mức sử dụng token.
+- **Hai nguồn credit** — Kimi Code dùng một nguồn tín dụng riêng; các tính năng thành viên khác dùng chung một nguồn tín dụng, tính theo mức sử dụng token.
 - **Làm mới hàng tháng** — Credit được đặt lại vào đầu mỗi chu kỳ thanh toán.
 - **Thứ tự ưu tiên** — Credit khuyến mãi được dùng trước, sau đó mới đến credit của gói.
 

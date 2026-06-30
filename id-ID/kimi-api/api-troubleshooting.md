@@ -24,7 +24,7 @@ Error 429 berarti frekuensi permintaan Anda telah melampaui rate limit akun saat
 - Terapkan strategi retry exponential backoff (tunggu 1 detik, 2 detik, 4 detik… sebelum mencoba lagi).
 - Kendalikan jumlah permintaan bersamaan menggunakan mekanisme antrean.
 - Tingkatkan total nilai isi ulang Anda untuk menaikkan tingkat rate limit.
-- Hubungi tim penjualan jika Anda membutuhkan quota yang lebih besar.
+- Hubungi tim penjualan jika Anda membutuhkan kredit yang lebih besar.
 
 ## Bagaimana menangani error autentikasi 401?
 
@@ -79,7 +79,7 @@ Fitur web search Kimi API mengambil informasi yang tersedia secara publik dari i
 | --- | --- | --- |
 | **Sasaran** | Produk percakapan untuk konsumen | Antarmuka integrasi untuk developer |
 | **Akses** | Berbasis browser | Panggilan API secara programatik |
-| **Penagihan** | Sistem keanggotaan/quota | Bayar sesuai pemakaian berdasarkan token |
+| **Penagihan** | Sistem keanggotaan/kredit | Bayar sesuai pemakaian berdasarkan token |
 | **Akun** | Login bersama | Login bersama |
 | **Credit** | Tidak dapat dipindahkan antarsistem | Tidak dapat dipindahkan antarsistem |
 

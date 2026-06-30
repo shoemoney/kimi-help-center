@@ -518,26 +518,31 @@
     {
       "id": "T1-007",
       "category": "T1",
-      "zh_form": "澄清",
+      "zh_form": "意图澄清",
       "en_form": "Clarification",
-      "alias": [],
-      "translation_strategy": "keep_original_with_note",
+      "alias": [
+        "澄清",
+        "釐清"
+      ],
+      "translation_strategy": "localize",
       "case_sensitive": true,
       "region_note": "global",
-      "context_example": "澄清问题（Clarification）：理解问题时主动反问",
+      "context_example": "意图澄清：理解任务时主动反问，明确研究方向",
       "source_article": "zh-CN/deep-research/overview.md",
       "status": "confirmed"
     },
     {
       "id": "T1-008",
       "category": "T1",
-      "zh_form": "迭代推理",
+      "zh_form": "深度推理",
       "en_form": "Iterative reasoning",
-      "alias": [],
-      "translation_strategy": "keep_original_with_note",
+      "alias": [
+        "迭代推理"
+      ],
+      "translation_strategy": "localize",
       "case_sensitive": true,
       "region_note": "global",
-      "context_example": "迭代推理（Iterative reasoning）动态调整研究路径",
+      "context_example": "深度推理：根据中间结果判断是否需要补充检索，动态调整研究路径",
       "source_article": "zh-CN/deep-research/overview.md",
       "status": "confirmed"
     },

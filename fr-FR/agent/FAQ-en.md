@@ -18,15 +18,15 @@ preview: false
 Cela peut se produire pour les raisons suivantes :
 1. Le fichier téléversé ou la description de la compétence est incomplet.
 2. Le format ou le nombre de fichiers ne respecte pas les exigences.
-3. Le système a détecté que le quota de votre compte est épuisé.
+3. Le système a détecté que le crédits de votre compte est épuisé.
 
-## Comment la création de compétences consomme-t-elle le quota ?
+## Comment la création de compétences consomme-t-elle le crédits ?
 
-La création d'une compétence consomme vos **tokens**, qui peuvent provenir de vos recherches offertes ou de votre quota d'abonnement officiel.
+La création d'une compétence consomme vos **tokens**, qui peuvent provenir de vos recherches offertes ou de votre crédits d'abonnement officiel.
 
 **Ordre de déduction** :
 1. Les recherches offertes sont utilisées en priorité.
-2. Si aucune recherche offerte n'est disponible, le quota d'abonnement est utilisé.
+2. Si aucune recherche offerte n'est disponible, le crédits d'abonnement est utilisé.
 
 <Callout type="info">
 En cas d'échec de la création, aucun token n'est déduit. Les tokens ne sont consommés qu'en cas de création réussie.
@@ -42,7 +42,7 @@ Oui. Afin de garantir la stabilité du système et une utilisation équitable, l
 ## Que faire en cas d'échec de la création d'une compétence ?
 
 * Vous pouvez choisir de **réessayer** ou de **supprimer** la carte de compétence échouée.
-* Les tentatives échouées ne consomment pas de quota.
+* Les tentatives échouées ne consomment pas de crédits.
 * La description initiale de la compétence s'affiche sur la carte échouée afin de vous aider à distinguer les différentes tâches.
 
 ## Quelles sont les exigences de nommage pour les nouvelles compétences ?

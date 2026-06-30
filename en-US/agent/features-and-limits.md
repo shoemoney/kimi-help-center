@@ -54,13 +54,13 @@ Due to the 256K character context limit of large language models (approximately 
 ## Important notes
 
 <Callout type="warning">
-**Quota Usage**: Agent tasks consume quota from the shared pool (other membership features). Kimi Code uses a separate quota pool. Each Agent task typically consumes 1 quota unit. For detailed quota information by membership tier, see [Quota & Billing](/agent/quota-and-billing).
+**credit usage**: Agent tasks consume credits from the shared pool (other membership features). Kimi Code uses a separate credit pool. Each Agent task typically consumes 1 credit unit. For detailed credit information by membership tier, see [Credits & Billing](/agent/credits-and-billing).
 Free tier: 6 Agent tasks/month
 Paid tiers: 60–720 Agent tasks/month depending on your plan
 </Callout>
 
 - **Execution time**: In Agent mode, a single task typically takes 5–20 minutes. K2.6 Agent Swarm [Beta] tasks may take longer. You can leave the page — just don't click Stop to interrupt the task.
-- **Quota usage**: Agent tasks consume quota from the shared pool. Kimi Code uses a separate quota pool. 
+- **credit usage**: Agent tasks consume credits from the shared pool. Kimi Code uses a separate credit pool. 
 - **Simple tasks**: For simple Q&A, standard chat mode is recommended for faster responses.
 
 <Callout type="warning">
@@ -91,6 +91,6 @@ A complete project typically consists of three parts: frontend interface, backen
 
 Agent uses a context length of **256K characters** (approximately 40,000–50,000 Chinese characters / ~100,000 English words).
 
-**Q: How is Agent quota calculated?**
+**Q: How are Agent credits calculated?**
 
-Agent, PPT, and other membership features share one quota pool. Kimi Code uses a separate quota pool. Each Agent task typically counts as one quota unit. View your current quota and usage at [Membership Credits](https://www.kimi.com/membership-credits).
+Agent, PPT, and other membership features share one credit pool. Kimi Code uses a separate credit pool. Each Agent task typically counts as one credit unit. View your current credits and usage at [Membership Credits](https://www.kimi.com/membership-credits).

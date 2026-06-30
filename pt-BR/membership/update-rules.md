@@ -8,28 +8,28 @@ preview: false
 
 <SeoMeta
   title="Regras de atualização e uso de créditos - Central de Ajuda da Kimi"
-  description="Os benefícios da assinatura Kimi incluem dois pools de créditos. O Kimi Code usa um pool de quota separado; os demais recursos da assinatura compartilham um único pool de créditos, consumidos conforme o uso real."
+  description="Os benefícios da assinatura Kimi incluem dois pools de créditos. O Kimi Code usa um pool de créditos separado; os demais recursos da assinatura compartilham um único pool de créditos, consumidos conforme o uso real."
 />
 
 # Regras de atualização e uso de créditos
 
 <Callout type="info">
-Os benefícios da assinatura Kimi incluem dois pools de créditos. O Kimi Code usa um pool de quota separado; os demais recursos da assinatura compartilham um único pool de créditos, consumidos conforme o uso real.
+Os benefícios da assinatura Kimi incluem dois pools de créditos. O Kimi Code usa um pool de créditos separado; os demais recursos da assinatura compartilham um único pool de créditos, consumidos conforme o uso real.
 </Callout>
 
 ## Quais são os dois pools de créditos?
-Em vez de quotas separadas para cada recurso, sua assinatura oferece dois pools de créditos. O Kimi Code usa um pool de quota separado; os demais recursos da assinatura compartilham um único pool de quota que funciona em todos os lugares:
+Em vez de quotas separadas para cada recurso, sua assinatura oferece dois pools de créditos. O Kimi Code usa um pool de créditos separado; os demais recursos da assinatura compartilham um único pool de créditos que funciona em todos os lugares:
 | Recurso | Descrição |
 |---------|-------------|
 | **Tarefas de agente** | Sites, documentos, slides, planilhas, pesquisa aprofundada |
 | **Kimi Claw** | Seu assistente de IA pessoal implantado na nuvem |
 | **Outros recursos** | Geração de imagens e muito mais |
 
-> **Kimi Chat**: conversas com os modelos mais recentes (sem consumo de quota)
-> **Kimi Code**: assistente de programação com IA (pool de quota separado)
+> **Kimi Chat**: conversas com os modelos mais recentes (sem consumo de créditos)
+> **Kimi Code**: assistente de programação com IA (pool de créditos separado)
 
 <Callout type="tip">
-Isso significa que você pode distribuir os créditos como quiser dentro do pool compartilhado — gastar mais em pesquisa em um mês e mais em documentos no seguinte. O Kimi Chat não consome quota, e o Kimi Code usa seu próprio pool de quota separado.
+Isso significa que você pode distribuir os créditos como quiser dentro do pool compartilhado — gastar mais em pesquisa em um mês e mais em documentos no seguinte. O Kimi Chat não consome créditos, e o Kimi Code usa seu próprio pool de créditos separado.
 </Callout>
 
 ## Como os créditos são calculados?

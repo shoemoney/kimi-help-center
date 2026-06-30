@@ -20,7 +20,7 @@ Kimi Code è un servizio incluso nel piano di abbonamento Kimi, che offre suppor
 ## Fatturazione
 
 - L'utilizzo di Kimi Code è **incluso nel costo dell'abbonamento**: non vengono applicati costi aggiuntivi.
-- Ogni richiesta consuma credit dal tuo **pool di quota esclusivo di Kimi Code**; piani diversi includono quantità di credit differenti.
+- Ogni richiesta consuma credit dal tuo **pool di crediti esclusivo di Kimi Code**; piani diversi includono quantità di credit differenti.
 - Il sistema dà priorità al consumo dei credit bonus prima di quelli del piano.
 
 ## Rinnovo dei credit

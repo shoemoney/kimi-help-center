@@ -54,13 +54,13 @@ Do các mô hình ngôn ngữ lớn có giới hạn ngữ cảnh 256K ký tự 
 ## Lưu ý quan trọng
 
 <Callout type="warning">
-**Mức sử dụng quota**: Các tác vụ Agent tiêu thụ quota từ kho dùng chung (các tính năng thành viên khác). Kimi Code dùng một kho quota riêng. Mỗi tác vụ Agent thường tiêu thụ 1 đơn vị quota. Để biết thông tin quota chi tiết theo từng hạng thành viên, xem [Quota & thanh toán](/agent/quota-and-billing).
+**Mức sử dụng tín dụng**: Các tác vụ Agent tiêu thụ tín dụng từ kho dùng chung (các tính năng thành viên khác). Kimi Code dùng một kho tín dụng riêng. Mỗi tác vụ Agent thường tiêu thụ 1 đơn vị tín dụng. Để biết thông tin tín dụng chi tiết theo từng hạng thành viên, xem [Tín dụng & Thanh toán](/agent/tín dụng-and-billing).
 Gói miễn phí: 6 tác vụ Agent/tháng
 Gói trả phí: 60–720 tác vụ Agent/tháng tùy theo gói của bạn
 </Callout>
 
 - **Thời gian thực thi**: Ở chế độ Agent, một tác vụ thường mất 5–20 phút. Các tác vụ K2.6 Agent Swarm [Beta] có thể lâu hơn. Bạn có thể rời khỏi trang — chỉ cần đừng nhấn Dừng để gián đoạn tác vụ.
-- **Mức sử dụng quota**: Các tác vụ Agent tiêu thụ quota từ kho dùng chung. Kimi Code dùng một kho quota riêng. 
+- **Mức sử dụng tín dụng**: Các tác vụ Agent tiêu thụ tín dụng từ kho dùng chung. Kimi Code dùng một kho tín dụng riêng. 
 - **Tác vụ đơn giản**: Với các câu hỏi đáp đơn giản, nên dùng chế độ trò chuyện tiêu chuẩn để được phản hồi nhanh hơn.
 
 <Callout type="warning">
@@ -91,6 +91,6 @@ Một dự án hoàn chỉnh thường gồm ba phần: giao diện frontend, d�
 
 Agent sử dụng độ dài ngữ cảnh **256K ký tự** (khoảng 40.000–50.000 ký tự tiếng Trung / khoảng 100.000 từ tiếng Anh).
 
-**Q: Quota của Agent được tính như thế nào?**
+**Q: tín dụng của Agent được tính như thế nào?**
 
-Agent, PPT và các tính năng thành viên khác dùng chung một kho quota. Kimi Code dùng một kho quota riêng. Mỗi tác vụ Agent thường được tính là một đơn vị quota. Xem quota hiện tại và mức sử dụng của bạn tại [Membership Credits](https://www.kimi.com/membership-credits).
+Agent, PPT và các tính năng thành viên khác dùng chung một kho tín dụng. Kimi Code dùng một kho tín dụng riêng. Mỗi tác vụ Agent thường được tính là một đơn vị tín dụng. Xem tín dụng hiện tại và mức sử dụng của bạn tại [Membership Credits](https://www.kimi.com/membership-credits).

@@ -62,12 +62,12 @@ Kimi K2.6 Agent คือผู้ช่วย AI อัตโนมัติท
   columns={[
     {
       title: "ฟีเจอร์และข้อจำกัด",
-      description: "ความสามารถและ quota",
+      description: "ความสามารถและ เครดิต",
       pageUrl: "/agent/agent-features-and-limits",
       type: "document",
     },
     {
-      title: "Quota และการเรียกเก็บเงิน",
+      title: "เครดิต และการเรียกเก็บเงิน",
       description: "รายละเอียดราคาและการเป็นสมาชิก",
       pageUrl: "/agent/quota-and-billing",
       type: "data",

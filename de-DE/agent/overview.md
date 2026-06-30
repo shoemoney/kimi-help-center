@@ -67,7 +67,7 @@ Beschreiben Sie Ihre Aufgabe klar, verfolgen Sie den Fortschritt der Ausführung
       type: "document",
     },
     {
-      title: "Quota \u0026 Abrechnung",
+      title: "Credits \u0026 Abrechnung",
       description: "Preise und Details zur Mitgliedschaft",
       pageUrl: "/agent/quota-and-billing",
       type: "data",

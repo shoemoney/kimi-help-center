@@ -17,7 +17,7 @@ Deep Research, "standart sohbetler" ile "görev yürütme" arasında ayrım yapa
 
 ## Ücretlendirme kuralları
 
-- **Ücretlendirme yöntemi**: Bir Deep Research görevi seçtikten sonra krediler, ortak havuzdan (diğer üyelik özellikleri) düşülür. Kimi Code ayrı bir quota havuzu kullanır.
+- **Ücretlendirme yöntemi**: Bir Deep Research görevi seçtikten sonra krediler, ortak havuzdan (diğer üyelik özellikleri) düşülür. Kimi Code ayrı bir kredi havuzu kullanır.
 - **Başarısızlıkta iade**: Bir görev başarısız olursa (geçerli sonuç döndürülmezse), "👎" geri bildirim düğmesine tıklayın. Ekibimiz sorunu doğrular ve ilgili kredileri iade eder.
 
 ## Kalan kredi nasıl kontrol edilir？

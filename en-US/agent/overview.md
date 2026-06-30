@@ -67,7 +67,7 @@ Describe your task clearly, watch execution progress, then download or share res
       type: "document",
     },
     {
-      title: "Quota \u0026 Billing",
+      title: "credits \u0026 Billing",
       description: "Pricing and membership details",
       pageUrl: "/agent/quota-and-billing",
       type: "data",

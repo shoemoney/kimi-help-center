@@ -26,9 +26,9 @@ Saat mengajukan pertanyaan:
 | Tips | Deskripsi |
 | --- | --- |
 | **Fokuskan cakupan** | Tentukan rentang waktu, cakupan geografis, dan jenis sumber agar pertanyaan tidak terlalu luas |
-| **Manfaatkan clarification** | Gunakan prompt clarification untuk menyebutkan arah yang tidak ingin Anda bahas serta menambahkan dimensi fokus |
-| **Buat input ringkas** | Input yang terlalu panjang atau tidak jelas selama clarification dapat menyebabkan penyimpangan |
+| **Manfaatkan Clarification (Klarifikasi intent)** | Gunakan prompt Clarification (Klarifikasi intent) untuk menyebutkan arah yang tidak ingin Anda bahas serta menambahkan dimensi fokus |
+| **Buat input ringkas** | Input yang terlalu panjang atau tidak jelas selama Clarification (Klarifikasi intent) dapat menyebabkan penyimpangan |
 
 <Callout type="tip">
-Buat respons clarification ringkas dan spesifik untuk hasil terbaik.
+Buat respons Clarification (Klarifikasi intent) ringkas dan spesifik untuk hasil terbaik.
 </Callout>

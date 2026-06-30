@@ -26,9 +26,9 @@ Quando invii la tua domanda:
 | Consiglio | Descrizione |
 | --- | --- |
 | **Restringi l'ambito** | Definisci l'intervallo temporale, l'ambito geografico e i tipi di fonti per evitare domande troppo ampie |
-| **Sfrutta la Clarification** | Usa il prompt di Clarification per indicare le direzioni che non vuoi vengano trattate e aggiungere dimensioni su cui concentrarti |
-| **Mantieni l'input conciso** | Un input troppo lungo o poco chiaro durante la Clarification può causare deviazioni |
+| **Sfrutta la Clarification (Chiarimento dell'intento)** | Usa il prompt di Clarification (Chiarimento dell'intento) per indicare le direzioni che non vuoi vengano trattate e aggiungere dimensioni su cui concentrarti |
+| **Mantieni l'input conciso** | Un input troppo lungo o poco chiaro durante la Clarification (Chiarimento dell'intento) può causare deviazioni |
 
 <Callout type="tip">
-Mantieni le risposte alla Clarification concise e specifiche per ottenere i migliori risultati.
+Mantieni le risposte alla Clarification (Chiarimento dell'intento) concise e specifiche per ottenere i migliori risultati.
 </Callout>

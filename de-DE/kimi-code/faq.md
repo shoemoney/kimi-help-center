@@ -76,7 +76,7 @@ Die Kimi Code-Mitgliedschaftsvorteile und die [Kimi Open Platform](https://platf
 
 | Plattform | Base-URL | Abrechnung | Schlüsselerstellung |
 |------|---------|---------|-------------|
-| **Kimi Code** | Anthropic-kompatibel: `https://api.kimi.com/coding/` | Kimi-Mitgliedschaftsabonnement (inklusive quota) | [Kimi Code Console](https://www.kimi.com/code/console) |
+| **Kimi Code** | Anthropic-kompatibel: `https://api.kimi.com/coding/` | Kimi-Mitgliedschaftsabonnement (inklusive Credits) | [Kimi Code Console](https://www.kimi.com/code/console) |
 | **Kimi Open Platform** | `https://api.moonshot.cn/v1` | Nutzungsbasierte Abrechnung | [Kimi Open Platform](https://platform.kimi.com) |
 
 ### API-Schlüssel ist ungültig
@@ -86,9 +86,9 @@ Mögliche Gründe für einen ungültigen API-Schlüssel:
 - **Schlüssel falsch eingegeben**: Achten Sie auf zusätzliche Leerzeichen oder fehlende Zeichen.
 - **Schlüssel abgelaufen oder widerrufen**: Prüfen Sie den Status des Schlüssels in der Plattform-Konsole.
 
-### Mitgliedschaft abgelaufen oder quota aufgebraucht
+### Mitgliedschaft abgelaufen oder Credits aufgebraucht
 
-Wenn Sie die Kimi Code-Plattform nutzen, können Sie Ihre aktuelle quota und Ihren Mitgliedschaftsstatus über den Befehl `/usage` einsehen. Ist Ihre quota aufgebraucht oder Ihre Mitgliedschaft abgelaufen, müssen Sie unter [Kimi Code](https://kimi.com/code) verlängern oder upgraden.
+Wenn Sie die Kimi Code-Plattform nutzen, können Sie Ihre aktuelle Credits und Ihren Mitgliedschaftsstatus über den Befehl `/usage` einsehen. Ist Ihre Credits aufgebraucht oder Ihre Mitgliedschaft abgelaufen, müssen Sie unter [Kimi Code](https://kimi.com/code) verlängern oder upgraden.
 
 ## Abonnement
 

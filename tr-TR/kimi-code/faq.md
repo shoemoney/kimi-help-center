@@ -76,7 +76,7 @@ Kimi Code üyelik avantajları ile [Kimi Açık Platform](https://platform.kimi.
 
 | Platform | Base URL | Faturalandırma | Anahtar oluşturma |
 |------|---------|---------|-------------|
-| **Kimi Code** | Anthropic uyumlu: `https://api.kimi.com/coding/` | Kimi üyelik aboneliği (quota dahil) | [Kimi Code Konsolu](https://www.kimi.com/code/console) |
+| **Kimi Code** | Anthropic uyumlu: `https://api.kimi.com/coding/` | Kimi üyelik aboneliği (kredi dahil) | [Kimi Code Konsolu](https://www.kimi.com/code/console) |
 | **Kimi Açık Platform** | `https://api.moonshot.cn/v1` | Kullandıkça öde | [Kimi Açık Platform](https://platform.kimi.com) |
 
 ### API anahtarı geçersiz
@@ -86,9 +86,9 @@ Geçersiz bir API anahtarının olası nedenleri:
 - **Anahtar yanlış girilmiş**: Fazladan boşluk veya eksik karakter olup olmadığını kontrol edin.
 - **Anahtarın süresi dolmuş veya iptal edilmiş**: Anahtarın durumunu platform konsolunda doğrulayın.
 
-### Üyelik süresi dolmuş veya quota tükenmiş
+### Üyelik süresi dolmuş veya kredi tükenmiş
 
-Kimi Code platformunu kullanıyorsanız, `/usage` komutuyla mevcut quota'nızı ve üyelik durumunuzu kontrol edebilirsiniz. quota'nız tükendiyse veya üyeliğinizin süresi dolduysa, [Kimi Code](https://kimi.com/code) üzerinden yenilemeniz veya yükseltmeniz gerekir.
+Kimi Code platformunu kullanıyorsanız, `/usage` komutuyla mevcut kredi'nızı ve üyelik durumunuzu kontrol edebilirsiniz. kredi'nız tükendiyse veya üyeliğinizin süresi dolduysa, [Kimi Code](https://kimi.com/code) üzerinden yenilemeniz veya yükseltmeniz gerekir.
 
 ## Abonelik
 

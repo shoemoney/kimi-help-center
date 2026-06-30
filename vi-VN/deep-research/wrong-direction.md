@@ -26,9 +26,9 @@ Khi gửi câu hỏi:
 | Mẹo | Mô tả |
 | --- | --- |
 | **Khoanh vùng phạm vi** | Xác định khoảng thời gian, phạm vi địa lý và loại nguồn để tránh đặt câu hỏi quá rộng |
-| **Tận dụng phần làm rõ** | Dùng phần Clarification để nêu rõ những hướng bạn không muốn đề cập và bổ sung các khía cạnh cần tập trung |
-| **Nhập gọn gàng** | Nội dung quá dài hoặc không rõ ràng khi làm rõ có thể gây lệch hướng |
+| **Tận dụng phần Clarification (Làm rõ ý định)** | Dùng phần Clarification (Làm rõ ý định) để nêu rõ những hướng bạn không muốn đề cập và bổ sung các khía cạnh cần tập trung |
+| **Nhập gọn gàng** | Nội dung quá dài hoặc không rõ ràng khi Clarification (Làm rõ ý định) có thể gây lệch hướng |
 
 <Callout type="tip">
-Giữ phần trả lời làm rõ ngắn gọn và cụ thể để đạt kết quả tốt nhất.
+Giữ phần trả lời Clarification (Làm rõ ý định) ngắn gọn và cụ thể để đạt kết quả tốt nhất.
 </Callout>

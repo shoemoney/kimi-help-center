@@ -23,10 +23,10 @@ preview_content: "Deep Research'ün nasıl bağımsız olarak plan yaptığını
 Kimi-Researcher her soru için araştırma sürecinin tamamını bağımsız olarak tamamlar:
 | Adım | Açıklama |
 | --- | --- |
-| **Clarification** | Daha net bir problem alanı oluşturmak için proaktif olarak takip soruları sorar |
+| **Niyet netleştirme** | Daha net bir problem alanı oluşturmak için proaktif olarak takip soruları sorar |
 | **Derin akıl yürütme** | Görev başına ortalama 23 akıl yürütme adımıyla gereksinimleri düzenler ve çözüme kavuşturur |
 | **Aktif arama** | Yaklaşık 74 anahtar kelime planlar, 206 URL keşfeder ve en kaliteli içeriğin ilk %3,2'sine indirger |
-| **Iterative reasoning** | Ek aramalara ihtiyaç olup olmadığını belirlemek için sonuçları değerlendirir |
+| **Yinelemeli derin akıl yürütme** | Ek aramalara ihtiyaç olup olmadığını belirlemek için sonuçları değerlendirir |
 | **Araç çağrısı** | Verileri işlemek için tarayıcıları, kod yürütmeyi ve diğer araçları çağırır |
 | **Rapor oluşturma** | Bilgileri, alıntılar içeren yapılandırılmış ve uzun soluklu bir raporda bir araya getirir |
 
@@ -79,7 +79,7 @@ Her araştırma görevi iki çıktı üretir:
 - **Mobil**: Kimi uygulaması → Görev çubuğu → Deep Research Agent modu
 **Adımlar**:
 1. Araştırma sorunuzu girin ve gönderin
-2. Yönü doğrulamak için netleştirme sorularını yanıtlayın (veya atlamak için "Her şeyi dahil et"e tıklayın)
+2. Yönü doğrulamak için Clarification (Niyet netleştirme) sorularını yanıtlayın (veya atlamak için "Her şeyi dahil et"e tıklayın)
 3. Arama anahtar kelimelerini, akıl yürütme sürecini ve ziyaret edilen URL'leri gerçek zamanlı olarak izleyin
 4. Tamamlandığında iki çıktı alın:
    - **Deep Research raporu** (Markdown): İçindekiler tablosu ve izlenebilir kaynaklarla 10.000+ kelime
@@ -93,13 +93,13 @@ Göndermeden önce şunları belirtmeyi düşünün:
 - **Kaynak türleri**: "resmi raporlara ve akademik makalelere öncelik ver"
 - **Soru ayrıştırma**: Geniş soruları alt sorulara bölün
 
-### 2. Netleştirme sırasında ayarlamalar yapın
+### 2. Clarification (Niyet netleştirme) sırasında ayarlamalar yapın
 - Kapsanmasını *istemediğiniz* yönleri belirtin
 - Odaklanmak için belirli boyutlar veya bakış açıları ekleyin
 - Karmaşık sorular için arka plan bağlamı sağlayın
 
 <Callout type="warning">
-Clarification yanıtlarını kısa ve net tutun — aşırı uzun veya belirsiz girdiler araştırmanın amacından sapmasına yol açabilir.
+Clarification (Niyet netleştirme) yanıtlarını kısa ve net tutun — aşırı uzun veya belirsiz girdiler araştırmanın amacından sapmasına yol açabilir.
 </Callout>
 
 ### 3. Yürütme sırasında sabırlı olun

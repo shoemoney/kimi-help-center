@@ -23,10 +23,10 @@ O **Deep Research** é o primeiro produto Agent do Kimi, movido pelo modelo Kimi
 Para cada pergunta, o Kimi-Researcher percorre de forma independente todo o processo de pesquisa:
 | Etapa | Descrição |
 | --- | --- |
-| **Clarification** | Faz perguntas complementares de forma proativa para delimitar melhor o problema |
+| **Esclarecimento de intenção** | Faz perguntas complementares de forma proativa para delimitar melhor o problema |
 | **Raciocínio aprofundado** | Em média 23 etapas de raciocínio por tarefa, organizando e resolvendo os requisitos |
 | **Busca ativa** | Planeja cerca de 74 palavras-chave, descobre 206 URLs e filtra os 3,2% de conteúdo de maior qualidade |
-| **Iterative reasoning** | Avalia os resultados para decidir se novas buscas são necessárias |
+| **Raciocínio iterativo aprofundado** | Avalia os resultados para decidir se novas buscas são necessárias |
 | **Acionamento de ferramentas** | Aciona navegadores, execução de código e outras ferramentas para processar dados |
 | **Geração do relatório** | Reúne as informações em um relatório longo e estruturado, com citações |
 
@@ -79,7 +79,7 @@ Cada tarefa de pesquisa gera duas entregas:
 - **Celular**: app Kimi → Barra de tarefas → modo Deep Research Agent
 **Passos**:
 1. Digite sua pergunta de pesquisa e envie
-2. Responda às perguntas de clarification para confirmar o rumo (ou clique em "Incluir tudo" para pular)
+2. Responda às perguntas de Clarification (Esclarecimento de intenção) para confirmar o rumo (ou clique em "Incluir tudo" para pular)
 3. Acompanhe em tempo real as palavras-chave de busca, o processo de raciocínio e os URLs visitados
 4. Receba duas entregas ao concluir:
    - **Relatório do Deep Research** (Markdown): mais de 10.000 palavras, com índice e fontes rastreáveis
@@ -93,13 +93,13 @@ Antes de enviar, considere especificar:
 - **Tipos de fonte**: "priorize relatórios oficiais e artigos acadêmicos"
 - **Decomposição da pergunta**: divida perguntas amplas em subperguntas
 
-### 2. Ajuste durante a clarification
+### 2. Ajuste durante a Clarification (Esclarecimento de intenção)
 - Indique direções que você *não* quer abordar
 - Acrescente dimensões ou ângulos específicos para focar
 - Forneça contexto de fundo para perguntas complexas
 
 <Callout type="warning">
-Mantenha as respostas de clarification curtas e objetivas — entradas muito longas ou imprecisas podem desviar a pesquisa.
+Mantenha as respostas de Clarification (Esclarecimento de intenção) curtas e objetivas — entradas muito longas ou imprecisas podem desviar a pesquisa.
 </Callout>
 
 ### 3. Tenha paciência durante a execução

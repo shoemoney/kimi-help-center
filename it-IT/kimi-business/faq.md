@@ -23,7 +23,7 @@ Sì. Ogni utente può aderire fino a 10 organizzazioni aziendali, occupando in m
 
 ## In quanto tempo i membri possono usufruire dei vantaggi dopo l'adesione?
 
-I vantaggi si attivano immediatamente all'accettazione dell'invito. I membri che aderiscono con una postazione non assegnata o appena aggiunta ricevono l'intera quota del periodo in corso.
+I vantaggi si attivano immediatamente all'accettazione dell'invito. I membri che aderiscono con una postazione non assegnata o appena aggiunta ricevono l'intera crediti del periodo in corso.
 
 ## È possibile aggiungere postazioni durante il periodo di abbonamento?
 

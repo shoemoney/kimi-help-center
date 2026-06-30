@@ -301,7 +301,7 @@ Vergewissern Sie sich zunächst, dass Ihr Schlüssel und die Base-URL zur selben
 
 | Plattform | Base-URL | Abrechnung | Schlüsselerstellung |
 |------|---------|---------|-------------|
-| **Kimi Code** | OpenAI-kompatibel: `https://api.kimi.com/coding/v1`<br> Anthropic-kompatibel: `https://api.kimi.com/coding/` | Kimi-Mitgliedschaftsabonnement (inklusive quota) | [Kimi Code Console](https://www.kimi.com/code/console) |
+| **Kimi Code** | OpenAI-kompatibel: `https://api.kimi.com/coding/v1`<br> Anthropic-kompatibel: `https://api.kimi.com/coding/` | Kimi-Mitgliedschaftsabonnement (inklusive Credits) | [Kimi Code Console](https://www.kimi.com/code/console) |
 | **Kimi Open Platform** | `https://api.moonshot.cn/v1` | Nutzungsbasierte Abrechnung | [Kimi Open Platform](https://platform.kimi.com) |
 
 **Der Befehl `kimi` wird nach der Installation nicht gefunden.**

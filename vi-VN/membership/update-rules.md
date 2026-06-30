@@ -8,28 +8,28 @@ preview: false
 
 <SeoMeta
   title="Quy tắc cập nhật \u0026 sử dụng credit - Trung tâm trợ giúp Kimi"
-  description="Quyền lợi thành viên Kimi bao gồm hai nguồn credit. Kimi Code dùng một nguồn quota riêng; các tính năng thành viên khác chia sẻ chung một nguồn credit và credit được tính theo mức sử dụng thực tế."
+  description="Quyền lợi thành viên Kimi bao gồm hai nguồn credit. Kimi Code dùng một nguồn tín dụng riêng; các tính năng thành viên khác chia sẻ chung một nguồn credit và credit được tính theo mức sử dụng thực tế."
 />
 
 # Quy tắc cập nhật và sử dụng credit
 
 <Callout type="info">
-Quyền lợi thành viên Kimi bao gồm hai nguồn credit. Kimi Code dùng một nguồn quota riêng; các tính năng thành viên khác chia sẻ chung một nguồn credit và credit được tính theo mức sử dụng thực tế.
+Quyền lợi thành viên Kimi bao gồm hai nguồn credit. Kimi Code dùng một nguồn tín dụng riêng; các tính năng thành viên khác chia sẻ chung một nguồn credit và credit được tính theo mức sử dụng thực tế.
 </Callout>
 
 ## Hai nguồn credit là gì?
-Thay vì cấp quota riêng cho từng tính năng, gói thành viên của bạn có hai nguồn credit. Kimi Code dùng một nguồn quota riêng; các tính năng thành viên khác chia sẻ chung một nguồn quota dùng được ở mọi nơi:
+Thay vì cấp tín dụng riêng cho từng tính năng, gói thành viên của bạn có hai nguồn credit. Kimi Code dùng một nguồn tín dụng riêng; các tính năng thành viên khác chia sẻ chung một nguồn tín dụng dùng được ở mọi nơi:
 | Tính năng | Mô tả |
 |---------|-------------|
 | **Tác vụ Agent** | Website, tài liệu, slide, bảng tính, nghiên cứu chuyên sâu |
 | **Kimi Claw** | Trợ lý AI cá nhân triển khai trên đám mây của bạn |
 | **Tính năng khác** | Tạo ảnh và nhiều tính năng khác |
 
-> **Kimi Chat**: Trò chuyện với các mô hình mới nhất (không tiêu hao quota)
-> **Kimi Code**: Trợ lý lập trình hỗ trợ bởi AI (nguồn quota riêng)
+> **Kimi Chat**: Trò chuyện với các mô hình mới nhất (không tiêu hao tín dụng)
+> **Kimi Code**: Trợ lý lập trình hỗ trợ bởi AI (nguồn tín dụng riêng)
 
 <Callout type="tip">
-Điều này nghĩa là bạn có thể phân bổ credit tùy ý trong nguồn chung — tháng này dành nhiều cho nghiên cứu, tháng sau dồn cho tài liệu. Kimi Chat không tiêu hao quota, còn Kimi Code dùng nguồn quota riêng của nó.
+Điều này nghĩa là bạn có thể phân bổ credit tùy ý trong nguồn chung — tháng này dành nhiều cho nghiên cứu, tháng sau dồn cho tài liệu. Kimi Chat không tiêu hao tín dụng, còn Kimi Code dùng nguồn tín dụng riêng của nó.
 </Callout>
 
 ## Credit được tính như thế nào?

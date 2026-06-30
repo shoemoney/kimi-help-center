@@ -76,7 +76,7 @@ Os benefícios da assinatura do Kimi Code e a [Kimi Open Platform](https://platf
 
 | Plataforma | Base URL | Cobrança | Criação de chave |
 |------|---------|---------|-------------|
-| **Kimi Code** | Compatível com Anthropic: `https://api.kimi.com/coding/` | Assinatura Kimi (inclui quota) | [Console do Kimi Code](https://www.kimi.com/code/console) |
+| **Kimi Code** | Compatível com Anthropic: `https://api.kimi.com/coding/` | Assinatura Kimi (inclui créditos) | [Console do Kimi Code](https://www.kimi.com/code/console) |
 | **Kimi Open Platform** | `https://api.moonshot.cn/v1` | Pagamento conforme o uso | [Kimi Open Platform](https://platform.kimi.com) |
 
 ### A chave de API é inválida
@@ -86,9 +86,9 @@ Possíveis motivos para uma chave de API inválida:
 - **Chave inserida incorretamente**: Verifique se há espaços extras ou caracteres faltando.
 - **Chave expirada ou revogada**: Confirme o status da chave no console da plataforma.
 
-### Assinatura expirada ou quota esgotada
+### Assinatura expirada ou créditos esgotada
 
-Se você usa a plataforma Kimi Code, pode verificar sua quota atual e o status da assinatura pelo comando `/usage`. Se sua quota estiver esgotada ou sua assinatura tiver expirado, você precisa renovar ou fazer upgrade em [Kimi Code](https://kimi.com/code).
+Se você usa a plataforma Kimi Code, pode verificar sua créditos atual e o status da assinatura pelo comando `/usage`. Se sua créditos estiver esgotada ou sua assinatura tiver expirado, você precisa renovar ou fazer upgrade em [Kimi Code](https://kimi.com/code).
 
 ## Assinatura
 

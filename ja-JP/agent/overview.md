@@ -62,12 +62,12 @@ Kimi K2.6 Agent は、複雑なタスクを最初から最後まで自律的に�
   columns={[
     {
       title: "機能と制限",
-      description: "機能と quota",
+      description: "機能と クレジット",
       pageUrl: "/agent/agent-features-and-limits",
       type: "document",
     },
     {
-      title: "Quota と請求",
+      title: "クレジット と請求",
       description: "料金とメンバーシップの詳細",
       pageUrl: "/agent/quota-and-billing",
       type: "data",

@@ -76,7 +76,7 @@ Kimi Code のメンバーシップ特典と [Kimi Open Platform](https://platfor
 
 | プラットフォーム | Base URL | 課金 | キーの作成 |
 |------|---------|---------|-------------|
-| **Kimi Code** | Anthropic 互換: `https://api.kimi.com/coding/` | Kimi メンバーシップのサブスクリプション（quota を含む） | [Kimi Code Console](https://www.kimi.com/code/console) |
+| **Kimi Code** | Anthropic 互換: `https://api.kimi.com/coding/` | Kimi メンバーシップのサブスクリプション（クレジット を含む） | [Kimi Code Console](https://www.kimi.com/code/console) |
 | **Kimi Open Platform** | `https://api.moonshot.cn/v1` | 従量課金 | [Kimi Open Platform](https://platform.kimi.com) |
 
 ### APIキーが無効
@@ -86,9 +86,9 @@ APIキーが無効になる主な理由は次のとおりです。
 - **キーの入力ミス**: 余分なスペースや入力漏れがないか確認してください。
 - **キーの期限切れまたは取り消し**: プラットフォームのコンソールでキーの状態を確認してください。
 
-### メンバーシップの期限切れ、または quota の使い切り
+### メンバーシップの期限切れ、または クレジット の使い切り
 
-Kimi Code プラットフォームを使用している場合、`/usage` コマンドで現在の quota とメンバーシップの状態を確認できます。quota を使い切った、またはメンバーシップの期限が切れた場合は、[Kimi Code](https://kimi.com/code) で更新またはアップグレードしてください。
+Kimi Code プラットフォームを使用している場合、`/usage` コマンドで現在の クレジット とメンバーシップの状態を確認できます。クレジット を使い切った、またはメンバーシップの期限が切れた場合は、[Kimi Code](https://kimi.com/code) で更新またはアップグレードしてください。
 
 ## サブスクリプション
 

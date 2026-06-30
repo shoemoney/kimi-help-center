@@ -18,15 +18,15 @@ preview: false
 Điều này có thể xảy ra vì những lý do sau:
 1. Tệp tải lên hoặc phần mô tả kỹ năng chưa đầy đủ.
 2. Định dạng hoặc số lượng tệp không đáp ứng yêu cầu.
-3. Hệ thống phát hiện quota của tài khoản bạn đã cạn.
+3. Hệ thống phát hiện tín dụng của tài khoản bạn đã cạn.
 
-## Việc tạo Skills tiêu hao quota như thế nào?
+## Việc tạo Skills tiêu hao tín dụng như thế nào?
 
-Tạo một kỹ năng sẽ tiêu hao **token** của bạn, có thể lấy từ lượt tìm kiếm được tặng hoặc từ quota thành viên chính thức.
+Tạo một kỹ năng sẽ tiêu hao **token** của bạn, có thể lấy từ lượt tìm kiếm được tặng hoặc từ tín dụng thành viên chính thức.
 
 **Thứ tự trừ**:
 1. Ưu tiên dùng lượt tìm kiếm được tặng trước.
-2. Nếu không còn lượt tìm kiếm được tặng, hệ thống sẽ dùng quota thành viên.
+2. Nếu không còn lượt tìm kiếm được tặng, hệ thống sẽ dùng tín dụng thành viên.
 
 <Callout type="info">
 Nếu quá trình tạo thất bại, sẽ không trừ token. Token chỉ bị tiêu hao khi tạo thành công.
@@ -42,7 +42,7 @@ Có. Để đảm bảo hệ thống ổn định và sử dụng công bằng, 
 ## Tôi nên làm gì khi tạo kỹ năng thất bại?
 
 * Bạn có thể chọn **Thử lại** hoặc **Xóa** thẻ kỹ năng bị lỗi.
-* Những lần thử thất bại không tiêu hao quota.
+* Những lần thử thất bại không tiêu hao tín dụng.
 * Phần mô tả kỹ năng ban đầu sẽ hiển thị trên thẻ bị lỗi để giúp bạn phân biệt các tác vụ khác nhau.
 
 ## Yêu cầu đặt tên cho kỹ năng mới là gì?

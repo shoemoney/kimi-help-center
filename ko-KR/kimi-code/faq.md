@@ -76,7 +76,7 @@ Kimi Code 멤버십 혜택과 [Kimi 오픈 플랫폼](https://platform.kimi.com)
 
 | 플랫폼 | Base URL | 과금 방식 | 키 생성 |
 |------|---------|---------|-------------|
-| **Kimi Code** | Anthropic 호환: `https://api.kimi.com/coding/` | Kimi 멤버십 구독(quota 포함) | [Kimi Code 콘솔](https://www.kimi.com/code/console) |
+| **Kimi Code** | Anthropic 호환: `https://api.kimi.com/coding/` | Kimi 멤버십 구독(크레딧 포함) | [Kimi Code 콘솔](https://www.kimi.com/code/console) |
 | **Kimi 오픈 플랫폼** | `https://api.moonshot.cn/v1` | 사용량 기반 과금 | [Kimi 오픈 플랫폼](https://platform.kimi.com) |
 
 ### API 키가 유효하지 않음
@@ -86,7 +86,7 @@ API 키가 유효하지 않은 가능한 원인:
 - **키를 잘못 입력함**: 불필요한 공백이나 누락된 문자가 없는지 확인하세요.
 - **키가 만료되었거나 취소됨**: 플랫폼 콘솔에서 키 상태를 확인하세요.
 
-### 멤버십 만료 또는 quota 소진
+### 멤버십 만료 또는 크레딧 소진
 
 Kimi Code 플랫폼을 사용 중이라면 `/usage` 명령어로 현재 quota와 멤버십 상태를 확인할 수 있습니다. quota가 소진되었거나 멤버십이 만료된 경우 [Kimi Code](https://kimi.com/code)에서 갱신하거나 업그레이드해야 합니다.
 

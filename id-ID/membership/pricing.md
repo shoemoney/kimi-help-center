@@ -19,12 +19,12 @@ Kimi menawarkan lima tingkat keanggotaan — termasuk paket gratis — masing-ma
 
 | Fitur | Adagio (Gratis) | Moderato ($19/bln) | Allegretto ($39/bln) | Allegro ($99/bln) | Vivace ($199/bln) |
 |---------|---------------|-------------------|---------------------|-------------------|-------------------|
-| Quota Agent* | 6 | 60 | 150 | 360 | 720 |
+| Kredit Agent* | 6 | 60 | 150 | 360 | 720 |
 | Tugas serentak Agent | 1 | 2 | 2 | 4 | 4 |
 | Prioritas kecepatan Agent | — | 4× | 4× | 4× | 4× |
 | Agent Swarm (beta) | — | 25 penggunaan | 50 penggunaan | 120 penggunaan | 240 penggunaan |
 | Subtugas serentak Agent Swarm | — | 2 | 4 | 4 | 8 |
-| Quota Kimi Code | — | 1× | 5× | 15× | 30× |
+| kredit Kimi Code | — | 1× | 5× | 15× | 30× |
 | Kimi Claw | — | — | ✅ | ✅ | ✅ |
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
 | Basis data profesional | 200 panggilan | 2.000 panggilan | 5.000 panggilan | 12.000 panggilan | 24.000 panggilan |
@@ -42,4 +42,4 @@ Kimi menawarkan lima tingkat keanggotaan — termasuk paket gratis — masing-ma
 
 ## Alokasi credit
 
-Semua paket mencakup dua kumpulan credit: Kimi Code menggunakan kumpulan quota tersendiri; fitur keanggotaan lainnya berbagi satu kumpulan quota. Tingkat yang lebih tinggi mencakup kumpulan credit yang proporsional lebih besar, sehingga mendukung alur kerja yang lebih sering dan kompleks. Lihat [Aturan Pembaruan & Penggunaan Credit](/membership/update-rules) untuk detailnya.
+Semua paket mencakup dua kumpulan credit: Kimi Code menggunakan kumpulan kredit tersendiri; fitur keanggotaan lainnya berbagi satu kumpulan kredit. Tingkat yang lebih tinggi mencakup kumpulan credit yang proporsional lebih besar, sehingga mendukung alur kerja yang lebih sering dan kompleks. Lihat [Aturan Pembaruan & Penggunaan Credit](/membership/update-rules) untuk detailnya.

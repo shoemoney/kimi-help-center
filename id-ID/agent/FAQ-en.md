@@ -18,15 +18,15 @@ preview: false
 Hal ini dapat terjadi karena beberapa alasan berikut:
 1. File yang diunggah atau deskripsi skill belum lengkap.
 2. Format atau jumlah file tidak memenuhi persyaratan.
-3. Sistem mendeteksi bahwa quota akun Anda telah habis.
+3. Sistem mendeteksi bahwa kredit akun Anda telah habis.
 
-## Bagaimana pembuatan Skills menghabiskan quota?
+## Bagaimana pembuatan Skills menghabiskan kredit?
 
-Pembuatan skill menghabiskan **token** Anda, yang dapat berasal dari pencarian hadiah atau quota keanggotaan resmi Anda.
+Pembuatan skill menghabiskan **token** Anda, yang dapat berasal dari pencarian hadiah atau kredit keanggotaan resmi Anda.
 
 **Urutan Pengurangan**:
 1. Pencarian hadiah diprioritaskan.
-2. Jika pencarian hadiah tidak tersedia, quota keanggotaan digunakan.
+2. Jika pencarian hadiah tidak tersedia, kredit keanggotaan digunakan.
 
 <Callout type="info">
 Jika proses pembuatan gagal, tidak ada token yang dikurangi. Token hanya terpakai saat pembuatan berhasil.
@@ -42,7 +42,7 @@ Ya, demi menjaga kestabilan sistem dan penggunaan yang adil, berlaku batasan ber
 ## Apa yang harus saya lakukan jika pembuatan skill gagal?
 
 * Anda dapat memilih untuk **Coba Lagi** atau **Hapus** kartu skill yang gagal.
-* Percobaan yang gagal tidak menghabiskan quota.
+* Percobaan yang gagal tidak menghabiskan kredit.
 * Deskripsi skill awal akan ditampilkan pada kartu yang gagal untuk membantu Anda membedakan tugas yang berbeda.
 
 ## Persyaratan penamaan apa yang berlaku untuk skill baru?

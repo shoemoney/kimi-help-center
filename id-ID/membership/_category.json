@@ -1,9 +1,9 @@
 {
   "title": "Keanggotaan",
-  "description": "Paket, penagihan, credit, peningkatan, faktur, dan pertanyaan umum",
+  "description": "Paket, penagihan, kredit, peningkatan, faktur, dan pertanyaan umum",
   "seo": {
     "title": "Keanggotaan",
-    "description": "Paket, penagihan, credit, peningkatan, faktur, dan pertanyaan umum"
+    "description": "Paket, penagihan, kredit, peningkatan, faktur, dan pertanyaan umum"
   },
   "icon": "membership",
   "order": 9,

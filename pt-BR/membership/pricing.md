@@ -19,12 +19,12 @@ O Kimi oferece cinco níveis de assinatura — incluindo um plano gratuito — c
 
 | Recurso | Adagio (Gratuito) | Moderato (US$ 19/mês) | Allegretto (US$ 39/mês) | Allegro (US$ 99/mês) | Vivace (US$ 199/mês) |
 |---------|---------------|-------------------|---------------------|-------------------|-------------------|
-| Quota do Agent* | 6 | 60 | 150 | 360 | 720 |
+| Créditos do Agent* | 6 | 60 | 150 | 360 | 720 |
 | Tarefas simultâneas do Agent | 1 | 2 | 2 | 4 | 4 |
 | Prioridade de velocidade do Agent | — | 4× | 4× | 4× | 4× |
 | Agent Swarm (beta) | — | 25 usos | 50 usos | 120 usos | 240 usos |
 | Subtarefas simultâneas do Agent Swarm | — | 2 | 4 | 4 | 8 |
-| Quota do Kimi Code | — | 1× | 5× | 15× | 30× |
+| créditos do Kimi Code | — | 1× | 5× | 15× | 30× |
 | Kimi Claw | — | — | ✅ | ✅ | ✅ |
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
 | Banco de dados profissional | 200 chamadas | 2.000 chamadas | 5.000 chamadas | 12.000 chamadas | 24.000 chamadas |
@@ -42,4 +42,4 @@ O Kimi oferece cinco níveis de assinatura — incluindo um plano gratuito — c
 
 ## Distribuição de créditos
 
-Todos os planos incluem dois conjuntos de créditos: o Kimi Code usa uma quota separada; os demais recursos da assinatura compartilham uma única quota. Os níveis superiores incluem um conjunto de créditos proporcionalmente maior, dando suporte a fluxos de trabalho mais frequentes e complexos. Consulte [Regras de atualização e uso de créditos](/membership/update-rules) para mais detalhes.
+Todos os planos incluem dois conjuntos de créditos: o Kimi Code usa uma créditos separada; os demais recursos da assinatura compartilham uma única créditos. Os níveis superiores incluem um conjunto de créditos proporcionalmente maior, dando suporte a fluxos de trabalho mais frequentes e complexos. Consulte [Regras de atualização e uso de créditos](/membership/update-rules) para mais detalhes.

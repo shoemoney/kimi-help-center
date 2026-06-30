@@ -22,7 +22,7 @@ preview: false
 | **400** | 錯誤請求 — 輸入格式不正確或參數無效 | 檢查訊息中是否含有不支援的內容，然後重試。 |
 | **401** | 未授權 — 驗證失敗 | 登出 Kimi 後再重新登入。如果問題仍然存在，請在 Kimi Claw 設定中檢查你的 API 憑證。 |
 | **403** | 禁止存取 — 權限不足 | 確認你的會員等級支援目前使用的功能，並確保帳戶未受限制。 |
-| **429** | Too Many Requests — 已超過 rate limit | 等待幾分鐘後再試。如何查看你的 quota，詳情請參閱[對話限制](/kimi-claw/conversation-limits)。 |
+| **429** | Too Many Requests — 已超過 rate limit | 等待幾分鐘後再試。如何查看你的配額，詳情請參閱[對話限制](/kimi-claw/conversation-limits)。 |
 | **500** | Internal Server Error — 伺服器發生問題 | 稍等片刻後重試。如果反覆發生，請使用下方的自行修復選項，或聯絡支援團隊。 |
 
 ## 自行修復選項

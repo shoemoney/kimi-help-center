@@ -67,7 +67,7 @@ Describe tu tarea con claridad, observa el progreso de la ejecución y luego des
       type: "document",
     },
     {
-      title: "Quota y facturación",
+      title: "Créditos y facturación",
       description: "Detalles de precios y membresía",
       pageUrl: "/agent/quota-and-billing",
       type: "data",

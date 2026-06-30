@@ -8,28 +8,28 @@ preview: false
 
 <SeoMeta
   title="Aturan pembaruan \u0026 penggunaan credit - Pusat Bantuan Kimi"
-  description="Manfaat keanggotaan Kimi mencakup dua pool credit. Kimi Code menggunakan pool quota terpisah; fitur keanggotaan lainnya berbagi satu pool credit, dan credit dipakai sesuai penggunaan sebenarnya."
+  description="Manfaat keanggotaan Kimi mencakup dua pool credit. Kimi Code menggunakan pool kredit terpisah; fitur keanggotaan lainnya berbagi satu pool credit, dan credit dipakai sesuai penggunaan sebenarnya."
 />
 
 # Aturan pembaruan & penggunaan credit
 
 <Callout type="info">
-Manfaat keanggotaan Kimi mencakup dua pool credit. Kimi Code menggunakan pool quota terpisah; fitur keanggotaan lainnya berbagi satu pool credit, dan credit dipakai sesuai penggunaan sebenarnya.
+Manfaat keanggotaan Kimi mencakup dua pool credit. Kimi Code menggunakan pool kredit terpisah; fitur keanggotaan lainnya berbagi satu pool credit, dan credit dipakai sesuai penggunaan sebenarnya.
 </Callout>
 
 ## Apa itu dua pool credit?
-Alih-alih quota terpisah untuk setiap fitur, keanggotaan Anda memberikan dua pool credit. Kimi Code menggunakan pool quota terpisah; fitur keanggotaan lainnya berbagi satu pool quota yang berlaku di mana saja:
+Alih-alih kredit terpisah untuk setiap fitur, keanggotaan Anda memberikan dua pool credit. Kimi Code menggunakan pool kredit terpisah; fitur keanggotaan lainnya berbagi satu pool kredit yang berlaku di mana saja:
 | Fitur | Deskripsi |
 |---------|-------------|
 | **Tugas Agent** | Website, dokumen, slide, spreadsheet, deep research |
 | **Kimi Claw** | Asisten AI pribadi Anda yang berbasis cloud |
 | **Fitur lainnya** | Pembuatan gambar dan lainnya |
 
-> **Kimi Chat**: Percakapan dengan model terbaru (tidak memakai quota)
-> **Kimi Code**: Asisten coding bertenaga AI (pool quota terpisah)
+> **Kimi Chat**: Percakapan dengan model terbaru (tidak memakai kredit)
+> **Kimi Code**: Asisten coding bertenaga AI (pool kredit terpisah)
 
 <Callout type="tip">
-Ini berarti Anda bebas mengalokasikan credit sesuka hati di seluruh pool bersama — pakai lebih banyak untuk riset di satu bulan, lebih banyak untuk dokumen di bulan berikutnya. Kimi Chat tidak memakai quota, dan Kimi Code memakai pool quota terpisahnya sendiri.
+Ini berarti Anda bebas mengalokasikan credit sesuka hati di seluruh pool bersama — pakai lebih banyak untuk riset di satu bulan, lebih banyak untuk dokumen di bulan berikutnya. Kimi Chat tidak memakai kredit, dan Kimi Code memakai pool kredit terpisahnya sendiri.
 </Callout>
 
 ## Bagaimana credit dihitung?

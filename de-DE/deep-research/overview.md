@@ -23,10 +23,10 @@ preview_content: "Erfahren Sie, wie Deep Research eigenständig plant, recherchi
 Für jede Frage durchläuft Kimi-Researcher eigenständig die gesamte Recherche-Pipeline:
 | Schritt | Beschreibung |
 | --- | --- |
-| **Clarification** | Stellt aktiv Rückfragen, um den Problemraum klarer abzustecken |
+| **Absichtsklärung** | Stellt aktiv Rückfragen, um den Problemraum klarer abzustecken |
 | **Tiefes Denken** | Durchschnittlich 23 Denkschritte pro Aufgabe, um Anforderungen zu ordnen und zu klären |
 | **Aktive Suche** | Plant rund 74 Schlüsselwörter, entdeckt 206 URLs und filtert auf die besten 3,2 % der hochwertigsten Inhalte |
-| **Iterative reasoning** | Wertet Ergebnisse aus, um zu entscheiden, ob weitere Suchen nötig sind |
+| **Iteratives Tiefenreasoning** | Wertet Ergebnisse aus, um zu entscheiden, ob weitere Suchen nötig sind |
 | **Tool-Aufruf** | Ruft Browser, Code-Ausführung und weitere Tools auf, um Daten zu verarbeiten |
 | **Berichterstellung** | Fasst Informationen zu einem strukturierten Langbericht mit Quellenangaben zusammen |
 
@@ -79,7 +79,7 @@ Jede Recherche-Aufgabe liefert zwei Ergebnisse:
 - **Mobil**: Kimi-App → Taskleiste → Deep Research Agent-Modus
 **Schritte**:
 1. Geben Sie Ihre Forschungsfrage ein und senden Sie sie ab
-2. Beantworten Sie die Clarification-Fragen, um die Richtung zu bestätigen (oder klicken Sie auf „Alles einbeziehen“, um sie zu überspringen)
+2. Beantworten Sie die Clarification (Absichtsklärung)-Fragen, um die Richtung zu bestätigen (oder klicken Sie auf „Alles einbeziehen“, um sie zu überspringen)
 3. Verfolgen Sie Suchbegriffe, Denkprozess und besuchte URLs in Echtzeit
 4. Erhalten Sie nach Abschluss zwei Ergebnisse:
    - **Deep-Research-Bericht** (Markdown): über 10.000 Wörter mit Inhaltsverzeichnis und nachvollziehbaren Quellen
@@ -93,13 +93,13 @@ Jede Recherche-Aufgabe liefert zwei Ergebnisse:
 - **Quellentypen**: „offizielle Berichte und wissenschaftliche Arbeiten bevorzugen“
 - **Fragezerlegung**: breite Fragen in Teilfragen aufgliedern
 
-### 2. Während der Clarification nachjustieren
+### 2. Während der Clarification (Absichtsklärung) nachjustieren
 - Nennen Sie Richtungen, die *nicht* abgedeckt werden sollen
 - Ergänzen Sie konkrete Dimensionen oder Blickwinkel als Schwerpunkt
 - Liefern Sie Hintergrundinformationen für komplexe Fragen
 
 <Callout type="warning">
-Halten Sie Ihre Antworten bei der Clarification knapp und präzise – zu lange oder unklare Eingaben können dazu führen, dass die Recherche abdriftet.
+Halten Sie Ihre Antworten bei der Clarification (Absichtsklärung) knapp und präzise – zu lange oder unklare Eingaben können dazu führen, dass die Recherche abdriftet.
 </Callout>
 
 ### 3. Während der Ausführung Geduld haben

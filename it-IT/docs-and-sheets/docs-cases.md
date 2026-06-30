@@ -72,7 +72,7 @@ Come un grafico impaginatore, Kimi ti aiuta a pianificare gli elementi visivi, d
 
 | Scenario | Esempio di prompt |
 |------|-----------|
-| **Report professionale** | Scrivi in Word un "Libro bianco 2026 sull'industria dell'economia a bassa quota in Cina", in stile McKinsey, che copra dimensioni del mercato, scenario competitivo, contesto normativo e raccomandazioni di investimento |
+| **Report professionale** | Scrivi in Word un "Libro bianco 2026 sull'industria dell'economia a bassa crediti in Cina", in stile McKinsey, che copra dimensioni del mercato, scenario competitivo, contesto normativo e raccomandazioni di investimento |
 | **Revisione di contratti** | [Carica contract.docx] Esamina questo contratto dal punto di vista di un avvocato, individua le clausole a rischio e inserisci i commenti |
 | **Modellazione finanziaria** | Crea in Word un modello di previsione finanziaria SaaS triennale, comprensivo di proiezioni dei ricavi, struttura dei costi e flusso di cassa |
 | **Sintesi di testi lunghi** | Condensa questo articolo accademico di 30.000 parole in un riassunto esecutivo di 5.000 parole in formato Word |

@@ -40,4 +40,4 @@ Lorsque la fréquence de vos requêtes dépasse la limite, l'API renvoie un code
 Si les besoins de votre activité dépassent les rate limits actuels :
 
 - **Recharger pour passer au niveau supérieur** : augmentez le montant cumulé de vos recharges et le système relèvera automatiquement votre palier de rate limit.
-- **Contacter l'équipe commerciale** : pour des besoins particuliers, adressez-vous à l'équipe commerciale de la plateforme via [platform.moonshot.ai/contact-sales](https://www.platform.moonshot.ai/contact-sales) afin de demander un quota personnalisé.
+- **Contacter l'équipe commerciale** : pour des besoins particuliers, adressez-vous à l'équipe commerciale de la plateforme via [platform.moonshot.ai/contact-sales](https://www.platform.moonshot.ai/contact-sales) afin de demander un crédits personnalisé.

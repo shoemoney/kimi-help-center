@@ -24,7 +24,7 @@ Lỗi 429 nghĩa là tần suất gửi yêu cầu của bạn đã vượt quá
 - Áp dụng chiến lược thử lại với độ trễ tăng dần theo cấp số nhân (chờ 1 giây, 2 giây, 4 giây… trước mỗi lần thử lại).
 - Kiểm soát số lượng yêu cầu đồng thời bằng cơ chế hàng đợi.
 - Tăng tổng số tiền nạp tích lũy để nâng bậc rate limit.
-- Liên hệ đội ngũ kinh doanh nếu bạn cần quota cao hơn.
+- Liên hệ đội ngũ kinh doanh nếu bạn cần tín dụng cao hơn.
 
 ## Xử lý lỗi xác thực 401 như thế nào?
 
@@ -79,7 +79,7 @@ Tính năng web search của Kimi API truy xuất thông tin công khai trên in
 | --- | --- | --- |
 | **Đối tượng** | Sản phẩm trò chuyện hướng đến người dùng cuối | Giao diện tích hợp hướng đến lập trình viên |
 | **Cách truy cập** | Qua trình duyệt | Gọi API bằng mã chương trình |
-| **Tính phí** | Hệ thống thành viên/quota | Trả theo mức dùng tính theo token |
+| **Tính phí** | Hệ thống thành viên/tín dụng | Trả theo mức dùng tính theo token |
 | **Tài khoản** | Đăng nhập dùng chung | Đăng nhập dùng chung |
 | **Credit** | Không chuyển đổi được giữa hai hệ thống | Không chuyển đổi được giữa hai hệ thống |
 

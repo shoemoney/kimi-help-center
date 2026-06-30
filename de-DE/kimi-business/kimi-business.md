@@ -33,13 +33,13 @@ Weitere Plätze, die während der Laufzeit hinzugekauft werden, werden anteilig 
 
 ### KI-Funktionen
 
-| Vorteil | Quota |
+| Vorteil | Credits |
 |---------|-------|
 | Agent-Nutzung | 4× (ca. 150/Monat) |
 | Gleichzeitige Agent-Aufgaben | 2 Aufgaben |
 | Prioritäts-Warteschlange | 4-fache Geschwindigkeit |
 | Agent-Cluster | 50 Mal/Monat, 4 parallele Teilaufgaben |
-| Kimi Code | 20× Quota |
+| Kimi Code | 20× Credits |
 | Kimi Claw | Ein-Klick-Bereitstellung eines dedizierten KI-Assistenten, unterstützt Web und Android |
 | Professionelle Datenbank | 5.000 Mal/Monat, deckt Finanz-, Wirtschafts- und akademische Datenquellen ab |
 
@@ -56,7 +56,7 @@ Weitere Plätze, die während der Laufzeit hinzugekauft werden, werden anteilig 
 | Rolle | Berechtigungen |
 |------|-------------|
 | Administrator | Plätze kaufen, Einladungslinks erstellen, Mitglieder verwalten, Bestellungen einsehen |
-| Mitglied | Unternehmensvorteile nutzen, persönliche Quota einsehen |
+| Mitglied | Unternehmensvorteile nutzen, persönliche Credits einsehen |
 
 Die Administratorrolle wird automatisch dem Konto zugewiesen, das das Unternehmensabonnement erstmals erwirbt.
 
@@ -81,7 +81,7 @@ Jeder Nutzer kann bis zu 10 Unternehmensorganisationen beitreten. Mitglieder bel
 ### Mitglieder entfernen
 
 - Entfernte Mitglieder verlieren sofort den Zugriff auf den Unternehmens-Workspace
-- Entfernte Mitglieder verlieren sofort ihre Kimi-Business-Vorteile und können die Unternehmens-Quota für den aktuellen Zeitraum nicht mehr nutzen
+- Entfernte Mitglieder verlieren sofort ihre Kimi-Business-Vorteile und können die Unternehmens-Credits für den aktuellen Zeitraum nicht mehr nutzen
 - Plätze entfernter Mitglieder wechseln in den Status „Wartet auf Freigabe“ und werden im nächsten Abrechnungszeitraum freigegeben
 
 ## Workspace
@@ -106,7 +106,7 @@ Plattformunterstützung: Das Web unterstützt die Funktionen von Kimi Business v
 ### Aktivierungsregeln
 
 - **Sofortige Aktivierung**: Mitglieder erhalten die Vorteile des laufenden Zeitraums sofort nach Annahme der Einladung
-- **Volle Quota des laufenden Zeitraums**: Mitglieder, die mit einem nicht zugewiesenen oder neu hinzugefügten Platz beitreten, erhalten die volle Quota für den laufenden Zeitraum
+- **Volle Credits des laufenden Zeitraums**: Mitglieder, die mit einem nicht zugewiesenen oder neu hinzugefügten Platz beitreten, erhalten die volle Credits für den laufenden Zeitraum
 - **Zyklusangleichung**: Unternehmensvorteile werden einheitlich nach dem Abonnementzyklus abgerechnet und monatlich erneuert
 
 ### Ablaufregeln

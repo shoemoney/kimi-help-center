@@ -23,10 +23,10 @@ preview_content: "Descubre cómo Deep Research planifica, busca y entrega de for
 Para cada pregunta, Kimi-Researcher completa por sí solo todo el proceso de investigación:
 | Paso | Descripción |
 | --- | --- |
-| **Clarification** | Hace preguntas de seguimiento de forma proactiva para definir mejor el problema |
+| **Aclaración de intención** | Hace preguntas de seguimiento de forma proactiva para definir mejor el problema |
 | **Razonamiento profundo** | Promedia 23 pasos de razonamiento por tarea, organizando y resolviendo los requisitos |
 | **Búsqueda activa** | Planifica ~74 palabras clave, descubre 206 URL y filtra hasta quedarse con el 3.2 % de contenido de mayor calidad |
-| **Iterative reasoning** | Evalúa los resultados para determinar si se necesitan más búsquedas |
+| **Razonamiento iterativo en profundidad** | Evalúa los resultados para determinar si se necesitan más búsquedas |
 | **Invocación de herramientas** | Recurre a navegadores, ejecución de código y otras herramientas para procesar datos |
 | **Generación del informe** | Sintetiza la información en un informe extenso y estructurado con citas |
 
@@ -79,7 +79,7 @@ Cada tarea de investigación genera dos entregables:
 - **Móvil**: app de Kimi → Barra de tareas → modo Agent de Deep Research
 **Pasos**:
 1. Escribe tu pregunta de investigación y envíala
-2. Responde las preguntas de Clarification para confirmar la dirección (o haz clic en "Incluir todo" para omitirlas)
+2. Responde las preguntas de Clarification (Aclaración de intención) para confirmar la dirección (o haz clic en "Incluir todo" para omitirlas)
 3. Sigue en tiempo real las palabras clave de búsqueda, el proceso de razonamiento y las URL visitadas
 4. Recibe dos entregables al finalizar:
    - **Informe de Deep Research** (Markdown): más de 10,000 palabras con tabla de contenidos y fuentes rastreables
@@ -93,13 +93,13 @@ Antes de enviar, considera especificar:
 - **Tipos de fuentes**: "prioriza informes oficiales y artículos académicos"
 - **Desglose de la pregunta**: divide las preguntas amplias en subpreguntas
 
-### 2. Ajusta durante la Clarification
+### 2. Ajusta durante la Clarification (Aclaración de intención)
 - Indica las direcciones que *no* quieres que se aborden
 - Agrega dimensiones o enfoques específicos en los que centrarte
 - Aporta contexto de fondo para preguntas complejas
 
 <Callout type="warning">
-Mantén tus respuestas de Clarification breves y específicas: una entrada demasiado larga o poco clara puede desviar la investigación.
+Mantén tus respuestas de Clarification (Aclaración de intención) breves y específicas: una entrada demasiado larga o poco clara puede desviar la investigación.
 </Callout>
 
 ### 3. Ten paciencia durante la ejecución

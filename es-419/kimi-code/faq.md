@@ -76,7 +76,7 @@ Los beneficios de la membresía de Kimi Code y la [Plataforma abierta de Kimi](h
 
 | Plataforma | Base URL | Facturación | Creación de la key |
 |------|---------|---------|-------------|
-| **Kimi Code** | Compatible con Anthropic: `https://api.kimi.com/coding/` | Suscripción de membresía de Kimi (incluye quota) | [Consola de Kimi Code](https://www.kimi.com/code/console) |
+| **Kimi Code** | Compatible con Anthropic: `https://api.kimi.com/coding/` | Suscripción de membresía de Kimi (incluye créditos) | [Consola de Kimi Code](https://www.kimi.com/code/console) |
 | **Plataforma abierta de Kimi** | `https://api.moonshot.cn/v1` | Pago por uso | [Plataforma abierta de Kimi](https://platform.kimi.com) |
 
 ### La API key es inválida
@@ -86,9 +86,9 @@ Posibles motivos por los que una API key es inválida:
 - **La key se ingresó mal**: revisa que no haya espacios de más ni caracteres faltantes.
 - **La key venció o fue revocada**: confirma el estado de la key en la consola de la plataforma.
 
-### Membresía vencida o quota agotada
+### Membresía vencida o créditos agotada
 
-Si usas la plataforma de Kimi Code, puedes consultar tu quota actual y el estado de tu membresía con el comando `/usage`. Si tu quota se agotó o tu membresía venció, debes renovar o mejorar tu plan en [Kimi Code](https://kimi.com/code).
+Si usas la plataforma de Kimi Code, puedes consultar tu créditos actual y el estado de tu membresía con el comando `/usage`. Si tu créditos se agotó o tu membresía venció, debes renovar o mejorar tu plan en [Kimi Code](https://kimi.com/code).
 
 ## Suscripción
 

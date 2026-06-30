@@ -62,12 +62,12 @@ Descrivi chiaramente la tua attività, segui l'avanzamento dell'esecuzione, poi 
   columns={[
     {
       title: "Funzionalità e limiti",
-      description: "Capacità e quota",
+      description: "Capacità e crediti",
       pageUrl: "/agent/agent-features-and-limits",
       type: "document",
     },
     {
-      title: "Quota e fatturazione",
+      title: "Crediti e fatturazione",
       description: "Prezzi e dettagli sull'abbonamento",
       pageUrl: "/agent/quota-and-billing",
       type: "data",

@@ -24,7 +24,7 @@ Ein 429-Fehler bedeutet, dass Ihre Anfragefrequenz das aktuelle rate limit Ihres
 - Implementieren Sie eine Wiederholungsstrategie mit exponentiellem Backoff (warten Sie 1 s, 2 s, 4 s … vor jedem neuen Versuch).
 - Steuern Sie die Anzahl gleichzeitiger Anfragen über einen Warteschlangenmechanismus.
 - Erhöhen Sie Ihren kumulierten Aufladebetrag, um in eine höhere rate-limit-Stufe aufzusteigen.
-- Wenden Sie sich an das Vertriebsteam, wenn Sie eine höhere quota benötigen.
+- Wenden Sie sich an das Vertriebsteam, wenn Sie eine höhere Credits benötigen.
 
 ## Wie gehe ich mit dem 401-Authentifizierungsfehler um?
 
@@ -79,7 +79,7 @@ Die Web-Search-Funktion der Kimi API ruft öffentlich verfügbare Informationen 
 | --- | --- | --- |
 | **Zielgruppe** | Konversationsprodukt für Endkunden | Integrationsschnittstelle für Entwickler |
 | **Zugang** | Browserbasiert | Programmatische API-Aufrufe |
-| **Abrechnung** | Mitgliedschafts-/quota-System | Pay-as-you-go nach Tokens |
+| **Abrechnung** | Mitgliedschafts-/Credits-System | Pay-as-you-go nach Tokens |
 | **Konto** | Gemeinsamer Login | Gemeinsamer Login |
 | **Credits** | Nicht zwischen Systemen übertragbar | Nicht zwischen Systemen übertragbar |
 

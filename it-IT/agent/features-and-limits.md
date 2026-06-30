@@ -54,13 +54,13 @@ A causa del limite di contesto di 256K caratteri dei modelli linguistici di gran
 ## Note importanti
 
 <Callout type="warning">
-**Utilizzo della quota**: le attività di Agent consumano quota dal pool condiviso (altre funzionalità dell'abbonamento). Kimi Code utilizza un pool di quota separato. Ogni attività di Agent consuma in genere 1 unità di quota. Per informazioni dettagliate sulla quota in base al livello di abbonamento, consulta [Quota e fatturazione](/agent/quota-and-billing).
+**Utilizzo dei crediti**: le attività di Agent consumano crediti dal pool condiviso (altre funzionalità dell'abbonamento). Kimi Code utilizza un pool di crediti separato. Ogni attività di Agent consuma in genere 1 unità di crediti. Per informazioni dettagliate sulla crediti in base al livello di abbonamento, consulta [Crediti e fatturazione](/agent/crediti-and-billing).
 Piano gratuito: 6 attività Agent/mese
 Piani a pagamento: da 60 a 720 attività Agent/mese a seconda del piano
 </Callout>
 
 - **Tempo di esecuzione**: in modalità Agent, una singola attività richiede in genere 5-20 minuti. Le attività K2.6 Agent Swarm [Beta] possono richiedere più tempo. Puoi lasciare la pagina: assicurati solo di non fare clic su Interrompi per interrompere l'attività.
-- **Utilizzo della quota**: le attività di Agent consumano quota dal pool condiviso. Kimi Code utilizza un pool di quota separato.
+- **Utilizzo dei crediti**: le attività di Agent consumano crediti dal pool condiviso. Kimi Code utilizza un pool di crediti separato.
 - **Attività semplici**: per semplici domande e risposte, si consiglia la modalità chat standard per risposte più rapide.
 
 <Callout type="warning">
@@ -91,6 +91,6 @@ Un progetto completo è in genere composto da tre parti: interfaccia frontend, s
 
 Agent utilizza una lunghezza di contesto di **256K caratteri** (circa 40.000-50.000 caratteri cinesi / ~100.000 parole in inglese).
 
-**D: Come viene calcolata la quota di Agent?**
+**D: Come viene calcolata la crediti di Agent?**
 
-Agent, PPT e altre funzionalità dell'abbonamento condividono un unico pool di quota. Kimi Code utilizza un pool di quota separato. Ogni attività di Agent conta in genere come un'unità di quota. Visualizza la tua quota attuale e l'utilizzo in [Crediti dell'abbonamento](https://www.kimi.com/membership-credits).
+Agent, PPT e altre funzionalità dell'abbonamento condividono un unico pool di crediti. Kimi Code utilizza un pool di crediti separato. Ogni attività di Agent conta in genere come un'unità di crediti. Visualizza la tua crediti attuale e l'utilizzo in [Crediti dell'abbonamento](https://www.kimi.com/membership-credits).

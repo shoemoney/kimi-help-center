@@ -14,18 +14,18 @@ preview_content: "Compara los cinco niveles de membresía de Kimi, el sistema de
 
 # Resumen de los planes de membresía
 
-Kimi ofrece cinco niveles de membresía —incluido un plan gratuito— diseñados para crecer junto con tus necesidades, desde la productividad diaria hasta los flujos de trabajo más exigentes. Todos los planes incluyen **dos pools de credits**: Kimi Code usa un pool de quota independiente; las demás funciones de la membresía comparten un mismo pool de quota.
+Kimi ofrece cinco niveles de membresía —incluido un plan gratuito— diseñados para crecer junto con tus necesidades, desde la productividad diaria hasta los flujos de trabajo más exigentes. Todos los planes incluyen **dos pools de credits**: Kimi Code usa un pool de créditos independiente; las demás funciones de la membresía comparten un mismo pool de créditos.
 
 ## Comparación de planes
 
 | Función | Adagio (Gratis) | Moderato $19/mes | Allegretto $39/mes | Allegro $99/mes | Vivace $199/mes |
 | --- | --- | --- | --- | --- | --- |
-| Quota de Agent* | 6 | 60 | 150 | 360 | 720 |
+| créditos de Agent* | 6 | 60 | 150 | 360 | 720 |
 | Tareas simultáneas de Agent | 1 | 2 | 2 | 4 | 4 |
 | Prioridad de velocidad de Agent | — | 4× | 4× | 4× | 4× |
 | Agent Swarm (beta) | — | 25 usos | 50 usos | 120 usos | 240 usos |
 | Subtareas simultáneas de Agent Swarm | — | 2 | 4 | 4 | 8 |
-| Quota de Kimi Code | — | 1× | 5× | 15× | 30× |
+| créditos de Kimi Code | — | 1× | 5× | 15× | 30× |
 | Kimi Claw | — | — | ✅ | ✅ | ✅ |
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
 | Base de datos profesional | 200 llamadas | 2,000 llamadas | 5,000 llamadas | 12,000 llamadas | 24,000 llamadas |
@@ -38,7 +38,7 @@ Usa todo el límite de credits para la misma función
 
 ## Cómo funciona la facturación
 
-- **Dos pools de credits**: Kimi Code usa un pool de quota independiente; las demás funciones de la membresía comparten un mismo pool de quota, medido por el uso de tokens.
+- **Dos pools de credits**: Kimi Code usa un pool de créditos independiente; las demás funciones de la membresía comparten un mismo pool de créditos, medido por el uso de tokens.
 - **Renovación mensual**: los credits se reinician al inicio de cada ciclo de facturación.
 - **Orden de prioridad**: primero se consumen los credits de bonificación y luego los del plan.
 

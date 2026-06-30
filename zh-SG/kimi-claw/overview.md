@@ -33,7 +33,7 @@ preview_content: "一键在云端部署并管理你自己的 Kimi Claw AI 助手
 
 </Callout>
 
-- Kimi 会自动为你配置 K2.6 Thinking 模型，接入你的 Kimi Code 额度，并启用 Kimi 网页搜索——无需单独配置 API。
+- Kimi 会自动为你配置 K2.6 Thinking 模型，接入你的 Kimi Code额度，并启用 Kimi 网页搜索——无需单独配置 API。
 - Kimi Claw 可直接部署到 Telegram 等聊天平台。
 
 ## 快速开始

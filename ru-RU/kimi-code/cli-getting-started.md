@@ -301,7 +301,7 @@ Kimi Code CLI планирует шаги, изменяет код, запуск
 
 | Платформа | Базовый URL | Оплата | Создание ключа |
 |------|---------|---------|-------------|
-| **Kimi Code** | Совместимо с OpenAI: `https://api.kimi.com/coding/v1`<br> Совместимо с Anthropic: `https://api.kimi.com/coding/` | Подписка Kimi (включает quota) | [Консоль Kimi Code](https://www.kimi.com/code/console) |
+| **Kimi Code** | Совместимо с OpenAI: `https://api.kimi.com/coding/v1`<br> Совместимо с Anthropic: `https://api.kimi.com/coding/` | Подписка Kimi (включает кредиты) | [Консоль Kimi Code](https://www.kimi.com/code/console) |
 | **Открытая платформа Kimi** | `https://api.moonshot.cn/v1` | Оплата по факту использования | [Открытая платформа Kimi](https://platform.kimi.com) |
 
 **После установки команда `kimi` не найдена.**

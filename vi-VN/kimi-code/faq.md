@@ -76,7 +76,7 @@ Quyền lợi thành viên của Kimi Code và [Kimi Open Platform](https://plat
 
 | Nền tảng | Base URL | Thanh toán | Tạo key |
 |------|---------|---------|-------------|
-| **Kimi Code** | Tương thích Anthropic: `https://api.kimi.com/coding/` | Đăng ký thành viên Kimi (bao gồm quota) | [Kimi Code Console](https://www.kimi.com/code/console) |
+| **Kimi Code** | Tương thích Anthropic: `https://api.kimi.com/coding/` | Đăng ký thành viên Kimi (bao gồm tín dụng) | [Kimi Code Console](https://www.kimi.com/code/console) |
 | **Kimi Open Platform** | `https://api.moonshot.cn/v1` | Trả theo mức dùng | [Kimi Open Platform](https://platform.kimi.com) |
 
 ### API key không hợp lệ
@@ -86,9 +86,9 @@ Các nguyên nhân khiến API key không hợp lệ:
 - **Key nhập sai**: Kiểm tra xem có khoảng trắng thừa hay thiếu ký tự không.
 - **Key đã hết hạn hoặc bị thu hồi**: Xác nhận trạng thái key trong bảng điều khiển nền tảng.
 
-### Thành viên hết hạn hoặc cạn quota
+### Thành viên hết hạn hoặc cạn tín dụng
 
-Nếu bạn đang dùng nền tảng Kimi Code, bạn có thể kiểm tra quota hiện tại và trạng thái thành viên qua lệnh `/usage`. Nếu quota đã cạn hoặc thành viên đã hết hạn, bạn cần gia hạn hoặc nâng cấp tại [Kimi Code](https://kimi.com/code).
+Nếu bạn đang dùng nền tảng Kimi Code, bạn có thể kiểm tra tín dụng hiện tại và trạng thái thành viên qua lệnh `/usage`. Nếu tín dụng đã cạn hoặc thành viên đã hết hạn, bạn cần gia hạn hoặc nâng cấp tại [Kimi Code](https://kimi.com/code).
 
 ## Đăng ký thành viên
 

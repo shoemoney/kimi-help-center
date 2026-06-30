@@ -27,10 +27,10 @@ preview: false
 
 這表示你已達到請求頻率上限。請稍候片刻再試一次。
 
-**查看你的 quota 和 rate limit：**
+**查看你的配額和 rate limit：**
 
 1. 前往 [kimi.com/code](https://kimi.com/code)。
 2. 開啟 **主控台**。
-3. 點選 **查看 Quota 與 Rate Limit**，即可查看目前用量與上限。
+3. 點選 **查看配額與 Rate Limit**，即可查看目前用量與上限。
 
 如果你經常達到 rate limit，可以考慮拉開任務間隔，或升級到更高的會員方案以提升處理量。

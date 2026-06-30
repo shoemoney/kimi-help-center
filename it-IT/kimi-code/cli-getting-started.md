@@ -301,7 +301,7 @@ Innanzitutto, verifica che la tua chiave e il Base URL appartengano alla stessa 
 
 | Piattaforma | Base URL | Fatturazione | Creazione della chiave |
 |------|---------|---------|-------------|
-| **Kimi Code** | Compatibile con OpenAI: `https://api.kimi.com/coding/v1`<br> Compatibile con Anthropic: `https://api.kimi.com/coding/` | Abbonamento Kimi (include quota) | [Console Kimi Code](https://www.kimi.com/code/console) |
+| **Kimi Code** | Compatibile con OpenAI: `https://api.kimi.com/coding/v1`<br> Compatibile con Anthropic: `https://api.kimi.com/coding/` | Abbonamento Kimi (include crediti) | [Console Kimi Code](https://www.kimi.com/code/console) |
 | **Kimi Open Platform** | `https://api.moonshot.cn/v1` | A consumo | [Kimi Open Platform](https://platform.kimi.com) |
 
 **Il comando `kimi` non viene trovato dopo l'installazione.**

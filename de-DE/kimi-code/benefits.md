@@ -20,7 +20,7 @@ Kimi Code ist ein im Kimi-Abo enthaltener Dienst, der Coding-bezogene Unterstüt
 ## Abrechnung
 
 - Die Nutzung von Kimi Code ist **in Ihrer Abogebühr enthalten** – es fallen keine zusätzlichen Kosten an.
-- Jede Anfrage verbraucht Credits aus Ihrem **exklusiven Kimi-Code-quota-Pool**; verschiedene Tarife enthalten unterschiedliche Credit-Mengen.
+- Jede Anfrage verbraucht Credits aus Ihrem **exklusiven Kimi-Code-Credits-Pool**; verschiedene Tarife enthalten unterschiedliche Credit-Mengen.
 - Das System verbraucht zuerst Bonus-Credits, bevor die Tarif-Credits genutzt werden.
 
 ## Credit-Erneuerung

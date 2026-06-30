@@ -19,12 +19,12 @@ Kimi propose cinq formules d'abonnement — dont une formule gratuite — chacun
 
 | Fonctionnalité | Adagio (Gratuit) | Moderato (19 $/mois) | Allegretto (39 $/mois) | Allegro (99 $/mois) | Vivace (199 $/mois) |
 |---------|---------------|-------------------|---------------------|-------------------|-------------------|
-| Quota Agent* | 6 | 60 | 150 | 360 | 720 |
+| Crédits Agent* | 6 | 60 | 150 | 360 | 720 |
 | Tâches simultanées de l'Agent | 1 | 2 | 2 | 4 | 4 |
 | Priorité de vitesse de l'Agent | — | 4× | 4× | 4× | 4× |
 | Agent Swarm (bêta) | — | 25 utilisations | 50 utilisations | 120 utilisations | 240 utilisations |
 | Sous-tâches simultanées d'Agent Swarm | — | 2 | 4 | 4 | 8 |
-| Quota Kimi Code | — | 1× | 5× | 15× | 30× |
+| crédits Kimi Code | — | 1× | 5× | 15× | 30× |
 | Kimi Claw | — | — | ✅ | ✅ | ✅ |
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
 | Base de données professionnelle | 200 appels | 2 000 appels | 5 000 appels | 12 000 appels | 24 000 appels |
@@ -42,4 +42,4 @@ Kimi propose cinq formules d'abonnement — dont une formule gratuite — chacun
 
 ## Répartition des credits
 
-Toutes les formules comprennent deux réserves de credits : Kimi Code utilise une réserve de quota distincte, tandis que les autres fonctionnalités de l'abonnement partagent une même réserve de quota. Les formules supérieures incluent une réserve de credits proportionnellement plus importante, permettant des flux de travail plus fréquents et plus complexes. Consultez [Mise à jour des credits et règles d'utilisation](/membership/update-rules) pour plus de détails.
+Toutes les formules comprennent deux réserves de credits : Kimi Code utilise une réserve de crédits distincte, tandis que les autres fonctionnalités de l'abonnement partagent une même réserve de crédits. Les formules supérieures incluent une réserve de credits proportionnellement plus importante, permettant des flux de travail plus fréquents et plus complexes. Consultez [Mise à jour des credits et règles d'utilisation](/membership/update-rules) pour plus de détails.

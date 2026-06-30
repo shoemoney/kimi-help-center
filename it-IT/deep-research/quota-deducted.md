@@ -17,7 +17,7 @@ Deep Research distingue tra "conversazioni standard" ed "esecuzione di attività
 
 ## Regole di addebito
 
-- **Metodo di addebito**: dopo aver selezionato un'attività Deep Research, i credit vengono detratti dal pool condiviso (altre funzionalità dell'abbonamento). Kimi Code utilizza un pool di quota separato.
+- **Metodo di addebito**: dopo aver selezionato un'attività Deep Research, i credit vengono detratti dal pool condiviso (altre funzionalità dell'abbonamento). Kimi Code utilizza un pool di crediti separato.
 - **Rimborso in caso di errore**: se un'attività fallisce (nessun risultato valido restituito), fai clic sul pulsante di feedback "👎". Il nostro team verificherà il problema e rimborserà i credit corrispondenti.
 
 ## Come verificare i credit rimanenti？

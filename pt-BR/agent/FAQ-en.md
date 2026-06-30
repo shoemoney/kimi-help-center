@@ -18,15 +18,15 @@ preview: false
 Isso pode acontecer pelos seguintes motivos:
 1. O arquivo enviado ou a descrição da skill está incompleto.
 2. O formato ou a quantidade de arquivos não atende aos requisitos.
-3. O sistema detectou que a quota da sua conta foi esgotada.
+3. O sistema detectou que a créditos da sua conta foi esgotada.
 
-## Como a criação de Skills consome quota?
+## Como a criação de Skills consome créditos?
 
-Criar uma skill consome seus **tokens**, que podem vir das buscas que você ganhou ou da quota da sua assinatura oficial.
+Criar uma skill consome seus **tokens**, que podem vir das buscas que você ganhou ou da créditos da sua assinatura oficial.
 
 **Ordem de dedução**:
 1. As buscas presenteadas têm prioridade.
-2. Se não houver buscas presenteadas disponíveis, a quota da assinatura é utilizada.
+2. Se não houver buscas presenteadas disponíveis, a créditos da assinatura é utilizada.
 
 <Callout type="info">
 Se o processo de criação falhar, nenhum token será descontado. Os tokens só são consumidos quando a criação é concluída com sucesso.
@@ -42,7 +42,7 @@ Sim. Para garantir a estabilidade do sistema e o uso justo, há os seguintes lim
 ## O que fazer se a criação de uma skill falhar?
 
 * Você pode escolher **Tentar novamente** ou **Excluir** o card da skill que falhou.
-* As tentativas que falham não consomem quota.
+* As tentativas que falham não consomem créditos.
 * A descrição original da skill será exibida no card com falha para ajudar você a distinguir entre as diferentes tarefas.
 
 ## Quais requisitos de nomeação se aplicam às novas skills?

@@ -20,7 +20,7 @@ O Kimi Code é um serviço incluído no plano de assinatura do Kimi, que oferece
 ## Cobrança
 
 - O uso do Kimi Code está **incluído na sua mensalidade de assinatura** — sem cobranças adicionais.
-- Cada solicitação consome credits do seu **pool de quota exclusivo do Kimi Code**; planos diferentes incluem quantidades diferentes de credits.
+- Cada solicitação consome credits do seu **pool de créditos exclusivo do Kimi Code**; planos diferentes incluem quantidades diferentes de credits.
 - O sistema dá prioridade aos credits bônus antes de consumir os credits do plano.
 
 ## Renovação de credits

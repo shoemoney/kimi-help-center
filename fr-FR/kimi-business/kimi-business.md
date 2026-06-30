@@ -33,13 +33,13 @@ Les sièges supplémentaires achetés en cours d'abonnement sont facturés au pr
 
 ### Capacités d'IA
 
-| Avantage | Quota |
+| Avantage | Crédits |
 |---------|-------|
 | Utilisation de l'Agent | 4× (environ 150/mois) |
 | Tâches d'Agent simultanées | 2 tâches |
 | File d'attente prioritaire | Vitesse 4× |
 | Cluster d'Agents | 50 fois/mois, 4 sous-tâches en parallèle |
-| Kimi Code | Quota 20× |
+| Kimi Code | crédits 20× |
 | Kimi Claw | Déploiement en un clic d'un assistant IA dédié, compatible Web et Android |
 | Base de données professionnelle | 5 000 fois/mois, couvrant les sources financières, économiques et académiques |
 
@@ -56,7 +56,7 @@ Les sièges supplémentaires achetés en cours d'abonnement sont facturés au pr
 | Rôle | Autorisations |
 |------|-------------|
 | Administrateur | Acheter des sièges, générer des liens d'invitation, gérer les membres, consulter les commandes |
-| Membre | Profiter des avantages de l'entreprise, consulter son quota personnel |
+| Membre | Profiter des avantages de l'entreprise, consulter son crédits personnel |
 
 Le rôle d'administrateur est automatiquement attribué au compte qui souscrit en premier à l'abonnement entreprise.
 
@@ -81,7 +81,7 @@ Chaque utilisateur peut rejoindre jusqu'à 10 organisations d'entreprise. Un mem
 ### Retirer des membres
 
 - Les membres retirés perdent immédiatement l'accès à l'espace de travail de l'entreprise
-- Les membres retirés perdent immédiatement les avantages Kimi Business et ne peuvent plus utiliser le quota de l'entreprise pour la période en cours
+- Les membres retirés perdent immédiatement les avantages Kimi Business et ne peuvent plus utiliser le crédits de l'entreprise pour la période en cours
 - Les sièges des membres retirés passent au statut « En attente de libération » et sont libérés au cycle de facturation suivant
 
 ## Espace de travail
@@ -106,7 +106,7 @@ Compatibilité des plateformes : le Web prend en charge l'intégralité des fonc
 ### Règles d'activation
 
 - **Activation immédiate** : les membres bénéficient des avantages de la période en cours dès qu'ils acceptent l'invitation
-- **Quota complet de la période en cours** : les membres qui rejoignent l'organisation avec un siège non attribué ou nouvellement ajouté reçoivent l'intégralité du quota de la période en cours
+- **crédits complet de la période en cours** : les membres qui rejoignent l'organisation avec un siège non attribué ou nouvellement ajouté reçoivent l'intégralité du crédits de la période en cours
 - **Alignement sur le cycle** : les avantages de l'entreprise sont calculés de manière uniforme selon le cycle d'abonnement et renouvelés chaque mois
 
 ### Règles d'expiration

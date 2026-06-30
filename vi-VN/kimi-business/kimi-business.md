@@ -33,13 +33,13 @@ Các chỗ mua thêm trong thời gian đăng ký sẽ được tính theo tỷ 
 
 ### Năng lực AI
 
-| Quyền lợi | Quota |
+| Quyền lợi | Tín dụng |
 |---------|-------|
 | Lượt dùng Agent | gấp 4 lần (khoảng 150 lượt/tháng) |
 | Tác vụ Agent đồng thời | 2 tác vụ |
 | Hàng đợi ưu tiên | tốc độ gấp 4 lần |
 | Agent Cluster | 50 lượt/tháng, 4 tác vụ con song song |
-| Kimi Code | quota gấp 20 lần |
+| Kimi Code | tín dụng gấp 20 lần |
 | Kimi Claw | Triển khai trợ lý AI chuyên biệt chỉ với một nhấp chuột, hỗ trợ Web và Android |
 | Cơ sở dữ liệu chuyên nghiệp | 5.000 lượt/tháng, bao quát các nguồn dữ liệu tài chính, kinh tế và học thuật |
 
@@ -56,7 +56,7 @@ Các chỗ mua thêm trong thời gian đăng ký sẽ được tính theo tỷ 
 | Vai trò | Quyền hạn |
 |------|-------------|
 | Quản trị viên | Mua chỗ, tạo liên kết mời, quản lý thành viên, xem đơn hàng |
-| Thành viên | Sử dụng quyền lợi doanh nghiệp, xem quota cá nhân |
+| Thành viên | Sử dụng quyền lợi doanh nghiệp, xem tín dụng cá nhân |
 
 Vai trò quản trị viên được tự động gán cho tài khoản đầu tiên mua gói đăng ký doanh nghiệp.
 
@@ -81,7 +81,7 @@ Mỗi người dùng có thể tham gia tối đa 10 tổ chức doanh nghiệp.
 ### Xóa thành viên
 
 - Thành viên bị xóa ngay lập tức mất quyền truy cập không gian làm việc doanh nghiệp
-- Thành viên bị xóa ngay lập tức mất các quyền lợi Kimi Business và không thể tiếp tục sử dụng quota doanh nghiệp trong kỳ hiện tại
+- Thành viên bị xóa ngay lập tức mất các quyền lợi Kimi Business và không thể tiếp tục sử dụng tín dụng doanh nghiệp trong kỳ hiện tại
 - Chỗ của thành viên bị xóa chuyển sang trạng thái "Chờ giải phóng" và được giải phóng vào chu kỳ thanh toán tiếp theo
 
 ## Không gian làm việc
@@ -106,7 +106,7 @@ Hỗ trợ nền tảng: Web hỗ trợ đầy đủ các tính năng Kimi Busin
 ### Quy tắc kích hoạt
 
 - **Kích hoạt ngay lập tức**: Thành viên nhận được quyền lợi của kỳ hiện tại ngay khi chấp nhận lời mời
-- **Quota trọn kỳ hiện tại**: Thành viên tham gia bằng chỗ chưa phân bổ hoặc chỗ mới thêm sẽ nhận trọn quota cho kỳ hiện tại
+- **tín dụng trọn kỳ hiện tại**: Thành viên tham gia bằng chỗ chưa phân bổ hoặc chỗ mới thêm sẽ nhận trọn tín dụng cho kỳ hiện tại
 - **Đồng bộ chu kỳ**: Quyền lợi doanh nghiệp được tính toán thống nhất theo chu kỳ đăng ký và làm mới hàng tháng
 
 ### Quy tắc hết hạn

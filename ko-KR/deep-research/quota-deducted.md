@@ -11,13 +11,13 @@ preview: false
   description="Deep Research에는 &quot;표준 대화&quot;와 &quot;작업 실행&quot;이라는 두 가지 작업 유형이 있습니다. 과금은 작업..."
 />
 
-# credit 차감 규칙
+# 크레딧 차감 규칙
 
 Deep Research는 "표준 대화"와 "작업 실행"을 구분합니다. Deep Research 작업을 선택하면 작업 유형에 따라 과금이 적용됩니다.
 
 ## 과금 규칙
 
-- **과금 방식**: Deep Research 작업을 선택하면 공유 풀(다른 멤버십 기능)에서 credit이 차감됩니다. Kimi Code는 별도의 quota 풀을 사용합니다.
+- **과금 방식**: Deep Research 작업을 선택하면 공유 풀(다른 멤버십 기능)에서 credit이 차감됩니다. Kimi Code는 별도의 크레딧 풀을 사용합니다.
 - **실패 시 환급**: 작업이 실패한 경우(유효한 결과가 반환되지 않은 경우) "👎" 피드백 버튼을 클릭하세요. 담당 팀이 문제를 확인한 뒤 해당 credit을 환급해 드립니다.
 
 ## 남은 credit은 어떻게 확인하나요?

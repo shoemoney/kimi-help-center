@@ -18,15 +18,15 @@ preview: false
 This may happen due to the following reasons:
 1. The uploaded file or skill description is incomplete.
 2. The file format or quantity does not meet requirements.
-3. The system has detected that your account quota has been exhausted.
+3. The system has detected that your account credits has been exhausted.
 
-## How creating Skills consumes quota?
+## How creating Skills consumes credits?
 
-Creating a skill consumes your **tokens**, which can be from your gifted searches or your official membership quota.
+Creating a skill consumes your **tokens**, which can be from your gifted searches or your official membership credits.
 
 **Deduction Order**:
 1. Gifted searches are prioritized.
-2. If gifted searches are unavailable, membership quota is used.
+2. If gifted searches are unavailable, membership credits is used.
 
 <Callout type="info">
 If the creation process fails, no tokens will be deducted. Tokens are only consumed upon successful creation.
@@ -42,7 +42,7 @@ Yes, to ensure system stability and fair usage, there are the following limits:
 ## What should I do if a skill creation fails?
 
 * You can choose to **Retry** or **Delete** the failed skill card.
-* Failed attempts do not consume quota.
+* Failed attempts do not consume credits.
 * The original skill description will be displayed on the failed card to help you distinguish between different tasks.
 
 ## What naming requirements apply to new skills?

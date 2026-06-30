@@ -76,7 +76,7 @@ Kimi Code membership benefits and the [Kimi Open Platform](https://platform.kimi
 
 | Platform | Base URL | Billing | Key creation |
 |------|---------|---------|-------------|
-| **Kimi Code** | Anthropic compatible: `https://api.kimi.com/coding/` | Kimi membership subscription (includes quota) | [Kimi Code Console](https://www.kimi.com/code/console) |
+| **Kimi Code** | Anthropic compatible: `https://api.kimi.com/coding/` | Kimi membership subscription (includes credits) | [Kimi Code Console](https://www.kimi.com/code/console) |
 | **Kimi Open Platform** | `https://api.moonshot.cn/v1` | Pay-as-you-go | [Kimi Open Platform](https://platform.kimi.com) |
 
 ### API key is invalid
@@ -86,9 +86,9 @@ Possible reasons for an invalid API key:
 - **Key entered incorrectly**: Check for extra spaces or missing characters.
 - **Key expired or revoked**: Confirm the key status in the platform console.
 
-### Membership expired or quota exhausted
+### Membership expired or credits exhausted
 
-If you are using the Kimi Code platform, you can check your current quota and membership status via the `/usage` command. If your quota is exhausted or your membership has expired, you need to renew or upgrade at [Kimi Code](https://kimi.com/code).
+If you are using the Kimi Code platform, you can check your current credits and membership status via the `/usage` command. If your Credits are exhausted or your membership has expired, you need to renew or upgrade at [Kimi Code](https://kimi.com/code).
 
 ## Subscription
 

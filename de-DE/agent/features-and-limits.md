@@ -54,13 +54,13 @@ Aufgrund der Kontextgrenze großer Sprachmodelle von 256K Zeichen (etwa 40.000�
 ## Wichtige Hinweise
 
 <Callout type="warning">
-**Quota-Nutzung**: Agent-Aufgaben verbrauchen quota aus dem gemeinsamen Kontingent (weitere Mitgliedschaftsfunktionen). Kimi Code nutzt ein separates quota-Kontingent. Jede Agent-Aufgabe verbraucht in der Regel 1 quota-Einheit. Ausführliche Informationen zum quota nach Mitgliedschaftsstufe finden Sie unter [Quota & Abrechnung](/agent/quota-and-billing).
+**Credit-Nutzung**: Agent-Aufgaben verbrauchen Credits aus dem gemeinsamen Kontingent (weitere Mitgliedschaftsfunktionen). Kimi Code nutzt ein separates Credits-Kontingent. Jede Agent-Aufgabe verbraucht in der Regel 1 Credit-Einheit. Ausführliche Informationen zum Credits nach Mitgliedschaftsstufe finden Sie unter [Credits & Abrechnung](/agent/Credits-and-billing).
 Kostenlose Stufe: 6 Agent-Aufgaben/Monat
 Kostenpflichtige Stufen: 60–720 Agent-Aufgaben/Monat je nach Tarif
 </Callout>
 
 - **Ausführungsdauer**: Im Agent-Modus dauert eine einzelne Aufgabe in der Regel 5–20 Minuten. Aufgaben mit K2.6 Agent Swarm [Beta] können länger dauern. Sie können die Seite verlassen – klicken Sie nur nicht auf „Stopp“, um die Aufgabe nicht abzubrechen.
-- **Quota-Nutzung**: Agent-Aufgaben verbrauchen quota aus dem gemeinsamen Kontingent. Kimi Code nutzt ein separates quota-Kontingent.
+- **Credit-Nutzung**: Agent-Aufgaben verbrauchen Credits aus dem gemeinsamen Kontingent. Kimi Code nutzt ein separates Credits-Kontingent.
 - **Einfache Aufgaben**: Für einfache Fragen und Antworten empfiehlt sich der Standard-Chat-Modus, da er schneller antwortet.
 
 <Callout type="warning">
@@ -91,6 +91,6 @@ Ein vollständiges Projekt besteht in der Regel aus drei Teilen: Frontend-Oberfl
 
 Agent nutzt eine Kontextlänge von **256K Zeichen** (etwa 40.000–50.000 chinesische Zeichen / ca. 100.000 englische Wörter).
 
-**F: Wie wird das quota von Agent berechnet?**
+**F: Wie wird das Credits von Agent berechnet?**
 
-Agent, PPT und weitere Mitgliedschaftsfunktionen teilen sich ein quota-Kontingent. Kimi Code nutzt ein separates quota-Kontingent. Jede Agent-Aufgabe zählt in der Regel als eine quota-Einheit. Ihr aktuelles quota und Ihren Verbrauch sehen Sie unter [Membership Credits](https://www.kimi.com/membership-credits).
+Agent, PPT und weitere Mitgliedschaftsfunktionen teilen sich ein Credits-Kontingent. Kimi Code nutzt ein separates Credits-Kontingent. Jede Agent-Aufgabe zählt in der Regel als eine Credit-Einheit. Ihr aktuelles Credits und Ihren Verbrauch sehen Sie unter [Membership Credits](https://www.kimi.com/membership-credits).

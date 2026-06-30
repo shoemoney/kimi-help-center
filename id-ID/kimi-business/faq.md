@@ -23,7 +23,7 @@ Bisa. Setiap pengguna dapat bergabung hingga 10 organisasi enterprise, dengan me
 
 ## Seberapa cepat anggota dapat menggunakan manfaat setelah bergabung?
 
-Manfaat aktif seketika begitu undangan diterima. Anggota yang bergabung dengan kursi yang belum ditetapkan atau kursi yang baru ditambahkan akan menerima quota penuh untuk periode berjalan.
+Manfaat aktif seketika begitu undangan diterima. Anggota yang bergabung dengan kursi yang belum ditetapkan atau kursi yang baru ditambahkan akan menerima kredit penuh untuk periode berjalan.
 
 ## Bisakah kursi ditambahkan selama masa langganan?
 

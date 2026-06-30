@@ -76,7 +76,7 @@ Kimi Code CLI ได้รับการอัปเกรดครั้งใ
 
 | แพลตฟอร์ม | Base URL | การเรียกเก็บเงิน | การสร้างคีย์ |
 |------|---------|---------|-------------|
-| **Kimi Code** | รองรับ Anthropic: `https://api.kimi.com/coding/` | การสมัครสมาชิก Kimi (รวม quota) | [Kimi Code Console](https://www.kimi.com/code/console) |
+| **Kimi Code** | รองรับ Anthropic: `https://api.kimi.com/coding/` | การสมัครสมาชิก Kimi (รวม เครดิต) | [Kimi Code Console](https://www.kimi.com/code/console) |
 | **Kimi Open Platform** | `https://api.moonshot.cn/v1` | จ่ายตามการใช้งานจริง | [Kimi Open Platform](https://platform.kimi.com) |
 
 ### API key ไม่ถูกต้อง
@@ -86,9 +86,9 @@ Kimi Code CLI ได้รับการอัปเกรดครั้งใ
 - **ป้อนคีย์ผิด**: ตรวจสอบว่ามีช่องว่างเกินหรือตัวอักษรขาดหายไปหรือไม่
 - **คีย์หมดอายุหรือถูกเพิกถอน**: ยืนยันสถานะของคีย์ในคอนโซลแพลตฟอร์ม
 
-### สมาชิกหมดอายุหรือ quota หมด
+### สมาชิกหมดอายุหรือ เครดิต หมด
 
-หากคุณใช้แพลตฟอร์ม Kimi Code คุณสามารถตรวจสอบ quota ปัจจุบันและสถานะสมาชิกได้ด้วยคำสั่ง `/usage` หาก quota หมดหรือสมาชิกหมดอายุ คุณต้องต่ออายุหรืออัปเกรดที่ [Kimi Code](https://kimi.com/code)
+หากคุณใช้แพลตฟอร์ม Kimi Code คุณสามารถตรวจสอบ เครดิต ปัจจุบันและสถานะสมาชิกได้ด้วยคำสั่ง `/usage` หาก เครดิต หมดหรือสมาชิกหมดอายุ คุณต้องต่ออายุหรืออัปเกรดที่ [Kimi Code](https://kimi.com/code)
 
 ## การสมัครสมาชิก
 

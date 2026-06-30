@@ -301,7 +301,7 @@ Kimi Code CLI 預設會將本機資料儲存在 `~/.kimi-code/` 底下，包括�
 
 | 平台 | Base URL | 計費 | 金鑰建立 |
 |------|---------|---------|-------------|
-| **Kimi Code** | OpenAI 相容：`https://api.kimi.com/coding/v1`<br> Anthropic 相容：`https://api.kimi.com/coding/` | Kimi 會員訂閱（包含 quota） | [Kimi Code Console](https://www.kimi.com/code/console) |
+| **Kimi Code** | OpenAI 相容：`https://api.kimi.com/coding/v1`<br> Anthropic 相容：`https://api.kimi.com/coding/` | Kimi 會員訂閱（包含額度） | [Kimi Code Console](https://www.kimi.com/code/console) |
 | **Kimi Open Platform** | `https://api.moonshot.cn/v1` | 按量付費 | [Kimi Open Platform](https://platform.kimi.com) |
 
 **安裝後找不到 `kimi` 命令。**

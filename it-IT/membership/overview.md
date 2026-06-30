@@ -14,18 +14,18 @@ preview_content: "Confronta i cinque livelli di abbonamento di Kimi, il sistema 
 
 # Panoramica dei piani di abbonamento
 
-Kimi propone cinque livelli di abbonamento — incluso un piano gratuito — pensati per crescere insieme alle tue esigenze, dalla produttività quotidiana ai flussi di lavoro più avanzati. Tutti i piani includono **due pool di credit**: Kimi Code utilizza un pool di quota separato; le altre funzionalità dell'abbonamento condividono un unico pool di quota.
+Kimi propone cinque livelli di abbonamento — incluso un piano gratuito — pensati per crescere insieme alle tue esigenze, dalla produttività quotidiana ai flussi di lavoro più avanzati. Tutti i piani includono **due pool di credit**: Kimi Code utilizza un pool di crediti separato; le altre funzionalità dell'abbonamento condividono un unico pool di crediti.
 
 ## Confronto tra i piani
 
 | Funzionalità | Adagio (gratuito) | Moderato 19 $/mese | Allegretto 39 $/mese | Allegro 99 $/mese | Vivace 199 $/mese |
 | --- | --- | --- | --- | --- | --- |
-| Quota Agent* | 6 | 60 | 150 | 360 | 720 |
+| Crediti Agent* | 6 | 60 | 150 | 360 | 720 |
 | Attività Agent in contemporanea | 1 | 2 | 2 | 4 | 4 |
 | Priorità di velocità Agent | — | 4× | 4× | 4× | 4× |
 | Agent Swarm (beta) | — | 25 utilizzi | 50 utilizzi | 120 utilizzi | 240 utilizzi |
 | Sottoattività Agent Swarm in contemporanea | — | 2 | 4 | 4 | 8 |
-| Quota Kimi Code | — | 1× | 5× | 15× | 30× |
+| crediti Kimi Code | — | 1× | 5× | 15× | 30× |
 | Kimi Claw | — | — | ✅ | ✅ | ✅ |
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
 | Database professionale | 200 chiamate | 2.000 chiamate | 5.000 chiamate | 12.000 chiamate | 24.000 chiamate |
@@ -38,7 +38,7 @@ Utilizza tutto il limite di credit per la stessa funzionalità
 
 ## Come funziona la fatturazione
 
-- **Due pool di credit** — Kimi Code utilizza un pool di quota separato; le altre funzionalità dell'abbonamento condividono un unico pool di quota, conteggiato in base all'utilizzo dei token.
+- **Due pool di credit** — Kimi Code utilizza un pool di crediti separato; le altre funzionalità dell'abbonamento condividono un unico pool di crediti, conteggiato in base all'utilizzo dei token.
 - **Rinnovo mensile** — I credit si azzerano all'inizio di ogni ciclo di fatturazione.
 - **Ordine di priorità** — Vengono consumati prima i credit bonus, poi quelli del piano.
 

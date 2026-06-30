@@ -19,12 +19,12 @@ Kimi offers five membership tiers — including a free plan — each available a
 
 | Feature | Adagio (Free) | Moderato ($19/mo) | Allegretto ($39/mo) | Allegro ($99/mo) | Vivace ($199/mo) |
 |---------|---------------|-------------------|---------------------|-------------------|-------------------|
-| Agent quota* | 6 | 60 | 150 | 360 | 720 |
+| Agent credits* | 6 | 60 | 150 | 360 | 720 |
 | Agent concurrent tasks | 1 | 2 | 2 | 4 | 4 |
 | Agent speed priority | — | 4× | 4× | 4× | 4× |
 | Agent Swarm (beta) | — | 25 uses | 50 uses | 120 uses | 240 uses |
 | Agent Swarm concurrent subtasks | — | 2 | 4 | 4 | 8 |
-| Kimi Code quota | — | 1× | 5× | 15× | 30× |
+| Kimi Code credits | — | 1× | 5× | 15× | 30× |
 | Kimi Claw | — | — | ✅ | ✅ | ✅ |
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
 | Professional database | 200 calls | 2,000 calls | 5,000 calls | 12,000 calls | 24,000 calls |
@@ -42,4 +42,4 @@ Kimi offers five membership tiers — including a free plan — each available a
 
 ## Credit allocation
 
-All plans include two credit pools: Kimi Code uses a separate quota pool; other membership features share one quota pool. Higher tiers include a proportionally larger credit pool, supporting more frequent and complex workflows. See [Credit Update & Usage Rules](/membership/update-rules) for details.
+All plans include two credit pools: Kimi Code uses a separate credit pool; other membership features share one credit pool. Higher tiers include a proportionally larger credit pool, supporting more frequent and complex workflows. See [Credit Update & Usage Rules](/membership/update-rules) for details.

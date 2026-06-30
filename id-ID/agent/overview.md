@@ -67,7 +67,7 @@ Jelaskan tugas Anda dengan gamblang, pantau jalannya eksekusi, lalu unduh atau b
       type: "document",
     },
     {
-      title: "Quota \u0026 Penagihan",
+      title: "kredit \u0026 Penagihan",
       description: "Detail harga dan keanggotaan",
       pageUrl: "/agent/quota-and-billing",
       type: "data",

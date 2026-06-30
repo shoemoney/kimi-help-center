@@ -19,12 +19,12 @@ Kimi cung cấp năm hạng thành viên — bao gồm cả gói miễn phí —
 
 | Tính năng | Adagio (Miễn phí) | Moderato (19 USD/tháng) | Allegretto (39 USD/tháng) | Allegro (99 USD/tháng) | Vivace (199 USD/tháng) |
 |---------|---------------|-------------------|---------------------|-------------------|-------------------|
-| Quota Agent* | 6 | 60 | 150 | 360 | 720 |
+| Tín dụng Agent* | 6 | 60 | 150 | 360 | 720 |
 | Số tác vụ Agent đồng thời | 1 | 2 | 2 | 4 | 4 |
 | Ưu tiên tốc độ Agent | — | 4× | 4× | 4× | 4× |
 | Agent Swarm (beta) | — | 25 lượt | 50 lượt | 120 lượt | 240 lượt |
 | Số tác vụ con đồng thời của Agent Swarm | — | 2 | 4 | 4 | 8 |
-| Quota Kimi Code | — | 1× | 5× | 15× | 30× |
+| tín dụng Kimi Code | — | 1× | 5× | 15× | 30× |
 | Kimi Claw | — | — | ✅ | ✅ | ✅ |
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
 | Cơ sở dữ liệu chuyên nghiệp | 200 lượt gọi | 2.000 lượt gọi | 5.000 lượt gọi | 12.000 lượt gọi | 24.000 lượt gọi |
@@ -42,4 +42,4 @@ Kimi cung cấp năm hạng thành viên — bao gồm cả gói miễn phí —
 
 ## Phân bổ credit
 
-Tất cả các gói đều bao gồm hai nhóm credit: Kimi Code sử dụng một nhóm quota riêng; các tính năng thành viên khác dùng chung một nhóm quota. Hạng càng cao càng có nhóm credit lớn hơn theo tỷ lệ tương ứng, hỗ trợ các quy trình làm việc thường xuyên và phức tạp hơn. Xem [Quy tắc cập nhật và sử dụng credit](/membership/update-rules) để biết chi tiết.
+Tất cả các gói đều bao gồm hai nhóm credit: Kimi Code sử dụng một nhóm tín dụng riêng; các tính năng thành viên khác dùng chung một nhóm tín dụng. Hạng càng cao càng có nhóm credit lớn hơn theo tỷ lệ tương ứng, hỗ trợ các quy trình làm việc thường xuyên và phức tạp hơn. Xem [Quy tắc cập nhật và sử dụng credit](/membership/update-rules) để biết chi tiết.

@@ -19,12 +19,12 @@ Kimi, biri ücretsiz olmak üzere beş üyelik kademesi sunar; her biri aylık v
 
 | Özellik | Adagio (Ücretsiz) | Moderato (19 $/ay) | Allegretto (39 $/ay) | Allegro (99 $/ay) | Vivace (199 $/ay) |
 |---------|---------------|-------------------|---------------------|-------------------|-------------------|
-| Agent quota* | 6 | 60 | 150 | 360 | 720 |
+| Agent kredisi* | 6 | 60 | 150 | 360 | 720 |
 | Agent eşzamanlı görevler | 1 | 2 | 2 | 4 | 4 |
 | Agent hız önceliği | — | 4× | 4× | 4× | 4× |
 | Agent Swarm (beta) | — | 25 kullanım | 50 kullanım | 120 kullanım | 240 kullanım |
 | Agent Swarm eşzamanlı alt görevler | — | 2 | 4 | 4 | 8 |
-| Kimi Code quota | — | 1× | 5× | 15× | 30× |
+| Kimi Code kredisi | — | 1× | 5× | 15× | 30× |
 | Kimi Claw | — | — | ✅ | ✅ | ✅ |
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
 | Profesyonel veritabanı | 200 çağrı | 2.000 çağrı | 5.000 çağrı | 12.000 çağrı | 24.000 çağrı |
@@ -42,4 +42,4 @@ Kimi, biri ücretsiz olmak üzere beş üyelik kademesi sunar; her biri aylık v
 
 ## Credit dağılımı
 
-Tüm planlar iki credit havuzu içerir: Kimi Code ayrı bir quota havuzu kullanır; diğer üyelik özellikleri tek bir quota havuzunu paylaşır. Daha yüksek kademeler orantılı olarak daha büyük bir credit havuzu içererek daha sık ve karmaşık iş akışlarını destekler. Ayrıntılar için [Credit Güncellemesi ve Kullanım Kuralları](/membership/update-rules) sayfasına bakın.
+Tüm planlar iki credit havuzu içerir: Kimi Code ayrı bir kredi havuzu kullanır; diğer üyelik özellikleri tek bir kredi havuzunu paylaşır. Daha yüksek kademeler orantılı olarak daha büyük bir credit havuzu içererek daha sık ve karmaşık iş akışlarını destekler. Ayrıntılar için [Credit Güncellemesi ve Kullanım Kuralları](/membership/update-rules) sayfasına bakın.

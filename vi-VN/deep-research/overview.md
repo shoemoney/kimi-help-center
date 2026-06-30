@@ -23,10 +23,10 @@ preview_content: "Khám phá cách Deep Research tự động lập kế hoạch
 Với mỗi câu hỏi, Kimi-Researcher tự mình hoàn tất toàn bộ chu trình nghiên cứu:
 | Bước | Mô tả |
 | --- | --- |
-| **Clarification** | Chủ động đặt câu hỏi bổ sung để định hình rõ hơn không gian vấn đề |
+| **Làm rõ ý định** | Chủ động đặt câu hỏi bổ sung để định hình rõ hơn không gian vấn đề |
 | **Suy luận chuyên sâu** | Trung bình 23 bước suy luận cho mỗi tác vụ, sắp xếp và giải quyết các yêu cầu |
 | **Tìm kiếm chủ động** | Lập kế hoạch khoảng 74 từ khóa, phát hiện 206 URL, lọc ra 3,2% nội dung chất lượng cao nhất |
-| **Iterative reasoning** | Đánh giá kết quả để xác định có cần tìm kiếm thêm hay không |
+| **Suy luận sâu lặp lại** | Đánh giá kết quả để xác định có cần tìm kiếm thêm hay không |
 | **Gọi công cụ** | Sử dụng trình duyệt, thực thi mã và các công cụ khác để xử lý dữ liệu |
 | **Tạo báo cáo** | Tổng hợp thông tin thành một báo cáo dài có cấu trúc kèm trích dẫn |
 
@@ -79,7 +79,7 @@ Mỗi tác vụ nghiên cứu tạo ra hai sản phẩm:
 - **Di động**: Ứng dụng Kimi → Thanh tác vụ → chế độ Deep Research Agent
 **Các bước**:
 1. Nhập câu hỏi nghiên cứu của bạn và gửi đi
-2. Trả lời các câu hỏi làm rõ để xác nhận hướng đi (hoặc nhấp "Include everything" để bỏ qua)
+2. Trả lời các câu hỏi Clarification (Làm rõ ý định) để xác nhận hướng đi (hoặc nhấp "Include everything" để bỏ qua)
 3. Theo dõi từ khóa tìm kiếm, quá trình suy luận và các URL đã truy cập theo thời gian thực
 4. Nhận hai sản phẩm khi hoàn thành:
    - **Báo cáo Deep Research** (Markdown): hơn 10.000 từ kèm mục lục và nguồn có thể truy nguyên
@@ -93,13 +93,13 @@ Trước khi gửi, hãy cân nhắc chỉ rõ:
 - **Loại nguồn**: "ưu tiên báo cáo chính thức và bài báo học thuật"
 - **Phân tách câu hỏi**: Chia câu hỏi rộng thành các câu hỏi nhỏ hơn
 
-### 2. Hiệu chỉnh trong quá trình làm rõ
+### 2. Hiệu chỉnh trong quá trình Clarification (Làm rõ ý định)
 - Nêu rõ những hướng bạn *không* muốn đề cập
 - Bổ sung các khía cạnh hoặc góc nhìn cụ thể cần tập trung
 - Cung cấp bối cảnh nền cho những câu hỏi phức tạp
 
 <Callout type="warning">
-Giữ phần trả lời làm rõ ngắn gọn và cụ thể — đầu vào quá dài hoặc mơ hồ có thể khiến nghiên cứu đi chệch hướng.
+Giữ phần trả lời Clarification (Làm rõ ý định) ngắn gọn và cụ thể — đầu vào quá dài hoặc mơ hồ có thể khiến nghiên cứu đi chệch hướng.
 </Callout>
 
 ### 3. Kiên nhẫn trong quá trình thực thi

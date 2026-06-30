@@ -23,7 +23,7 @@ Có. Mỗi người dùng có thể tham gia tối đa 10 tổ chức doanh nghi
 
 ## Sau khi tham gia, thành viên sớm nhất khi nào có thể sử dụng quyền lợi?
 
-Quyền lợi được kích hoạt ngay khi chấp nhận lời mời. Thành viên tham gia bằng chỗ ngồi chưa được phân bổ hoặc mới được thêm sẽ nhận toàn bộ quota cho kỳ hiện tại.
+Quyền lợi được kích hoạt ngay khi chấp nhận lời mời. Thành viên tham gia bằng chỗ ngồi chưa được phân bổ hoặc mới được thêm sẽ nhận toàn bộ tín dụng cho kỳ hiện tại.
 
 ## Có thể thêm chỗ ngồi trong thời gian đăng ký không?
 

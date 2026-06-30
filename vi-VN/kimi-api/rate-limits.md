@@ -40,4 +40,4 @@ Khi tần suất yêu cầu của bạn vượt quá giới hạn, API sẽ tr�
 Nếu nhu cầu kinh doanh của bạn vượt quá giới hạn tần suất hiện tại:
 
 - **Nạp thêm để nâng bậc**: Tăng tổng số tiền nạp tích lũy và hệ thống sẽ tự động nâng bậc giới hạn tần suất cho bạn.
-- **Liên hệ bộ phận bán hàng**: Với các nhu cầu đặc biệt, hãy liên hệ đội ngũ bán hàng của nền tảng qua [platform.moonshot.ai/contact-sales](https://www.platform.moonshot.ai/contact-sales) để yêu cầu quota tần suất tùy chỉnh.
+- **Liên hệ bộ phận bán hàng**: Với các nhu cầu đặc biệt, hãy liên hệ đội ngũ bán hàng của nền tảng qua [platform.moonshot.ai/contact-sales](https://www.platform.moonshot.ai/contact-sales) để yêu cầu tín dụng tần suất tùy chỉnh.

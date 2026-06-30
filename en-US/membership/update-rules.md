@@ -8,28 +8,28 @@ preview: false
 
 <SeoMeta
   title="Credit update \u0026 usage rules - Kimi Help Center"
-  description="Kimi membership benefits include two credit pools. Kimi Code uses a separate quota pool; other membership features share one credit pool, and credits are consumed based on actual usage."
+  description="Kimi membership benefits include two credit pools. Kimi Code uses a separate credit pool; other membership features share one credit pool, and credits are consumed based on actual usage."
 />
 
 # Credit update & usage rules
 
 <Callout type="info">
-Kimi membership benefits include two credit pools. Kimi Code uses a separate quota pool; other membership features share one credit pool, and credits are consumed based on actual usage.
+Kimi membership benefits include two credit pools. Kimi Code uses a separate credit pool; other membership features share one credit pool, and credits are consumed based on actual usage.
 </Callout>
 
 ## What are the two credit pools?
-Instead of separate quotas for each feature, your membership gives you two credit pools. Kimi Code uses a separate quota pool; other membership features share one quota pool that works everywhere:
+Instead of separate credits for each feature, your membership gives you two credit pools. Kimi Code uses a separate credit pool; other membership features share one credit pool that works everywhere:
 | Feature | Description |
 |---------|-------------|
 | **Agent tasks** | Websites, documents, slides, spreadsheets, deep research |
 | **Kimi Claw** | Your personal cloud-deployed AI assistant |
 | **Other features** | Image generation and more |
 
-> **Kimi Chat**: Conversations with the latest models (no quota consumption)
-> **Kimi Code**: AI-powered coding assistant (separate quota pool)
+> **Kimi Chat**: Conversations with the latest models (no credit consumption)
+> **Kimi Code**: AI-powered coding assistant (separate credit pool)
 
 <Callout type="tip">
-This means you can allocate credits however you like across the shared pool — spend more on research one month, more on documents the next. Kimi Chat does not consume quota, and Kimi Code uses its own separate quota pool.
+This means you can allocate credits however you like across the shared pool — spend more on research one month, more on documents the next. Kimi Chat does not consume credits, and Kimi Code uses its own separate credit pool.
 </Callout>
 
 ## How are credits calculated?

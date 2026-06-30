@@ -33,13 +33,13 @@ Seat tambahan yang dibeli selama periode langganan dihitung secara proporsional 
 
 ### Kemampuan AI
 
-| Manfaat | Quota |
+| Manfaat | Kredit |
 |---------|-------|
 | Penggunaan Agent | 4x (sekitar 150/bulan) |
 | Tugas Agent Bersamaan | 2 tugas |
 | Antrean Prioritas | Kecepatan 4x |
 | Agent Cluster | 50 kali/bulan, 4 subtugas paralel |
-| Kimi Code | Quota 20x |
+| Kimi Code | kredit 20x |
 | Kimi Claw | Penerapan asisten AI khusus dengan sekali klik, mendukung Web dan Android |
 | Database Profesional | 5.000 kali/bulan, mencakup sumber data keuangan, ekonomi, dan akademik |
 
@@ -56,7 +56,7 @@ Seat tambahan yang dibeli selama periode langganan dihitung secara proporsional 
 | Peran | Izin |
 |------|-------------|
 | Administrator | Membeli seat, membuat tautan undangan, mengelola anggota, melihat pesanan |
-| Anggota | Menggunakan manfaat enterprise, melihat quota pribadi |
+| Anggota | Menggunakan manfaat enterprise, melihat kredit pribadi |
 
 Peran administrator otomatis diberikan kepada akun yang pertama kali membeli langganan enterprise.
 
@@ -81,7 +81,7 @@ Setiap pengguna dapat bergabung dengan maksimal 10 organisasi enterprise. Anggot
 ### Mengeluarkan Anggota
 
 - Anggota yang dikeluarkan langsung kehilangan akses ke ruang kerja enterprise
-- Anggota yang dikeluarkan langsung kehilangan manfaat Kimi Business dan tidak dapat lagi menggunakan quota enterprise untuk periode berjalan
+- Anggota yang dikeluarkan langsung kehilangan manfaat Kimi Business dan tidak dapat lagi menggunakan kredit enterprise untuk periode berjalan
 - Seat anggota yang dikeluarkan masuk ke status "Menunggu Pelepasan" dan dilepas pada siklus penagihan berikutnya
 
 ## Ruang Kerja
@@ -106,7 +106,7 @@ Dukungan Platform: Web mendukung penuh fitur Kimi Business. Aplikasi seluler dan
 ### Aturan Aktivasi
 
 - **Aktivasi Langsung**: Anggota langsung memperoleh manfaat periode berjalan begitu menerima undangan
-- **Quota Penuh Periode Berjalan**: Anggota yang bergabung dengan seat yang belum dialokasikan atau seat yang baru ditambahkan memperoleh quota penuh untuk periode berjalan
+- **kredit Penuh Periode Berjalan**: Anggota yang bergabung dengan seat yang belum dialokasikan atau seat yang baru ditambahkan memperoleh kredit penuh untuk periode berjalan
 - **Penyelarasan Siklus**: Manfaat enterprise diselesaikan secara seragam sesuai siklus langganan, dan diperbarui setiap bulan
 
 ### Aturan Kedaluwarsa

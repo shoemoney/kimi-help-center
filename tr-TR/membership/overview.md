@@ -14,18 +14,18 @@ preview_content: "Kimi'nin beş üyelik kademesini, credit sistemini ve faturala
 
 # Üyelik planlarına genel bakış
 
-Kimi, günlük üretkenlikten ileri düzey kullanıcı iş akışlarına kadar ihtiyaçlarınızla birlikte ölçeklenecek şekilde tasarlanmış, biri ücretsiz olmak üzere beş üyelik kademesi sunar. Tüm planlar **iki credit havuzu** içerir: Kimi Code ayrı bir quota havuzu kullanır; diğer üyelik özellikleri ortak bir quota havuzunu paylaşır.
+Kimi, günlük üretkenlikten ileri düzey kullanıcı iş akışlarına kadar ihtiyaçlarınızla birlikte ölçeklenecek şekilde tasarlanmış, biri ücretsiz olmak üzere beş üyelik kademesi sunar. Tüm planlar **iki credit havuzu** içerir: Kimi Code ayrı bir kredi havuzu kullanır; diğer üyelik özellikleri ortak bir kredi havuzunu paylaşır.
 
 ## Plan karşılaştırması
 
 | Özellik | Adagio (Ücretsiz) | Moderato $19/ay | Allegretto $39/ay | Allegro $99/ay | Vivace $199/ay |
 | --- | --- | --- | --- | --- | --- |
-| Agent quota* | 6 | 60 | 150 | 360 | 720 |
+| Agent kredisi* | 6 | 60 | 150 | 360 | 720 |
 | Eşzamanlı Agent görevleri | 1 | 2 | 2 | 4 | 4 |
 | Agent hız önceliği | — | 4× | 4× | 4× | 4× |
 | Agent Swarm (beta) | — | 25 kullanım | 50 kullanım | 120 kullanım | 240 kullanım |
 | Eşzamanlı Agent Swarm alt görevleri | — | 2 | 4 | 4 | 8 |
-| Kimi Code quota | — | 1× | 5× | 15× | 30× |
+| Kimi Code kredisi | — | 1× | 5× | 15× | 30× |
 | Kimi Claw | — | — | ✅ | ✅ | ✅ |
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
 | Profesyonel veritabanı | 200 çağrı | 2.000 çağrı | 5.000 çağrı | 12.000 çağrı | 24.000 çağrı |
@@ -38,7 +38,7 @@ Tüm credit limitini aynı işlev için kullanın
 
 ## Faturalandırma nasıl işler
 
-- **İki credit havuzu** — Kimi Code ayrı bir quota havuzu kullanır; diğer üyelik özellikleri token kullanımına göre ölçülen ortak bir quota havuzunu paylaşır.
+- **İki credit havuzu** — Kimi Code ayrı bir kredi havuzu kullanır; diğer üyelik özellikleri token kullanımına göre ölçülen ortak bir kredi havuzunu paylaşır.
 - **Aylık yenileme** — Credit'ler her faturalandırma döneminin başında sıfırlanır.
 - **Öncelik sırası** — Önce bonus credit'ler, ardından plan credit'leri kullanılır.
 

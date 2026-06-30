@@ -79,7 +79,7 @@ Kimi API's web search feature retrieves publicly available information from the 
 | --- | --- | --- |
 | **Target** | Consumer-facing conversational product | Developer-facing integration interface |
 | **Access** | Browser-based | Programmatic API calls |
-| **Billing** | Membership/quota system | Pay-as-you-go by tokens |
+| **Billing** | Membership/credit system | Pay-as-you-go by tokens |
 | **Account** | Shared login | Shared login |
 | **Credits** | Not transferable between systems | Not transferable between systems |
 

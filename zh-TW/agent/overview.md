@@ -62,12 +62,12 @@ Kimi K2.6 Agent 是一款能端到端處理複雜任務的自主 AI 助理。它
   columns={[
     {
       title: "功能與限制",
-      description: "能力與 quota",
+      description: "能力與額度",
       pageUrl: "/agent/agent-features-and-limits",
       type: "document",
     },
     {
-      title: "Quota 與計費",
+      title: "額度與計費",
       description: "價格與會員詳細資訊",
       pageUrl: "/agent/quota-and-billing",
       type: "data",

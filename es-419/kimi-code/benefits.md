@@ -20,7 +20,7 @@ Kimi Code es un servicio incluido en el plan de membresía de Kimi que ofrece so
 ## Facturación
 
 - El uso de Kimi Code está **incluido en tu cuota de suscripción**: no se aplican cargos adicionales.
-- Cada solicitud consume credits de tu **bolsa de quota exclusiva de Kimi Code**; cada plan incluye una cantidad diferente de credits.
+- Cada solicitud consume credits de tu **bolsa de créditos exclusiva de Kimi Code**; cada plan incluye una cantidad diferente de credits.
 - El sistema da prioridad a los credits de bonificación antes de consumir los credits del plan.
 
 ## Renovación de credits

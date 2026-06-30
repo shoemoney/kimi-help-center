@@ -8,28 +8,28 @@ preview: false
 
 <SeoMeta
   title="Credit-Aktualisierung und Nutzungsregeln - Kimi Hilfecenter"
-  description="Zu den Kimi-Mitgliedsvorteilen gehören zwei Credit-Pools. Kimi Code nutzt einen eigenen quota-Pool; die übrigen Mitgliedsfunktionen teilen sich einen Credit-Pool, wobei Credits nach tatsächlicher Nutzung verbraucht werden."
+  description="Zu den Kimi-Mitgliedsvorteilen gehören zwei Credit-Pools. Kimi Code nutzt einen eigenen Credits-Pool; die übrigen Mitgliedsfunktionen teilen sich einen Credit-Pool, wobei Credits nach tatsächlicher Nutzung verbraucht werden."
 />
 
 # Credit-Aktualisierung und Nutzungsregeln
 
 <Callout type="info">
-Zu den Kimi-Mitgliedsvorteilen gehören zwei Credit-Pools. Kimi Code nutzt einen eigenen quota-Pool; die übrigen Mitgliedsfunktionen teilen sich einen Credit-Pool, wobei Credits nach tatsächlicher Nutzung verbraucht werden.
+Zu den Kimi-Mitgliedsvorteilen gehören zwei Credit-Pools. Kimi Code nutzt einen eigenen Credits-Pool; die übrigen Mitgliedsfunktionen teilen sich einen Credit-Pool, wobei Credits nach tatsächlicher Nutzung verbraucht werden.
 </Callout>
 
 ## Was sind die zwei Credit-Pools?
-Statt eigener quota für jede einzelne Funktion erhalten Sie mit Ihrer Mitgliedschaft zwei Credit-Pools. Kimi Code nutzt einen eigenen quota-Pool; die übrigen Mitgliedsfunktionen teilen sich einen quota-Pool, der überall greift:
+Statt eigener Credits für jede einzelne Funktion erhalten Sie mit Ihrer Mitgliedschaft zwei Credit-Pools. Kimi Code nutzt einen eigenen Credits-Pool; die übrigen Mitgliedsfunktionen teilen sich einen Credits-Pool, der überall greift:
 | Funktion | Beschreibung |
 |---------|-------------|
 | **Agent-Aufgaben** | Websites, Dokumente, Folien, Tabellen, Deep Research |
 | **Kimi Claw** | Ihr persönlicher, in der Cloud bereitgestellter KI-Assistent |
 | **Weitere Funktionen** | Bildgenerierung und mehr |
 
-> **Kimi Chat**: Unterhaltungen mit den neuesten Modellen (kein quota-Verbrauch)
-> **Kimi Code**: KI-gestützter Coding-Assistent (eigener quota-Pool)
+> **Kimi Chat**: Unterhaltungen mit den neuesten Modellen (kein Credit-Verbrauch)
+> **Kimi Code**: KI-gestützter Coding-Assistent (eigener Credits-Pool)
 
 <Callout type="tip">
-Das bedeutet: Sie können Ihre Credits aus dem gemeinsamen Pool ganz nach Belieben verteilen – in einem Monat mehr für Recherche, im nächsten mehr für Dokumente. Kimi Chat verbraucht keine quota, und Kimi Code greift auf seinen eigenen, separaten quota-Pool zu.
+Das bedeutet: Sie können Ihre Credits aus dem gemeinsamen Pool ganz nach Belieben verteilen – in einem Monat mehr für Recherche, im nächsten mehr für Dokumente. Kimi Chat verbraucht keine Credits, und Kimi Code greift auf seinen eigenen, separaten Credits-Pool zu.
 </Callout>
 
 ## Wie werden Credits berechnet?

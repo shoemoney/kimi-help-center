@@ -33,13 +33,13 @@ Additional seats purchased during the subscription period are prorated based on 
 
 ### AI Capabilities
 
-| Benefit | Quota |
+| Benefit | Credits |
 |---------|-------|
 | Agent Usage | 4x (approx. 150/month) |
 | Concurrent Agent Tasks | 2 tasks |
 | Priority Queue | 4x speed |
 | Agent Cluster | 50 times/month, 4 parallel subtasks |
-| Kimi Code | 20x quota |
+| Kimi Code | 20x credits |
 | Kimi Claw | One-click deployment of dedicated AI assistant, supporting Web and Android |
 | Professional Database | 5,000 times/month, covering financial, economic, and academic data sources |
 
@@ -56,7 +56,7 @@ Additional seats purchased during the subscription period are prorated based on 
 | Role | Permissions |
 |------|-------------|
 | Administrator | Purchase seats, generate invitation links, manage members, view orders |
-| Member | Use enterprise benefits, view personal quota |
+| Member | Use enterprise benefits, view personal credits |
 
 The administrator role is automatically assigned to the account that first purchases the enterprise subscription.
 
@@ -81,7 +81,7 @@ Each user can join up to 10 enterprise organizations. Members occupy 1 seat upon
 ### Removing Members
 
 - Removed members immediately lose access to the enterprise workspace
-- Removed members immediately lose Kimi Business benefits and can no longer use enterprise quota for the current period
+- Removed members immediately lose Kimi Business benefits and can no longer use enterprise credits for the current period
 - Seats of removed members enter "Pending Release" status and are released in the next billing cycle
 
 ## Workspace
@@ -106,7 +106,7 @@ Platform Support: Web fully supports Kimi Business features. Mobile and desktop 
 ### Activation Rules
 
 - **Immediate Activation**: Members receive current period benefits immediately upon accepting invitation
-- **Full Current-Period Quota**: Members who join with an unallocated or newly added seat receive the full quota for the current period
+- **Full Current-Period Credits**: Members who join with an unallocated or newly added seat receive the full credits for the current period
 - **Cycle Alignment**: Enterprise benefits are settled uniformly according to subscription cycle, refreshed monthly
 
 ### Expiration Rules

@@ -18,15 +18,15 @@ preview: false
 Questo può accadere per i seguenti motivi:
 1. Il file caricato o la descrizione della skill è incompleta.
 2. Il formato o il numero dei file non soddisfa i requisiti.
-3. Il sistema ha rilevato che la quota del tuo account è esaurita.
+3. Il sistema ha rilevato che la crediti del tuo account è esaurita.
 
-## Come la creazione delle Skills consuma la quota?
+## Come la creazione delle Skills consuma la crediti?
 
-La creazione di una skill consuma i tuoi **token**, che possono provenire dalle ricerche ricevute in omaggio o dalla quota del tuo abbonamento ufficiale.
+La creazione di una skill consuma i tuoi **token**, che possono provenire dalle ricerche ricevute in omaggio o dalla crediti del tuo abbonamento ufficiale.
 
 **Ordine di addebito**:
 1. Hanno priorità le ricerche ricevute in omaggio.
-2. Se le ricerche in omaggio non sono disponibili, viene utilizzata la quota dell'abbonamento.
+2. Se le ricerche in omaggio non sono disponibili, viene utilizzata la crediti dell'abbonamento.
 
 <Callout type="info">
 Se il processo di creazione fallisce, non verrà addebitato alcun token. I token vengono consumati solo a creazione completata con successo.
@@ -42,7 +42,7 @@ Sì, per garantire la stabilità del sistema e un utilizzo equo, sono previsti i
 ## Cosa devo fare se la creazione di una skill fallisce?
 
 * Puoi scegliere di **Riprovare** o **Eliminare** la scheda della skill non riuscita.
-* I tentativi falliti non consumano quota.
+* I tentativi falliti non consumano crediti.
 * La descrizione originale della skill verrà mostrata sulla scheda non riuscita per aiutarti a distinguere le diverse attività.
 
 ## Quali requisiti di denominazione si applicano alle nuove skill?

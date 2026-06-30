@@ -18,15 +18,15 @@ preview: false
 Esto puede ocurrir por las siguientes razones:
 1. El archivo cargado o la descripción de la skill están incompletos.
 2. El formato o la cantidad de archivos no cumplen con los requisitos.
-3. El sistema detectó que tu quota se agotó.
+3. El sistema detectó que tu créditos se agotó.
 
-## ¿Cómo consume quota la creación de skills?
+## ¿Cómo consume créditos la creación de skills?
 
-Crear una skill consume tus **tokens**, que pueden provenir de las búsquedas de regalo o de tu quota de membresía oficial.
+Crear una skill consume tus **tokens**, que pueden provenir de las búsquedas de regalo o de tu créditos de membresía oficial.
 
 **Orden de descuento**:
 1. Se priorizan las búsquedas de regalo.
-2. Si no hay búsquedas de regalo disponibles, se usa la quota de membresía.
+2. Si no hay búsquedas de regalo disponibles, se usa la créditos de membresía.
 
 <Callout type="info">
 Si el proceso de creación falla, no se descontarán tokens. Los tokens solo se consumen cuando la creación es exitosa.
@@ -42,7 +42,7 @@ Sí. Para garantizar la estabilidad del sistema y un uso justo, existen los sigu
 ## ¿Qué hago si falla la creación de una skill?
 
 * Puedes elegir **Reintentar** o **Eliminar** la tarjeta de la skill fallida.
-* Los intentos fallidos no consumen quota.
+* Los intentos fallidos no consumen créditos.
 * La descripción original de la skill se mostrará en la tarjeta fallida para ayudarte a distinguir entre las distintas tareas.
 
 ## ¿Qué requisitos de nombre aplican a las nuevas skills?

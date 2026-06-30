@@ -14,18 +14,18 @@ preview_content: "Comparez les cinq niveaux d'abonnement de Kimi, le système de
 
 # Présentation des formules d'abonnement
 
-Kimi propose cinq niveaux d'abonnement — dont une formule gratuite — conçus pour évoluer selon vos besoins, de la productivité quotidienne aux usages les plus intensifs. Toutes les formules comprennent **deux pools de credits** : Kimi Code dispose d'un pool de quota distinct ; les autres fonctionnalités d'abonnement partagent un même pool de quota.
+Kimi propose cinq niveaux d'abonnement — dont une formule gratuite — conçus pour évoluer selon vos besoins, de la productivité quotidienne aux usages les plus intensifs. Toutes les formules comprennent **deux pools de credits** : Kimi Code dispose d'un pool de crédits distinct ; les autres fonctionnalités d'abonnement partagent un même pool de crédits.
 
 ## Comparatif des formules
 
 | Fonctionnalité | Adagio (gratuit) | Moderato 19 $/mois | Allegretto 39 $/mois | Allegro 99 $/mois | Vivace 199 $/mois |
 | --- | --- | --- | --- | --- | --- |
-| Quota Agent* | 6 | 60 | 150 | 360 | 720 |
+| Crédits Agent* | 6 | 60 | 150 | 360 | 720 |
 | Tâches simultanées Agent | 1 | 2 | 2 | 4 | 4 |
 | Priorité de vitesse Agent | — | 4× | 4× | 4× | 4× |
 | Agent Swarm (bêta) | — | 25 utilisations | 50 utilisations | 120 utilisations | 240 utilisations |
 | Sous-tâches simultanées Agent Swarm | — | 2 | 4 | 4 | 8 |
-| Quota Kimi Code | — | 1× | 5× | 15× | 30× |
+| crédits Kimi Code | — | 1× | 5× | 15× | 30× |
 | Kimi Claw | — | — | ✅ | ✅ | ✅ |
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
 | Base de données professionnelle | 200 appels | 2 000 appels | 5 000 appels | 12 000 appels | 24 000 appels |
@@ -38,7 +38,7 @@ Utilisez l'intégralité de votre plafond de credits pour une même fonction
 
 ## Fonctionnement de la facturation
 
-- **Deux pools de credits** — Kimi Code dispose d'un pool de quota distinct ; les autres fonctionnalités d'abonnement partagent un même pool de quota, décompté selon l'usage de tokens.
+- **Deux pools de credits** — Kimi Code dispose d'un pool de crédits distinct ; les autres fonctionnalités d'abonnement partagent un même pool de crédits, décompté selon l'usage de tokens.
 - **Renouvellement mensuel** — Les credits sont réinitialisés au début de chaque cycle de facturation.
 - **Ordre de priorité** — Les credits bonus sont consommés en premier, puis les credits de la formule.
 

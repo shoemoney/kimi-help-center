@@ -26,9 +26,9 @@ Lorsque vous soumettez votre question :
 | Conseil | Description |
 | --- | --- |
 | **Délimitez la portée** | Précisez la période, le périmètre géographique et les types de sources afin d'éviter des questions trop larges |
-| **Tirez parti de la clarification** | Utilisez l'invite de clarification pour indiquer les directions que vous ne souhaitez pas explorer et ajouter des axes prioritaires |
-| **Restez concis** | Une saisie trop longue ou ambiguë lors de la clarification peut provoquer un écart |
+| **Tirez parti de la Clarification de l'intention** | Utilisez l'invite de Clarification de l'intention pour indiquer les directions que vous ne souhaitez pas explorer et ajouter des axes prioritaires |
+| **Restez concis** | Une saisie trop longue ou ambiguë lors de la Clarification de l'intention peut provoquer un écart |
 
 <Callout type="tip">
-Pour de meilleurs résultats, gardez vos réponses de clarification concises et précises.
+Pour de meilleurs résultats, gardez vos réponses de Clarification de l'intention concises et précises.
 </Callout>

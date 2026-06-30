@@ -8,28 +8,28 @@ preview: false
 
 <SeoMeta
   title="Reglas de actualización y uso de credits - Centro de ayuda de Kimi"
-  description="Los beneficios de la membresía de Kimi incluyen dos grupos de credits. Kimi Code usa un grupo de quota independiente; las demás funciones de la membresía comparten un solo grupo de credits, y los credits se consumen según el uso real."
+  description="Los beneficios de la membresía de Kimi incluyen dos grupos de credits. Kimi Code usa un grupo de créditos independiente; las demás funciones de la membresía comparten un solo grupo de credits, y los credits se consumen según el uso real."
 />
 
 # Reglas de actualización y uso de credits
 
 <Callout type="info">
-Los beneficios de la membresía de Kimi incluyen dos grupos de credits. Kimi Code usa un grupo de quota independiente; las demás funciones de la membresía comparten un solo grupo de credits, y los credits se consumen según el uso real.
+Los beneficios de la membresía de Kimi incluyen dos grupos de credits. Kimi Code usa un grupo de créditos independiente; las demás funciones de la membresía comparten un solo grupo de credits, y los credits se consumen según el uso real.
 </Callout>
 
 ## ¿Qué son los dos grupos de credits?
-En lugar de tener una quota distinta para cada función, tu membresía te ofrece dos grupos de credits. Kimi Code usa un grupo de quota independiente; las demás funciones de la membresía comparten un solo grupo de quota que funciona en todas partes:
+En lugar de tener una créditos distinta para cada función, tu membresía te ofrece dos grupos de credits. Kimi Code usa un grupo de créditos independiente; las demás funciones de la membresía comparten un solo grupo de créditos que funciona en todas partes:
 | Función | Descripción |
 |---------|-------------|
 | **Tareas de Agent** | Sitios web, documentos, presentaciones, hojas de cálculo, deep research |
 | **Kimi Claw** | Tu asistente de IA personal desplegado en la nube |
 | **Otras funciones** | Generación de imágenes y más |
 
-> **Kimi Chat**: Conversaciones con los modelos más recientes (no consume quota)
-> **Kimi Code**: Asistente de programación con IA (grupo de quota independiente)
+> **Kimi Chat**: Conversaciones con los modelos más recientes (no consume créditos)
+> **Kimi Code**: Asistente de programación con IA (grupo de créditos independiente)
 
 <Callout type="tip">
-Esto significa que puedes distribuir los credits como prefieras dentro del grupo compartido: dedicar más a investigación un mes y más a documentos al siguiente. Kimi Chat no consume quota, y Kimi Code usa su propio grupo de quota independiente.
+Esto significa que puedes distribuir los credits como prefieras dentro del grupo compartido: dedicar más a investigación un mes y más a documentos al siguiente. Kimi Chat no consume créditos, y Kimi Code usa su propio grupo de créditos independiente.
 </Callout>
 
 ## ¿Cómo se calculan los credits?

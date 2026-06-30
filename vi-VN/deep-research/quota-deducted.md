@@ -17,7 +17,7 @@ Deep Research phân biệt giữa "trò chuyện thông thường" và "thực t
 
 ## Quy tắc tính phí
 
-- **Cách tính phí**: Sau khi chọn một tác vụ Deep Research, credit sẽ được trừ từ kho dùng chung (các tính năng thành viên khác). Kimi Code dùng kho quota riêng.
+- **Cách tính phí**: Sau khi chọn một tác vụ Deep Research, credit sẽ được trừ từ kho dùng chung (các tính năng thành viên khác). Kimi Code dùng kho tín dụng riêng.
 - **Hoàn lại khi thất bại**: Nếu một tác vụ thất bại (không trả về kết quả hợp lệ), hãy nhấn nút phản hồi "👎". Đội ngũ của chúng tôi sẽ kiểm tra vấn đề và hoàn lại số credit tương ứng.
 
 ## Làm thế nào để kiểm tra số credit còn lại？

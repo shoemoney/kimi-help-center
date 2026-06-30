@@ -40,4 +40,4 @@ Cuando la frecuencia de tus solicitudes supera el límite, la API devuelve un c�
 Si las necesidades de tu negocio superan los límites de tasa actuales:
 
 - **Recarga para subir de nivel**: aumenta tu monto acumulado de recargas y el sistema actualizará automáticamente tu nivel de rate limit.
-- **Contacta a ventas**: para requerimientos especiales, comunícate con el equipo de ventas de la plataforma a través de [platform.moonshot.ai/contact-sales](https://www.platform.moonshot.ai/contact-sales) para solicitar una quota de tasa personalizada.
+- **Contacta a ventas**: para requerimientos especiales, comunícate con el equipo de ventas de la plataforma a través de [platform.moonshot.ai/contact-sales](https://www.platform.moonshot.ai/contact-sales) para solicitar una créditos de tasa personalizada.

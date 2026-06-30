@@ -20,7 +20,7 @@ Kimi Code là dịch vụ đi kèm trong gói hội viên Kimi, mang đến các
 ## Tính phí
 
 - Việc sử dụng Kimi Code **đã được tính trong phí đăng ký** — không phát sinh thêm chi phí.
-- Mỗi yêu cầu sẽ tiêu hao credit từ **quỹ quota riêng dành cho Kimi Code**; các gói khác nhau sẽ có lượng credit khác nhau.
+- Mỗi yêu cầu sẽ tiêu hao credit từ **quỹ tín dụng riêng dành cho Kimi Code**; các gói khác nhau sẽ có lượng credit khác nhau.
 - Hệ thống ưu tiên dùng credit thưởng trước, sau đó mới đến credit của gói.
 
 ## Làm mới credit

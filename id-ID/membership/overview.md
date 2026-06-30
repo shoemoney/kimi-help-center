@@ -14,18 +14,18 @@ preview_content: "Bandingkan lima tingkat keanggotaan Kimi, sistem credit, dan o
 
 # Ikhtisar paket keanggotaan
 
-Kimi menawarkan lima tingkat keanggotaan — termasuk paket gratis — yang dirancang untuk menyesuaikan kebutuhan Anda, mulai dari produktivitas sehari-hari hingga alur kerja pengguna tingkat lanjut. Semua paket mencakup **dua kumpulan credit**: Kimi Code menggunakan kumpulan quota terpisah; fitur keanggotaan lainnya berbagi satu kumpulan quota.
+Kimi menawarkan lima tingkat keanggotaan — termasuk paket gratis — yang dirancang untuk menyesuaikan kebutuhan Anda, mulai dari produktivitas sehari-hari hingga alur kerja pengguna tingkat lanjut. Semua paket mencakup **dua kumpulan credit**: Kimi Code menggunakan kumpulan kredit terpisah; fitur keanggotaan lainnya berbagi satu kumpulan kredit.
 
 ## Perbandingan paket
 
 | Fitur | Adagio (Gratis) | Moderato $19/bln | Allegretto $39/bln | Allegro $99/bln | Vivace $199/bln |
 | --- | --- | --- | --- | --- | --- |
-| Quota Agent* | 6 | 60 | 150 | 360 | 720 |
+| Kredit Agent* | 6 | 60 | 150 | 360 | 720 |
 | Tugas bersamaan Agent | 1 | 2 | 2 | 4 | 4 |
 | Prioritas kecepatan Agent | — | 4× | 4× | 4× | 4× |
 | Agent Swarm (beta) | — | 25 penggunaan | 50 penggunaan | 120 penggunaan | 240 penggunaan |
 | Subtugas bersamaan Agent Swarm | — | 2 | 4 | 4 | 8 |
-| Quota Kimi Code | — | 1× | 5× | 15× | 30× |
+| kredit Kimi Code | — | 1× | 5× | 15× | 30× |
 | Kimi Claw | — | — | ✅ | ✅ | ✅ |
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
 | Basis data profesional | 200 panggilan | 2.000 panggilan | 5.000 panggilan | 12.000 panggilan | 24.000 panggilan |
@@ -38,7 +38,7 @@ Gunakan seluruh batas credit untuk fungsi yang sama
 
 ## Cara kerja penagihan
 
-- **Dua kumpulan credit** — Kimi Code menggunakan kumpulan quota terpisah; fitur keanggotaan lainnya berbagi satu kumpulan quota, diukur berdasarkan penggunaan token.
+- **Dua kumpulan credit** — Kimi Code menggunakan kumpulan kredit terpisah; fitur keanggotaan lainnya berbagi satu kumpulan kredit, diukur berdasarkan penggunaan token.
 - **Pembaruan bulanan** — Credit diatur ulang pada awal setiap siklus penagihan.
 - **Urutan prioritas** — Credit bonus digunakan terlebih dahulu, kemudian credit paket.
 

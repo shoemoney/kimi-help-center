@@ -49,7 +49,7 @@ K2.6 Agent Swarm [Beta] sử dụng phương pháp huấn luyện PARL (Parallel
 - **Di động**: ứng dụng Kimi → Chuyển chế độ → Chọn K2.6 Agent Swarm [Beta]
 
 <Callout type="warning">
-**Quyền truy cập Beta**: K2.6 Agent Swarm [Beta] hiện chỉ dành cho thành viên Moderato, Allegretto, Allegro và Vivace. Các tác vụ tiêu tốn quota nhiều hơn đáng kể so với tác vụ Agent thông thường.
+**Quyền truy cập Beta**: K2.6 Agent Swarm [Beta] hiện chỉ dành cho thành viên Moderato, Allegretto, Allegro và Vivace. Các tác vụ tiêu tốn tín dụng nhiều hơn đáng kể so với tác vụ Agent thông thường.
 </Callout>
 
 **Các bước:**

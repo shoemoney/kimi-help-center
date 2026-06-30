@@ -24,7 +24,7 @@ Um erro 429 significa que a frequência das suas requisições ultrapassou o rat
 - Implemente uma estratégia de retry com backoff exponencial (aguarde 1s, 2s, 4s… antes de tentar novamente).
 - Controle o número de requisições simultâneas usando um mecanismo de fila.
 - Aumente o valor acumulado de recargas para subir de faixa no seu rate limit.
-- Entre em contato com a equipe de vendas caso precise de uma quota maior.
+- Entre em contato com a equipe de vendas caso precise de uma créditos maior.
 
 ## Como lidar com o erro 401 de autenticação?
 
@@ -79,7 +79,7 @@ Os **planos de assinatura Kimi** (como o Allegretto) e a **API** são sistemas d
 | --- | --- | --- |
 | **Público** | Produto conversacional voltado ao consumidor | Interface de integração voltada ao desenvolvedor |
 | **Acesso** | Pelo navegador | Chamadas programáticas de API |
-| **Cobrança** | Sistema de assinatura/quota | Pagamento por uso, conforme os tokens |
+| **Cobrança** | Sistema de assinatura/créditos | Pagamento por uso, conforme os tokens |
 | **Conta** | Login compartilhado | Login compartilhado |
 | **Créditos** | Não transferíveis entre os sistemas | Não transferíveis entre os sistemas |
 

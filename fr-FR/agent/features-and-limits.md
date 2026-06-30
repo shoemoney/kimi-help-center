@@ -54,13 +54,13 @@ En raison de la limite de contexte de 256 K caractères des grands modèles de l
 ## Remarques importantes
 
 <Callout type="warning">
-**Consommation du quota** : les tâches de l'Agent puisent dans le pool de quota partagé (autres fonctionnalités de l'abonnement). Kimi Code utilise un pool de quota distinct. Chaque tâche de l'Agent consomme généralement 1 unité de quota. Pour des informations détaillées sur le quota selon le niveau d'abonnement, consultez [Quota et facturation](/agent/quota-and-billing).
+**Consommation de crédits** : les tâches de l'Agent puisent dans le pool de crédits partagé (autres fonctionnalités de l'abonnement). Kimi Code utilise un pool de crédits distinct. Chaque tâche de l'Agent consomme généralement 1 unité de crédits. Pour des informations détaillées sur le crédits selon le niveau d'abonnement, consultez [Crédits et facturation](/agent/crédits-and-billing).
 Niveau gratuit : 6 tâches Agent/mois
 Niveaux payants : de 60 à 720 tâches Agent/mois selon votre formule
 </Callout>
 
 - **Durée d'exécution** : en mode Agent, une tâche unique prend généralement de 5 à 20 minutes. Les tâches K2.6 Agent Swarm [Beta] peuvent durer plus longtemps. Vous pouvez quitter la page — il suffit de ne pas cliquer sur Arrêter pour ne pas interrompre la tâche.
-- **Consommation du quota** : les tâches de l'Agent puisent dans le pool de quota partagé. Kimi Code utilise un pool de quota distinct.
+- **Consommation de crédits** : les tâches de l'Agent puisent dans le pool de crédits partagé. Kimi Code utilise un pool de crédits distinct.
 - **Tâches simples** : pour les questions-réponses simples, le mode de discussion standard est recommandé pour des réponses plus rapides.
 
 <Callout type="warning">
@@ -91,6 +91,6 @@ Un projet complet se compose généralement de trois parties : l'interface front
 
 L'Agent utilise une longueur de contexte de **256 K caractères** (environ 40 000 à 50 000 caractères chinois / ~100 000 mots anglais).
 
-**Q : Comment le quota de l'Agent est-il calculé ?**
+**Q : Comment le crédits de l'Agent est-il calculé ?**
 
-L'Agent, les PPT et les autres fonctionnalités de l'abonnement partagent un même pool de quota. Kimi Code utilise un pool de quota distinct. Chaque tâche de l'Agent compte généralement pour une unité de quota. Consultez votre quota et votre consommation actuels sur [Crédits d'abonnement](https://www.kimi.com/membership-credits).
+L'Agent, les PPT et les autres fonctionnalités de l'abonnement partagent un même pool de crédits. Kimi Code utilise un pool de crédits distinct. Chaque tâche de l'Agent compte généralement pour une unité de crédits. Consultez votre crédits et votre consommation actuels sur [Crédits d'abonnement](https://www.kimi.com/membership-credits).

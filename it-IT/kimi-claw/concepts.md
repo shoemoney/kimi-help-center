@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Concetti fondamentali e terminale - Centro assistenza Kimi"
-  description="Image: 截图30"
+  description="Comprendi i concetti chiave di Kimi Claw — Memory, Skills, HEARTBEAT, Identity, Soul, Tools e User — e i comandi del terminale per controllare gateway, stato del bot, skill e attività pianificate."
 />
 
 # Concetti fondamentali e terminale

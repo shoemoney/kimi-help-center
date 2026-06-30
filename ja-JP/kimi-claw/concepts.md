@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="コアコンセプトとターミナル - Kimi ヘルプセンター"
-  description="画像: 截图30"
+  description="Kimi Claw の主要な概念（Memory、Skills、HEARTBEAT、Identity、Soul、Tools、User）と、ゲートウェイ・Bot の状態・Skill・スケジュールされたタスクを確認するためのターミナルコマンドを解説します。"
 />
 
 # コアコンセプトとターミナル

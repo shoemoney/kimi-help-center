@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="แนวคิดหลักและเทอร์มินัล - ศูนย์ช่วยเหลือ Kimi"
-  description="Image: 截图30"
+  description="ทำความเข้าใจแนวคิดหลักของ Kimi Claw ได้แก่ Memory, Skills, HEARTBEAT, Identity, Soul, Tools และ User พร้อมคำสั่งเทอร์มินัลสำหรับตรวจสอบเกตเวย์ สถานะบอท สกิล และงานที่ตั้งเวลาไว้"
 />
 
 # แนวคิดหลักและเทอร์มินัล

@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Основные понятия и терминал — Справочный центр Kimi"
-  description="Изображение: 截图30"
+  description="Разберитесь в ключевых концепциях Kimi Claw — Memory, Skills, HEARTBEAT, Identity, Soul, Tools и User — и в командах терминала для проверки шлюза, состояния бота, навыков и запланированных задач."
 />
 
 # Основные понятия и терминал

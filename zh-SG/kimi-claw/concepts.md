@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="核心概念与终端 - Kimi 帮助中心"
-  description="图片：截图30"
+  description="了解 Kimi Claw 的核心概念——Memory、Skills、HEARTBEAT、Identity、Soul、Tools 和 User——以及用于检查网关、Bot 状态、Skill 和定时任务的终端命令。"
 />
 
 # 核心概念与终端

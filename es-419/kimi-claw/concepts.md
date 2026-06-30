@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Conceptos básicos y terminal - Centro de ayuda de Kimi"
-  description="Image: 截图30"
+  description="Comprende los conceptos básicos de Kimi Claw —Memory, Skills, HEARTBEAT, Identity, Soul, Tools y User— y los comandos de terminal para revisar el gateway, el estado del bot, los skills y las tareas programadas."
 />
 
 # Conceptos básicos y terminal

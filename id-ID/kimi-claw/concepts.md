@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Konsep inti \u0026 terminal - Pusat Bantuan Kimi"
-  description="Image: 截图30"
+  description="Pahami konsep inti Kimi Claw — Memory, Skills, HEARTBEAT, Identity, Soul, Tools, dan User — serta perintah terminal untuk memeriksa gateway, status bot, skill, dan tugas terjadwal."
 />
 
 # Konsep inti & terminal

@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Temel kavramlar ve terminal - Kimi Yardım Merkezi"
-  description="Image: 截图30"
+  description="Kimi Claw'un temel kavramlarını — Memory, Skills, HEARTBEAT, Identity, Soul, Tools ve User — ve ağ geçidi, bot durumu, skill'ler ve zamanlanmış görevleri kontrol etmek için kullanılan terminal komutlarını öğrenin."
 />
 
 # Temel kavramlar ve terminal

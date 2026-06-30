@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="核心概念與終端機 - Kimi 說明中心"
-  description="圖片：截圖 30"
+  description="了解 Kimi Claw 的核心概念——Memory、Skills、HEARTBEAT、Identity、Soul、Tools 與 User——以及用於檢查閘道、Bot 狀態、Skill 與排程任務的終端機指令。"
 />
 
 # 核心概念與終端機

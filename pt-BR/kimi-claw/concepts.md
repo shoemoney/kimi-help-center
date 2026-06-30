@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Conceitos centrais e terminal - Central de Ajuda Kimi"
-  description="Image: 截图30"
+  description="Entenda os conceitos centrais do Kimi Claw — Memory, Skills, HEARTBEAT, Identity, Soul, Tools e User — e os comandos de terminal para verificar o gateway, o status do bot, os skills e as tarefas agendadas."
 />
 
 # Conceitos centrais e terminal

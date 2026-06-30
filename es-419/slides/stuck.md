@@ -48,7 +48,7 @@ Si al hacer clic en la tarjeta de Slides no se abre la página de edición, inte
 
 - Abre la misma conversación en otro navegador (por ejemplo, Chrome, Safari, Firefox) para comprobar si la tarjeta de Slides se muestra correctamente.
 - Inicia sesión con la misma cuenta en la app móvil o en otra computadora para comprobar si la conversación contiene el resultado de Slides.
-- Si la tarjeta de Slides sigue sin aparecer en varios navegadores y dispositivos, sigue las [Pautas para reportar errores](#bug-feedback-guidelines) a continuación para enviar tus comentarios, e inicia un nuevo chat para regenerarla.
+- Si la tarjeta de Slides sigue sin aparecer en varios navegadores y dispositivos, sigue las [Pautas para reportar errores](#pautas-para-reportar-errores) a continuación para enviar tus comentarios, e inicia un nuevo chat para regenerarla.
 
 <Callout type="info">
 Si confirmaste que el problema persiste en varios dispositivos y navegadores, envía un correo electrónico a [support@moonshot.cn](mailto:support@moonshot.cn) para reportarlo, adjuntando el enlace de la conversación y una captura de pantalla del problema. Una vez verificado como un error, te compensaremos con los credits correspondientes.

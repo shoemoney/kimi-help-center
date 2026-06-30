@@ -48,7 +48,7 @@ Slides kartına tıkladığınızda düzenleme sayfası açılmıyorsa sayfayı 
 
 - Slides kartının düzgün görüntülenip görüntülenmediğini kontrol etmek için aynı konuşmayı başka bir tarayıcıda (ör. Chrome, Safari, Firefox) açın.
 - Konuşmanın Slides sonucunu içerip içermediğini görmek için mobil uygulamada veya başka bir bilgisayarda aynı hesapla oturum açın.
-- Slides kartı birden fazla tarayıcı ve cihazda hâlâ görünmüyorsa, lütfen aşağıdaki [Hata Bildirim Kılavuzu](#bug-feedback-guidelines) doğrultusunda geri bildirim gönderin ve yeniden oluşturmak için yeni bir sohbet başlatın.
+- Slides kartı birden fazla tarayıcı ve cihazda hâlâ görünmüyorsa, lütfen aşağıdaki [Hata Bildirim Kılavuzu](#hata-bildirim-kılavuzu) doğrultusunda geri bildirim gönderin ve yeniden oluşturmak için yeni bir sohbet başlatın.
 
 <Callout type="info">
 Sorunun birden fazla cihaz ve tarayıcıda devam ettiğini doğruladıysanız, lütfen konuşma bağlantısını ve soruna ait bir ekran görüntüsünü ekleyerek bildirmek için [support@moonshot.cn](mailto:support@moonshot.cn) adresine bir e-posta gönderin. Bunun bir hata olduğu doğrulandığında size ilgili credit'leri telafi olarak vereceğiz.

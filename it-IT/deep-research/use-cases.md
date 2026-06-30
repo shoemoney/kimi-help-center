@@ -60,7 +60,7 @@ preview: false
   ]}
 />
 
-[Visualizza il risultato]（https://www.kimi.com/replay/19b36b81-4492-83de-8000-00004525716b）
+[Visualizza il risultato](https://www.kimi.com/replay/19b36b81-4492-83de-8000-00004525716b)
 
 ## Ricerca legale e normativa
 

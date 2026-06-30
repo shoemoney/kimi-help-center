@@ -99,7 +99,7 @@ Paseo'nun yerleşik ACP sağlayıcı kataloğundan **Kimi Code CLI** öğesini s
   ]}
 />
 
-Paseo'nun genel ACP bağdaştırıcısı oturum açma akışını yönetmez; bu nedenle önce terminalden oturum açmayı tamamlayın ([Ön koşullar](#prerequisites) bölümüne bakın) — aksi takdirde oturum oluşturma `Authentication required` hatasıyla başarısız olur.
+Paseo'nun genel ACP bağdaştırıcısı oturum açma akışını yönetmez; bu nedenle önce terminalden oturum açmayı tamamlayın ([Ön koşullar](#ön-koşullar) bölümüne bakın) — aksi takdirde oturum oluşturma `Authentication required` hatasıyla başarısız olur.
 
 ## Sorun giderme
 

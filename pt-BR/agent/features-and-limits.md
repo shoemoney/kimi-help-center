@@ -54,7 +54,7 @@ Devido ao limite de contexto de 256K caracteres dos large language models (cerca
 ## Observações importantes
 
 <Callout type="warning">
-**Uso de créditos**: as tarefas do Agent consomem créditos do pool compartilhado (outros recursos de assinatura). O Kimi Code usa um pool de créditos separado. Cada tarefa do Agent normalmente consome 1 unidade de créditos. Para informações detalhadas de créditos por nível de assinatura, consulte [Créditos e cobrança](/agent/créditos-and-billing).
+**Uso de créditos**: as tarefas do Agent consomem créditos do pool compartilhado (outros recursos de assinatura). O Kimi Code usa um pool de créditos separado. Cada tarefa do Agent normalmente consome 1 unidade de créditos. Para informações detalhadas de créditos por nível de assinatura, consulte [Créditos e cobrança](/agent/quota-and-billing).
 Nível gratuito: 6 tarefas do Agent/mês
 Níveis pagos: de 60 a 720 tarefas do Agent/mês, dependendo do seu plano
 </Callout>

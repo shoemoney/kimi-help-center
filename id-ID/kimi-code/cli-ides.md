@@ -99,7 +99,7 @@ Pilih **Kimi Code CLI** dari katalog penyedia ACP bawaan Paseo, atau tambahkan p
   ]}
 />
 
-Adapter ACP generik milik Paseo tidak menjalankan alur login, jadi selesaikan login terminal terlebih dahulu (lihat [Prasyarat](#prerequisites)) — jika tidak, pembuatan sesi akan gagal dengan `Authentication required`.
+Adapter ACP generik milik Paseo tidak menjalankan alur login, jadi selesaikan login terminal terlebih dahulu (lihat [Prasyarat](#prasyarat)) — jika tidak, pembuatan sesi akan gagal dengan `Authentication required`.
 
 ## Pemecahan Masalah
 

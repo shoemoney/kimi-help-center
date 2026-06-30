@@ -48,7 +48,7 @@ Si le clic sur la carte Slides n'ouvre pas la page d'édition, essayez d'actuali
 
 - Ouvrez la même conversation dans un autre navigateur (par ex. Chrome, Safari, Firefox) pour vérifier si la carte Slides s'affiche correctement.
 - Connectez-vous au même compte sur l'application mobile ou un autre ordinateur pour vérifier si la conversation contient le résultat des Slides.
-- Si la carte Slides ne s'affiche toujours pas sur plusieurs navigateurs et appareils, suivez les [Consignes de signalement de bugs](#bug-feedback-guidelines) ci-dessous pour nous faire part de votre retour, et démarrez un nouveau chat pour régénérer.
+- Si la carte Slides ne s'affiche toujours pas sur plusieurs navigateurs et appareils, suivez les [Consignes de signalement de bugs](#consignes-de-signalement-de-bugs) ci-dessous pour nous faire part de votre retour, et démarrez un nouveau chat pour régénérer.
 
 <Callout type="info">
 Si vous avez confirmé que le problème persiste sur plusieurs appareils et navigateurs, envoyez un e-mail à [support@moonshot.cn](mailto:support@moonshot.cn) pour le signaler, en joignant le lien de la conversation et une capture d'écran du problème. Une fois le bug vérifié, nous vous dédommagerons avec les credits correspondants.

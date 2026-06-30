@@ -99,7 +99,7 @@ Wählen Sie **Kimi Code CLI** aus dem integrierten ACP-Anbieterkatalog von Paseo
   ]}
 />
 
-Der generische ACP-Adapter von Paseo steuert den Anmeldevorgang nicht selbst. Schließen Sie daher zuerst die Anmeldung im Terminal ab (siehe [Voraussetzungen](#prerequisites)) – andernfalls schlägt die Sitzungserstellung mit `Authentication required` fehl.
+Der generische ACP-Adapter von Paseo steuert den Anmeldevorgang nicht selbst. Schließen Sie daher zuerst die Anmeldung im Terminal ab (siehe [Voraussetzungen](#voraussetzungen)) – andernfalls schlägt die Sitzungserstellung mit `Authentication required` fehl.
 
 ## Fehlerbehebung
 

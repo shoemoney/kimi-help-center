@@ -99,7 +99,7 @@ Elige **Kimi Code CLI** del catálogo de proveedores ACP integrados de Paseo, o 
   ]}
 />
 
-El adaptador ACP genérico de Paseo no gestiona el flujo de inicio de sesión, así que primero completa el inicio de sesión desde la terminal (consulta [Requisitos previos](#prerequisites)); de lo contrario, la creación de la sesión falla con `Authentication required`.
+El adaptador ACP genérico de Paseo no gestiona el flujo de inicio de sesión, así que primero completa el inicio de sesión desde la terminal (consulta [Requisitos previos](#requisitos-previos)); de lo contrario, la creación de la sesión falla con `Authentication required`.
 
 ## Solución de problemas
 

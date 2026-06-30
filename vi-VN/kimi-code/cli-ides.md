@@ -99,7 +99,7 @@ Chọn **Kimi Code CLI** từ danh mục nhà cung cấp ACP tích hợp sẵn c
   ]}
 />
 
-Bộ điều hợp ACP chung của Paseo không điều khiển luồng đăng nhập, vì vậy hãy hoàn tất việc đăng nhập trong terminal trước (xem [Điều kiện tiên quyết](#prerequisites)) — nếu không, việc tạo phiên sẽ thất bại với lỗi `Authentication required`.
+Bộ điều hợp ACP chung của Paseo không điều khiển luồng đăng nhập, vì vậy hãy hoàn tất việc đăng nhập trong terminal trước (xem [Điều kiện tiên quyết](#điều-kiện-tiên-quyết)) — nếu không, việc tạo phiên sẽ thất bại với lỗi `Authentication required`.
 
 ## Khắc phục sự cố
 

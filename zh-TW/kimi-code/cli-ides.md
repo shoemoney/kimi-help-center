@@ -99,7 +99,7 @@ JetBrains 對 `command` 欄位要求嚴格——請一律使用**絕對路徑**�
   ]}
 />
 
-Paseo 的通用 ACP 轉接器不會處理登入流程，因此請先完成終端機登入（見 [前置條件](#prerequisites)），否則建立工作階段會因 `Authentication required` 而失敗。
+Paseo 的通用 ACP 轉接器不會處理登入流程，因此請先完成終端機登入（見 [前置條件](#前置條件)），否則建立工作階段會因 `Authentication required` 而失敗。
 
 ## 疑難排解
 

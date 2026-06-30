@@ -48,7 +48,7 @@ Kimi Slides 生成可能会在以下情况下卡住：
 
 - 在其他浏览器（如 Chrome、Safari、Firefox）中打开同一段对话，检查 Slides 卡片是否正常显示。
 - 在移动端 App 或另一台电脑上登录同一账号，检查该对话中是否包含 Slides 结果。
-- 如果在多个浏览器和设备上 Slides 卡片仍无法出现，请按照下方的 [Bug 反馈指南](#bug-feedback-guidelines) 提交反馈，并开启新的聊天重新生成。
+- 如果在多个浏览器和设备上 Slides 卡片仍无法出现，请按照下方的 [Bug 反馈指南](#bug-反馈指南) 提交反馈，并开启新的聊天重新生成。
 
 <Callout type="info">
 如果你已确认该问题在多个设备和浏览器上均存在，请发送邮件至 [support@moonshot.cn](mailto:support@moonshot.cn) 进行反馈，并附上对话链接和问题截图。经核实为 bug 后，我们会为你补偿相应额度。

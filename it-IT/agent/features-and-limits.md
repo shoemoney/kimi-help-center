@@ -54,7 +54,7 @@ A causa del limite di contesto di 256K caratteri dei modelli linguistici di gran
 ## Note importanti
 
 <Callout type="warning">
-**Utilizzo dei crediti**: le attività di Agent consumano crediti dal pool condiviso (altre funzionalità dell'abbonamento). Kimi Code utilizza un pool di crediti separato. Ogni attività di Agent consuma in genere 1 unità di crediti. Per informazioni dettagliate sulla crediti in base al livello di abbonamento, consulta [Crediti e fatturazione](/agent/crediti-and-billing).
+**Utilizzo dei crediti**: le attività di Agent consumano crediti dal pool condiviso (altre funzionalità dell'abbonamento). Kimi Code utilizza un pool di crediti separato. Ogni attività di Agent consuma in genere 1 unità di crediti. Per informazioni dettagliate sulla crediti in base al livello di abbonamento, consulta [Crediti e fatturazione](/agent/quota-and-billing).
 Piano gratuito: 6 attività Agent/mese
 Piani a pagamento: da 60 a 720 attività Agent/mese a seconda del piano
 </Callout>

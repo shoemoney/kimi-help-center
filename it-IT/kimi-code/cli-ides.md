@@ -99,7 +99,7 @@ Scegli **Kimi Code CLI** dal catalogo integrato di provider ACP di Paseo, oppure
   ]}
 />
 
-L'adattatore ACP generico di Paseo non gestisce il flusso di login, quindi completa prima il login da terminale (vedi [Prerequisiti](#prerequisites)); altrimenti la creazione della sessione fallirà con `Authentication required`.
+L'adattatore ACP generico di Paseo non gestisce il flusso di login, quindi completa prima il login da terminale (vedi [Prerequisiti](#prerequisiti)); altrimenti la creazione della sessione fallirà con `Authentication required`.
 
 ## Risoluzione dei problemi
 

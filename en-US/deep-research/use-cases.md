@@ -60,7 +60,7 @@ preview: false
   ]}
 />
 
-[View result]（https://www.kimi.com/replay/19b36b81-4492-83de-8000-00004525716b）
+[View result](https://www.kimi.com/replay/19b36b81-4492-83de-8000-00004525716b)
 
 ## Legal & regulatory research
 

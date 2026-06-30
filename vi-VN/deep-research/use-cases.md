@@ -60,7 +60,7 @@ preview: false
   ]}
 />
 
-[Xem kết quả]（https://www.kimi.com/replay/19b36b81-4492-83de-8000-00004525716b）
+[Xem kết quả](https://www.kimi.com/replay/19b36b81-4492-83de-8000-00004525716b)
 
 ## Nghiên cứu pháp lý & quy định
 

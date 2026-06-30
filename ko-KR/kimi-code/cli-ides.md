@@ -99,7 +99,7 @@ Paseo의 기본 ACP 제공자 목록에서 **Kimi Code CLI**를 선택하거나,
   ]}
 />
 
-Paseo의 범용 ACP 어댑터는 로그인 절차를 진행하지 않으므로, 먼저 터미널 로그인을 완료하세요([사전 준비 사항](#prerequisites) 참고). 그렇지 않으면 세션 생성이 `Authentication required` 오류로 실패합니다.
+Paseo의 범용 ACP 어댑터는 로그인 절차를 진행하지 않으므로, 먼저 터미널 로그인을 완료하세요([사전 준비 사항](#사전-준비-사항) 참고). 그렇지 않으면 세션 생성이 `Authentication required` 오류로 실패합니다.
 
 ## 문제 해결
 

@@ -48,7 +48,7 @@ Se clicar no card do Slides não abrir a página de edição, tente atualizar e 
 
 - Abra a mesma conversa em outro navegador (por exemplo, Chrome, Safari, Firefox) para verificar se o card do Slides é exibido corretamente.
 - Faça login na mesma conta no app móvel ou em outro computador para verificar se a conversa contém o resultado do Slides.
-- Se o card do Slides ainda não aparecer em vários navegadores e dispositivos, siga as [Diretrizes de feedback de bugs](#bug-feedback-guidelines) abaixo para enviar seu feedback e inicie um novo chat para gerar novamente.
+- Se o card do Slides ainda não aparecer em vários navegadores e dispositivos, siga as [Diretrizes de feedback de bugs](#diretrizes-de-feedback-de-bugs) abaixo para enviar seu feedback e inicie um novo chat para gerar novamente.
 
 <Callout type="info">
 Se você confirmou que o problema persiste em vários dispositivos e navegadores, envie um e-mail para [support@moonshot.cn](mailto:support@moonshot.cn) relatando o problema, anexando o link da conversa e uma captura de tela do ocorrido. Após verificarmos que se trata de um bug, compensaremos você com os créditos correspondentes.

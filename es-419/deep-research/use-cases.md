@@ -60,7 +60,7 @@ preview: false
   ]}
 />
 
-[Ver resultado]（https://www.kimi.com/replay/19b36b81-4492-83de-8000-00004525716b）
+[Ver resultado](https://www.kimi.com/replay/19b36b81-4492-83de-8000-00004525716b)
 
 ## Investigación legal y regulatoria
 

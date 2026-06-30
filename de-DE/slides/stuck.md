@@ -48,7 +48,7 @@ Wenn sich die Bearbeitungsseite durch Klicken auf die Slides-Karte nicht öffnen
 
 - Öffnen Sie dieselbe Unterhaltung in einem anderen Browser (z. B. Chrome, Safari, Firefox), um zu prüfen, ob die Slides-Karte korrekt angezeigt wird.
 - Melden Sie sich mit demselben Konto in der mobilen App oder auf einem anderen Computer an, um zu prüfen, ob die Unterhaltung das Slides-Ergebnis enthält.
-- Wenn die Slides-Karte über mehrere Browser und Geräte hinweg weiterhin nicht erscheint, folgen Sie bitte den [Richtlinien zur Fehlermeldung](#bug-feedback-guidelines) weiter unten, um Feedback zu senden, und starten Sie einen neuen Chat, um die Erstellung zu wiederholen.
+- Wenn die Slides-Karte über mehrere Browser und Geräte hinweg weiterhin nicht erscheint, folgen Sie bitte den [Richtlinien zur Fehlermeldung](#richtlinien-zur-fehlermeldung) weiter unten, um Feedback zu senden, und starten Sie einen neuen Chat, um die Erstellung zu wiederholen.
 
 <Callout type="info">
 Wenn Sie bestätigt haben, dass das Problem über mehrere Geräte und Browser hinweg weiterhin besteht, senden Sie bitte eine E-Mail an [support@moonshot.cn](mailto:support@moonshot.cn), um es zu melden, und fügen Sie den Link zur Unterhaltung sowie einen Screenshot des Problems bei. Sobald der Fehler bestätigt ist, erstatten wir Ihnen die entsprechenden credits.

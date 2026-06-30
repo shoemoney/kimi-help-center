@@ -60,7 +60,7 @@ preview: false
   ]}
 />
 
-[결과 보기]（https://www.kimi.com/replay/19b36b81-4492-83de-8000-00004525716b）
+[결과 보기](https://www.kimi.com/replay/19b36b81-4492-83de-8000-00004525716b)
 
 ## 법률 및 규제 조사
 

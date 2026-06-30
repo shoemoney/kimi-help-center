@@ -54,7 +54,7 @@ Büyük dil modellerinin 256K karakterlik bağlam sınırı (yaklaşık 40.000�
 ## Önemli notlar
 
 <Callout type="warning">
-**Kredi kullanımı**: Agent görevleri, ortak havuzdaki (diğer üyelik özellikleri) kredi'yı tüketir. Kimi Code ayrı bir kredi havuzu kullanır. Her Agent görevi genellikle 1 kredi birimi tüketir. Üyelik kademelerine göre ayrıntılı kredi bilgileri için [kredi ve Faturalandırma](/agent/kredi-and-billing) sayfasına bakın.
+**Kredi kullanımı**: Agent görevleri, ortak havuzdaki (diğer üyelik özellikleri) kredi'yı tüketir. Kimi Code ayrı bir kredi havuzu kullanır. Her Agent görevi genellikle 1 kredi birimi tüketir. Üyelik kademelerine göre ayrıntılı kredi bilgileri için [kredi ve Faturalandırma](/agent/quota-and-billing) sayfasına bakın.
 Ücretsiz kademe: ayda 6 Agent görevi
 Ücretli kademeler: planınıza bağlı olarak ayda 60–720 Agent görevi
 </Callout>

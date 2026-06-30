@@ -99,7 +99,7 @@ Choisissez **Kimi Code CLI** dans le catalogue de fournisseurs ACP intégré à 
   ]}
 />
 
-L'adaptateur ACP générique de Paseo ne pilote pas le flux de connexion : effectuez donc d'abord la connexion en terminal (voir [Prérequis](#prerequisites)), sinon la création de session échoue avec `Authentication required`.
+L'adaptateur ACP générique de Paseo ne pilote pas le flux de connexion : effectuez donc d'abord la connexion en terminal (voir [Prérequis](#prérequis)), sinon la création de session échoue avec `Authentication required`.
 
 ## Dépannage
 

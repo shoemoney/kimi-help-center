@@ -48,7 +48,7 @@ Se facendo clic sulla scheda Slides non si apre la pagina di modifica, prova ad 
 
 - Apri la stessa conversazione in un altro browser (ad esempio Chrome, Safari, Firefox) per verificare se la scheda Slides viene visualizzata correttamente.
 - Accedi con lo stesso account sull'app mobile o su un altro computer per verificare se la conversazione contiene il risultato delle Slides.
-- Se la scheda Slides continua a non comparire su più browser e dispositivi, segui le [Linee guida per la segnalazione dei bug](#bug-feedback-guidelines) qui sotto per inviare un feedback e avvia una nuova chat per rigenerare.
+- Se la scheda Slides continua a non comparire su più browser e dispositivi, segui le [Linee guida per la segnalazione dei bug](#linee-guida-per-la-segnalazione-dei-bug) qui sotto per inviare un feedback e avvia una nuova chat per rigenerare.
 
 <Callout type="info">
 Se hai confermato che il problema persiste su più dispositivi e browser, invia un'email a [support@moonshot.cn](mailto:support@moonshot.cn) per segnalarlo, allegando il link della conversazione e uno screenshot del problema. Una volta verificato come bug, ti rimborseremo con i crediti corrispondenti.

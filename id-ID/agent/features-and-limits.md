@@ -54,7 +54,7 @@ Karena batas konteks model bahasa besar sebesar 256K karakter (kira-kira 40.000â
 ## Catatan penting
 
 <Callout type="warning">
-**Penggunaan kredit**: Tugas Agent mengonsumsi kredit dari kumpulan bersama (fitur keanggotaan lainnya). Kimi Code menggunakan kumpulan kredit terpisah. Setiap tugas Agent biasanya mengonsumsi 1 unit kredit. Untuk informasi kredit rinci menurut tingkat keanggotaan, lihat [Kredit & Penagihan](/agent/kredit-and-billing).
+**Penggunaan kredit**: Tugas Agent mengonsumsi kredit dari kumpulan bersama (fitur keanggotaan lainnya). Kimi Code menggunakan kumpulan kredit terpisah. Setiap tugas Agent biasanya mengonsumsi 1 unit kredit. Untuk informasi kredit rinci menurut tingkat keanggotaan, lihat [Kredit & Penagihan](/agent/quota-and-billing).
 Tingkat gratis: 6 tugas Agent/bulan
 Tingkat berbayar: 60â€“720 tugas Agent/bulan tergantung paket Anda
 </Callout>

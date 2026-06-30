@@ -60,7 +60,7 @@ preview: false
   ]}
 />
 
-[查看结果]（https://www.kimi.com/replay/19b36b81-4492-83de-8000-00004525716b）
+[查看结果](https://www.kimi.com/replay/19b36b81-4492-83de-8000-00004525716b)
 
 ## 法律与监管研究
 

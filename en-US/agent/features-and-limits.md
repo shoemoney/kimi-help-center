@@ -54,7 +54,7 @@ Due to the 256K character context limit of large language models (approximately 
 ## Important notes
 
 <Callout type="warning">
-**credit usage**: Agent tasks consume credits from the shared pool (other membership features). Kimi Code uses a separate credit pool. Each Agent task typically consumes 1 credit unit. For detailed credit information by membership tier, see [Credits & Billing](/agent/credits-and-billing).
+**credit usage**: Agent tasks consume credits from the shared pool (other membership features). Kimi Code uses a separate credit pool. Each Agent task typically consumes 1 credit unit. For detailed credit information by membership tier, see [Credits & Billing](/agent/quota-and-billing).
 Free tier: 6 Agent tasks/month
 Paid tiers: 60–720 Agent tasks/month depending on your plan
 </Callout>

@@ -99,7 +99,7 @@ JetBrains 对 `command` 字段要求严格——请始终使用**绝对路径**�
   ]}
 />
 
-Paseo 的通用 ACP 适配器不会引导登录流程，因此请先在终端完成登录（见[前提条件](#prerequisites)），否则创建会话时会因 `Authentication required` 而失败。
+Paseo 的通用 ACP 适配器不会引导登录流程，因此请先在终端完成登录（见[前提条件](#前提条件)），否则创建会话时会因 `Authentication required` 而失败。
 
 ## 故障排查
 

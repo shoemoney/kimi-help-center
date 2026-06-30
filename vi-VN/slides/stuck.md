@@ -48,7 +48,7 @@ Nếu nhấp vào thẻ Slides mà không mở được trang chỉnh sửa, hã
 
 - Mở cùng cuộc trò chuyện đó trên một trình duyệt khác (ví dụ: Chrome, Safari, Firefox) để kiểm tra xem thẻ Slides có hiển thị bình thường không.
 - Đăng nhập cùng tài khoản trên ứng dụng di động hoặc một máy tính khác để kiểm tra xem cuộc trò chuyện có chứa kết quả Slides hay không.
-- Nếu thẻ Slides vẫn không xuất hiện trên nhiều trình duyệt và thiết bị, vui lòng làm theo [Hướng dẫn gửi phản hồi lỗi](#bug-feedback-guidelines) bên dưới để gửi phản hồi, và bắt đầu một cuộc trò chuyện mới để tạo lại.
+- Nếu thẻ Slides vẫn không xuất hiện trên nhiều trình duyệt và thiết bị, vui lòng làm theo [Hướng dẫn gửi phản hồi lỗi](#hướng-dẫn-gửi-phản-hồi-lỗi) bên dưới để gửi phản hồi, và bắt đầu một cuộc trò chuyện mới để tạo lại.
 
 <Callout type="info">
 Nếu bạn đã xác nhận sự cố vẫn tiếp diễn trên nhiều thiết bị và trình duyệt, vui lòng gửi email đến [support@moonshot.cn](mailto:support@moonshot.cn) để báo cáo, kèm theo đường liên kết cuộc trò chuyện và ảnh chụp màn hình của sự cố. Sau khi xác minh đó là lỗi, chúng tôi sẽ bồi hoàn cho bạn số credit tương ứng.

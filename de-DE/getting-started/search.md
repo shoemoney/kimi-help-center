@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Agentic Search für Anleitungen und Antworten｜Kimi Hilfecenter"
+  title="Agentic Search für Anleitungen und Antworten - Kimi Hilfecenter"
   description="Kimis Agentic Search basiert auf einer durchgängigen agentischen Reinforcement-Learning-Architektur. Anders als herkömmliche Tool-Orchestrierungsansätze lässt es die KI..."
 />
 

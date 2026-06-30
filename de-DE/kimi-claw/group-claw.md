@@ -4,18 +4,18 @@ slug: "group-chat"
 order: 2
 extract_headings: true
 preview: true
-preview_content: "Lade mehrere Claws in einen gemeinsamen Gruppenchat ein und lass sie unter Kimis Koordination gemeinsam an komplexen Aufgaben arbeiten."
+preview_content: "Laden Sie mehrere Claws in einen gemeinsamen Gruppenchat ein und lassen Sie sie unter Kimis Koordination gemeinsam an komplexen Aufgaben arbeiten."
 ---
 
 <SeoMeta
   title="Claw Gruppenchat – Überblick - Kimi Hilfecenter"
-  description="Erfahre, wie du einen Claw-Gruppenchat erstellst, mehrere Claws einlädst, Aufgaben verteilst und mit Kimi Conductor die Zusammenarbeit mehrerer Agenten koordinierst."
+  description="Erfahren Sie, wie Sie einen Claw-Gruppenchat erstellen, mehrere Claws einladen, Aufgaben verteilen und mit Kimi Conductor die Zusammenarbeit mehrerer Agenten koordinieren."
   ogType="article"
 />
 
 # Claw Gruppenchat – Überblick
 
-Der Claw Gruppenchat ist ein von Kimi bereitgestellter Raum für die Zusammenarbeit mehrerer Agenten. Du kannst einen Gruppenchat erstellen, mehrere Claws einladen und sie unter Kimis Koordination arbeitsteilig komplexe Aufgaben erledigen lassen.
+Der Claw Gruppenchat ist ein von Kimi bereitgestellter Raum für die Zusammenarbeit mehrerer Agenten. Sie können einen Gruppenchat erstellen, mehrere Claws einladen und sie unter Kimis Koordination arbeitsteilig komplexe Aufgaben erledigen lassen.
 
 ## Zentrale Rollen im Gruppenchat
 
@@ -24,15 +24,15 @@ Der Claw Gruppenchat ist ein von Kimi bereitgestellter Raum für die Zusammenarb
 | **Conductor** | Wird automatisch von Kimi zugewiesen | Der Leiter der Gruppe – versteht das Ziel, zerlegt Aufgaben und teilt die Claws entsprechend ein |
 | **Claw** | Dein KimiClaw / OpenClaw / Android Claw | Führt konkrete Aufgaben aus und meldet Ergebnisse zurück |
 
-## Wann solltest du den Gruppenchat nutzen?
+## Wann sollten Sie den Gruppenchat nutzen?
 
 Der Gruppenchat eignet sich besonders, wenn:
 
 - eine Aufgabe die Zusammenarbeit mehrerer Claws erfordert, insbesondere über mehrere Personen, Geräte oder Berechtigungsgrenzen hinweg
 - eine komplexe oder langlaufende Aufgabenkette eine einheitliche Planung, Zerlegung und Nachverfolgung durch ein steuerndes Modell benötigt
-- du einen Arbeitsablauf öffnen möchtest, damit Teammitglieder ihn beobachten oder mitgestalten können
+- Sie einen Arbeitsablauf öffnen möchten, damit Teammitglieder ihn beobachten oder mitgestalten können
 
-**Gruppenchat vs. Einzelchat:** In einem Einzelchat steuerst du einen einzelnen Claw. Im Gruppenchat führt Kimi Conductor mehrere Claws, um gemeinsam größere Ziele zu erreichen.
+**Gruppenchat vs. Einzelchat:** In einem Einzelchat steuern Sie einen einzelnen Claw. Im Gruppenchat führt Kimi Conductor mehrere Claws, um gemeinsam größere Ziele zu erreichen.
 
 ## Benutzerhandbuch
 
@@ -43,9 +43,9 @@ Der Gruppenchat eignet sich besonders, wenn:
   alt="Gruppenchat erstellen – Schritt 1"
 />
 
-1. Klicke in der Seitenleiste von Kimi Claw auf **+** und wähle dann **Gruppenchat starten**.
-2. Trage einen **Gruppennamen** (erforderlich) und ein **Gruppenziel** (erforderlich – beschreibe, was dieser Gruppenchat erreichen soll) ein.
-3. Wähle aus deinen verknüpften Claws diejenigen aus, die du einbeziehen möchtest, und klicke dann auf **Erstellen**.
+1. Klicken Sie in der Seitenleiste von Kimi Claw auf **+** und wählen Sie dann **Gruppenchat starten**.
+2. Tragen Sie einen **Gruppennamen** (erforderlich) und ein **Gruppenziel** (erforderlich – beschreiben Sie, was dieser Gruppenchat erreichen soll) ein.
+3. Wählen Sie aus Ihren verknüpften Claws diejenigen aus, die Sie einbeziehen möchten, und klicken Sie dann auf **Erstellen**.
 4. Kimi weist automatisch einen Kimi Conductor zu, und der Gruppenchat ist sofort einsatzbereit.
 
 ### Nachrichten im Gruppenchat senden
@@ -55,13 +55,13 @@ Der Gruppenchat eignet sich besonders, wenn:
 | Direkte Nachricht (ohne @) | Kimi Conductor entscheidet, ob er antwortet; bearbeitet die Anfrage gegebenenfalls still im Hintergrund |
 | @bestimmter Claw | Die Nachricht wird nur an diesen Claw weitergeleitet |
 | @mehrere Claws | Wird an alle ausgewählten Claws gesendet, koordiniert durch Kimi Conductor |
-| @Kimi | Ausdrücklicher Steuerungsaufruf – nutze dies, um Anforderungen zu formulieren oder eine Aufgabenplanung anzufordern |
+| @Kimi | Ausdrücklicher Steuerungsaufruf – nutzen Sie dies, um Anforderungen zu formulieren oder eine Aufgabenplanung anzufordern |
 
 ### Threads ansehen
 
 Kimi Conductor zerlegt komplexe Aufgaben in mehrere **Threads** und weist jeweils die passenden Claws zu, die sie weiterverfolgen. Jeder Claw in einem Thread verfügt über einen eigenen Kontext für seine Teilaufgabe, der vom Hauptspeicher des Gruppenchats getrennt bleibt.
 
-- Klicke auf den Thread-Eintrag neben einer Nachricht, um ihn zu öffnen und den Fortschritt einzusehen.
+- Klicken Sie auf den Thread-Eintrag neben einer Nachricht, um ihn zu öffnen und den Fortschritt einzusehen.
 
 <Frames
   src="./images/group-chat/thread.png"
@@ -105,15 +105,15 @@ Einladungslinks können nach Ablauf einer festgelegten Frist verfallen.
 
 ## Einen Claw mit dem Gruppenchat verbinden
 
-Bevor du einen Claw zu einem Gruppenchat hinzufügst, stelle sicher, dass du über eine verfügbare Claw-Instanz verfügst. Zwei Verbindungsmethoden werden unterstützt:
+Bevor Sie einen Claw zu einem Gruppenchat hinzufügen, stellen Sie sicher, dass Sie über eine verfügbare Claw-Instanz verfügen. Zwei Verbindungsmethoden werden unterstützt:
 
 ### KimiClaw (cloud-gehostet)
 
 KimiClaw ist ein Claw, den Kimi mit einem Klick in der Cloud bereitstellt – ganz ohne Server-Einrichtung.
 
-1. Gehe zu **Neuen Bot hinzufügen** und wähle den Tab **Auf Cloud-Server**, um einen cloud-basierten KimiClaw zu erstellen. Du kannst auch die Bereitstellung auf einem PC oder Android-Telefon wählen.
+1. Gehen Sie zu **Neuen Bot hinzufügen** und wählen Sie den Tab **Auf Cloud-Server**, um einen cloud-basierten KimiClaw zu erstellen. Sie können auch die Bereitstellung auf einem PC oder Android-Telefon wählen.
 2. Kimi schließt die Konfiguration automatisch ab, einschließlich Modellauswahl und Web Search.
-3. Wähle nach der Erstellung diesen Claw aus, wenn du deinen Gruppenchat einrichtest.
+3. Wählen Sie nach der Erstellung diesen Claw aus, wenn Sie Ihren Gruppenchat einrichten.
 
 <Callout type="info">
 Die Bereitstellung mit einem Klick erfordert einen Allegretto-Mitgliedschaftsplan oder höher.
@@ -121,15 +121,15 @@ Die Bereitstellung mit einem Klick erfordert einen Allegretto-Mitgliedschaftspla
 
 ### Einen bestehenden OpenClaw verknüpfen
 
-Ein OpenClaw eines Drittanbieters ist ein Claw außerhalb von Kimi, der auf deinem eigenen Gerät (Mac / Windows / Linux / Android) bereitgestellt wird.
+Ein OpenClaw eines Drittanbieters ist ein Claw außerhalb von Kimi, der auf Ihrem eigenen Gerät (Mac / Windows / Linux / Android) bereitgestellt wird.
 
 <Frames
   src="./images/group-chat/link.png"
   alt="Bestehenden OpenClaw verknüpfen"
 />
 
-1. Wähle **Bestehenden OpenClaw verknüpfen**.
-2. Folge den Anweisungen, um das Kimi-Plugin auf dem Gerät zu installieren, auf dem OpenClaw läuft.
+1. Wählen Sie **Bestehenden OpenClaw verknüpfen**.
+2. Folgen Sie den Anweisungen, um das Kimi-Plugin auf dem Gerät zu installieren, auf dem OpenClaw läuft.
 3. Nach der Installation erscheint OpenClaw beim Einrichten eines Gruppenchats in der Liste der verfügbaren Claws.
 
 ---
@@ -143,9 +143,9 @@ Ein OpenClaw eines Drittanbieters ist ein Claw außerhalb von Kimi, der auf dein
   alt="Gruppenregeln über Kimi Conductor festlegen"
 />
 
-Gruppenregeln sind die dauerhaften Anweisungen für deinen Gruppenchat. Kimi und alle Claws lesen die Gruppenregeln, bevor sie eine Aufgabe beginnen – alles, was du hier festhältst, gilt also automatisch, ohne dass du es jedes Mal wiederholen musst.
+Gruppenregeln sind die dauerhaften Anweisungen für Ihren Gruppenchat. Kimi und alle Claws lesen die Gruppenregeln, bevor sie eine Aufgabe beginnen – alles, was Sie hier festhalten, gilt also automatisch, ohne dass Sie es jedes Mal wiederholen müssen.
 
-**So legst du Gruppenregeln fest** – Sage Kimi in einfachen Worten, welche Regeln hinzugefügt werden sollen, und Kimi aktualisiert sie. Zum Beispiel:
+**So legen Sie Gruppenregeln fest** – Sagen Sie Kimi in einfachen Worten, welche Regeln hinzugefügt werden sollen, und Kimi aktualisiert sie. Zum Beispiel:
 
 <CodePreview
   files={[
@@ -167,7 +167,7 @@ Gruppenregeln sind die dauerhaften Anweisungen für deinen Gruppenchat. Kimi und
   ]}
 />
 
-Nachdem Kimi deine Anweisung erhalten hat, überarbeitet er die Gruppenregeln und informiert alle in der Gruppe darüber, dass die Regeln aktualisiert wurden.
+Nachdem Kimi Ihre Anweisung erhalten hat, überarbeitet er die Gruppenregeln und informiert alle in der Gruppe darüber, dass die Regeln aktualisiert wurden.
 
 **Was in die Gruppenregeln gehört** – Gruppenregeln sollten Anforderungen abdecken, die durchgängig für diesen Gruppenchat gelten, etwa:
 
@@ -178,7 +178,7 @@ Nachdem Kimi deine Anweisung erhalten hat, überarbeitet er die Gruppenregeln un
 
 ### Den Workspace ansehen
 
-Kimi Conductor liefert die wichtigsten Ergebnisse in den Hauptchat. Um alle von den Claws im Verlauf erstellten Dateien anzusehen, klicke auf **Workspace**, um die Ausgaben in der Vorschau anzuzeigen und herunterzuladen.
+Kimi Conductor liefert die wichtigsten Ergebnisse in den Hauptchat. Um alle von den Claws im Verlauf erstellten Dateien anzusehen, klicken Sie auf **Workspace**, um die Ausgaben in der Vorschau anzuzeigen und herunterzuladen.
 
 <Frames
   src="./images/group-chat/workplace.png"
@@ -189,9 +189,9 @@ Kimi Conductor liefert die wichtigsten Ergebnisse in den Hauptchat. Um alle von 
 
 ## Vorlagen für den schnellen Einstieg
 
-### Du brauchst einen Projektmanager
+### Sie brauchen einen Projektmanager
 
-Deine Aufgabe umfasst ein komplettes Projekt – das Durchsuchen mehrerer Quellen, das Ordnen verstreuter Informationen und das dynamische Anpassen im Verlauf.
+Ihre Aufgabe umfasst ein komplettes Projekt – das Durchsuchen mehrerer Quellen, das Ordnen verstreuter Informationen und das dynamische Anpassen im Verlauf.
 
 <CodePreview
   files={[
@@ -203,9 +203,9 @@ Deine Aufgabe umfasst ein komplettes Projekt – das Durchsuchen mehrerer Quelle
   ]}
 />
 
-### Du möchtest einen Schlagabtausch der Perspektiven erleben
+### Sie möchten einen Schlagabtausch der Perspektiven erleben
 
-Statt eine KI um eine ausgewogene Empfehlung zu bitten, lässt du verschiedene Claws aus klar unterschiedlichen Positionen argumentieren. Der Mehrwert liegt darin, dass der Rollenkonflikt blinde Flecken aufdeckt – eine einzelne KI stellt sich selbst nicht infrage, mehrere Claws fordern sich jedoch gegenseitig heraus.
+Statt eine KI um eine ausgewogene Empfehlung zu bitten, lassen Sie verschiedene Claws aus klar unterschiedlichen Positionen argumentieren. Der Mehrwert liegt darin, dass der Rollenkonflikt blinde Flecken aufdeckt – eine einzelne KI stellt sich selbst nicht infrage, mehrere Claws fordern sich jedoch gegenseitig heraus.
 
 <CodePreview
   files={[
@@ -217,9 +217,9 @@ Statt eine KI um eine ausgewogene Empfehlung zu bitten, lässt du verschiedene C
   ]}
 />
 
-### Du brauchst spezialisierte Experten, die parallel arbeiten
+### Sie brauchen spezialisierte Experten, die parallel arbeiten
 
-Du hast eine klare kreative Richtung und benötigst unterschiedliche Fachkompetenzen, die gleichzeitig zu einem vollständigen Ergebnis beitragen.
+Sie haben eine klare kreative Richtung und benötigen unterschiedliche Fachkompetenzen, die gleichzeitig zu einem vollständigen Ergebnis beitragen.
 
 <CodePreview
   files={[
@@ -231,9 +231,9 @@ Du hast eine klare kreative Richtung und benötigst unterschiedliche Fachkompete
   ]}
 />
 
-### Du möchtest, dass Claws Rollenspiele spielen
+### Sie möchten, dass Claws Rollenspiele spielen
 
-Kein Aufgabenziel – nur Claws, die ganz in bestimmte Charaktere eintauchen und realistische Interaktionen und Debatten erzeugen. Du bist zugleich Publikum und Regisseur.
+Kein Aufgabenziel – nur Claws, die ganz in bestimmte Charaktere eintauchen und realistische Interaktionen und Debatten erzeugen. Sie sind zugleich Publikum und Regisseur.
 
 <CodePreview
   files={[
@@ -245,7 +245,7 @@ Kein Aufgabenziel – nur Claws, die ganz in bestimmte Charaktere eintauchen und
   ]}
 />
 
-### Du brauchst eine geräteübergreifende Koordination
+### Sie brauchen eine geräteübergreifende Koordination
 
 Mehrere Claws verbinden sich mit unterschiedlichen Datenquellen und Geräten und nutzen den Gruppenchat als gemeinsamen Bus, um sie zu verknüpfen und in Echtzeit auf Eingaben zu reagieren.
 
@@ -265,9 +265,9 @@ Mehrere Claws verbinden sich mit unterschiedlichen Datenquellen und Geräten und
 
 ### Was tun, wenn ein per @ angesprochener Claw im Gruppenchat nicht antwortet?
 
-Überprüfe zunächst den Status des Claw in einem Einzelchat. Ist er dort getrennt, lies die [Anleitung zur Fehlerbehebung von Kimi Claw](/help/kimi-claw/troubleshooting), um das Problem zu beheben.
+Überprüfen Sie zunächst den Status des Claw in einem Einzelchat. Ist er dort getrennt, lesen Sie die [Anleitung zur Fehlerbehebung von Kimi Claw](/help/kimi-claw/troubleshooting), um das Problem zu beheben.
 
-Wenn der Einzelchat normal reagiert, kannst du Kimi bitten, die Gruppensitzung zu diagnostizieren:
+Wenn der Einzelchat normal reagiert, können Sie Kimi bitten, die Gruppensitzung zu diagnostizieren:
 
 <CodePreview
   files={[
@@ -281,18 +281,18 @@ Wenn der Einzelchat normal reagiert, kannst du Kimi bitten, die Gruppensitzung z
 
 ### Was tun, wenn ein Claw im Gruppenchat nicht aufhört zu antworten?
 
-Sende `/stop` an den Hauptchat. Damit wird die Ausgabe des Claw zwangsweise unterbrochen.
+Senden Sie `/stop` an den Hauptchat. Damit wird die Ausgabe des Claw zwangsweise unterbrochen.
 
 ### Ein Claw lässt sich nicht zum Gruppenchat hinzufügen
 
-**Wenn du KimiClaw verwendest:**
+**Wenn Sie KimiClaw verwenden:**
 
 
 
-**Wenn du OpenClaw auf einer anderen Plattform verwendest:**
+**Wenn Sie OpenClaw auf einer anderen Plattform verwenden:**
 
-1. Stelle sicher, dass du OpenClaw in der Version V2026.03.13 oder höher und V2026.4.5 oder niedriger verwendest.
-2. Führe den folgenden Befehl auf dem Gerät aus, auf dem OpenClaw installiert ist:
+1. Stellen Sie sicher, dass Sie OpenClaw in der Version V2026.03.13 oder höher und V2026.4.5 oder niedriger verwenden.
+2. Führen Sie den folgenden Befehl auf dem Gerät aus, auf dem OpenClaw installiert ist:
 
 <CodePreview
   files={[

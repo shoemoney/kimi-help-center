@@ -15,7 +15,7 @@ preview_content: "Erstellen und bearbeiten Sie Word-, PDF- und Excel-Dokumente m
 # Kimi Docs & Kimi Sheets
 
 <Callout type="info">
-Am 27. Januar 2026 hat Moonshot AI Kimi K2.5 veröffentlicht und damit die Produktivitätsfunktionen von Kimi Agent erheblich erweitert. Kimi Agent „beherrscht Office" nun mit durchgängiger Dateiausgabe für Word, PDF, Excel und Slides.
+Am 27. Januar 2026 hat Moonshot AI Kimi K2.5 veröffentlicht und damit die Produktivitätsfunktionen von Kimi Agent erheblich erweitert. Kimi Agent „beherrscht Office“ nun mit durchgängiger Dateiausgabe für Word, PDF, Excel und Slides.
 </Callout>
 
 Kimi K2.5 liefert in Office-Szenarien spürbar bessere Ausgabequalität und effizientere Tool-Aufrufe – besonders bei strukturierter Ausgabe mit durchgängigen Verarbeitungsfähigkeiten:
@@ -42,7 +42,7 @@ Kimi Docs verfügt über starke Textanpassungsfähigkeiten und ein systematische
 ### Wie verwendet man Kimi Docs?
 **Einstiegspunkte:**
 - Allgemein: Klicken Sie auf die Verknüpfungen für Docs, Sheets oder Slides in der Seitenleiste oder im Chatfeld
-- Speziell: Klicken Sie auf die Schaltfläche „Docs" unten im Chatfeld
+- Speziell: Klicken Sie auf die Schaltfläche „Docs“ unten im Chatfeld
 ### Methode 1: Die Seite Kimi Docs besuchen
 
 <Frames
@@ -82,7 +82,7 @@ Kimi Sheets versteht Zellbeziehungen sowie die Verknüpfungslogik zwischen Tabel
 | **Eingabe in natürlicher Sprache** | Eigenständige Web-Suche mit intelligenter Tabellenerstellung |
 
 ### Wie verwendet man Kimi Sheets?
-Klicken Sie auf die Schaltfläche „Agent" unten im Chatfeld oder wählen Sie die Verknüpfung „Sheets" in der Seitenleiste.
+Klicken Sie auf die Schaltfläche „Agent“ unten im Chatfeld oder wählen Sie die Verknüpfung „Sheets“ in der Seitenleiste.
 
 <Frames
   src="./images/overview/screenshot-4.png"

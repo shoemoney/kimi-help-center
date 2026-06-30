@@ -15,7 +15,7 @@ preview: false
 
 Kimi ermöglicht die Selbstbedienungs-Erstellung von Rechnungen für Ihre Mitgliedszahlungen.
 
-## Wie erhalte ich eine Rechnung？
+## Wie erhalte ich eine Rechnung?
 
 Rechnungen werden automatisch an die E-Mail-Adresse gesendet, die bei Ihrem Zahlungsanbieter (Airwallex, Stripe, Apple oder Google) hinterlegt ist.
 

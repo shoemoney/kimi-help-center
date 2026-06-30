@@ -13,7 +13,7 @@ preview: false
 
 # Tipps zum Memory
 
-## 1. Hilf Kimi, deine Welt zu verstehen
+## 1. Helfen Sie Kimi, Ihre Welt zu verstehen
 
 ### Identität verankern
 
@@ -84,9 +84,9 @@ Memory Space hat derzeit folgende Limits:
 - Es können bis zu 50 Memory-Einträge gespeichert werden.
 - Jeder Memory-Eintrag ist auf 500 Zeichen begrenzt.
 - Vor April 2026 erstellte Memorys können dieses Limit überschreiten; solche bestehenden Memorys bleiben weiterhin erhalten.
-- Um ein älteres Memory mit mehr als 500 Zeichen zu bearbeiten, musst du es zunächst auf höchstens 500 Zeichen kürzen.
-- Wenn du versuchst, Inhalte mit mehr als 500 Zeichen zu speichern, erhält das Modell ein Signal "Inhalt zu lang", und die Benutzeroberfläche zeigt "Memory-Aktualisierung fehlgeschlagen" an.
-- Falls du eine nicht-chinesische Oberfläche verwendest, kannst du das Memory auf Chinesisch speichern, um unter demselben Zeichenlimit mehr Informationen unterzubringen.
+- Um ein älteres Memory mit mehr als 500 Zeichen zu bearbeiten, müssen Sie es zunächst auf höchstens 500 Zeichen kürzen.
+- Wenn Sie versuchen, Inhalte mit mehr als 500 Zeichen zu speichern, erhält das Modell ein Signal „Inhalt zu lang“, und die Benutzeroberfläche zeigt „Memory-Aktualisierung fehlgeschlagen“ an.
+- Falls Sie eine nicht-chinesische Oberfläche verwenden, können Sie das Memory auf Chinesisch speichern, um unter demselben Zeichenlimit mehr Informationen unterzubringen.
 - Jeder Memory-Eintrag hat eine interne ID, doch diese IDs sind für Nutzer nicht sichtbar. Das Verweisen auf Memory-IDs im Gespräch hilft Nutzern nicht dabei, ein bestimmtes Memory zu finden.
 
 ### Nützliche Prompt-Vorlagen
@@ -114,6 +114,6 @@ Memory Space hat derzeit folgende Limits:
 | Du musst deinen Wissensstand nicht erwähnen | Vermeidet übermäßige Haftungshinweise |
 
 ## 4. Zum Spaß
-Frag Kimi doch einmal:
-- "Was ist nach allem, was du über mich weißt, gerade meine größte Lebensherausforderung?"
-- "Fasse nach allem, was du über mich weißt, mein vergangenes Jahr zusammen und gib mir Ratschläge für das neue Jahr"
+Fragen Sie Kimi doch einmal:
+- „Was ist nach allem, was du über mich weißt, gerade meine größte Lebensherausforderung?“
+- „Fasse nach allem, was du über mich weißt, mein vergangenes Jahr zusammen und gib mir Ratschläge für das neue Jahr“

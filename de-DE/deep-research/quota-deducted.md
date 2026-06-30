@@ -20,7 +20,7 @@ Deep Research unterscheidet zwischen „Standardunterhaltungen“ und „Aufgabe
 - **Abrechnungsweise**: Nach Auswahl einer Deep-Research-Aufgabe werden Credits aus dem gemeinsamen Pool (sonstige Mitgliedschaftsfunktionen) abgezogen. Kimi Code nutzt einen eigenen Credits-Pool.
 - **Erstattung bei Fehlschlag**: Schlägt eine Aufgabe fehl (es werden keine verwertbaren Ergebnisse geliefert), klicken Sie auf die Feedback-Schaltfläche „👎“. Unser Team prüft das Problem und erstattet die entsprechenden Credits.
 
-## Wie prüfe ich meine verbleibenden Credits？
+## Wie prüfe ich meine verbleibenden Credits?
 
 Bewegen Sie den Mauszeiger über die Schaltfläche für den Deep-Research-Modus, um Ihre aktuell verbleibenden kostenlosen und bezahlten Credits anzuzeigen.
 

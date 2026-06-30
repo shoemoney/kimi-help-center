@@ -8,16 +8,16 @@ preview: false
 
 <SeoMeta
   title="Guthaben \u0026 Nutzung - Kimi Hilfecenter"
-  description="Die Kimi API bietet mehrere Möglichkeiten, dein Kontoguthaben und deine Nutzungsdetails einzusehen, damit du Verbrauch und Kosten im Blick behältst."
+  description="Die Kimi API bietet mehrere Möglichkeiten, Ihr Kontoguthaben und Ihre Nutzungsdetails einzusehen, damit Sie Verbrauch und Kosten im Blick behalten."
 />
 
 # Guthaben & Nutzung
 
-Die Kimi API bietet mehrere Möglichkeiten, dein Kontoguthaben und deine Nutzungsdetails einzusehen, damit du Verbrauch und Kosten im Blick behältst.
+Die Kimi API bietet mehrere Möglichkeiten, Ihr Kontoguthaben und Ihre Nutzungsdetails einzusehen, damit Sie Verbrauch und Kosten im Blick behalten.
 
 ## Konsolen-Dashboard
 
-Melde dich unter [platform.moonshot.ai](https://platform.moonshot.ai) an und rufe in der Konsole die Seite **fee-detail** (Abrechnungsdetails) auf, um Folgendes anzuzeigen:
+Melden Sie sich unter [platform.moonshot.ai](https://platform.moonshot.ai) an und rufen Sie in der Konsole die Seite **fee-detail** (Abrechnungsdetails) auf, um Folgendes anzuzeigen:
 
 - Aktuelles Kontoguthaben
 - Tägliche Nutzungsaufschlüsselung
@@ -32,7 +32,7 @@ Die tägliche Abrechnung wird **bis 7:00 Uhr am Folgetag** aktualisiert. Echtzei
 
 ## Token-Schätzungs-API
 
-Bevor du eine Anfrage sendest, kannst du die Token Estimation API verwenden, um abzuschätzen, wie viele Token der Aufruf verbrauchen wird – nützlich zur Kostenkontrolle.
+Bevor Sie eine Anfrage senden, können Sie die Token Estimation API verwenden, um abzuschätzen, wie viele Token der Aufruf verbrauchen wird – nützlich zur Kostenkontrolle.
 
 <CodePreview
   files={[
@@ -44,11 +44,11 @@ Bevor du eine Anfrage sendest, kannst du die Token Estimation API verwenden, um 
   ]}
 />
 
-Übergib dasselbe `messages`-Format wie bei einer Chat-Completion-Anfrage, und die API gibt die geschätzte Token-Anzahl zurück.
+Übergeben Sie dasselbe `messages`-Format wie bei einer Chat-Completion-Anfrage, und die API gibt die geschätzte Token-Anzahl zurück.
 
 ## Guthaben-Abfrage-API
 
-Frage dein aktuelles Kontoguthaben direkt über die API ab:
+Fragen Sie Ihr aktuelles Kontoguthaben direkt über die API ab:
 
 <CodePreview
   files={[
@@ -60,13 +60,13 @@ Frage dein aktuelles Kontoguthaben direkt über die API ab:
   ]}
 />
 
-Gib deinen API Key im Anfrage-Header an, um dein verfügbares Guthaben abzurufen.
+Geben Sie Ihren API Key im Anfrage-Header an, um Ihr verfügbares Guthaben abzurufen.
 
 ## Tipps zur Nutzungsüberwachung
 
 <Callout type="tip">
 **Bewährte Vorgehensweisen**:
-- Prüfe die Seite „fee-detail“ regelmäßig, um Ausgabentrends zu verfolgen
-- Binde die Guthaben-Abfrage-API ein und richte Schwellenwerte für Guthaben-Benachrichtigungen ein
-- Nutze vor kritischen Aufrufen die Token Estimation API, um die Kosten abzuschätzen
+- Prüfen Sie die Seite „fee-detail“ regelmäßig, um Ausgabentrends zu verfolgen
+- Binden Sie die Guthaben-Abfrage-API ein und richten Sie Schwellenwerte für Guthaben-Benachrichtigungen ein
+- Nutzen Sie vor kritischen Aufrufen die Token Estimation API, um die Kosten abzuschätzen
 </Callout>

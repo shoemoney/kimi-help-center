@@ -17,7 +17,7 @@ preview: false
 Deep Research führt umfangreiche Websuchen, Quellenprüfungen und Schlussfolgerungen durch. Eine Seite, die sich optisch nicht aktualisiert hat, bedeutet nicht, dass die Aufgabe unterbrochen wurde.
 </Callout>
 
-## Was Sie tun können？
+## Was Sie tun können?
 
 1. **Aktualisieren Sie die Browserseite**
 2. **Verlassen Sie vorübergehend die aktuelle Unterhaltung** (das hat keine Auswirkungen auf die Ausführung der Aufgabe)

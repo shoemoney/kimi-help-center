@@ -8,13 +8,13 @@ preview: false
 
 <SeoMeta
   title="Erste Schritte mit Kimi - Kimi Hilfecenter"
-  description="Im Chatfenster kannst du Fragen stellen, Dateien hochladen oder je nach Bedarf zwischen Modellen wechseln."
+  description="Im Chatfenster können Sie Fragen stellen, Dateien hochladen oder je nach Bedarf zwischen Modellen wechseln."
 />
 
 # Erste Schritte mit Kimi
 
-Im Chatfenster kannst du Fragen stellen, Dateien hochladen oder je nach Bedarf zwischen Modellen wechseln.
-Öffne [kimi.com](https://www.kimi.com) und schick eine erste Nachricht – sag Hallo zu Kimi:
+Im Chatfenster können Sie Fragen stellen, Dateien hochladen oder je nach Bedarf zwischen Modellen wechseln.
+Öffnen Sie [kimi.com](https://www.kimi.com) und schicken Sie eine erste Nachricht – sagen Sie Hallo zu Kimi:
 
 <CodePreview
   files={[
@@ -38,7 +38,7 @@ Sofort einsatzbereit, ohne Konfiguration:
 | **Data Source** | Verbindung zu professionellen Datenbanken; Abfrage von Datenbankverzeichnissen und Datenabruf |
 | **Image Search** | Text-zu-Bild- und Bild-zu-Bild-Suche zum schnellen Auffinden visueller Inhalte |
 | **IPython** | Ausführung von Python-Code für Datenanalyse und Visualisierung |
-| **Memory** | Intelligentes Gedächtnis, das deine persönlichen Vorlieben und Gewohnheiten erfasst |
+| **Memory** | Intelligentes Gedächtnis, das Ihre persönlichen Vorlieben und Gewohnheiten erfasst |
 
 ## Visuelle und multimodale Fähigkeiten
 K2.6 unterstützt das umfassende Verständnis von Bildern, Videos und Office-Dokumenten (PDF/Word/Excel) und nutzt dabei eine **native multimodale Architektur** (kein nachträglich angehängtes OCR). Es kann Dokumentinhalte direkt analysieren und mittlere bis fortgeschrittene Office-Aufgaben erledigen (etwa Excel-Formeln schreiben oder PPT-Gliederungen/VBA-Code erzeugen).
@@ -66,15 +66,15 @@ K2.6 unterstützt das umfassende Verständnis von Bildern, Videos und Office-Dok
 <Callout type="warning">
 1. **Einschränkung bei der Bildgenerierung**: Der Standard-Chatmodus unterstützt nur die *Suche* nach Bildern, nicht das *Erzeugen* von Bildern (für die Bildgenerierung ist der K2.6-Agent-Modus erforderlich).
 2. **Einschränkung bei der Dateiausgabe**: Als Ausgabe werden nur Textinhalte unterstützt (z. B. PPT-Gliederungen, Word-Fließtext, Code). Die direkte Ausgabe von Binärdateien (`.pptx`, `.docx`, `.xlsx`, `.pdf`) wird nicht unterstützt.
-3. Für die Bildgenerierung oder die Ausgabe komplexer, bearbeitbarer Dokumente verwende [K2.6 Agent](https://www.kimi.com/agent) oder das Tool zur Codeausführung.
+3. Für die Bildgenerierung oder die Ausgabe komplexer, bearbeitbarer Dokumente verwenden Sie [K2.6 Agent](https://www.kimi.com/agent) oder das Tool zur Codeausführung.
 </Callout>
 
 ## Sitzungen und Gesprächsrunden
-Wenn du auf „Neuer Chat“ klickst, beginnt damit gewissermaßen ein langes Gespräch mit Kimi.
+Wenn Sie auf „Neuer Chat“ klicken, beginnt damit gewissermaßen ein langes Gespräch mit Kimi.
 | Begriff | Analogie | Technische Definition |
 |---------|---------|---------------------|
 | **Sitzung** | Ein ganzes Meeting (von Anfang bis Ende) | Ein vollständiger Chat-Verlauf mit klarem Anfang und Ende |
-| **Runde** | Ein Austausch (du sprichst, Kimi antwortet) | Deine Eingabe und Kimis Antwort bilden zusammen eine Runde |
+| **Runde** | Ein Austausch (Sie sprechen, Kimi antwortet) | Ihre Eingabe und Kimis Antwort bilden zusammen eine Runde |
 
 ### Wesentliche Unterschiede
 **Sitzung**
@@ -91,22 +91,22 @@ Wenn du auf „Neuer Chat“ klickst, beginnt damit gewissermaßen ein langes Ge
 </Callout>
 
 ## Warum diese Unterscheidung wichtig ist
-Innerhalb einer einzelnen Sitzung wird jede neue Frage oder Anweisung, die du sendest, unter Berücksichtigung aller vorherigen Runden beantwortet. Je mehr Runden sich ansammeln und je länger der Inhalt wird, desto stärker kann die Antwortqualität allmählich nachlassen.
+Innerhalb einer einzelnen Sitzung wird jede neue Frage oder Anweisung, die Sie senden, unter Berücksichtigung aller vorherigen Runden beantwortet. Je mehr Runden sich ansammeln und je länger der Inhalt wird, desto stärker kann die Antwortqualität allmählich nachlassen.
 
 ### Häufige Szenarien
 **Szenario 1: Themenwechsel**
-- Falsch: In einer Sitzung, in der du an einem 30.000 Wörter langen Roman geschrieben hast, „Hilf mir, meine Steuern zu berechnen“ fragen
-- Richtig: Für die Steuerfrage eine neue Sitzung starten – so vermeidest du, dass Kimi Romanfiguren mit Steuerbegriffen verwechselt
+- Falsch: In einer Sitzung, in der Sie an einem 30.000 Wörter langen Roman geschrieben haben, „Hilf mir, meine Steuern zu berechnen“ fragen
+- Richtig: Für die Steuerfrage eine neue Sitzung starten – so vermeiden Sie, dass Kimi Romanfiguren mit Steuerbegriffen verwechselt
 **Szenario 2: Verarbeitung langer Dokumente**
 - Nach Dutzenden von Runden kann Kimi Regeln oder Dateizusammenfassungen „vergessen“, die zu Beginn festgelegt wurden
-- Lösung: Mitten in der Aufgabe von dir aus zusammenfassen lassen („Fasse unseren bisherigen Plan zusammen“) oder eine neue Sitzung starten
+- Lösung: Kimi mitten in der Aufgabe zusammenfassen lassen („Fasse unseren bisherigen Plan zusammen“) oder eine neue Sitzung starten
 **Szenario 3: Produktgrenzen verstehen**
-- Die Grenzen der Kontextlänge werden in Token gemessen, im Alltag kannst du sie dir aber als „Runden“ vorstellen
-- Wenn du den Hinweis „Starte einen neuen Chat“ siehst, bedeutet das, dass die aktuelle Sitzung zu viele Runden umfasst
+- Die Grenzen der Kontextlänge werden in Token gemessen, im Alltag können Sie sie sich aber als „Runden“ vorstellen
+- Wenn Sie den Hinweis „Starte einen neuen Chat“ sehen, bedeutet das, dass die aktuelle Sitzung zu viele Runden umfasst
 ## Bewährte Vorgehensweisen
 
 <Callout type="tip">
 1. **Für jede Aufgabe eine neue Sitzung starten**: Eigenständige Aufgaben – Texte schreiben, Recherche, Debugging – sollten jeweils ihre eigene Sitzung erhalten, um eine Vermischung des Kontexts zu vermeiden.
-2. **In langen Sitzungen regelmäßig zusammenfassen**: Bitte Kimi nach mehr als 20 Runden von dir aus, die wichtigsten Informationen zusammenzufassen, um Datenverlust vorzubeugen.
-3. **Sensible Informationen zeitnah entfernen**: Der Chatverlauf bleibt erhalten; lösche die gesamte Sitzung, nachdem du private Inhalte bearbeitet hast.
+2. **In langen Sitzungen regelmäßig zusammenfassen**: Bitten Sie Kimi nach mehr als 20 Runden von sich aus, die wichtigsten Informationen zusammenzufassen, um Datenverlust vorzubeugen.
+3. **Sensible Informationen zeitnah entfernen**: Der Chatverlauf bleibt erhalten; löschen Sie die gesamte Sitzung, nachdem Sie private Inhalte bearbeitet haben.
 </Callout>

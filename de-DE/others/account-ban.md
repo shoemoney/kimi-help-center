@@ -8,13 +8,13 @@ preview: false
 
 <SeoMeta
   title="Kontosperrung \u0026 Einsprüche - Kimi Hilfecenter"
-  description="Wenn du gegen geltende Gesetze, die Nutzungsvereinbarung oder Plattformrichtlinien verstößt, kann die Plattform Maßnahmen ergreifen, darunter das Sperren von Inhalten, das Einfrieren/Übertragen von Konten, das Aussetzen von Leistungen oder die Beendigung des Dienstes..."
+  description="Wenn Sie gegen geltende Gesetze, die Nutzungsvereinbarung oder Plattformrichtlinien verstoßen, kann die Plattform Maßnahmen ergreifen, darunter das Sperren von Inhalten, das Einfrieren/Übertragen von Konten, das Aussetzen von Leistungen oder die Beendigung des Dienstes..."
 />
 
 # Kontosperrung & Einsprüche
 
 <Callout type="warning">
-Wenn du gegen geltende Gesetze, die Nutzungsvereinbarung oder Plattformrichtlinien verstößt, kann die Plattform Maßnahmen ergreifen, darunter das Sperren von Inhalten, das Einfrieren/Übertragen von Konten, das Aussetzen von Leistungen oder die Beendigung des Dienstes.
+Wenn Sie gegen geltende Gesetze, die Nutzungsvereinbarung oder Plattformrichtlinien verstoßen, kann die Plattform Maßnahmen ergreifen, darunter das Sperren von Inhalten, das Einfrieren/Übertragen von Konten, das Aussetzen von Leistungen oder die Beendigung des Dienstes.
 </Callout>
 
 ## Warum wurde mein Konto gesperrt?
@@ -26,9 +26,9 @@ Mögliche Maßnahmen sind:
 | **Leistungen** | Einige oder alle Leistungen (einschließlich kostenpflichtiger Leistungen) aussetzen oder entziehen |
 | **Dienst** | Dienst verweigern, aussetzen oder beenden |
 
-## Wie kann ich Einspruch einlegen？
-Wenn du mit dem Ergebnis nicht einverstanden bist:
+## Wie kann ich Einspruch einlegen?
+Wenn Sie mit dem Ergebnis nicht einverstanden sind:
 
 <Callout type="info">
-Sende eine E-Mail an [support@moonshot.ai](mailto:support@moonshot.ai), um einen Einspruch einzureichen. Wir werden den Fall prüfen und so schnell wie möglich antworten.
+Senden Sie eine E-Mail an [support@moonshot.ai](mailto:support@moonshot.ai), um einen Einspruch einzureichen. Wir werden den Fall prüfen und so schnell wie möglich antworten.
 </Callout>

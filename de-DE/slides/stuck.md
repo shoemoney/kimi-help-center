@@ -90,7 +90,7 @@ Wenn die oben genannten Methoden das Problem nicht lösen, senden Sie bitte Feed
 | **Schritte zur Reproduktion** | Beschreiben Sie kurz die Schritte, um das Problem zu reproduzieren |
 
 <Callout type="info">
-**So prüfen Sie Ihre Browser-Version:** Chrome: Klicken Sie oben rechts auf das Symbol ⋮ → Hilfe → Über Google Chrome; Safari: Klicken Sie in der Menüleiste auf „Safari" → Über Safari; Edge: Klicken Sie oben rechts auf das Symbol ⋯ → Hilfe und Feedback → Über Microsoft Edge.
+**So prüfen Sie Ihre Browser-Version:** Chrome: Klicken Sie oben rechts auf das Symbol ⋮ → Hilfe → Über Google Chrome; Safari: Klicken Sie in der Menüleiste auf „Safari“ → Über Safari; Edge: Klicken Sie oben rechts auf das Symbol ⋯ → Hilfe und Feedback → Über Microsoft Edge.
 </Callout>
 
 ## Einstiegspunkte für Feedback

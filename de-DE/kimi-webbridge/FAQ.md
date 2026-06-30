@@ -34,7 +34,7 @@ Kimi Claw Desktop ist ein Kimi Claw, der auf Ihrem lokalen Computer bereitgestel
 
 ## Verbindung und Nutzung
 
-### Der Status der Erweiterung zeigt „Disconnected" an?
+### Der Status der Erweiterung zeigt „Disconnected“ an?
 
 Bitte vergewissern Sie sich, dass die Kimi WebBridge-Browsererweiterung erfolgreich installiert ist, und folgen Sie dann den Schritten für Ihre Einrichtungsmethode:
 
@@ -52,7 +52,7 @@ Bitte vergewissern Sie sich, dass die Kimi WebBridge-Browsererweiterung erfolgre
   ]}
 />
 
-### Unter Windows schlägt die Installation von WebBridge mit dem Fehler „Installation failed" fehl
+### Unter Windows schlägt die Installation von WebBridge mit dem Fehler „Installation failed“ fehl
 
 Kimi WebBridge unterstützt das Betriebssystem Windows, und der Installationsbefehl kann in einer Linux-Umgebung ausgeführt werden:
 

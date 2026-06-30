@@ -21,7 +21,7 @@ Presets sind Kimis Schnellbefehl-Funktion: Speichern Sie häufig genutzte Prompt
 - **Wiederverwendbare hochwertige Prompts**: Speichern Sie gut abgestimmte Prompts für gleichbleibende, reproduzierbare Ergebnisse
 - **Häufige Befehlsverknüpfungen**: Alltägliche Befehle wie „Diesen Artikel zusammenfassen“, „Ins Englische übersetzen“ oder „In einer Tabelle ordnen“
 
-## Wie fügen Sie ein Preset hinzu？
+## Wie fügen Sie ein Preset hinzu?
 
 1. Öffnen Sie [kimi.com](https://www.kimi.com/) oder die Kimi-App
 2. Klicken Sie auf die Schaltfläche **„+“** links vom Eingabefeld oder rufen Sie den Einstiegspunkt **Presets** auf

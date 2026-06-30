@@ -8,17 +8,17 @@ preview: false
 
 <SeoMeta
   title="Tipps zur Nutzung - Kimi Hilfecenter"
-  description="Kimi Claw ist nicht nur ein Frage-Antwort-Tool – es ist ein formbarer Assistent. Lege die Regeln fest, und er nimmt eine neue Persönlichkeit an. Bring ihm eine Methode bei, und er entwickelt eine Gewohnheit. Gib ihm einen..."
+  description="Kimi Claw ist nicht nur ein Frage-Antwort-Tool – es ist ein formbarer Assistent. Legen Sie die Regeln fest, und er nimmt eine neue Persönlichkeit an. Bringen Sie ihm eine Methode bei, und er entwickelt eine Gewohnheit. Geben Sie ihm einen..."
 />
 
 # Tipps zur Nutzung
 
 <Callout type="info">
-Kimi Claw ist nicht nur ein Frage-Antwort-Tool – es ist ein formbarer Assistent. Lege die Regeln fest, und er nimmt eine neue Persönlichkeit an. Bring ihm eine Methode bei, und er entwickelt eine Gewohnheit. Gib ihm einen Zeitplan, und er hält dich auf Kurs.
+Kimi Claw ist nicht nur ein Frage-Antwort-Tool – es ist ein formbarer Assistent. Legen Sie die Regeln fest, und er nimmt eine neue Persönlichkeit an. Bringen Sie ihm eine Methode bei, und er entwickelt eine Gewohnheit. Geben Sie ihm einen Zeitplan, und er hält Sie auf Kurs.
 </Callout>
 
 ## Die Persona anpassen
-Mit einer einzigen Anweisung kannst du verändern, wie Kimi Claw kommuniziert. Denke dabei in drei Dimensionen:
+Mit einer einzigen Anweisung können Sie verändern, wie Kimi Claw kommuniziert. Denken Sie dabei in drei Dimensionen:
 | Dimension | Beschreibung | Beispiel |
 |-----------|-------------|---------|
 | **Name & Rolle** | Gib ihm einen Namen, eine Funktion oder einen Charaktertyp | „Du heißt Claw. Du bist meine Rechercheassistenz.“ |
@@ -33,8 +33,8 @@ Mit einer einzigen Anweisung kannst du verändern, wie Kimi Claw kommuniziert. D
 </Callout>
 
 ## Skills aus ClawHub lernen
-Kimi Claw verfügt über eine integrierte **ClawHub-Skill-Bibliothek**. Bevor du einen Workflow von Grund auf aufbaust, lass ihn nach einem fertigen Skill suchen – stell es dir vor wie das Installieren eines maßgeschneiderten Moduls.
-Sende `/skills` in einer Unterhaltung, um installierte Skills zu durchsuchen und zu verwalten.
+Kimi Claw verfügt über eine integrierte **ClawHub-Skill-Bibliothek**. Bevor Sie einen Workflow von Grund auf aufbauen, lassen Sie ihn nach einem fertigen Skill suchen – stellen Sie es sich vor wie das Installieren eines maßgeschneiderten Moduls.
+Senden Sie `/skills` in einer Unterhaltung, um installierte Skills zu durchsuchen und zu verwalten.
 **Gute Einsatzbereiche für Skills**:
 | Kategorie | Beispiele |
 |----------|----------|

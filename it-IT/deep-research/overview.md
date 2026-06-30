@@ -25,7 +25,7 @@ Per ogni domanda, Kimi-Researcher completa in modo indipendente l'intera pipelin
 | --- | --- |
 | **Chiarimento dell'intento** | Pone domande di approfondimento in modo proattivo per definire con maggiore chiarezza lo spazio del problema |
 | **Ragionamento approfondito** | In media 23 passaggi di ragionamento per compito, per organizzare e soddisfare i requisiti |
-| **Ricerca attiva** | Pianifica ~74 parole chiave, individua 206 URL e filtra il 3,2% dei contenuti di qualità più elevata |
+| **Ricerca attiva** | Pianifica ~74 parole chiave, individua 206 URL e seleziona il 3,2% dei contenuti di qualità più elevata |
 | **Ragionamento iterativo approfondito** | Valuta i risultati per stabilire se sono necessarie ulteriori ricerche |
 | **Invocazione di strumenti** | Richiama browser, esecuzione di codice e altri strumenti per elaborare i dati |
 | **Generazione del report** | Sintetizza le informazioni in un report strutturato e dettagliato con citazioni |

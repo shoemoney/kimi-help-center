@@ -25,7 +25,7 @@ Para cada pergunta, o Kimi-Researcher percorre de forma independente todo o proc
 | --- | --- |
 | **Esclarecimento de intenção** | Faz perguntas complementares de forma proativa para delimitar melhor o problema |
 | **Raciocínio aprofundado** | Em média 23 etapas de raciocínio por tarefa, organizando e resolvendo os requisitos |
-| **Busca ativa** | Planeja cerca de 74 palavras-chave, descobre 206 URLs e filtra os 3,2% de conteúdo de maior qualidade |
+| **Busca ativa** | Planeja cerca de 74 palavras-chave, descobre 206 URLs e seleciona os 3,2% de conteúdo de maior qualidade |
 | **Raciocínio iterativo aprofundado** | Avalia os resultados para decidir se novas buscas são necessárias |
 | **Acionamento de ferramentas** | Aciona navegadores, execução de código e outras ferramentas para processar dados |
 | **Geração do relatório** | Reúne as informações em um relatório longo e estruturado, com citações |

@@ -23,7 +23,7 @@ Evet. Her kullanıcı en fazla 10 kurumsal kuruluşa katılabilir ve farklı kur
 
 ## Üyeler katıldıktan ne kadar sonra avantajlardan yararlanabilir?
 
-Avantajlar, davet kabul edilir edilmez etkinleşir. Atanmamış ya da yeni eklenen bir koltukla katılan üyeler, mevcut dönemin tam kredi'sını alır.
+Avantajlar, davet kabul edilir edilmez etkinleşir. Atanmamış ya da yeni eklenen bir koltukla katılan üyeler, mevcut dönemin tam kredisini alır.
 
 ## Abonelik süresi boyunca koltuk eklenebilir mi?
 

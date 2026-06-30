@@ -76,7 +76,7 @@ Les avantages de l'abonnement Kimi Code et la [Kimi Open Platform](https://platf
 
 | Plateforme | Base URL | Facturation | Création de clé |
 |------|---------|---------|-------------|
-| **Kimi Code** | Compatible Anthropic : `https://api.kimi.com/coding/` | Abonnement Kimi (inclut le crédits) | [Console Kimi Code](https://www.kimi.com/code/console) |
+| **Kimi Code** | Compatible Anthropic : `https://api.kimi.com/coding/` | Abonnement Kimi (inclut les crédits) | [Console Kimi Code](https://www.kimi.com/code/console) |
 | **Kimi Open Platform** | `https://api.moonshot.cn/v1` | Paiement à l'usage | [Kimi Open Platform](https://platform.kimi.com) |
 
 ### La clé API est invalide
@@ -86,9 +86,9 @@ Raisons possibles d'une clé API invalide :
 - **Clé saisie incorrectement** : vérifiez l'absence d'espaces superflus ou de caractères manquants.
 - **Clé expirée ou révoquée** : confirmez l'état de la clé dans la console de la plateforme.
 
-### Abonnement expiré ou crédits épuisé
+### Abonnement expiré ou crédits épuisés
 
-Si vous utilisez la plateforme Kimi Code, vous pouvez vérifier votre crédits actuel et l'état de votre abonnement via la commande `/usage`. Si votre crédits est épuisé ou votre abonnement expiré, vous devez le renouveler ou passer à une offre supérieure sur [Kimi Code](https://kimi.com/code).
+Si vous utilisez la plateforme Kimi Code, vous pouvez vérifier vos crédits actuels et l'état de votre abonnement via la commande `/usage`. Si vos crédits sont épuisés ou votre abonnement expiré, vous devez le renouveler ou passer à une offre supérieure sur [Kimi Code](https://kimi.com/code).
 
 ## Abonnement
 

@@ -54,13 +54,13 @@ Büyük dil modellerinin 256K karakterlik bağlam sınırı (yaklaşık 40.000�
 ## Önemli notlar
 
 <Callout type="warning">
-**Kredi kullanımı**: Agent görevleri, ortak havuzdaki (diğer üyelik özellikleri) kredi'yı tüketir. Kimi Code ayrı bir kredi havuzu kullanır. Her Agent görevi genellikle 1 kredi birimi tüketir. Üyelik kademelerine göre ayrıntılı kredi bilgileri için [kredi ve Faturalandırma](/agent/quota-and-billing) sayfasına bakın.
+**Kredi kullanımı**: Agent görevleri, ortak havuzdaki (diğer üyelik özellikleri) krediyi tüketir. Kimi Code ayrı bir kredi havuzu kullanır. Her Agent görevi genellikle 1 kredi birimi tüketir. Üyelik kademelerine göre ayrıntılı kredi bilgileri için [Krediler ve Faturalandırma](/agent/quota-and-billing) sayfasına bakın.
 Ücretsiz kademe: ayda 6 Agent görevi
 Ücretli kademeler: planınıza bağlı olarak ayda 60–720 Agent görevi
 </Callout>
 
 - **Yürütme süresi**: Agent modunda tek bir görev genellikle 5–20 dakika sürer. K2.6 Agent Swarm [Beta] görevleri daha uzun sürebilir. Sayfadan ayrılabilirsiniz — yalnızca görevi kesmek için Durdur'a basmayın.
-- **Kredi kullanımı**: Agent görevleri ortak havuzdaki kredi'yı tüketir. Kimi Code ayrı bir kredi havuzu kullanır. 
+- **Kredi kullanımı**: Agent görevleri ortak havuzdaki krediyi tüketir. Kimi Code ayrı bir kredi havuzu kullanır. 
 - **Basit görevler**: Basit soru-yanıtlar için daha hızlı yanıt almak adına standart sohbet modu önerilir.
 
 <Callout type="warning">
@@ -91,6 +91,6 @@ Eksiksiz bir proje genellikle üç bölümden oluşur: ön yüz arabirimi, arka 
 
 Agent, **256K karakterlik** (yaklaşık 40.000–50.000 Çince karakter / ~100.000 İngilizce sözcük) bir bağlam uzunluğu kullanır.
 
-**S: Agent kredi'sı nasıl hesaplanır?**
+**S: Agent kredisi nasıl hesaplanır?**
 
-Agent, PPT ve diğer üyelik özellikleri tek bir kredi havuzunu paylaşır. Kimi Code ayrı bir kredi havuzu kullanır. Her Agent görevi genellikle bir kredi birimi olarak sayılır. Mevcut kredi'nızı ve kullanımınızı [Üyelik Credit'leri](https://www.kimi.com/membership-credits) sayfasından görüntüleyin.
+Agent, PPT ve diğer üyelik özellikleri tek bir kredi havuzunu paylaşır. Kimi Code ayrı bir kredi havuzu kullanır. Her Agent görevi genellikle bir kredi birimi olarak sayılır. Mevcut kredinizi ve kullanımınızı [Üyelik Kredileri](https://www.kimi.com/membership-credits) sayfasından görüntüleyin.

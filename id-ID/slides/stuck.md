@@ -51,7 +51,7 @@ Jika mengeklik kartu Slides tidak membuka halaman pengeditan, coba segarkan dan 
 - Jika kartu Slides tetap gagal muncul di berbagai browser dan perangkat, silakan ikuti [Panduan Umpan Balik Bug](#panduan-umpan-balik-bug) di bawah untuk mengirim umpan balik, lalu mulai obrolan baru untuk membuat ulang.
 
 <Callout type="info">
-Jika Anda telah memastikan bahwa masalah ini tetap ada di berbagai perangkat dan browser, silakan kirim email ke [support@moonshot.cn](mailto:support@moonshot.cn) untuk melaporkannya, dengan melampirkan tautan percakapan dan tangkapan layar masalah. Setelah diverifikasi sebagai bug, kami akan memberikan kompensasi berupa credit yang sesuai.
+Jika Anda telah memastikan bahwa masalah ini tetap ada di berbagai perangkat dan browser, silakan kirim email ke [support@moonshot.cn](mailto:support@moonshot.cn) untuk melaporkannya, dengan melampirkan tautan percakapan dan tangkapan layar masalah. Setelah diverifikasi sebagai bug, kami akan memberikan kompensasi berupa kredit yang sesuai.
 </Callout>
 
 ### Pratinjau Slides Kosong atau Tampilannya Rusak

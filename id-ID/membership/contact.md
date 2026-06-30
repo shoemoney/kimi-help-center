@@ -21,7 +21,7 @@ Butuh bantuan? Berikut cara menghubungi kami.
 
 Cocok untuk:
 
-- Credit tidak muncul setelah pembelian
+- Kredit tidak muncul setelah pembelian
 - Masalah pembayaran atau tagihan
 - Peningkatan, penurunan, atau pembatalan paket
 - Permintaan faktur

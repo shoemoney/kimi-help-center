@@ -81,7 +81,7 @@ Chaque utilisateur peut rejoindre jusqu'à 10 organisations d'entreprise. Un mem
 ### Retirer des membres
 
 - Les membres retirés perdent immédiatement l'accès à l'espace de travail de l'entreprise
-- Les membres retirés perdent immédiatement les avantages Kimi Business et ne peuvent plus utiliser le crédits de l'entreprise pour la période en cours
+- Les membres retirés perdent immédiatement les avantages Kimi Business et ne peuvent plus utiliser les crédits de l'entreprise pour la période en cours
 - Les sièges des membres retirés passent au statut « En attente de libération » et sont libérés au cycle de facturation suivant
 
 ## Espace de travail
@@ -106,7 +106,7 @@ Compatibilité des plateformes : le Web prend en charge l'intégralité des fonc
 ### Règles d'activation
 
 - **Activation immédiate** : les membres bénéficient des avantages de la période en cours dès qu'ils acceptent l'invitation
-- **crédits complet de la période en cours** : les membres qui rejoignent l'organisation avec un siège non attribué ou nouvellement ajouté reçoivent l'intégralité du crédits de la période en cours
+- **Crédits complets de la période en cours** : les membres qui rejoignent l'organisation avec un siège non attribué ou nouvellement ajouté reçoivent l'intégralité des crédits de la période en cours
 - **Alignement sur le cycle** : les avantages de l'entreprise sont calculés de manière uniforme selon le cycle d'abonnement et renouvelés chaque mois
 
 ### Règles d'expiration

@@ -18,15 +18,15 @@ preview: false
 Questo può accadere per i seguenti motivi:
 1. Il file caricato o la descrizione della skill è incompleta.
 2. Il formato o il numero dei file non soddisfa i requisiti.
-3. Il sistema ha rilevato che la crediti del tuo account è esaurita.
+3. Il sistema ha rilevato che i crediti del tuo account sono esauriti.
 
-## Come la creazione delle Skills consuma la crediti?
+## Come la creazione delle Skills consuma i crediti?
 
-La creazione di una skill consuma i tuoi **token**, che possono provenire dalle ricerche ricevute in omaggio o dalla crediti del tuo abbonamento ufficiale.
+La creazione di una skill consuma i tuoi **token**, che possono provenire dalle ricerche ricevute in omaggio o dai crediti del tuo abbonamento ufficiale.
 
 **Ordine di addebito**:
 1. Hanno priorità le ricerche ricevute in omaggio.
-2. Se le ricerche in omaggio non sono disponibili, viene utilizzata la crediti dell'abbonamento.
+2. Se le ricerche in omaggio non sono disponibili, vengono utilizzati i crediti dell'abbonamento.
 
 <Callout type="info">
 Se il processo di creazione fallisce, non verrà addebitato alcun token. I token vengono consumati solo a creazione completata con successo.

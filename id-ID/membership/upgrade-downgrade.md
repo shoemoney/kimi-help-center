@@ -21,8 +21,8 @@ Peningkatan dihitung secara proporsional, dan sisa porsi paket Anda saat ini yan
 
 | Item | Deskripsi |
 |------|-------------|
-| **Berlaku** | Peningkatan langsung berlaku, dan alokasi credit baru tersedia seketika |
-| **Credit** | Credit yang sudah terpakai pada paket lama tidak memengaruhi saldo paket baru — Anda menerima alokasi baru |
+| **Berlaku** | Peningkatan langsung berlaku, dan alokasi kredit baru tersedia seketika |
+| **Kredit** | Kredit yang sudah terpakai pada paket lama tidak memengaruhi saldo paket baru — Anda menerima alokasi baru |
 
 ## Ingin meningkatkan/menurunkan paket?
 

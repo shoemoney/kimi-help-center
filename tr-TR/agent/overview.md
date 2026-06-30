@@ -67,7 +67,7 @@ Görevinizi net biçimde anlatın, yürütme sürecini izleyin, ardından sonuç
       type: "document",
     },
     {
-      title: "Kota \u0026 Faturalandırma",
+      title: "Krediler \u0026 Faturalandırma",
       description: "Fiyatlandırma ve üyelik ayrıntıları",
       pageUrl: "/agent/quota-and-billing",
       type: "data",

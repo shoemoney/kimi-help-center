@@ -81,7 +81,7 @@ Tính năng web search của Kimi API truy xuất thông tin công khai trên in
 | **Cách truy cập** | Qua trình duyệt | Gọi API bằng mã chương trình |
 | **Tính phí** | Hệ thống thành viên/tín dụng | Trả theo mức dùng tính theo token |
 | **Tài khoản** | Đăng nhập dùng chung | Đăng nhập dùng chung |
-| **Credit** | Không chuyển đổi được giữa hai hệ thống | Không chuyển đổi được giữa hai hệ thống |
+| **Tín dụng** | Không chuyển đổi được giữa hai hệ thống | Không chuyển đổi được giữa hai hệ thống |
 
 ## Tạo PPT và deep research có khả dụng qua API không?
 

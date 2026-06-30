@@ -4,17 +4,17 @@ slug: "membership-overview"
 order: 1
 extract_headings: true
 preview: true
-preview_content: "Comparez les cinq niveaux d'abonnement de Kimi, le système de credit et les options de facturation."
+preview_content: "Comparez les cinq niveaux d'abonnement de Kimi, le système de crédits et les options de facturation."
 ---
 
 <SeoMeta
   title="Présentation des abonnements Kimi - Centre d'aide Kimi"
-  description="Comparez les cinq niveaux d'abonnement de Kimi, le système de credit et les options de facturation."
+  description="Comparez les cinq niveaux d'abonnement de Kimi, le système de crédits et les options de facturation."
 />
 
 # Présentation des formules d'abonnement
 
-Kimi propose cinq niveaux d'abonnement — dont une formule gratuite — conçus pour évoluer selon vos besoins, de la productivité quotidienne aux usages les plus intensifs. Toutes les formules comprennent **deux pools de credits** : Kimi Code dispose d'un pool de crédits distinct ; les autres fonctionnalités d'abonnement partagent un même pool de crédits.
+Kimi propose cinq niveaux d'abonnement — dont une formule gratuite — conçus pour évoluer selon vos besoins, de la productivité quotidienne aux usages les plus intensifs. Toutes les formules comprennent **deux pools de crédits** : Kimi Code dispose d'un pool de crédits distinct ; les autres fonctionnalités d'abonnement partagent un même pool de crédits.
 
 ## Comparatif des formules
 
@@ -30,17 +30,17 @@ Kimi propose cinq niveaux d'abonnement — dont une formule gratuite — conçus
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
 | Base de données professionnelle | 200 appels | 2 000 appels | 5 000 appels | 12 000 appels | 24 000 appels |
 
-\* Valeurs approximatives basées sur la consommation de tokens d'une tâche type. Les credits mensuels sont convertis en nombre équivalent de tâches pour une même fonctionnalité ; à titre indicatif uniquement.
+\* Valeurs approximatives basées sur la consommation de tokens d'une tâche type. Les crédits mensuels sont convertis en nombre équivalent de tâches pour une même fonctionnalité ; à titre indicatif uniquement.
 
 <Callout type="tip">
-Utilisez l'intégralité de votre plafond de credits pour une même fonction
+Utilisez l'intégralité de votre plafond de crédits pour une même fonction
 </Callout>
 
 ## Fonctionnement de la facturation
 
-- **Deux pools de credits** — Kimi Code dispose d'un pool de crédits distinct ; les autres fonctionnalités d'abonnement partagent un même pool de crédits, décompté selon l'usage de tokens.
-- **Renouvellement mensuel** — Les credits sont réinitialisés au début de chaque cycle de facturation.
-- **Ordre de priorité** — Les credits bonus sont consommés en premier, puis les credits de la formule.
+- **Deux pools de crédits** — Kimi Code dispose d'un pool de crédits distinct ; les autres fonctionnalités d'abonnement partagent un même pool de crédits, décompté selon l'usage de tokens.
+- **Renouvellement mensuel** — Les crédits sont réinitialisés au début de chaque cycle de facturation.
+- **Ordre de priorité** — Les crédits bonus sont consommés en premier, puis les crédits de la formule.
 
 ## Économisez avec la facturation annuelle
 
@@ -49,8 +49,8 @@ Passez à la facturation annuelle et économisez jusqu'à **480 $/an**. Consulte
 <ColumnsContent
   columns={[
     {
-      title: "Règles des credits",
-      description: "Fonctionnement et renouvellement des credits",
+      title: "Règles des crédits",
+      description: "Fonctionnement et renouvellement des crédits",
       pageUrl: "/membership/update-rules",
       type: "document",
     },

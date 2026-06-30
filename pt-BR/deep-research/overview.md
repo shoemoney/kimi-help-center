@@ -111,7 +111,7 @@ O Deep Research costuma levar de 10 a 25 minutos. O sistema roda em segundo plan
 
 ## Observações importantes
 1. **Tempo de execução**: de 10 a 25 minutos. A tarefa roda de forma assíncrona — você será notificado ao final
-2. **Reembolso de credit**: reembolsado automaticamente em caso de erros de acionamento de ferramentas; envie feedback caso a pesquisa fuja do rumo
+2. **Reembolso de créditos**: reembolsado automaticamente em caso de erros de acionamento de ferramentas; envie feedback caso a pesquisa fuja do rumo
 3. **Qualidade da entrada**: perguntas concisas e bem definidas produzem melhores resultados
 4. **Limites de escopo**: para perguntas e respostas simples, use o modo de chat padrão para respostas mais rápidas
 5. **Termos**: sujeito ao [Kimi User Service Agreement](https://www.kimi.com/user/agreement/modelUse?version=v2)

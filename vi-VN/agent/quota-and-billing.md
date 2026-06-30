@@ -21,7 +21,7 @@ Chế độ Agent sử dụng hệ thống tín dụng của Kimi. Mọi quyền
 - **Hai nhóm tín dụng**: Mọi quyền lợi thành viên đều bao gồm hai nhóm tín dụng. Kimi Code dùng nhóm tín dụng riêng; các tính năng thành viên khác chia sẻ chung một nhóm tín dụng — bạn tùy ý phân bổ mức sử dụng
 - **Trả theo mức dùng**: Lượng tín dụng tiêu thụ phụ thuộc vào độ phức tạp và thời lượng của tác vụ (tức là lượng token sử dụng) — tác vụ đơn giản tốn ít hơn, tác vụ phức tạp tốn nhiều hơn
 - **Làm mới hằng tháng**: tín dụng được đặt lại mỗi tháng, theo chu kỳ đăng ký của bạn
-- **Thứ tự ưu tiên sử dụng**: tín dụng thưởng (ví dụ: credit dùng thử, phần thưởng khuyến mãi) được dùng trước, sau đó mới đến tín dụng của gói
+- **Thứ tự ưu tiên sử dụng**: tín dụng thưởng (ví dụ: tín dụng dùng thử, phần thưởng khuyến mãi) được dùng trước, sau đó mới đến tín dụng của gói
 
 <Callout type="tip">
 **Ví dụ**: Với gói Moderato, tạo một bản PPT đơn giản có thể tiêu tốn khoảng 1–2% tín dụng, trong khi một phiên Deep Research có thể dùng khoảng 5–10%.

@@ -51,7 +51,7 @@ Si al hacer clic en la tarjeta de Slides no se abre la página de edición, inte
 - Si la tarjeta de Slides sigue sin aparecer en varios navegadores y dispositivos, sigue las [Pautas para reportar errores](#pautas-para-reportar-errores) a continuación para enviar tus comentarios, e inicia un nuevo chat para regenerarla.
 
 <Callout type="info">
-Si confirmaste que el problema persiste en varios dispositivos y navegadores, envía un correo electrónico a [support@moonshot.cn](mailto:support@moonshot.cn) para reportarlo, adjuntando el enlace de la conversación y una captura de pantalla del problema. Una vez verificado como un error, te compensaremos con los credits correspondientes.
+Si confirmaste que el problema persiste en varios dispositivos y navegadores, envía un correo electrónico a [support@moonshot.cn](mailto:support@moonshot.cn) para reportarlo, adjuntando el enlace de la conversación y una captura de pantalla del problema. Una vez verificado como un error, te compensaremos con los créditos correspondientes.
 </Callout>
 
 ### La vista previa de Slides aparece en blanco o el estilo está dañado

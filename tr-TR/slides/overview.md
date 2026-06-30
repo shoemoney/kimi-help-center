@@ -40,7 +40,7 @@ Kimi Slides; PDF, Word, PPTX, Excel, TXT ve görseller dahil olmak üzere çok b
 - Oluşturma sonrasında çevrimiçi olarak önizleyip düzenlemek için tıklayabilir, elle ince ayar yapmakta tamamen özgür olursunuz.
 3. Kullanıma Hazır, Ücretsiz Deneme
 - Oluşturulan dosyayı düzenlenebilir bir PPTX olarak indirebilir ya da çevrimiçi önizleyip sunabilirsiniz.
-- Aylık ücretsiz bir credit kredi'sı, herhangi bir ödeme yapmadan tüm özellik setini deneyimlemenizi sağlar.
+- Aylık ücretsiz bir kredi, herhangi bir ödeme yapmadan tüm özellik setini deneyimlemenizi sağlar.
 4. Seçim için Birden Çok Mod
 - Uyarlanabilir: derin araştırma, yapılandırılmış sunum
 - Görsel: nano banana pro destekli

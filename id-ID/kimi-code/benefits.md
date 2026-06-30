@@ -20,18 +20,18 @@ Kimi Code adalah layanan yang termasuk dalam paket keanggotaan Kimi, menyediakan
 ## Penagihan
 
 - Penggunaan Kimi Code **sudah termasuk dalam biaya langganan Anda** — tanpa biaya tambahan.
-- Setiap permintaan menggunakan credit dari **kumpulan kredit eksklusif Kimi Code** Anda; setiap paket menyediakan jumlah credit yang berbeda.
-- Sistem memprioritaskan penggunaan credit bonus sebelum credit dari paket.
+- Setiap permintaan menggunakan kredit dari **kumpulan kredit eksklusif Kimi Code** Anda; setiap paket menyediakan jumlah kredit yang berbeda.
+- Sistem memprioritaskan penggunaan kredit bonus sebelum kredit dari paket.
 
-## Pembaruan credit
+## Pembaruan kredit
 
-Credit diperbarui dalam siklus **7 hari**:
+Kredit diperbarui dalam siklus **7 hari**:
 
-- Mulai dari tanggal langganan Anda (D1), credit diperbarui setiap 7 hari.
+- Mulai dari tanggal langganan Anda (D1), kredit diperbarui setiap 7 hari.
 - Periode pembaruan: D1–D7, D8–D14, D15–D21, D22–D28.
-- Credit yang tidak terpakai **tidak** dialihkan ke siklus berikutnya.
+- Kredit yang tidak terpakai **tidak** dialihkan ke siklus berikutnya.
 
-> Rencanakan penggunaan mingguan Anda untuk memanfaatkan credit secara maksimal.
+> Rencanakan penggunaan mingguan Anda untuk memanfaatkan kredit secara maksimal.
 
 ## Tool yang didukung
 

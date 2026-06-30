@@ -33,7 +33,7 @@ Bạn chưa có OpenClaw? Hãy truy cập [kimi.com/bot](https://kimi.com/bot) �
 
 </Callout>
 
-- Kimi tự động cung cấp mô hình K2.6 Thinking, kết nối credit Kimi Code của bạn và bật Kimi Web Search — không cần cấu hình API riêng.
+- Kimi tự động cung cấp mô hình K2.6 Thinking, kết nối tín dụng Kimi Code của bạn và bật Kimi Web Search — không cần cấu hình API riêng.
 - Kimi Claw có thể được triển khai trực tiếp lên Telegram và các nền tảng trò chuyện khác.
 
 ## Bắt đầu

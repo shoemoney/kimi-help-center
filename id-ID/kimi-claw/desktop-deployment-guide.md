@@ -24,7 +24,7 @@ Belum punya OpenClaw lokal? Buka halaman Kimi Claw di aplikasi desktop Kimi untu
 Penerapan satu klik akan menangani semua hal berikut untuk Anda:
 
 - **Penerapan otomatis** — Kimi menerapkan OpenClaw di perangkat Anda secara otomatis. Jika Anda sudah memiliki OpenClaw lain yang terpasang secara lokal, Kimi dapat menyalin persona, memori, dan skill-nya dengan izin Anda — sehingga migrasi berjalan mulus.
-- **Konfigurasi model otomatis** — Kimi mengonfigurasi model Kimi terlebih dahulu, menautkan credit keanggotaan Kimi Code Anda, dan menyiapkan Kimi Web Search untuk akses internet. Tidak perlu pengaturan API.
+- **Konfigurasi model otomatis** — Kimi mengonfigurasi model Kimi terlebih dahulu, menautkan kredit keanggotaan Kimi Code Anda, dan menyiapkan Kimi Web Search untuk akses internet. Tidak perlu pengaturan API.
 - **Syarat keanggotaan** — Penerapan satu klik membutuhkan paket Allegretto atau yang lebih tinggi.
 - **Batas instance** — Setiap akun mendukung maksimal 1 Kimi Claw Desktop dalam satu waktu. Jika Anda berganti perangkat dan menerapkannya di perangkat baru, Anda akan diminta untuk memutus tautan instance sebelumnya terlebih dahulu.
 

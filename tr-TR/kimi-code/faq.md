@@ -88,7 +88,7 @@ Geçersiz bir API anahtarının olası nedenleri:
 
 ### Üyelik süresi dolmuş veya kredi tükenmiş
 
-Kimi Code platformunu kullanıyorsanız, `/usage` komutuyla mevcut kredi'nızı ve üyelik durumunuzu kontrol edebilirsiniz. kredi'nız tükendiyse veya üyeliğinizin süresi dolduysa, [Kimi Code](https://kimi.com/code) üzerinden yenilemeniz veya yükseltmeniz gerekir.
+Kimi Code platformunu kullanıyorsanız, `/usage` komutuyla mevcut kredinizi ve üyelik durumunuzu kontrol edebilirsiniz. Krediniz tükendiyse veya üyeliğinizin süresi dolduysa, [Kimi Code](https://kimi.com/code) üzerinden yenilemeniz veya yükseltmeniz gerekir.
 
 ## Abonelik
 

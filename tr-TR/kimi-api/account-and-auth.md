@@ -34,7 +34,7 @@ Mevcut bakiye ve kullanım verileri yükseltmeden sonra korunur.
 | Boyut | Bireysel | Kurumsal |
 | --- | --- | --- |
 | Fatura Türü | Bireysel fatura | Kurumsal / KDV faturası |
-| Hız Sınırları | Standart | Daha yüksek kredi'ya uygun |
+| Hız Sınırları | Standart | Daha yüksek kotalara uygun |
 | Kurumsal Sözleşmeler | — | Sözleşme imzalama imkânı |
 | Hacim İndirimleri | — | Talep üzerine mevcut |
 | Teknik Destek | Standart | Öncelikli destek |

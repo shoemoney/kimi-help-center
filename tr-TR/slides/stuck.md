@@ -51,7 +51,7 @@ Slides kartına tıkladığınızda düzenleme sayfası açılmıyorsa sayfayı 
 - Slides kartı birden fazla tarayıcı ve cihazda hâlâ görünmüyorsa, lütfen aşağıdaki [Hata Bildirim Kılavuzu](#hata-bildirim-kılavuzu) doğrultusunda geri bildirim gönderin ve yeniden oluşturmak için yeni bir sohbet başlatın.
 
 <Callout type="info">
-Sorunun birden fazla cihaz ve tarayıcıda devam ettiğini doğruladıysanız, lütfen konuşma bağlantısını ve soruna ait bir ekran görüntüsünü ekleyerek bildirmek için [support@moonshot.cn](mailto:support@moonshot.cn) adresine bir e-posta gönderin. Bunun bir hata olduğu doğrulandığında size ilgili credit'leri telafi olarak vereceğiz.
+Sorunun birden fazla cihaz ve tarayıcıda devam ettiğini doğruladıysanız, lütfen konuşma bağlantısını ve soruna ait bir ekran görüntüsünü ekleyerek bildirmek için [support@moonshot.cn](mailto:support@moonshot.cn) adresine bir e-posta gönderin. Bunun bir hata olduğu doğrulandığında size ilgili kredileri telafi olarak vereceğiz.
 </Callout>
 
 ### Slides Önizlemesi Boş Görünüyor veya Stiller Bozuk

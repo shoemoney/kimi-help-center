@@ -81,7 +81,7 @@ Fitur web search Kimi API mengambil informasi yang tersedia secara publik dari i
 | **Akses** | Berbasis browser | Panggilan API secara programatik |
 | **Penagihan** | Sistem keanggotaan/kredit | Bayar sesuai pemakaian berdasarkan token |
 | **Akun** | Login bersama | Login bersama |
-| **Credit** | Tidak dapat dipindahkan antarsistem | Tidak dapat dipindahkan antarsistem |
+| **Kredit** | Tidak dapat dipindahkan antarsistem | Tidak dapat dipindahkan antarsistem |
 
 ## Apakah pembuatan PPT dan deep research tersedia melalui API?
 

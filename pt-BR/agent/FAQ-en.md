@@ -18,15 +18,15 @@ preview: false
 Isso pode acontecer pelos seguintes motivos:
 1. O arquivo enviado ou a descrição da skill está incompleto.
 2. O formato ou a quantidade de arquivos não atende aos requisitos.
-3. O sistema detectou que a créditos da sua conta foi esgotada.
+3. O sistema detectou que os créditos da sua conta foram esgotados.
 
 ## Como a criação de Skills consome créditos?
 
-Criar uma skill consome seus **tokens**, que podem vir das buscas que você ganhou ou da créditos da sua assinatura oficial.
+Criar uma skill consome seus **tokens**, que podem vir das buscas que você ganhou ou dos créditos da sua assinatura oficial.
 
 **Ordem de dedução**:
 1. As buscas presenteadas têm prioridade.
-2. Se não houver buscas presenteadas disponíveis, a créditos da assinatura é utilizada.
+2. Se não houver buscas presenteadas disponíveis, os créditos da assinatura são utilizados.
 
 <Callout type="info">
 Se o processo de criação falhar, nenhum token será descontado. Os tokens só são consumidos quando a criação é concluída com sucesso.

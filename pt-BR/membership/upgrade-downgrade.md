@@ -21,8 +21,8 @@ Os upgrades são calculados proporcionalmente, e qualquer parte não utilizada d
 
 | Item | Descrição |
 |------|-------------|
-| **Vigência** | O upgrade entra em vigor imediatamente, com a nova cota de credits disponível na hora |
-| **Credits** | Os credits já usados no plano antigo não afetam o saldo do novo plano — você recebe uma alocação totalmente nova |
+| **Vigência** | O upgrade entra em vigor imediatamente, com a nova cota de créditos disponível na hora |
+| **Créditos** | Os créditos já usados no plano antigo não afetam o saldo do novo plano — você recebe uma alocação totalmente nova |
 
 ## Quer fazer upgrade ou downgrade?
 

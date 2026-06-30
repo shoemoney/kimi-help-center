@@ -24,7 +24,7 @@ Kimi API kullanan geliştiriciler için sık karşılaşılan sorunlar ve çöz�
 - Üstel geri çekilme (exponential backoff) yeniden deneme stratejisi uygulayın (yeniden denemeden önce 1 sn, 2 sn, 4 sn… bekleyin).
 - Bir kuyruk mekanizması kullanarak eşzamanlı istek sayısını denetleyin.
 - Rate limit kademenizi yükseltmek için toplam yükleme tutarınızı artırın.
-- Daha yüksek bir kredi gerekiyorsa satış ekibiyle iletişime geçin.
+- Daha yüksek bir kota gerekiyorsa satış ekibiyle iletişime geçin.
 
 ## 401 kimlik doğrulama hatası nasıl giderilir?
 

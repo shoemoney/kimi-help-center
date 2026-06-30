@@ -21,8 +21,8 @@ Khi nâng cấp, chi phí sẽ được tính theo tỷ lệ và phần chưa s�
 
 | Mục | Mô tả |
 |------|-------------|
-| **Hiệu lực** | Việc nâng cấp có hiệu lực ngay lập tức, hạn mức credit mới sẵn sàng dùng ngay |
-| **Credit** | Số credit đã dùng trong gói cũ không ảnh hưởng đến số dư của gói mới — bạn sẽ nhận được hạn mức hoàn toàn mới |
+| **Hiệu lực** | Việc nâng cấp có hiệu lực ngay lập tức, hạn mức tín dụng mới sẵn sàng dùng ngay |
+| **Tín dụng** | Số tín dụng đã dùng trong gói cũ không ảnh hưởng đến số dư của gói mới — bạn sẽ nhận được hạn mức hoàn toàn mới |
 
 ## Muốn nâng cấp/hạ cấp?
 

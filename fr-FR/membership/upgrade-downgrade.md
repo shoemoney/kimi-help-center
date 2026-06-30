@@ -21,8 +21,8 @@ Les passages à une offre supérieure sont calculés au prorata, et toute portio
 
 | Élément | Description |
 |------|-------------|
-| **Prise d'effet** | Le passage à l'offre supérieure prend effet immédiatement, et votre nouvelle dotation en credit est disponible sans délai |
-| **Credits** | Les credits déjà consommés sous l'ancienne offre n'affectent pas le solde de la nouvelle offre — vous bénéficiez d'une dotation entièrement nouvelle |
+| **Prise d'effet** | Le passage à l'offre supérieure prend effet immédiatement, et votre nouvelle dotation en crédits est disponible sans délai |
+| **Crédits** | Les crédits déjà consommés sous l'ancienne offre n'affectent pas le solde de la nouvelle offre — vous bénéficiez d'une dotation entièrement nouvelle |
 
 ## Vous souhaitez changer d'offre ?
 

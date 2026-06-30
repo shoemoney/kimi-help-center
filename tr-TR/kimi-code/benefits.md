@@ -20,18 +20,18 @@ Kimi Code, Kimi üyelik planına dahil olan ve üyelerin kişisel geliştirme i�
 ## Faturalandırma
 
 - Kimi Code kullanımı **abonelik ücretinize dahildir** — ek ücret alınmaz.
-- Her istek, **Kimi Code'a özel kredi havuzunuzdan** credit tüketir; farklı planlar farklı miktarda credit içerir.
-- Sistem, plan creditlerini tüketmeden önce bonus creditleri önceliklendirir.
+- Her istek, **Kimi Code'a özel kredi havuzunuzdan** kredi tüketir; farklı planlar farklı miktarda kredi içerir.
+- Sistem, plan kredilerini tüketmeden önce bonus kredileri önceliklendirir.
 
-## Credit yenileme
+## Kredi yenileme
 
-Creditler **7 günlük** bir döngüde yenilenir:
+Krediler **7 günlük** bir döngüde yenilenir:
 
-- Abonelik tarihinizden (D1) itibaren creditler her 7 günde bir yenilenir.
+- Abonelik tarihinizden (D1) itibaren krediler her 7 günde bir yenilenir.
 - Yenileme dönemleri: D1–D7, D8–D14, D15–D21, D22–D28.
-- Kullanılmayan creditler bir sonraki döngüye **devredilmez**.
+- Kullanılmayan krediler bir sonraki döngüye **devredilmez**.
 
-> Creditlerinizden en iyi şekilde yararlanmak için haftalık kullanımınızı planlayın.
+> Kredilerinizden en iyi şekilde yararlanmak için haftalık kullanımınızı planlayın.
 
 ## Desteklenen araçlar
 

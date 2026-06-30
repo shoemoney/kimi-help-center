@@ -111,7 +111,7 @@ Deep Research prend généralement de 10 à 25 minutes. Le système fonctionne e
 
 ## Points importants
 1. **Durée d'exécution** : de 10 à 25 minutes. La tâche s'exécute de manière asynchrone : vous serez averti une fois terminée
-2. **Remboursement des credits** : remboursement automatique en cas d'erreur d'appel d'outil ; signalez tout problème d'orientation de la recherche
+2. **Remboursement des crédits** : remboursement automatique en cas d'erreur d'appel d'outil ; signalez tout problème d'orientation de la recherche
 3. **Qualité de la saisie** : des questions concises et bien définies donnent de meilleurs résultats
 4. **Limites du périmètre** : pour des questions-réponses simples, utilisez le mode de discussion standard pour des réponses plus rapides
 5. **Conditions** : soumis au [Kimi User Service Agreement](https://www.kimi.com/user/agreement/modelUse?version=v2)

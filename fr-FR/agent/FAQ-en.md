@@ -18,15 +18,15 @@ preview: false
 Cela peut se produire pour les raisons suivantes :
 1. Le fichier téléversé ou la description de la compétence est incomplet.
 2. Le format ou le nombre de fichiers ne respecte pas les exigences.
-3. Le système a détecté que le crédits de votre compte est épuisé.
+3. Le système a détecté que les crédits de votre compte sont épuisés.
 
-## Comment la création de compétences consomme-t-elle le crédits ?
+## Comment la création de compétences consomme-t-elle les crédits ?
 
-La création d'une compétence consomme vos **tokens**, qui peuvent provenir de vos recherches offertes ou de votre crédits d'abonnement officiel.
+La création d'une compétence consomme vos **tokens**, qui peuvent provenir de vos recherches offertes ou de vos crédits d'abonnement officiels.
 
 **Ordre de déduction** :
 1. Les recherches offertes sont utilisées en priorité.
-2. Si aucune recherche offerte n'est disponible, le crédits d'abonnement est utilisé.
+2. Si aucune recherche offerte n'est disponible, les crédits d'abonnement sont utilisés.
 
 <Callout type="info">
 En cas d'échec de la création, aucun token n'est déduit. Les tokens ne sont consommés qu'en cas de création réussie.

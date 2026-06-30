@@ -4,17 +4,17 @@ slug: "membership-overview"
 order: 1
 extract_headings: true
 preview: true
-preview_content: "Kimi'nin beş üyelik kademesini, credit sistemini ve faturalandırma seçeneklerini karşılaştırın."
+preview_content: "Kimi'nin beş üyelik kademesini, kredi sistemini ve faturalandırma seçeneklerini karşılaştırın."
 ---
 
 <SeoMeta
   title="Kimi üyeliğine genel bakış - Kimi Yardım Merkezi"
-  description="Kimi'nin beş üyelik kademesini, credit sistemini ve faturalandırma seçeneklerini karşılaştırın."
+  description="Kimi'nin beş üyelik kademesini, kredi sistemini ve faturalandırma seçeneklerini karşılaştırın."
 />
 
 # Üyelik planlarına genel bakış
 
-Kimi, günlük üretkenlikten ileri düzey kullanıcı iş akışlarına kadar ihtiyaçlarınızla birlikte ölçeklenecek şekilde tasarlanmış, biri ücretsiz olmak üzere beş üyelik kademesi sunar. Tüm planlar **iki credit havuzu** içerir: Kimi Code ayrı bir kredi havuzu kullanır; diğer üyelik özellikleri ortak bir kredi havuzunu paylaşır.
+Kimi, günlük üretkenlikten ileri düzey kullanıcı iş akışlarına kadar ihtiyaçlarınızla birlikte ölçeklenecek şekilde tasarlanmış, biri ücretsiz olmak üzere beş üyelik kademesi sunar. Tüm planlar **iki kredi havuzu** içerir: Kimi Code ayrı bir kredi havuzu kullanır; diğer üyelik özellikleri ortak bir kredi havuzunu paylaşır.
 
 ## Plan karşılaştırması
 
@@ -30,17 +30,17 @@ Kimi, günlük üretkenlikten ileri düzey kullanıcı iş akışlarına kadar i
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
 | Profesyonel veritabanı | 200 çağrı | 2.000 çağrı | 5.000 çağrı | 12.000 çağrı | 24.000 çağrı |
 
-\* Tipik görev token tüketimine dayalı yaklaşık değerlerdir. Aylık credit'ler aynı özellik için eşdeğer görev sayısına dönüştürülmüştür; yalnızca referans amaçlıdır.
+\* Tipik görev token tüketimine dayalı yaklaşık değerlerdir. Aylık krediler aynı özellik için eşdeğer görev sayısına dönüştürülmüştür; yalnızca referans amaçlıdır.
 
 <Callout type="tip">
-Tüm credit limitini aynı işlev için kullanın
+Tüm kredi limitini aynı işlev için kullanın
 </Callout>
 
 ## Faturalandırma nasıl işler
 
-- **İki credit havuzu** — Kimi Code ayrı bir kredi havuzu kullanır; diğer üyelik özellikleri token kullanımına göre ölçülen ortak bir kredi havuzunu paylaşır.
-- **Aylık yenileme** — Credit'ler her faturalandırma döneminin başında sıfırlanır.
-- **Öncelik sırası** — Önce bonus credit'ler, ardından plan credit'leri kullanılır.
+- **İki kredi havuzu** — Kimi Code ayrı bir kredi havuzu kullanır; diğer üyelik özellikleri token kullanımına göre ölçülen ortak bir kredi havuzunu paylaşır.
+- **Aylık yenileme** — Krediler her faturalandırma döneminin başında sıfırlanır.
+- **Öncelik sırası** — Önce bonus krediler, ardından plan kredileri kullanılır.
 
 ## Yıllık faturalandırmayla tasarruf edin
 
@@ -49,8 +49,8 @@ Yıllık faturalandırmaya geçin ve yılda **$480'e** varan tasarruf sağlayın
 <ColumnsContent
   columns={[
     {
-      title: "Credit Kuralları",
-      description: "Credit'lerin nasıl işlediği ve yenilendiği",
+      title: "Kredi Kuralları",
+      description: "Kredilerin nasıl işlediği ve yenilendiği",
       pageUrl: "/membership/update-rules",
       type: "document",
     },

@@ -29,7 +29,7 @@ Kimi, biri ücretsiz olmak üzere beş üyelik kademesi sunar; her biri aylık v
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
 | Profesyonel veritabanı | 200 çağrı | 2.000 çağrı | 5.000 çağrı | 12.000 çağrı | 24.000 çağrı |
 
-\* Tipik görev token tüketimine dayalı yaklaşık değerlerdir. Aylık credit'ler, aynı özellik için eşdeğer görev sayısına dönüştürülmüştür; yalnızca referans amaçlıdır.
+\* Tipik görev token tüketimine dayalı yaklaşık değerlerdir. Aylık krediler, aynı özellik için eşdeğer görev sayısına dönüştürülmüştür; yalnızca referans amaçlıdır.
 
 ## Aylık ve yıllık fiyatlandırma
 
@@ -40,6 +40,6 @@ Kimi, biri ücretsiz olmak üzere beş üyelik kademesi sunar; her biri aylık v
 | Allegro | 99 $/ay | 79 $/ay | 948 $/yıl | 240 $/yıl |
 | Vivace | 199 $/ay | 159 $/ay | 1.908 $/yıl | 480 $/yıl |
 
-## Credit dağılımı
+## Kredi dağılımı
 
-Tüm planlar iki credit havuzu içerir: Kimi Code ayrı bir kredi havuzu kullanır; diğer üyelik özellikleri tek bir kredi havuzunu paylaşır. Daha yüksek kademeler orantılı olarak daha büyük bir credit havuzu içererek daha sık ve karmaşık iş akışlarını destekler. Ayrıntılar için [Credit Güncellemesi ve Kullanım Kuralları](/membership/update-rules) sayfasına bakın.
+Tüm planlar iki kredi havuzu içerir: Kimi Code ayrı bir kredi havuzu kullanır; diğer üyelik özellikleri tek bir kredi havuzunu paylaşır. Daha yüksek kademeler orantılı olarak daha büyük bir kredi havuzu içererek daha sık ve karmaşık iş akışlarını destekler. Ayrıntılar için [Kredi Güncellemesi ve Kullanım Kuralları](/membership/update-rules) sayfasına bakın.

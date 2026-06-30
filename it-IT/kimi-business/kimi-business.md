@@ -56,7 +56,7 @@ Le postazioni aggiuntive acquistate durante il periodo di abbonamento vengono ca
 | Ruolo | Autorizzazioni |
 |------|-------------|
 | Amministratore | Acquistare postazioni, generare link di invito, gestire i membri, consultare gli ordini |
-| Membro | Usare i vantaggi aziendali, consultare la propria crediti personale |
+| Membro | Usare i vantaggi aziendali, consultare i propri crediti personali |
 
 Il ruolo di amministratore viene assegnato automaticamente all'account che acquista per primo l'abbonamento aziendale.
 
@@ -81,7 +81,7 @@ Ogni utente può entrare a far parte di un massimo di 10 organizzazioni aziendal
 ### Rimuovere i membri
 
 - I membri rimossi perdono immediatamente l'accesso al workspace aziendale
-- I membri rimossi perdono immediatamente i vantaggi di Kimi Business e non possono più utilizzare la crediti aziendale del periodo corrente
+- I membri rimossi perdono immediatamente i vantaggi di Kimi Business e non possono più utilizzare i crediti aziendali del periodo corrente
 - Le postazioni dei membri rimossi passano allo stato "In attesa di rilascio" e vengono rilasciate nel ciclo di fatturazione successivo
 
 ## Workspace
@@ -106,7 +106,7 @@ Supporto delle piattaforme: il Web supporta integralmente le funzionalità di Ki
 ### Regole di attivazione
 
 - **Attivazione immediata**: i membri ricevono i vantaggi del periodo corrente non appena accettano l'invito
-- **crediti completa per il periodo corrente**: i membri che entrano con una postazione non assegnata o aggiunta di recente ricevono la crediti completa per il periodo corrente
+- **crediti completi per il periodo corrente**: i membri che entrano con una postazione non assegnata o aggiunta di recente ricevono tutti i crediti del periodo corrente
 - **Allineamento dei cicli**: i vantaggi aziendali vengono regolati in modo uniforme in base al ciclo di abbonamento e rinnovati ogni mese
 
 ### Regole di scadenza

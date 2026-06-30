@@ -24,7 +24,7 @@ Nếu bạn chưa có OpenClaw cục bộ, hãy truy cập trang Kimi Claw trong
 Việc triển khai chỉ với một cú nhấp chuột sẽ tự động lo liệu mọi thứ sau đây cho bạn:
 
 - **Triển khai tự động** — Kimi tự động triển khai OpenClaw trên máy của bạn. Nếu bạn đã cài đặt một OpenClaw khác trên máy, Kimi có thể sao chép cá tính, trí nhớ và kỹ năng của nó khi được bạn cho phép — giúp việc chuyển đổi diễn ra liền mạch.
-- **Cấu hình mô hình tự động** — Kimi cấu hình sẵn mô hình Kimi, liên kết credit thành viên Kimi Code của bạn và thiết lập Kimi Web Search để truy cập internet. Không cần thiết lập API.
+- **Cấu hình mô hình tự động** — Kimi cấu hình sẵn mô hình Kimi, liên kết tín dụng thành viên Kimi Code của bạn và thiết lập Kimi Web Search để truy cập internet. Không cần thiết lập API.
 - **Yêu cầu thành viên** — Việc triển khai một cú nhấp chuột yêu cầu gói Allegretto trở lên.
 - **Giới hạn phiên bản** — Mỗi tài khoản chỉ hỗ trợ tối đa 1 Kimi Claw Desktop tại một thời điểm. Nếu bạn đổi máy và triển khai trên máy mới, bạn sẽ được nhắc hủy liên kết phiên bản trước đó.
 

@@ -4,17 +4,17 @@ slug: "membership-overview"
 order: 1
 extract_headings: true
 preview: true
-preview_content: "Confronta i cinque livelli di abbonamento di Kimi, il sistema di credit e le opzioni di fatturazione."
+preview_content: "Confronta i cinque livelli di abbonamento di Kimi, il sistema di crediti e le opzioni di fatturazione."
 ---
 
 <SeoMeta
   title="Panoramica degli abbonamenti Kimi - Centro assistenza Kimi"
-  description="Confronta i cinque livelli di abbonamento di Kimi, il sistema di credit e le opzioni di fatturazione."
+  description="Confronta i cinque livelli di abbonamento di Kimi, il sistema di crediti e le opzioni di fatturazione."
 />
 
 # Panoramica dei piani di abbonamento
 
-Kimi propone cinque livelli di abbonamento — incluso un piano gratuito — pensati per crescere insieme alle tue esigenze, dalla produttività quotidiana ai flussi di lavoro più avanzati. Tutti i piani includono **due pool di credit**: Kimi Code utilizza un pool di crediti separato; le altre funzionalità dell'abbonamento condividono un unico pool di crediti.
+Kimi propone cinque livelli di abbonamento — incluso un piano gratuito — pensati per crescere insieme alle tue esigenze, dalla produttività quotidiana ai flussi di lavoro più avanzati. Tutti i piani includono **due pool di crediti**: Kimi Code utilizza un pool di crediti separato; le altre funzionalità dell'abbonamento condividono un unico pool di crediti.
 
 ## Confronto tra i piani
 
@@ -30,17 +30,17 @@ Kimi propone cinque livelli di abbonamento — incluso un piano gratuito — pen
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
 | Database professionale | 200 chiamate | 2.000 chiamate | 5.000 chiamate | 12.000 chiamate | 24.000 chiamate |
 
-\* Valori approssimativi basati sul consumo di token tipico di un'attività. I credit mensili sono convertiti nel numero equivalente di attività per la stessa funzionalità; solo a titolo di riferimento.
+\* Valori approssimativi basati sul consumo di token tipico di un'attività. I crediti mensili sono convertiti nel numero equivalente di attività per la stessa funzionalità; solo a titolo di riferimento.
 
 <Callout type="tip">
-Utilizza tutto il limite di credit per la stessa funzionalità
+Utilizza tutto il limite di crediti per la stessa funzionalità
 </Callout>
 
 ## Come funziona la fatturazione
 
-- **Due pool di credit** — Kimi Code utilizza un pool di crediti separato; le altre funzionalità dell'abbonamento condividono un unico pool di crediti, conteggiato in base all'utilizzo dei token.
-- **Rinnovo mensile** — I credit si azzerano all'inizio di ogni ciclo di fatturazione.
-- **Ordine di priorità** — Vengono consumati prima i credit bonus, poi quelli del piano.
+- **Due pool di crediti** — Kimi Code utilizza un pool di crediti separato; le altre funzionalità dell'abbonamento condividono un unico pool di crediti, conteggiato in base all'utilizzo dei token.
+- **Rinnovo mensile** — I crediti si azzerano all'inizio di ogni ciclo di fatturazione.
+- **Ordine di priorità** — Vengono consumati prima i crediti bonus, poi quelli del piano.
 
 ## Risparmia con la fatturazione annuale
 
@@ -49,8 +49,8 @@ Passa alla fatturazione annuale e risparmia fino a **480 $/anno**. Consulta i [D
 <ColumnsContent
   columns={[
     {
-      title: "Regole sui credit",
-      description: "Come funzionano e si rinnovano i credit",
+      title: "Regole sui crediti",
+      description: "Come funzionano e si rinnovano i crediti",
       pageUrl: "/membership/update-rules",
       type: "document",
     },

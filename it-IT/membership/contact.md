@@ -21,7 +21,7 @@ Hai bisogno di aiuto? Ecco come raggiungerci.
 
 Ideale per:
 
-- Credit non visualizzati dopo l'acquisto
+- Crediti non visualizzati dopo l'acquisto
 - Problemi di pagamento o addebito
 - Passaggi a piani superiori o inferiori e cancellazioni
 - Richieste di fattura

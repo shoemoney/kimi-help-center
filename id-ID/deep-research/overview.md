@@ -111,7 +111,7 @@ Deep Research umumnya membutuhkan waktu 10–25 menit. Sistem berjalan di latar 
 
 ## Catatan penting
 1. **Waktu eksekusi**: 10–25 menit. Tugas berjalan secara asinkron — Anda akan diberi tahu setelah selesai
-2. **Pengembalian credit**: Dikembalikan secara otomatis untuk kesalahan pemanggilan alat; kirimkan umpan balik untuk riset yang melenceng dari arah
+2. **Pengembalian kredit**: Dikembalikan secara otomatis untuk kesalahan pemanggilan alat; kirimkan umpan balik untuk riset yang melenceng dari arah
 3. **Kualitas masukan**: Pertanyaan yang ringkas dan jelas menghasilkan hasil yang lebih baik
 4. **Batasan cakupan**: Untuk tanya-jawab sederhana, gunakan mode chat standar agar respons lebih cepat
 5. **Ketentuan**: Tunduk pada [Kimi User Service Agreement](https://www.kimi.com/user/agreement/modelUse?version=v2)

@@ -23,7 +23,7 @@ Sim. Cada usuário pode participar de até 10 organizações corporativas, ocupa
 
 ## Em quanto tempo os membros podem usar os benefícios após entrarem?
 
-Os benefícios são ativados imediatamente assim que o convite é aceito. Membros que entram com um assento não atribuído ou recém-adicionado recebem a créditos completa do período atual.
+Os benefícios são ativados imediatamente assim que o convite é aceito. Membros que entram com um assento não atribuído ou recém-adicionado recebem os créditos completos do período atual.
 
 ## É possível adicionar assentos durante o período da assinatura?
 

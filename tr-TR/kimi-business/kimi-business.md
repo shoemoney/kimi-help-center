@@ -33,13 +33,13 @@ Abonelik süresi içinde satın alınan ek koltuklar, kalan gün sayısına gör
 
 ### Yapay Zekâ Yetenekleri
 
-| Avantaj | Kota |
+| Avantaj | Krediler |
 |---------|-------|
 | Agent Kullanımı | 4x (ayda yaklaşık 150) |
 | Eşzamanlı Agent Görevleri | 2 görev |
 | Öncelikli Kuyruk | 4x hız |
 | Agent Kümesi | Ayda 50 kez, 4 paralel alt görev |
-| Kimi Code | 20x kota |
+| Kimi Code | 20x kredi |
 | Kimi Claw | Web ve Android'i destekleyen, tek tıkla dağıtılabilen özel yapay zekâ asistanı |
 | Profesyonel Veri Tabanı | Ayda 5.000 kez; finansal, ekonomik ve akademik veri kaynaklarını kapsar |
 
@@ -56,7 +56,7 @@ Abonelik süresi içinde satın alınan ek koltuklar, kalan gün sayısına gör
 | Rol | İzinler |
 |------|-------------|
 | Yönetici | Koltuk satın alma, davet bağlantısı oluşturma, üye yönetme, siparişleri görüntüleme |
-| Üye | Kurumsal avantajları kullanma, kişisel kotayı görüntüleme |
+| Üye | Kurumsal avantajları kullanma, kişisel kredileri görüntüleme |
 
 Yönetici rolü, kurumsal aboneliği ilk satın alan hesaba otomatik olarak atanır.
 
@@ -81,7 +81,7 @@ Her kullanıcı en fazla 10 kurumsal organizasyona katılabilir. Üyeler katıld
 ### Üye Kaldırma
 
 - Kaldırılan üyeler, kurumsal çalışma alanına erişimini anında kaybeder
-- Kaldırılan üyeler, Kimi Business avantajlarını anında kaybeder ve mevcut dönem için kurumsal kotayı artık kullanamaz
+- Kaldırılan üyeler, Kimi Business avantajlarını anında kaybeder ve mevcut dönem için kurumsal kredileri artık kullanamaz
 - Kaldırılan üyelerin koltukları "Serbest Bırakılmayı Bekleyen" durumuna geçer ve bir sonraki faturalandırma döngüsünde serbest bırakılır
 
 ## Çalışma Alanı
@@ -106,7 +106,7 @@ Platform Desteği: Web, Kimi Business özelliklerini tam olarak destekler. Mobil
 ### Etkinleştirme Kuralları
 
 - **Anında Etkinleştirme**: Üyeler, daveti kabul eder etmez mevcut dönem avantajlarını hemen alır
-- **Tam Dönem Kotası**: Atanmamış veya yeni eklenen bir koltukla katılan üyeler, mevcut döneme ait kotanın tamamını alır
+- **Tam Dönem Kredileri**: Atanmamış veya yeni eklenen bir koltukla katılan üyeler, mevcut döneme ait kredilerin tamamını alır
 - **Döngü Hizalaması**: Kurumsal avantajlar, abonelik döngüsüne göre tek tip olarak hesaplanır ve aylık olarak yenilenir
 
 ### Sona Erme Kuralları

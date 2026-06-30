@@ -21,7 +21,7 @@ Precisa de ajuda? Veja como entrar em contato conosco.
 
 Ideal para:
 
-- Credits que não aparecem após a compra
+- Créditos que não aparecem após a compra
 - Problemas com pagamentos ou cobranças
 - Upgrades, downgrades ou cancelamentos de plano
 - Solicitações de nota fiscal

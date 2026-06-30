@@ -8,28 +8,28 @@ preview: false
 
 <SeoMeta
   title="Kredi güncelleme ve kullanım kuralları - Kimi Yardım Merkezi"
-  description="Kimi üyelik ayrıcalıkları iki kredi havuzu içerir. Kimi Code ayrı bir kota havuzu kullanır; diğer üyelik özellikleri tek bir kredi havuzunu paylaşır ve krediler gerçek kullanıma göre tüketilir."
+  description="Kimi üyelik ayrıcalıkları iki kredi havuzu içerir. Kimi Code ayrı bir kredi havuzu kullanır; diğer üyelik özellikleri tek bir kredi havuzunu paylaşır ve krediler gerçek kullanıma göre tüketilir."
 />
 
 # Kredi güncelleme ve kullanım kuralları
 
 <Callout type="info">
-Kimi üyelik ayrıcalıkları iki kredi havuzu içerir. Kimi Code ayrı bir kota havuzu kullanır; diğer üyelik özellikleri tek bir kredi havuzunu paylaşır ve krediler gerçek kullanıma göre tüketilir.
+Kimi üyelik ayrıcalıkları iki kredi havuzu içerir. Kimi Code ayrı bir kredi havuzu kullanır; diğer üyelik özellikleri tek bir kredi havuzunu paylaşır ve krediler gerçek kullanıma göre tüketilir.
 </Callout>
 
 ## İki kredi havuzu nedir?
-Üyeliğiniz her özellik için ayrı kotalar yerine size iki kredi havuzu sunar. Kimi Code ayrı bir kota havuzu kullanır; diğer üyelik özellikleri her yerde geçerli olan tek bir kota havuzunu paylaşır:
+Üyeliğiniz her özellik için ayrı krediler yerine size iki kredi havuzu sunar. Kimi Code ayrı bir kredi havuzu kullanır; diğer üyelik özellikleri her yerde geçerli olan tek bir kredi havuzunu paylaşır:
 | Özellik | Açıklama |
 |---------|-------------|
 | **Agent görevleri** | Web siteleri, belgeler, slaytlar, elektronik tablolar, deep research |
 | **Kimi Claw** | Buluta dağıtılmış kişisel yapay zekâ asistanınız |
 | **Diğer özellikler** | Görsel oluşturma ve daha fazlası |
 
-> **Kimi Chat**: En güncel modellerle sohbetler (kota tüketmez)
-> **Kimi Code**: Yapay zekâ destekli kodlama asistanı (ayrı kota havuzu)
+> **Kimi Chat**: En güncel modellerle sohbetler (kredi tüketmez)
+> **Kimi Code**: Yapay zekâ destekli kodlama asistanı (ayrı kredi havuzu)
 
 <Callout type="tip">
-Bu, kredilerinizi paylaşılan havuz içinde dilediğiniz gibi dağıtabileceğiniz anlamına gelir — bir ay araştırmaya, bir sonraki ay belgelere daha fazla harcayın. Kimi Chat kota tüketmez ve Kimi Code kendi ayrı kota havuzunu kullanır.
+Bu, kredilerinizi paylaşılan havuz içinde dilediğiniz gibi dağıtabileceğiniz anlamına gelir — bir ay araştırmaya, bir sonraki ay belgelere daha fazla harcayın. Kimi Chat kredi tüketmez ve Kimi Code kendi ayrı kredi havuzunu kullanır.
 </Callout>
 
 ## Krediler nasıl hesaplanır?

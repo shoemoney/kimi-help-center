@@ -24,7 +24,7 @@ Un error 429 significa que la frecuencia de tus solicitudes ha superado el rate 
 - Implementa una estrategia de reintento con backoff exponencial (espera 1s, 2s, 4s… antes de reintentar).
 - Controla la cantidad de solicitudes concurrentes mediante un mecanismo de cola.
 - Aumenta tu monto acumulado de recarga para subir de nivel en tu rate limit.
-- Comunícate con el equipo de ventas si necesitas un créditos mayor.
+- Comunícate con el equipo de ventas si necesitas una cuota mayor.
 
 ## ¿Cómo manejar el error 401 de autenticación?
 

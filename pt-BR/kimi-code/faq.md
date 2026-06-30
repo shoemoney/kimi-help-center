@@ -86,9 +86,9 @@ Possíveis motivos para uma chave de API inválida:
 - **Chave inserida incorretamente**: Verifique se há espaços extras ou caracteres faltando.
 - **Chave expirada ou revogada**: Confirme o status da chave no console da plataforma.
 
-### Assinatura expirada ou créditos esgotada
+### Assinatura expirada ou créditos esgotados
 
-Se você usa a plataforma Kimi Code, pode verificar sua créditos atual e o status da assinatura pelo comando `/usage`. Se sua créditos estiver esgotada ou sua assinatura tiver expirado, você precisa renovar ou fazer upgrade em [Kimi Code](https://kimi.com/code).
+Se você usa a plataforma Kimi Code, pode verificar seus créditos atuais e o status da assinatura pelo comando `/usage`. Se seus créditos estiverem esgotados ou sua assinatura tiver expirado, você precisa renovar ou fazer upgrade em [Kimi Code](https://kimi.com/code).
 
 ## Assinatura
 

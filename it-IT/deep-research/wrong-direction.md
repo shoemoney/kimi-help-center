@@ -17,7 +17,7 @@ preview: false
 Se la direzione di ricerca o il ragionamento di Deep Research si discosta in modo significativo dalle aspettative, fai clic sul pulsante "👎" in fondo alla pagina e descrivi brevemente il problema — ad esempio, "la ricerca si è allontanata dal tema" o "le conclusioni contraddicono fatti noti."
 </Callout>
 
-Il nostro team effettuerà una verifica entro 1–3 giorni lavorativi. In caso di conferma, i credit relativi a quell'attività verranno rimborsati automaticamente.
+Il nostro team effettuerà una verifica entro 1–3 giorni lavorativi. In caso di conferma, i crediti relativi a quell'attività verranno rimborsati automaticamente.
 
 ## Come ridurre la deviazione dalla direzione？
 

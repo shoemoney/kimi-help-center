@@ -20,18 +20,18 @@ Kimi Code est un service inclus dans l'offre d'abonnement Kimi, qui propose une 
 ## Facturation
 
 - L'utilisation de Kimi Code est **incluse dans vos frais d'abonnement** — aucuns frais supplémentaires ne s'appliquent.
-- Chaque requête consomme des credits de votre **réserve de crédits exclusive Kimi Code** ; les différentes offres incluent des montants de credits différents.
-- Le système privilégie les credits bonus avant de consommer les credits de l'offre.
+- Chaque requête consomme des crédits de votre **réserve de crédits exclusive Kimi Code** ; les différentes offres incluent des montants de crédits différents.
+- Le système privilégie les crédits bonus avant de consommer les crédits de l'offre.
 
-## Renouvellement des credits
+## Renouvellement des crédits
 
-Les credits se renouvellent selon un cycle de **7 jours** :
+Les crédits se renouvellent selon un cycle de **7 jours** :
 
-- À partir de votre date d'abonnement (J1), les credits se renouvellent tous les 7 jours.
+- À partir de votre date d'abonnement (J1), les crédits se renouvellent tous les 7 jours.
 - Périodes de renouvellement : J1–J7, J8–J14, J15–J21, J22–J28.
-- Les credits non utilisés **ne sont pas** reportés au cycle suivant.
+- Les crédits non utilisés **ne sont pas** reportés au cycle suivant.
 
-> Planifiez votre utilisation hebdomadaire pour tirer le meilleur parti de vos credits.
+> Planifiez votre utilisation hebdomadaire pour tirer le meilleur parti de vos crédits.
 
 ## Outils pris en charge
 

@@ -21,8 +21,8 @@ Yükseltmeler kullanılan süreye göre hesaplanır ve mevcut planınızın kull
 
 | Öğe | Açıklama |
 |------|-------------|
-| **Geçerlilik** | Yükseltme anında geçerli olur, yeni credit tahsisatınız hemen kullanıma sunulur |
-| **Credit'ler** | Eski planda kullanılmış credit'ler yeni planın bakiyesini etkilemez — sıfırdan bir tahsisat alırsınız |
+| **Geçerlilik** | Yükseltme anında geçerli olur, yeni kredi tahsisatınız hemen kullanıma sunulur |
+| **Krediler** | Eski planda kullanılmış krediler yeni planın bakiyesini etkilemez — sıfırdan bir tahsisat alırsınız |
 
 ## Yükseltmek/düşürmek mi istiyorsunuz?
 

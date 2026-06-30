@@ -81,7 +81,7 @@ Cada usuario puede unirse a un máximo de 10 organizaciones empresariales. Los m
 ### Eliminar miembros
 
 - Los miembros eliminados pierden de inmediato el acceso al espacio de trabajo de la empresa
-- Los miembros eliminados pierden de inmediato los beneficios de Kimi Business y ya no pueden usar la créditos de la empresa del periodo actual
+- Los miembros eliminados pierden de inmediato los beneficios de Kimi Business y ya no pueden usar los créditos de la empresa del periodo actual
 - Los asientos de los miembros eliminados pasan al estado "Pendientes de liberar" y se liberan en el siguiente ciclo de facturación
 
 ## Espacio de trabajo
@@ -106,7 +106,7 @@ Compatibilidad de plataformas: la Web es totalmente compatible con las funciones
 ### Reglas de activación
 
 - **Activación inmediata**: los miembros reciben los beneficios del periodo actual de inmediato al aceptar la invitación
-- **créditos completa del periodo actual**: los miembros que se unen con un asiento sin asignar o recién agregado reciben la créditos completa del periodo actual
+- **créditos completos del periodo actual**: los miembros que se unen con un asiento sin asignar o recién agregado reciben los créditos completos del periodo actual
 - **Alineación de ciclos**: los beneficios de la empresa se liquidan de manera uniforme según el ciclo de suscripción y se renuevan mensualmente
 
 ### Reglas de vencimiento

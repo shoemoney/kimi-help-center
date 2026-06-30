@@ -111,7 +111,7 @@ Deep Research thường mất 10–25 phút. Hệ thống chạy nền — bạn
 
 ## Lưu ý quan trọng
 1. **Thời gian thực thi**: 10–25 phút. Tác vụ chạy bất đồng bộ — bạn sẽ được thông báo khi hoàn thành
-2. **Hoàn lại credit**: Tự động hoàn lại nếu xảy ra lỗi khi gọi công cụ; hãy gửi phản hồi nếu nghiên cứu đi chệch hướng
+2. **Hoàn lại tín dụng**: Tự động hoàn lại nếu xảy ra lỗi khi gọi công cụ; hãy gửi phản hồi nếu nghiên cứu đi chệch hướng
 3. **Chất lượng đầu vào**: Câu hỏi ngắn gọn, rõ ràng sẽ cho kết quả tốt hơn
 4. **Ranh giới phạm vi**: Với các câu hỏi đơn giản, hãy dùng chế độ trò chuyện thông thường để có phản hồi nhanh hơn
 5. **Điều khoản**: Tuân theo [Kimi User Service Agreement](https://www.kimi.com/user/agreement/modelUse?version=v2)

@@ -17,7 +17,7 @@ preview: false
 Jika arah pencarian atau penalaran Deep Research menyimpang jauh dari yang Anda harapkan, klik tombol "👎" di bagian bawah halaman dan jelaskan singkat masalahnya — misalnya, "pencarian keluar dari topik" atau "kesimpulan bertentangan dengan fakta yang diketahui."
 </Callout>
 
-Tim kami akan meninjau dalam 1–3 hari kerja. Jika terbukti, credit untuk tugas tersebut akan dikembalikan secara otomatis.
+Tim kami akan meninjau dalam 1–3 hari kerja. Jika terbukti, kredit untuk tugas tersebut akan dikembalikan secara otomatis.
 
 ## Cara mengurangi penyimpangan arah？
 

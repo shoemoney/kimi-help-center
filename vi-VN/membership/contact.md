@@ -21,7 +21,7 @@ Bạn cần hỗ trợ? Dưới đây là cách liên hệ với chúng tôi.
 
 Thích hợp cho:
 
-- Credit không xuất hiện sau khi mua
+- Tín dụng không xuất hiện sau khi mua
 - Vấn đề về thanh toán hoặc tính phí
 - Nâng cấp, hạ cấp hoặc hủy gói
 - Yêu cầu hóa đơn

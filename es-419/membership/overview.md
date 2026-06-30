@@ -4,17 +4,17 @@ slug: "membership-overview"
 order: 1
 extract_headings: true
 preview: true
-preview_content: "Compara los cinco niveles de membresía de Kimi, el sistema de credits y las opciones de facturación."
+preview_content: "Compara los cinco niveles de membresía de Kimi, el sistema de créditos y las opciones de facturación."
 ---
 
 <SeoMeta
   title="Resumen de la membresía de Kimi - Centro de ayuda de Kimi"
-  description="Compara los cinco niveles de membresía de Kimi, el sistema de credits y las opciones de facturación."
+  description="Compara los cinco niveles de membresía de Kimi, el sistema de créditos y las opciones de facturación."
 />
 
 # Resumen de los planes de membresía
 
-Kimi ofrece cinco niveles de membresía —incluido un plan gratuito— diseñados para crecer junto con tus necesidades, desde la productividad diaria hasta los flujos de trabajo más exigentes. Todos los planes incluyen **dos pools de credits**: Kimi Code usa un pool de créditos independiente; las demás funciones de la membresía comparten un mismo pool de créditos.
+Kimi ofrece cinco niveles de membresía —incluido un plan gratuito— diseñados para crecer junto con tus necesidades, desde la productividad diaria hasta los flujos de trabajo más exigentes. Todos los planes incluyen **dos pools de créditos**: Kimi Code usa un pool de créditos independiente; las demás funciones de la membresía comparten un mismo pool de créditos.
 
 ## Comparación de planes
 
@@ -30,17 +30,17 @@ Kimi ofrece cinco niveles de membresía —incluido un plan gratuito— diseñad
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
 | Base de datos profesional | 200 llamadas | 2,000 llamadas | 5,000 llamadas | 12,000 llamadas | 24,000 llamadas |
 
-\* Valores aproximados según el consumo típico de tokens por tarea. Los credits mensuales se convierten al número equivalente de tareas para la misma función; solo a modo de referencia.
+\* Valores aproximados según el consumo típico de tokens por tarea. Los créditos mensuales se convierten al número equivalente de tareas para la misma función; solo a modo de referencia.
 
 <Callout type="tip">
-Usa todo el límite de credits para la misma función
+Usa todo el límite de créditos para la misma función
 </Callout>
 
 ## Cómo funciona la facturación
 
-- **Dos pools de credits**: Kimi Code usa un pool de créditos independiente; las demás funciones de la membresía comparten un mismo pool de créditos, medido por el uso de tokens.
-- **Renovación mensual**: los credits se reinician al inicio de cada ciclo de facturación.
-- **Orden de prioridad**: primero se consumen los credits de bonificación y luego los del plan.
+- **Dos pools de créditos**: Kimi Code usa un pool de créditos independiente; las demás funciones de la membresía comparten un mismo pool de créditos, medido por el uso de tokens.
+- **Renovación mensual**: los créditos se reinician al inicio de cada ciclo de facturación.
+- **Orden de prioridad**: primero se consumen los créditos de bonificación y luego los del plan.
 
 ## Ahorra con la facturación anual
 
@@ -49,8 +49,8 @@ Cambia a la facturación anual y ahorra hasta **$480 al año**. Consulta los [De
 <ColumnsContent
   columns={[
     {
-      title: "Reglas de credits",
-      description: "Cómo funcionan y se renuevan los credits",
+      title: "Reglas de créditos",
+      description: "Cómo funcionan y se renuevan los créditos",
       pageUrl: "/membership/update-rules",
       type: "document",
     },

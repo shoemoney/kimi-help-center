@@ -91,6 +91,6 @@ Um projeto completo normalmente é formado por três partes: interface de fronte
 
 O Agent usa um tamanho de contexto de **256K caracteres** (cerca de 40.000 a 50.000 caracteres chineses / ~100.000 palavras em inglês).
 
-**P: Como a créditos do Agent é calculada?**
+**P: Como os créditos do Agent são calculados?**
 
-O Agent, o PPT e outros recursos de assinatura compartilham um único pool de créditos. O Kimi Code usa um pool de créditos separado. Cada tarefa do Agent normalmente conta como uma unidade de créditos. Veja sua créditos e uso atuais em [Créditos de assinatura](https://www.kimi.com/membership-credits).
+O Agent, o PPT e outros recursos de assinatura compartilham um único pool de créditos. O Kimi Code usa um pool de créditos separado. Cada tarefa do Agent normalmente conta como uma unidade de créditos. Veja seus créditos e uso atuais em [Créditos de assinatura](https://www.kimi.com/membership-credits).

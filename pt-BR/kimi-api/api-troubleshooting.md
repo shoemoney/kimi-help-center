@@ -24,7 +24,7 @@ Um erro 429 significa que a frequência das suas requisições ultrapassou o rat
 - Implemente uma estratégia de retry com backoff exponencial (aguarde 1s, 2s, 4s… antes de tentar novamente).
 - Controle o número de requisições simultâneas usando um mecanismo de fila.
 - Aumente o valor acumulado de recargas para subir de faixa no seu rate limit.
-- Entre em contato com a equipe de vendas caso precise de uma créditos maior.
+- Entre em contato com a equipe de vendas caso precise de uma cota maior.
 
 ## Como lidar com o erro 401 de autenticação?
 

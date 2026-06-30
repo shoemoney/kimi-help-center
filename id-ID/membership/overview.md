@@ -4,17 +4,17 @@ slug: "membership-overview"
 order: 1
 extract_headings: true
 preview: true
-preview_content: "Bandingkan lima tingkat keanggotaan Kimi, sistem credit, dan opsi penagihan."
+preview_content: "Bandingkan lima tingkat keanggotaan Kimi, sistem kredit, dan opsi penagihan."
 ---
 
 <SeoMeta
   title="Ikhtisar keanggotaan Kimi - Pusat Bantuan Kimi"
-  description="Bandingkan lima tingkat keanggotaan Kimi, sistem credit, dan opsi penagihan."
+  description="Bandingkan lima tingkat keanggotaan Kimi, sistem kredit, dan opsi penagihan."
 />
 
 # Ikhtisar paket keanggotaan
 
-Kimi menawarkan lima tingkat keanggotaan — termasuk paket gratis — yang dirancang untuk menyesuaikan kebutuhan Anda, mulai dari produktivitas sehari-hari hingga alur kerja pengguna tingkat lanjut. Semua paket mencakup **dua kumpulan credit**: Kimi Code menggunakan kumpulan kredit terpisah; fitur keanggotaan lainnya berbagi satu kumpulan kredit.
+Kimi menawarkan lima tingkat keanggotaan — termasuk paket gratis — yang dirancang untuk menyesuaikan kebutuhan Anda, mulai dari produktivitas sehari-hari hingga alur kerja pengguna tingkat lanjut. Semua paket mencakup **dua kumpulan kredit**: Kimi Code menggunakan kumpulan kredit terpisah; fitur keanggotaan lainnya berbagi satu kumpulan kredit.
 
 ## Perbandingan paket
 
@@ -30,17 +30,17 @@ Kimi menawarkan lima tingkat keanggotaan — termasuk paket gratis — yang dira
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
 | Basis data profesional | 200 panggilan | 2.000 panggilan | 5.000 panggilan | 12.000 panggilan | 24.000 panggilan |
 
-\* Nilai perkiraan berdasarkan konsumsi token tugas pada umumnya. Credit bulanan dikonversi menjadi jumlah tugas yang setara untuk fitur yang sama; hanya sebagai referensi.
+\* Nilai perkiraan berdasarkan konsumsi token tugas pada umumnya. Kredit bulanan dikonversi menjadi jumlah tugas yang setara untuk fitur yang sama; hanya sebagai referensi.
 
 <Callout type="tip">
-Gunakan seluruh batas credit untuk fungsi yang sama
+Gunakan seluruh batas kredit untuk fungsi yang sama
 </Callout>
 
 ## Cara kerja penagihan
 
-- **Dua kumpulan credit** — Kimi Code menggunakan kumpulan kredit terpisah; fitur keanggotaan lainnya berbagi satu kumpulan kredit, diukur berdasarkan penggunaan token.
-- **Pembaruan bulanan** — Credit diatur ulang pada awal setiap siklus penagihan.
-- **Urutan prioritas** — Credit bonus digunakan terlebih dahulu, kemudian credit paket.
+- **Dua kumpulan kredit** — Kimi Code menggunakan kumpulan kredit terpisah; fitur keanggotaan lainnya berbagi satu kumpulan kredit, diukur berdasarkan penggunaan token.
+- **Pembaruan bulanan** — Kredit diatur ulang pada awal setiap siklus penagihan.
+- **Urutan prioritas** — Kredit bonus digunakan terlebih dahulu, kemudian kredit paket.
 
 ## Hemat dengan penagihan tahunan
 
@@ -49,8 +49,8 @@ Beralih ke penagihan tahunan dan hemat hingga **$480/tahun**. Lihat [Detail Harg
 <ColumnsContent
   columns={[
     {
-      title: "Aturan Credit",
-      description: "Cara kerja dan pembaruan credit",
+      title: "Aturan Kredit",
+      description: "Cara kerja dan pembaruan kredit",
       pageUrl: "/membership/update-rules",
       type: "document",
     },

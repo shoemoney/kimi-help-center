@@ -18,15 +18,15 @@ preview: false
 Bunun nedeni aşağıdakilerden biri olabilir:
 1. Yüklediğiniz dosya veya beceri açıklaması eksik.
 2. Dosya biçimi ya da sayısı gereksinimleri karşılamıyor.
-3. Sistem, hesabınızın kredi'sının tükendiğini tespit etti.
+3. Sistem, hesabınızın kredisinin tükendiğini tespit etti.
 
-## Beceri oluşturmak kredi'yı nasıl tüketir?
+## Beceri oluşturmak krediyi nasıl tüketir?
 
-Beceri oluşturmak **token'larınızı** harcar; bunlar hediye aramalarınızdan ya da resmi üyelik kredi'nızdan gelebilir.
+Beceri oluşturmak **token'larınızı** harcar; bunlar hediye aramalarınızdan ya da resmi üyelik kredinizden gelebilir.
 
 **Düşülme Sırası**:
 1. Önce hediye aramalar kullanılır.
-2. Hediye arama kalmadıysa üyelik kredi'sından düşülür.
+2. Hediye arama kalmadıysa üyelik kredisinden düşülür.
 
 <Callout type="info">
 Oluşturma işlemi başarısız olursa hiçbir token düşülmez. Token'lar yalnızca işlem başarıyla tamamlandığında harcanır.

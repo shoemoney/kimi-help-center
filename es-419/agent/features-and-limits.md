@@ -54,7 +54,7 @@ Debido al límite de contexto de 256K caracteres de los grandes modelos de lengu
 ## Notas importantes
 
 <Callout type="warning">
-**Uso de créditos**: Las tareas de Agent consumen créditos del grupo compartido (otras funciones de membresía). Kimi Code usa un grupo de créditos independiente. Cada tarea de Agent suele consumir 1 unidad de créditos. Para obtener información detallada sobre la créditos según el nivel de membresía, consulta [Créditos y facturación](/agent/quota-and-billing).
+**Uso de créditos**: Las tareas de Agent consumen créditos del grupo compartido (otras funciones de membresía). Kimi Code usa un grupo de créditos independiente. Cada tarea de Agent suele consumir 1 unidad de créditos. Para obtener información detallada sobre los créditos según el nivel de membresía, consulta [Créditos y facturación](/agent/quota-and-billing).
 Nivel gratuito: 6 tareas de Agent al mes
 Niveles de pago: de 60 a 720 tareas de Agent al mes según tu plan
 </Callout>
@@ -91,6 +91,6 @@ Un proyecto completo suele constar de tres partes: la interfaz de frontend, los 
 
 Agent utiliza una longitud de contexto de **256K caracteres** (aproximadamente 40,000 a 50,000 caracteres chinos / ~100,000 palabras en inglés).
 
-**P: ¿Cómo se calcula la créditos de Agent?**
+**P: ¿Cómo se calculan los créditos de Agent?**
 
-Agent, PPT y otras funciones de membresía comparten un mismo grupo de créditos. Kimi Code usa un grupo de créditos independiente. Cada tarea de Agent suele contar como una unidad de créditos. Consulta tu créditos y uso actuales en [Créditos de membresía](https://www.kimi.com/membership-credits).
+Agent, PPT y otras funciones de membresía comparten un mismo grupo de créditos. Kimi Code usa un grupo de créditos independiente. Cada tarea de Agent suele contar como una unidad de créditos. Consulta tus créditos y uso actuales en [Créditos de membresía](https://www.kimi.com/membership-credits).

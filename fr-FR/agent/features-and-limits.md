@@ -54,7 +54,7 @@ En raison de la limite de contexte de 256 K caractères des grands modèles de l
 ## Remarques importantes
 
 <Callout type="warning">
-**Consommation de crédits** : les tâches de l'Agent puisent dans le pool de crédits partagé (autres fonctionnalités de l'abonnement). Kimi Code utilise un pool de crédits distinct. Chaque tâche de l'Agent consomme généralement 1 unité de crédits. Pour des informations détaillées sur le crédits selon le niveau d'abonnement, consultez [Crédits et facturation](/agent/quota-and-billing).
+**Consommation de crédits** : les tâches de l'Agent puisent dans le pool de crédits partagé (autres fonctionnalités de l'abonnement). Kimi Code utilise un pool de crédits distinct. Chaque tâche de l'Agent consomme généralement 1 unité de crédits. Pour des informations détaillées sur les crédits selon le niveau d'abonnement, consultez [Crédits et facturation](/agent/quota-and-billing).
 Niveau gratuit : 6 tâches Agent/mois
 Niveaux payants : de 60 à 720 tâches Agent/mois selon votre formule
 </Callout>
@@ -91,6 +91,6 @@ Un projet complet se compose généralement de trois parties : l'interface front
 
 L'Agent utilise une longueur de contexte de **256 K caractères** (environ 40 000 à 50 000 caractères chinois / ~100 000 mots anglais).
 
-**Q : Comment le crédits de l'Agent est-il calculé ?**
+**Q : Comment les crédits de l'Agent sont-ils calculés ?**
 
-L'Agent, les PPT et les autres fonctionnalités de l'abonnement partagent un même pool de crédits. Kimi Code utilise un pool de crédits distinct. Chaque tâche de l'Agent compte généralement pour une unité de crédits. Consultez votre crédits et votre consommation actuels sur [Crédits d'abonnement](https://www.kimi.com/membership-credits).
+L'Agent, les PPT et les autres fonctionnalités de l'abonnement partagent un même pool de crédits. Kimi Code utilise un pool de crédits distinct. Chaque tâche de l'Agent compte généralement pour une unité de crédits. Consultez vos crédits et votre consommation actuels sur [Crédits d'abonnement](https://www.kimi.com/membership-credits).

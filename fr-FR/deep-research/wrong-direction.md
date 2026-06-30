@@ -17,7 +17,7 @@ preview: false
 Si la direction de recherche ou le raisonnement de Deep Research s'écarte sensiblement de vos attentes, cliquez sur le bouton « 👎 » en bas de la page et décrivez brièvement le problème — par exemple, « la recherche s'est éloignée du sujet » ou « les conclusions contredisent des faits connus ».
 </Callout>
 
-Notre équipe procédera à un examen sous 1 à 3 jours ouvrés. En cas de confirmation, les credits liés à cette tâche vous seront automatiquement remboursés.
+Notre équipe procédera à un examen sous 1 à 3 jours ouvrés. En cas de confirmation, les crédits liés à cette tâche vous seront automatiquement remboursés.
 
 ## Comment limiter les écarts de direction ?
 

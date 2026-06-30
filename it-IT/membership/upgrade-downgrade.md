@@ -21,8 +21,8 @@ Gli upgrade vengono calcolati in proporzione e l'eventuale parte non utilizzata 
 
 | Voce | Descrizione |
 |------|-------------|
-| **Decorrenza** | L'upgrade ha effetto immediato e la nuova assegnazione di credit è subito disponibile |
-| **Credit** | I credit già utilizzati con il piano precedente non influiscono sul saldo del nuovo piano: ricevi un'assegnazione completamente nuova |
+| **Decorrenza** | L'upgrade ha effetto immediato e la nuova assegnazione di crediti è subito disponibile |
+| **Crediti** | I crediti già utilizzati con il piano precedente non influiscono sul saldo del nuovo piano: ricevi un'assegnazione completamente nuova |
 
 ## Vuoi effettuare un upgrade o un downgrade?
 

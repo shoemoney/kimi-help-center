@@ -62,7 +62,7 @@ Jelaskan tugas Anda dengan gamblang, pantau jalannya eksekusi, lalu unduh atau b
   columns={[
     {
       title: "Fitur \u0026 Batasan",
-      description: "Kemampuan dan kuota",
+      description: "Kemampuan dan batas",
       pageUrl: "/agent/agent-features-and-limits",
       type: "document",
     },

@@ -29,7 +29,7 @@ Kimi propose cinq formules d'abonnement — dont une formule gratuite — chacun
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
 | Base de données professionnelle | 200 appels | 2 000 appels | 5 000 appels | 12 000 appels | 24 000 appels |
 
-\* Valeurs approximatives basées sur la consommation de token typique d'une tâche. Les credits mensuels sont convertis en nombre équivalent de tâches pour une même fonctionnalité ; à titre indicatif uniquement.
+\* Valeurs approximatives basées sur la consommation de token typique d'une tâche. Les crédits mensuels sont convertis en nombre équivalent de tâches pour une même fonctionnalité ; à titre indicatif uniquement.
 
 ## Tarification mensuelle ou annuelle
 
@@ -40,6 +40,6 @@ Kimi propose cinq formules d'abonnement — dont une formule gratuite — chacun
 | Allegro | 99 $/mois | 79 $/mois | 948 $/an | 240 $/an |
 | Vivace | 199 $/mois | 159 $/mois | 1 908 $/an | 480 $/an |
 
-## Répartition des credits
+## Répartition des crédits
 
-Toutes les formules comprennent deux réserves de credits : Kimi Code utilise une réserve de crédits distincte, tandis que les autres fonctionnalités de l'abonnement partagent une même réserve de crédits. Les formules supérieures incluent une réserve de credits proportionnellement plus importante, permettant des flux de travail plus fréquents et plus complexes. Consultez [Mise à jour des credits et règles d'utilisation](/membership/update-rules) pour plus de détails.
+Toutes les formules comprennent deux réserves de crédits : Kimi Code utilise une réserve de crédits distincte, tandis que les autres fonctionnalités de l'abonnement partagent une même réserve de crédits. Les formules supérieures incluent une réserve de crédits proportionnellement plus importante, permettant des flux de travail plus fréquents et plus complexes. Consultez [Mise à jour des crédits et règles d'utilisation](/membership/update-rules) pour plus de détails.

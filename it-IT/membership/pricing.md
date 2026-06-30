@@ -40,6 +40,6 @@ Kimi offre cinque livelli di abbonamento — incluso un piano gratuito — ciasc
 | Allegro | 99 $/mese | 79 $/mese | 948 $/anno | 240 $/anno |
 | Vivace | 199 $/mese | 159 $/mese | 1.908 $/anno | 480 $/anno |
 
-## Assegnazione dei credit
+## Assegnazione dei crediti
 
-Tutti i piani includono due pool di credit: Kimi Code utilizza un pool di crediti separato, mentre le altre funzionalità dell'abbonamento condividono un unico pool di crediti. I livelli superiori includono un pool di credit proporzionalmente più ampio, a supporto di flussi di lavoro più frequenti e complessi. Per maggiori dettagli, consulta [Aggiornamento dei credit e regole di utilizzo](/membership/update-rules).
+Tutti i piani includono due pool di crediti: Kimi Code utilizza un pool di crediti separato, mentre le altre funzionalità dell'abbonamento condividono un unico pool di crediti. I livelli superiori includono un pool di crediti proporzionalmente più ampio, a supporto di flussi di lavoro più frequenti e complessi. Per maggiori dettagli, consulta [Aggiornamento dei crediti e regole di utilizzo](/membership/update-rules).

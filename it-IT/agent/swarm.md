@@ -49,7 +49,7 @@ K2.6 Agent Swarm [Beta] adotta il metodo di addestramento PARL (Parallel-Agent R
 - **Mobile**: app Kimi → Cambia modalità → Seleziona K2.6 Agent Swarm [Beta]
 
 <Callout type="warning">
-**Accesso Beta**: K2.6 Agent Swarm [Beta] è attualmente disponibile per gli abbonati Moderato, Allegretto, Allegro e Vivace. Le attività consumano una crediti molto maggiore rispetto alle normali attività dell'Agent.
+**Accesso Beta**: K2.6 Agent Swarm [Beta] è attualmente disponibile per gli abbonati Moderato, Allegretto, Allegro e Vivace. Le attività consumano molti più crediti rispetto alle normali attività dell'Agent.
 </Callout>
 
 **Passaggi:**

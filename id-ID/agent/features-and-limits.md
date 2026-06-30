@@ -93,4 +93,4 @@ Agent menggunakan panjang konteks **256K karakter** (kira-kira 40.000–50.000 k
 
 **T: Bagaimana kredit Agent dihitung?**
 
-Agent, PPT, dan fitur keanggotaan lainnya berbagi satu kumpulan kredit. Kimi Code menggunakan kumpulan kredit terpisah. Setiap tugas Agent biasanya dihitung sebagai satu unit kredit. Lihat kredit dan penggunaan Anda saat ini di [Kredit Keanggotaan](https://www.kimi.com/membership-credits).
+Agent, PPT, dan fitur keanggotaan lainnya berbagi satu kumpulan kredit. Kimi Code menggunakan kumpulan kredit terpisah. Setiap tugas Agent biasanya dihitung sebagai satu unit kredit. Lihat kredit dan penggunaan Anda saat ini di [Kredit Keanggotaan](https://www.kimi.com/membership-kredit).

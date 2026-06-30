@@ -40,7 +40,7 @@ Kimi Slides admite la entrada en múltiples formatos, incluidos PDF, Word, PPTX,
 - Tras la generación, haz clic para previsualizar y editar en línea, con total libertad para refinar manualmente.
 3. Listo para usar, gratis para probar
 - Descarga el archivo generado como un PPTX editable, o previsualízalo y preséntalo en línea.
-- Una cuota mensual de credit gratuito te permite experimentar todas las funciones sin ningún pago.
+- Una asignación mensual de créditos gratuitos te permite experimentar todas las funciones sin ningún pago.
 4. Múltiples modos para elegir
 - Adaptativo: deep research, entrega estructurada
 - Visual: impulsado por nano banana pro

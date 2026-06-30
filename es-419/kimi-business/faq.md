@@ -23,7 +23,7 @@ Sí. Cada usuario puede unirse hasta a 10 organizaciones empresariales y ocupar 
 
 ## ¿Qué tan pronto pueden los miembros usar los beneficios después de unirse?
 
-Los beneficios se activan de inmediato al aceptar la invitación. Los miembros que se unen con un asiento sin asignar o recién agregado reciben la créditos completa del período actual.
+Los beneficios se activan de inmediato al aceptar la invitación. Los miembros que se unen con un asiento sin asignar o recién agregado reciben los créditos completos del período actual.
 
 ## ¿Se pueden agregar asientos durante el período de suscripción?
 

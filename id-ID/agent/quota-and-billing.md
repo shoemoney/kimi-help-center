@@ -21,7 +21,7 @@ Mode Agent menggunakan sistem kredit Kimi. Semua manfaat keanggotaan mencakup du
 - **Dua kumpulan kredit**: Semua manfaat keanggotaan mencakup dua kumpulan kredit. Kimi Code memakai kumpulan kredit tersendiri; fitur keanggotaan lain berbagi satu kumpulan kredit — atur pemakaiannya sesuka Anda
 - **Bayar sesuai pemakaian**: Konsumsi kredit bergantung pada kerumitan dan durasi tugas (yaitu pemakaian token) — tugas sederhana lebih hemat, tugas rumit lebih boros
 - **Penyegaran bulanan**: kredit direset setiap bulan, selaras dengan siklus langganan Anda
-- **Prioritas pemakaian**: kredit bonus (mis. credit uji coba, hadiah promosi) digunakan lebih dulu, baru kemudian kredit paket
+- **Prioritas pemakaian**: kredit bonus (mis. kredit uji coba, hadiah promosi) digunakan lebih dulu, baru kemudian kredit paket
 
 <Callout type="tip">
 **Contoh**: Dengan paket Moderato, membuat PPT sederhana bisa menghabiskan sekitar 1–2% kredit, sedangkan satu sesi Deep Research bisa memakai sekitar 5–10%.

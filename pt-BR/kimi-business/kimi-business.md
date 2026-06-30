@@ -56,7 +56,7 @@ Os assentos adicionais comprados durante o período de assinatura têm o valor p
 | Função | Permissões |
 |------|-------------|
 | Administrador | Comprar assentos, gerar links de convite, gerenciar membros, consultar pedidos |
-| Membro | Usar os benefícios empresariais, consultar a créditos pessoal |
+| Membro | Usar os benefícios empresariais, consultar os créditos pessoais |
 
 A função de administrador é atribuída automaticamente à conta que adquire a assinatura corporativa pela primeira vez.
 
@@ -81,7 +81,7 @@ Cada usuário pode ingressar em até 10 organizações corporativas. Ao ingressa
 ### Removendo Membros
 
 - Os membros removidos perdem imediatamente o acesso ao espaço de trabalho corporativo
-- Os membros removidos perdem imediatamente os benefícios do Kimi Business e não podem mais usar a créditos empresarial do período atual
+- Os membros removidos perdem imediatamente os benefícios do Kimi Business e não podem mais usar os créditos empresariais do período atual
 - Os assentos dos membros removidos entram no status "Liberação pendente" e são liberados no próximo ciclo de cobrança
 
 ## Espaço de Trabalho
@@ -106,7 +106,7 @@ Suporte por plataforma: a Web oferece suporte completo aos recursos do Kimi Busi
 ### Regras de Ativação
 
 - **Ativação imediata**: Os membros recebem os benefícios do período atual assim que aceitam o convite
-- **créditos integral do período atual**: Os membros que ingressam com um assento não alocado ou recém-adicionado recebem a créditos integral do período atual
+- **créditos integrais do período atual**: Os membros que ingressam com um assento não alocado ou recém-adicionado recebem os créditos integrais do período atual
 - **Alinhamento de ciclo**: Os benefícios empresariais são apurados de forma unificada conforme o ciclo de assinatura, com renovação mensal
 
 ### Regras de Expiração

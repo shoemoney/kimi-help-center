@@ -20,18 +20,18 @@ Kimi Code è un servizio incluso nel piano di abbonamento Kimi, che offre suppor
 ## Fatturazione
 
 - L'utilizzo di Kimi Code è **incluso nel costo dell'abbonamento**: non vengono applicati costi aggiuntivi.
-- Ogni richiesta consuma credit dal tuo **pool di crediti esclusivo di Kimi Code**; piani diversi includono quantità di credit differenti.
-- Il sistema dà priorità al consumo dei credit bonus prima di quelli del piano.
+- Ogni richiesta consuma crediti dal tuo **pool di crediti esclusivo di Kimi Code**; piani diversi includono quantità di crediti differenti.
+- Il sistema dà priorità al consumo dei crediti bonus prima di quelli del piano.
 
-## Rinnovo dei credit
+## Rinnovo dei crediti
 
-I credit si rinnovano con un ciclo di **7 giorni**:
+I crediti si rinnovano con un ciclo di **7 giorni**:
 
-- A partire dalla data di abbonamento (D1), i credit si rinnovano ogni 7 giorni.
+- A partire dalla data di abbonamento (D1), i crediti si rinnovano ogni 7 giorni.
 - Periodi di rinnovo: D1–D7, D8–D14, D15–D21, D22–D28.
-- I credit non utilizzati **non** vengono riportati al ciclo successivo.
+- I crediti non utilizzati **non** vengono riportati al ciclo successivo.
 
-> Pianifica il tuo utilizzo settimanale per sfruttare al meglio i credit.
+> Pianifica il tuo utilizzo settimanale per sfruttare al meglio i crediti.
 
 ## Strumenti supportati
 

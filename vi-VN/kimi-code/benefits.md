@@ -20,18 +20,18 @@ Kimi Code là dịch vụ đi kèm trong gói hội viên Kimi, mang đến các
 ## Tính phí
 
 - Việc sử dụng Kimi Code **đã được tính trong phí đăng ký** — không phát sinh thêm chi phí.
-- Mỗi yêu cầu sẽ tiêu hao credit từ **quỹ tín dụng riêng dành cho Kimi Code**; các gói khác nhau sẽ có lượng credit khác nhau.
-- Hệ thống ưu tiên dùng credit thưởng trước, sau đó mới đến credit của gói.
+- Mỗi yêu cầu sẽ tiêu hao tín dụng từ **quỹ tín dụng riêng dành cho Kimi Code**; các gói khác nhau sẽ có lượng tín dụng khác nhau.
+- Hệ thống ưu tiên dùng tín dụng thưởng trước, sau đó mới đến tín dụng của gói.
 
-## Làm mới credit
+## Làm mới tín dụng
 
-Credit được làm mới theo chu kỳ **7 ngày**:
+Tín dụng được làm mới theo chu kỳ **7 ngày**:
 
-- Tính từ ngày bạn đăng ký (D1), credit sẽ làm mới sau mỗi 7 ngày.
+- Tính từ ngày bạn đăng ký (D1), tín dụng sẽ làm mới sau mỗi 7 ngày.
 - Các kỳ làm mới: D1–D7, D8–D14, D15–D21, D22–D28.
-- Credit chưa dùng **sẽ không** được chuyển sang chu kỳ tiếp theo.
+- Tín dụng chưa dùng **sẽ không** được chuyển sang chu kỳ tiếp theo.
 
-> Hãy lên kế hoạch sử dụng hằng tuần để tận dụng tối đa lượng credit của bạn.
+> Hãy lên kế hoạch sử dụng hằng tuần để tận dụng tối đa lượng tín dụng của bạn.
 
 ## Công cụ được hỗ trợ
 

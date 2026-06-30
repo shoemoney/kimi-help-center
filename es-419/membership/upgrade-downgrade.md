@@ -21,8 +21,8 @@ Las mejoras se prorratean y se te reembolsa la parte no utilizada de tu plan act
 
 | Elemento | Descripción |
 |------|-------------|
-| **Vigencia** | La mejora entra en vigor de inmediato y la nueva asignación de credits queda disponible al instante |
-| **Credits** | Los credits que ya usaste con el plan anterior no afectan el saldo del nuevo plan: recibes una asignación nueva |
+| **Vigencia** | La mejora entra en vigor de inmediato y la nueva asignación de créditos queda disponible al instante |
+| **Créditos** | Los créditos que ya usaste con el plan anterior no afectan el saldo del nuevo plan: recibes una asignación nueva |
 
 ## ¿Quieres mejorar o cambiar a un plan inferior?
 

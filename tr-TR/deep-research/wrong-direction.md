@@ -17,7 +17,7 @@ preview: false
 Deep Research'ün arama yönü veya akıl yürütmesi beklentilerden önemli ölçüde saptıysa, sayfanın altındaki "👎" düğmesine tıklayın ve sorunu kısaca anlatın — örneğin, "arama konudan saptı" ya da "sonuçlar bilinen gerçeklerle çelişiyor."
 </Callout>
 
-Ekibimiz 1–3 iş günü içinde inceleme yapacaktır. Durum doğrulanırsa, o göreve ait credit'ler otomatik olarak iade edilir.
+Ekibimiz 1–3 iş günü içinde inceleme yapacaktır. Durum doğrulanırsa, o göreve ait krediler otomatik olarak iade edilir.
 
 ## Yön sapması nasıl azaltılır?
 

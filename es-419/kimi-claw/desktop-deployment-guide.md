@@ -24,7 +24,7 @@ Si aún no tienes un OpenClaw local, ve a la página de Kimi Claw en la app de e
 La implementación con un solo clic se encarga de todo lo siguiente por ti:
 
 - **Implementación automática** — Kimi implementa OpenClaw en tu equipo de forma automática. Si ya tienes otro OpenClaw instalado localmente, Kimi puede clonar su personalidad, memoria y habilidades con tu permiso, lo que hace que la migración sea totalmente fluida.
-- **Configuración automática del modelo** — Kimi preconfigura el modelo de Kimi, vincula los credits de tu membresía de Kimi Code y configura Kimi Web Search para el acceso a internet. No necesitas configurar ninguna API.
+- **Configuración automática del modelo** — Kimi preconfigura el modelo de Kimi, vincula los créditos de tu membresía de Kimi Code y configura Kimi Web Search para el acceso a internet. No necesitas configurar ninguna API.
 - **Requisito de membresía** — La implementación con un solo clic requiere un plan Allegretto o superior.
 - **Límite de instancias** — Cada cuenta admite un máximo de 1 Kimi Claw Desktop a la vez. Si cambias de equipo e implementas en uno nuevo, se te pedirá que desvincules primero la instancia anterior.
 

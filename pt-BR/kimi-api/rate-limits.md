@@ -40,4 +40,4 @@ Quando a frequência de requisições ultrapassa o limite, a API retorna um cód
 Se as necessidades do seu negócio ultrapassarem os limites de taxa atuais:
 
 - **Recarregue para fazer upgrade**: Aumente o valor acumulado de recargas e o sistema fará automaticamente o upgrade do seu nível de rate limit.
-- **Fale com a equipe de vendas**: Para requisitos especiais, entre em contato com a equipe de vendas da plataforma em [platform.moonshot.ai/contact-sales](https://www.platform.moonshot.ai/contact-sales) e solicite uma créditos personalizada.
+- **Fale com a equipe de vendas**: Para requisitos especiais, entre em contato com a equipe de vendas da plataforma em [platform.moonshot.ai/contact-sales](https://www.platform.moonshot.ai/contact-sales) e solicite uma cota de taxa personalizada.

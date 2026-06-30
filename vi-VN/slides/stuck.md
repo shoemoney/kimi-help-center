@@ -51,7 +51,7 @@ Nếu nhấp vào thẻ Slides mà không mở được trang chỉnh sửa, hã
 - Nếu thẻ Slides vẫn không xuất hiện trên nhiều trình duyệt và thiết bị, vui lòng làm theo [Hướng dẫn gửi phản hồi lỗi](#hướng-dẫn-gửi-phản-hồi-lỗi) bên dưới để gửi phản hồi, và bắt đầu một cuộc trò chuyện mới để tạo lại.
 
 <Callout type="info">
-Nếu bạn đã xác nhận sự cố vẫn tiếp diễn trên nhiều thiết bị và trình duyệt, vui lòng gửi email đến [support@moonshot.cn](mailto:support@moonshot.cn) để báo cáo, kèm theo đường liên kết cuộc trò chuyện và ảnh chụp màn hình của sự cố. Sau khi xác minh đó là lỗi, chúng tôi sẽ bồi hoàn cho bạn số credit tương ứng.
+Nếu bạn đã xác nhận sự cố vẫn tiếp diễn trên nhiều thiết bị và trình duyệt, vui lòng gửi email đến [support@moonshot.cn](mailto:support@moonshot.cn) để báo cáo, kèm theo đường liên kết cuộc trò chuyện và ảnh chụp màn hình của sự cố. Sau khi xác minh đó là lỗi, chúng tôi sẽ bồi hoàn cho bạn số tín dụng tương ứng.
 </Callout>
 
 ### Bản xem trước Slides bị trắng hoặc lỗi định dạng

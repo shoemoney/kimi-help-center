@@ -301,7 +301,7 @@ Kimi Code 命令行界面（CLI）会规划步骤、修改代码、运行测试�
 
 | 平台 | Base URL | 计费 | 密钥创建 |
 |------|---------|---------|-------------|
-| **Kimi Code** | OpenAI 兼容：`https://api.kimi.com/coding/v1`<br> Anthropic 兼容：`https://api.kimi.com/coding/` | Kimi 会员订阅（含配额） | [Kimi Code Console](https://www.kimi.com/code/console) |
+| **Kimi Code** | OpenAI 兼容：`https://api.kimi.com/coding/v1`<br> Anthropic 兼容：`https://api.kimi.com/coding/` | Kimi 会员订阅（含额度） | [Kimi Code Console](https://www.kimi.com/code/console) |
 | **Kimi 开放平台** | `https://api.moonshot.cn/v1` | 按量付费 | [Kimi 开放平台](https://platform.kimi.com) |
 
 **安装后找不到 `kimi` 命令。**

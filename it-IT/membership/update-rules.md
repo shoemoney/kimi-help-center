@@ -1,5 +1,5 @@
 ---
-title: "Aggiornamento dei credit e regole di utilizzo"
+title: "Aggiornamento dei crediti e regole di utilizzo"
 slug: "update-rules"
 order: 3
 extract_headings: true
@@ -7,18 +7,18 @@ preview: false
 ---
 
 <SeoMeta
-  title="Aggiornamento dei credit \u0026 regole di utilizzo - Centro assistenza Kimi"
-  description="I vantaggi dell'abbonamento Kimi includono due pool di credit. Kimi Code utilizza un pool di crediti separato; le altre funzionalità dell'abbonamento condividono un unico pool di credit, e i credit vengono consumati in base all'utilizzo effettivo."
+  title="Aggiornamento dei crediti \u0026 regole di utilizzo - Centro assistenza Kimi"
+  description="I vantaggi dell'abbonamento Kimi includono due pool di crediti. Kimi Code utilizza un pool di crediti separato; le altre funzionalità dell'abbonamento condividono un unico pool di crediti, e i crediti vengono consumati in base all'utilizzo effettivo."
 />
 
-# Aggiornamento dei credit e regole di utilizzo
+# Aggiornamento dei crediti e regole di utilizzo
 
 <Callout type="info">
-I vantaggi dell'abbonamento Kimi includono due pool di credit. Kimi Code utilizza un pool di crediti separato; le altre funzionalità dell'abbonamento condividono un unico pool di credit, e i credit vengono consumati in base all'utilizzo effettivo.
+I vantaggi dell'abbonamento Kimi includono due pool di crediti. Kimi Code utilizza un pool di crediti separato; le altre funzionalità dell'abbonamento condividono un unico pool di crediti, e i crediti vengono consumati in base all'utilizzo effettivo.
 </Callout>
 
-## Cosa sono i due pool di credit?
-Invece di assegnare crediti separate a ciascuna funzionalità, il tuo abbonamento ti offre due pool di credit. Kimi Code utilizza un pool di crediti separato; le altre funzionalità dell'abbonamento condividono un unico pool di crediti valido ovunque:
+## Cosa sono i due pool di crediti?
+Invece di assegnare crediti separati a ciascuna funzionalità, il tuo abbonamento ti offre due pool di crediti. Kimi Code utilizza un pool di crediti separato; le altre funzionalità dell'abbonamento condividono un unico pool di crediti valido ovunque:
 | Funzionalità | Descrizione |
 |---------|-------------|
 | **Task dell'Agent** | Siti web, documenti, presentazioni, fogli di calcolo, deep research |
@@ -29,42 +29,42 @@ Invece di assegnare crediti separate a ciascuna funzionalità, il tuo abbonament
 > **Kimi Code**: Assistente di programmazione basato sull'AI (pool di crediti separato)
 
 <Callout type="tip">
-Questo significa che puoi distribuire i credit del pool condiviso come preferisci — un mese investire di più nella ricerca, il mese successivo nei documenti. Kimi Chat non consuma crediti e Kimi Code utilizza un proprio pool di crediti separato.
+Questo significa che puoi distribuire i crediti del pool condiviso come preferisci — un mese investire di più nella ricerca, il mese successivo nei documenti. Kimi Chat non consuma crediti e Kimi Code utilizza un proprio pool di crediti separato.
 </Callout>
 
-## Come vengono calcolati i credit?
-I credit vengono consumati in base al numero di token elaborati da un task. Input e output più lunghi consumano più token.
+## Come vengono calcolati i crediti?
+I crediti vengono consumati in base al numero di token elaborati da un task. Input e output più lunghi consumano più token.
 
 <Callout type="info">
 **Guida indicativa per gli utenti del piano gratuito**:
-- Generare una semplice presentazione ≈ 1–2% dei tuoi credit
+- Generare una semplice presentazione ≈ 1–2% dei tuoi crediti
 - Eseguire un report di deep research ≈ 5–10%
 - Scrivere uno snippet di codice ≈ 0,5–2%
-I piani di livello superiore includono pool di credit proporzionalmente più ampi.
+I piani di livello superiore includono pool di crediti proporzionalmente più ampi.
 </Callout>
 
-## Regole di rinnovo dei credit
+## Regole di rinnovo dei crediti
 | Regola | Descrizione |
 |------|-------------|
-| **Ciclo** | Gli abbonati mensili e annuali ricevono entrambi i credit con cadenza **mensile** |
-| **Scadenza** | I credit non utilizzati scadono al termine di ogni ciclo — non vengono riportati né convertiti in denaro |
+| **Ciclo** | Gli abbonati mensili e annuali ricevono entrambi i crediti con cadenza **mensile** |
+| **Scadenza** | I crediti non utilizzati scadono al termine di ogni ciclo — non vengono riportati né convertiti in denaro |
 | **Limiti** | I singoli task possono essere soggetti a limiti di concurrency di 5 ore e 7 giorni, come indicato nell'interfaccia |
 
 ## Priorità di utilizzo
-Quando esistono più tipi di credit, vengono consumati in questo ordine:
-1. **Credit bonus** — Ottenuti da prove, promozioni o premi referral
-2. **Credit del piano** — Inclusi nel tuo livello di abbonamento
-## Quando i credit si esauriscono
+Quando esistono più tipi di crediti, vengono consumati in questo ordine:
+1. **Crediti bonus** — Ottenuti da prove, promozioni o premi referral
+2. **Crediti del piano** — Inclusi nel tuo livello di abbonamento
+## Quando i crediti si esauriscono
 - Qualsiasi task già in corso verrà completato normalmente
-- I nuovi task mostreranno l'avviso "credit insufficienti"
+- I nuovi task mostreranno l'avviso "crediti insufficienti"
 **Le tue opzioni**:
-- Attendere il rinnovo dei credit nel ciclo di fatturazione successivo
+- Attendere il rinnovo dei crediti nel ciclo di fatturazione successivo
 - Passare a un piano di livello superiore per ottenere un'allocazione mensile maggiore
-## Come avviene esattamente il rinnovo dei credit?
-1. **Basato sul ciclo** — I credit si rinnovano alla data di anniversario del tuo abbonamento, non al mese di calendario
-2. **Nessun riporto** — I credit residui vengono azzerati e poi viene riemessa l'intera allocazione
-3. **Esempio** — Se ti sei abbonato il 1° dicembre alle 15:00, i tuoi credit si rinnovano il 1° gennaio alle 15:00
+## Come avviene esattamente il rinnovo dei crediti?
+1. **Basato sul ciclo** — I crediti si rinnovano alla data di anniversario del tuo abbonamento, non al mese di calendario
+2. **Nessun riporto** — I crediti residui vengono azzerati e poi viene riemessa l'intera allocazione
+3. **Esempio** — Se ti sei abbonato il 1° dicembre alle 15:00, i tuoi crediti si rinnovano il 1° gennaio alle 15:00
 
 <Callout type="info">
-**Errori di sistema**: Se un task fallisce a causa di un problema di sistema, usa il pulsante 👎 per segnalarlo e richiedere un rimborso dei credit.
+**Errori di sistema**: Se un task fallisce a causa di un problema di sistema, usa il pulsante 👎 per segnalarlo e richiedere un rimborso dei crediti.
 </Callout>

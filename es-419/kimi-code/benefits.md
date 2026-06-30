@@ -20,18 +20,18 @@ Kimi Code es un servicio incluido en el plan de membresía de Kimi que ofrece so
 ## Facturación
 
 - El uso de Kimi Code está **incluido en tu cuota de suscripción**: no se aplican cargos adicionales.
-- Cada solicitud consume credits de tu **bolsa de créditos exclusiva de Kimi Code**; cada plan incluye una cantidad diferente de credits.
-- El sistema da prioridad a los credits de bonificación antes de consumir los credits del plan.
+- Cada solicitud consume créditos de tu **bolsa de créditos exclusiva de Kimi Code**; cada plan incluye una cantidad diferente de créditos.
+- El sistema da prioridad a los créditos de bonificación antes de consumir los créditos del plan.
 
-## Renovación de credits
+## Renovación de créditos
 
-Los credits se renuevan en un ciclo de **7 días**:
+Los créditos se renuevan en un ciclo de **7 días**:
 
-- A partir de la fecha de tu suscripción (D1), los credits se renuevan cada 7 días.
+- A partir de la fecha de tu suscripción (D1), los créditos se renuevan cada 7 días.
 - Períodos de renovación: D1–D7, D8–D14, D15–D21, D22–D28.
-- Los credits no utilizados **no** se trasladan al siguiente ciclo.
+- Los créditos no utilizados **no** se trasladan al siguiente ciclo.
 
-> Planifica tu uso semanal para aprovechar al máximo tus credits.
+> Planifica tu uso semanal para aprovechar al máximo tus créditos.
 
 ## Herramientas compatibles
 

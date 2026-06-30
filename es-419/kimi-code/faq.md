@@ -88,7 +88,7 @@ Posibles motivos por los que una API key es inválida:
 
 ### Membresía vencida o créditos agotada
 
-Si usas la plataforma de Kimi Code, puedes consultar tu créditos actual y el estado de tu membresía con el comando `/usage`. Si tu créditos se agotó o tu membresía venció, debes renovar o mejorar tu plan en [Kimi Code](https://kimi.com/code).
+Si usas la plataforma de Kimi Code, puedes consultar tus créditos actuales y el estado de tu membresía con el comando `/usage`. Si tus créditos se agotaron o tu membresía venció, debes renovar o mejorar tu plan en [Kimi Code](https://kimi.com/code).
 
 ## Suscripción
 

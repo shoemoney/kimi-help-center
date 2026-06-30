@@ -111,7 +111,7 @@ Deep Research genellikle 10-25 dakika sürer. Sistem arka planda çalışır —
 
 ## Önemli notlar
 1. **Yürütme süresi**: 10-25 dakika. Görev eşzamansız çalışır — tamamlandığında bilgilendirilirsiniz
-2. **Credit iadeleri**: Araç çağrısı hataları için otomatik olarak iade edilir; amacından sapan araştırmalar için geri bildirim gönderin
+2. **Kredi iadeleri**: Araç çağrısı hataları için otomatik olarak iade edilir; amacından sapan araştırmalar için geri bildirim gönderin
 3. **Girdi kalitesi**: Kısa ve iyi tanımlanmış sorular daha iyi sonuçlar üretir
 4. **Kapsam sınırları**: Basit soru-cevaplar için daha hızlı yanıtlar almak adına standart sohbet modunu kullanın
 5. **Koşullar**: [Kimi User Service Agreement](https://www.kimi.com/user/agreement/modelUse?version=v2)'a tabidir

@@ -54,7 +54,7 @@ A causa del limite di contesto di 256K caratteri dei modelli linguistici di gran
 ## Note importanti
 
 <Callout type="warning">
-**Utilizzo dei crediti**: le attività di Agent consumano crediti dal pool condiviso (altre funzionalità dell'abbonamento). Kimi Code utilizza un pool di crediti separato. Ogni attività di Agent consuma in genere 1 unità di crediti. Per informazioni dettagliate sulla crediti in base al livello di abbonamento, consulta [Crediti e fatturazione](/agent/quota-and-billing).
+**Utilizzo dei crediti**: le attività di Agent consumano crediti dal pool condiviso (altre funzionalità dell'abbonamento). Kimi Code utilizza un pool di crediti separato. Ogni attività di Agent consuma in genere 1 unità di crediti. Per informazioni dettagliate sui crediti in base al livello di abbonamento, consulta [Crediti e fatturazione](/agent/quota-and-billing).
 Piano gratuito: 6 attività Agent/mese
 Piani a pagamento: da 60 a 720 attività Agent/mese a seconda del piano
 </Callout>
@@ -91,6 +91,6 @@ Un progetto completo è in genere composto da tre parti: interfaccia frontend, s
 
 Agent utilizza una lunghezza di contesto di **256K caratteri** (circa 40.000-50.000 caratteri cinesi / ~100.000 parole in inglese).
 
-**D: Come viene calcolata la crediti di Agent?**
+**D: Come vengono calcolati i crediti di Agent?**
 
-Agent, PPT e altre funzionalità dell'abbonamento condividono un unico pool di crediti. Kimi Code utilizza un pool di crediti separato. Ogni attività di Agent conta in genere come un'unità di crediti. Visualizza la tua crediti attuale e l'utilizzo in [Crediti dell'abbonamento](https://www.kimi.com/membership-credits).
+Agent, PPT e altre funzionalità dell'abbonamento condividono un unico pool di crediti. Kimi Code utilizza un pool di crediti separato. Ogni attività di Agent conta in genere come un'unità di crediti. Visualizza i tuoi crediti attuali e l'utilizzo in [Crediti dell'abbonamento](https://www.kimi.com/membership-credits).

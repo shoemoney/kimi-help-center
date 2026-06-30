@@ -29,7 +29,7 @@ Kimi menawarkan lima tingkat keanggotaan — termasuk paket gratis — masing-ma
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
 | Basis data profesional | 200 panggilan | 2.000 panggilan | 5.000 panggilan | 12.000 panggilan | 24.000 panggilan |
 
-\* Nilai perkiraan berdasarkan konsumsi token tugas pada umumnya. Credit bulanan dikonversi menjadi jumlah tugas setara untuk fitur yang sama; hanya sebagai referensi.
+\* Nilai perkiraan berdasarkan konsumsi token tugas pada umumnya. Kredit bulanan dikonversi menjadi jumlah tugas setara untuk fitur yang sama; hanya sebagai referensi.
 
 ## Harga bulanan vs. tahunan
 
@@ -40,6 +40,6 @@ Kimi menawarkan lima tingkat keanggotaan — termasuk paket gratis — masing-ma
 | Allegro | $99/bln | $79/bln | $948/thn | $240/thn |
 | Vivace | $199/bln | $159/bln | $1.908/thn | $480/thn |
 
-## Alokasi credit
+## Alokasi kredit
 
-Semua paket mencakup dua kumpulan credit: Kimi Code menggunakan kumpulan kredit tersendiri; fitur keanggotaan lainnya berbagi satu kumpulan kredit. Tingkat yang lebih tinggi mencakup kumpulan credit yang proporsional lebih besar, sehingga mendukung alur kerja yang lebih sering dan kompleks. Lihat [Aturan Pembaruan & Penggunaan Credit](/membership/update-rules) untuk detailnya.
+Semua paket mencakup dua kumpulan kredit: Kimi Code menggunakan kumpulan kredit tersendiri; fitur keanggotaan lainnya berbagi satu kumpulan kredit. Tingkat yang lebih tinggi mencakup kumpulan kredit yang proporsional lebih besar, sehingga mendukung alur kerja yang lebih sering dan kompleks. Lihat [Aturan Pembaruan & Penggunaan Kredit](/membership/update-rules) untuk detailnya.

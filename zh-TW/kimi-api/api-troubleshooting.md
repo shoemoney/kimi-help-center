@@ -22,7 +22,7 @@ preview: false
 429 錯誤表示你的請求頻率已超過目前帳戶的 rate limit。可採取以下做法：
 
 - 實作指數退避重試策略（重試前依序等待 1s、2s、4s……）。
-- 使用佇列機制控制並行請求數量。
+- 使用佇列機制控制併發請求數量。
 - 提高累計儲值金額，以升級你的 rate limit 等級。
 - 如需更高額度，請聯絡銷售團隊。
 
@@ -67,7 +67,7 @@ preview: false
 
 Kimi API 的網頁搜尋功能會即時從網際網路擷取公開資訊。結果來源為主要搜尋引擎已索引的網頁。每次呼叫網頁搜尋會額外收取 $0.004。
 
-## Kimi 會員與 API concurrency 有關嗎？
+## Kimi 會員與 API concurrency（併發）有關嗎？
 
 <Callout type="warning">
 **Kimi 會員方案**（例如 Allegretto）與 **API** 是彼此獨立的計費系統。會員方案包含的 agent 平行能力僅適用於 Kimi 的消費端產品，與 API rate limit 無關。API concurrency 上限由你的帳戶累計儲值等級決定。

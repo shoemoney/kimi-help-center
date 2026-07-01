@@ -27,5 +27,5 @@ Non. Après la suppression, le système ne conserve les données que dans la mes
 Non. Une fois que vous cliquez sur Supprimer, vous renoncez au droit de récupération : les données ne pourront plus être restaurées par la suite.
 
 <Callout type="info">
-Pour en savoir plus, consultez la [Privacy Policy de Kimi](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
+Pour en savoir plus, consultez la [Politique de confidentialité de Kimi](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
 </Callout>

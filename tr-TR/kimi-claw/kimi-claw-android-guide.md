@@ -63,7 +63,7 @@ Kimi Claw Android'i ilk kez açtığınızda bir karşılama sayfası göreceksi
 - Kullanmadığınız bir telefon önerilir - Kimi Claw Android çalışmak için kararlı bir ağa ihtiyaç duyar; kullanmadığınız bir telefonu kullanmanız önerilir
 - Lütfen güvenli kullanın - OpenClaw gizlilik ve güvenlik riskleri içerebilir, bu nedenle dikkatli kullanın.
 
-Privacy Policy ve Kullanıcı Sözleşmesi'ni kabul etmeyi seçtikten sonra devam edin.
+Gizlilik Politikası ve Kullanıcı Sözleşmesi'ni kabul etmeyi seçtikten sonra devam edin.
 
 #### 1. Adım: İzin verme
 Kimi Claw Android'in arka planda kararlı bir şekilde çalışabilmesi için aşağıdaki izinlere ihtiyacı vardır. İzin işlemini tamamlamak için lütfen tek tek "Yetkilendir"e dokunun.
@@ -166,7 +166,7 @@ Ayarlar sayfasına girmek için Ayarlar'a dokunun:
 - Yardım: Temel kullanım önerileriyle ilgili talimatlar
 - Geri Bildirim: Geri bildirim gönderin
 - Kullanıcı Sözleşmesi: Kullanıcı Sözleşmesi'ni okuyun
-- Privacy Policy: Privacy Policy'yi okuyun
+- Gizlilik Politikası: Gizlilik Politikası'yi okuyun
 
 #### ClawHub Skills
 

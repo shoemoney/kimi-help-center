@@ -63,7 +63,7 @@ Saat pertama kali membuka Kimi Claw Android, Anda akan melihat halaman sambutan.
 - Disarankan menggunakan ponsel yang tidak terpakai - Kimi Claw Android memerlukan jaringan yang stabil untuk berjalan, dan disarankan menggunakan ponsel yang tidak terpakai
 - Gunakan dengan aman - OpenClaw dapat melibatkan risiko privasi dan keamanan, jadi gunakan dengan hati-hati.
 
-Setelah memilih Setuju atas Privacy Policy dan Perjanjian Pengguna, lanjutkan.
+Setelah memilih Setuju atas Kebijakan Privasi dan Perjanjian Pengguna, lanjutkan.
 
 #### Langkah 1: Berikan izin
 Kimi Claw Android memerlukan izin berikut agar dapat berjalan stabil di latar belakang. Klik "Otorisasi" satu per satu untuk menyelesaikan pemberian izin.
@@ -166,7 +166,7 @@ Klik Pengaturan untuk masuk ke halaman pengaturan:
 - Bantuan: Petunjuk tentang Rekomendasi Penggunaan Dasar
 - Umpan Balik: Kirim umpan balik
 - Perjanjian Pengguna: Baca Perjanjian Pengguna
-- Privacy Policy: Baca Privacy Policy
+- Kebijakan Privasi: Baca Kebijakan Privasi
 
 #### ClawHub Skills
 

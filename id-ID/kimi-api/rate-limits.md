@@ -13,7 +13,7 @@ preview: false
 
 # Rate limit
 
-Kimi API menerapkan rate limit pada frekuensi dan concurrency permintaan untuk menjaga stabilitas platform serta pemakaian yang adil. Tingkatan rate limit ditentukan oleh total top-up kumulatif pada akun Anda.
+Kimi API menerapkan rate limit（batas laju） pada frekuensi dan concurrency permintaan untuk menjaga stabilitas platform serta pemakaian yang adil. Tingkatan rate limit ditentukan oleh total top-up kumulatif pada akun Anda.
 
 ## Tingkatan rate limit
 

@@ -27,5 +27,5 @@ Nein. Nach der Löschung speichert das System Daten nur im gesetzlich vorgeschri
 Nein. Sobald Sie auf „Löschen“ klicken, verlieren Sie das Recht auf Wiederherstellung – die Daten können danach nicht mehr wiederhergestellt werden.
 
 <Callout type="info">
-Weitere Einzelheiten finden Sie in der [Kimi Privacy Policy](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
+Weitere Einzelheiten finden Sie in der [Kimi Datenschutzrichtlinie](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
 </Callout>

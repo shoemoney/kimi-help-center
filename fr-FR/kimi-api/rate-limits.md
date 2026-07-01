@@ -13,7 +13,7 @@ preview: false
 
 # Limites de débit
 
-L'API Kimi applique des rate limits sur la fréquence des requêtes et la concurrency afin de garantir la stabilité de la plateforme et un usage équitable. Les paliers de rate limit dépendent du montant cumulé des recharges de votre compte.
+L'API Kimi applique des rate limit（limite de débit）s sur la fréquence des requêtes et la concurrency afin de garantir la stabilité de la plateforme et un usage équitable. Les paliers de rate limit dépendent du montant cumulé des recharges de votre compte.
 
 ## Paliers de rate limit
 

@@ -13,7 +13,7 @@ preview: false
 
 # Rate Limits
 
-Die Kimi API erzwingt rate limits für Anfragehäufigkeit und concurrency, um die Stabilität der Plattform und eine faire Nutzung zu gewährleisten. Die rate-limit-Stufen richten sich nach dem kumulierten Aufladebetrag Ihres Kontos.
+Die Kimi API erzwingt rate limit（Ratenbegrenzung）s für Anfragehäufigkeit und concurrency, um die Stabilität der Plattform und eine faire Nutzung zu gewährleisten. Die rate-limit-Stufen richten sich nach dem kumulierten Aufladebetrag Ihres Kontos.
 
 ## Rate-limit-Stufen
 

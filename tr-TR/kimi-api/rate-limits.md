@@ -13,7 +13,7 @@ preview: false
 
 # Rate limit'ler
 
-Kimi API, platform kararlılığını ve adil kullanımı sağlamak için istek sıklığı ve concurrency üzerinde rate limit uygular. Rate limit kademeleri, hesabınızın toplam yükleme tutarına göre belirlenir.
+Kimi API, platform kararlılığını ve adil kullanımı sağlamak için istek sıklığı ve concurrency üzerinde rate limit（hız sınırı） uygular. Rate limit kademeleri, hesabınızın toplam yükleme tutarına göre belirlenir.
 
 ## Rate limit kademeleri
 

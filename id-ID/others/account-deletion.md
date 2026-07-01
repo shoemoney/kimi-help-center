@@ -27,5 +27,5 @@ Tidak. Setelah dihapus, sistem hanya menyimpan data sebatas minimum yang diwajib
 Tidak. Begitu Anda mengklik hapus, Anda kehilangan hak untuk memulihkan — data tidak dapat dipulihkan lagi setelahnya.
 
 <Callout type="info">
-Untuk detailnya, lihat [Privacy Policy Kimi](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
+Untuk detailnya, lihat [Kebijakan Privasi Kimi](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
 </Callout>

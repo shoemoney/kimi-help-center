@@ -13,7 +13,7 @@ preview: false
 
 # Rate limits
 
-Kimi API는 플랫폼 안정성과 공정한 사용을 위해 요청 빈도와 concurrency에 rate limit을 적용합니다. Rate limit 등급은 계정의 누적 충전 금액을 기준으로 정해집니다.
+Kimi API는 플랫폼 안정성과 공정한 사용을 위해 요청 빈도와 concurrency에 rate limit（속도 제한）을 적용합니다. Rate limit 등급은 계정의 누적 충전 금액을 기준으로 정해집니다.
 
 ## Rate limit 등급
 

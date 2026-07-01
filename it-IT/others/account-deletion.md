@@ -27,5 +27,5 @@ No. Dopo l'eliminazione, il sistema conserva i dati solo nella misura minima ric
 No. Una volta cliccato su elimina, perdi il diritto al recupero: i dati non possono più essere ripristinati.
 
 <Callout type="info">
-Per maggiori dettagli, consulta la [Privacy Policy di Kimi](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
+Per maggiori dettagli, consulta la [Informativa sulla privacy di Kimi](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
 </Callout>

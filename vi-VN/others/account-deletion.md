@@ -27,5 +27,5 @@ Không. Sau khi xóa, hệ thống chỉ lưu giữ dữ liệu ở mức tối 
 Không. Một khi đã nhấn xóa, bạn mất quyền khôi phục — dữ liệu không thể được phục hồi sau đó.
 
 <Callout type="info">
-Để biết thêm chi tiết, vui lòng xem [Privacy Policy của Kimi](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
+Để biết thêm chi tiết, vui lòng xem [Chính sách quyền riêng tư của Kimi](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
 </Callout>

@@ -27,5 +27,5 @@ preview_content: "계정, 프로필, 데이터 관리에 관한 자주 묻는 �
 아니요. 삭제 버튼을 누르는 순간 복구 권한을 잃게 되며, 이후에는 데이터를 되살릴 수 없습니다.
 
 <Callout type="info">
-자세한 내용은 [Kimi Privacy Policy](https://www.kimi.com/user/agreement/userPrivacy?version=v2)를 참고하세요.
+자세한 내용은 [Kimi 개인정보 처리방침](https://www.kimi.com/user/agreement/userPrivacy?version=v2)를 참고하세요.
 </Callout>

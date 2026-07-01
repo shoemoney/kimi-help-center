@@ -27,5 +27,5 @@ preview_content: "查找帳號、個人檔案與資料管理常見問題的解�
 不可以。一旦點擊刪除，即代表你放棄恢復權利；之後資料將無法還原。
 
 <Callout type="info">
-詳情請參閱 [Kimi Privacy Policy（隱私權政策）](https://www.kimi.com/user/agreement/userPrivacy?version=v2)。
+詳情請參閱 [Kimi 隱私權政策](https://www.kimi.com/user/agreement/userPrivacy?version=v2)。
 </Callout>

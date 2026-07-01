@@ -13,7 +13,7 @@ preview: false
 
 # Límites de tasa
 
-La API de Kimi aplica límites de tasa a la frecuencia de solicitudes y a la concurrencia para garantizar la estabilidad de la plataforma y un uso justo. Los niveles de rate limit se basan en el monto acumulado de recargas de tu cuenta.
+La API de Kimi aplica límites de tasa a la frecuencia de solicitudes y a la concurrencia para garantizar la estabilidad de la plataforma y un uso justo. Los niveles de rate limit（límite de frecuencia） se basan en el monto acumulado de recargas de tu cuenta.
 
 ## Niveles de rate limit
 

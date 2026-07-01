@@ -63,7 +63,7 @@ Khi lần đầu mở Kimi Claw Android, bạn sẽ thấy trang chào mừng. S
 - Nên dùng điện thoại nhàn rỗi - Kimi Claw Android cần mạng ổn định để chạy, vì vậy nên dùng điện thoại nhàn rỗi
 - Hãy sử dụng an toàn - OpenClaw có thể liên quan đến rủi ro về quyền riêng tư và bảo mật, vì vậy hãy thận trọng khi sử dụng.
 
-Sau khi chọn Đồng ý với Privacy Policy và Thỏa thuận người dùng, hãy tiếp tục.
+Sau khi chọn Đồng ý với Chính sách quyền riêng tư và Thỏa thuận người dùng, hãy tiếp tục.
 
 #### Bước 1: Cấp quyền
 Kimi Claw Android cần các quyền sau để chạy ổn định trong nền. Vui lòng nhấn "Cấp quyền" lần lượt để hoàn tất việc cấp quyền.
@@ -166,7 +166,7 @@ Nhấn Cài đặt để vào trang cài đặt:
 - Trợ giúp: Hướng dẫn về các khuyến nghị sử dụng cơ bản
 - Phản hồi: Gửi phản hồi
 - Thỏa thuận người dùng: Đọc Thỏa thuận người dùng
-- Privacy Policy: Đọc Privacy Policy
+- Chính sách quyền riêng tư: Đọc Chính sách quyền riêng tư
 
 #### ClawHub Skills
 

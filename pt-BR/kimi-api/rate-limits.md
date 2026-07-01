@@ -13,7 +13,7 @@ preview: false
 
 # Limites de taxa
 
-A Kimi API aplica limites de taxa sobre a frequência de requisições e a concurrency para garantir a estabilidade da plataforma e o uso justo. Os níveis de rate limit são definidos com base no valor acumulado de recargas da sua conta.
+A Kimi API aplica limites de taxa sobre a frequência de requisições e a concurrency para garantir a estabilidade da plataforma e o uso justo. Os níveis de rate limit（limite de taxa） são definidos com base no valor acumulado de recargas da sua conta.
 
 ## Níveis de rate limit
 

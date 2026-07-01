@@ -63,7 +63,7 @@ Lorsque vous ouvrez Kimi Claw Android pour la première fois, une page d’accue
 - Il est recommandé d’utiliser un téléphone inutilisé - Kimi Claw Android nécessite un réseau stable pour fonctionner, et l’utilisation d’un téléphone inutilisé est recommandée
 - Utilisez-le en toute sécurité - OpenClaw peut présenter des risques pour la confidentialité et la sécurité ; utilisez-le donc avec prudence.
 
-Après avoir sélectionné l’acceptation de la Privacy Policy et de l’accord utilisateur, continuez.
+Après avoir sélectionné l’acceptation de la Politique de confidentialité et de l’accord utilisateur, continuez.
 
 #### Étape 1 : accorder les autorisations
 Kimi Claw Android nécessite les autorisations suivantes pour fonctionner de manière stable en arrière-plan. Cliquez sur « Autoriser » pour chacune d’elles afin de terminer l’autorisation.
@@ -166,7 +166,7 @@ Cliquez sur Paramètres pour accéder à la page des paramètres :
 - Aide : instructions sur les recommandations d’utilisation de base
 - Retours : envoyer un retour
 - Accord utilisateur : lire l’accord utilisateur
-- Privacy Policy : lire la Privacy Policy
+- Politique de confidentialité : lire la Politique de confidentialité
 
 #### ClawHub Skills
 

@@ -63,7 +63,7 @@ La primera vez que abras Kimi Claw Android, verás una página de bienvenida. De
 - Se recomienda usar un teléfono que no utilices - Kimi Claw Android requiere una red estable para funcionar, por lo que se recomienda usar un teléfono que no utilices.
 - Úsalo de forma segura - OpenClaw puede implicar riesgos de privacidad y seguridad, así que úsalo con precaución.
 
-Después de seleccionar que aceptas la Privacy Policy y el Acuerdo de usuario, continúa.
+Después de seleccionar que aceptas la Política de privacidad y el Acuerdo de usuario, continúa.
 
 #### Paso 1: Otorgar permisos
 Kimi Claw Android necesita los siguientes permisos para ejecutarse de forma estable en segundo plano. Toca "Autorizar" en cada uno para completar la autorización.
@@ -166,7 +166,7 @@ Toca Configuración para entrar a la página de configuración:
 - Ayuda: Instrucciones sobre recomendaciones básicas de uso
 - Comentarios: Enviar comentarios
 - Acuerdo de usuario: Leer el Acuerdo de usuario
-- Privacy Policy: Leer Privacy Policy
+- Política de privacidad: Leer Política de privacidad
 
 #### Habilidades de ClawHub
 
@@ -207,9 +207,9 @@ Toca el archivo de copia de seguridad correspondiente en la lista de copias y po
 ### Kimi
 Kimi es el canal de comunicación predeterminado y se conectará automáticamente después de completar la configuración de la cuenta de Kimi durante el proceso de configuración inicial, sin operaciones adicionales.
 
-Una vez finalizadas la instalación y la configuración, tu Kimi Claw Android aparecerá automáticamente en la página de cambio de Bot del cliente web (kimi.com). Al tocar para cambiar, el avatar y el hilo de chat se cambiarán de forma sincronizada.
+Una vez finalizadas la instalación y la configuración, tu Kimi Claw Android aparecerá automáticamente en la página de cambio de bot del cliente web (kimi.com). Al tocar para cambiar, el avatar y el hilo de chat se cambiarán de forma sincronizada.
 
-Kimi Claw Android solo permite editar el nombre del Bot y eliminar el Bot en la administración de Bot.
+Kimi Claw Android solo permite editar el nombre del bot y eliminar el bot en la administración de bot.
 
 ### Feishu
 <Frames
@@ -228,9 +228,9 @@ Método 2: Escanear el código QR para crear
 2. Usa Feishu para escanear el código QR
 3. Completa la creación de la aplicación de Feishu en el navegador
 
-**Método 3: Ingresar manualmente la información del Bot**
+**Método 3: Ingresar manualmente la información del bot**
 
-1. Toca "Ingresar manualmente la información del Bot"
+1. Toca "Ingresar manualmente la información del bot"
 2. Ingresa el App ID y el App Secret
 3. Toca "Agregar" para completar la conexión
 
@@ -410,7 +410,7 @@ Por motivos de seguridad financiera y privacidad, Kimi Claw Android bloquea auto
 | Compatibilidad de plataforma | Actualmente solo se admiten dispositivos Android; iOS no está admitido |
 | Membresía | Disponible solo para miembros Kimi Allegretto o superior |
 | Apps financieras | Las aplicaciones relacionadas con banca, pagos, valores y seguros tienen prohibido el acceso (consulta el Capítulo 6 para más detalles) |
-| Administración de Bot | El Bot de Kimi Claw Android solo permite editar el nombre y eliminarlo; no admite otras configuraciones de Bot |
+| Administración de bot | El bot de Kimi Claw Android solo permite editar el nombre y eliminarlo; no admite otras configuraciones de bot |
 | Terminal | Actualmente, Kimi Claw Android no ofrece capacidad para operaciones directas por línea de comandos |
 
 ## Preguntas frecuentes (FAQ)
@@ -475,7 +475,7 @@ Lo siguiente sirve como referencia para Kimi Claw Android.
 #### Después de escanear el código QR de Feishu, ¿sigue esperando actualizaciones de estado?
 
 - Asegúrate de haber completado el proceso de creación de la aplicación de Feishu en tu navegador
-- Si no hay actualización después de mucho tiempo, puedes intentar conectarte ingresando manualmente la información del Bot
+- Si no hay actualización después de mucho tiempo, puedes intentar conectarte ingresando manualmente la información del bot
 
 #### ¿Falló la conexión de WeChat?
 
@@ -487,7 +487,7 @@ Lo siguiente sirve como referencia para Kimi Claw Android.
 
 - Confirma que el proceso de configuración inicial se haya completado por completo (otorgamiento de permisos → instalación de OpenClaw → configuración de la cuenta de Kimi)
 - Revisa si el estado del gateway en el Dashboard es "Conectado"
-- Intenta actualizar la lista de Bot en la app Kimi
+- Intenta actualizar la lista de bot en la app Kimi
 
 ### Uso de funciones
 

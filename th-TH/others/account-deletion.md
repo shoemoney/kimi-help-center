@@ -27,5 +27,5 @@ preview_content: "ค้นหาคำตอบสำหรับคำถา�
 ไม่ได้ เมื่อคุณกดลบแล้ว ถือว่าสละสิทธิ์ในการกู้คืน ข้อมูลจะไม่สามารถนำกลับมาได้อีก
 
 <Callout type="info">
-ดูรายละเอียดได้ที่ [Privacy Policy ของ Kimi](https://www.kimi.com/user/agreement/userPrivacy?version=v2)
+ดูรายละเอียดได้ที่ [นโยบายความเป็นส่วนตัว ของ Kimi](https://www.kimi.com/user/agreement/userPrivacy?version=v2)
 </Callout>

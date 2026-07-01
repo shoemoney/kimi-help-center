@@ -27,5 +27,5 @@ preview_content: "Ответы на распространённые вопро�
 Нет. Нажав удалить, вы отказываетесь от права на восстановление — после этого данные восстановить невозможно.
 
 <Callout type="info">
-Подробнее см. в [Kimi Privacy Policy](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
+Подробнее см. в [Kimi Политика конфиденциальности](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
 </Callout>

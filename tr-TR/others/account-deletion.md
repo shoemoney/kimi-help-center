@@ -27,5 +27,5 @@ Hayır. Silme işleminden sonra sistem, verileri yalnızca yürürlükteki yasal
 Hayır. Silme işlemine tıkladığınız anda kurtarma hakkınızdan vazgeçmiş olursunuz; veriler sonradan geri getirilemez.
 
 <Callout type="info">
-Ayrıntılar için bkz. [Kimi Privacy Policy](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
+Ayrıntılar için bkz. [Kimi Gizlilik Politikası](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
 </Callout>

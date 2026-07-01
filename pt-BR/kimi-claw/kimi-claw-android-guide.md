@@ -63,7 +63,7 @@ Ao abrir o Kimi Claw Android pela primeira vez, você verá uma página de boas-
 - Recomendamos usar um telefone ocioso — o Kimi Claw Android requer uma rede estável para funcionar, e é recomendável usar um telefone ocioso
 - Use com segurança — o OpenClaw pode envolver riscos de privacidade e segurança; portanto, use-o com cautela.
 
-Depois de selecionar que concorda com a Privacy Policy e o Contrato do Usuário, prossiga.
+Depois de selecionar que concorda com a Política de Privacidade e o Contrato do Usuário, prossiga.
 
 #### Etapa 1: conceder permissões
 O Kimi Claw Android precisa das permissões abaixo para funcionar de forma estável em segundo plano. Clique em "Autorizar" uma a uma para concluir a autorização.
@@ -166,7 +166,7 @@ Clique em Configurações para entrar na página de configurações:
 - Ajuda: instruções sobre recomendações básicas de uso
 - Feedback: enviar feedback
 - Contrato do Usuário: ler o Contrato do Usuário
-- Privacy Policy: ler a Privacy Policy
+- Política de Privacidade: ler a Política de Privacidade
 
 #### ClawHub Skills
 
@@ -207,9 +207,9 @@ Clique no arquivo de backup correspondente na lista de backups, e os registros h
 ### Kimi
 Kimi é o canal de comunicação padrão e será conectado automaticamente após concluir a configuração da conta Kimi no processo de Onboarding, sem necessidade de operações adicionais.
 
-Depois que a instalação e a configuração forem concluídas, seu Kimi Claw Android aparecerá automaticamente na página de troca de Bot do cliente Web (kimi.com). Depois de clicar para alternar, o avatar e a conversa serão alternados de forma sincronizada.
+Depois que a instalação e a configuração forem concluídas, seu Kimi Claw Android aparecerá automaticamente na página de troca de bot do cliente Web (kimi.com). Depois de clicar para alternar, o avatar e a conversa serão alternados de forma sincronizada.
 
-O Kimi Claw Android permite apenas editar o nome do Bot e excluir o Bot no gerenciamento de Bot.
+O Kimi Claw Android permite apenas editar o nome do bot e excluir o bot no gerenciamento de bot.
 
 ### Feishu
 <Frames
@@ -228,9 +228,9 @@ Método 2: escanear o QR code para criar
 2. Use o Feishu para escanear o QR code
 3. Conclua a criação do aplicativo Feishu no navegador
 
-**Método 3: inserir manualmente as informações do Bot**
+**Método 3: inserir manualmente as informações do bot**
 
-1. Clique em "Inserir informações do Bot manualmente"
+1. Clique em "Inserir informações do bot manualmente"
 2. Insira o App ID e o App Secret
 3. Clique em "Adicionar" para concluir a conexão
 
@@ -410,7 +410,7 @@ Por motivos de segurança financeira e privacidade, as categorias de apps abaixo
 | Suporte de plataforma | Atualmente, apenas dispositivos Android são compatíveis; iOS não é compatível |
 | Assinatura | Disponível apenas para membros Kimi Allegretto ou superior |
 | Apps financeiros | Aplicativos relacionados a bancos, pagamentos, valores mobiliários e seguros são proibidos de acessar (veja detalhes no Capítulo 6) |
-| Gerenciamento de Bot | O Bot do Kimi Claw Android permite apenas editar o nome e excluir, sem suporte a outras configurações de Bot |
+| Gerenciamento de bot | O bot do Kimi Claw Android permite apenas editar o nome e excluir, sem suporte a outras configurações de bot |
 | Terminal | Atualmente, o Kimi Claw Android não oferece a capacidade de operações diretas por linha de comando |
 
 ## Perguntas frequentes (FAQ)
@@ -475,7 +475,7 @@ Veja abaixo uma referência ao Kimi Claw Android.
 #### Depois de escanear o QR code do Feishu, ele continua aguardando atualizações de status?
 
 - Verifique se você concluiu o processo de criação do aplicativo Feishu no navegador
-- Se não houver atualização por muito tempo, tente conectar inserindo manualmente as informações do Bot
+- Se não houver atualização por muito tempo, tente conectar inserindo manualmente as informações do bot
 
 #### A conexão com WeChat falhou?
 
@@ -487,7 +487,7 @@ Veja abaixo uma referência ao Kimi Claw Android.
 
 - Confirme se o processo de Onboarding foi totalmente concluído (concessão de permissões → instalação do OpenClaw → configuração da conta Kimi)
 - Verifique se o status do gateway no Dashboard está "Conectado"
-- Tente atualizar a lista de Bot no Kimi App
+- Tente atualizar a lista de bot no Kimi App
 
 ### Uso de funções
 

@@ -27,5 +27,5 @@ preview_content: "アカウント、プロフィール、データ管理に関�
 いいえ。削除をクリックした時点で復元する権利を放棄したものとみなされ、その後データを復元することはできません。
 
 <Callout type="info">
-詳しくは、[Kimi Privacy Policy（プライバシーポリシー）](https://www.kimi.com/user/agreement/userPrivacy?version=v2)をご覧ください。
+詳しくは、[Kimi プライバシーポリシー](https://www.kimi.com/user/agreement/userPrivacy?version=v2)をご覧ください。
 </Callout>

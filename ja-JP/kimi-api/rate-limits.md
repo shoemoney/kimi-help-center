@@ -13,7 +13,7 @@ preview: false
 
 # Rate limits
 
-Kimi API では、プラットフォームの安定性と公平な利用を保つため、リクエスト頻度と concurrency に rate limit を設けています。rate limit の階層は、アカウントの累計チャージ額に基づいて決まります。
+Kimi API では、プラットフォームの安定性と公平な利用を保つため、リクエスト頻度と concurrency に rate limit（レート制限） を設けています。rate limit の階層は、アカウントの累計チャージ額に基づいて決まります。
 
 ## rate limit の階層
 

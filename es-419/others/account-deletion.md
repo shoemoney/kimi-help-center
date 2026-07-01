@@ -27,5 +27,5 @@ No. Tras la eliminación, el sistema solo conserva los datos en la medida mínim
 No. Una vez que haces clic en eliminar, renuncias al derecho de recuperación: los datos no se pueden restaurar después.
 
 <Callout type="info">
-Para más detalles, consulta la [Privacy Policy de Kimi](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
+Para más detalles, consulta la [Política de privacidad de Kimi](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
 </Callout>

@@ -13,7 +13,7 @@ preview: false
 
 # Rate limit
 
-Le API di Kimi applicano rate limit sulla frequenza delle richieste e sulla concorrenza per garantire la stabilità della piattaforma e un utilizzo equo. I livelli di rate limit si basano sull'importo cumulativo di ricarica del tuo account.
+Le API di Kimi applicano rate limit（limite di frequenza） sulla frequenza delle richieste e sulla concorrenza per garantire la stabilità della piattaforma e un utilizzo equo. I livelli di rate limit si basano sull'importo cumulativo di ricarica del tuo account.
 
 ## Livelli di rate limit
 

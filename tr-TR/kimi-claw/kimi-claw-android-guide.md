@@ -188,7 +188,7 @@ Kimi Claw Android, mevcut OpenClaw'un geçmişini ve yapılandırmasını belirl
 
 Manuel Yedekleme:
 
-Belirli bir andaki durumu kaydetmek isterseniz, mevcut geçmiş ve yapılandırma anlık görüntüsünü elle kaydetmek için Yedekle'ye etkin biçimde dokunabilirsiniz. Mevcut tüm yapılandırma yedeklerini dışa aktarmak için Yedekle'ye dokunun.
+Belirli bir andaki durumu kaydetmek isterseniz, mevcut geçmiş ve yapılandırma anlık görüntüsünü elle kaydetmek için Yedekle’ye dokunabilirsiniz. Mevcut tüm yapılandırma yedeklerini dışa aktarmak için Yedekle'ye dokunun.
 
 **Yapılandırmayı Geri Yükle:**
 

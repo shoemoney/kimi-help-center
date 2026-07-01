@@ -25,7 +25,7 @@ Eski sürümden geçiş yapıyorsanız aşağıdaki adımları izleyin — tek b
 ### Yenilikler
 
 - **Artık Python / uv yok**: Node.js üzerine yeniden inşa edildi — Python ortamı gerekmez, kurulumu daha basit
-- **Yerel ikili dosya, kutudan çıkar çıkmaz çalışır**: Daha hızlı başlatma, daha hafif kullanım
+- **Yerel ikili dosya, ek kurulum gerektirmeden hemen çalışır**: Daha hızlı başlatma, daha hafif kullanım
 - **Yeniden tasarlanmış terminal arayüzü**: Daha akıcı, daha hızlı yanıt veren bir deneyim
 - **Tam veri aktarımı**: Yapılandırma, MCP sunucuları ve oturum geçmişi sorunsuzca taşınır
 

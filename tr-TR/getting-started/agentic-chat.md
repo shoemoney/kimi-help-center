@@ -1,5 +1,5 @@
 ---
-title: "Kimi'ye başlangıç"
+title: "Kimi ile başlarken"
 slug: "agentic-chat"
 order: 2
 extract_headings: false
@@ -7,11 +7,11 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi'ye başlangıç - Kimi Yardım Merkezi"
+  title="Kimi ile başlarken - Kimi Yardım Merkezi"
   description="Sohbet kutusuna sorularınızı yazabilir, dosya yükleyebilir veya ihtiyacınıza göre modeller arasında geçiş yapabilirsiniz."
 />
 
-# Kimi'ye başlangıç
+# Kimi ile başlarken
 
 Sohbet kutusuna sorularınızı yazabilir, dosya yükleyebilir veya ihtiyacınıza göre modeller arasında geçiş yapabilirsiniz.
 [kimi.com](https://www.kimi.com) adresini açın ve bir mesaj göndermeyi deneyin — Kimi'ye merhaba deyin:
@@ -30,7 +30,7 @@ Sohbet kutusuna sorularınızı yazabilir, dosya yükleyebilir veya ihtiyacını
 Kimi K2.6, K2.5 üzerine inşa edilen açık kaynaklı bir modeldir ve üst düzey kodlama, uzun vadeli görev yürütme ve agent swarm yeteneklerine odaklanan önemli iyileştirmeler sunar. Agent görevlerinde, kodlamada, görüntü anlamada, video anlamada ve genel zeka kıyaslamalarında sektörün en iyi performansını elde eder. K2.6 aynı zamanda Kimi'nin **en çok yönlü** modelidir — yerel çok modlu mimarisi hem görsel hem de metin girdisini, düşünme ve düşünmeme modlarını, hem de sohbet ve agent görevlerini destekler.
 Bu sayede Kimi yalnızca soru-cevap sohbetlerinde değil, aynı zamanda otonom görev planlamada, araç çağırmada ve çok adımlı akıl yürütmede de üstün performans gösterir — karmaşık görevler için derin düşünme ve yürütmeyi destekler.
 ### Yerleşik araçlar
-Kutudan çıktığı gibi kullanılabilir, hiçbir yapılandırmaya gerek yoktur:
+Hiçbir yapılandırmaya gerek kalmadan hemen kullanılabilir:
 | Araç | Açıklama |
 |------|------------|
 | **Web Search** | En güncel haberler ve bilgiler için gerçek zamanlı web araması |

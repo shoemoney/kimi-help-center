@@ -4,18 +4,18 @@ slug: "websites-overview"
 order: 1
 extract_headings: false
 preview: true
-preview_content: "Doğal dille yazılmış açıklamalardan, tasarım taslaklarından veya şablonlardan web siteleri oluşturun ve yayına alın."
+preview_content: "Doğal dille yazılmış açıklamalardan, tasarım taslaklarından veya şablonlardan web siteleri oluşturun ve dağıtın."
 ---
 
 <SeoMeta
   title="Kimi Websites'a genel bakış - Kimi Yardım Merkezi"
-  description="Doğal dille yazılmış açıklamalardan, tasarım taslaklarından veya şablonlardan web siteleri oluşturun ve yayına alın."
+  description="Doğal dille yazılmış açıklamalardan, tasarım taslaklarından veya şablonlardan web siteleri oluşturun ve dağıtın."
 />
 
 # Kimi Websites
 
 <Callout type="info">
-**Kimi Websites**, en yeni Kimi K2.6 çok kipli görsel ajan yapay zekâ modeliyle güçlendirilmiş bir Kimi Agent ürün özelliğidir. Temel yeteneği **Vibe Coding**'dir; yani doğal dilden web siteleri üretip bunları çevrimiçi yayına almaktır.
+**Kimi Websites**, en yeni Kimi K2.6 çok kipli görsel ajan yapay zekâ modeliyle güçlendirilmiş bir Kimi Agent ürün özelliğidir. Temel yeteneği **Vibe Coding**'dir; yani doğal dilden web siteleri üretip bunları çevrimiçi dağıtmaktır.
 </Callout>
 
 Kimi, görsel girdileri (arayüz taslakları, ekran görüntüleri, etkileşim videoları) ve doğal dil yönergelerini anlayarak kullanıcı girdisini eksiksiz ve çalıştırılabilir ön uç koduna dönüştürür; bu yalnızca statik arayüzü değil, dinamik etkileşimli davranışı da kapsar.
@@ -26,7 +26,7 @@ Kimi, görsel girdileri (arayüz taslakları, ekran görüntüleri, etkileşim v
 |---------|------------|
 | **Sohbetle site oluşturma** | İhtiyaçlarınızı doğal dille anlatın; yapay zekâ web sitesini otomatik olarak üretsin |
 | **Görüntü/Video anlama** | Tasarım taslaklarını/ekran görüntülerini/ekran kayıtlarını yükleyin; yapay zekâ bunları çözümleyip HTML sayfaları oluştursun |
-| **Otomatik yayına alma** | Tek tıkla anında yayımlama |
+| **Otomatik dağıtım** | Tek tıkla anında yayımlama |
 | **Çok turlu düzenleme** | Sürüm karşılaştırmasıyla yinelemeli site revizyonları |
 | **Tek tıkla paylaşım** | Kolayca paylaşmak için erişilebilir bağlantılar oluşturun |
 | **Şablon seçimi** | Hızlı başlangıç için çok sayıda hazır şablon |
@@ -127,17 +127,17 @@ Kimi, yapılacaklar listesini yeniden düzenleyip oluşturmaya devam eder.
   - **Seçim kipi**: Herhangi bir öğeyi seçip notlar ekleyin
   - Revizyon önerilerini işaretlemek için dikdörtgenleri, okları, fırçaları ve renk değiştirmeyi kullanın
 - Tüm revizyon önerilerini Kimi'ye tek seferde gönderin
-### 5. Adım: yayına alma ve yayımlama
-| Yayına Alma Yöntemi | Açıklama |
+### 5. Adım: dağıtma ve yayımlama
+| Dağıtım Yöntemi | Açıklama |
 |-------------------|------------|
-| **Otomatik yayına alma** | Çevrimiçi bağlantı oluşturarak tek tıkla yayına alma |
+| **Otomatik dağıtım** | Çevrimiçi bağlantı oluşturarak tek tıkla dağıtım |
 | **İndir ve kendin barındır** | Paketlenmiş kod dosyalarını indirip kendi sunucunuza dağıtın |
 | **Özel alan adı** | Oluşturulan web sitesini kendi alan adınıza bağlayın |
 
 Oluşturma tamamlandıktan sonra şunları yapabilirsiniz:
 - Sürüm dosyalarını indirmek için farklı dağıtım sürümlerine tıklayın
-- Genel olarak dağıtılmış bir bağlantı almak için paylaş düğmesine tıklayın (ya da gizliye ayarlayın)
-- Revizyona devam etmek için düzenle düğmesine tıklayın
+- Genel olarak dağıtılmış bir bağlantı almak için Paylaş (Share) düğmesine tıklayın (ya da gizliye ayarlayın)
+- Revizyona devam etmek için Düzenle (Edit) düğmesine tıklayın
 - Doğrudan dağıtım veya daha fazla iyileştirme için eksiksiz HTML/CSS/JS kodunu indirin
 
 <Frames

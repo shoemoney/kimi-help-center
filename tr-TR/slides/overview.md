@@ -35,7 +35,7 @@ Kimi Slides; PDF, Word, PPTX, Excel, TXT ve görseller dahil olmak üzere çok b
 - Kimi'nin arama ve uzun metin kavrama yeteneklerinden yararlanarak otomatik olarak konu araştırması yapar, verileri bir araya getirir ve içerik yazar; tek tıkla profesyonel düzeyde sunumlar sunar.
 - Alıntılanan tüm metin ve veriler gerçek bilgi kaynaklarıyla doğrulanır; böylece sonuçta ortaya çıkan sunum sağlam temellere ve dayanaklara oturur.
 2. Esnek Optimizasyonla Akıllı Görsel Tasarım
-- Tema renklerini, yazı tiplerini, simgeleri ve grafik stillerini otomatik olarak eşleştirir; tek tıkla oluşturma sayesinde kutudan çıkar çıkmaz son derece kullanışlı sonuçlar verir.
+- Tema renklerini, yazı tiplerini, simgeleri ve grafik stillerini otomatik olarak eşleştirir; tek tıkla oluşturma sayesinde ek ayar gerektirmeden son derece kullanışlı sonuçlar verir.
 - Birden çok stil ve şablon üzerinden görsel sunumu eş zamanlı olarak optimize ederek sunumlarınızın görsel kalitesinin tavanını yükseltir.
 - Oluşturma sonrasında çevrimiçi olarak önizleyip düzenlemek için tıklayabilir, elle ince ayar yapmakta tamamen özgür olursunuz.
 3. Kullanıma Hazır, Ücretsiz Deneme

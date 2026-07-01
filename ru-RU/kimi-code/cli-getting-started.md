@@ -30,7 +30,7 @@ CLI написан на TypeScript, распространяется через 
 - **Аккаунт Kimi**: активная подписка Kimi или доступный API-ключ
 
 <Callout type="tip">
-Kimi Code CLI — полностью интерактивное TUI-приложение. Для наилучшего визуального опыта запускайте его в терминале с поддержкой true-color и лигатур, например [Kitty](https://sw.kovidgoyal.net/kitty/) или [Ghostty](https://ghostty.org/).
+Kimi Code CLI — полностью интерактивное TUI-приложение. Чтобы интерфейс отображался наилучшим образом, запускайте его в терминале с поддержкой true-color и лигатур, например [Kitty](https://sw.kovidgoyal.net/kitty/) или [Ghostty](https://ghostty.org/).
 </Callout>
 
 ## Установка

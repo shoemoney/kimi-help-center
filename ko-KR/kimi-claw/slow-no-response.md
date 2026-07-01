@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="응답이 없거나 느린가요? - Kimi 도움말 센터"
+  title="응답이 없거나 느린가요? - Kimi 헬프 센터"
   description="Kimi Claw가 답하지 않거나 평소보다 유난히 느리다면 몇 가지 원인이 있을 수 있습니다. 아래 문제 해결 절차를 따라 확인해 보세요."
 />
 

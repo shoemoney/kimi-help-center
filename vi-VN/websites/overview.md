@@ -8,7 +8,7 @@ preview_content: "Tạo và triển khai website từ mô tả ngôn ngữ tự 
 ---
 
 <SeoMeta
-  title="Tổng quan về Kimi Websites - Trung tâm Trợ giúp Kimi"
+  title="Tổng quan về Kimi Websites - Trung tâm trợ giúp Kimi"
   description="Tạo và triển khai website từ mô tả ngôn ngữ tự nhiên, bản thiết kế mẫu hoặc mẫu có sẵn."
 />
 

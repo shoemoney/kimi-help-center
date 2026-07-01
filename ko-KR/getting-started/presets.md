@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="프리셋 - Kimi 고객센터"
+  title="프리셋 - Kimi 헬프 센터"
   description="프리셋은 Kimi의 빠른 프롬프트 기능으로, 자주 쓰는 프롬프트를 저장해 어떤 세션에서든 한 번의 클릭으로 불러올 수 있게 해줍니다 — 반복 입력은 이제 그만..."
 />
 

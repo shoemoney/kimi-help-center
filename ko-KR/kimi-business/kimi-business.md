@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi Business - Kimi 도움말 센터"
+  title="Kimi Business - Kimi 헬프 센터"
   description="요금, 팀 관리, 엔터프라이즈 기능을 포함한 Kimi Business 엔터프라이즈 플랜을 알아보세요. 데이터 개인정보 보호와 전담 지원이 필요한 팀과 비즈니스에 맞춰 설계되었습니다."
 />
 

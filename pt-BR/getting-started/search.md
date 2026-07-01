@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Busca agentiva para guias e respostas - Central de Ajuda da Kimi"
+  title="Busca agentiva para guias e respostas - Central de Ajuda Kimi"
   description="A Busca Agentiva da Kimi é construída sobre uma arquitetura de aprendizado por reforço agentivo ponta a ponta. Diferente das abordagens tradicionais de orquestração de ferramentas, ela permite que a IA..."
 />
 

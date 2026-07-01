@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="지원 플랫폼 - Kimi 도움말 센터"
+  title="지원 플랫폼 - Kimi 헬프 센터"
   description="Feishu, WeChat, WeCom, DingTalk, Weibo 등 Kimi Claw가 현재 지원하는 전체 플랫폼 목록을 확인하고 각 플랫폼의 기능 차이와 설정 방법을 알아보세요."
 />
 

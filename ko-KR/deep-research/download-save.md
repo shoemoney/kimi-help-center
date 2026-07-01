@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Deep Research 보고서를 다운로드하거나 저장할 수 없나요? - Kimi 도움말 센터"
+  title="Deep Research 보고서를 다운로드하거나 저장할 수 없나요? - Kimi 헬프 센터"
   description="Deep Research는 두 가지 유형의 보고서를 생성하며, 둘 다 다운로드할 수 있습니다."
 />
 

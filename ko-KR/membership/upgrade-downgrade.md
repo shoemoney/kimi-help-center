@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="요금제 변경 - Kimi 고객센터"
+  title="요금제 변경 - Kimi 헬프 센터"
   description="Kimi 멤버십은 언제든 변경할 수 있습니다. 업그레이드와 다운그레이드가 어떻게 동작하는지 안내합니다."
 />
 

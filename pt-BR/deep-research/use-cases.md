@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Casos de uso e biblioteca de prompts do Deep Research - Central de Ajuda da Kimi"
+  title="Casos de uso e biblioteca de prompts do Deep Research - Central de Ajuda Kimi"
   description="Sou analista profissional de valores mobiliários. Por favor, ajude-me a realizar uma análise aprofundada da Pop Mart sob a perspectiva financeira. A análise deve incluir, mas..."
 />
 

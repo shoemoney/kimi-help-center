@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Как работает Kimi WebBridge — Справочный центр Kimi"
+  title="Как работает Kimi WebBridge - Справочный центр Kimi"
   description="Узнайте, как Kimi WebBridge локально соединяет браузер с ИИ-агентами и позволяет безопасно переходить по сайтам, выполнять клики, делать скриншоты и многое другое."
   ogType="article"
 />

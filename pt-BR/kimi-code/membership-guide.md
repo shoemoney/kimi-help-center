@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Guia de assinatura do Kimi Code - Central de Ajuda do Kimi"
+  title="Guia de assinatura do Kimi Code - Central de Ajuda Kimi"
   description="O Kimi Code é um benefício voltado para desenvolvedores dentro do plano de assinatura do Kimi, oferecendo recursos de codificação com IA de alto desempenho. Você pode usar esse benefício através..."
 />
 

@@ -8,7 +8,7 @@ preview_content: "자연어 설명, 디자인 시안 또는 템플릿으로 웹�
 ---
 
 <SeoMeta
-  title="Kimi Websites 개요 - Kimi 고객센터"
+  title="Kimi Websites 개요 - Kimi 헬프 센터"
   description="자연어 설명, 디자인 시안 또는 템플릿으로 웹사이트를 만들고 배포하세요."
 />
 

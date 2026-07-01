@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi 채팅 자주 묻는 질문 - Kimi 고객센터"
+  title="Kimi 채팅 자주 묻는 질문 - Kimi 헬프 센터"
   description="Kimi 채팅에 문제가 있으신가요? 이 글에서는 응답 중단, 콘텐츠 이상, 로딩 실패 등 대화 중 자주 발생하는 문제의 해결 방법을 정리해 빠르게 해결하도록 돕습니다."
 />
 

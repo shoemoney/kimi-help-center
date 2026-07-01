@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Primeros pasos con Kimi - Centro de Ayuda de Kimi"
+  title="Primeros pasos con Kimi - Centro de ayuda de Kimi"
   description="Puedes escribir preguntas en el cuadro de chat, subir archivos o cambiar entre modelos según lo que necesites."
 />
 

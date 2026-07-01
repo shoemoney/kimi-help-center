@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="핵심 개념 및 터미널 - Kimi 도움말 센터"
+  title="핵심 개념 및 터미널 - Kimi 헬프 센터"
   description="Kimi Claw의 핵심 개념(Memory, Skills, HEARTBEAT, Identity, Soul, Tools, User)과 게이트웨이, 봇 상태, Skill, 예약 작업을 확인하는 터미널 명령어를 알아보세요."
 />
 

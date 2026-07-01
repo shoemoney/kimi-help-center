@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi Claw에서 스킬 사용하기 - Kimi 도움말 센터"
+  title="Kimi Claw에서 스킬 사용하기 - Kimi 헬프 센터"
   description="Kimi Claw에서 스킬을 다운로드, 동기화, 호출, 맞춤 설정하여 워크플로 자동화와 장기 기억 관리를 효율적으로 수행하는 방법을 알아보세요."
   ogType="article"
 />

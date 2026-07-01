@@ -8,7 +8,7 @@ preview_content: "Разверните локальный экземпляр Ope
 ---
 
 <SeoMeta
-  title="Обзор Kimi Claw Desktop — Справочный центр Kimi"
+  title="Обзор Kimi Claw Desktop - Справочный центр Kimi"
   description="Узнайте, как в один клик развернуть локальный экземпляр OpenClaw в настольном приложении Kimi: скачать клиент, выполнить локальное развертывание и задать имя ассистента."
   ogType="article"
 />

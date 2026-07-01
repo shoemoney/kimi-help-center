@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Agent 크레딧 및 과금 - Kimi 도움말 센터"
+  title="Agent 크레딧 및 과금 - Kimi 헬프 센터"
   description="Agent 모드는 Kimi의 크레딧 시스템을 사용합니다. 모든 멤버십 혜택에는 두 개의 크레딧 풀이 포함됩니다. Kimi Code는 별도의 크레딧 풀을 사용하고, 그 외 멤버십 기능은 하나의 크레딧 풀을 공유하며 실제 token 사용량에 따라 quota가 차감됩니다."
 />
 

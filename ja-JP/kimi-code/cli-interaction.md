@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="操作と入力 - Kimiヘルプセンター"
+  title="操作と入力 - Kimi ヘルプセンター"
   description="Kimi Code CLIは、AIと効率よく協働するための複数の操作方法を備えています。"
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="자주 사용하는 활용 사례 - Kimi 도움말 센터"
+  title="자주 사용하는 활용 사례 - Kimi 헬프 센터"
   description="일상적인 개발에서 Kimi Code CLI를 활용하는 대표적인 시나리오와 참고용 예시 프롬프트를 소개합니다."
 />
 

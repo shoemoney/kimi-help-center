@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi Docs 활용 사례 및 프롬프트 라이브러리 - Kimi 도움말 센터"
+  title="Kimi Docs 활용 사례 및 프롬프트 라이브러리 - Kimi 헬프 센터"
   description="원고 검토부터 전문 번역, PDF 디자인까지, Kimi Docs 활용 사례와 프롬프트 예시를 소개합니다."
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Hướng dẫn bắt đầu nhanh Kimi Code cho VS Code - Trung tâm Trợ giúp Kimi"
+  title="Hướng dẫn bắt đầu nhanh Kimi Code cho VS Code - Trung tâm trợ giúp Kimi"
   description="Kimi Code cho VS Code là một tiện ích mở rộng tích hợp vào Visual Studio Code. Sau khi cài đặt, bạn có thể đặt câu hỏi, xem khác biệt mã và nhanh chóng commit các thay đổi..."
 />
 

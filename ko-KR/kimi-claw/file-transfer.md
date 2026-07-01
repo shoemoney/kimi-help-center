@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="파일 전송 - Kimi 도움말 센터"
+  title="파일 전송 - Kimi 헬프 센터"
   description="Kimi Claw는 파일을 보내고 받을 수 있습니다."
 />
 

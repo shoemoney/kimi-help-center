@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Skills란 무엇인가요? - Kimi 도움말 센터"
+  title="Skills란 무엇인가요? - Kimi 헬프 센터"
   description="Kimi Skills의 작동 원리, 유형, 사용법을 알아보세요. Skills는 특정 작업에서 Agent의 역량을 확장하기 위한 재사용 가능한 지식 패키지로, 지침, 모범 사례, 스크립트, 리소스를 포함합니다."
   ogType="article"
 />

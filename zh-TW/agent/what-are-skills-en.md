@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="什麼是 Skills？- Kimi 說明中心"
+  title="什麼是 Skills？ - Kimi 說明中心"
   description="了解 Kimi Skills 的運作原理、類型與使用方式。Skills 是可重複使用的知識套件，可在特定任務中擴充 Agent 能力，內含指令、最佳實務、腳本與資源。"
   ogType="article"
 />

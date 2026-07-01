@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Liên hệ với chúng tôi - Trung tâm Trợ giúp Kimi"
+  title="Liên hệ với chúng tôi - Trung tâm trợ giúp Kimi"
   description="Bạn cần hỗ trợ? Dưới đây là cách liên hệ với chúng tôi."
 />
 

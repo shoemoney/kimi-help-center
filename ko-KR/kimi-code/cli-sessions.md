@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="세션과 컨텍스트 - Kimi 도움말 센터"
+  title="세션과 컨텍스트 - Kimi 헬프 센터"
   description="Kimi Code CLI는 다중 세션 관리와 컨텍스트 유지를 지원하여 언제든 작업을 멈추고 다시 이어갈 수 있습니다."
 />
 

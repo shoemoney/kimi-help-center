@@ -9,7 +9,7 @@ preview: false
 # Agent 기능 및 제한 사항
 
 <SeoMeta
-  title="Agent 기능 및 제한 사항 - Kimi 도움말 센터"
+  title="Agent 기능 및 제한 사항 - Kimi 헬프 센터"
   description="Kimi Agent의 기능, 사용 팁, 제한 사항, 최적의 결과를 얻기 위한 모범 사례를 알아보세요."
 />
 

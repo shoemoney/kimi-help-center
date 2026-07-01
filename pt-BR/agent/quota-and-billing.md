@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Créditos e cobrança do Agent - Central de Ajuda da Kimi"
+  title="Créditos e cobrança do Agent - Central de Ajuda Kimi"
   description="O modo Agent usa o sistema de créditos da Kimi. Todos os benefícios de assinatura incluem dois pools de créditos: o Kimi Code usa um pool de créditos separado; os demais recursos de assinatura compartilham um único pool de créditos, com os créditos deduzidos conforme o consumo real de tokens."
 />
 

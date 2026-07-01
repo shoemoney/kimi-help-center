@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="ガイドと回答のための Agentic Search - Kimiヘルプセンター"
+  title="ガイドと回答のための Agentic Search - Kimi ヘルプセンター"
   description="Kimiの Agentic Search は、エンドツーエンドのエージェント型強化学習アーキテクチャの上に構築されています。従来のツール連携型アプローチとは異なり、AIが..."
 />
 

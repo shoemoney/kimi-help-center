@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Deep Research が止まったまま、または結果が返ってこない場合 - Kimiヘルプセンター"
+  title="Deep Research が止まったまま、または結果が返ってこない場合 - Kimi ヘルプセンター"
   description="Deep Research は広範なWeb検索、情報源の検証、推論を行います。ページの表示が更新されていないように見えても、タスクが中断されたとは限りま..."
 />
 

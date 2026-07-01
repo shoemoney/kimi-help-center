@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="API 오류 코드 - Kimi 도움말 센터"
+  title="API 오류 코드 - Kimi 헬프 센터"
   description="Kimi API 호출 시 자주 발생하는 오류 코드와 해결 방법입니다."
 />
 

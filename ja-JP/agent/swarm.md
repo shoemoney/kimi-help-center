@@ -59,7 +59,7 @@ K2.6 Agent Swarm [ベータ] は、PARL（Parallel-Agent Reinforcement Learning�
 4. 結果をプレビュー、ダウンロード、または共有します
 5. 以降のやり取りでは、単一の K2.6 Agent に切り替えて継続できます
 
-## 活用例
+## ユースケース
 
 ### 大規模な発見
 

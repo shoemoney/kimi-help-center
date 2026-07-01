@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Detalhes de preços - Central de Ajuda do Kimi"
+  title="Detalhes de preços - Central de Ajuda Kimi"
   description="O Kimi oferece cinco níveis de assinatura — incluindo um plano gratuito — cada um disponível como assinatura mensal ou anual. A cobrança anual economiza até US$ 480/ano."
 />
 

@@ -8,7 +8,7 @@ preview_content: "Kimi의 다섯 가지 멤버십 등급과 크레딧 시스템,
 ---
 
 <SeoMeta
-  title="Kimi 멤버십 개요 - Kimi 도움말 센터"
+  title="Kimi 멤버십 개요 - Kimi 헬프 센터"
   description="Kimi의 다섯 가지 멤버십 등급과 크레딧 시스템, 결제 옵션을 비교해 보세요."
 />
 

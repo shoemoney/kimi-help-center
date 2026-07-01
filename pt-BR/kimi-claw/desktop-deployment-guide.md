@@ -8,7 +8,7 @@ preview_content: "Implante uma instância local do OpenClaw com um clique no apl
 ---
 
 <SeoMeta
-  title="Visão geral do Kimi Claw Desktop - Central de Ajuda do Kimi"
+  title="Visão geral do Kimi Claw Desktop - Central de Ajuda Kimi"
   description="Saiba como implantar uma instância local do OpenClaw com um clique no aplicativo de desktop do Kimi, incluindo o download do cliente, a implantação local e a personalização do nome do seu assistente."
   ogType="article"
 />

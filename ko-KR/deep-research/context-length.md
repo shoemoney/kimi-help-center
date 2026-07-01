@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Deep Research의 컨텍스트 길이는 얼마인가요? - Kimi 고객센터"
+  title="Deep Research의 컨텍스트 길이는 얼마인가요? - Kimi 헬프 센터"
   description="Deep Research는 128K token(약 200,000단어)의 컨텍스트 길이를 사용합니다."
 />
 

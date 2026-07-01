@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Como escolher o modo de criação do Kimi Slides? - Central de Ajuda da Kimi"
+  title="Como escolher o modo de criação do Kimi Slides? - Central de Ajuda Kimi"
   description="Compare os dois modos de geração do Kimi Slides — o modo Adaptativo (design personalizado por IA) e o modo Visual (com tecnologia Nano Banana Pro) — e descubra como escolher o cenário e o modelo ideais para a sua apresentação."
 />
 

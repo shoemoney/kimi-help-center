@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Primeiros passos com o Kimi - Central de Ajuda do Kimi"
+  title="Primeiros passos com o Kimi - Central de Ajuda Kimi"
   description="Você pode digitar perguntas na caixa de chat, enviar arquivos ou alternar entre modelos conforme suas necessidades."
 />
 

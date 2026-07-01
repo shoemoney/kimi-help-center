@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="모델 선택 및 비교 - Kimi 도움말 센터"
+  title="모델 선택 및 비교 - Kimi 헬프 센터"
   description="기능, 속도, 가격을 기준으로 적합한 Kimi API 모델을 선택하세요."
 />
 

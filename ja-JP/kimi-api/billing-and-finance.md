@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="請求とお支払い - Kimiヘルプセンター"
+  title="請求とお支払い - Kimi ヘルプセンター"
   description="Kimi API の請求、料金、お支払いに関するよくある質問です。"
 />
 

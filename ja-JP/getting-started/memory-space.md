@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Memory Space（メモリースペース） - Kimiヘルプセンター"
+  title="Memory Space（メモリースペース） - Kimi ヘルプセンター"
   description="Kimiは、本当に「聞く」ことを覚えました。話せば話すほど、あなたのことをよく理解します。仕組みは次のとおりです："
 />
 

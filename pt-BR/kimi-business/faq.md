@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="FAQ do Kimi Business - Central de Ajuda do Kimi"
+  title="FAQ do Kimi Business - Central de Ajuda Kimi"
   description="Perguntas frequentes sobre o plano corporativo Kimi Business, incluindo elegibilidade de equipes, múltiplas organizações, ativação de benefícios, adição de assentos e transferência de administrador."
 />
 

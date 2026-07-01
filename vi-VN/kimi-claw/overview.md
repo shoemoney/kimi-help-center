@@ -8,7 +8,7 @@ preview_content: "Triển khai và quản lý trợ lý AI Kimi Claw của riên
 ---
 
 <SeoMeta
-  title="Tổng quan về Kimi Claw - Trung tâm Trợ giúp Kimi"
+  title="Tổng quan về Kimi Claw - Trung tâm trợ giúp Kimi"
   description="Triển khai và quản lý trợ lý AI Kimi Claw của riêng bạn trên đám mây chỉ với thiết lập một chạm."
 />
 

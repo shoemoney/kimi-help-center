@@ -8,7 +8,7 @@ preview_content: "AI 기반 Kimi Docs와 Kimi Sheets로 Word, PDF, Excel 문서�
 ---
 
 <SeoMeta
-  title="Kimi Docs & Kimi Sheets 개요 - Kimi 고객센터"
+  title="Kimi Docs & Kimi Sheets 개요 - Kimi 헬프 센터"
   description="AI 기반 Kimi Docs와 Kimi Sheets로 Word, PDF, Excel 문서를 만들고 편집하세요."
 />
 

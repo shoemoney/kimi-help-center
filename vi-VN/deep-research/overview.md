@@ -8,7 +8,7 @@ preview_content: "Khám phá cách Deep Research tự động lập kế hoạch
 ---
 
 <SeoMeta
-  title="Tổng quan về Deep Research - Trung tâm Trợ giúp Kimi"
+  title="Tổng quan về Deep Research - Trung tâm trợ giúp Kimi"
   description="Khám phá cách Deep Research tự động lập kế hoạch, tìm kiếm và tạo ra những báo cáo nghiên cứu dài hơn 10.000 từ."
 />
 

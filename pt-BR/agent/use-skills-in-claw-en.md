@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Usando Skills no Kimi Claw - Central de Ajuda da Kimi"
+  title="Usando Skills no Kimi Claw - Central de Ajuda Kimi"
   description="Aprenda a baixar, sincronizar, acionar e personalizar skills no Kimi Claw para automação eficiente de fluxos de trabalho e gerenciamento de memória de longo prazo."
   ogType="article"
 />

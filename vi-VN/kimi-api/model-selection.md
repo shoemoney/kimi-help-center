@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Lựa chọn và so sánh mô hình - Trung tâm Trợ giúp Kimi"
+  title="Lựa chọn và so sánh mô hình - Trung tâm trợ giúp Kimi"
   description="Chọn mô hình Kimi API phù hợp dựa trên năng lực, tốc độ và giá cả."
 />
 

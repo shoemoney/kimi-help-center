@@ -8,7 +8,7 @@ preview_content: "Bắt đầu sử dụng nền tảng Kimi API để sinh văn
 ---
 
 <SeoMeta
-  title="Tổng quan về Kimi API - Trung tâm Trợ giúp Kimi"
+  title="Tổng quan về Kimi API - Trung tâm trợ giúp Kimi"
   description="Bắt đầu sử dụng nền tảng Kimi API để sinh văn bản, hội thoại, phân tích tệp và tìm kiếm web."
 />
 

@@ -8,7 +8,7 @@ preview_content: "Узнайте об автономном выполнении 
 ---
 
 <SeoMeta
-  title="Обзор K2.6 Agent — Справочный центр Kimi"
+  title="Обзор K2.6 Agent - Справочный центр Kimi"
   description="Узнайте о возможностях, развитии и сценариях использования Kimi K2.6 Agent."
 />
 

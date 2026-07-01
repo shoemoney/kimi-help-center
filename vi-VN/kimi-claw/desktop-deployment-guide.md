@@ -8,7 +8,7 @@ preview_content: "Triển khai một phiên bản OpenClaw cục bộ chỉ vớ
 ---
 
 <SeoMeta
-  title="Tổng quan về Kimi Claw Desktop - Trung tâm Trợ giúp Kimi"
+  title="Tổng quan về Kimi Claw Desktop - Trung tâm trợ giúp Kimi"
   description="Tìm hiểu cách triển khai một phiên bản OpenClaw cục bộ chỉ với một cú nhấp chuột trong ứng dụng Kimi cho máy tính, bao gồm tải xuống ứng dụng, triển khai cục bộ và tùy chỉnh tên trợ lý của bạn."
   ogType="article"
 />

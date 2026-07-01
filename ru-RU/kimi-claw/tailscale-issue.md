@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Разрыв соединения Tailscale — Справочный центр Kimi"
+  title="Разрыв соединения Tailscale - Справочный центр Kimi"
   description="Если Kimi Claw теряет подключение после настройки Tailscale, почти всегда причина в переопределении DNS — Tailscale заменяет системные настройки DNS, из-за чего н..."
 />
 

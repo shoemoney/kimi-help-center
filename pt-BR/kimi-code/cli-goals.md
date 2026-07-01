@@ -8,7 +8,7 @@ preview_content: "Use metas para manter o Kimi Code trabalhando em direção a u
 ---
 
 <SeoMeta
-  title="Metas - Central de Ajuda do Kimi"
+  title="Metas - Central de Ajuda Kimi"
   description="Use /goal para manter o Kimi Code trabalhando em direção a um resultado definido ao longo de várias interações. Aprenda quando usar metas, como gerenciar seu ciclo de vida e como enfileirar metas futuras."
 />
 

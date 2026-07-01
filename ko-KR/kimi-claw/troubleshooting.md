@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="일반 문제 해결 - Kimi 고객센터"
+  title="일반 문제 해결 - Kimi 헬프 센터"
   description="이 페이지에서는 Kimi Claw의 일반적인 오류 코드와 자가 복구 방법을 안내합니다."
 />
 

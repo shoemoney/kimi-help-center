@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Desinstalar o plugin do Kimi - Central de Ajuda do Kimi"
+  title="Desinstalar o plugin do Kimi - Central de Ajuda Kimi"
   description="Isto se aplica apenas a dispositivos OpenClaw auto-hospedados que você vinculou ao Kimi. Certifique-se de executar isto na sua própria máquina."
 />
 

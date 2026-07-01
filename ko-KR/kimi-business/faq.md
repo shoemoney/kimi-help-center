@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi Business 자주 묻는 질문 - Kimi 도움말 센터"
+  title="Kimi Business 자주 묻는 질문 - Kimi 헬프 센터"
   description="Kimi Business 엔터프라이즈 요금제에 관해 자주 묻는 질문입니다. 팀 이용 조건, 여러 조직 참여, 혜택 활성화, 시트 추가, 관리자 이전 등을 안내합니다."
 />
 

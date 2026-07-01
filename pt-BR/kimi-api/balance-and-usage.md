@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Saldo e consumo - Central de Ajuda da Kimi"
+  title="Saldo e consumo - Central de Ajuda Kimi"
   description="A Kimi API oferece várias formas de consultar o saldo da sua conta e os detalhes de consumo, ajudando você a acompanhar o uso e os custos."
 />
 

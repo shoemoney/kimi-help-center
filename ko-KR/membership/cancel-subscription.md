@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="구독 취소 - Kimi 고객센터"
+  title="구독 취소 - Kimi 헬프 센터"
   description="자동 갱신은 언제든지 취소할 수 있습니다. 취소 후에도 멤버십 혜택은 현재 결제 주기가 끝날 때까지 유지됩니다."
 />
 

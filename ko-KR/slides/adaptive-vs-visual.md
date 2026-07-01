@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi Slides 제작 모드는 어떻게 선택하나요? - Kimi 고객센터"
+  title="Kimi Slides 제작 모드는 어떻게 선택하나요? - Kimi 헬프 센터"
   description="Kimi Slides의 두 가지 생성 모드, 즉 적응형 모드(AI 맞춤 디자인)와 비주얼 모드(nano banana pro 기반)를 비교하고, 프레젠테이션에 맞는 시나리오와 템플릿을 선택하는 방법을 알아보세요."
 />
 

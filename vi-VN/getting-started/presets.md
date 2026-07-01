@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Mẫu lệnh - Trung tâm Trợ giúp Kimi"
+  title="Mẫu lệnh - Trung tâm trợ giúp Kimi"
   description="Mẫu lệnh là tính năng nhập nhanh của Kimi, cho phép bạn lưu những câu lệnh thường dùng và gọi ra chỉ với một cú nhấp trong bất kỳ phiên trò chuyện nào — không còn phải gõ lại nhiều lần..."
 />
 

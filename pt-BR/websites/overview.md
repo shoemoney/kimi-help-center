@@ -8,7 +8,7 @@ preview_content: "Crie e publique sites a partir de descrições em linguagem na
 ---
 
 <SeoMeta
-  title="Visão geral do Kimi Websites - Central de Ajuda da Kimi"
+  title="Visão geral do Kimi Websites - Central de Ajuda Kimi"
   description="Crie e publique sites a partir de descrições em linguagem natural, mockups de design ou modelos."
 />
 

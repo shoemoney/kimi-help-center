@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Dicas de memória - Central de Ajuda do Kimi"
+  title="Dicas de memória - Central de Ajuda Kimi"
   description="Sou nome/apelido, atualmente em cidade. Tenho formação em profissão/função, com especialização em área 1 e área 2."
 />
 

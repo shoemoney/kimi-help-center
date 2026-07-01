@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Обзор Kimi Claw Android — Справочный центр Kimi"
+  title="Обзор Kimi Claw Android - Справочный центр Kimi"
   description="Узнайте, как развернуть OpenClaw на телефоне Android и превратить его в круглосуточного удалённого AI-помощника."
   ogType="article"
 />

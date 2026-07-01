@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Présentation de Kimi Claw Android - Centre d’aide Kimi"
+  title="Présentation de Kimi Claw Android - Centre d'aide Kimi"
   description="Découvrez comment déployer OpenClaw sur votre téléphone Android et le transformer en assistant distant IA disponible 24 h/24, 7 j/7."
   ogType="article"
 />

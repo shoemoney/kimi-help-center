@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="서드파티 코딩 에이전트와 함께 사용하기 - Kimi 도움말 센터"
+  title="서드파티 코딩 에이전트와 함께 사용하기 - Kimi 헬프 센터"
   description="Kimi Code 혜택은 Claude Code 및 Roo Code와 함께 사용할 수 있어, 즐겨 쓰는 코딩 도구 안에서 Kimi의 AI 기능을 누릴 수 있습니다."
 />
 

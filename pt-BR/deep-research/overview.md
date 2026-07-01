@@ -8,7 +8,7 @@ preview_content: "Descubra como o Deep Research planeja, pesquisa e entrega rela
 ---
 
 <SeoMeta
-  title="Visão geral do Deep Research - Central de Ajuda do Kimi"
+  title="Visão geral do Deep Research - Central de Ajuda Kimi"
   description="Descubra como o Deep Research planeja, pesquisa e entrega relatórios de pesquisa com mais de 10.000 palavras de forma autônoma."
 />
 

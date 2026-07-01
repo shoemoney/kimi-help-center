@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Faturas - Central de Ajuda da Kimi"
+  title="Faturas - Central de Ajuda Kimi"
   description="A Kimi permite gerar faturas de forma autônoma para seus pagamentos de assinatura."
 />
 

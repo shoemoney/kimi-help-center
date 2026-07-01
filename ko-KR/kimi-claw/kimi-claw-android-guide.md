@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi Claw Android 개요 - Kimi 도움말 센터"
+  title="Kimi Claw Android 개요 - Kimi 헬프 센터"
   description="Android 휴대폰에 OpenClaw를 배포해 24시간 AI 원격 어시스턴트로 활용하는 방법을 알아보세요."
   ogType="article"
 />

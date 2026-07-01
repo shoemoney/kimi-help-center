@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="가이드와 답변을 위한 Agentic Search - Kimi 도움말 센터"
+  title="가이드와 답변을 위한 Agentic Search - Kimi 헬프 센터"
   description="Kimi의 Agentic Search는 End-to-End Agentic RL 아키텍처를 기반으로 합니다. 기존의 도구 오케스트레이션 방식과 달리 AI가..."
 />
 

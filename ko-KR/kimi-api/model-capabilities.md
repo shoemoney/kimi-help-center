@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="모델 기능 - Kimi 도움말 센터"
+  title="모델 기능 - Kimi 헬프 센터"
   description="아래에서 Kimi API 모델 기능에 관해 자주 묻는 질문을 확인할 수 있습니다."
 />
 

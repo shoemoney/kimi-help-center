@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Передача файлов — Справочный центр Kimi"
+  title="Передача файлов - Справочный центр Kimi"
   description="Kimi Claw поддерживает отправку и получение файлов."
 />
 

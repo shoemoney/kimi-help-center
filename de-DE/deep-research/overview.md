@@ -8,7 +8,7 @@ preview_content: "Erfahren Sie, wie Deep Research eigenständig plant, recherchi
 ---
 
 <SeoMeta
-  title="Deep Research im Überblick – Kimi Hilfecenter"
+  title="Deep Research im Überblick - Kimi Hilfecenter"
   description="Erfahren Sie, wie Deep Research eigenständig plant, recherchiert und Forschungsberichte mit über 10.000 Wörtern liefert."
 />
 

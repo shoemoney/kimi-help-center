@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Hướng tìm kiếm hoặc suy luận bị sai? - Trung tâm Trợ giúp Kimi"
+  title="Hướng tìm kiếm hoặc suy luận bị sai? - Trung tâm trợ giúp Kimi"
   description="Nếu hướng tìm kiếm hoặc suy luận của Deep Research lệch quá nhiều so với kỳ vọng, hãy nhấn nút &quot;👎&quot; ở cuối trang và mô tả ngắn gọn vấn đề..."
 />
 

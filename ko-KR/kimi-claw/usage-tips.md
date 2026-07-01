@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="활용 팁 - Kimi 도움말 센터"
+  title="활용 팁 - Kimi 헬프 센터"
   description="Kimi Claw는 단순한 질의응답 도구가 아니라, 원하는 대로 빚어낼 수 있는 어시스턴트입니다. 규칙을 정해 주면 새로운 성격을 갖추고, 방법을 가르쳐 주면 습관이 되며, 일정을 알려 주면 당신이..."
 />
 

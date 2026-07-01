@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Sử dụng Skills trong Kimi Code - Trung tâm Trợ giúp Kimi"
+  title="Sử dụng Skills trong Kimi Code - Trung tâm trợ giúp Kimi"
   description="Tìm hiểu cách tạo và gọi Skills trong Kimi Code CLI để chuẩn hóa quy ước lập trình của nhóm và tự động hóa quy trình phát triển."
   ogType="article"
 />

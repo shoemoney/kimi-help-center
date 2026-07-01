@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi 시작하기 - Kimi 도움말 센터"
+  title="Kimi 시작하기 - Kimi 헬프 센터"
   description="채팅창에 질문을 입력하거나 파일을 업로드하고, 필요에 따라 모델을 전환할 수 있습니다."
 />
 

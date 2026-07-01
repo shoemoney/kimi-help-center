@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Solución de problemas de la API - Centro de Ayuda de Kimi"
+  title="Solución de problemas de la API - Centro de ayuda de Kimi"
   description="Problemas comunes y soluciones para desarrolladores que usan la API de Kimi."
 />
 

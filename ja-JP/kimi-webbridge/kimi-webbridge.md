@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi WebBridgeの紹介 - Kimiヘルプセンター"
+  title="Kimi WebBridgeの紹介 - Kimi ヘルプセンター"
   description="Kimi WebBridgeは、AI Agent向けに設計されたブラウザ拡張機能です。ChromeまたはEdgeブラウザ上で直接動作し、既存のログインセッションを活用して、Agentが人間のようにWebページを操作できるようにします。"
   ogType="article"
 />

@@ -8,7 +8,7 @@ preview_content: "Интегрируйте Kimi Code CLI в вашу IDE чер�
 ---
 
 <SeoMeta
-  title="Интеграция с IDE — Справочный центр Kimi"
+  title="Интеграция с IDE - Справочный центр Kimi"
   description="Интегрируйте Kimi Code CLI в вашу IDE через Agent Client Protocol (ACP). Инструкции по настройке Zed, IDE JetBrains и Paseo, а также устранение неполадок."
 />
 

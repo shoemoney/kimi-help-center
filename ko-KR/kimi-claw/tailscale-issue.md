@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Tailscale 연결 끊김 - Kimi 도움말 센터"
+  title="Tailscale 연결 끊김 - Kimi 헬프 센터"
   description="Tailscale 설정 후 Kimi Claw의 연결이 끊긴다면 원인은 대부분 DNS 재정의입니다. Tailscale이 시스템의 DNS 설정을 바꾸면서 Kimi Claw가 호스트 이름을 해석하지 못하..."
 />
 

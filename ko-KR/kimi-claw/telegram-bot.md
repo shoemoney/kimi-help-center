@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Telegram 봇 - Kimi 도움말 센터"
+  title="Telegram 봇 - Kimi 헬프 센터"
   description="Kimi Claw를 Telegram에 연결하면 브라우저 없이도 어떤 기기에서든 대화할 수 있습니다."
 />
 

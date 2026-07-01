@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Khả năng của mô hình - Trung tâm Trợ giúp Kimi"
+  title="Khả năng của mô hình - Trung tâm trợ giúp Kimi"
   description="Dưới đây là những câu hỏi thường gặp về khả năng của mô hình Kimi API."
 />
 

@@ -8,7 +8,7 @@ preview_content: "Установка Kimi Code CLI, вход в систему �
 ---
 
 <SeoMeta
-  title="Установка и быстрый старт Kimi Code CLI — Справочный центр Kimi"
+  title="Установка и быстрый старт Kimi Code CLI - Справочный центр Kimi"
   description="Начните работу с Kimi Code CLI: команды установки, использование в терминале и браузере, первый вход и создание AGENTS.md с помощью /init."
 />
 

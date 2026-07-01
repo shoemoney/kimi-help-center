@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="계정 및 인증 - Kimi 도움말 센터"
+  title="계정 및 인증 - Kimi 헬프 센터"
   description="Kimi API 개발자 계정, 인증 및 본인 확인에 관한 자주 묻는 질문입니다."
 />
 

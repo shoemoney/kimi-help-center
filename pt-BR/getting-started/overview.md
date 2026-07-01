@@ -8,7 +8,7 @@ preview_content: "Conheça os modos de chat, os agentes de IA, o tratamento de a
 ---
 
 <SeoMeta
-  title="Visão geral do Kimi - Central de Ajuda do Kimi"
+  title="Visão geral do Kimi - Central de Ajuda Kimi"
   description="Conheça os modos de chat, os agentes de IA, o tratamento de arquivos e o guia da interface do Kimi para começar."
 />
 

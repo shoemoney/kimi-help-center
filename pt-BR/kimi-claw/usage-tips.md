@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Dicas de uso - Central de Ajuda do Kimi"
+  title="Dicas de uso - Central de Ajuda Kimi"
   description="O Kimi Claw não é apenas uma ferramenta de perguntas e respostas — é um assistente que você molda como quiser. Defina as regras e ele adota uma nova personalidade. Ensine um método e ele cria um hábito. Dê uma agenda e ele mantém você no rumo..."
 />
 

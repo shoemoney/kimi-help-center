@@ -8,7 +8,7 @@ preview_content: "Разверните собственного AI-ассист�
 ---
 
 <SeoMeta
-  title="Обзор Kimi Claw — Справочный центр Kimi"
+  title="Обзор Kimi Claw - Справочный центр Kimi"
   description="Разверните собственного AI-ассистента Kimi Claw в облаке одним кликом и управляйте им."
 />
 

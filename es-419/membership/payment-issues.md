@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Problemas con los pagos - Centro de Ayuda de Kimi"
+  title="Problemas con los pagos - Centro de ayuda de Kimi"
   description="¿Tienes inconvenientes con la facturación? Aquí están las situaciones más comunes y cómo resolverlas."
 />
 

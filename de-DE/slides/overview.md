@@ -8,7 +8,7 @@ preview_content: "Erstellen Sie mit dem KI-gestützten Slides-Tool von Kimi aus 
 ---
 
 <SeoMeta
-  title="Kimi Slides im Überblick – Kimi Hilfecenter"
+  title="Kimi Slides im Überblick - Kimi Hilfecenter"
   description="Erstellen Sie mit dem KI-gestützten Slides-Tool von Kimi aus Text oder Dokumenten ansprechende Präsentationen."
 />
 

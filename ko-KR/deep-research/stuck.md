@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Deep Research가 멈춘 것 같거나 결과가 나오지 않나요? - Kimi 도움말 센터"
+  title="Deep Research가 멈춘 것 같거나 결과가 나오지 않나요? - Kimi 헬프 센터"
   description="Deep Research는 광범위한 웹 검색, 출처 검증, 추론을 수행합니다. 화면에 변화가 없어 보여도 작업이 중단되었다는 뜻은 아닙..."
 />
 

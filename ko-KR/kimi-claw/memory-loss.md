@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="메모리 손실과 컨텍스트 - Kimi 도움말 센터"
+  title="메모리 손실과 컨텍스트 - Kimi 헬프 센터"
   description="OpenClaw는 매일 오전 4:00에 대화를 자동으로 초기화합니다. 컨텍스트가 지나치게 길어져 환각이 발생하거나 답변 품질이 떨어지는 일을 막기 위해서입니다."
 />
 

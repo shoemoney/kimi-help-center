@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Telegram-бот — Справочный центр Kimi"
+  title="Telegram-бот - Справочный центр Kimi"
   description="Подключите Kimi Claw к Telegram, чтобы общаться с ним с любого устройства — браузер не нужен."
 />
 

@@ -8,7 +8,7 @@ preview_content: "텍스트 생성, 대화, 파일 파싱, Web Search를 위한 
 ---
 
 <SeoMeta
-  title="Kimi API 개요 - Kimi 도움말 센터"
+  title="Kimi API 개요 - Kimi 헬프 센터"
   description="텍스트 생성, 대화, 파일 파싱, Web Search를 위한 Kimi API 플랫폼을 시작해 보세요."
 />
 

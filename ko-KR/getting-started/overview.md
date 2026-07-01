@@ -8,7 +8,7 @@ preview_content: "Kimi의 채팅 모드, AI 에이전트, 파일 처리, 인터�
 ---
 
 <SeoMeta
-  title="Kimi 개요 - Kimi 도움말 센터"
+  title="Kimi 개요 - Kimi 헬프 센터"
   description="Kimi의 채팅 모드, AI 에이전트, 파일 처리, 인터페이스 가이드를 살펴보고 시작해 보세요."
 />
 

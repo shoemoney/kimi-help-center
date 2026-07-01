@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Qual é o comprimento de contexto do Deep Research? - Central de Ajuda da Kimi"
+  title="Qual é o comprimento de contexto do Deep Research? - Central de Ajuda Kimi"
   description="O Deep Research usa um comprimento de contexto de 128K tokens, aproximadamente 200.000 palavras."
 />
 

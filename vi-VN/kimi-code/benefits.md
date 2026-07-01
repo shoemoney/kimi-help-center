@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Quyền lợi - Trung tâm Trợ giúp Kimi"
+  title="Quyền lợi - Trung tâm trợ giúp Kimi"
   description="Kimi Code là dịch vụ đi kèm trong gói hội viên Kimi, mang đến các tính năng và hỗ trợ liên quan đến lập trình, giúp hội viên hoàn thành tác vụ lập trình hiệu quả hơn..."
 />
 

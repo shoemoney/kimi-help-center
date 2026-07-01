@@ -8,7 +8,7 @@ preview_content: "K2.6 Agent의 자율 작업 실행, 20개 이상의 도구, �
 ---
 
 <SeoMeta
-  title="K2.6 Agent 개요 - Kimi 도움말 센터"
+  title="K2.6 Agent 개요 - Kimi 헬프 센터"
   description="Kimi K2.6 Agent의 기능, 발전 과정, 활용 사례를 알아보세요."
 />
 

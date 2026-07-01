@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="VS Code용 Kimi Code 빠른 시작 - Kimi 도움말 센터"
+  title="VS Code용 Kimi Code 빠른 시작 - Kimi 헬프 센터"
   description="VS Code용 Kimi Code는 Visual Studio Code에 통합된 확장 프로그램입니다. 설치하면 질문을 하고, 코드 변경 사항을 검토하며, 변경 내용을 빠르게 커밋할 수 있습니다..."
 />
 

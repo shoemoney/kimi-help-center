@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="인보이스 - Kimi 도움말 센터"
+  title="인보이스 - Kimi 헬프 센터"
   description="Kimi는 멤버십 결제에 대한 셀프 서비스 인보이스 발급을 지원합니다."
 />
 

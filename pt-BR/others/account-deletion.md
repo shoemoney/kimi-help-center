@@ -8,7 +8,7 @@ preview_content: "Encontre respostas para dúvidas comuns sobre conta, perfil e 
 ---
 
 <SeoMeta
-  title="Exclusão de conta e remoção de dados - Central de Ajuda da Kimi"
+  title="Exclusão de conta e remoção de dados - Central de Ajuda Kimi"
   description="Encontre respostas para dúvidas comuns sobre conta, perfil e gerenciamento de dados."
 />
 

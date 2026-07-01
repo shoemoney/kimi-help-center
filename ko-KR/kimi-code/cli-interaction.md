@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="상호작용 및 입력 - Kimi 도움말 센터"
+  title="상호작용 및 입력 - Kimi 헬프 센터"
   description="Kimi Code CLI는 다양한 상호작용 방식을 제공하여 AI와 효율적으로 협업할 수 있도록 돕습니다."
 />
 

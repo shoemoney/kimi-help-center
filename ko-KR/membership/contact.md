@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="문의하기 - Kimi 고객센터"
+  title="문의하기 - Kimi 헬프 센터"
   description="도움이 필요하신가요? 문의 방법을 안내해 드립니다."
 />
 

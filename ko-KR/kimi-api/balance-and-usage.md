@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="잔액 및 사용량 - Kimi 도움말 센터"
+  title="잔액 및 사용량 - Kimi 헬프 센터"
   description="Kimi API는 계정 잔액과 사용량 세부 정보를 확인할 수 있는 여러 방법을 제공하여, 사용량과 비용을 쉽게 추적할 수 있도록 돕습니다."
 />
 

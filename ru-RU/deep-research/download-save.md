@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Не удаётся скачать или сохранить отчёт Deep Research? — Справочный центр Kimi"
+  title="Не удаётся скачать или сохранить отчёт Deep Research? - Справочный центр Kimi"
   description="Deep Research создаёт отчёты двух типов, и оба можно скачать."
 />
 

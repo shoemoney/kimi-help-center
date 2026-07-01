@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Benefícios - Central de Ajuda do Kimi"
+  title="Benefícios - Central de Ajuda Kimi"
   description="O Kimi Code é um serviço incluído no plano de assinatura do Kimi, que oferece suporte e recursos voltados para programação para ajudar os membros a concluir tarefas de programação com mais ef..."
 />
 

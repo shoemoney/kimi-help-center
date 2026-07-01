@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Цены на API — Справочный центр Kimi"
+  title="Цены на API - Справочный центр Kimi"
   description="Тарификация Kimi API основана на расходе token; цены зависят от модели и используемых функций."
 />
 

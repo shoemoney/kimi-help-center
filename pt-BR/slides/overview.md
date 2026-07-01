@@ -8,7 +8,7 @@ preview_content: "Crie apresentações sofisticadas a partir de textos ou docume
 ---
 
 <SeoMeta
-  title="Visão geral do Kimi Slides - Central de Ajuda do Kimi"
+  title="Visão geral do Kimi Slides - Central de Ajuda Kimi"
   description="Crie apresentações sofisticadas a partir de textos ou documentos com a ferramenta Slides de IA do Kimi."
 />
 

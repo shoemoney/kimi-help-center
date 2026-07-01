@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Predefinições - Central de Ajuda do Kimi"
+  title="Predefinições - Central de Ajuda Kimi"
   description="As predefinições são o recurso de prompts rápidos do Kimi, que permite salvar prompts usados com frequência e acioná-los com um único clique em qualquer sessão — sem mais digitação repe..."
 />
 

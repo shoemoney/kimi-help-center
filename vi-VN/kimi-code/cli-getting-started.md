@@ -8,7 +8,7 @@ preview_content: "Hướng dẫn cài đặt, đăng nhập và làm quen với 
 ---
 
 <SeoMeta
-  title="Cài đặt & Bắt đầu nhanh với Kimi Code CLI - Trung tâm Trợ giúp Kimi"
+  title="Cài đặt & Bắt đầu nhanh với Kimi Code CLI - Trung tâm trợ giúp Kimi"
   description="Bắt đầu với Kimi Code CLI: lệnh cài đặt, sử dụng qua terminal và trình duyệt, đăng nhập lần đầu và tạo AGENTS.md với /init."
 />
 

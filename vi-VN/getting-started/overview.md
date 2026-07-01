@@ -8,7 +8,7 @@ preview_content: "Khám phá các chế độ trò chuyện, AI agent, khả nă
 ---
 
 <SeoMeta
-  title="Tổng quan về Kimi - Trung tâm Trợ giúp Kimi"
+  title="Tổng quan về Kimi - Trung tâm trợ giúp Kimi"
   description="Khám phá các chế độ trò chuyện, AI agent, khả năng xử lý tệp cùng hướng dẫn giao diện của Kimi để bắt đầu."
 />
 

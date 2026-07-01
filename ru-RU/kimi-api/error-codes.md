@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Коды ошибок API — Справочный центр Kimi"
+  title="Коды ошибок API - Справочный центр Kimi"
   description="Распространённые коды ошибок при вызове Kimi API и способы их устранения."
 />
 

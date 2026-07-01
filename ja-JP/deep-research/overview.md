@@ -8,7 +8,7 @@ preview_content: "Deep Researchが自律的に計画を立て、検索し、1万
 ---
 
 <SeoMeta
-  title="Deep Researchの概要 - Kimiヘルプセンター"
+  title="Deep Researchの概要 - Kimi ヘルプセンター"
   description="Deep Researchが自律的に計画を立て、検索し、1万語以上の調査レポートを作成する仕組みをご紹介します。"
 />
 
@@ -56,7 +56,7 @@ Deep Researchは非同期で動作し、段階的な推論、検索、執筆に1
   alt="DRレポート"
 />
 
-## 活用例
+## ユースケース
 
 <Callout type="tip">
 **特に適した用途**：投資分析、業界調査、学術トピック、戦略立案、規制レビュー、知識の体系化

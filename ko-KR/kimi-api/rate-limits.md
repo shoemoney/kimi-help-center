@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Rate limits - Kimi 고객센터"
+  title="Rate limits - Kimi 헬프 센터"
   description="Kimi API는 플랫폼 안정성과 공정한 사용을 위해 요청 빈도와 concurrency에 rate limit을 적용합니다. Rate limit 등급은 계정의..."
 />
 

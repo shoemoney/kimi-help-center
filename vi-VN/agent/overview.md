@@ -8,7 +8,7 @@ preview_content: "Tìm hiểu khả năng thực thi tác vụ tự động, hơ
 ---
 
 <SeoMeta
-  title="Tổng quan về K2.6 Agent - Trung tâm Trợ giúp Kimi"
+  title="Tổng quan về K2.6 Agent - Trung tâm trợ giúp Kimi"
   description="Khám phá khả năng, quá trình phát triển và các tình huống sử dụng của Kimi K2.6 Agent."
 />
 

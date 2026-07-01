@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Deep Research 활용 사례 및 프롬프트 라이브러리 - Kimi 도움말 센터"
+  title="Deep Research 활용 사례 및 프롬프트 라이브러리 - Kimi 헬프 센터"
   description="저는 전문 증권 애널리스트입니다. 재무 관점에서 Pop Mart를 심층 분석해 주세요. 분석에는 다음이 포함되어야 하지만..."
 />
 

@@ -8,7 +8,7 @@ preview_content: "Tạo bài thuyết trình chỉn chu từ văn bản hoặc t
 ---
 
 <SeoMeta
-  title="Tổng quan về Kimi Slides - Trung tâm Trợ giúp Kimi"
+  title="Tổng quan về Kimi Slides - Trung tâm trợ giúp Kimi"
   description="Tạo bài thuyết trình chỉn chu từ văn bản hoặc tài liệu bằng công cụ Slides hỗ trợ bởi AI của Kimi."
 />
 

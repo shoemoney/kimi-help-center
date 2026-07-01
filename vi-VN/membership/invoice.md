@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Hóa đơn - Trung tâm Trợ giúp Kimi"
+  title="Hóa đơn - Trung tâm trợ giúp Kimi"
   description="Kimi hỗ trợ tự tạo hóa đơn cho các khoản thanh toán thành viên của bạn."
 />
 

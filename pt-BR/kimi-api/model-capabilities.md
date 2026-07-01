@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Capacidades do modelo - Central de Ajuda da Kimi"
+  title="Capacidades do modelo - Central de Ajuda Kimi"
   description="Veja abaixo as perguntas frequentes sobre as capacidades dos modelos da Kimi API."
 />
 

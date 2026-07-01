@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Mất kết nối Tailscale - Trung tâm Trợ giúp Kimi"
+  title="Mất kết nối Tailscale - Trung tâm trợ giúp Kimi"
   description="Nếu Kimi Claw mất kết nối sau khi bạn thiết lập Tailscale, nguyên nhân gần như luôn là do DNS bị ghi đè — Tailscale thay thế cài đặt DNS của hệ thống, khiến..."
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="請求書 - Kimiヘルプセンター"
+  title="請求書 - Kimi ヘルプセンター"
   description="Kimiでは、メンバーシップのお支払いに関する請求書をセルフサービスで発行できます。"
 />
 

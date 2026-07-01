@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Problemas comuns no chat do Kimi - Central de Ajuda do Kimi"
+  title="Problemas comuns no chat do Kimi - Central de Ajuda Kimi"
   description="Está com problemas nas conversas do Kimi? Este artigo reúne as etapas para resolver as questões mais comuns do chat, como respostas interrompidas, conteúdo anormal e falhas de carregamento, para você resolver rápido."
 />
 

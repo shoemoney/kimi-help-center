@@ -8,7 +8,7 @@ preview_content: "Tạo và chỉnh sửa tài liệu Word, PDF và Excel với 
 ---
 
 <SeoMeta
-  title="Tổng quan về Kimi Docs & Kimi Sheets - Trung tâm Trợ giúp Kimi"
+  title="Tổng quan về Kimi Docs & Kimi Sheets - Trung tâm trợ giúp Kimi"
   description="Tạo và chỉnh sửa tài liệu Word, PDF và Excel với Kimi Docs và Kimi Sheets được hỗ trợ bởi AI."
 />
 

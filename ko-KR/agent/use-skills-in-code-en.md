@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi Code에서 스킬 사용하기 - Kimi 도움말 센터"
+  title="Kimi Code에서 스킬 사용하기 - Kimi 헬프 센터"
   description="Kimi Code CLI에서 스킬을 만들고 호출하여 팀의 코딩 규칙을 표준화하고 개발 워크플로를 자동화하는 방법을 알아보세요."
   ogType="article"
 />

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Contato & feedback - Central de Ajuda do Kimi"
+  title="Contato & feedback - Central de Ajuda Kimi"
   description="Saiba como entrar em contato com a equipe da Kimi para relatar problemas, enviar relatórios de bugs e sugerir recursos. Seu feedback é uma base importante para melhorarmos nosso produto."
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Введение в Kimi WebBridge — Справочный центр Kimi"
+  title="Введение в Kimi WebBridge - Справочный центр Kimi"
   description="Kimi WebBridge — расширение для браузера, созданное для AI-агентов. Оно работает прямо в вашем браузере Chrome или Edge и использует уже открытые сеансы входа, чтобы агенты могли взаимодействовать с веб-страницами как человек."
   ogType="article"
 />

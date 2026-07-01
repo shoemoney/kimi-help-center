@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="데이터 처리 및 보안 - Kimi 도움말 센터"
+  title="데이터 처리 및 보안 - Kimi 헬프 센터"
   description="Kimi API의 사용자 데이터 보안 및 개인정보 보호 FAQ입니다."
 />
 

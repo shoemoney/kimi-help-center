@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Rate limits (лимиты запросов) — Справочный центр Kimi"
+  title="Rate limits (лимиты запросов) - Справочный центр Kimi"
   description="Kimi API применяет rate limits к частоте запросов и concurrency, чтобы обеспечить стабильность платформы и справедливое использование. Уровень rate limit зависит от..."
 />
 

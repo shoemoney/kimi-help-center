@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="비즈니스 협력 및 영업 - Kimi 도움말 센터"
+  title="비즈니스 협력 및 영업 - Kimi 헬프 센터"
   description="기업 고객을 위한 협력 방안 — 대량 사용 할인부터 맞춤형 SLA까지."
 />
 

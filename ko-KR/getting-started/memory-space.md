@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Memory Space - Kimi 도움말 센터"
+  title="Memory Space - Kimi 헬프 센터"
   description="Kimi는 이제 진짜로 귀 기울이는 법을 배웠습니다. 대화를 나눌수록 당신을 더 잘 이해하죠. 작동 방식은 다음과 같습니다."
 />
 

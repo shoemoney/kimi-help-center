@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Limites de taxa - Central de Ajuda da Kimi"
+  title="Limites de taxa - Central de Ajuda Kimi"
   description="A Kimi API aplica limites de taxa sobre a frequência de requisições e a concurrency para garantir a estabilidade da plataforma e o uso justo. Os níveis de rate limit são definidos com base no..."
 />
 

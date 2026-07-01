@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="O que são Skills? - Central de Ajuda do Kimi"
+  title="O que são Skills? - Central de Ajuda Kimi"
   description="Entenda os princípios de funcionamento, os tipos e o uso das Kimi Skills. As Skills são pacotes de conhecimento reutilizáveis para ampliar as capacidades do Agent em tarefas específicas, reunindo instruções, melhores práticas, scripts e recursos."
   ogType="article"
 />

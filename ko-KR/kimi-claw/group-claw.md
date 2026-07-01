@@ -8,7 +8,7 @@ preview_content: "여러 Claw를 하나의 그룹 채팅에 초대하고, Kimi�
 ---
 
 <SeoMeta
-  title="Claw 그룹 채팅 개요 - Kimi 도움말 센터"
+  title="Claw 그룹 채팅 개요 - Kimi 헬프 센터"
   description="Claw 그룹 채팅을 만들고, 여러 Claw를 초대하며, 작업을 배정하고, Kimi Conductor로 멀티 에이전트 협업을 조율하는 방법을 알아보세요."
   ogType="article"
 />

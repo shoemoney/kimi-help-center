@@ -8,7 +8,7 @@ preview_content: "KimiデスクトップアプリでローカルのOpenClawイ�
 ---
 
 <SeoMeta
-  title="Kimi Claw Desktop の概要 - Kimiヘルプセンター"
+  title="Kimi Claw Desktop の概要 - Kimi ヘルプセンター"
   description="KimiデスクトップアプリでローカルのOpenClawインスタンスをワンクリックでデプロイする方法を説明します。クライアントのダウンロード、ローカルデプロイ、アシスタント名のカスタマイズまでを扱います。"
   ogType="article"
 />

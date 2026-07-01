@@ -8,7 +8,7 @@ preview_content: "원클릭 설정으로 클라우드에서 나만의 Kimi Claw 
 ---
 
 <SeoMeta
-  title="Kimi Claw 개요 - Kimi 도움말 센터"
+  title="Kimi Claw 개요 - Kimi 헬프 센터"
   description="원클릭 설정으로 클라우드에서 나만의 Kimi Claw AI 어시스턴트를 배포하고 관리하세요."
 />
 

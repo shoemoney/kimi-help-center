@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Guía de membresía de Kimi Code - Centro de Ayuda de Kimi"
+  title="Guía de membresía de Kimi Code - Centro de ayuda de Kimi"
   description="Kimi Code es un beneficio orientado a desarrolladores dentro del plan de membresía de Kimi, que ofrece capacidades de codificación con IA de alto rendimiento. Puedes usar este beneficio a través de..."
 />
 

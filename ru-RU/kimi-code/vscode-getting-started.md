@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi Code для VS Code: быстрый старт — Справочный центр Kimi"
+  title="Kimi Code для VS Code: быстрый старт - Справочный центр Kimi"
   description="Kimi Code для VS Code — расширение, встроенное в Visual Studio Code. После установки вы сможете задавать вопросы, просматривать diff кода и быстро фиксировать измене..."
 />
 

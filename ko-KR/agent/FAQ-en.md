@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="스킬 만들기 FAQ - Kimi 도움말 센터"
+  title="스킬 만들기 FAQ - Kimi 헬프 센터"
   description="Kimi Skills 만들기에 관한 자주 묻는 질문입니다. 문서 업로드, token 사용, 빈도 제한, 스킬 이름 지정, 생성 실패 처리 등을 다룹니다."
 />
 

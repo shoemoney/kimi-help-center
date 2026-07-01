@@ -8,7 +8,7 @@ preview_content: "Compare os cinco níveis de assinatura do Kimi, o sistema de c
 ---
 
 <SeoMeta
-  title="Visão geral da assinatura do Kimi - Central de Ajuda do Kimi"
+  title="Visão geral da assinatura do Kimi - Central de Ajuda Kimi"
   description="Compare os cinco níveis de assinatura do Kimi, o sistema de créditos e as opções de cobrança."
 />
 

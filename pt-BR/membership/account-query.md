@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Consulta de conta e créditos - Central de Ajuda da Kimi"
+  title="Consulta de conta e créditos - Central de Ajuda Kimi"
   description="Depois de adquirir uma assinatura, seus benefícios normalmente são ativados na hora. Se algo parecer errado, confira os guias abaixo."
 />
 

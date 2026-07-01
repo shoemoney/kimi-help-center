@@ -8,7 +8,7 @@ preview_content: "Deep Research가 스스로 계획하고 검색하며 10,000단
 ---
 
 <SeoMeta
-  title="Deep Research 개요 - Kimi 도움말 센터"
+  title="Deep Research 개요 - Kimi 헬프 센터"
   description="Deep Research가 스스로 계획하고 검색하며 10,000단어 이상의 연구 보고서를 완성하는 방식을 알아보세요."
 />
 

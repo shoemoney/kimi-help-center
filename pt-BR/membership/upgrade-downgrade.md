@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Mudanças de plano - Central de Ajuda do Kimi"
+  title="Mudanças de plano - Central de Ajuda Kimi"
   description="Você pode ajustar sua assinatura do Kimi a qualquer momento. Veja como funcionam upgrades e downgrades."
 />
 

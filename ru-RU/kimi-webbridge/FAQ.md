@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Частые вопросы о Kimi WebBridge — Справочный центр Kimi"
+  title="Частые вопросы о Kimi WebBridge - Справочный центр Kimi"
   description="Ответы на частые вопросы об установке, подключении и использовании Kimi WebBridge с несколькими браузерами и локальными агентами."
   ogType="article"
 />

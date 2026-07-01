@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="会話の制限 - Kimiヘルプセンター"
+  title="会話の制限 - Kimi ヘルプセンター"
   description="会話のコンテキストが長くなりすぎてモデルのtoken上限を超えると、Kimi Clawが応答しなくなったり、エラーを返したりすることがあります。"
 />
 

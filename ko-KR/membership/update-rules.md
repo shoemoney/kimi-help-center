@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="크레딧 갱신 및 사용 규칙 - Kimi 도움말 센터"
+  title="크레딧 갱신 및 사용 규칙 - Kimi 헬프 센터"
   description="Kimi 멤버십 혜택에는 두 개의 크레딧 풀이 포함됩니다. Kimi Code는 별도의 크레딧 풀을 사용하며, 그 외 멤버십 기능은 하나의 크레딧 풀을 공유하고 실제 사용량에 따라 크레딧이 차감됩니다."
 />
 

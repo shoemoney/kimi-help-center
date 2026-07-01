@@ -8,7 +8,7 @@ preview_content: "Начните работу с платформой Kimi API �
 ---
 
 <SeoMeta
-  title="Обзор Kimi API — Справочный центр Kimi"
+  title="Обзор Kimi API - Справочный центр Kimi"
   description="Начните работу с платформой Kimi API для генерации текста, диалогов, разбора файлов и веб-поиска."
 />
 

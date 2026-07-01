@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Regras de atualização e uso de créditos - Central de Ajuda da Kimi"
+  title="Regras de atualização e uso de créditos - Central de Ajuda Kimi"
   description="Os benefícios da assinatura Kimi incluem dois pools de créditos. O Kimi Code usa um pool de créditos separado; os demais recursos da assinatura compartilham um único pool de créditos, consumidos conforme o uso real."
 />
 

@@ -8,7 +8,7 @@ preview_content: "Kimi의 AI 기반 Slides 도구로 텍스트나 문서를 세�
 ---
 
 <SeoMeta
-  title="Kimi Slides 개요 - Kimi 고객센터"
+  title="Kimi Slides 개요 - Kimi 헬프 센터"
   description="Kimi의 AI 기반 Slides 도구로 텍스트나 문서를 세련된 프레젠테이션으로 만들어 보세요."
 />
 

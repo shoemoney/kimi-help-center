@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Facturas - Centro de Ayuda de Kimi"
+  title="Facturas - Centro de ayuda de Kimi"
   description="Kimi permite generar facturas de autoservicio para tus pagos de membresía."
 />
 

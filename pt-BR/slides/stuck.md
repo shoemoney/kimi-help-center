@@ -8,7 +8,7 @@ preview_content: "Guia de solução de problemas e feedback do Slides: recurso n
 ---
 
 <SeoMeta
-  title="O que fazer se a geração do Slides travar? - Central de Ajuda da Kimi"
+  title="O que fazer se a geração do Slides travar? - Central de Ajuda Kimi"
   description="Se o processo de geração travar e o arquivo nunca for concluído, isso geralmente é causado por uma falha na geração do Slides."
 />
 

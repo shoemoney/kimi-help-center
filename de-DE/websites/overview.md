@@ -8,7 +8,7 @@ preview_content: "Erstellen und veröffentlichen Sie Websites aus natürlichspra
 ---
 
 <SeoMeta
-  title="Kimi Websites im Überblick – Kimi Hilfecenter"
+  title="Kimi Websites im Überblick - Kimi Hilfecenter"
   description="Erstellen und veröffentlichen Sie Websites aus natürlichsprachlichen Beschreibungen, Design-Mockups oder Vorlagen."
 />
 

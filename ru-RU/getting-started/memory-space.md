@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Memory space — Справочный центр Kimi"
+  title="Memory space - Справочный центр Kimi"
   description="Kimi по-настоящему научился слушать: чем больше вы с ним разговариваете, тем лучше он вас понимает. Вот как это работает:"
 />
 

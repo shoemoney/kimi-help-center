@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi Sheets活用例・プロンプト集 - Kimiヘルプセンター"
+  title="Kimi Sheets活用例・プロンプト集 - Kimi ヘルプセンター"
   description="財務バリュエーションからストーリーボード作成まで、Kimi Sheetsの活用例とプロンプト例を紹介します。"
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Rate limits（速率限制）- Kimi 說明中心"
+  title="Rate limits（速率限制） - Kimi 說明中心"
   description="Kimi API 對請求頻率與 concurrency（並行數）設有 rate limit（速率限制），以確保平台穩定並維持公平使用。rate limit 等級依據帳戶的累計儲值金額而定..."
 />
 

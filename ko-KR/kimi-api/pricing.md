@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="API 요금 - Kimi 도움말 센터"
+  title="API 요금 - Kimi 헬프 센터"
   description="Kimi API는 token 사용량을 기준으로 과금되며, 모델 및 기능별 요금이 적용됩니다."
 />
 

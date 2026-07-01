@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Desconexão do Tailscale - Central de Ajuda da Kimi"
+  title="Desconexão do Tailscale - Central de Ajuda Kimi"
   description="Se o Kimi Claw perder a conexão depois que você configurar o Tailscale, a causa quase sempre é uma substituição de DNS — o Tailscale substitui as configurações de DNS do sistema, o que i..."
 />
 

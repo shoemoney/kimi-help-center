@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="K2.6 Agent Swarm [베타] - Kimi 도움말 센터"
+  title="K2.6 Agent Swarm [베타] - Kimi 헬프 센터"
   description="K2.6 Agent Swarm 베타는 최대 300개의 하위 에이전트가 병렬로 작업하도록 조율하는 &quot;수평 확장&quot; 아키텍처입니다. 미리 정한 역할이나 손수 만든..."
 />
 

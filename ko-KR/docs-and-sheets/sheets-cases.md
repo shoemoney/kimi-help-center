@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi Sheets 활용 사례 및 프롬프트 라이브러리 - Kimi 도움말 센터"
+  title="Kimi Sheets 활용 사례 및 프롬프트 라이브러리 - Kimi 헬프 센터"
   description="재무 가치평가부터 스토리보드 제작까지, Kimi Sheets의 활용 사례와 프롬프트 예시를 소개합니다."
 />
 

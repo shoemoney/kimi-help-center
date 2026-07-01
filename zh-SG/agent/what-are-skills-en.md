@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="什么是技能？- Kimi 帮助中心"
+  title="什么是技能？ - Kimi 帮助中心"
   description="了解 Kimi 技能的工作原理、类型与使用方法。技能是可复用的知识包，用于扩展 Agent 在特定任务中的能力，包含说明、最佳实践、脚本和资源。"
   ogType="article"
 />

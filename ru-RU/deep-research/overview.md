@@ -8,7 +8,7 @@ preview_content: "Узнайте, как Deep Research самостоятель�
 ---
 
 <SeoMeta
-  title="Обзор Deep Research — Справочный центр Kimi"
+  title="Обзор Deep Research - Справочный центр Kimi"
   description="Узнайте, как Deep Research самостоятельно планирует работу, ищет информацию и готовит исследовательские отчёты объёмом более 10 000 слов."
 />
 

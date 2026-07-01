@@ -8,7 +8,7 @@ preview_content: "Comece a usar a plataforma da Kimi API para geração de texto
 ---
 
 <SeoMeta
-  title="Visão geral da Kimi API - Central de Ajuda da Kimi"
+  title="Visão geral da Kimi API - Central de Ajuda Kimi"
   description="Comece a usar a plataforma da Kimi API para geração de texto, conversas, análise de arquivos e busca na web."
 />
 

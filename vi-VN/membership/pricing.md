@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Chi tiết giá - Trung tâm Trợ giúp Kimi"
+  title="Chi tiết giá - Trung tâm trợ giúp Kimi"
   description="Kimi cung cấp năm hạng thành viên — bao gồm cả gói miễn phí — mỗi hạng đều có lựa chọn đăng ký theo tháng hoặc theo năm. Thanh toán theo năm giúp bạn tiết kiệm tới 480 USD/năm."
 />
 

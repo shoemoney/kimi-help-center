@@ -8,7 +8,7 @@ preview_content: "Kimi 데스크톱 앱에서 클릭 한 번으로 로컬 OpenCl
 ---
 
 <SeoMeta
-  title="Kimi Claw Desktop 개요 - Kimi 고객센터"
+  title="Kimi Claw Desktop 개요 - Kimi 헬프 센터"
   description="Kimi 데스크톱 앱에서 클릭 한 번으로 로컬 OpenClaw 인스턴스를 배포하는 방법을 알아보세요. 클라이언트 다운로드, 로컬 배포, 어시스턴트 이름 맞춤 설정까지 안내합니다."
   ogType="article"
 />

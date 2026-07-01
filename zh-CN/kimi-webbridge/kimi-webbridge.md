@@ -113,7 +113,7 @@ WebBridge 通过本地桥接服务和浏览器扩展协同工作，所有执行�
 
 ### 方式二：搭配 Local Agent
 
-支持 Claude Code、Codex、Cursor、Kimi Code、Hermers Claw 等。
+支持 Claude Code、Codex、Cursor、Kimi Code、Hermes Claw 等。
 
 
 1. 在 Agent 中直接发送以下指令，即可自动完成 WebBridge 安装。Agent 会根据你的操作系统自动执行对应的安装流程。

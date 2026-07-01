@@ -105,7 +105,7 @@ Nach der Installation sollte WebBridge in der Erweiterungsliste Ihres Browsers e
 
 ### Methode 2: Kopplung mit lokalen Agenten
 
-Unterstützt Claude Code, Codex, Cursor, Kimi Code, Hermers Claw und mehr.
+Unterstützt Claude Code, Codex, Cursor, Kimi Code, Hermes Claw und mehr.
 
 1. Senden Sie den folgenden Befehl direkt an den Agenten, um WebBridge automatisch zu installieren. Der Agent führt die passende Einrichtung je nach Ihrem Betriebssystem aus.
 

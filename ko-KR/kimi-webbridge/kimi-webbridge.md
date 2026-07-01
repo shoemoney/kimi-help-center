@@ -105,7 +105,7 @@ WebBridge는 로컬 브리지 서비스와 브라우저 확장 프로그램을 �
 
 ### 방법 2: 로컬 에이전트와 연동
 
-Claude Code, Codex, Cursor, Kimi Code, Hermers Claw 등을 지원합니다.
+Claude Code, Codex, Cursor, Kimi Code, Hermes Claw 등을 지원합니다.
 
 1. 에이전트에서 다음 명령어를 직접 보내면 WebBridge가 자동으로 설치됩니다. 에이전트는 운영 체제에 맞는 적절한 설정을 실행합니다.
 

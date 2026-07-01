@@ -105,7 +105,7 @@ Webストアにアクセスできない場合は、手動インストールを�
 
 ### 方法2：ローカルAgentと連携する
 
-Claude Code、Codex、Cursor、Kimi Code、Hermers Clawなどに対応しています。
+Claude Code、Codex、Cursor、Kimi Code、Hermes Clawなどに対応しています。
 
 1. Agent内で以下のコマンドを直接送信すると、WebBridgeが自動的にインストールされます。Agentはお使いのOSに応じて適切なセットアップを実行します。
 

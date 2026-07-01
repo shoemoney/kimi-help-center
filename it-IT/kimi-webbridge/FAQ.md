@@ -97,7 +97,7 @@ Attualmente sono supportati Chrome ed Edge. Per la migliore esperienza ti consig
 
 ### Quali altri Agent sono supportati?
 
-WebBridge supporta tutti i Local Agent, tra cui Claude Code, Codex, Cursor, Kimi Code, Hermers Claw e altri.
+WebBridge supporta tutti i Local Agent, tra cui Claude Code, Codex, Cursor, Kimi Code, Hermes Claw e altri.
 
 ### La configurazione è uguale per i diversi Agent?
 

@@ -105,7 +105,7 @@ WebBridge 透過本機橋接服務與瀏覽器擴充功能運作。所有執行�
 
 ### 方法 2：搭配本機 Agent
 
-支援 Claude Code、Codex、Cursor、Kimi Code、Hermers Claw 等。
+支援 Claude Code、Codex、Cursor、Kimi Code、Hermes Claw 等。
 
 1. 直接在 Agent 中傳送以下指令，即可自動安裝 WebBridge。Agent 會依據你的作業系統執行對應的設定。
 

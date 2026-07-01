@@ -105,7 +105,7 @@ WebBridge ทำงานผ่านบริการบริดจ์ใน�
 
 ### วิธีที่ 2: จับคู่กับ Agent ในเครื่อง
 
-รองรับ Claude Code, Codex, Cursor, Kimi Code, Hermers Claw และอื่น ๆ
+รองรับ Claude Code, Codex, Cursor, Kimi Code, Hermes Claw และอื่น ๆ
 
 1. ส่งคำสั่งต่อไปนี้ใน Agent โดยตรงเพื่อติดตั้ง WebBridge โดยอัตโนมัติ Agent จะดำเนินการตั้งค่าที่เหมาะสมตามระบบปฏิบัติการของคุณ
 

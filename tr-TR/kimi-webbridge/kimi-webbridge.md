@@ -105,7 +105,7 @@ Kurulumun ardından WebBridge'i tarayıcınızın eklentiler listesinde görmeli
 
 ### Yöntem 2: Yerel Agent'larla eşleştirme
 
-Claude Code, Codex, Cursor, Kimi Code, Hermers Claw ve daha fazlasını destekler.
+Claude Code, Codex, Cursor, Kimi Code, Hermes Claw ve daha fazlasını destekler.
 
 1. WebBridge'i otomatik olarak kurmak için aşağıdaki komutu doğrudan Agent içinde gönderin. Agent, işletim sisteminize göre uygun kurulumu çalıştıracaktır.
 

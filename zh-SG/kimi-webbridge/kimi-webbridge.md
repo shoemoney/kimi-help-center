@@ -105,7 +105,7 @@ WebBridge 通过本地桥接服务和浏览器扩展运行。所有执行过程�
 
 ### 方式 2：与本地 Agent 配对
 
-支持 Claude Code、Codex、Cursor、Kimi Code、Hermers Claw 等。
+支持 Claude Code、Codex、Cursor、Kimi Code、Hermes Claw 等。
 
 1. 直接在 Agent 中发送以下命令，即可自动安装 WebBridge。Agent 会根据你的操作系统运行相应的安装流程。
 

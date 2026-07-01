@@ -97,7 +97,7 @@ Kimi WebBridge 支援 Windows 作業系統，安裝指令可在 Linux 環境中�
 
 ### 支援哪些其他 Agent？
 
-WebBridge 支援所有本機 Agent，包括 Claude Code、Codex、Cursor、Kimi Code、Hermers Claw 等。
+WebBridge 支援所有本機 Agent，包括 Claude Code、Codex、Cursor、Kimi Code、Hermes Claw 等。
 
 ### 不同 Agent 的設定方式一樣嗎？
 

@@ -97,7 +97,7 @@ Kimi WebBridge รองรับระบบปฏิบัติการ Wind
 
 ### รองรับ Agent อื่นใดบ้าง?
 
-WebBridge รองรับ Local Agent ทั้งหมด รวมถึง Claude Code, Codex, Cursor, Kimi Code, Hermers Claw และอื่น ๆ
+WebBridge รองรับ Local Agent ทั้งหมด รวมถึง Claude Code, Codex, Cursor, Kimi Code, Hermes Claw และอื่น ๆ
 
 ### การตั้งค่าสำหรับ Agent แต่ละตัวเหมือนกันไหม?
 

@@ -97,7 +97,7 @@ Karmaşık sayfa yapıları veya dinamik yükleme işlemlerin başarısız olmas
 
 ### Hangi diğer Agent'lar destekleniyor?
 
-WebBridge; Claude Code, Codex, Cursor, Kimi Code, Hermers Claw ve daha fazlası dahil tüm Yerel Agent'ları destekler.
+WebBridge; Claude Code, Codex, Cursor, Kimi Code, Hermes Claw ve daha fazlası dahil tüm Yerel Agent'ları destekler.
 
 ### Yapılandırma farklı Agent'lar için aynı mı?
 

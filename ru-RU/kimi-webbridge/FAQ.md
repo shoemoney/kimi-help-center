@@ -97,7 +97,7 @@ Kimi WebBridge поддерживает операционную систему 
 
 ### Какие другие агенты поддерживаются?
 
-WebBridge поддерживает все локальные агенты, включая Claude Code, Codex, Cursor, Kimi Code, Hermers Claw и другие.
+WebBridge поддерживает все локальные агенты, включая Claude Code, Codex, Cursor, Kimi Code, Hermes Claw и другие.
 
 ### Одинакова ли настройка для разных агентов?
 

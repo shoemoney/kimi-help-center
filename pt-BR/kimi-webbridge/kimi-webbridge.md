@@ -105,7 +105,7 @@ Após a instalação, você deverá ver o WebBridge na lista de extensões do se
 
 ### Método 2: integrar com Agentes locais
 
-Compatível com Claude Code, Codex, Cursor, Kimi Code, Hermers Claw e outros.
+Compatível com Claude Code, Codex, Cursor, Kimi Code, Hermes Claw e outros.
 
 1. Envie o comando a seguir diretamente no Agente para instalar o WebBridge automaticamente. O Agente executará a configuração apropriada de acordo com o seu sistema operacional.
 

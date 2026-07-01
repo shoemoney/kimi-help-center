@@ -97,7 +97,7 @@ Actuellement, Chrome et Edge sont pris en charge. Nous recommandons d'utiliser l
 
 ### Quels autres Agents sont pris en charge ?
 
-WebBridge prend en charge tous les Local Agents, notamment Claude Code, Codex, Cursor, Kimi Code, Hermers Claw, et bien d'autres.
+WebBridge prend en charge tous les Local Agents, notamment Claude Code, Codex, Cursor, Kimi Code, Hermes Claw, et bien d'autres.
 
 ### La configuration est-elle la même pour les différents Agents ?
 

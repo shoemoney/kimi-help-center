@@ -97,7 +97,7 @@ WebBridge가 페이지는 정상적으로 열지만 `snapshot`, `evaluate`, `scr
 
 ### 어떤 다른 Agent를 지원하나요?
 
-WebBridge는 Claude Code, Codex, Cursor, Kimi Code, Hermers Claw 등을 비롯한 모든 Local Agent를 지원합니다.
+WebBridge는 Claude Code, Codex, Cursor, Kimi Code, Hermes Claw 등을 비롯한 모든 Local Agent를 지원합니다.
 
 ### Agent마다 설정 방법이 같나요?
 

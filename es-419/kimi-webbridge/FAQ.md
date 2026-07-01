@@ -97,7 +97,7 @@ Actualmente es compatible con Chrome y Edge. Te recomendamos usar la versión m�
 
 ### ¿Con qué otros Agents es compatible?
 
-WebBridge es compatible con todos los Local Agents, incluidos Claude Code, Codex, Cursor, Kimi Code, Hermers Claw y más.
+WebBridge es compatible con todos los Local Agents, incluidos Claude Code, Codex, Cursor, Kimi Code, Hermes Claw y más.
 
 ### ¿La configuración es la misma para los distintos Agents?
 

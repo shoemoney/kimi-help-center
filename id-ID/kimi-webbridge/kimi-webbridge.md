@@ -105,7 +105,7 @@ Setelah pemasangan, WebBridge akan muncul di daftar ekstensi peramban Anda. Agar
 
 ### Cara 2: Pasangkan dengan Local Agent
 
-Mendukung Claude Code, Codex, Cursor, Kimi Code, Hermers Claw, dan lainnya.
+Mendukung Claude Code, Codex, Cursor, Kimi Code, Hermes Claw, dan lainnya.
 
 1. Kirim perintah berikut langsung di Agent untuk memasang WebBridge secara otomatis. Agent akan menjalankan penyiapan yang sesuai dengan sistem operasi Anda.
 

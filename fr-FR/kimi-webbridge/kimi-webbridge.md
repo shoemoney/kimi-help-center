@@ -105,7 +105,7 @@ Une fois l'installation terminée, WebBridge devrait apparaître dans la liste d
 
 ### Méthode 2 : associer à des agents locaux
 
-Compatible avec Claude Code, Codex, Cursor, Kimi Code, Hermers Claw, et bien d'autres.
+Compatible avec Claude Code, Codex, Cursor, Kimi Code, Hermes Claw, et bien d'autres.
 
 1. Envoyez directement la commande suivante dans l'agent pour installer automatiquement WebBridge. L'agent lancera la configuration adaptée à votre système d'exploitation.
 

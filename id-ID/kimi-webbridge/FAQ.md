@@ -97,7 +97,7 @@ Saat ini mendukung Chrome dan Edge. Kami menyarankan penggunaan versi terbaru un
 
 ### Agent lain apa saja yang didukung?
 
-WebBridge mendukung semua Local Agent, termasuk Claude Code, Codex, Cursor, Kimi Code, Hermers Claw, dan lainnya.
+WebBridge mendukung semua Local Agent, termasuk Claude Code, Codex, Cursor, Kimi Code, Hermes Claw, dan lainnya.
 
 ### Apakah konfigurasinya sama untuk Agent yang berbeda?
 

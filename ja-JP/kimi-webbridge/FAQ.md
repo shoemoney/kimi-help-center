@@ -97,7 +97,7 @@ WebBridge でページは正常に開けるものの、`snapshot`、`evaluate`�
 
 ### 対応している他のAgentは？
 
-WebBridge は、Claude Code、Codex、Cursor、Kimi Code、Hermers Claw など、すべてのローカルAgentに対応しています。
+WebBridge は、Claude Code、Codex、Cursor、Kimi Code、Hermes Claw など、すべてのローカルAgentに対応しています。
 
 ### Agent によって設定方法は異なりますか？
 

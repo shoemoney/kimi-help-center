@@ -9,8 +9,8 @@ preview: false
 # Funzionalità e limiti di Agent
 
 <SeoMeta
-  title="Agent Features & Limitations - Centro assistenza Kimi"
-  description="Scopri le capacità di Kimi Agent, consigli d'uso, limiti e best practice per ottenere risultati ottimali."
+  title="Funzionalità e limiti di Agent - Centro assistenza Kimi"
+  description="Scopri le funzionalità di Kimi Agent, i consigli d'uso, i limiti e le best practice per risultati ottimali."
 />
 
 <Callout type="info">

@@ -9,8 +9,8 @@ preview: false
 # Recursos e limitações do Agent
 
 <SeoMeta
-  title="Agent Features & Limitations - Central de Ajuda Kimi"
-  description="Learn about Kimi Agent's capabilities, usage tips, limitations, and best practices for optimal results."
+  title="Recursos e limitações do Agent - Central de Ajuda Kimi"
+  description="Conheça os recursos do Kimi Agent, dicas de uso, limitações e práticas recomendadas para obter os melhores resultados."
 />
 
 <Callout type="info">

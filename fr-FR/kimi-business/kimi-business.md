@@ -56,7 +56,7 @@ Les sièges supplémentaires achetés en cours d'abonnement sont facturés au pr
 | Rôle | Autorisations |
 |------|-------------|
 | Administrateur | Acheter des sièges, générer des liens d'invitation, gérer les membres, consulter les commandes |
-| Membre | Profiter des avantages de l'entreprise, consulter son crédits personnel |
+| Membre | Profiter des avantages de l'entreprise, consulter ses crédits personnels |
 
 Le rôle d'administrateur est automatiquement attribué au compte qui souscrit en premier à l'abonnement entreprise.
 

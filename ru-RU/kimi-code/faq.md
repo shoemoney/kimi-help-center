@@ -76,7 +76,7 @@ Kimi Code CLI получил крупное обновление версии: �
 
 | Платформа | Base URL | Оплата | Создание ключа |
 |------|---------|---------|-------------|
-| **Kimi Code** | совместимо с Anthropic: `https://api.kimi.com/coding/` | подписка Kimi с включенной кредиты | [Консоль Kimi Code](https://www.kimi.com/code/console) |
+| **Kimi Code** | совместимо с Anthropic: `https://api.kimi.com/coding/` | подписка Kimi с включёнными кредитами | [Консоль Kimi Code](https://www.kimi.com/code/console) |
 | **Kimi Open Platform** | `https://api.moonshot.cn/v1` | оплата по факту использования | [Kimi Open Platform](https://platform.kimi.com) |
 
 ### Ключ API недействителен

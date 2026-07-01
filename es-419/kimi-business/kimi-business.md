@@ -56,7 +56,7 @@ Los asientos adicionales comprados durante el periodo de suscripción se prorrat
 | Rol | Permisos |
 |------|-------------|
 | Administrador | Comprar asientos, generar enlaces de invitación, gestionar miembros, ver pedidos |
-| Miembro | Usar los beneficios de la empresa, ver su créditos personal |
+| Miembro | Usar los beneficios de la empresa, ver sus créditos personales |
 
 El rol de administrador se asigna automáticamente a la cuenta que compra la suscripción empresarial por primera vez.
 

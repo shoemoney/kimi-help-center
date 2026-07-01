@@ -93,4 +93,4 @@ Agent는 **256K자**의 컨텍스트 길이(중국어 약 40,000~50,000자 / 영
 
 **Q: Agent quota는 어떻게 계산되나요?**
 
-Agent, PPT 및 기타 멤버십 기능은 하나의 크레딧 풀을 공유합니다. Kimi Code는 별도의 크레딧 풀을 사용합니다. 각 Agent 작업은 일반적으로 크레딧 1단위로 계산됩니다. 현재 quota와 사용량은 [멤버십 크레딧](https://www.kimi.com/membership-크레딧)에서 확인할 수 있습니다.
+Agent, PPT 및 기타 멤버십 기능은 하나의 크레딧 풀을 공유합니다. Kimi Code는 별도의 크레딧 풀을 사용합니다. 각 Agent 작업은 일반적으로 크레딧 1단위로 계산됩니다. 현재 quota와 사용량은 [멤버십 크레딧](https://www.kimi.com/membership-credits)에서 확인할 수 있습니다.

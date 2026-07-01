@@ -93,4 +93,4 @@ Agentのコンテキスト長は **256K文字** です（中国語で約40,000�
 
 **Q: Agentのquotaはどのように計算されますか？**
 
-Agent、PPT、その他のメンバーシップ機能は、1つのクレジットプールを共有します。Kimi Codeは別のクレジットプールを使用します。通常、Agentタスク1件は1 クレジットユニットとしてカウントされます。現在のquotaと使用状況は [Membership クレジット](https://www.kimi.com/membership-クレジット) で確認できます。
+Agent、PPT、その他のメンバーシップ機能は、1つのクレジットプールを共有します。Kimi Codeは別のクレジットプールを使用します。通常、Agentタスク1件は1 クレジットユニットとしてカウントされます。現在のquotaと使用状況は [Membership クレジット](https://www.kimi.com/membership-credits) で確認できます。

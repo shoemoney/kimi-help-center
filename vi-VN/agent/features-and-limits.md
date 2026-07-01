@@ -9,8 +9,8 @@ preview: false
 # Tính năng & giới hạn của Agent
 
 <SeoMeta
-  title="Agent Features & Limitations - Trung tâm trợ giúp Kimi"
-  description="Tìm hiểu về khả năng, mẹo sử dụng, giới hạn và các phương pháp tối ưu của Kimi Agent để đạt kết quả tốt nhất."
+  title="Tính năng & giới hạn của Agent - Trung tâm trợ giúp Kimi"
+  description="Tìm hiểu về khả năng của Kimi Agent, mẹo sử dụng, giới hạn và các phương pháp hay nhất để đạt kết quả tối ưu."
 />
 
 <Callout type="info">

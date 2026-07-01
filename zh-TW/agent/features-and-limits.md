@@ -93,4 +93,4 @@ Agent 使用 **256K 字元** 的上下文長度（約 40,000–50,000 個中文�
 
 **問：Agent額度 如何計算？**
 
-Agent、PPT 與其他會員功能共用同一個額度池。Kimi Code 使用獨立的額度池。每個 Agent 任務通常計為一個額度 單位。你可以在 [會員額度](https://www.kimi.com/membership-額度) 查看目前額度 與使用量。
+Agent、PPT 與其他會員功能共用同一個額度池。Kimi Code 使用獨立的額度池。每個 Agent 任務通常計為一個額度 單位。你可以在 [會員額度](https://www.kimi.com/membership-credits) 查看目前額度 與使用量。

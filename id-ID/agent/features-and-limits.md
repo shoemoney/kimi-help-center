@@ -9,8 +9,8 @@ preview: false
 # Fitur & batasan Agent
 
 <SeoMeta
-  title="Agent Features & Limitations - Pusat Bantuan Kimi"
-  description="Learn about Kimi Agent's capabilities, usage tips, limitations, and best practices for optimal results."
+  title="Fitur & batasan Agent - Pusat Bantuan Kimi"
+  description="Pelajari kemampuan Kimi Agent, tips penggunaan, batasan, dan praktik terbaik untuk hasil optimal."
 />
 
 <Callout type="info">
@@ -93,4 +93,4 @@ Agent menggunakan panjang konteks **256K karakter** (kira-kira 40.000–50.000 k
 
 **T: Bagaimana kredit Agent dihitung?**
 
-Agent, PPT, dan fitur keanggotaan lainnya berbagi satu kumpulan kredit. Kimi Code menggunakan kumpulan kredit terpisah. Setiap tugas Agent biasanya dihitung sebagai satu unit kredit. Lihat kredit dan penggunaan Anda saat ini di [Kredit Keanggotaan](https://www.kimi.com/membership-kredit).
+Agent, PPT, dan fitur keanggotaan lainnya berbagi satu kumpulan kredit. Kimi Code menggunakan kumpulan kredit terpisah. Setiap tugas Agent biasanya dihitung sebagai satu unit kredit. Lihat kredit dan penggunaan Anda saat ini di [Kredit Keanggotaan](https://www.kimi.com/membership-credits).

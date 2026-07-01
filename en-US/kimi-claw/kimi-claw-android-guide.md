@@ -26,7 +26,7 @@ It is recommended to deploy Kimi Claw Android on idle phones to avoid permission
 
 System requirements:
 
-| Project | Requirement |
+| Item | Requirement |
 | --- | --- |
 | Operating system | Android 8.0 and above |
 | Available storage space | At least 5GB |

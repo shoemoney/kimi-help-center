@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Mẹo sử dụng bộ nhớ - Trung tâm trợ giúp Kimi"
-  description="Tôi là tên/biệt danh, hiện sống tại thành phố. Có nền tảng về nghề nghiệp/vai trò, chuyên sâu trong lĩnh vực 1 và lĩnh vực 2."
+  description="Tìm hiểu cách thiết lập và sử dụng Memory của Kimi để Kimi ghi nhớ danh tính, sở thích và phong cách đầu ra ưa thích của bạn, mang lại trải nghiệm cá nhân hóa hơn."
 />
 
 # Mẹo sử dụng bộ nhớ

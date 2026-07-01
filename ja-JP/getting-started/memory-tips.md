@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="メモリー活用のコツ - Kimi ヘルプセンター"
-  description="私は[name/nickname]で、現在[city]を拠点にしています。[profession/role]の経験があり、[area 1]と[area 2]を専門としています。"
+  description="Kimi の Memory を設定・活用して、あなたの情報や好み、好みの出力スタイルを記憶させる方法をご紹介します。よりパーソナライズされた体験が得られます。"
 />
 
 # メモリー活用のコツ

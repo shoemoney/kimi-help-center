@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="记忆技巧 - Kimi 帮助中心"
-  description="我是姓名/昵称，目前常驻城市。从事职业/角色，擅长领域 1 和领域 2。"
+  description="了解如何设置和使用 Kimi 的 Memory，让 Kimi 记住你的身份、偏好和偏爱的输出风格，带来更加个性化的体验。"
 />
 
 # 记忆技巧

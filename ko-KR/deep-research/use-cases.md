@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Deep Research 활용 사례 및 프롬프트 라이브러리 - Kimi 헬프 센터"
-  description="저는 전문 증권 애널리스트입니다. 재무 관점에서 Pop Mart를 심층 분석해 주세요. 분석에는 다음이 포함되어야 하지만..."
+  description="산업 분석, 경쟁사 조사, 시장 동향, 학술 문헌 검토 등 Kimi Deep Research의 대표적인 활용 사례를 살펴보세요. 실용적인 프롬프트 예시와 함께 빠르게 시작할 수 있습니다."
 />
 
 # Deep Research 활용 사례 및 프롬프트 라이브러리

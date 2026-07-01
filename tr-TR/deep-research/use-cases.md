@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Deep Research kullanım senaryoları & istem kütüphanesi - Kimi Yardım Merkezi"
-  description="Profesyonel bir menkul kıymet analistiyim. Pop Mart'ı finansal açıdan derinlemesine incelememe yardımcı olur musunuz? Analiz, şunları içermeli ancak bunlarla sınırlı..."
+  description="Sektör analizi, rakip araştırması, pazar trendleri ve akademik literatür taramaları dahil olmak üzere Kimi Deep Research'ün tipik kullanım senaryolarını keşfedin. Hızlı başlamanıza yardımcı olacak pratik prompt örnekleriyle birlikte."
 />
 
 # Deep Research kullanım senaryoları ve istem kütüphanesi

@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="¿Deep Research está atascado o no devuelve resultados? - Centro de ayuda de Kimi"
-  description="Deep Research realiza búsquedas web exhaustivas, verificación de fuentes y razonamiento. Que una página no se actualice visualmente no significa que la tarea se haya interr..."
+  description="¿Deep Research no avanza durante la generación? Este artículo ofrece pasos de solución de problemas y soluciones, como actualizar la página, iniciar un nuevo chat y optimizar tu prompt, para ayudarte a retomar el rumbo rápidamente."
 />
 
 # ¿Deep Research está atascado o no devuelve resultados?

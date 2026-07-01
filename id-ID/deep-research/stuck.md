@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Deep Research macet atau tidak memberikan hasil? - Pusat Bantuan Kimi"
-  description="Deep Research melakukan pencarian web ekstensif, verifikasi sumber, dan penalaran. Halaman yang belum diperbarui secara visual bukan berarti tugasnya terputus..."
+  description="Deep Research tidak bergerak saat proses pembuatan? Artikel ini menyediakan langkah pemecahan masalah dan solusinya, termasuk menyegarkan halaman, memulai obrolan baru, dan mengoptimalkan prompt Anda, untuk membantu Anda kembali berjalan lancar dengan cepat."
 />
 
 # Deep Research macet atau tidak memberikan hasil?

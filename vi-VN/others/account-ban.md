@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Tạm khóa tài khoản & khiếu nại - Trung tâm trợ giúp Kimi"
-  description="Nếu bạn vi phạm pháp luật hiện hành, thỏa thuận người dùng hoặc chính sách của nền tảng, nền tảng có thể thực hiện các biện pháp như chặn nội dung, đóng băng/chuyển nhượng tài khoản, tạm dừng quyền lợi hoặc chấm dứt dịch vụ..."
+  description="Tìm hiểu các lý do có thể khiến tài khoản Kimi bị đình chỉ và cách khiếu nại. Nếu tài khoản của bạn bị hạn chế, hãy làm theo các bước trong bài viết này để gửi khiếu nại, và chúng tôi sẽ xử lý sớm nhất có thể."
 />
 
 # Tạm khóa tài khoản & khiếu nại

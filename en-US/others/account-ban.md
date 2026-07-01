@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Account suspension & appeals - Kimi Help Center"
-  description="If you violate applicable laws, the user agreement, or platform policies, the platform may take actions including blocking content, freezing/transferring acc..."
+  description="Learn about the possible reasons for Kimi account suspension and how to appeal. If your account has been restricted, follow the steps in this article to submit an appeal, and we will process it as soon as possible."
 />
 
 # Account suspension & appeals

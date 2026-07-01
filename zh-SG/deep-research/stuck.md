@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Deep Research（深度研究）卡住或没有返回结果？ - Kimi 帮助中心"
-  description="Deep Research（深度研究）会进行大量网页搜索、来源验证和推理。页面没有视觉更新，并不代表任务已被中断..."
+  description="Deep Research 在生成过程中卡住不动？本文提供排查步骤和解决方案，包括刷新页面、开启新对话和优化提示词，帮助你快速恢复进度。"
 />
 
 # Deep Research（深度研究）卡住或没有返回结果？

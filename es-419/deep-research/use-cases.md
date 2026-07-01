@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Casos de uso de Deep Research y biblioteca de prompts - Centro de ayuda de Kimi"
-  description="Soy un analista de valores profesional. Ayúdame a realizar un análisis profundo de Pop Mart desde una perspectiva financiera. El análisis debe incluir, entre otros aspectos..."
+  description="Explora los casos de uso típicos de Kimi Deep Research, como el análisis de industrias, la investigación de la competencia, las tendencias de mercado y las revisiones de literatura académica, con ejemplos prácticos de prompts para empezar rápidamente."
 />
 
 # Casos de uso de Deep Research y biblioteca de prompts

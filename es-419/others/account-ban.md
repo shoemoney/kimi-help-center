@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Suspensión de cuenta y apelaciones - Centro de ayuda de Kimi"
-  description="Si infringes las leyes aplicables, el acuerdo de usuario o las políticas de la plataforma, esta puede tomar medidas como bloquear contenido, congelar o transferir cuen..."
+  description="Conoce las posibles razones de la suspensión de una cuenta de Kimi y cómo presentar una apelación. Si tu cuenta ha sido restringida, sigue los pasos de este artículo para enviar una apelación y la procesaremos lo antes posible."
 />
 
 # Suspensión de cuenta y apelaciones

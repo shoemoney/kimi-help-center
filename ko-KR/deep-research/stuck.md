@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Deep Research가 멈춘 것 같거나 결과가 나오지 않나요? - Kimi 헬프 센터"
-  description="Deep Research는 광범위한 웹 검색, 출처 검증, 추론을 수행합니다. 화면에 변화가 없어 보여도 작업이 중단되었다는 뜻은 아닙..."
+  description="생성 중에 Deep Research가 멈춰 있나요? 이 문서에서는 페이지 새로 고침, 새 채팅 시작, 프롬프트 최적화 등 문제 해결 단계와 해결 방법을 안내하여 빠르게 다시 진행할 수 있도록 돕습니다."
 />
 
 # Deep Research가 멈춘 것 같거나 결과가 나오지 않나요?

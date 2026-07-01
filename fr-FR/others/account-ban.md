@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Suspension de compte et recours - Centre d'aide Kimi"
-  description="En cas de violation des lois applicables, du contrat d'utilisation ou des politiques de la plateforme, celle-ci peut prendre des mesures telles que le blocage de contenu, le gel ou le transfert de comptes..."
+  description="Découvrez les raisons possibles de la suspension d'un compte Kimi et comment faire appel. Si votre compte a été restreint, suivez les étapes de cet article pour soumettre un recours, que nous traiterons dans les plus brefs délais."
 />
 
 # Suspension de compte et recours

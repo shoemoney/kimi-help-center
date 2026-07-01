@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Deep Research 使用案例&提示詞庫 - Kimi 說明中心"
-  description="我是專業證券分析師。請從財務角度協助我對 Pop Mart 進行深入分析。分析內容應包括但..."
+  description="探索 Kimi Deep Research 的典型使用情境，包括產業分析、競品調查、市場趨勢與學術文獻回顧，並提供實用的提示詞範例，協助你快速上手。"
 />
 
 # Deep Research 使用案例與提示詞庫

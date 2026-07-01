@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Casi d'uso di Deep Research e raccolta di prompt - Centro assistenza Kimi"
-  description="Sono un analista finanziario professionista. Aiutami a condurre un'analisi approfondita di Pop Mart da una prospettiva finanziaria. L'analisi dovrebbe includere ma..."
+  description="Esplora i casi d'uso tipici di Kimi Deep Research, tra cui analisi di settore, ricerca sulla concorrenza, tendenze di mercato e revisioni della letteratura accademica, con esempi pratici di prompt per iniziare rapidamente."
 />
 
 # Casi d'uso di Deep Research e raccolta di prompt

@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Deep Research – Anwendungsfälle und Prompt-Bibliothek - Kimi Hilfecenter"
-  description="Ich bin ein professioneller Wertpapieranalyst. Bitte hilf mir bei einer tiefgehenden Analyse von Pop Mart aus finanzieller Perspektive. Die Analyse sollte unter anderem..."
+  description="Entdecken Sie typische Anwendungsfälle für Kimi Deep Research, darunter Branchenanalysen, Wettbewerbsrecherchen, Markttrends und akademische Literaturübersichten, mit praktischen Prompt-Beispielen für einen schnellen Einstieg."
 />
 
 # Deep Research – Anwendungsfälle und Prompt-Bibliothek

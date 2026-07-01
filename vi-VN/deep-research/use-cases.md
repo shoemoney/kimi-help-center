@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Tình huống sử dụng Deep Research & thư viện prompt - Trung tâm trợ giúp Kimi"
-  description="Tôi là một nhà phân tích chứng khoán chuyên nghiệp. Hãy giúp tôi phân tích chuyên sâu về Pop Mart dưới góc độ tài chính. Phân tích cần bao gồm nhưng..."
+  description="Khám phá các trường hợp sử dụng điển hình của Kimi Deep Research, bao gồm phân tích ngành, nghiên cứu đối thủ cạnh tranh, xu hướng thị trường và tổng quan tài liệu học thuật, kèm theo các ví dụ prompt thực tế giúp bạn bắt đầu nhanh chóng."
 />
 
 # Tình huống sử dụng Deep Research & thư viện prompt

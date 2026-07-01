@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Deep Research takıldı ya da sonuç döndürmüyor mu? - Kimi Yardım Merkezi"
-  description="Deep Research kapsamlı web aramaları yapar, kaynakları doğrular ve akıl yürütür. Sayfanın görsel olarak güncellenmemesi, görevin kesintiye uğradığı anlamına gelmez..."
+  description="Deep Research oluşturma sırasında ilerlemiyor mu? Bu makale, sayfayı yenileme, yeni bir sohbet başlatma ve prompt'unuzu iyileştirme gibi sorun giderme adımları ve çözümler sunarak hızla yeniden yol almanıza yardımcı olur."
 />
 
 # Deep Research takıldı ya da sonuç döndürmüyor mu?

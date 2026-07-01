@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Deep Research hängt fest oder liefert keine Ergebnisse? - Kimi Hilfecenter"
-  description="Deep Research führt umfangreiche Websuchen, Quellenprüfungen und Schlussfolgerungen durch. Eine Seite, die sich optisch nicht aktualisiert hat, bedeutet nicht, dass die Aufgabe unterbroch..."
+  description="Deep Research kommt während der Generierung nicht voran? Dieser Artikel bietet Schritte zur Fehlerbehebung und Lösungen, darunter das Aktualisieren der Seite, das Starten eines neuen Chats und das Optimieren Ihres Prompts, damit Sie schnell wieder vorankommen."
 />
 
 # Deep Research hängt fest oder liefert keine Ergebnisse?

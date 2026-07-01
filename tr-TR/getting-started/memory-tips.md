@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Bellek ipuçları - Kimi Yardım Merkezi"
-  description="Ben isim/takma ad, şu anda şehir'de yaşıyorum. meslek/rol alanında bir geçmişim var; alan 1 ve alan 2 konularında uzmanım."
+  description="Kimi'nin kimliğinizi, tercihlerinizi ve tercih ettiğiniz çıktı stilini hatırlaması için Memory'yi nasıl ayarlayıp kullanacağınızı öğrenin; böylece daha kişiselleştirilmiş bir deneyim yaşayın."
 />
 
 # Bellek ipuçları

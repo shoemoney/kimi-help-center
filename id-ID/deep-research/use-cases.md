@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Contoh penggunaan & kumpulan prompt Deep Research - Pusat Bantuan Kimi"
-  description="Saya seorang analis sekuritas profesional. Tolong bantu saya melakukan analisis mendalam terhadap Pop Mart dari sudut pandang finansial. Analisis ini harus mencakup, tetapi..."
+  description="Jelajahi kasus penggunaan umum Kimi Deep Research, termasuk analisis industri, riset kompetitor, tren pasar, dan tinjauan literatur akademis, dengan contoh prompt praktis untuk membantu Anda memulai dengan cepat."
 />
 
 # Contoh penggunaan & kumpulan prompt Deep Research

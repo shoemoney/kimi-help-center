@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Tips memori - Pusat Bantuan Kimi"
-  description="Saya nama/nama panggilan, saat ini berdomisili di kota. Berlatar belakang profesi/peran, dengan keahlian di bidang 1 dan bidang 2."
+  description="Pelajari cara mengatur dan menggunakan Memory Kimi agar Kimi mengingat identitas, preferensi, dan gaya output favorit Anda untuk pengalaman yang lebih personal."
 />
 
 # Tips memori

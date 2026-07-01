@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Deep Research use cases & prompt library - Kimi Help Center"
-  description="I am a professional securities analyst. Please help me conduct an in-depth analysis of Pop Mart from a financial perspective. The analysis should include but..."
+  description="Explore typical use cases for Kimi Deep Research, including industry analysis, competitor research, market trends, and academic literature reviews, with practical prompt examples to help you get started quickly."
 />
 
 # Deep Research use cases & prompt library

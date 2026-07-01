@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Astuces pour la mémoire - Centre d'aide Kimi"
-  description="Je m'appelle nom/surnom, et je vis actuellement à ville. Formé(e) en profession/rôle, avec une expertise dans domaine 1 et domaine 2."
+  description="Découvrez comment configurer et utiliser la Memory de Kimi pour qu'il retienne votre identité, vos préférences et votre style de sortie préféré, afin de profiter d'une expérience plus personnalisée."
 />
 
 # Astuces pour la mémoire

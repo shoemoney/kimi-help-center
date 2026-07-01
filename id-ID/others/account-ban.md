@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Penangguhan akun & banding - Pusat Bantuan Kimi"
-  description="Jika Anda melanggar hukum yang berlaku, perjanjian pengguna, atau kebijakan platform, platform dapat mengambil tindakan termasuk memblokir konten, membekukan/mentransfer aku..."
+  description="Pelajari kemungkinan alasan penangguhan akun Kimi dan cara mengajukan banding. Jika akun Anda dibatasi, ikuti langkah-langkah dalam artikel ini untuk mengajukan banding, dan kami akan memprosesnya sesegera mungkin."
 />
 
 # Penangguhan akun & banding

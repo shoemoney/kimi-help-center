@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Memory tips - Kimi Help Center"
-  description="I'm name/nickname, currently based in city. Background in profession/role, with expertise in area 1 and area 2."
+  description="Learn how to set up and use Kimi's Memory so it remembers your identity, preferences, and preferred output style for a more personalized experience."
 />
 
 # Memory tips

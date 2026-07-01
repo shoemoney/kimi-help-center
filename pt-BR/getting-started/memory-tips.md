@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Dicas de memória - Central de Ajuda Kimi"
-  description="Sou nome/apelido, atualmente em cidade. Tenho formação em profissão/função, com especialização em área 1 e área 2."
+  description="Saiba como configurar e usar a Memory do Kimi para que ele lembre da sua identidade, das suas preferências e do seu estilo de saída preferido, proporcionando uma experiência mais personalizada."
 />
 
 # Dicas de memória

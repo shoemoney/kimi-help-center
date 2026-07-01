@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Cas d'usage et bibliothèque d'invites Deep Research - Centre d'aide Kimi"
-  description="Je suis analyste financier professionnel. Aidez-moi à mener une analyse approfondie de Pop Mart d'un point de vue financier. L'analyse doit inclure, sans s'y limiter..."
+  description="Découvrez les cas d'usage typiques de Kimi Deep Research, notamment l'analyse sectorielle, l'étude de la concurrence, les tendances du marché et les revues de littérature académique, avec des exemples de prompts concrets pour démarrer rapidement."
 />
 
 # Cas d'usage et bibliothèque d'invites Deep Research

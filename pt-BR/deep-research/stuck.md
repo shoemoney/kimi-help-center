@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="O Deep Research travou ou não retorna resultados? - Central de Ajuda Kimi"
-  description="O Deep Research realiza buscas extensas na web, verificação de fontes e raciocínio. Uma página que não foi atualizada visualmente não significa que a tarefa foi interr..."
+  description="O Deep Research não avança durante a geração? Este artigo apresenta etapas de solução de problemas e soluções, incluindo atualizar a página, iniciar um novo chat e otimizar o seu prompt, para ajudar você a retomar o ritmo rapidamente."
 />
 
 # O Deep Research travou ou não retorna resultados?

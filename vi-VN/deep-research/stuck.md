@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Deep Research bị treo hoặc không trả về kết quả? - Trung tâm trợ giúp Kimi"
-  description="Deep Research thực hiện hàng loạt thao tác tìm kiếm web, xác minh nguồn và suy luận. Việc giao diện chưa cập nhật không có nghĩa là tác vụ đã bị gián đoạn..."
+  description="Deep Research không tiến triển trong quá trình tạo kết quả? Bài viết này cung cấp các bước khắc phục sự cố và giải pháp, bao gồm làm mới trang, bắt đầu cuộc trò chuyện mới và tối ưu prompt, giúp bạn nhanh chóng trở lại đúng hướng."
 />
 
 # Deep Research bị treo hoặc không trả về kết quả?

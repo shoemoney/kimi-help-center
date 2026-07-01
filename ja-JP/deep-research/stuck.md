@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Deep Research が止まったまま、または結果が返ってこない場合 - Kimi ヘルプセンター"
-  description="Deep Research は広範なWeb検索、情報源の検証、推論を行います。ページの表示が更新されていないように見えても、タスクが中断されたとは限りま..."
+  description="生成中に Deep Research が進まなくなった場合の対処法をご紹介します。ページの再読み込み、新しいチャットの開始、プロンプトの見直しなど、トラブルシューティングの手順と解決策で、すぐに作業を再開できます。"
 />
 
 # Deep Research が止まったまま、または結果が返ってこない場合

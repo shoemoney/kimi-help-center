@@ -26,7 +26,7 @@ Es wird empfohlen, Kimi Claw Android auf ungenutzten Telefonen bereitzustellen, 
 
 Systemanforderungen:
 
-| Projekt | Anforderung |
+| Element | Anforderung |
 | --- | --- |
 | Betriebssystem | Android 8.0 oder höher |
 | Verfügbarer Speicherplatz | Mindestens 5 GB |

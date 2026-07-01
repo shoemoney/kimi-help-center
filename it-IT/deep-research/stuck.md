@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Deep Research è bloccata o non restituisce risultati? - Centro assistenza Kimi"
-  description="Deep Research esegue ricerche approfondite sul web, verifica delle fonti e ragionamento. Se la pagina non si aggiorna visivamente, non significa che l'attività sia stata interr..."
+  description="Deep Research non procede durante la generazione? Questo articolo fornisce passaggi per la risoluzione dei problemi e soluzioni, tra cui aggiornare la pagina, avviare una nuova chat e ottimizzare il prompt, per aiutarti a ripartire rapidamente."
 />
 
 # Deep Research è bloccata o non restituisce risultati?

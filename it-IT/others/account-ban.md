@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Sospensione dell'account e ricorsi - Centro assistenza Kimi"
-  description="Se violi le leggi vigenti, il contratto utente o le policy della piattaforma, la piattaforma può adottare misure quali il blocco dei contenuti, il congelamento/trasferimento dell'acc..."
+  description="Scopri i possibili motivi della sospensione di un account Kimi e come presentare ricorso. Se il tuo account è stato limitato, segui i passaggi di questo articolo per inviare un ricorso e lo elaboreremo il prima possibile."
 />
 
 # Sospensione dell'account e ricorsi

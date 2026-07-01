@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Deep Research is stuck or not returning results? - Kimi Help Center"
-  description="Deep Research performs extensive web searches, source verification, and reasoning. A page that hasn't visually updated does not mean the task has been interr..."
+  description="Deep Research not moving during generation? This article provides troubleshooting steps and solutions, including refreshing the page, starting a new chat, and optimizing your prompt, to help you get back on track quickly."
 />
 
 # Deep Research is stuck or not returning results?

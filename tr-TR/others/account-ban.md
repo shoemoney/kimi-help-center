@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Hesap askıya alma & itirazlar - Kimi Yardım Merkezi"
-  description="Geçerli yasaları, kullanıcı sözleşmesini veya platform politikalarını ihlal etmeniz durumunda platform; içeriği engelleme, hesapları dondurma/devretme, avantajları askıya alma veya hizmeti sonlandırma gibi önlemler alabilir..."
+  description="Kimi hesabının askıya alınmasının olası nedenlerini ve nasıl itiraz edebileceğinizi öğrenin. Hesabınız kısıtlandıysa itiraz göndermek için bu makaledeki adımları izleyin; en kısa sürede işleme alacağız."
 />
 
 # Hesap askıya alma ve itirazlar

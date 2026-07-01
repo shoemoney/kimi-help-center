@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Deep Research のユースケースとプロンプト集 - Kimi ヘルプセンター"
-  description="私はプロの証券アナリストです。財務の観点から Pop Mart について詳細な分析を行ってください。分析には、以下を含めてください..."
+  description="業界分析、競合調査、市場トレンド、学術文献レビューなど、Kimi Deep Research の代表的なユースケースを紹介します。実践的なプロンプト例も掲載しているので、すぐに使い始められます。"
 />
 
 # Deep Research のユースケースとプロンプト集

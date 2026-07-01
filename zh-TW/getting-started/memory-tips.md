@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="記憶小技巧 - Kimi 說明中心"
-  description="我是 [name/nickname]，目前居住在 [city]。背景是 [profession/role]，專長為 [area 1] 與 [area 2]。"
+  description="了解如何設定與使用 Kimi 的 Memory，讓 Kimi 記住你的身分、偏好與偏愛的輸出風格，帶來更個人化的體驗。"
 />
 
 # 記憶小技巧

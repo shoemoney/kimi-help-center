@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Deep Research est bloqué ou ne renvoie aucun résultat ? - Centre d'aide Kimi"
-  description="Deep Research effectue de nombreuses recherches sur le Web, vérifie ses sources et raisonne. Une page qui ne s'est pas actualisée visuellement ne signifie pas que la tâche a été interr..."
+  description="Deep Research n'avance plus pendant la génération ? Cet article propose des étapes de dépannage et des solutions, notamment actualiser la page, démarrer une nouvelle conversation et optimiser votre prompt, pour vous aider à repartir rapidement."
 />
 
 # Deep Research est bloqué ou ne renvoie aucun résultat ?

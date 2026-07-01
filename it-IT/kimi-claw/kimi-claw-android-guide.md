@@ -26,7 +26,7 @@ Si consiglia di distribuire Kimi Claw Android su telefoni inutilizzati, così da
 
 Requisiti di sistema:
 
-| Progetto | Requisito |
+| Voce | Requisito |
 | --- | --- |
 | Sistema operativo | Android 8.0 e versioni successive |
 | Spazio di archiviazione disponibile | Almeno 5GB |
@@ -184,7 +184,7 @@ Kimi Claw Android offre funzioni di backup sia automatiche sia manuali, per evit
 
 Backup automatico
 
-Kimi Claw Android esegue automaticamente, a intervalli regolari, il backup della cronologia e della configurazione correnti di OpenClaw, confezionandole in un file compresso per l’archiviazione. Non serve alcuna operazione manuale: il sistema completa tutto automaticamente in background.
+Kimi Claw Android esegue automaticamente, a intervalli regolari, il backup della cronologia e della configurazione correnti di OpenClaw, comprimendole in un file compresso per l’archiviazione. Non serve alcuna operazione manuale: il sistema completa tutto automaticamente in background.
 
 Backup manuale:
 
@@ -205,7 +205,7 @@ Tocca il file di backup corrispondente nell’elenco dei backup: cronologia e co
 ## Configurare i canali chat
 
 ### Kimi
-Kimi è il canale di comunicazione predefinito e si collega automaticamente dopo aver completato la configurazione dell’account Kimi nella procedura di Onboarding, senza bisogno di ulteriori operazioni.
+Kimi è il canale di comunicazione predefinito e si collega automaticamente dopo aver completato la configurazione dell’account Kimi nella procedura di configurazione iniziale, senza bisogno di ulteriori operazioni.
 
 Al termine dell’installazione e della configurazione, Kimi Claw Android comparirà automaticamente nella pagina di cambio Bot del client Web (kimi.com). Dopo aver fatto clic per passare, avatar e thread di chat verranno sincronizzati.
 
@@ -485,7 +485,7 @@ Quanto segue è un riferimento per Kimi Claw Android.
 
 #### Perché non vedo Kimi Claw Android nella Kimi App?
 
-- Verifica che la procedura di Onboarding sia stata completata interamente (concessione autorizzazioni → installazione di OpenClaw → configurazione dell’account Kimi)
+- Verifica che la procedura di configurazione iniziale sia stata completata interamente (concessione autorizzazioni → installazione di OpenClaw → configurazione dell’account Kimi)
 - Controlla se lo stato del gateway nella Dashboard è "Connesso"
 - Prova ad aggiornare l’elenco Bot nella Kimi App
 

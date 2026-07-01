@@ -22,7 +22,7 @@ Il 27 gennaio 2026 Moonshot AI ha rilasciato Kimi K2.5, introducendo Agent Swarm
 - Oltre **4.000 chiamate a strumenti** per ciascuna attività
 - **4,5 volte più veloce** rispetto all'esecuzione sequenziale con un singolo agente
 
-## La storia dietro tutto questo
+## Come è nato
 
 Nel 2025 la narrativa dominante del settore AI si concentrava sulla scalabilità verticale — modelli più grandi, più parametri. Ma questo approccio incontra un limite strutturale: il collo di bottiglia dell'esecuzione sequenziale singola.
 

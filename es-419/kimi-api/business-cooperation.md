@@ -45,7 +45,7 @@ Los clientes empresariales con un alto volumen de uso pueden solicitar descuento
 
 ## Servicio de API empresarial
 El servicio de API empresarial se basa en la oferta de API estándar e incluye:
-- **Mayores rate limits y quotas de concurrency**
+- **Mayores rate limits y quotas de concurrencia**
 - **Canal de soporte técnico dedicado**
 - **Garantías de SLA personalizadas**
 - **Acceso anticipado a nuevas funciones**

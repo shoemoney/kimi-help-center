@@ -79,7 +79,7 @@ Cada tarea de investigación genera dos entregables:
 - **Móvil**: app de Kimi → Barra de tareas → modo Agent de Deep Research
 **Pasos**:
 1. Escribe tu pregunta de investigación y envíala
-2. Responde las preguntas de Clarification (Aclaración de intención) para confirmar la dirección (o haz clic en "Incluir todo" para omitirlas)
+2. Responde las preguntas de Aclaración de intención para confirmar la dirección (o haz clic en "Incluir todo" para omitirlas)
 3. Sigue en tiempo real las palabras clave de búsqueda, el proceso de razonamiento y las URL visitadas
 4. Recibe dos entregables al finalizar:
    - **Informe de Deep Research** (Markdown): más de 10,000 palabras con tabla de contenidos y fuentes rastreables
@@ -93,20 +93,20 @@ Antes de enviar, considera especificar:
 - **Tipos de fuentes**: "prioriza informes oficiales y artículos académicos"
 - **Desglose de la pregunta**: divide las preguntas amplias en subpreguntas
 
-### 2. Ajusta durante la Clarification (Aclaración de intención)
+### 2. Ajusta durante la Aclaración de intención
 - Indica las direcciones que *no* quieres que se aborden
 - Agrega dimensiones o enfoques específicos en los que centrarte
 - Aporta contexto de fondo para preguntas complejas
 
 <Callout type="warning">
-Mantén tus respuestas de Clarification (Aclaración de intención) breves y específicas: una entrada demasiado larga o poco clara puede desviar la investigación.
+Mantén tus respuestas de Aclaración de intención breves y específicas: una entrada demasiado larga o poco clara puede desviar la investigación.
 </Callout>
 
 ### 3. Ten paciencia durante la ejecución
 Deep Research suele tardar entre 10 y 25 minutos. El sistema se ejecuta en segundo plano, así que no necesitas permanecer en la página.
 
 <Callout type="warning">
-**No hagas clic en "Detener salida"**, ya que esto interrumpirá la investigación. Si la página parece no responder, simplemente actualízala.
+**No hagas clic en "Detener"**, ya que esto interrumpirá la investigación. Si la página parece no responder, simplemente actualízala.
 </Callout>
 
 ## Notas importantes

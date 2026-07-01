@@ -21,7 +21,7 @@ La CLI di Kimi Code utilizza `~/.kimi/config.toml` come file di configurazione g
 
 - **Provider API e modelli**: imposta diversi provider di modelli, endpoint API e chiavi.
 - **Modello predefinito**: specifica il modello da usare in modo predefinito.
-- **Parametri di esecuzione**: regola timeout, concurrency, formato di output e altre impostazioni di esecuzione.
+- **Parametri di esecuzione**: regola timeout, concorrenza, formato di output e altre impostazioni di esecuzione.
 
 > Usa il comando `/config` per aprire rapidamente il file di configurazione in modifica.
 

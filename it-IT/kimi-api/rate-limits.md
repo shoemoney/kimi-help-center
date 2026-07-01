@@ -8,12 +8,12 @@ preview: false
 
 <SeoMeta
   title="Rate limit - Centro assistenza Kimi"
-  description="Le API di Kimi applicano rate limit sulla frequenza delle richieste e sulla concurrency per garantire la stabilità della piattaforma e un utilizzo equo. I livelli di rate limit si basano sull'importo cumulativo di ricarica del tuo account..."
+  description="Le API di Kimi applicano rate limit sulla frequenza delle richieste e sulla concorrenza per garantire la stabilità della piattaforma e un utilizzo equo. I livelli di rate limit si basano sull'importo cumulativo di ricarica del tuo account..."
 />
 
 # Rate limit
 
-Le API di Kimi applicano rate limit sulla frequenza delle richieste e sulla concurrency per garantire la stabilità della piattaforma e un utilizzo equo. I livelli di rate limit si basano sull'importo cumulativo di ricarica del tuo account.
+Le API di Kimi applicano rate limit sulla frequenza delle richieste e sulla concorrenza per garantire la stabilità della piattaforma e un utilizzo equo. I livelli di rate limit si basano sull'importo cumulativo di ricarica del tuo account.
 
 ## Livelli di rate limit
 
@@ -32,7 +32,7 @@ I rate limit delle API sono suddivisi in livelli in base all'**importo cumulativ
 Quando la frequenza delle tue richieste supera il limite, l'API restituisce un codice di stato 429. Azioni consigliate:
 
 1. **Implementa un backoff esponenziale**: attendi 1 secondo all'inizio, poi raddoppia il tempo di attesa a ogni tentativo (2s, 4s, 8s…).
-2. **Controlla la concurrency**: usa code di richieste o semafori per limitare il numero di richieste simultanee.
+2. **Controlla la concorrenza**: usa code di richieste o semafori per limitare il numero di richieste simultanee.
 3. **Raggruppa le richieste**: unisci più piccole richieste in poche richieste più grandi.
 
 ## Richiedere rate limit più elevati

@@ -34,5 +34,5 @@ I codici di errore più comuni durante le chiamate alla Kimi API e come risolver
 1. **Leggi il messaggio di errore completo**: il JSON di risposta include `error.message` con una descrizione dettagliata.
 2. **Annota il request_id**: aiuta l'assistenza a individuare rapidamente il problema.
 3. **Consulta la documentazione ufficiale**: assicurati che le chiamate siano conformi alla documentazione su [platform.moonshot.ai](https://platform.moonshot.ai).
-4. **Implementa una logica di retry**: per gli errori 429 e 500, utilizza un backoff esponenziale.
+4. **Implementa una logica di ripetizione**: per gli errori 429 e 500, utilizza un backoff esponenziale.
 </Callout>

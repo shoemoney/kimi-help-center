@@ -21,7 +21,7 @@ Problemas comunes y soluciones para desarrolladores que usan la API de Kimi.
 
 Un error 429 significa que la frecuencia de tus solicitudes ha superado el rate limit de la cuenta actual. Para resolverlo:
 
-- Implementa una estrategia de reintento con backoff exponencial (espera 1s, 2s, 4s… antes de reintentar).
+- Implementa una estrategia de reintento con retroceso exponencial (espera 1s, 2s, 4s… antes de reintentar).
 - Controla la cantidad de solicitudes concurrentes mediante un mecanismo de cola.
 - Aumenta tu monto acumulado de recarga para subir de nivel en tu rate limit.
 - Comunícate con el equipo de ventas si necesitas una cuota mayor.
@@ -67,10 +67,10 @@ Sí. La API de carga de archivos admite archivos de imagen. Una vez cargadas, la
 
 La función de Web Search de la API de Kimi recupera información disponible públicamente en internet en tiempo real. Los resultados provienen de páginas web indexadas por los principales motores de búsqueda. Cada invocación de Web Search tiene un costo adicional de $0.004.
 
-## ¿Existe alguna relación entre la membresía de Kimi y la concurrency de la API?
+## ¿Existe alguna relación entre la membresía de Kimi y la concurrencia de la API?
 
 <Callout type="warning">
-Los **planes de membresía de Kimi** (como Allegretto) y la **API** son sistemas de facturación independientes. El paralelismo de agentes incluido en los planes de membresía aplica únicamente a los productos de consumo de Kimi y no tiene relación con los rate limits de la API. Los límites de concurrency de la API se determinan según el nivel acumulado de recarga de tu cuenta.
+Los **planes de membresía de Kimi** (como Allegretto) y la **API** son sistemas de facturación independientes. El paralelismo de agentes incluido en los planes de membresía aplica únicamente a los productos de consumo de Kimi y no tiene relación con los rate limits de la API. Los límites de concurrencia de la API se determinan según el nivel acumulado de recarga de tu cuenta.
 </Callout>
 
 ## Diferencia entre la API y la aplicación web de Kimi

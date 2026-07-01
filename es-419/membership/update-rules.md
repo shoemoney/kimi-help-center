@@ -48,7 +48,7 @@ Los planes de niveles superiores incluyen grupos de créditos proporcionalmente 
 |------|-------------|
 | **Ciclo** | Tanto los suscriptores mensuales como los anuales reciben créditos en un ciclo **mensual** |
 | **Vencimiento** | Los créditos no utilizados vencen al final de cada ciclo: no se acumulan ni se convierten en dinero |
-| **Límites** | Las tareas individuales pueden estar sujetas a límites de concurrency de 5 horas y 7 días, según se muestra en la interfaz |
+| **Límites** | Las tareas individuales pueden estar sujetas a límites de concurrencia de 5 horas y 7 días, según se muestra en la interfaz |
 
 ## Prioridad de uso
 Cuando existen varios tipos de créditos, se consumen en este orden:

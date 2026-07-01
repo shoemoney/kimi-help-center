@@ -28,7 +28,7 @@ Apri [kimi.com](https://www.kimi.com) e prova a inviare un messaggio: saluta Kim
 
 ## Basato su K2.6
 Kimi K2.6 è un modello open source che si fonda su K2.5 con miglioramenti significativi, concentrandosi su coding all'avanguardia, esecuzione su orizzonti temporali estesi e capacità di agent swarm. Raggiunge prestazioni allo stato dell'arte nelle attività degli agenti, nel coding, nella comprensione di immagini e video e nei benchmark di intelligenza generale. K2.6 è inoltre il modello **più versatile** di Kimi: la sua architettura nativamente multimodale supporta input sia visivo che testuale, modalità thinking e non-thinking, oltre ad attività conversazionali e agentiche.
-Di conseguenza, Kimi non eccelle soltanto nelle conversazioni di domanda e risposta, ma anche nella pianificazione autonoma delle attività, nell'invocazione di strumenti e nel ragionamento multi-step, supportando il pensiero profondo e l'esecuzione di attività complesse.
+Di conseguenza, Kimi non eccelle soltanto nelle conversazioni di domanda e risposta, ma anche nella pianificazione autonoma delle attività, nell'invocazione di strumenti e nel ragionamento in più passaggi, supportando il pensiero profondo e l'esecuzione di attività complesse.
 ### Strumenti integrati
 Disponibili da subito, senza alcuna configurazione:
 | Strumento | Descrizione |

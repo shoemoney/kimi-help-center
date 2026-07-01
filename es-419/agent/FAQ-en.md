@@ -36,7 +36,7 @@ Si el proceso de creación falla, no se descontarán tokens. Los tokens solo se 
 
 Sí. Para garantizar la estabilidad del sistema y un uso justo, existen los siguientes límites:
 
-1. **Límite de concurrency**: pueden ejecutarse en paralelo un máximo de **3 tareas** (en creación + fallidas). Si alcanzas este límite, recibirás un aviso para reintentar más tarde.
+1. **Límite de concurrencia**: pueden ejecutarse en paralelo un máximo de **3 tareas** (en creación + fallidas). Si alcanzas este límite, recibirás un aviso para reintentar más tarde.
 2. **Límite diario**: cada usuario puede realizar un máximo de **10 conversiones de "documento de oficina a skill"** por día (incluidos los reintentos). Si superas este límite, aparecerá una notificación emergente.
 
 ## ¿Qué hago si falla la creación de una skill?

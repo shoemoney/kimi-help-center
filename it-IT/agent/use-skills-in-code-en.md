@@ -111,7 +111,7 @@ Il tuo team richiede che i messaggi di commit seguano il formato Conventional Co
 
 Kimi Code leggerà i tuoi standard, li combinerà con la descrizione dell'attività e produrrà direttamente un messaggio di commit formattato correttamente, senza che tu debba ripetere alcun requisito di formato.
 
-## Flow Skill: definire flussi di lavoro multi-step
+## Flow Skill: definire flussi di lavoro in più passaggi
 
 Mentre le Skill normali forniscono standard statici, le **Flow Skill** possono definire processi automatizzati composti da più passaggi.
 

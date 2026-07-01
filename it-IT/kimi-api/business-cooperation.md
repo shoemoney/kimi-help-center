@@ -45,7 +45,7 @@ I clienti aziendali ad alto volume possono richiedere sconti esclusivi:
 
 ## Servizio Enterprise API
 Il servizio Enterprise API estende l'offerta API standard con:
-- **rate limit e quota di concurrency più elevati**
+- **rate limit e quota di concorrenza più elevati**
 - **canale di supporto tecnico dedicato**
 - **garanzie SLA personalizzate**
 - **accesso anticipato alle nuove funzionalità**

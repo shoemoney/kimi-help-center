@@ -26,9 +26,9 @@ Al enviar tu pregunta:
 | Consejo | Descripción |
 | --- | --- |
 | **Acota el alcance** | Define el período de tiempo, el alcance geográfico y los tipos de fuentes para evitar preguntas demasiado amplias |
-| **Aprovecha la Clarification (Aclaración de intención)** | Usa el mensaje de Clarification (Aclaración de intención) para indicar las direcciones que no quieres abordar y agregar dimensiones de enfoque |
-| **Sé conciso en lo que escribes** | Un texto demasiado largo o poco claro durante la Clarification (Aclaración de intención) puede provocar desviaciones |
+| **Aprovecha la Aclaración de intención** | Usa el mensaje de Aclaración de intención para indicar las direcciones que no quieres abordar y agregar dimensiones de enfoque |
+| **Sé conciso en lo que escribes** | Un texto demasiado largo o poco claro durante la Aclaración de intención puede provocar desviaciones |
 
 <Callout type="tip">
-Mantén las respuestas de Clarification (Aclaración de intención) concisas y específicas para obtener mejores resultados.
+Mantén las respuestas de Aclaración de intención concisas y específicas para obtener mejores resultados.
 </Callout>

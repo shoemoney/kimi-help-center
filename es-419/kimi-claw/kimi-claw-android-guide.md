@@ -26,7 +26,7 @@ Se recomienda implementar Kimi Claw Android en teléfonos que no uses para evita
 
 Requisitos del sistema:
 
-| Proyecto | Requisito |
+| Elemento | Requisito |
 | --- | --- |
 | Sistema operativo | Android 8.0 o superior |
 | Espacio de almacenamiento disponible | Al menos 5GB |
@@ -205,7 +205,7 @@ Toca el archivo de copia de seguridad correspondiente en la lista de copias y po
 ## Configurar canales de chat
 
 ### Kimi
-Kimi es el canal de comunicación predeterminado y se conectará automáticamente después de completar la configuración de la cuenta de Kimi durante el proceso de Onboarding, sin operaciones adicionales.
+Kimi es el canal de comunicación predeterminado y se conectará automáticamente después de completar la configuración de la cuenta de Kimi durante el proceso de configuración inicial, sin operaciones adicionales.
 
 Una vez finalizadas la instalación y la configuración, tu Kimi Claw Android aparecerá automáticamente en la página de cambio de Bot del cliente web (kimi.com). Al tocar para cambiar, el avatar y el hilo de chat se cambiarán de forma sincronizada.
 
@@ -485,7 +485,7 @@ Lo siguiente sirve como referencia para Kimi Claw Android.
 
 #### ¿Por qué no puedo ver Kimi Claw Android en la app Kimi?
 
-- Confirma que el proceso de Onboarding se haya completado por completo (otorgamiento de permisos → instalación de OpenClaw → configuración de la cuenta de Kimi)
+- Confirma que el proceso de configuración inicial se haya completado por completo (otorgamiento de permisos → instalación de OpenClaw → configuración de la cuenta de Kimi)
 - Revisa si el estado del gateway en el Dashboard es "Conectado"
 - Intenta actualizar la lista de Bot en la app Kimi
 

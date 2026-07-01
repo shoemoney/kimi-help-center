@@ -14,7 +14,7 @@ preview: false
 # Primeros pasos con Kimi
 
 Puedes escribir preguntas en el cuadro de chat, subir archivos o cambiar entre modelos según lo que necesites.
-Abre [kimi.com](https://www.kimi.com) y prueba a enviar un mensaje: salúdalo a Kimi:
+Abre [kimi.com](https://www.kimi.com) y prueba a enviar un mensaje: saluda a Kimi:
 
 <CodePreview
   files={[

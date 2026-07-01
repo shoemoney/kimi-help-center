@@ -21,8 +21,8 @@ Problemi comuni e soluzioni per gli sviluppatori che utilizzano l'API Kimi.
 
 Un errore 429 indica che la frequenza delle richieste ha superato il rate limit dell'account corrente. Per risolverlo:
 
-- Implementa una strategia di retry con backoff esponenziale (attendi 1s, 2s, 4s… prima di riprovare).
-- Controlla il numero di richieste in concurrency tramite un meccanismo di coda.
+- Implementa una strategia di ripetizione con backoff esponenziale (attendi 1s, 2s, 4s… prima di riprovare).
+- Controlla il numero di richieste simultanee tramite un meccanismo di coda.
 - Aumenta l'importo cumulativo delle ricariche per passare a un livello di rate limit superiore.
 - Contatta il team commerciale se hai bisogno di una quota più elevata.
 
@@ -67,10 +67,10 @@ Sì. L'API di caricamento file supporta i file immagine. Una volta caricate, le 
 
 La funzione di Web Search dell'API Kimi recupera in tempo reale informazioni pubblicamente disponibili da internet. I risultati provengono da pagine web indicizzate dai principali motori di ricerca. Ogni invocazione di Web Search comporta un costo aggiuntivo di $0,004.
 
-## C'è una relazione tra l'abbonamento Kimi e la concurrency dell'API?
+## C'è una relazione tra l'abbonamento Kimi e la concorrenza dell’API?
 
 <Callout type="warning">
-I **piani di abbonamento Kimi** (come Allegretto) e l'**API** sono sistemi di fatturazione separati. Il parallelismo degli agent incluso nei piani di abbonamento si applica esclusivamente ai prodotti consumer di Kimi e non ha alcuna relazione con i rate limit dell'API. I limiti di concurrency dell'API sono determinati dal livello di ricarica cumulativa del tuo account.
+I **piani di abbonamento Kimi** (come Allegretto) e l'**API** sono sistemi di fatturazione separati. Il parallelismo degli agent incluso nei piani di abbonamento si applica esclusivamente ai prodotti consumer di Kimi e non ha alcuna relazione con i rate limit dell'API. I limiti di concorrenza dell'API sono determinati dal livello di ricarica cumulativa del tuo account.
 </Callout>
 
 ## Differenza tra l'API e l'app web Kimi

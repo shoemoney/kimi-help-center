@@ -33,7 +33,7 @@ O Kimi oferece cinco níveis de assinatura — incluindo um plano gratuito — p
 \* Valores aproximados, com base no consumo típico de tokens por tarefa. Os créditos mensais são convertidos no número equivalente de tarefas para o mesmo recurso; apenas para referência.
 
 <Callout type="tip">
-Use todo o limite de créditos na mesma função
+Aproveite todo o seu limite de créditos dentro de um mesmo recurso
 </Callout>
 
 ## Como funciona a cobrança

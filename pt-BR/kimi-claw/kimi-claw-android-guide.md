@@ -26,7 +26,7 @@ Recomendamos implantar o Kimi Claw Android em telefones ociosos para evitar conf
 
 Requisitos do sistema:
 
-| Projeto | Requisito |
+| Item | Requisito |
 | --- | --- |
 | Sistema operacional | Android 8.0 ou superior |
 | Espaço de armazenamento disponível | Pelo menos 5GB |
@@ -279,7 +279,7 @@ Verificar mensagens, navegar por conteúdo, pesquisar produtos, realizar operaç
 
 ## Dicas de uso
 
-### Controlar o telefone por software de chat
+### Controlar o telefone por aplicativos de mensagens
 
 Depois que a configuração for concluída, você poderá enviar comandos ao Claw no Kimi, Feishu e WeChat para controlar remotamente aplicativos em telefones Android. Por exemplo:
 
@@ -310,7 +310,7 @@ Antes de usar o Kimi Claw Android, observe as seguintes precauções de seguran�
 
 1. Use um telefone ocioso — o Kimi Claw Android ocupará permissões de sistema do telefone, o que pode afetar o uso diário. Recomendamos usar um telefone ocioso
 
-2.  Isolamento de dados sensíveis — o Kimi Claw Android lerá dados de arquivos locais; limpe ou isole informações sensíveis com antecedência
+2.  Isole dados sensíveis — como o Kimi Claw Android lê dados de arquivos locais, limpe ou isole informações sensíveis com antecedência
 
 3. Proteção de aplicativos financeiros — o sistema bloqueou automaticamente o acesso a aplicativos bancários, de pagamento, valores mobiliários e seguros para proteger fundos
 
@@ -395,7 +395,7 @@ Por motivos de segurança financeira e privacidade, as categorias de apps abaixo
 
 | Função | Descrição |
 | --- | --- |
-| Controle remoto de aplicativo móvel | Use apps em um telefone celular remotamente por comandos de software de chat |
+| Controle remoto de aplicativo móvel | Use apps em um telefone celular remotamente por comandos enviados por apps de mensagens |
 | Comunicação multicanal | Oferece suporte à comunicação com o Claw via Kimi, Feishu e WeChat |
 | Visualização de logs em tempo real | Veja logs de operação do gateway OpenClaw, com suporte a pesquisa e filtragem por nível |
 | Backup e restauração de configuração | Faça backup da configuração atual, que pode ser restaurada após reinstalação ou troca de dispositivo |

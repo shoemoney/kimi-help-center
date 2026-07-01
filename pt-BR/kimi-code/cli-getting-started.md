@@ -30,7 +30,7 @@ A CLI é escrita em TypeScript, distribuída via npm e roda no Node.js.
 - **Conta Kimi**: uma assinatura de membro Kimi ativa ou uma chave de API utilizável
 
 <Callout type="tip">
-O Kimi Code CLI é uma aplicação TUI totalmente interativa. Para a melhor experiência visual, execute-o em um terminal com suporte a true-color e ligaduras, como o [Kitty](https://sw.kovidgoyal.net/kitty/) ou o [Ghostty](https://ghostty.org/).
+O Kimi Code CLI é uma aplicação TUI totalmente interativa. Para a melhor experiência visual, execute-o em um terminal com suporte a true-color e ligaduras (ligatures), como o [Kitty](https://sw.kovidgoyal.net/kitty/) ou o [Ghostty](https://ghostty.org/).
 </Callout>
 
 ## Instalação

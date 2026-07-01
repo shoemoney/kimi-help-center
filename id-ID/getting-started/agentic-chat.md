@@ -41,7 +41,7 @@ Langsung tersedia tanpa perlu konfigurasi:
 | **Memory** | Memori cerdas yang mencatat preferensi dan kebiasaan pribadi Anda |
 
 ## Kemampuan visual & multimodal
-K2.6 mendukung pemahaman menyeluruh atas gambar, video, dan dokumen perkantoran (PDF/Word/Excel) menggunakan **arsitektur multimodal natif** (bukan OCR tempelan). Model ini dapat langsung mengurai isi dokumen dan menjalankan tugas perkantoran tingkat menengah hingga lanjutan (seperti menulis rumus Excel atau membuat kerangka PPT/kode VBA).
+K2.6 mendukung pemahaman menyeluruh atas gambar, video, dan dokumen perkantoran (PDF/Word/Excel) menggunakan **arsitektur multimodal natif** (bukan OCR yang ditambahkan belakangan). Model ini dapat langsung mengurai isi dokumen dan menjalankan tugas perkantoran tingkat menengah hingga lanjutan (seperti menulis rumus Excel atau membuat kerangka PPT/kode VBA).
 ### Dukungan input multimodal
 - **Gambar**: PNG, JPEG, WebP, GIF, dll. (melalui URL, Base64, atau unggahan berkas lokal)
 - **Video**: MP4, dll. (melalui video_url atau urutan bingkai gambar + parameter fps)

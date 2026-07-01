@@ -36,7 +36,7 @@ Agent dapat menghasilkan konten full-stack, termasuk antarmuka frontend, layanan
 </Callout>
 
 **(4) Percakapan multigiliran dan penyesuaian tugas**
-Seiring beberapa putaran dialog dan revisi, Agent mungkin "melupakan" sejumlah detail awal. Sebaiknya tetapkan dulu kerangka dan poin-poin utama tugas, lalu lakukan penyesuaian secara bertahap.
+Setelah beberapa putaran percakapan dan revisi, Agent mungkin "melupakan" sejumlah detail awal. Sebaiknya tetapkan dulu kerangka dan poin-poin utama tugas, lalu lakukan penyesuaian secara bertahap.
 
 **(5) Penguraian tugas besar**
 Untuk tugas yang besar dan kompleks, pecahlah menjadi 2–3 tahap dan kirimkan ke Kimi secara bertahap, atau gunakan K2.6 Agent Swarm [Beta].

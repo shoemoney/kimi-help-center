@@ -76,7 +76,7 @@ Kimi Claw Android memerlukan izin berikut agar dapat berjalan stabil di latar be
 
 Karena jalur pengaturan berbeda-beda pada tiap merek ponsel, berikut langkah umumnya:
 
-1. Klik "Buka Pengaturan" untuk melompat ke halaman pengaturan ponsel
+1. Klik "Buka Pengaturan" untuk membuka halaman pengaturan ponsel
 2. Masuk ke daftar manajemen aplikasi dan pilih Kimi Claw Android
 3. Aktifkan sakelar mulai otomatis
 4. Pilih "Izinkan Sepenuhnya Perilaku Latar Belakang" di Manajemen Konsumsi Daya
@@ -84,7 +84,7 @@ Karena jalur pengaturan berbeda-beda pada tiap merek ponsel, berikut langkah umu
 
 #### Langkah 2: Konfigurasikan Akun Kimi
 
-1. Klik "Buka Konfigurasi" untuk melompat ke Kimi App guna melakukan otorisasi
+1. Klik "Buka Konfigurasi" untuk beralih ke Kimi App guna melakukan otorisasi
 2. Setelah otorisasi, Kimi akan otomatis membuat kunci API Kimi Coding Plan untuk Kimi Claw Android
 3. Jika Anda pengguna gratis, Anda perlu mengaktifkan hak keanggotaan terlebih dahulu. Klik "Buka Upgrade" untuk mengaktifkan keanggotaan Anda.
 
@@ -184,11 +184,11 @@ Kimi Claw Android menyediakan fungsi pencadangan otomatis dan manual untuk memas
 
 Pencadangan Otomatis
 
-Kimi Claw Android akan secara otomatis mencadangkan riwayat dan konfigurasi OpenClaw saat ini secara berkala, lalu mengemasnya ke dalam file terkompresi untuk disimpan. Tidak diperlukan operasi manual; sistem akan menyelesaikannya secara otomatis di latar belakang.
+Kimi Claw Android akan secara otomatis mencadangkan riwayat dan konfigurasi OpenClaw saat ini secara berkala, lalu mengemasnya ke dalam file terkompresi untuk disimpan. Tidak diperlukan tindakan manual; sistem akan menyelesaikannya secara otomatis di latar belakang.
 
 Pencadangan Manual:
 
-Jika ingin merekam keadaan pada momen tertentu, Anda juga dapat mengklik Cadangkan secara aktif untuk menyimpan snapshot riwayat dan konfigurasi saat ini secara manual. Klik  Cadangkan  untuk mengekspor semua cadangan konfigurasi saat ini.
+Jika ingin merekam keadaan pada momen tertentu, Anda juga dapat mengklik Cadangkan sendiri untuk menyimpan snapshot riwayat dan konfigurasi saat ini secara manual. Klik  Cadangkan  untuk mengekspor semua cadangan konfigurasi saat ini.
 
 **Pulihkan Konfigurasi:**
 

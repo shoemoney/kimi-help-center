@@ -39,7 +39,7 @@ Setiap tugas riset menghasilkan dua keluaran:
 ### 1. Laporan riset teks
 - Panjang rata-rata: lebih dari 10.000 kata
 - ~26 sumber berkualitas tinggi yang dapat ditelusuri
-- Kutipan tertanam langsung di teks — klik untuk melompat ke sumbernya
+- Kutipan tertanam langsung di teks — klik untuk membuka sumbernya
 
 <Frames
   src="./images/overview/dr-gif.gif"

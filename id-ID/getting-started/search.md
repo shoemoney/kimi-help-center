@@ -28,13 +28,13 @@ Dibandingkan dengan pencarian berbasis pencocokan kata kunci tradisional, kemamp
   alt="Web search"
 />
 
-Web search (Auto/Off) menembus batas kekinian pengetahuan untuk menghadirkan informasi yang aktual, tepercaya, dan dapat ditelusuri.
+Web search (Auto/Off) mengatasi keterbatasan pengetahuan model yang tidak selalu mutakhir, sehingga menghadirkan informasi yang aktual, tepercaya, dan dapat ditelusuri.
 
 Ketuk sakelar "Web search" di bawah kotak input obrolan. Saat diaktifkan, Kimi secara mandiri menentukan apakah pertanyaan saat ini membutuhkan data waktu nyata, lalu dengan cerdas memanggil mesin pencari dan basis data vertikal untuk mengambil dan merangkai informasi.
 
 ## Kemampuan inti
 
-### 1. Kekinian berpadu dengan kredibilitas
+### 1. Informasi terkini yang tepercaya
 Pengambilan informasi web secara waktu nyata mencakup 100+ sumber tepercaya yang terverifikasi (media berita utama, pengumuman pemerintah, platform data finansial, basis data jurnal akademis) — memastikan informasi selalu mutakhir sekaligus otoritatif.
 
 ### 2. Atribusi sumber
@@ -53,7 +53,7 @@ Mendukung percakapan bahasa alami dalam berbagai bahasa. Kimi dapat secara proak
 
 Web search Kimi menyaring sumber dari tiga dimensi — relevansi, otoritas, dan kekinian — secara otomatis menyingkirkan situs berisiko, sindikasi duplikat, konten web berkualitas rendah, dan informasi halusinasi demi memastikan hasil yang andal.
 
-Sumber berkualitas tinggi yang lolos penyaringan ketat Kimi ditandai dengan lencana otoritas dalam respons (misalnya ikon sertifikasi situs resmi, sertifikasi akademis, sertifikasi media), membantu Anda dengan cepat mengenali informasi yang sangat tepercaya.
+Sumber berkualitas tinggi yang lolos penyaringan ketat Kimi ditandai dengan lencana otoritas dalam respons (misalnya ikon sertifikasi situs resmi, sertifikasi akademis, sertifikasi media), membantu Anda mengenali informasi yang sangat tepercaya dengan cepat.
 
 **Mekanisme penyaringan sumber**:
 - **Disingkirkan**: Situs agregator berkualitas rendah, media sosial pribadi yang tak terverifikasi, halaman cache kedaluwarsa

@@ -19,7 +19,7 @@ preview: false
 |:---|:---|
 | Riset industri / pasar | Telusuri lanskap persaingan dan pemain utama di sektor robot humanoid dalam negeri pada 2025 |
 | Analisis kompetitif | Bandingkan dan analisis perbedaan strategi produk antara Notion dan Obsidian |
-| Uji tuntas investasi | Himpun putaran pendanaan dan perubahan valuasi perusahaan LLM utama dalam dua tahun terakhir |
+| Uji tuntas investasi | Kumpulkan data putaran pendanaan dan perubahan valuasi perusahaan LLM utama dalam dua tahun terakhir |
 | Tinjauan literatur akademis | Lacak perkembangan teknologi RAG dan arah optimalisasi utamanya saat ini |
 | Analisis kebijakan | Analisis dampak regulasi keamanan data terbaru terhadap perusahaan yang berekspansi ke luar negeri |
 | Pengambilan keputusan pribadi | Saya ingin membeli laptop untuk mengedit video — bantu saya menelusuri pilihan terbaik |

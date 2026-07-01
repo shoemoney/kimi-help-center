@@ -70,7 +70,7 @@ Kimi API 的網頁搜尋功能會即時從網際網路擷取公開資訊。結�
 ## Kimi 會員與 API concurrency 有關嗎？
 
 <Callout type="warning">
-**Kimi 會員方案**（例如 Allegretto）與 **API** 是彼此獨立的計費系統。會員方案包含的 agent 並行能力僅適用於 Kimi 的消費端產品，與 API rate limit 無關。API concurrency 上限由你的帳戶累計儲值等級決定。
+**Kimi 會員方案**（例如 Allegretto）與 **API** 是彼此獨立的計費系統。會員方案包含的 agent 平行能力僅適用於 Kimi 的消費端產品，與 API rate limit 無關。API concurrency 上限由你的帳戶累計儲值等級決定。
 </Callout>
 
 ## API 與 Kimi 網頁版應用的差異

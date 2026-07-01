@@ -32,7 +32,7 @@ preview: false
 
 <Callout type="tip">
 1. **檢查完整錯誤訊息**：回應 JSON 會在 `error.message` 中提供詳細說明。
-2. **記下 request_id**：可協助支援團隊快速定位問題。
+2. **記下 request_id**：可協助支援團隊快速找出問題。
 3. **參考官方文件**：請確認呼叫方式符合 [platform.moonshot.ai](https://platform.moonshot.ai) 上的文件說明。
 4. **實作重試邏輯**：針對 429 與 500 錯誤，請使用指數退避。
 </Callout>

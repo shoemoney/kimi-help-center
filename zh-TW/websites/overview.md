@@ -15,7 +15,7 @@ preview_content: "透過自然語言描述、設計稿或範本，建置並部�
 # Kimi Websites
 
 <Callout type="info">
-**Kimi Websites** 是由最新 Kimi K2.6 多模態視覺 Agent AI 模型驅動的 Kimi Agent 產品功能。其核心能力是 **Vibe Coding（氛圍式編程）**——透過自然語言產生網站並部署上線。
+**Kimi Websites** 是由最新 Kimi K2.6 多模態視覺 Agent AI 模型驅動的 Kimi Agent 產品功能。其核心能力是 **Vibe Coding（氛圍式程式設計）**——透過自然語言產生網站並部署上線。
 </Callout>
 
 Kimi 能理解視覺輸入（UI 設計稿、螢幕截圖、互動影片）與自然語言指令，將使用者輸入轉換為完整、可執行的前端程式碼；不只涵蓋靜態 UI，也能實作動態互動行為。
@@ -65,7 +65,7 @@ iOS、Android 與 HarmonyOS 都有官方 Kimi app。在輸入區點選 **工作�
 
 ### 方法三：使用 K2.6 Agent 模式
 
-切換至 K2.6 Agent 模式，並輸入建站任務。Kimi 會呼叫其視覺編程能力與程式碼執行工具。
+切換至 K2.6 Agent 模式，並輸入建站任務。Kimi 會呼叫其視覺程式設計能力與程式碼執行工具。
 
 ## Kimi Websites 如何運作？
 

@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Kimi 聊天常見問題 - Kimi 說明中心"
-  description="遇到 Kimi 對話異常？本文彙整對話中常見問題的排查方案，包括回覆中斷、內容異常、載入失敗等，幫你快速解決。"
+  description="遇到 Kimi 對話異常？本文彙整對話中常見問題的排除方案，包括回覆中斷、內容異常、載入失敗等，幫你快速解決。"
 />
 
 # Kimi 聊天常見問題

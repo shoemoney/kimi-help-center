@@ -511,7 +511,7 @@ Kimi Claw Android 內建 ClawHub 技能庫。你可以在設定中管理與安�
 
 - 在 Dashboard 主介面中，可以查看閘道狀態與執行時間
 - 點擊「即時日誌」查看詳細執行日誌
-- 透過日誌的搜尋與層級篩選功能，可以快速定位問題
+- 透過日誌的搜尋與層級篩選功能，可以快速找出問題
 
 ### 升級與版本
 
@@ -541,5 +541,5 @@ Kimi Claw Android 內建 ClawHub 技能庫。你可以在設定中管理與安�
 - 問題描述與螢幕截圖
 
 <Callout type="info">
-提供 Kimi Claw Android ID 可協助技術人員快速定位問題，回饋時請一併附上。
+提供 Kimi Claw Android ID 可協助技術人員快速找出問題，回饋時請一併附上。
 </Callout>

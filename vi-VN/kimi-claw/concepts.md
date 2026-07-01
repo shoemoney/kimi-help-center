@@ -22,7 +22,7 @@ preview: false
 | **HEARTBEAT** | Các tác vụ nền được lên lịch chạy theo bộ hẹn giờ — hữu ích cho nhắc nhở định kỳ, thu thập dữ liệu và bản tổng hợp. |
 | **Identity** | Định nghĩa vai trò của Kimi Claw: tên gọi, nghề nghiệp, tính cách. Bạn có thể tùy chỉnh hoàn toàn. |
 | **Soul** | Các đặc điểm tính cách cốt lõi và nguyên tắc hành xử định hình phong cách tương tác của Kimi Claw. |
-| **Tools** | Tập hợp các năng lực mà Kimi Claw có thể gọi đến — tìm kiếm web, xử lý tệp, thực thi mã và nhiều hơn nữa. |
+| **Tools** | Tập hợp các năng lực mà Kimi Claw có thể gọi đến — tìm kiếm web, xử lý tệp, thực thi mã cùng nhiều năng lực khác. |
 | **User** | Định nghĩa mối quan hệ giữa bạn và Kimi Claw, chi phối cách tương tác và việc chia sẻ thông tin. |
 
 ## Terminal

@@ -9,7 +9,7 @@ preview_content: "Các câu hỏi thường gặp về Kimi Code."
 
 <SeoMeta
   title="Câu hỏi thường gặp về Kimi Code - Trung tâm trợ giúp Kimi"
-  description="Các câu hỏi thường gặp về cài đặt, xác thực, di chuyển, tương tác và nhiều hơn nữa của Kimi Code CLI."
+  description="Các câu hỏi thường gặp về cài đặt, xác thực, di chuyển, tương tác và nhiều nội dung khác của Kimi Code CLI."
 />
 
 # Câu hỏi thường gặp

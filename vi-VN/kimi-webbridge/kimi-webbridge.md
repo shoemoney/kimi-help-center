@@ -105,7 +105,7 @@ Sau khi cài đặt, bạn sẽ thấy WebBridge trong danh sách tiện ích m�
 
 ### Cách 2: Ghép nối với Agent cục bộ
 
-Hỗ trợ Claude Code, Codex, Cursor, Kimi Code, Hermers Claw và nhiều hơn nữa.
+Hỗ trợ Claude Code, Codex, Cursor, Kimi Code, Hermers Claw cùng nhiều công cụ khác.
 
 1. Gửi lệnh sau trực tiếp trong Agent để tự động cài đặt WebBridge. Agent sẽ chạy quy trình thiết lập phù hợp với hệ điều hành của bạn.
 

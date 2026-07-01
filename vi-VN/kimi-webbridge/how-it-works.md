@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Kimi WebBridge hoạt động như thế nào - Trung tâm trợ giúp Kimi"
-  description="Tìm hiểu cách Kimi WebBridge kết nối trình duyệt của bạn với các AI Agent ngay trên máy, cho phép điều hướng web, nhấp chuột, chụp màn hình an toàn và nhiều hơn nữa."
+  description="Tìm hiểu cách Kimi WebBridge kết nối trình duyệt của bạn với các AI Agent ngay trên máy, cho phép điều hướng web, nhấp chuột, chụp màn hình an toàn và nhiều nội dung khác."
   ogType="article"
 />
 

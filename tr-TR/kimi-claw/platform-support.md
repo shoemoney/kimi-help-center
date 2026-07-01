@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Desteklenen platformlar - Kimi Yardım Merkezi"
-  description="Kimi Claw aşağıdaki platformlarda kullanılabilir:"
+  description="Feishu, WeChat, WeCom, DingTalk, Weibo ve daha fazlası dahil olmak üzere Kimi Claw'ın şu anda desteklediği tüm platformların listesini görüntüleyin ve her platforma özgü özellik farklarını ve kurulum yöntemlerini öğrenin."
 />
 
 # Desteklenen platformlar

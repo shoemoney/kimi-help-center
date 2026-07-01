@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Xử lý \u0026 bảo mật dữ liệu - Trung tâm trợ giúp Kimi"
+  title="Xử lý & bảo mật dữ liệu - Trung tâm trợ giúp Kimi"
   description="Câu hỏi thường gặp về bảo mật dữ liệu người dùng và bảo vệ quyền riêng tư cho Kimi API."
 />
 

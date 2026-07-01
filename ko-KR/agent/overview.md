@@ -61,13 +61,13 @@ Kimi K2.6 Agent는 복잡한 작업을 처음부터 끝까지 처리하는 자�
 <ColumnsContent
   columns={[
     {
-      title: "기능 \u0026 제한 사항",
+      title: "기능 & 제한 사항",
       description: "기능과 크레딧",
       pageUrl: "/agent/agent-features-and-limits",
       type: "document",
     },
     {
-      title: "크레딧 \u0026 결제",
+      title: "크레딧 & 결제",
       description: "요금제와 멤버십 세부 정보",
       pageUrl: "/agent/quota-and-billing",
       type: "data",

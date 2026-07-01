@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Kimi sohbetinde sık karşılaşılan sorunlar - Kimi Yardım Merkezi"
-  description="Bunun olası nedenleri şunlardır:"
+  description="Kimi sohbetlerinde sorun mu yaşıyorsunuz? Bu makale, kesilen yanıtlar, hatalı içerik ve yükleme hataları gibi sık karşılaşılan sohbet sorunlarının çözüm adımlarını derleyerek hızlıca çözmenize yardımcı olur."
 />
 
 # Kimi sohbetinde sık karşılaşılan sorunlar

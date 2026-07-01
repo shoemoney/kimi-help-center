@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Problèmes courants avec le chat Kimi - Centre d'aide Kimi"
-  description="Cela peut être dû à :"
+  description="Des problèmes avec les conversations Kimi ? Cet article regroupe les étapes de dépannage des soucis courants, comme les réponses interrompues, le contenu anormal et les échecs de chargement, pour les résoudre rapidement."
 />
 
 # Problèmes courants avec le chat Kimi

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Deep Research 使用案例\u0026提示詞庫 - Kimi 說明中心"
+  title="Deep Research 使用案例&提示詞庫 - Kimi 說明中心"
   description="我是專業證券分析師。請從財務角度協助我對 Pop Mart 進行深入分析。分析內容應包括但..."
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Bellek kaybı \u0026 bağlam - Kimi Yardım Merkezi"
+  title="Bellek kaybı & bağlam - Kimi Yardım Merkezi"
   description="OpenClaw, her gün saat 04.00'te konuşmayı otomatik olarak sıfırlar. Bu, aşırı uzun bağlamların halüsinasyonlara veya yanıt kalitesinin düşmesine yol açmasını önler."
 />
 

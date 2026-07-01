@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Unterstützte Plattformen - Kimi Hilfecenter"
-  description="Kimi Claw ist auf den folgenden Plattformen verfügbar:"
+  description="Sehen Sie sich die vollständige Liste der von Kimi Claw unterstützten Plattformen an, darunter Feishu, WeChat, WeCom, DingTalk, Weibo und mehr, und erfahren Sie mehr über Funktionsunterschiede und Einrichtung je Plattform."
 />
 
 # Unterstützte Plattformen

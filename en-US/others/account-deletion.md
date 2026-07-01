@@ -8,7 +8,7 @@ preview_content: "Find answers to common account, profile, and data management q
 ---
 
 <SeoMeta
-  title="Account deletion \u0026 data removal - Kimi Help Center"
+  title="Account deletion & data removal - Kimi Help Center"
   description="Find answers to common account, profile, and data management questions."
 />
 

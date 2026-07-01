@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Số dư \u0026 mức sử dụng - Trung tâm trợ giúp Kimi"
+  title="Số dư & mức sử dụng - Trung tâm trợ giúp Kimi"
   description="Kimi API cung cấp nhiều cách để xem số dư tài khoản và chi tiết mức sử dụng, giúp bạn theo dõi mức tiêu thụ và chi phí."
 />
 

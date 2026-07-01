@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="支援的平台 - Kimi 說明中心"
-  description="Kimi Claw 可在以下平台使用："
+  description="查看 Kimi Claw 目前支援的全部平台清單，包括飛書、微信、企業微信、釘釘、微博等，了解各平台的功能差異與接入方式。"
 />
 
 # 支援的平台

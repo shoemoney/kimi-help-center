@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Aturan pembaruan \u0026 penggunaan kredit - Pusat Bantuan Kimi"
+  title="Aturan pembaruan & penggunaan kredit - Pusat Bantuan Kimi"
   description="Manfaat keanggotaan Kimi mencakup dua pool kredit. Kimi Code menggunakan pool kredit terpisah; fitur keanggotaan lainnya berbagi satu pool kredit, dan kredit dipakai sesuai penggunaan sebenarnya."
 />
 

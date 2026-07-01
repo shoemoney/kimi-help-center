@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Kimi 聊天常见问题 - Kimi 帮助中心"
-  description="这可能由以下原因导致："
+  description="遇到 Kimi 对话异常？本文汇总对话中常见问题的排查方案，包括回复中断、内容异常、加载失败等，帮你快速解决。"
 />
 
 # Kimi 聊天常见问题

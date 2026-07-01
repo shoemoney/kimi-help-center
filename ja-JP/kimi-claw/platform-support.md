@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="対応プラットフォーム - Kimi ヘルプセンター"
-  description="Kimi Claw は、以下のプラットフォームでご利用いただけます。"
+  description="Feishu、WeChat、WeCom、DingTalk、Weibo など、Kimi Claw が現在対応しているプラットフォームの一覧を確認し、各プラットフォームの機能の違いや設定方法を確認できます。"
 />
 
 # 対応プラットフォーム

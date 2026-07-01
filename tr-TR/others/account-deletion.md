@@ -8,7 +8,7 @@ preview_content: "Hesap, profil ve veri yönetimiyle ilgili sık sorulan sorular
 ---
 
 <SeoMeta
-  title="Hesap silme \u0026 veri kaldırma - Kimi Yardım Merkezi"
+  title="Hesap silme & veri kaldırma - Kimi Yardım Merkezi"
   description="Hesap, profil ve veri yönetimiyle ilgili sık sorulan soruların yanıtlarını bulun."
 />
 

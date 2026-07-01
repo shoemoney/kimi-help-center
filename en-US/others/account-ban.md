@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Account suspension \u0026 appeals - Kimi Help Center"
+  title="Account suspension & appeals - Kimi Help Center"
   description="If you violate applicable laws, the user agreement, or platform policies, the platform may take actions including blocking content, freezing/transferring acc..."
 />
 

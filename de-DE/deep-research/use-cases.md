@@ -55,7 +55,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "Führe eine tiefgehende Recherche zu [Firmenname] durch:\n1. Geschäftsmodell \u0026 zentraler Wettbewerbsvorteil (Wettbewerbsstärken, Technologie-/Kanalvorteil, Wettbewerbsumfeld);\n2. Finanzielle Gesundheit (Umsatzstruktur, Rentabilität, Cashflow, wesentliche Risikobereiche);\n3. Team \u0026 Governance (Hintergrund der Gründer, Beteiligungsstruktur, Schlüsseltalente);\n4. Markt \u0026 Politik (TAM/SAM/SOM, Branchenwachstumsrate, regulatorisches Umfeld);\n5. Risikoidentifikation (geschäftlich, rechtlich, Ausstiegshürden);\n6. Bewertungsreferenz (vergleichbare Unternehmen, bisherige Finanzierungsrunden, sinnvolle Spanne).\nAnforderungen: Datenquellen angeben, zentrale Schlussfolgerungen mit ⭐ markieren, strittige Punkte gesondert auflisten.",
+      content: "Führe eine tiefgehende Recherche zu [Firmenname] durch:\n1. Geschäftsmodell & zentraler Wettbewerbsvorteil (Wettbewerbsstärken, Technologie-/Kanalvorteil, Wettbewerbsumfeld);\n2. Finanzielle Gesundheit (Umsatzstruktur, Rentabilität, Cashflow, wesentliche Risikobereiche);\n3. Team & Governance (Hintergrund der Gründer, Beteiligungsstruktur, Schlüsseltalente);\n4. Markt & Politik (TAM/SAM/SOM, Branchenwachstumsrate, regulatorisches Umfeld);\n5. Risikoidentifikation (geschäftlich, rechtlich, Ausstiegshürden);\n6. Bewertungsreferenz (vergleichbare Unternehmen, bisherige Finanzierungsrunden, sinnvolle Spanne).\nAnforderungen: Datenquellen angeben, zentrale Schlussfolgerungen mit ⭐ markieren, strittige Punkte gesondert auflisten.",
     },
   ]}
 />

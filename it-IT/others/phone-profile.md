@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Impostazioni dell'account e del profilo - Centro assistenza Kimi"
-  description="Sì. Vai a:"
+  description="Scopri come configurare il profilo, le preferenze e le funzioni di gestione dell'account nell'app Kimi e personalizzare la tua esperienza con l'assistente IA."
 />
 
 # Impostazioni dell'account e del profilo

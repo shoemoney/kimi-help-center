@@ -7,8 +7,8 @@ preview: false
 ---
 
 <SeoMeta
-  title="Account \u0026 profile settings - Kimi 도움말 센터"
-  description="Yes. Navigate to:"
+  title="계정 및 프로필 설정 - Kimi 도움말 센터"
+  description="Kimi 앱에서 프로필과 환경설정, 계정 관리 기능을 설정하는 방법을 알아보고 나에게 맞는 AI 어시스턴트 사용 경험을 만들어 보세요."
 />
 
 # 계정 및 프로필 설정

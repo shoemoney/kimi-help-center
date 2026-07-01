@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Thanh toán \u0026 tài chính - Trung tâm Trợ giúp Kimi"
+  title="Thanh toán & tài chính - Trung tâm Trợ giúp Kimi"
   description="Các câu hỏi thường gặp về thanh toán, giá cả và phương thức thanh toán của Kimi API."
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Khái niệm cốt lõi \u0026 terminal - Trung tâm trợ giúp Kimi"
+  title="Khái niệm cốt lõi & terminal - Trung tâm trợ giúp Kimi"
   description="Tìm hiểu các khái niệm cốt lõi của Kimi Claw — Memory, Skills, HEARTBEAT, Identity, Soul, Tools và User — cùng các lệnh terminal để kiểm tra gateway, trạng thái bot, skill và tác vụ đã lên lịch."
 />
 

@@ -61,13 +61,13 @@ Describe your task clearly, watch execution progress, then download or share res
 <ColumnsContent
   columns={[
     {
-      title: "Features \u0026 Limits",
+      title: "Features & Limits",
       description: "Capabilities and quotas",
       pageUrl: "/agent/agent-features-and-limits",
       type: "document",
     },
     {
-      title: "credits \u0026 Billing",
+      title: "credits & Billing",
       description: "Pricing and membership details",
       pageUrl: "/agent/quota-and-billing",
       type: "data",

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kontosperrung \u0026 Einsprüche - Kimi Hilfecenter"
+  title="Kontosperrung & Einsprüche - Kimi Hilfecenter"
   description="Wenn Sie gegen geltende Gesetze, die Nutzungsvereinbarung oder Plattformrichtlinien verstoßen, kann die Plattform Maßnahmen ergreifen, darunter das Sperren von Inhalten, das Einfrieren/Übertragen von Konten, das Aussetzen von Leistungen oder die Beendigung des Dienstes..."
 />
 

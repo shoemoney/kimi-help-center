@@ -8,7 +8,7 @@ preview_content: "Yapay zeka destekli Kimi Docs ve Kimi Sheets ile Word, PDF ve 
 ---
 
 <SeoMeta
-  title="Kimi Docs \u0026 Kimi Sheets Genel Bakış - Kimi Yardım Merkezi"
+  title="Kimi Docs & Kimi Sheets Genel Bakış - Kimi Yardım Merkezi"
   description="Yapay zeka destekli Kimi Docs ve Kimi Sheets ile Word, PDF ve Excel belgeleri oluşturun ve düzenleyin."
 />
 

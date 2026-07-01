@@ -61,13 +61,13 @@ Jelaskan tugas Anda dengan gamblang, pantau jalannya eksekusi, lalu unduh atau b
 <ColumnsContent
   columns={[
     {
-      title: "Fitur \u0026 Batasan",
+      title: "Fitur & Batasan",
       description: "Kemampuan dan batas",
       pageUrl: "/agent/agent-features-and-limits",
       type: "document",
     },
     {
-      title: "kredit \u0026 Penagihan",
+      title: "kredit & Penagihan",
       description: "Detail harga dan keanggotaan",
       pageUrl: "/agent/quota-and-billing",
       type: "data",

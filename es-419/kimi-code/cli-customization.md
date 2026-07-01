@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Personalización \u0026 referencia - Centro de ayuda de Kimi"
+  title="Personalización & referencia - Centro de ayuda de Kimi"
   description="Kimi Code CLI ofrece amplias opciones de personalización que te permiten adaptar el comportamiento y el flujo de trabajo de la IA a tus necesidades."
 />
 

@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Plataformas compatíveis - Central de Ajuda Kimi"
-  description="O Kimi Claw está disponível nas seguintes plataformas:"
+  description="Veja a lista completa de plataformas atualmente compatíveis com o Kimi Claw, incluindo Feishu, WeChat, WeCom, DingTalk, Weibo e outras, e conheça as diferenças de recursos e os métodos de configuração de cada uma."
 />
 
 # Plataformas compatíveis

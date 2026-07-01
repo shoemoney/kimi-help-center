@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Konto- und Profileinstellungen - Kimi Hilfecenter"
-  description="Ja. Gehen Sie zu:"
+  description="Erfahren Sie, wie Sie Ihr Profil, Ihre Einstellungen und die Kontoverwaltung in der Kimi-App einrichten und Ihr KI-Assistenten-Erlebnis individuell anpassen."
 />
 
 # Konto- und Profileinstellungen

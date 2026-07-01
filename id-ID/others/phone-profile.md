@@ -7,8 +7,8 @@ preview: false
 ---
 
 <SeoMeta
-  title="Pengaturan akun \u0026 profil - Pusat Bantuan Kimi"
-  description="Ya. Buka:"
+  title="Pengaturan akun & profil - Pusat Bantuan Kimi"
+  description="Pelajari cara mengatur profil, preferensi, dan fitur pengelolaan akun di aplikasi Kimi, serta sesuaikan pengalaman asisten AI Anda sesuai kebutuhan."
 />
 
 # Pengaturan akun & profil

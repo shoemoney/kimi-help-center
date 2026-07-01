@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Abrechnung \u0026 Finanzen - Kimi Hilfecenter"
+  title="Abrechnung & Finanzen - Kimi Hilfecenter"
   description="Häufig gestellte Fragen zu Abrechnung, Preisen und Zahlung der Kimi API."
 />
 

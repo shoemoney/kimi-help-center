@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Hợp tác kinh doanh \u0026 bán hàng - Trung tâm trợ giúp Kimi"
+  title="Hợp tác kinh doanh & bán hàng - Trung tâm trợ giúp Kimi"
   description="Các lựa chọn hợp tác dành cho khách hàng doanh nghiệp — từ chiết khấu theo khối lượng đến SLA tùy chỉnh."
 />
 

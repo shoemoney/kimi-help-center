@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Hesap \u0026 kimlik doğrulama - Kimi Yardım Merkezi"
+  title="Hesap & kimlik doğrulama - Kimi Yardım Merkezi"
   description="Kimi API geliştirici hesapları, doğrulama ve kimlik doğrulama hakkında sıkça sorulan sorular."
 />
 

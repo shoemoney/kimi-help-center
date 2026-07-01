@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Interaktion \u0026 Eingabe - Kimi Hilfecenter"
+  title="Interaktion & Eingabe - Kimi Hilfecenter"
   description="Die Kimi Code CLI bietet verschiedene Interaktionsmethoden, mit denen Sie effizient mit der KI zusammenarbeiten."
 />
 

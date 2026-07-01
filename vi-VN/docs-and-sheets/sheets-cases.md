@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi Sheets — Tình huống sử dụng \u0026 thư viện câu lệnh - Trung tâm trợ giúp Kimi"
+  title="Kimi Sheets — Tình huống sử dụng & thư viện câu lệnh - Trung tâm trợ giúp Kimi"
   description="Các tình huống sử dụng và câu lệnh mẫu cho Kimi Sheets — từ định giá tài chính đến xây dựng kịch bản phân cảnh."
 />
 

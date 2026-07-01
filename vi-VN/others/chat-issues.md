@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Các vấn đề thường gặp khi trò chuyện với Kimi - Trung tâm trợ giúp Kimi"
-  description="Nguyên nhân có thể đến từ:"
+  description="Gặp sự cố khi trò chuyện với Kimi? Bài viết này tổng hợp các bước xử lý những vấn đề thường gặp trong hội thoại, gồm phản hồi bị gián đoạn, nội dung bất thường và lỗi tải, giúp bạn khắc phục nhanh chóng."
 />
 
 # Các vấn đề thường gặp khi trò chuyện với Kimi

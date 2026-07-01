@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Veri işleme \u0026 güvenlik - Kimi Yardım Merkezi"
+  title="Veri işleme & güvenlik - Kimi Yardım Merkezi"
   description="Kimi API için kullanıcı veri güvenliği ve gizlilik koruması SSS."
 />
 

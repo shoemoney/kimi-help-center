@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Plateformes prises en charge - Centre d'aide Kimi"
-  description="Kimi Claw est disponible sur les plateformes suivantes :"
+  description="Consultez la liste complète des plateformes actuellement prises en charge par Kimi Claw, dont Feishu, WeChat, WeCom, DingTalk, Weibo et bien d'autres, et découvrez les différences de fonctionnalités et les méthodes de configuration de chacune."
 />
 
 # Plateformes prises en charge

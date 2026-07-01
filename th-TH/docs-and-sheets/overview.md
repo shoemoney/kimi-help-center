@@ -8,7 +8,7 @@ preview_content: "สร้างและแก้ไขเอกสาร Word
 ---
 
 <SeoMeta
-  title="ภาพรวม Kimi Docs \u0026 Kimi Sheets - ศูนย์ช่วยเหลือ Kimi"
+  title="ภาพรวม Kimi Docs & Kimi Sheets - ศูนย์ช่วยเหลือ Kimi"
   description="สร้างและแก้ไขเอกสาร Word, PDF และ Excel ด้วย Kimi Docs และ Kimi Sheets ที่ขับเคลื่อนด้วย AI"
 />
 

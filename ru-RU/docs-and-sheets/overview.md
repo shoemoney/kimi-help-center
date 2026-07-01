@@ -8,7 +8,7 @@ preview_content: "Создавайте и редактируйте докуме�
 ---
 
 <SeoMeta
-  title="Обзор Kimi Docs \u0026 Kimi Sheets — Справочный центр Kimi"
+  title="Обзор Kimi Docs & Kimi Sheets — Справочный центр Kimi"
   description="Создавайте и редактируйте документы Word, PDF и Excel с помощью Kimi Docs и Kimi Sheets на базе AI."
 />
 

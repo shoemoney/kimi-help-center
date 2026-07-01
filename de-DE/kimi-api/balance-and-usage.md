@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Guthaben \u0026 Nutzung - Kimi Hilfecenter"
+  title="Guthaben & Nutzung - Kimi Hilfecenter"
   description="Die Kimi API bietet mehrere Möglichkeiten, Ihr Kontoguthaben und Ihre Nutzungsdetails einzusehen, damit Sie Verbrauch und Kosten im Blick behalten."
 />
 

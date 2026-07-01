@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Tình huống sử dụng Deep Research \u0026 thư viện prompt - Trung tâm trợ giúp Kimi"
+  title="Tình huống sử dụng Deep Research & thư viện prompt - Trung tâm trợ giúp Kimi"
   description="Tôi là một nhà phân tích chứng khoán chuyên nghiệp. Hãy giúp tôi phân tích chuyên sâu về Pop Mart dưới góc độ tài chính. Phân tích cần bao gồm nhưng..."
 />
 
@@ -55,7 +55,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "Thực hiện nghiên cứu chuyên sâu về [Tên công ty]:\n1. Mô hình kinh doanh \u0026 lợi thế cốt lõi (lợi thế cạnh tranh, ưu thế về công nghệ/kênh phân phối, bối cảnh cạnh tranh);\n2. Sức khỏe tài chính (cơ cấu doanh thu, khả năng sinh lời, dòng tiền, các vùng rủi ro chính);\n3. Đội ngũ \u0026 quản trị (xuất thân của nhà sáng lập, cơ cấu cổ phần, nhân sự chủ chốt);\n4. Thị trường \u0026 chính sách (TAM/SAM/SOM, tốc độ tăng trưởng ngành, môi trường pháp lý);\n5. Nhận diện rủi ro (kinh doanh, pháp lý, rào cản thoái vốn);\n6. Tham chiếu định giá (công ty so sánh, các vòng gọi vốn trước đây, khoảng hợp lý).\nYêu cầu: Trích dẫn nguồn dữ liệu, đánh dấu các kết luận quan trọng bằng ⭐, liệt kê riêng những điểm còn tranh cãi.",
+      content: "Thực hiện nghiên cứu chuyên sâu về [Tên công ty]:\n1. Mô hình kinh doanh & lợi thế cốt lõi (lợi thế cạnh tranh, ưu thế về công nghệ/kênh phân phối, bối cảnh cạnh tranh);\n2. Sức khỏe tài chính (cơ cấu doanh thu, khả năng sinh lời, dòng tiền, các vùng rủi ro chính);\n3. Đội ngũ & quản trị (xuất thân của nhà sáng lập, cơ cấu cổ phần, nhân sự chủ chốt);\n4. Thị trường & chính sách (TAM/SAM/SOM, tốc độ tăng trưởng ngành, môi trường pháp lý);\n5. Nhận diện rủi ro (kinh doanh, pháp lý, rào cản thoái vốn);\n6. Tham chiếu định giá (công ty so sánh, các vòng gọi vốn trước đây, khoảng hợp lý).\nYêu cầu: Trích dẫn nguồn dữ liệu, đánh dấu các kết luận quan trọng bằng ⭐, liệt kê riêng những điểm còn tranh cãi.",
     },
   ]}
 />

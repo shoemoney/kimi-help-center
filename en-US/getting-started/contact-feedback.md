@@ -7,8 +7,8 @@ preview: false
 ---
 
 <SeoMeta
-  title="Contact \u0026 feedback - Kimi Help Center"
-  description="Q: Where can I submit feedback?"
+  title="Contact & feedback - Kimi Help Center"
+  description="Learn how to contact the Kimi team to report issues, submit bug reports, and suggest features. Your feedback is an important basis for improving our product."
 />
 
 # Contact&feedback

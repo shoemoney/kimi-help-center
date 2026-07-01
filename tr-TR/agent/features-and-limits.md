@@ -9,7 +9,7 @@ preview: false
 # Agent özellikleri ve kısıtlamaları
 
 <SeoMeta
-  title="Agent Özellikleri \u0026 Kısıtlamaları - Kimi Yardım Merkezi"
+  title="Agent Özellikleri & Kısıtlamaları - Kimi Yardım Merkezi"
   description="Kimi Agent'ın yeteneklerini, kullanım ipuçlarını, kısıtlamalarını ve en iyi sonuçlar için önerilen uygulamaları öğrenin."
 />
 

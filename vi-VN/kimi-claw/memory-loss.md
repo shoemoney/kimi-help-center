@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Mất bộ nhớ \u0026 ngữ cảnh - Trung tâm Trợ giúp Kimi"
+  title="Mất bộ nhớ & ngữ cảnh - Trung tâm Trợ giúp Kimi"
   description="OpenClaw tự động đặt lại cuộc trò chuyện vào 4:00 sáng mỗi ngày. Điều này ngăn ngữ cảnh quá dài gây ra ảo giác hoặc làm giảm chất lượng phản hồi."
 />
 

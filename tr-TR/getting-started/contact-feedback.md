@@ -7,8 +7,8 @@ preview: false
 ---
 
 <SeoMeta
-  title="İletişim \u0026 geri bildirim - Kimi Yardım Merkezi"
-  description="S: Geri bildirimi nereden gönderebilirim?"
+  title="İletişim & geri bildirim - Kimi Yardım Merkezi"
+  description="Sorunları bildirmek, hata raporları göndermek ve özellik önerileri sunmak için Kimi ekibiyle nasıl iletişime geçeceğinizi öğrenin. Geri bildirimleriniz ürünümüzü geliştirmenin önemli bir dayanağıdır."
 />
 
 # İletişim ve geri bildirim

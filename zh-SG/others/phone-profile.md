@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="账户与个人资料设置 - Kimi 帮助中心"
-  description="可以。请前往："
+  description="了解 Kimi App 手机端的个人资料设置、偏好配置和账号管理功能，定制属于你的 AI 助手使用体验。"
 />
 
 # 账户与个人资料设置

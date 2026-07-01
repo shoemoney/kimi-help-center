@@ -61,13 +61,13 @@ Görevinizi net biçimde anlatın, yürütme sürecini izleyin, ardından sonuç
 <ColumnsContent
   columns={[
     {
-      title: "Özellikler \u0026 Sınırlar",
+      title: "Özellikler & Sınırlar",
       description: "Yetenekler ve kotalar",
       pageUrl: "/agent/agent-features-and-limits",
       type: "document",
     },
     {
-      title: "Krediler \u0026 Faturalandırma",
+      title: "Krediler & Faturalandırma",
       description: "Fiyatlandırma ve üyelik ayrıntıları",
       pageUrl: "/agent/quota-and-billing",
       type: "data",

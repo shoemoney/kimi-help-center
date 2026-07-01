@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Masalah umum pada chat Kimi - Pusat Bantuan Kimi"
-  description="Hal ini mungkin disebabkan oleh:"
+  description="Mengalami masalah saat mengobrol dengan Kimi? Artikel ini merangkum langkah penyelesaian untuk masalah chat yang umum, termasuk balasan terputus, konten tidak normal, dan gagal memuat, agar cepat teratasi."
 />
 
 # Masalah umum pada chat Kimi

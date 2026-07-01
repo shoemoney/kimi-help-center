@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Bakiye \u0026 kullanım - Kimi Yardım Merkezi"
+  title="Bakiye & kullanım - Kimi Yardım Merkezi"
   description="Kimi API, hesap bakiyenizi ve kullanım ayrıntılarınızı görüntülemeniz için birden fazla yöntem sunar; böylece tüketiminizi ve maliyetlerinizi kolayca takip edersiniz."
 />
 

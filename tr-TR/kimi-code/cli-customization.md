@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Özelleştirme \u0026 referans - Kimi Yardım Merkezi"
+  title="Özelleştirme & referans - Kimi Yardım Merkezi"
   description="Kimi Code CLI, yapay zekânın davranışını ve iş akışını ihtiyaçlarınıza göre uyarlamanıza olanak tanıyan kapsamlı özelleştirme seçenekleri sunar."
 />
 

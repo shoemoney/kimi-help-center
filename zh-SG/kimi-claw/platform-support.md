@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="支持的平台 - Kimi 帮助中心"
-  description="Kimi Claw 目前支持以下平台："
+  description="查看 Kimi Claw 当前支持的全部平台列表，包括飞书、微信、企业微信、钉钉、微博等，了解各平台的功能差异与接入方式。"
 />
 
 # 支持的平台

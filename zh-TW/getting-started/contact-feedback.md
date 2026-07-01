@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="聯絡與意見回饋 - Kimi 說明中心"
-  description="問：我可以在哪裡提交意見回饋？"
+  description="了解向 Kimi 團隊回報問題、提交 Bug 報告和功能建議的管道與方法，你的意見回饋是我們改進產品的重要依據。"
 />
 
 # 聯絡與意見回饋

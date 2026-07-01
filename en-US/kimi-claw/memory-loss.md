@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Memory loss \u0026 context - Kimi Help Center"
+  title="Memory loss & context - Kimi Help Center"
   description="OpenClaw automatically resets the conversation at 4:00 AM daily. This prevents overly long contexts from causing hallucinations or degraded response quality."
 />
 

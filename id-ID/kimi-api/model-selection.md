@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Pemilihan \u0026 perbandingan model - Pusat Bantuan Kimi"
+  title="Pemilihan & perbandingan model - Pusat Bantuan Kimi"
   description="Pilih model Kimi API yang tepat berdasarkan kemampuan, kecepatan, dan harga."
 />
 

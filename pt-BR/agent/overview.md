@@ -61,13 +61,13 @@ Descreva sua tarefa com clareza, acompanhe o progresso da execução e depois ba
 <ColumnsContent
   columns={[
     {
-      title: "Recursos \u0026 limites",
+      title: "Recursos & limites",
       description: "Capacidades e cotas",
       pageUrl: "/agent/agent-features-and-limits",
       type: "document",
     },
     {
-      title: "créditos \u0026 cobrança",
+      title: "créditos & cobrança",
       description: "Detalhes de preços e assinatura",
       pageUrl: "/agent/quota-and-billing",
       type: "data",

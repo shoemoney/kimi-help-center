@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Deep Research kullanım senaryoları \u0026 istem kütüphanesi - Kimi Yardım Merkezi"
+  title="Deep Research kullanım senaryoları & istem kütüphanesi - Kimi Yardım Merkezi"
   description="Profesyonel bir menkul kıymet analistiyim. Pop Mart'ı finansal açıdan derinlemesine incelememe yardımcı olur musunuz? Analiz, şunları içermeli ancak bunlarla sınırlı..."
 />
 
@@ -55,7 +55,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "[Şirket Adı] üzerine derinlemesine araştırma yap:\n1. İş modeli \u0026 temel siper (rekabet avantajları, teknoloji/kanal üstünlüğü, rekabet ortamı);\n2. Finansal sağlamlık (gelir yapısı, kârlılık, nakit akışı, başlıca risk alanları);\n3. Ekip \u0026 yönetişim (kurucu geçmişi, ortaklık yapısı, kilit yetenekler);\n4. Pazar \u0026 politika (TAM/SAM/SOM, sektör büyüme oranı, düzenleyici ortam);\n5. Risk tespiti (ticari, hukuki, çıkış engelleri);\n6. Değerleme referansı (benzer şirketler, geçmiş yatırım turları, makul aralık).\nGereksinimler: Veri kaynaklarını belirt, başlıca sonuçları ⭐ ile işaretle, tartışmalı noktaları ayrıca listele.",
+      content: "[Şirket Adı] üzerine derinlemesine araştırma yap:\n1. İş modeli & temel siper (rekabet avantajları, teknoloji/kanal üstünlüğü, rekabet ortamı);\n2. Finansal sağlamlık (gelir yapısı, kârlılık, nakit akışı, başlıca risk alanları);\n3. Ekip & yönetişim (kurucu geçmişi, ortaklık yapısı, kilit yetenekler);\n4. Pazar & politika (TAM/SAM/SOM, sektör büyüme oranı, düzenleyici ortam);\n5. Risk tespiti (ticari, hukuki, çıkış engelleri);\n6. Değerleme referansı (benzer şirketler, geçmiş yatırım turları, makul aralık).\nGereksinimler: Veri kaynaklarını belirt, başlıca sonuçları ⭐ ile işaretle, tartışmalı noktaları ayrıca listele.",
     },
   ]}
 />

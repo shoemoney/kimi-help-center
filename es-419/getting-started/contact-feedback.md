@@ -7,8 +7,8 @@ preview: false
 ---
 
 <SeoMeta
-  title="Contacto \u0026 comentarios - Centro de ayuda de Kimi"
-  description="P: ¿Dónde puedo enviar mis comentarios?"
+  title="Contacto & comentarios - Centro de ayuda de Kimi"
+  description="Descubre cómo ponerte en contacto con el equipo de Kimi para reportar problemas, enviar informes de errores y sugerir funciones. Tus comentarios son una base importante para mejorar nuestro producto."
 />
 
 # Contacto y comentarios

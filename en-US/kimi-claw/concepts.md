@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Core concepts \u0026 terminal - Kimi Help Center"
+  title="Core concepts & terminal - Kimi Help Center"
   description="Understand Kimi Claw's core concepts — Memory, Skills, HEARTBEAT, Identity, Soul, Tools, and User — and the terminal commands for checking the gateway, bot status, skills, and scheduled tasks."
 />
 

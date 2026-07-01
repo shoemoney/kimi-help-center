@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Balance \u0026 usage - Kimi Help Center"
+  title="Balance & usage - Kimi Help Center"
   description="Kimi API provides multiple ways to view your account balance and usage details, helping you track consumption and costs."
 />
 

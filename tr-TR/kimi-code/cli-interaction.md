@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Etkileşim \u0026 giriş - Kimi Yardım Merkezi"
+  title="Etkileşim & giriş - Kimi Yardım Merkezi"
   description="Kimi Code CLI, yapay zekâyla verimli biçimde çalışmanızı sağlayan çeşitli etkileşim yöntemleri sunar."
 />
 

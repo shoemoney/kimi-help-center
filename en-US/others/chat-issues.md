@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Kimi chat common issues - Kimi Help Center"
-  description="This may be caused by:"
+  description="Having trouble with Kimi chats? This article summarizes troubleshooting steps for common chat issues, including interrupted replies, abnormal content, and loading failures, to help you resolve them quickly."
 />
 
 # Kimi chat common issues

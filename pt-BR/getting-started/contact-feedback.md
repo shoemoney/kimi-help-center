@@ -7,8 +7,8 @@ preview: false
 ---
 
 <SeoMeta
-  title="Contato \u0026 feedback - Central de Ajuda do Kimi"
-  description="P: Onde posso enviar feedback?"
+  title="Contato & feedback - Central de Ajuda do Kimi"
+  description="Saiba como entrar em contato com a equipe da Kimi para relatar problemas, enviar relatórios de bugs e sugerir recursos. Seu feedback é uma base importante para melhorarmos nosso produto."
 />
 
 # Contato e feedback

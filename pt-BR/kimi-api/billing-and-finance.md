@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Cobrança \u0026 finanças - Central de Ajuda Kimi"
+  title="Cobrança & finanças - Central de Ajuda Kimi"
   description="Perguntas frequentes sobre cobrança, preços e pagamento da API Kimi."
 />
 

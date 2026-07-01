@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="帳號與個人資料設定 - Kimi 說明中心"
-  description="可以。請前往："
+  description="了解 Kimi App 手機端的個人資料設定、偏好設定和帳號管理功能，打造專屬於你的 AI 助手使用體驗。"
 />
 
 # 帳號與個人資料設定

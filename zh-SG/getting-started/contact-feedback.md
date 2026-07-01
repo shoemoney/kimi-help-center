@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="联系与反馈 - Kimi 帮助中心"
-  description="问：我可以在哪里提交反馈？"
+  description="了解向 Kimi 团队反馈问题、提交 Bug 报告和功能建议的渠道和方法，你的反馈是我们改进产品的重要依据。"
 />
 
 # 联系与反馈

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Tương tác \u0026 nhập liệu - Trung tâm Trợ giúp Kimi"
+  title="Tương tác & nhập liệu - Trung tâm Trợ giúp Kimi"
   description="Kimi Code CLI cung cấp nhiều phương thức tương tác giúp bạn cộng tác hiệu quả với AI."
 />
 

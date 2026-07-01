@@ -61,13 +61,13 @@ Kimi K2.6 Agent — автономный AI-помощник, который в�
 <ColumnsContent
   columns={[
     {
-      title: "Возможности \u0026 лимиты",
+      title: "Возможности & лимиты",
       description: "Возможности и кредиты",
       pageUrl: "/agent/agent-features-and-limits",
       type: "document",
     },
     {
-      title: "кредиты \u0026 биллинг",
+      title: "кредиты & биллинг",
       description: "Цены и сведения о членстве",
       pageUrl: "/agent/quota-and-billing",
       type: "data",

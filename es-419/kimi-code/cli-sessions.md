@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Sesiones \u0026 contexto - Centro de ayuda de Kimi"
+  title="Sesiones & contexto - Centro de ayuda de Kimi"
   description="Kimi Code CLI admite la gestión de múltiples sesiones y la persistencia del contexto, lo que te permite pausar y retomar tu trabajo en cualquier momento."
 />
 

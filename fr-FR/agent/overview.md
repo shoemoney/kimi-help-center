@@ -61,13 +61,13 @@ Décrivez clairement votre tâche, suivez l'avancement de l'exécution, puis té
 <ColumnsContent
   columns={[
     {
-      title: "Fonctionnalités \u0026 limites",
+      title: "Fonctionnalités & limites",
       description: "Capacités et quotas",
       pageUrl: "/agent/agent-features-and-limits",
       type: "document",
     },
     {
-      title: "crédits \u0026 facturation",
+      title: "crédits & facturation",
       description: "Détails sur les tarifs et l'abonnement",
       pageUrl: "/agent/quota-and-billing",
       type: "data",

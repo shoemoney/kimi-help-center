@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Credit update \u0026 usage rules - Kimi Help Center"
+  title="Credit update & usage rules - Kimi Help Center"
   description="Kimi membership benefits include two credit pools. Kimi Code uses a separate credit pool; other membership features share one credit pool, and credits are consumed based on actual usage."
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Tagihan \u0026 keuangan - Pusat Bantuan Kimi"
+  title="Tagihan & keuangan - Pusat Bantuan Kimi"
   description="Pertanyaan yang sering diajukan seputar tagihan, harga, dan pembayaran Kimi API."
 />
 

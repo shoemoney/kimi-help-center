@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Quy tắc cập nhật \u0026 sử dụng tín dụng - Trung tâm trợ giúp Kimi"
+  title="Quy tắc cập nhật & sử dụng tín dụng - Trung tâm trợ giúp Kimi"
   description="Quyền lợi thành viên Kimi bao gồm hai nguồn tín dụng. Kimi Code dùng một nguồn tín dụng riêng; các tính năng thành viên khác chia sẻ chung một nguồn tín dụng và tín dụng được tính theo mức sử dụng thực tế."
 />
 

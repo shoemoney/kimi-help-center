@@ -7,8 +7,8 @@ preview: false
 ---
 
 <SeoMeta
-  title="Account \u0026 profile settings - Trung tâm trợ giúp Kimi"
-  description="Yes. Navigate to:"
+  title="Cài đặt tài khoản & hồ sơ - Trung tâm trợ giúp Kimi"
+  description="Tìm hiểu cách thiết lập hồ sơ, tùy chọn cá nhân và các tính năng quản lý tài khoản trong ứng dụng Kimi để tùy chỉnh trải nghiệm trợ lý AI theo nhu cầu của bạn."
 />
 
 # Cài đặt tài khoản & hồ sơ

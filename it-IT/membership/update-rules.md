@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Aggiornamento dei crediti \u0026 regole di utilizzo - Centro assistenza Kimi"
+  title="Aggiornamento dei crediti & regole di utilizzo - Centro assistenza Kimi"
   description="I vantaggi dell'abbonamento Kimi includono due pool di crediti. Kimi Code utilizza un pool di crediti separato; le altre funzionalità dell'abbonamento condividono un unico pool di crediti, e i crediti vengono consumati in base all'utilizzo effettivo."
 />
 

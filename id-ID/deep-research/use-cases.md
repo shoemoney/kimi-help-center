@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Contoh penggunaan \u0026 kumpulan prompt Deep Research - Pusat Bantuan Kimi"
+  title="Contoh penggunaan & kumpulan prompt Deep Research - Pusat Bantuan Kimi"
   description="Saya seorang analis sekuritas profesional. Tolong bantu saya melakukan analisis mendalam terhadap Pop Mart dari sudut pandang finansial. Analisis ini harus mencakup, tetapi..."
 />
 
@@ -55,7 +55,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "Conduct deep research on [Company Name]:\n1. Business model \u0026 core moat (competitive advantages, technology/channel edge, competitive landscape);\n2. Financial health (revenue structure, profitability, cash flow, key risk areas);\n3. Team \u0026 governance (founder background, equity structure, key talent);\n4. Market \u0026 policy (TAM/SAM/SOM, industry growth rate, regulatory environment);\n5. Risk identification (business, legal, exit barriers);\n6. Valuation reference (comparable companies, historical funding rounds, reasonable range).\nRequirements: Cite data sources, mark key conclusions with ⭐, list disputed points separately.",
+      content: "Conduct deep research on [Company Name]:\n1. Business model & core moat (competitive advantages, technology/channel edge, competitive landscape);\n2. Financial health (revenue structure, profitability, cash flow, key risk areas);\n3. Team & governance (founder background, equity structure, key talent);\n4. Market & policy (TAM/SAM/SOM, industry growth rate, regulatory environment);\n5. Risk identification (business, legal, exit barriers);\n6. Valuation reference (comparable companies, historical funding rounds, reasonable range).\nRequirements: Cite data sources, mark key conclusions with ⭐, list disputed points separately.",
     },
   ]}
 />

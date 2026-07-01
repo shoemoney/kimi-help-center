@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Oturumlar \u0026 bağlam - Kimi Yardım Merkezi"
+  title="Oturumlar & bağlam - Kimi Yardım Merkezi"
   description="Kimi Code CLI, çoklu oturum yönetimini ve bağlam kalıcılığını destekleyerek çalışmanızı dilediğiniz zaman duraklatıp kaldığınız yerden sürdürmenize olanak tanır."
 />
 

@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Problemas frecuentes del chat de Kimi - Centro de ayuda de Kimi"
-  description="Esto puede deberse a:"
+  description="¿Tienes problemas con los chats de Kimi? Este artículo reúne pasos de solución para las incidencias más comunes, como respuestas interrumpidas, contenido anómalo y errores de carga, para que las resuelvas rápido."
 />
 
 # Problemas frecuentes del chat de Kimi

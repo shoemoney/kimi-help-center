@@ -61,13 +61,13 @@ Mô tả tác vụ của bạn một cách rõ ràng, theo dõi tiến trình th
 <ColumnsContent
   columns={[
     {
-      title: "Tính năng \u0026 Giới hạn",
+      title: "Tính năng & Giới hạn",
       description: "Khả năng và tín dụng",
       pageUrl: "/agent/agent-features-and-limits",
       type: "document",
     },
     {
-      title: "tín dụng \u0026 Thanh toán",
+      title: "tín dụng & Thanh toán",
       description: "Chi tiết về giá và tư cách thành viên",
       pageUrl: "/agent/quota-and-billing",
       type: "data",

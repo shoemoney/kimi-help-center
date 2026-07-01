@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi Sheets kullanım senaryoları \u0026 komut kütüphanesi - Kimi Yardım Merkezi"
+  title="Kimi Sheets kullanım senaryoları & komut kütüphanesi - Kimi Yardım Merkezi"
   description="Finansal değerlemeden storyboard oluşturmaya kadar Kimi Sheets için örnek kullanım senaryoları ve komutlar."
 />
 

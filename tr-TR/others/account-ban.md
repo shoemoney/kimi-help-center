@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Hesap askıya alma \u0026 itirazlar - Kimi Yardım Merkezi"
+  title="Hesap askıya alma & itirazlar - Kimi Yardım Merkezi"
   description="Geçerli yasaları, kullanıcı sözleşmesini veya platform politikalarını ihlal etmeniz durumunda platform; içeriği engelleme, hesapları dondurma/devretme, avantajları askıya alma veya hizmeti sonlandırma gibi önlemler alabilir..."
 />
 

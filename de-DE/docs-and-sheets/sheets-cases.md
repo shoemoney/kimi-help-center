@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Anwendungsfälle für Kimi Sheets \u0026 Prompt-Bibliothek - Kimi Hilfecenter"
+  title="Anwendungsfälle für Kimi Sheets & Prompt-Bibliothek - Kimi Hilfecenter"
   description="Beispielhafte Anwendungsfälle und Prompts für Kimi Sheets – von der Finanzbewertung bis zur Storyboard-Erstellung."
 />
 

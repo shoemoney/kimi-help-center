@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Häufige Probleme im Kimi-Chat - Kimi Hilfecenter"
-  description="Mögliche Ursachen:"
+  description="Probleme mit Kimi-Chats? Dieser Artikel fasst Lösungsschritte für häufige Chat-Probleme zusammen, darunter abgebrochene Antworten, fehlerhafte Inhalte und Ladefehler, damit Sie sie schnell beheben können."
 />
 
 # Häufige Probleme im Kimi-Chat

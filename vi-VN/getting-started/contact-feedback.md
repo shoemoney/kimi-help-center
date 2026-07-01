@@ -7,8 +7,8 @@ preview: false
 ---
 
 <SeoMeta
-  title="Liên hệ \u0026 phản hồi - Trung tâm trợ giúp Kimi"
-  description="Hỏi: Tôi có thể gửi phản hồi ở đâu?"
+  title="Liên hệ & phản hồi - Trung tâm trợ giúp Kimi"
+  description="Tìm hiểu cách liên hệ với đội ngũ Kimi để báo lỗi, gửi báo cáo sự cố và đề xuất tính năng. Phản hồi của bạn là cơ sở quan trọng giúp chúng tôi cải thiện sản phẩm."
 />
 
 # Liên hệ & phản hồi

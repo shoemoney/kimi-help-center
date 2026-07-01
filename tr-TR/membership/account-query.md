@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Hesap \u0026 kredi sorgusu - Kimi Yardım Merkezi"
+  title="Hesap & kredi sorgusu - Kimi Yardım Merkezi"
   description="Üyelik satın aldıktan sonra ayrıcalıklarınız genellikle anında etkinleşir. Bir terslik olduğunu düşünüyorsanız aşağıdaki kılavuzlara göz atın."
 />
 

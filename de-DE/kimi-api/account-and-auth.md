@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Konto \u0026 Authentifizierung - Kimi Hilfecenter"
+  title="Konto & Authentifizierung - Kimi Hilfecenter"
   description="Häufig gestellte Fragen zu Entwicklerkonten, Verifizierung und Authentifizierung der Kimi API."
 />
 

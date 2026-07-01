@@ -7,8 +7,8 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kontakt \u0026 Feedback - Kimi Hilfecenter"
-  description="F: Wo kann ich Feedback einreichen?"
+  title="Kontakt & Feedback - Kimi Hilfecenter"
+  description="Erfahren Sie, wie Sie das Kimi-Team kontaktieren, um Probleme zu melden, Fehlerberichte einzureichen und Funktionen vorzuschlagen. Ihr Feedback ist eine wichtige Grundlage für die Verbesserung unseres Produkts."
 />
 
 # Kontakt & Feedback

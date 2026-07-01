@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Contatti e feedback - Centro assistenza Kimi"
-  description="D: Dove posso inviare un feedback?"
+  description="Scopri come contattare il team Kimi per segnalare problemi, inviare segnalazioni di bug e proporre funzionalità. Il tuo feedback è una base importante per migliorare il nostro prodotto."
 />
 
 # Contatti e feedback

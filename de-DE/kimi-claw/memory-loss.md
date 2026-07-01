@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Gedächtnisverlust \u0026 Kontext - Kimi Hilfecenter"
+  title="Gedächtnisverlust & Kontext - Kimi Hilfecenter"
   description="OpenClaw setzt die Konversation täglich um 4:00 Uhr morgens automatisch zurück. So wird verhindert, dass übermäßig lange Kontexte zu Halluzinationen oder einer verschlechterten Antwortqualität führen."
 />
 

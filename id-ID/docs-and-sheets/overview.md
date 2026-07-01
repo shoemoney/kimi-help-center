@@ -8,7 +8,7 @@ preview_content: "Buat dan edit dokumen Word, PDF, dan Excel dengan Kimi Docs da
 ---
 
 <SeoMeta
-  title="Sekilas tentang Kimi Docs \u0026 Kimi Sheets - Pusat Bantuan Kimi"
+  title="Sekilas tentang Kimi Docs & Kimi Sheets - Pusat Bantuan Kimi"
   description="Buat dan edit dokumen Word, PDF, dan Excel dengan Kimi Docs dan Kimi Sheets bertenaga AI."
 />
 

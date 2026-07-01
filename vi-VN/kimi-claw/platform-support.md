@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Các nền tảng được hỗ trợ - Trung tâm trợ giúp Kimi"
-  description="Kimi Claw hiện có mặt trên các nền tảng sau:"
+  description="Xem danh sách đầy đủ các nền tảng mà Kimi Claw hiện hỗ trợ, gồm Feishu, WeChat, WeCom, DingTalk, Weibo và nhiều nền tảng khác, đồng thời tìm hiểu sự khác biệt về tính năng và cách thiết lập trên từng nền tảng."
 />
 
 # Các nền tảng được hỗ trợ

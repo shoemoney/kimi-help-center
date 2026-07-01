@@ -8,7 +8,7 @@ preview_content: "Hier finden Sie Antworten auf häufige Fragen zu Konto, Profil
 ---
 
 <SeoMeta
-  title="Konto löschen \u0026 Daten entfernen - Kimi Hilfecenter"
+  title="Konto löschen & Daten entfernen - Kimi Hilfecenter"
   description="Hier finden Sie Antworten auf häufige Fragen zu Konto, Profil und Datenverwaltung."
 />
 

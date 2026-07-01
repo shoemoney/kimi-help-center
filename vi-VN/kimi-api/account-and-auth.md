@@ -7,8 +7,8 @@ preview: false
 ---
 
 <SeoMeta
-  title="Account \u0026 authentication - Trung tâm trợ giúp Kimi"
-  description="Frequently asked questions about Kimi API developer accounts, verification, and authentication."
+  title="Tài khoản & xác thực - Trung tâm trợ giúp Kimi"
+  description="Tìm hiểu cách đăng ký tài khoản Kimi API, tạo và quản lý API Key, nắm rõ các phương thức xác thực và nhanh chóng sẵn sàng tích hợp."
 />
 
 # Tài khoản & xác thực

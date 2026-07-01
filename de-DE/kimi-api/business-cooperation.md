@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Geschäftskooperation \u0026 Vertrieb - Kimi Hilfecenter"
+  title="Geschäftskooperation & Vertrieb - Kimi Hilfecenter"
   description="Partnerschaftsmodelle für Unternehmenskunden – von Mengenrabatten bis hin zu individuellen SLAs."
 />
 

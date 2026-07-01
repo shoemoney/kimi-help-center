@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Platform yang didukung - Pusat Bantuan Kimi"
-  description="Kimi Claw tersedia di platform berikut:"
+  description="Lihat daftar lengkap platform yang saat ini didukung Kimi Claw, termasuk Feishu, WeChat, WeCom, DingTalk, Weibo, dan lainnya, serta pelajari perbedaan fitur dan cara pengaturan di setiap platform."
 />
 
 # Platform yang didukung

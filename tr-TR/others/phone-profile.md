@@ -7,8 +7,8 @@ preview: false
 ---
 
 <SeoMeta
-  title="Account \u0026 profile settings - Kimi Yardım Merkezi"
-  description="Yes. Navigate to:"
+  title="Hesap ve profil ayarları - Kimi Yardım Merkezi"
+  description="Kimi uygulamasında profilinizi, tercihlerinizi ve hesap yönetimi özelliklerini nasıl ayarlayacağınızı öğrenin ve yapay zeka asistanı deneyiminizi ihtiyaçlarınıza göre kişiselleştirin."
 />
 
 # Hesap ve profil ayarları

@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Configuración de cuenta y perfil - Centro de ayuda de Kimi"
-  description="Sí. Ve a:"
+  description="Descubre cómo configurar tu perfil, tus preferencias y las opciones de administración de la cuenta en la app de Kimi para personalizar tu experiencia con el asistente de IA."
 />
 
 # Configuración de cuenta y perfil

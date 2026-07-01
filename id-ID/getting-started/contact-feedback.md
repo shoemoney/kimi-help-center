@@ -7,8 +7,8 @@ preview: false
 ---
 
 <SeoMeta
-  title="Contact \u0026 feedback - Pusat Bantuan Kimi"
-  description="Q: Where can I submit feedback?"
+  title="Contact & feedback - Pusat Bantuan Kimi"
+  description="Pelajari cara menghubungi tim Kimi untuk melaporkan masalah, mengirim laporan bug, dan menyarankan fitur. Masukan Anda menjadi dasar penting untuk meningkatkan produk kami."
 />
 
 # Kontak & masukan

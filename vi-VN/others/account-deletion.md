@@ -8,7 +8,7 @@ preview_content: "Tìm lời giải đáp cho những thắc mắc thường g�
 ---
 
 <SeoMeta
-  title="Xóa tài khoản \u0026 gỡ bỏ dữ liệu - Trung tâm Trợ giúp Kimi"
+  title="Xóa tài khoản & gỡ bỏ dữ liệu - Trung tâm Trợ giúp Kimi"
   description="Tìm lời giải đáp cho những thắc mắc thường gặp về tài khoản, hồ sơ và quản lý dữ liệu."
 />
 

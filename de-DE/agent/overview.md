@@ -61,13 +61,13 @@ Beschreiben Sie Ihre Aufgabe klar, verfolgen Sie den Fortschritt der Ausführung
 <ColumnsContent
   columns={[
     {
-      title: "Funktionen \u0026 Grenzen",
+      title: "Funktionen & Grenzen",
       description: "Fähigkeiten und Kontingente",
       pageUrl: "/agent/agent-features-and-limits",
       type: "document",
     },
     {
-      title: "Credits \u0026 Abrechnung",
+      title: "Credits & Abrechnung",
       description: "Preise und Details zur Mitgliedschaft",
       pageUrl: "/agent/quota-and-billing",
       type: "data",

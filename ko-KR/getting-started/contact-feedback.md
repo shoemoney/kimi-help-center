@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="문의 및 피드백 - Kimi 도움말 센터"
-  description="질문: 피드백은 어디에 제출할 수 있나요?"
+  description="문제 신고, 버그 리포트 제출, 기능 제안을 위해 Kimi 팀에 문의하는 방법을 알아보세요. 여러분의 피드백은 제품을 개선하는 중요한 근거가 됩니다."
 />
 
 # 문의 및 피드백

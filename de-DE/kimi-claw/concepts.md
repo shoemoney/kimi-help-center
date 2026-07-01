@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Grundlagen \u0026 Terminal - Kimi Hilfecenter"
+  title="Grundlagen & Terminal - Kimi Hilfecenter"
   description="Verstehen Sie die Kernkonzepte von Kimi Claw – Memory, Skills, HEARTBEAT, Identity, Soul, Tools und User – sowie die Terminal-Befehle zum Prüfen von Gateway, Bot-Status, Skills und geplanten Aufgaben."
 />
 

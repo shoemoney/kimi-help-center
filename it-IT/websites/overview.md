@@ -32,7 +32,7 @@ Comprendendo input visivi (mockup UI, screenshot, video di interazione) e istruz
 | **Scelta dei modelli** | Più modelli predefiniti per iniziare rapidamente a creare il sito |
 | **Esportazione del codice** | Scarica i file HTML/CSS/JS pacchettizzati per l'hosting autonomo |
 
-## Come usare Kimi Websites？
+## Come usare Kimi Websites?
 
 ### Metodo 1: visita la pagina di Kimi Websites
 

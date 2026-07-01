@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="指南与答案的 Agentic Search｜Kimi 帮助中心"
+  title="指南与答案的 Agentic Search - Kimi 帮助中心"
   description="Kimi 的 Agentic Search 基于端到端自主强化学习架构打造。不同于传统的工具编排方式，它让 AI..."
 />
 

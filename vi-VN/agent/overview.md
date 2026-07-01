@@ -38,7 +38,7 @@ Kimi K2.6 Agent là trợ lý AI tự động, xử lý trọn vẹn các tác v
   alt="quy trình làm việc của agent"
 />
 
-## Cách hoạt động？
+## Cách hoạt động?
 1. **Lập kế hoạch tác vụ**: Phân rã yêu cầu của bạn thành các tác vụ con
 2. **Gọi công cụ**: Sử dụng hơn 20 công cụ khi cần
 3. **Thực thi tự động**: Hoàn thành nghiên cứu, thiết kế, phát triển

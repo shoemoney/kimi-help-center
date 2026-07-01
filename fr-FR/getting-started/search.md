@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="La recherche agentique pour des guides et des réponses｜Centre d'aide Kimi"
+  title="La recherche agentique pour des guides et des réponses - Centre d'aide Kimi"
   description="La recherche agentique de Kimi repose sur une architecture d'apprentissage par renforcement agentique de bout en bout. Contrairement aux approches traditionnelles d'orchestration d'outils, elle permet à l'IA..."
 />
 

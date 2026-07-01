@@ -25,7 +25,7 @@ If you need to adjust when the reset happens, you can modify the schedule in `co
 
 The daily 4 AM reset clears the active conversation context. If something wasn't saved to **Memory**, it's gone.
 
-**How to fix it：**
+**How to fix it:**
 - During a conversation, say _"Remember X to Memory"_ and Kimi Claw will write it to long-term storage.
 - Review stored memories via **Workspace → AGENTS.md → #MEMORY**.
 

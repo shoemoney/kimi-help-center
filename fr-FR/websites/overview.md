@@ -32,7 +32,7 @@ En comprenant les entrées visuelles (maquettes d'interface, captures d'écran, 
 | **Choix de modèles** | Plusieurs modèles prédéfinis pour démarrer rapidement la création |
 | **Export du code** | Téléchargez les fichiers HTML/CSS/JS empaquetés pour un hébergement autonome |
 
-## Comment utiliser Kimi Websites ？
+## Comment utiliser Kimi Websites ?
 
 ### Méthode 1 : accéder à la page Kimi Websites
 

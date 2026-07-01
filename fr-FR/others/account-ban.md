@@ -26,7 +26,7 @@ Les mesures possibles comprennent :
 | **Avantages** | Suspendre ou révoquer tout ou partie des avantages (y compris les avantages payants) |
 | **Service** | Refuser, suspendre ou résilier le service |
 
-## Comment faire un recours ？
+## Comment faire un recours ?
 Si vous êtes en désaccord avec la décision :
 
 <Callout type="info">

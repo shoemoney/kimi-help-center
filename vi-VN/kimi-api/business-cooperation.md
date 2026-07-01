@@ -18,7 +18,7 @@ Các lựa chọn hợp tác dành cho khách hàng doanh nghiệp — từ chi�
 </Callout>
 
 Kimi API mang đến nhiều lựa chọn hợp tác cho khách hàng doanh nghiệp, đáp ứng nhu cầu kinh doanh ở mọi quy mô.
-## Làm thế nào để liên hệ với đội ngũ bán hàng？
+## Làm thế nào để liên hệ với đội ngũ bán hàng?
 Truy cập [platform.moonshot.ai/contact-sales](https://platform.moonshot.ai/contact-sales) để gửi biểu mẫu liên hệ. Đội ngũ bán hàng của chúng tôi sẽ phản hồi trong vòng 1–2 ngày làm việc.
 
 <Callout type="tip">

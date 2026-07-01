@@ -27,7 +27,7 @@ Kimi는 Moonshot AI가 개발한 AI 어시스턴트로, 웹 검색, 심층 사�
 | **K2.6 Thinking** | 더 깊은 다단계 추론과 검색을 수행하며, 코딩, 논리, 분석 작업에 적합합니다 |
 
 <Callout type="tip">
-간단한 문서 기반 질의응답은 웹 검색과 Thinking mode를 모두 끄고 사용할 수 있습니다.
+간단한 문서 기반 질의응답은 웹 검색과 Thinking 모드를 모두 끄고 사용할 수 있습니다.
 </Callout>
 
 ## AI 에이전트

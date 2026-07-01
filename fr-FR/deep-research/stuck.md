@@ -17,7 +17,7 @@ preview: false
 Deep Research effectue de nombreuses recherches sur le Web, vérifie ses sources et raisonne. Une page qui ne s'est pas actualisée visuellement ne signifie pas que la tâche a été interrompue.
 </Callout>
 
-## Que pouvez-vous faire ？
+## Que pouvez-vous faire ?
 
 1. **Actualisez la page du navigateur**
 2. **Quittez temporairement la conversation en cours** (cela n'affecte pas l'exécution de la tâche)

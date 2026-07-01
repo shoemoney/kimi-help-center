@@ -15,7 +15,7 @@ preview: false
 
 Kimi supports self-service invoice generation for your membership payments.
 
-## How to get an invoice？
+## How to get an invoice?
 
 Invoices are automatically sent to the email address registered with your payment provider (Airwallex, Stripe, Apple, or Google).
 

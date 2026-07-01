@@ -15,7 +15,7 @@ preview: false
 
 Kimi, üyelik ödemeleriniz için self servis fatura oluşturmayı destekler.
 
-## Fatura nasıl alınır？
+## Fatura nasıl alınır?
 
 Faturalar, ödeme sağlayıcınızda (Airwallex, Stripe, Apple veya Google) kayıtlı e-posta adresine otomatik olarak gönderilir.
 

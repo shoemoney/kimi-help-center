@@ -18,7 +18,7 @@ Opções de parceria para clientes corporativos — de descontos por volume a SL
 </Callout>
 
 A Kimi API oferece uma variedade de opções de parceria para clientes corporativos, atendendo a necessidades de negócio em qualquer escala.
-## Como entrar em contato com a equipe de vendas？
+## Como entrar em contato com a equipe de vendas?
 Acesse [platform.moonshot.ai/contact-sales](https://platform.moonshot.ai/contact-sales) para enviar um formulário de contato. Nossa equipe de vendas retornará em 1 a 2 dias úteis.
 
 <Callout type="tip">

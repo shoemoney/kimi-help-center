@@ -35,7 +35,7 @@ Quando i tuoi crediti sono esauriti:
   - Attendere il rinnovo automatico mensile dei crediti
   - Passare a un abbonamento di livello superiore per ottenere più crediti
 
-## Come verificare l'Utilizzo dei crediti？
+## Come verificare l'Utilizzo dei crediti?
 - **Web**: Profilo → Impostazioni → Abbonamento
 - **App**: Profilo → Piano di abbonamento → Abbonamento
 Cosa puoi visualizzare:

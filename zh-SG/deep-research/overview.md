@@ -18,7 +18,7 @@ preview_content: "了解 Deep Research（深度研究）如何自主规划、搜
 **Deep Research（深度研究）** 是 Kimi 首个 Agent 产品，由 Kimi-Researcher 模型驱动。它不只是回答问题，更像真正的研究员，能够从任务规划到报告交付，自主完成整个工作流。
 </Callout>
 
-## Kimi-Research 是如何工作的？
+## Kimi-Researcher 是如何工作的？
 
 面对每个问题，Kimi-Researcher 会独立完成完整的研究流程：
 | 步骤 | 说明 |

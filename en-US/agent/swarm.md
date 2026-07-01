@@ -37,7 +37,7 @@ Agent Swarm is a self-designed organizational structure — designed by AI, not 
 
 K2.6 Agent Swarm [Beta] uses the PARL (Parallel-Agent Reinforcement Learning) training method. Compared to single-agent approaches, it reduces critical steps by 3×–4.5× in large-scale search scenarios.
 
-## How to use？
+## How to use?
 
 <Frames
   src="./images/swarm/screenshot-8.png"

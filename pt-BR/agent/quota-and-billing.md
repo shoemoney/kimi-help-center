@@ -35,7 +35,7 @@ Quando seus créditos se esgotam:
   - Aguardar a renovação automática mensal dos créditos
   - Fazer upgrade para um plano de assinatura superior e obter mais créditos
 
-## Como verificar o uso dos créditos？
+## Como verificar o uso dos créditos?
 - **Web**: Perfil → Configurações → Assinatura
 - **App**: Perfil → Plano de Assinatura → Assinatura
 O que você pode visualizar:

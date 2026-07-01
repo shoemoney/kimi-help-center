@@ -25,7 +25,7 @@ Jika Kimi Claw tidak membalas atau terasa sangat lambat, ada beberapa kemungkina
 | **Resource sibuk** | Beban server tinggi; respons mungkin tertunda |
 | **Instance offline** | Instance Kimi Claw telah offline dan perlu diperbaiki |
 
-## Cara mengatasinya？
+## Cara mengatasinya?
 
 Ikuti langkah-langkah ini secara berurutan hingga masalah teratasi:
 

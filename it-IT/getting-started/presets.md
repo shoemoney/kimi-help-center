@@ -21,7 +21,7 @@ I Preset sono la funzione dei prompt rapidi di Kimi: ti permettono di salvare i 
 - **Prompt di qualità riutilizzabili**: salva i prompt ben perfezionati per ottenere risultati coerenti e ripetibili
 - **Scorciatoie per istruzioni frequenti**: comandi quotidiani come «Riassumi questo articolo», «Traduci in inglese» o «Organizza in una tabella»
 
-## Come aggiungere un preset？
+## Come aggiungere un preset?
 
 1. Apri [kimi.com](https://www.kimi.com/) o l'app Kimi
 2. Clicca sul pulsante **«+»** a sinistra della casella di input della chat, oppure individua il punto di accesso ai **Preset**

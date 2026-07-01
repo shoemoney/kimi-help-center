@@ -26,7 +26,7 @@ Tindakan yang mungkin diambil meliputi:
 | **Manfaat** | Menangguhkan atau mencabut sebagian atau seluruh manfaat (termasuk manfaat berbayar) |
 | **Layanan** | Menolak, menangguhkan, atau menghentikan layanan |
 
-## Bagaimana cara mengajukan banding？
+## Bagaimana cara mengajukan banding?
 Jika Anda tidak setuju dengan hasilnya:
 
 <Callout type="info">

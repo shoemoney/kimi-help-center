@@ -37,7 +37,7 @@ O Agent Swarm é uma estrutura organizacional autoprojetada — concebida pela I
 
 O K2.6 Agent Swarm [Beta] utiliza o método de treinamento PARL (Parallel-Agent Reinforcement Learning). Em comparação com abordagens de agente único, ele reduz as etapas críticas em 3× a 4,5× em cenários de busca de larga escala.
 
-## Como usar？
+## Como usar?
 
 <Frames
   src="./images/swarm/screenshot-8.png"

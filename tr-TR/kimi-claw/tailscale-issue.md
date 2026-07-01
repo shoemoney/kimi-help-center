@@ -15,7 +15,7 @@ preview: false
 
 Tailscale'i kurduktan sonra Kimi Claw bağlantısını kaybediyorsa, bunun nedeni neredeyse her zaman bir DNS geçersiz kılmasıdır — Tailscale, sistemin DNS ayarlarını değiştirir ve bu da Kimi Claw'ın ana bilgisayar adlarını çözümleme yeteneğini bozar.
 
-## Nasıl düzeltilir？
+## Nasıl düzeltilir?
 
 1. [Tailscale DNS ayarları sayfasını](https://login.tailscale.com/admin/dns) açın.
 2. **Nameservers → Global nameservers** altında **Add nameserver**'a tıklayın.
@@ -25,6 +25,6 @@ Tailscale'i kurduktan sonra Kimi Claw bağlantısını kaybediyorsa, bunun neden
 4. Sağ üst köşedeki **Override DNS Servers** anahtarını etkinleştirin.
 5. Bağlantının yeniden kurulması için yaklaşık **30 saniye** bekleyin.
 
-## Nasıl önlenir？
+## Nasıl önlenir?
 
 Tailscale'i kurmak üzereyseniz, yukarıdaki DNS ayarlarını Tailscale'i etkinleştirmeden **önce** yapılandırın. Böylece herhangi bir bağlantı kesintisini önlemiş olursunuz.

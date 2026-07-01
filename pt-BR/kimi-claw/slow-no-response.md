@@ -25,7 +25,7 @@ Se o Kimi Claw não está respondendo ou está excepcionalmente lento, há vári
 | **Recurso ocupado** | A carga do servidor está alta; as respostas podem atrasar |
 | **Instância offline** | A instância do Kimi Claw ficou offline e precisa ser reparada |
 
-## Como resolver？
+## Como resolver?
 
 Siga estas etapas na ordem até que o problema seja resolvido:
 

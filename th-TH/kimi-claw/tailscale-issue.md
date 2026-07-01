@@ -15,7 +15,7 @@ preview: false
 
 หาก Kimi Claw เชื่อมต่อไม่ได้หลังจากที่คุณตั้งค่า Tailscale สาเหตุมักมาจากการ override ค่า DNS เสมอ — Tailscale จะแทนที่การตั้งค่า DNS ของระบบ ทำให้ Kimi Claw ไม่สามารถ resolve ชื่อโฮสต์ได้
 
-## วิธีแก้ไข？
+## วิธีแก้ไข?
 
 1. เปิด[หน้าตั้งค่า DNS ของ Tailscale](https://login.tailscale.com/admin/dns)
 2. ที่หัวข้อ **Nameservers → Global nameservers** ให้คลิก **Add nameserver**
@@ -25,6 +25,6 @@ preview: false
 4. เปิดสวิตช์ **Override DNS Servers** ที่มุมขวาบน
 5. รอประมาณ **30 วินาที** เพื่อให้การเชื่อมต่อกลับมาทำงานอีกครั้ง
 
-## วิธีป้องกัน？
+## วิธีป้องกัน?
 
 หากคุณกำลังจะตั้งค่า Tailscale ให้กำหนดค่า DNS ตามด้านบน**ก่อน**เปิดใช้งาน Tailscale วิธีนี้จะช่วยหลีกเลี่ยงการสะดุดของการเชื่อมต่อ

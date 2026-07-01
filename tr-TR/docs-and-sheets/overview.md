@@ -39,7 +39,7 @@ Kimi Docs, güçlü metin uyarlama yetenekleri ve Office iş akışlarına dair 
 - Profesyonel dizgi yazılımı kullanmadan mevcut PDF'leri yeniden düzenleme ve biçimlendirme
 - Yüzlerce sayfalık PDF'lerden belirli bilgileri çıkarma
 - Birden fazla sözleşme sürümü arasındaki ince farkları karşılaştırma
-### Kimi Docs nasıl kullanılır？
+### Kimi Docs nasıl kullanılır?
 **Erişim Noktaları:**
 - Genel: Kenar çubuğundaki veya sohbet kutusundaki Docs, Sheets ya da Slides kısayollarına tıklayın
 - Özel: Sohbet kutusunun altındaki "Docs" düğmesine tıklayın
@@ -81,7 +81,7 @@ Kimi Sheets; hücre ilişkilerini ve sayfalar arası bağlantı mantığını ka
 | **Çok kaynaklı birleştirme** | 50 farklı departmanın Excel raporunu tek bir şirket özetinde birleştirme |
 | **Doğal dille giriş** | Akıllı elektronik tablo oluşturmayla birlikte otonom web araması |
 
-### Kimi Sheets nasıl kullanılır？
+### Kimi Sheets nasıl kullanılır?
 Sohbet kutusunun altındaki "Agent" düğmesine tıklayın veya kenar çubuğundaki "Sheets" kısayolunu seçin.
 
 <Frames

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Rehberler ve Yanıtlar için Agentic Search｜Kimi Yardım Merkezi"
+  title="Rehberler ve Yanıtlar için Agentic Search - Kimi Yardım Merkezi"
   description="Kimi'nin Agentic Search özelliği, uçtan uca agentic pekiştirmeli öğrenme mimarisi üzerine kuruludur. Geleneksel araç orkestrasyonu yaklaşımlarının aksine, yapay zekânın..."
 />
 

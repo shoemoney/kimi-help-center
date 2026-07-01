@@ -15,7 +15,7 @@ preview: false
 
 Ketika konteks percakapan menjadi terlalu panjang dan melampaui batas token model, Kimi Claw bisa berhenti merespons atau menampilkan pesan error.
 
-**Cara mengatasinya：**
+**Cara mengatasinya:**
 
 - Kirim `/new` untuk memulai percakapan baru dan membersihkan konteks saat ini.
 - Jika error tetap muncul setelah `/new`, kemungkinan terlalu banyak Skills yang dimuat ke memori. Coba:

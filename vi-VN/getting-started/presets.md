@@ -21,7 +21,7 @@ Mẫu lệnh là tính năng nhập nhanh của Kimi, cho phép bạn lưu nhữ
 - **Câu lệnh chất lượng cao có thể tái sử dụng**: Lưu lại những câu lệnh đã được tinh chỉnh kỹ để cho kết quả nhất quán, lặp lại được
 - **Lối tắt cho các chỉ thị thông dụng**: Những lệnh hằng ngày như "Tóm tắt bài viết này", "Dịch sang tiếng Anh" hay "Sắp xếp thành bảng"
 
-## Cách thêm một mẫu lệnh？
+## Cách thêm một mẫu lệnh?
 
 1. Mở [kimi.com](https://www.kimi.com/) hoặc ứng dụng Kimi
 2. Nhấp nút **"+"** bên trái ô nhập trò chuyện, hoặc tìm đến mục **Mẫu lệnh**

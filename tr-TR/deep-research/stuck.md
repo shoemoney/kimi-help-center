@@ -17,7 +17,7 @@ preview: false
 Deep Research kapsamlı web aramaları yapar, kaynakları doğrular ve akıl yürütür. Sayfanın görsel olarak güncellenmemesi, görevin kesintiye uğradığı anlamına gelmez.
 </Callout>
 
-## Neler yapabilirsiniz？
+## Neler yapabilirsiniz?
 
 1. **Tarayıcı sayfasını yenileyin**
 2. **Geçici olarak mevcut sohbetten çıkın** (bu, görevin yürütülmesini etkilemez)

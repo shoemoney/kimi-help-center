@@ -19,7 +19,7 @@ Kimi API menerapkan rate limit pada frekuensi dan concurrency permintaan untuk m
 
 Rate limit API dibagi dalam beberapa tingkatan berdasarkan **total top-up kumulatif** akun Anda — semakin besar top-up Anda, semakin tinggi rate limit yang tersedia. Untuk ambang batas setiap tingkatan beserta batas RPM (permintaan per menit) dan TPM (token per menit) yang sesuai, lihat konsol [platform.moonshot.ai](https://www.platform.moonshot.ai).
 
-## Cara memeriksa batas saat ini？
+## Cara memeriksa batas saat ini?
 
 - Masuk ke konsol API untuk melihat tingkatan rate limit Anda saat ini.
 - Header respons API juga menyertakan informasi rate limit:

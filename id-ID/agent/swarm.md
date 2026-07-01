@@ -37,7 +37,7 @@ Agent Swarm adalah struktur organisasi yang dirancang sendiri — dirancang oleh
 
 K2.6 Agent Swarm [Beta] menggunakan metode pelatihan PARL (Parallel-Agent Reinforcement Learning). Dibandingkan pendekatan satu agen, metode ini memangkas langkah-langkah kritis sebanyak 3×–4,5× dalam skenario pencarian skala besar.
 
-## Cara menggunakan？
+## Cara menggunakan?
 
 <Frames
   src="./images/swarm/screenshot-8.png"

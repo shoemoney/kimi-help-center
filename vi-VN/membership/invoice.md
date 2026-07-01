@@ -15,7 +15,7 @@ preview: false
 
 Kimi hỗ trợ tự tạo hóa đơn cho các khoản thanh toán thành viên của bạn.
 
-## Làm thế nào để lấy hóa đơn？
+## Làm thế nào để lấy hóa đơn?
 
 Hóa đơn được tự động gửi đến địa chỉ email đã đăng ký với nhà cung cấp dịch vụ thanh toán của bạn (Airwallex, Stripe, Apple hoặc Google).
 

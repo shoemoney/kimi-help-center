@@ -38,7 +38,7 @@ Kimi K2.6 Agent adalah asisten AI otonom yang menangani tugas-tugas rumit dari a
   alt="alur kerja agent"
 />
 
-## Cara kerjanya？
+## Cara kerjanya?
 1. **Perencanaan Tugas**: Memecah permintaan Anda menjadi sub-tugas
 2. **Pemanggilan Tool**: Memakai lebih dari 20 tool sesuai kebutuhan
 3. **Eksekusi Otonom**: Menuntaskan riset, desain, dan pengembangan

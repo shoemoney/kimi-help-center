@@ -21,7 +21,7 @@ Preset adalah fitur prompt cepat dari Kimi yang memungkinkan Anda menyimpan prom
 - **Prompt berkualitas yang bisa dipakai ulang**: Simpan prompt yang sudah diolah dengan baik untuk hasil yang konsisten dan dapat diandalkan
 - **Pintasan instruksi umum**: Perintah sehari-hari seperti "Ringkas artikel ini", "Terjemahkan ke bahasa Inggris", atau "Susun dalam bentuk tabel"
 
-## Cara menambahkan preset？
+## Cara menambahkan preset?
 
 1. Buka [kimi.com](https://www.kimi.com/) atau aplikasi Kimi
 2. Klik tombol **"+"** di sebelah kiri kotak input obrolan, atau temukan menu **Preset**

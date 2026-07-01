@@ -17,7 +17,7 @@ preview: false
 Deep Research melakukan pencarian web ekstensif, verifikasi sumber, dan penalaran. Halaman yang belum diperbarui secara visual bukan berarti tugasnya telah terhenti.
 </Callout>
 
-## Apa yang bisa Anda lakukan？
+## Apa yang bisa Anda lakukan?
 
 1. **Muat ulang halaman browser**
 2. **Tinggalkan percakapan saat ini untuk sementara** (ini tidak memengaruhi pelaksanaan tugas)

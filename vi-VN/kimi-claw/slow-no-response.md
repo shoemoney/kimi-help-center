@@ -25,7 +25,7 @@ Nếu Kimi Claw không trả lời hoặc chạy chậm bất thường, có th�
 | **Tài nguyên đang bận** | Tải máy chủ cao; phản hồi có thể bị chậm |
 | **Phiên bản ngoại tuyến** | Phiên bản Kimi Claw đã ngoại tuyến và cần được sửa chữa |
 
-## Cách khắc phục？
+## Cách khắc phục?
 
 Hãy thực hiện lần lượt các bước sau cho đến khi vấn đề được giải quyết:
 

@@ -39,7 +39,7 @@ Kimi Docs offre solide capacità di adattamento del testo e una comprensione sis
 - Rielabora e riformatta i PDF esistenti senza software di impaginazione professionale
 - Estrae informazioni specifiche da PDF di centinaia di pagine
 - Confronta differenze sottili tra più versioni di un contratto
-### Come usare Kimi Docs？
+### Come usare Kimi Docs?
 **Punti di accesso:**
 - Generale: clicca sulle scorciatoie Docs, Sheets o Slides nella barra laterale o nella casella di chat
 - Dedicato: clicca sul pulsante "Docs" in fondo alla casella di chat
@@ -81,7 +81,7 @@ Kimi Sheets comprende le relazioni tra le celle e la logica di collegamento tra 
 | **Consolidamento da più fonti** | Unisce 50 report Excel di reparti diversi in un'unica sintesi aziendale |
 | **Inserimento in linguaggio naturale** | Ricerca web autonoma con generazione intelligente di fogli di calcolo |
 
-### Come usare Kimi Sheets？
+### Come usare Kimi Sheets?
 Clicca sul pulsante "Agent" in fondo alla casella di chat oppure seleziona la scorciatoia "Sheets" nella barra laterale.
 
 <Frames

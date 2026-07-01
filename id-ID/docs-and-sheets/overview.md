@@ -39,7 +39,7 @@ Kimi Docs memiliki kemampuan adaptasi teks yang kuat serta pemahaman sistematis 
 - Mengedit ulang dan memformat ulang PDF yang ada tanpa perangkat lunak tata letak profesional
 - Mengekstrak informasi spesifik dari PDF ratusan halaman
 - Membandingkan perbedaan halus di antara berbagai versi kontrak
-### Cara menggunakan Kimi Docs？
+### Cara menggunakan Kimi Docs?
 **Titik Akses:**
 - Umum: Klik pintasan Docs, Sheets, atau Slides di bilah samping atau kotak obrolan
 - Khusus: Klik tombol "Docs" di bagian bawah kotak obrolan
@@ -81,7 +81,7 @@ Kimi Sheets memahami relasi antarsel, logika keterkaitan lintas-lembar, dan meng
 | **Konsolidasi multi-sumber** | Menggabungkan 50 laporan Excel dari berbagai departemen menjadi satu ringkasan perusahaan |
 | **Input bahasa alami** | Pencarian web mandiri dengan pembuatan spreadsheet cerdas |
 
-### Cara menggunakan Kimi Sheets？
+### Cara menggunakan Kimi Sheets?
 Klik tombol "Agent" di bagian bawah kotak obrolan, atau pilih pintasan "Sheets" di bilah samping.
 
 <Frames

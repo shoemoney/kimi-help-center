@@ -32,7 +32,7 @@ Dengan memahami masukan visual (mockup UI, tangkapan layar, video interaksi) dan
 | **Pemilihan templat** | Beragam templat siap pakai untuk memulai pembuatan situs dengan cepat |
 | **Ekspor kode** | Unduh berkas HTML/CSS/JS yang dipaketkan untuk hosting sendiri |
 
-## Cara menggunakan Kimi Websites？
+## Cara menggunakan Kimi Websites?
 
 ### Cara 1: kunjungi halaman Kimi Websites
 

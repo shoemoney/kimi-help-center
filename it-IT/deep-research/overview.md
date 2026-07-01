@@ -18,7 +18,7 @@ preview_content: "Scopri come Deep Research pianifica, cerca e produce in totale
 **Deep Research** è il primo prodotto Agent di Kimi, basato sul modello Kimi-Researcher. Non si limita a rispondere alle domande: lavora come un vero ricercatore, completando in autonomia l'intero flusso di lavoro, dalla pianificazione del compito alla consegna del report.
 </Callout>
 
-## Come funziona Kimi-Research?
+## Come funziona Kimi-Researcher?
 
 Per ogni domanda, Kimi-Researcher completa in modo indipendente l'intera pipeline di ricerca:
 | Fase | Descrizione |
@@ -73,7 +73,7 @@ Ogni compito di ricerca produce due risultati:
 **Non adatto a**: scrittura creativa (narrativa, sceneggiature), oroscopi, redazione di curriculum, modelli a formato fisso, slide modificabili
 </Callout>
 
-## Come usare Deep Research？
+## Come usare Deep Research?
 **Punti di accesso**:
 - **Web**: [kimi.com/deep-research](https://www.kimi.com/deep-research)
 - **Mobile**: app Kimi → Barra delle attività → modalità Deep Research Agent

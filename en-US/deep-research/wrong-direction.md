@@ -19,7 +19,7 @@ If Deep Research's search direction or reasoning has significantly deviated from
 
 Our team will review within 1–3 business days. If confirmed, credits for that task will be automatically refunded.
 
-## How to reduce direction drift？
+## How to reduce direction drift?
 
 When submitting your question:
 

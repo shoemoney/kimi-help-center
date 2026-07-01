@@ -18,7 +18,7 @@ Options de partenariat pour les clients entreprise — des remises sur volume au
 </Callout>
 
 L'API Kimi propose une gamme d'options de partenariat destinées aux clients entreprise, afin de répondre à tous les besoins commerciaux, quelle que soit leur ampleur.
-## Comment contacter l'équipe commerciale ？
+## Comment contacter l'équipe commerciale ?
 Rendez-vous sur [platform.moonshot.ai/contact-sales](https://platform.moonshot.ai/contact-sales) pour remplir un formulaire de contact. Notre équipe commerciale vous recontactera sous 1 à 2 jours ouvrés.
 
 <Callout type="tip">

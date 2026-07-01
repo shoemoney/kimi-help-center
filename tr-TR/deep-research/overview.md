@@ -18,7 +18,7 @@ preview_content: "Deep Research'ün nasıl bağımsız olarak plan yaptığını
 **Deep Research**, Kimi-Researcher modeliyle çalışan, Kimi'nin ilk Agent ürünüdür. Yalnızca sorulara yanıt vermekle kalmaz; gerçek bir araştırmacı gibi çalışarak görev planlamasından rapor teslimine kadar tüm iş akışını bağımsız olarak tamamlar.
 </Callout>
 
-## Kimi-Research nasıl çalışır?
+## Kimi-Researcher nasıl çalışır?
 
 Kimi-Researcher her soru için araştırma sürecinin tamamını bağımsız olarak tamamlar:
 | Adım | Açıklama |
@@ -73,7 +73,7 @@ Her araştırma görevi iki çıktı üretir:
 **Uygun olmadığı alanlar**: Yaratıcı yazarlık (kurgu, senaryo), fal bakma, özgeçmiş yazımı, sabit biçimli şablonlar, düzenlenebilir sunumlar
 </Callout>
 
-## Deep Research nasıl kullanılır？
+## Deep Research nasıl kullanılır?
 **Erişim noktaları**:
 - **Web**: [kimi.com/deep-research](https://www.kimi.com/deep-research)
 - **Mobil**: Kimi uygulaması → Görev çubuğu → Deep Research Agent modu

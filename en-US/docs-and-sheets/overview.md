@@ -39,7 +39,7 @@ Kimi Docs has strong text adaptation capabilities and systematic understanding o
 - Re-edit and reformat existing PDFs without professional typesetting software
 - Extract specific information from hundred-page PDFs
 - Compare subtle differences across multiple contract versions
-### How to use Kimi Docs？
+### How to use Kimi Docs?
 **Entry Points:**
 - General: Click Docs, Sheets, or Slides shortcuts in the sidebar or chat box
 - Dedicated: Click "Docs" button at the bottom of the chat box
@@ -81,7 +81,7 @@ Kimi Sheets understands cell relationships, cross-sheet linkage logic, and produ
 | **Multi-source consolidation** | Merge 50 different department Excel reports into a single company summary |
 | **Natural language input** | Autonomous web search with intelligent spreadsheet generation |
 
-### How to use Kimi Sheets？
+### How to use Kimi Sheets?
 Click the "Agent" button at the bottom of the chat box, or select the "Sheets" shortcut in the sidebar.
 
 <Frames

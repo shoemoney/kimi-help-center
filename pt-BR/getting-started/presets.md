@@ -21,7 +21,7 @@ As predefinições são o recurso de prompts rápidos do Kimi, que permite salva
 - **Prompts de alta qualidade reutilizáveis**: salve prompts bem ajustados para obter resultados consistentes e repetíveis
 - **Atalhos para instruções comuns**: comandos do dia a dia como "Resuma este artigo", "Traduza para o inglês" ou "Organize em uma tabela"
 
-## Como adicionar uma predefinição？
+## Como adicionar uma predefinição?
 
 1. Abra o [kimi.com](https://www.kimi.com/) ou o aplicativo do Kimi
 2. Clique no botão **"+"** à esquerda da caixa de entrada do chat ou localize o ponto de acesso **Predefinições**

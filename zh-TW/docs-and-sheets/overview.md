@@ -15,7 +15,7 @@ preview_content: "透過 AI 驅動的 Kimi Docs 與 Kimi Sheets，建立並編�
 # Kimi Docs 與 Kimi Sheets
 
 <Callout type="info">
-2026 年 1 月 27 日，Moonshot AI 發布 Kimi K2.5，為 Kimi Agent 的生產力能力帶來重大升級。Kimi Agent 現在已能「精通 Office」，端到端輸出 Word、PDF、Excel 與幻燈片檔案。
+2026 年 1 月 27 日，Moonshot AI 發布 Kimi K2.5，為 Kimi Agent 的生產力能力帶來重大升級。Kimi Agent 現在已能「精通 Office」，端到端輸出 Word、PDF、Excel 與簡報檔案。
 </Callout>
 
 Kimi K2.5 在辦公情境下大幅提升了輸出品質與工具呼叫效率，尤其強化了具備端到端處理能力的結構化輸出：
@@ -24,7 +24,7 @@ Kimi K2.5 在辦公情境下大幅提升了輸出品質與工具呼叫效率，�
 | **Word** | 智慧排版與修訂追蹤 |
 | **PDF** | 視覺設計與圖文混排版面 |
 | **Excel** | 資料分析與財務建模 |
-| **幻燈片** | 自動生成與視覺化敘事 |
+| **簡報** | 自動生成與視覺化敘事 |
 
 ## Kimi Docs
 Kimi Docs 具備出色的文字適配能力，並能系統性理解 Office 工作流程。
@@ -41,7 +41,7 @@ Kimi Docs 具備出色的文字適配能力，並能系統性理解 Office 工�
 - 比較多個合約版本之間的細微差異
 ### 如何使用 Kimi Docs？
 **入口：**
-- 一般入口：點擊側邊欄或聊天框中的 Docs、Sheets 或幻燈片捷徑
+- 一般入口：點擊側邊欄或聊天框中的 Docs、Sheets 或簡報捷徑
 - 專用入口：點擊聊天框底部的「Docs」按鈕
 ### 方法 1：前往 Kimi Docs 頁面
 

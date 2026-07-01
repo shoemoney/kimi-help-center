@@ -37,7 +37,7 @@ Agent Swarm là một cấu trúc tổ chức tự thiết kế — do AI thiế
 
 K2.6 Agent Swarm [Beta] sử dụng phương pháp huấn luyện PARL (Parallel-Agent Reinforcement Learning). So với cách tiếp cận đơn agent, nó giảm số bước then chốt từ 3 đến 4,5 lần trong các tình huống tìm kiếm quy mô lớn.
 
-## Cách sử dụng？
+## Cách sử dụng?
 
 <Frames
   src="./images/swarm/screenshot-8.png"

@@ -15,7 +15,7 @@ preview: false
 
 Konuşma bağlamı çok uzayıp modelin token sınırını aştığında, Kimi Claw yanıt vermeyi durdurabilir veya bir hata döndürebilir.
 
-**Nasıl düzeltilir：**
+**Nasıl düzeltilir:**
 
 - Yeni bir konuşma başlatmak ve mevcut bağlamı temizlemek için `/new` gönderin.
 - `/new` sonrasında hata devam ediyorsa, belleğe fazla sayıda Skill yüklenmiş olabilir. Şunları deneyin:

@@ -17,7 +17,7 @@ preview: false
 Deep Research esegue ricerche approfondite sul web, verifica delle fonti e ragionamento. Se la pagina non si aggiorna visivamente, non significa che l'attività sia stata interrotta.
 </Callout>
 
-## Cosa puoi fare？
+## Cosa puoi fare?
 
 1. **Ricarica la pagina del browser**
 2. **Esci temporaneamente dalla conversazione corrente** (questo non influisce sull'esecuzione dell'attività)

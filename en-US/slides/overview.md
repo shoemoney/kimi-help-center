@@ -42,7 +42,7 @@ Kimi Slides supports multi-format input including PDF, Word, PPTX, Excel, TXT, a
 - Download the generated file as an editable PPTX, or preview and present it online.
 - A monthly free credits lets you experience the full feature set without any payment.
 4. Multiple Modes for choosing
-- Adaptive：deep research, structured delivery
+- Adaptive:deep research, structured delivery
 - Visual: powered by nano banana pro
 
 ## Where to Access Kimi Slides

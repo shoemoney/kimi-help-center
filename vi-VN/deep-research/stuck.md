@@ -17,7 +17,7 @@ preview: false
 Deep Research thực hiện hàng loạt thao tác tìm kiếm web, xác minh nguồn và suy luận. Việc giao diện chưa cập nhật không có nghĩa là tác vụ đã bị gián đoạn.
 </Callout>
 
-## Bạn có thể làm gì？
+## Bạn có thể làm gì?
 
 1. **Tải lại trang trình duyệt**
 2. **Tạm thời rời khỏi cuộc trò chuyện hiện tại** (việc này không ảnh hưởng đến quá trình xử lý tác vụ)

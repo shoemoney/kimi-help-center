@@ -14,7 +14,7 @@ preview: false
 # Agent額度與計費
 
 <Callout type="info">
-Agent 模式採用 Kimi 的額度 系統。所有會員權益都包含兩個額度池：Kimi Code 使用獨立的額度池；其他會員功能（Agent、Deep Research、幻燈片、Docs、Sheets、Kimi Claw 等）共用同一個額度池，並依實際 token 消耗扣除額度。
+Agent 模式採用 Kimi 的額度 系統。所有會員權益都包含兩個額度池：Kimi Code 使用獨立的額度池；其他會員功能（Agent、Deep Research、簡報、Docs、Sheets、Kimi Claw 等）共用同一個額度池，並依實際 token 消耗扣除額度。
 </Callout>
 
 ## 計費模式

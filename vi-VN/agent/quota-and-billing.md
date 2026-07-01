@@ -35,7 +35,7 @@ Khi tín dụng của bạn đã cạn:
   - Chờ tín dụng hằng tháng tự động làm mới
   - Nâng cấp lên gói thành viên cao hơn để có thêm tín dụng
 
-## Kiểm tra Mức sử dụng tín dụng như thế nào？
+## Kiểm tra Mức sử dụng tín dụng như thế nào?
 - **Web**: Hồ sơ → Cài đặt → Đăng ký
 - **App**: Hồ sơ → Gói thành viên → Đăng ký
 Những thông tin bạn có thể xem:

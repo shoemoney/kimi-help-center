@@ -32,7 +32,7 @@ By understanding visual inputs (UI mockups, screenshots, interaction videos) and
 | **Template selection** | Multiple preset templates for quick-start site building |
 | **Code export** | Download packaged HTML/CSS/JS files for self-hosting |
 
-## How to use Kimi Websites？
+## How to use Kimi Websites?
 
 ### Method 1: visit the Kimi Websites page
 

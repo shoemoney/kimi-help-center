@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Tìm kiếm Agentic cho hướng dẫn và lời giải đáp｜Trung tâm trợ giúp Kimi"
+  title="Tìm kiếm Agentic cho hướng dẫn và lời giải đáp - Trung tâm trợ giúp Kimi"
   description="Tính năng Agentic Search của Kimi được xây dựng trên kiến trúc học tăng cường agentic đầu cuối. Khác với các phương pháp điều phối công cụ truyền thống, nó cho phép AI..."
 />
 

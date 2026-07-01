@@ -16,7 +16,7 @@ preview: false
 
 ## 如何调用技能？
 
-在 Kimi Agent Mode 的输入框中，你可以通过三种方式调用技能：
+在 Kimi Agent 模式 的输入框中，你可以通过三种方式调用技能：
 
 **方法 1：使用 `/` 命令**
 
@@ -110,7 +110,7 @@ Kimi 提供了一组开箱即用的推荐技能，可一键添加：
 />
 
 <Callout type="info">
-Agent Mode 和 Kimi Claw 均支持技能。带有 `swarm` 后缀的技能仅适用于 Swarm（Agent 集群）场景，不会在其他上下文中显示。
+Agent 模式 和 Kimi Claw 均支持技能。带有 `swarm` 后缀的技能仅适用于 Swarm（Agent 集群）场景，不会在其他上下文中显示。
 </Callout>
 
 ## 编写有效的技能描述

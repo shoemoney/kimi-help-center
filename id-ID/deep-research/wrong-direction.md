@@ -19,7 +19,7 @@ Jika arah pencarian atau penalaran Deep Research menyimpang jauh dari yang Anda 
 
 Tim kami akan meninjau dalam 1–3 hari kerja. Jika terbukti, kredit untuk tugas tersebut akan dikembalikan secara otomatis.
 
-## Cara mengurangi penyimpangan arah？
+## Cara mengurangi penyimpangan arah?
 
 Saat mengajukan pertanyaan:
 

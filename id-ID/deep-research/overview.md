@@ -18,7 +18,7 @@ preview_content: "Temukan bagaimana Deep Research secara mandiri merencanakan, m
 **Deep Research** adalah produk Agent pertama dari Kimi, yang ditenagai oleh model Kimi-Researcher. Ia tidak sekadar menjawab pertanyaan — ia bekerja layaknya peneliti sungguhan, menyelesaikan seluruh alur kerja secara mandiri mulai dari perencanaan tugas hingga penyampaian laporan.
 </Callout>
 
-## Bagaimana cara kerja Kimi-Research?
+## Bagaimana cara kerja Kimi-Researcher?
 
 Untuk setiap pertanyaan, Kimi-Researcher menyelesaikan seluruh rangkaian riset secara mandiri:
 | Langkah | Deskripsi |
@@ -73,7 +73,7 @@ Setiap tugas riset menghasilkan dua keluaran:
 **Tidak cocok untuk**: Penulisan kreatif (fiksi, naskah film), ramalan nasib, penulisan resume, templat berformat tetap, slide yang dapat diedit
 </Callout>
 
-## Cara menggunakan Deep Research？
+## Cara menggunakan Deep Research?
 **Titik akses**:
 - **Web**: [kimi.com/deep-research](https://www.kimi.com/deep-research)
 - **Seluler**: Aplikasi Kimi → Taskbar → mode Deep Research Agent

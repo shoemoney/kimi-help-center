@@ -32,7 +32,7 @@ Bằng cách hiểu các đầu vào trực quan (bản thiết kế UI, ảnh c
 | **Chọn mẫu** | Nhiều mẫu cài sẵn giúp khởi tạo website nhanh chóng |
 | **Xuất mã** | Tải về tệp HTML/CSS/JS đã đóng gói để tự lưu trữ |
 
-## Cách sử dụng Kimi Websites？
+## Cách sử dụng Kimi Websites?
 
 ### Cách 1: truy cập trang Kimi Websites
 

@@ -25,7 +25,7 @@ Jika Anda perlu menyesuaikan waktu reset, Anda dapat mengubah jadwalnya di `conf
 
 Reset harian pukul 04.00 menghapus konteks percakapan yang aktif. Jika sesuatu tidak tersimpan ke **Memory**, maka informasi itu hilang.
 
-**Cara mengatasinya：**
+**Cara mengatasinya:**
 - Selama percakapan, katakan _"Ingat X ke Memory"_ dan Kimi Claw akan menulisnya ke penyimpanan jangka panjang.
 - Tinjau memori yang tersimpan melalui **Workspace → AGENTS.md → #MEMORY**.
 

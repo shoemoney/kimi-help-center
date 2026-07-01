@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Agentic Search untuk Panduan dan Jawaban｜Pusat Bantuan Kimi"
+  title="Agentic Search untuk Panduan dan Jawaban - Pusat Bantuan Kimi"
   description="Agentic Search Kimi dibangun di atas arsitektur end-to-end agentic reinforcement learning. Berbeda dengan pendekatan orkestrasi alat tradisional, AI dapat..."
 />
 

@@ -20,7 +20,7 @@ Deep Research membedakan antara "percakapan standar" dan "eksekusi tugas." Begit
 - **Metode penagihan**: Setelah Anda memilih tugas Deep Research, kredit dipotong dari pool bersama (fitur keanggotaan lainnya). Kimi Code menggunakan pool kredit terpisah.
 - **Pengembalian saat gagal**: Jika sebuah tugas gagal (tidak ada hasil valid yang dikembalikan), klik tombol umpan balik "👎". Tim kami akan memverifikasi masalahnya dan mengembalikan kredit yang sesuai.
 
-## Cara mengecek sisa kredit？
+## Cara mengecek sisa kredit?
 
 Arahkan kursor ke tombol mode Deep Research untuk melihat sisa kredit gratis dan berbayar Anda saat ini.
 

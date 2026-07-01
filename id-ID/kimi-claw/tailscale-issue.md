@@ -15,7 +15,7 @@ preview: false
 
 Jika Kimi Claw kehilangan koneksi setelah Anda menyiapkan Tailscale, penyebabnya hampir selalu penggantian DNS — Tailscale mengganti pengaturan DNS sistem sehingga Kimi Claw tidak bisa lagi me-resolve nama host.
 
-## Cara memperbaikinya？
+## Cara memperbaikinya?
 
 1. Buka [halaman pengaturan DNS Tailscale](https://login.tailscale.com/admin/dns).
 2. Pada **Nameservers → Global nameservers**, klik **Add nameserver**.
@@ -25,6 +25,6 @@ Jika Kimi Claw kehilangan koneksi setelah Anda menyiapkan Tailscale, penyebabnya
 4. Aktifkan tombol **Override DNS Servers** di pojok kanan atas.
 5. Tunggu sekitar **30 detik** hingga koneksi pulih.
 
-## Cara mencegahnya？
+## Cara mencegahnya?
 
 Jika Anda baru akan menyiapkan Tailscale, atur pengaturan DNS di atas **sebelum** mengaktifkan Tailscale. Dengan begitu, koneksi tidak akan terganggu.

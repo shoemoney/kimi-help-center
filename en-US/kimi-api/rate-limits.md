@@ -19,7 +19,7 @@ Kimi API enforces rate limits on request frequency and concurrency to ensure pla
 
 API rate limits are tiered based on your account's **cumulative top-up amount** — the more you've topped up, the higher your available rate limits. For specific tier thresholds and corresponding RPM (requests per minute) and TPM (tokens per minute) limits, refer to the [platform.moonshot.ai](https://www.platform.moonshot.ai) console.
 
-## How to check current limits？
+## How to check current limits?
 
 - Log in to the API console to view your current rate limit tier.
 - API response headers also include rate limit information:

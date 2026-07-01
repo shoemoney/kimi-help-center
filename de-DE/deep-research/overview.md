@@ -18,7 +18,7 @@ preview_content: "Erfahren Sie, wie Deep Research eigenständig plant, recherchi
 **Deep Research** ist Kimis erstes Agent-Produkt, angetrieben vom Kimi-Researcher-Modell. Es beantwortet nicht nur Fragen – es arbeitet wie ein echter Forscher und durchläuft den gesamten Ablauf von der Aufgabenplanung bis zur Berichterstellung vollkommen selbstständig.
 </Callout>
 
-## Wie funktioniert Kimi-Research?
+## Wie funktioniert Kimi-Researcher?
 
 Für jede Frage durchläuft Kimi-Researcher eigenständig die gesamte Recherche-Pipeline:
 | Schritt | Beschreibung |

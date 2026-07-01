@@ -18,7 +18,7 @@ Opzioni di partnership per i clienti aziendali — dagli sconti sui volumi agli 
 </Callout>
 
 Kimi API offre una gamma di opzioni di partnership pensate per i clienti aziendali, per rispondere a esigenze di business di qualsiasi dimensione.
-## Come contattare il team commerciale？
+## Come contattare il team commerciale?
 Visita [platform.moonshot.ai/contact-sales](https://platform.moonshot.ai/contact-sales) per compilare un modulo di contatto. Il nostro team commerciale ti risponderà entro 1–2 giorni lavorativi.
 
 <Callout type="tip">

@@ -18,7 +18,7 @@ Kurumsal müşteriler için iş ortaklığı seçenekleri — hacim indirimlerin
 </Callout>
 
 Kimi API, her ölçekteki iş ihtiyacını karşılamak üzere kurumsal müşterilere çeşitli iş ortaklığı seçenekleri sunar.
-## Satış ekibiyle nasıl iletişime geçilir？
+## Satış ekibiyle nasıl iletişime geçilir?
 İletişim formu doldurmak için [platform.moonshot.ai/contact-sales](https://platform.moonshot.ai/contact-sales) adresini ziyaret edin. Satış ekibimiz 1–2 iş günü içinde sizinle iletişime geçecektir.
 
 <Callout type="tip">

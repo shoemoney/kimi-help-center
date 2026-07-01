@@ -39,7 +39,7 @@ Kimi Docs có khả năng xử lý văn bản mạnh mẽ và hiểu thấu đá
 - Chỉnh sửa và định dạng lại PDF có sẵn mà không cần phần mềm dàn trang chuyên dụng
 - Trích xuất thông tin cụ thể từ những tệp PDF dày hàng trăm trang
 - So sánh những khác biệt tinh tế giữa nhiều phiên bản hợp đồng
-### Cách sử dụng Kimi Docs？
+### Cách sử dụng Kimi Docs?
 **Điểm truy cập:**
 - Chung: Nhấn vào lối tắt Docs, Sheets hoặc Slides ở thanh bên hoặc khung trò chuyện
 - Chuyên biệt: Nhấn nút "Docs" ở dưới cùng khung trò chuyện
@@ -81,7 +81,7 @@ Kimi Sheets hiểu quan hệ giữa các ô, logic liên kết giữa các trang
 | **Hợp nhất đa nguồn** | Gộp 50 báo cáo Excel của các phòng ban khác nhau thành một bản tổng hợp công ty duy nhất |
 | **Nhập bằng ngôn ngữ tự nhiên** | Tự động tìm kiếm trên web kèm tạo bảng tính thông minh |
 
-### Cách sử dụng Kimi Sheets？
+### Cách sử dụng Kimi Sheets?
 Nhấn nút "Agent" ở dưới cùng khung trò chuyện, hoặc chọn lối tắt "Sheets" ở thanh bên.
 
 <Frames

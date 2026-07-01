@@ -38,7 +38,7 @@ Kimi K2.6 Agent è un assistente AI autonomo che gestisce attività complesse da
   alt="flusso di lavoro dell'agent"
 />
 
-## Come funziona？
+## Come funziona?
 1. **Pianificazione delle attività**: scompone la tua richiesta in sottoattività
 2. **Invocazione degli strumenti**: utilizza oltre 20 strumenti secondo necessità
 3. **Esecuzione autonoma**: porta a termine ricerca, progettazione e sviluppo

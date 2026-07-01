@@ -35,7 +35,7 @@ When your credits are exhausted:
   - Wait for your monthly credits to auto-refresh
   - Upgrade to a higher-tier membership for more credits
 
-## How to check credit usage？
+## How to check credit usage?
 - **Web**: Profile → Settings → Subscription
 - **App**: Profile → Membership Plan → Subscription
 What you can view:

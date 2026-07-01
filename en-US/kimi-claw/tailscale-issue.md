@@ -15,7 +15,7 @@ preview: false
 
 If Kimi Claw loses connectivity after you set up Tailscale, the cause is almost always a DNS override — Tailscale replaces the system's DNS settings, which breaks Kimi Claw's ability to resolve hostnames.
 
-## How to fix？
+## How to fix?
 
 1. Open the [Tailscale DNS settings page](https://login.tailscale.com/admin/dns).
 2. Under **Nameservers → Global nameservers**, click **Add nameserver**.
@@ -25,6 +25,6 @@ If Kimi Claw loses connectivity after you set up Tailscale, the cause is almost 
 4. Enable the **Override DNS Servers** toggle in the top-right corner.
 5. Wait about **30 seconds** for the connection to restore.
 
-## How to prevent？
+## How to prevent?
 
 If you're about to set up Tailscale, configure the DNS settings above **before** enabling Tailscale. This avoids any connectivity interruption.

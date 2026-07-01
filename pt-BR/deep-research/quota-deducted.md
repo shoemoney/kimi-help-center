@@ -20,7 +20,7 @@ O Deep Research diferencia entre "conversas padrão" e "execução de tarefas". 
 - **Método de cobrança**: Após selecionar uma tarefa do Deep Research, os créditos são descontados do pool compartilhado (outros recursos da assinatura). O Kimi Code utiliza um pool de créditos separado.
 - **Reembolso em caso de falha**: Se uma tarefa falhar (nenhum resultado válido retornado), clique no botão de feedback "👎". Nossa equipe verificará o problema e reembolsará os créditos correspondentes.
 
-## Como verificar os créditos restantes？
+## Como verificar os créditos restantes?
 
 Passe o cursor sobre o botão do modo Deep Research para ver seus créditos restantes gratuitos e pagos.
 

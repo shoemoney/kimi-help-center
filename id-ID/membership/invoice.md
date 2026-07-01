@@ -15,7 +15,7 @@ preview: false
 
 Kimi mendukung pembuatan faktur secara mandiri untuk pembayaran keanggotaan Anda.
 
-## Bagaimana cara mendapatkan faktur？
+## Bagaimana cara mendapatkan faktur?
 
 Faktur dikirim secara otomatis ke alamat email yang terdaftar pada penyedia pembayaran Anda (Airwallex, Stripe, Apple, atau Google).
 

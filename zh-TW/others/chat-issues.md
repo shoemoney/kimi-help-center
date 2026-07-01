@@ -59,5 +59,5 @@ Kimi 聊天視窗本身不會產生可下載的 Office 檔案：
 
 | 檔案類型 | 產生位置 |
 |-----------|-------------------|
-| **幻燈片** | 前往 [Kimi Slides](https://www.kimi.com/slides) —— 支援線上生成與下載 |
+| **簡報** | 前往 [Kimi Slides](https://www.kimi.com/slides) —— 支援線上生成與下載 |
 | **Word/Excel** | 使用 **Agent** 模式 |

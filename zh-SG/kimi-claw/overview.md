@@ -15,7 +15,7 @@ preview_content: "一键在云端部署并管理你自己的 Kimi Claw AI 助手
 # 产品概览
 
 <Callout type="info">
-**Kimi Claw** 是一款拥有独特个性与持久长期记忆的 AI 助手。借助 Kimi Claw，你可以直接在 Kimi 中创建、部署并对话你自己的 OpenClaw 实例。
+**Kimi Claw** 是一款拥有独特个性与持久长期记忆的 AI 助手。借助 Kimi Claw，你可以直接在 Kimi 中创建、部署你自己的 OpenClaw 实例，并与之对话。
 </Callout>
 
 <Frames

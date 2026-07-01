@@ -26,7 +26,7 @@ Olası önlemler şunlardır:
 | **Avantajlar** | Avantajların bir kısmını veya tamamını (ücretli avantajlar dahil) askıya alma ya da iptal etme |
 | **Hizmet** | Hizmeti reddetme, askıya alma veya sonlandırma |
 
-## Nasıl itiraz edebilirim？
+## Nasıl itiraz edebilirim?
 Sonuçla aynı fikirde değilseniz:
 
 <Callout type="info">

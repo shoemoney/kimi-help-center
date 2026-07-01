@@ -19,7 +19,7 @@ L'API Kimi applique des rate limits sur la fréquence des requêtes et la concur
 
 Les rate limits de l'API sont répartis en paliers selon le **montant cumulé des recharges** de votre compte : plus vous rechargez, plus vos rate limits sont élevés. Pour connaître les seuils de chaque palier ainsi que les limites RPM (requêtes par minute) et TPM (tokens par minute) correspondantes, consultez la console [platform.moonshot.ai](https://www.platform.moonshot.ai).
 
-## Comment vérifier vos limites actuelles ？
+## Comment vérifier vos limites actuelles ?
 
 - Connectez-vous à la console de l'API pour consulter votre palier de rate limit actuel.
 - Les en-têtes de réponse de l'API contiennent également des informations sur le rate limit :

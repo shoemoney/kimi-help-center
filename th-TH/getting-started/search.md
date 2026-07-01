@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Agentic Search สำหรับคำแนะนำและคำตอบ｜ศูนย์ช่วยเหลือ Kimi"
+  title="Agentic Search สำหรับคำแนะนำและคำตอบ - ศูนย์ช่วยเหลือ Kimi"
   description="Agentic Search ของ Kimi สร้างขึ้นบนสถาปัตยกรรม end-to-end agentic reinforcement learning ต่างจากแนวทางการจัดการเครื่องมือแบบเดิม โดยเปิดให้ AI..."
 />
 

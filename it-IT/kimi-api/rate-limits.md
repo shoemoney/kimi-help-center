@@ -19,7 +19,7 @@ Le API di Kimi applicano rate limit sulla frequenza delle richieste e sulla conc
 
 I rate limit delle API sono suddivisi in livelli in base all'**importo cumulativo di ricarica** del tuo account: più ricarichi, più alti sono i rate limit disponibili. Per le soglie specifiche di ciascun livello e i relativi limiti di RPM (richieste al minuto) e TPM (token al minuto), consulta la console di [platform.moonshot.ai](https://www.platform.moonshot.ai).
 
-## Come verificare i limiti attuali？
+## Come verificare i limiti attuali?
 
 - Accedi alla console API per visualizzare il tuo attuale livello di rate limit.
 - Anche le intestazioni delle risposte API includono informazioni sui rate limit:

@@ -15,7 +15,7 @@ preview: false
 
 Quando o contexto da conversa fica muito longo e ultrapassa o limite de tokens do modelo, o Kimi Claw pode parar de responder ou retornar um erro.
 
-**Como resolver：**
+**Como resolver:**
 
 - Envie `/new` para iniciar uma nova conversa e limpar o contexto atual.
 - Se o erro persistir após o `/new`, pode haver Skills demais carregadas na memória. Tente:

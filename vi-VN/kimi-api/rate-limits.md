@@ -19,7 +19,7 @@ Kimi API áp dụng giới hạn về tần suất và mức độ đồng thờ
 
 Giới hạn tần suất của API được phân bậc dựa trên **tổng số tiền nạp tích lũy** của tài khoản — nạp càng nhiều, giới hạn tần suất khả dụng càng cao. Để biết ngưỡng cụ thể của từng bậc cùng với giới hạn RPM (số yêu cầu mỗi phút) và TPM (số token mỗi phút) tương ứng, hãy tham khảo bảng điều khiển tại [platform.moonshot.ai](https://www.platform.moonshot.ai).
 
-## Cách kiểm tra giới hạn hiện tại？
+## Cách kiểm tra giới hạn hiện tại?
 
 - Đăng nhập vào bảng điều khiển API để xem bậc giới hạn tần suất hiện tại của bạn.
 - Header phản hồi của API cũng chứa thông tin về giới hạn tần suất:

@@ -17,7 +17,7 @@ preview: false
 O Deep Research realiza buscas extensas na web, verificação de fontes e raciocínio. Uma página que não foi atualizada visualmente não significa que a tarefa foi interrompida.
 </Callout>
 
-## O que você pode fazer？
+## O que você pode fazer?
 
 1. **Atualize a página do navegador**
 2. **Saia temporariamente da conversa atual** (isso não afeta a execução da tarefa)

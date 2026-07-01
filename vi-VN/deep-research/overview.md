@@ -18,7 +18,7 @@ preview_content: "Khám phá cách Deep Research tự động lập kế hoạch
 **Deep Research** là sản phẩm Agent đầu tiên của Kimi, được vận hành bởi mô hình Kimi-Researcher. Nó không chỉ đơn thuần trả lời câu hỏi — mà làm việc như một nhà nghiên cứu thực thụ, tự động hoàn thành toàn bộ quy trình từ khâu lập kế hoạch cho đến khi giao báo cáo.
 </Callout>
 
-## Kimi-Research hoạt động như thế nào?
+## Kimi-Researcher hoạt động như thế nào?
 
 Với mỗi câu hỏi, Kimi-Researcher tự mình hoàn tất toàn bộ chu trình nghiên cứu:
 | Bước | Mô tả |
@@ -73,7 +73,7 @@ Mỗi tác vụ nghiên cứu tạo ra hai sản phẩm:
 **Không phù hợp với**: Sáng tác văn học (tiểu thuyết, kịch bản), bói toán, viết hồ sơ xin việc, mẫu định dạng cố định, slide có thể chỉnh sửa
 </Callout>
 
-## Cách sử dụng Deep Research？
+## Cách sử dụng Deep Research?
 **Điểm truy cập**:
 - **Web**: [kimi.com/deep-research](https://www.kimi.com/deep-research)
 - **Di động**: Ứng dụng Kimi → Thanh tác vụ → chế độ Deep Research Agent

@@ -20,7 +20,7 @@ Deep Research distingue tra "conversazioni standard" ed "esecuzione di attività
 - **Metodo di addebito**: dopo aver selezionato un'attività Deep Research, i crediti vengono detratti dal pool condiviso (altre funzionalità dell'abbonamento). Kimi Code utilizza un pool di crediti separato.
 - **Rimborso in caso di errore**: se un'attività fallisce (nessun risultato valido restituito), fai clic sul pulsante di feedback "👎". Il nostro team verificherà il problema e rimborserà i crediti corrispondenti.
 
-## Come verificare i crediti rimanenti？
+## Come verificare i crediti rimanenti?
 
 Passa il mouse sul pulsante della modalità Deep Research per visualizzare i tuoi crediti rimanenti, sia gratuiti che a pagamento.
 

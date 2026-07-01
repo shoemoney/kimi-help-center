@@ -19,7 +19,7 @@ Nếu hướng tìm kiếm hoặc suy luận của Deep Research lệch quá nhi
 
 Đội ngũ của chúng tôi sẽ xem xét trong vòng 1–3 ngày làm việc. Nếu xác nhận đúng, tín dụng cho tác vụ đó sẽ được tự động hoàn lại.
 
-## Làm sao để giảm tình trạng lệch hướng？
+## Làm sao để giảm tình trạng lệch hướng?
 
 Khi gửi câu hỏi:
 

@@ -19,7 +19,7 @@ Se la direzione di ricerca o il ragionamento di Deep Research si discosta in mod
 
 Il nostro team effettuerà una verifica entro 1–3 giorni lavorativi. In caso di conferma, i crediti relativi a quell'attività verranno rimborsati automaticamente.
 
-## Come ridurre la deviazione dalla direzione？
+## Come ridurre la deviazione dalla direzione?
 
 Quando invii la tua domanda:
 

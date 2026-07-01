@@ -26,7 +26,7 @@ Possible actions include:
 | **Benefits** | Suspend or revoke some or all benefits (including paid benefits) |
 | **Service** | Refuse, suspend, or terminate service |
 
-## How to appeal？
+## How to appeal?
 If you disagree with the outcome:
 
 <Callout type="info">

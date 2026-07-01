@@ -18,7 +18,7 @@ preview_content: "了解 Deep Research 如何自主規劃、搜尋，並交付�
 **Deep Research** 是 Kimi 的首款 Agent 產品，由 Kimi-Researcher 模型驅動。它不只是回答問題，而是像真正的研究員一樣，自主完成從任務規劃到報告交付的完整流程。
 </Callout>
 
-## Kimi-Research 如何運作？
+## Kimi-Researcher 如何運作？
 
 面對每一個問題，Kimi-Researcher 都會獨立完成完整的研究流程：
 | 步驟 | 說明 |
@@ -70,7 +70,7 @@ Deep Research 以非同步方式運作，會花 10–25 分鐘逐步完成推理
 | **日常探索** | 了解感興趣的主題 |
 
 <Callout type="warning">
-**不適合**：創意寫作（小說、劇本）、算命、履歷撰寫、固定格式範本、可編輯幻燈片
+**不適合**：創意寫作（小說、劇本）、算命、履歷撰寫、固定格式範本、可編輯簡報
 </Callout>
 
 ## 如何使用 Deep Research？

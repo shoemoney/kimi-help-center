@@ -19,7 +19,7 @@ A Kimi API aplica limites de taxa sobre a frequência de requisições e a concu
 
 Os limites de taxa da API são organizados em níveis com base no **valor acumulado de recargas da sua conta** — quanto mais você recarrega, maiores são os rate limits disponíveis. Para conhecer os limiares específicos de cada nível e os respectivos limites de RPM (requisições por minuto) e TPM (tokens por minuto), consulte o console em [platform.moonshot.ai](https://www.platform.moonshot.ai).
 
-## Como verificar os limites atuais？
+## Como verificar os limites atuais?
 
 - Faça login no console da API para ver o nível de rate limit atual.
 - Os cabeçalhos de resposta da API também incluem informações sobre os limites de taxa:

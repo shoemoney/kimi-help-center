@@ -1,5 +1,5 @@
 ---
-title: "rate limit"
+title: "Rate limits"
 slug: "api-rate-limits"
 order: 5
 extract_headings: false
@@ -7,11 +7,11 @@ preview: false
 ---
 
 <SeoMeta
-  title="rate limit - Kimi ヘルプセンター"
+  title="Rate limits - Kimi ヘルプセンター"
   description="Kimi API では、プラットフォームの安定性と公平な利用を保つため、リクエスト頻度と concurrency に rate limit を設けています。rate limit の階層は、アカウントの..."
 />
 
-# rate limit
+# Rate limits
 
 Kimi API では、プラットフォームの安定性と公平な利用を保つため、リクエスト頻度と concurrency に rate limit を設けています。rate limit の階層は、アカウントの累計チャージ額に基づいて決まります。
 

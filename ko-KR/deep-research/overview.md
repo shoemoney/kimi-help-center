@@ -18,7 +18,7 @@ preview_content: "Deep Research가 스스로 계획하고 검색하며 10,000단
 **Deep Research**는 Kimi-Researcher 모델로 구동되는 Kimi의 첫 Agent 제품입니다. 단순히 질문에 답하는 데 그치지 않고, 실제 연구자처럼 작업 계획부터 보고서 전달까지 전체 워크플로를 자율적으로 수행합니다.
 </Callout>
 
-## Kimi-Research는 어떻게 작동하나요?
+## Kimi-Researcher는 어떻게 작동하나요?
 
 모든 질문에 대해 Kimi-Researcher는 전체 연구 파이프라인을 독립적으로 수행합니다.
 | 단계 | 설명 |

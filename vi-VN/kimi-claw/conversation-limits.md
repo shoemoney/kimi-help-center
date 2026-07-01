@@ -15,7 +15,7 @@ preview: false
 
 Khi ngữ cảnh cuộc trò chuyện trở nên quá dài và vượt quá giới hạn token của mô hình, Kimi Claw có thể ngừng phản hồi hoặc trả về lỗi.
 
-**Cách khắc phục：**
+**Cách khắc phục:**
 
 - Gửi `/new` để bắt đầu một cuộc trò chuyện mới và xóa ngữ cảnh hiện tại.
 - Nếu lỗi vẫn còn sau khi dùng `/new`, có thể quá nhiều Skills đã được nạp vào bộ nhớ. Hãy thử:

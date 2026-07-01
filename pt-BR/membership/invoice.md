@@ -15,7 +15,7 @@ preview: false
 
 A Kimi permite gerar faturas de forma autônoma para seus pagamentos de assinatura.
 
-## Como obter uma fatura？
+## Como obter uma fatura?
 
 As faturas são enviadas automaticamente para o endereço de e-mail cadastrado junto ao seu provedor de pagamento (Airwallex, Stripe, Apple ou Google).
 

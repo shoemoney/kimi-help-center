@@ -17,7 +17,7 @@ preview: false
 Deep Research performs extensive web searches, source verification, and reasoning. A page that hasn't visually updated does not mean the task has been interrupted.
 </Callout>
 
-## What you can do？
+## What you can do?
 
 1. **Refresh the browser page**
 2. **Temporarily leave the current conversation** (this does not affect task execution)

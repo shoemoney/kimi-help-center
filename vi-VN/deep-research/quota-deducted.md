@@ -20,7 +20,7 @@ Deep Research phân biệt giữa "trò chuyện thông thường" và "thực t
 - **Cách tính phí**: Sau khi chọn một tác vụ Deep Research, tín dụng sẽ được trừ từ kho dùng chung (các tính năng thành viên khác). Kimi Code dùng kho tín dụng riêng.
 - **Hoàn lại khi thất bại**: Nếu một tác vụ thất bại (không trả về kết quả hợp lệ), hãy nhấn nút phản hồi "👎". Đội ngũ của chúng tôi sẽ kiểm tra vấn đề và hoàn lại số tín dụng tương ứng.
 
-## Làm thế nào để kiểm tra số tín dụng còn lại？
+## Làm thế nào để kiểm tra số tín dụng còn lại?
 
 Di chuột qua nút chế độ Deep Research để xem số tín dụng miễn phí và trả phí còn lại của bạn.
 

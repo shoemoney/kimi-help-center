@@ -32,7 +32,7 @@ Ao compreender entradas visuais (mockups de UI, capturas de tela, vídeos de int
 | **Seleção de modelos** | Diversos modelos predefinidos para criar sites rapidamente |
 | **Exportação de código** | Baixe os arquivos HTML/CSS/JS empacotados para hospedar por conta própria |
 
-## Como usar o Kimi Websites？
+## Como usar o Kimi Websites?
 
 ### Método 1: acesse a página do Kimi Websites
 

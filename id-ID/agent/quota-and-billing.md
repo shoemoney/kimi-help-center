@@ -35,7 +35,7 @@ Saat kredit Anda habis:
   - Menunggu kredit bulanan disegarkan otomatis
   - Meningkatkan ke keanggotaan tingkat lebih tinggi untuk kredit lebih banyak
 
-## Cara memeriksa pemakaian kredit？
+## Cara memeriksa pemakaian kredit?
 - **Web**: Profil → Pengaturan → Langganan
 - **Aplikasi**: Profil → Paket Keanggotaan → Langganan
 Yang dapat Anda lihat:

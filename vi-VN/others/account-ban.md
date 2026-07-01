@@ -26,7 +26,7 @@ Các biện pháp có thể áp dụng bao gồm:
 | **Quyền lợi** | Tạm dừng hoặc thu hồi một phần hoặc toàn bộ quyền lợi (bao gồm cả quyền lợi trả phí) |
 | **Dịch vụ** | Từ chối, tạm dừng hoặc chấm dứt dịch vụ |
 
-## Khiếu nại như thế nào？
+## Khiếu nại như thế nào?
 Nếu bạn không đồng ý với kết quả xử lý:
 
 <Callout type="info">

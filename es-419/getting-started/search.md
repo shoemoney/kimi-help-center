@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Búsqueda agéntica para guías y respuestas｜Centro de ayuda de Kimi"
+  title="Búsqueda agéntica para guías y respuestas - Centro de ayuda de Kimi"
   description="La búsqueda agéntica de Kimi se basa en una arquitectura de aprendizaje por refuerzo agéntico de extremo a extremo. A diferencia de los enfoques tradicionales de orquestación de herramientas, permite que la IA..."
 />
 

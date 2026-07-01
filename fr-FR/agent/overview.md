@@ -38,7 +38,7 @@ Kimi K2.6 Agent est un assistant IA autonome qui mène à bien des tâches compl
   alt="flux de travail de l'agent"
 />
 
-## Comment ça marche ？
+## Comment ça marche ?
 1. **Planification des tâches** : décompose votre demande en sous-tâches
 2. **Appel d'outils** : utilise plus de 20 outils selon les besoins
 3. **Exécution autonome** : mène à bien la recherche, la conception et le développement

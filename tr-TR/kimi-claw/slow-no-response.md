@@ -25,7 +25,7 @@ Kimi Claw yanıt vermiyorsa ya da olağandışı şekilde yavaşsa, bunun birka�
 | **Kaynak meşgul** | Sunucu yükü yüksektir; yanıtlar gecikebilir |
 | **Örnek çevrimdışı** | Kimi Claw örneği çevrimdışı olmuştur ve onarılması gerekir |
 
-## Nasıl düzeltilir？
+## Nasıl düzeltilir?
 
 Sorun çözülene kadar bu adımları sırayla uygulayın:
 

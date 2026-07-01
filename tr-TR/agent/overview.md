@@ -38,7 +38,7 @@ Kimi K2.6 Agent, karmaşık görevleri baştan sona üstlenen otonom bir yapay z
   alt="agent iş akışı"
 />
 
-## Nasıl çalışır？
+## Nasıl çalışır?
 1. **Görev Planlama**: Talebinizi alt görevlere ayırır
 2. **Araç Çağırma**: Gerektikçe 20'den fazla aracı kullanır
 3. **Otonom Yürütme**: Araştırma, tasarım ve geliştirme işlerini tamamlar

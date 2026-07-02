@@ -39,7 +39,7 @@ Son konuşmaya devam etmek için `--continue` (veya `-c`) bayrağını kullanın
     {
       name: "command.sh",
       language: "bash",
-      content: "kimi --session \u003csession-id\u003e",
+      content: "kimi --session <session-id>",
     },
   ]}
 />

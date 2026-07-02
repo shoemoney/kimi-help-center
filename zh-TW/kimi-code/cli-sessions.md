@@ -39,7 +39,7 @@ Kimi Code CLI 支援多工作階段管理與脈絡持久化，讓你隨時暫停
     {
       name: "command.sh",
       language: "bash",
-      content: "kimi --session \u003csession-id\u003e",
+      content: "kimi --session <session-id>",
     },
   ]}
 />

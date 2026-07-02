@@ -39,7 +39,7 @@ Kimi Code CLI는 다중 세션 관리와 컨텍스트 유지를 지원하여 언
     {
       name: "command.sh",
       language: "bash",
-      content: "kimi --session \u003csession-id\u003e",
+      content: "kimi --session <session-id>",
     },
   ]}
 />

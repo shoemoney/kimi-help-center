@@ -39,7 +39,7 @@ Usa la opción `--continue` (o `-c`) para continuar la última conversación.
     {
       name: "command.sh",
       language: "bash",
-      content: "kimi --session \u003csession-id\u003e",
+      content: "kimi --session <session-id>",
     },
   ]}
 />

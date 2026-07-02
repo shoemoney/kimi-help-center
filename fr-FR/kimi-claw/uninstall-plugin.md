@@ -26,7 +26,7 @@ Exécutez la commande suivante sur l'appareil où OpenClaw est installé :
     {
       name: "command.sh",
       language: "bash",
-      content: "bash \u003c(curl -fsSL https://cdn.kimi.com/kimi-claw/uninstall.sh)",
+      content: "bash <(curl -fsSL https://cdn.kimi.com/kimi-claw/uninstall.sh)",
     },
   ]}
 />

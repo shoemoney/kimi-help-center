@@ -39,7 +39,7 @@ Dùng cờ `--continue` (hoặc `-c`) để tiếp tục cuộc trò chuyện g�
     {
       name: "command.sh",
       language: "bash",
-      content: "kimi --session \u003csession-id\u003e",
+      content: "kimi --session <session-id>",
     },
   ]}
 />

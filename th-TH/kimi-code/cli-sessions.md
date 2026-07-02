@@ -39,7 +39,7 @@ Kimi Code CLI รองรับการจัดการหลายเซส
     {
       name: "command.sh",
       language: "bash",
-      content: "kimi --session \u003csession-id\u003e",
+      content: "kimi --session <session-id>",
     },
   ]}
 />

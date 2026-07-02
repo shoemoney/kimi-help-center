@@ -39,7 +39,7 @@ Verwenden Sie das Flag `--continue` (oder `-c`), um die letzte Unterhaltung fort
     {
       name: "command.sh",
       language: "bash",
-      content: "kimi --session \u003csession-id\u003e",
+      content: "kimi --session <session-id>",
     },
   ]}
 />

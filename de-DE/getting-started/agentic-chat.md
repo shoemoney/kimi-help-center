@@ -21,7 +21,7 @@ Im Chatfenster können Sie Fragen stellen, Dateien hochladen oder je nach Bedarf
     {
       name: "prompt.txt",
       language: "text",
-      content: "Hi, Kimi!",
+      content: "Hallo, Kimi!",
     },
   ]}
 />

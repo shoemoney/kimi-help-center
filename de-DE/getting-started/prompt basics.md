@@ -53,7 +53,7 @@ Wenn Sie konkrete Formatvorstellungen haben, ist es äußerst wirksam, Kimi ein 
     {
       name: "prompt.txt",
       language: "text",
-      content: "Please organize the meeting notes in this format:\n\nMeeting Topic: xxx\nAttendees: xxx\nKey Decisions:\nxxx\nxxxAction Items:\n[ ] xxx (Owner: xxx, Deadline: xxx)",
+      content: "Bitte strukturiere die Besprechungsnotizen in diesem Format:\n\nBesprechungsthema: xxx\nTeilnehmer: xxx\nWichtige Entscheidungen:\nxxx\nxxxAufgaben:\n[ ] xxx (Verantwortlich: xxx, Frist: xxx)",
     },
   ]}
 />
@@ -66,7 +66,7 @@ Zerlegen Sie komplexe Aufgaben in kleinere Schritte und führen Sie Kimi nachein
     {
       name: "prompt.txt",
       language: "text",
-      content: "I need a competitive analysis report. Please follow these steps:\nList the top 3 domestic competitors and their core features\nCompare their pricing strategies\nAnalyze each product's strengths and weaknesses\nProvide differentiation recommendations for our product",
+      content: "Ich benötige einen Bericht zur Wettbewerbsanalyse. Bitte befolge diese Schritte:\nListe die drei wichtigsten inländischen Wettbewerber und ihre Kernfunktionen auf\nVergleiche ihre Preisstrategien\nAnalysiere die Stärken und Schwächen jedes Produkts\nGib Empfehlungen zur Differenzierung für unser Produkt",
     },
   ]}
 />
@@ -122,7 +122,7 @@ Hier finden Sie einige sofort einsetzbare Prompt-Vorlagen – kopieren, anpassen
     {
       name: "prompt.txt",
       language: "text",
-      content: "Write a [article type] about [topic] for [target audience], approximately [xxx] words.\nRequirements: [style/format/focus areas]",
+      content: "Schreibe einen [article type] über [topic] für [target audience], mit etwa [xxx] Wörtern.\nAnforderungen: [style/format/focus areas]",
     },
   ]}
 />
@@ -134,7 +134,7 @@ Hier finden Sie einige sofort einsetzbare Prompt-Vorlagen – kopieren, anpassen
     {
       name: "prompt.txt",
       language: "text",
-      content: "Analyze [subject], focusing on [key dimensions].\nOutput format: [table/chart/report]\nInclude conclusions and recommendations.",
+      content: "Analysiere [subject] mit Schwerpunkt auf [key dimensions].\nAusgabeformat: [table/chart/report]\nFüge Schlussfolgerungen und Empfehlungen hinzu.",
     },
   ]}
 />
@@ -146,7 +146,7 @@ Hier finden Sie einige sofort einsetzbare Prompt-Vorlagen – kopieren, anpassen
     {
       name: "prompt.txt",
       language: "text",
-      content: "Translate the following into [target language], maintaining a [academic/conversational/business] tone.\nInclude the original term in parentheses for domain-specific terminology.",
+      content: "Übersetze den folgenden Text ins [target language] und bewahre einen [academic/conversational/business] Ton.\nGib bei Fachterminologie den Originalbegriff in Klammern an.",
     },
   ]}
 />

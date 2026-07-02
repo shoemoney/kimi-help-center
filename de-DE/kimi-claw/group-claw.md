@@ -152,7 +152,7 @@ Gruppenregeln sind die dauerhaften Anweisungen für Ihren Gruppenchat. Kimi und 
     {
       name: "prompt.txt",
       language: "text",
-      content: "Kimi, set the language of all reports to English.",
+      content: "Kimi, stelle die Sprache aller Berichte auf Deutsch ein.",
     },
   ]}
 />
@@ -162,7 +162,7 @@ Gruppenregeln sind die dauerhaften Anweisungen für Ihren Gruppenchat. Kimi und 
     {
       name: "prompt.txt",
       language: "text",
-      content: "All future analyses must include data sources.",
+      content: "Alle künftigen Analysen müssen Datenquellen enthalten.",
     },
   ]}
 />
@@ -198,7 +198,7 @@ Ihre Aufgabe umfasst ein komplettes Projekt – das Durchsuchen mehrerer Quellen
     {
       name: "prompt.txt",
       language: "text",
-      content: "Help me create a 4-day, 3-night travel guide for Paris, including restaurant and hotel recommendations, daily itinerary, and an interactive website with all attractions marked on a map.",
+      content: "Hilf mir, einen Reiseführer für 4 Tage und 3 Nächte in Paris zu erstellen, einschließlich Restaurant- und Hotelempfehlungen, eines Tagesprogramms und einer interaktiven Website, auf der alle Sehenswürdigkeiten auf einer Karte markiert sind.",
     },
   ]}
 />
@@ -212,7 +212,7 @@ Statt eine KI um eine ausgewogene Empfehlung zu bitten, lassen Sie verschiedene 
     {
       name: "prompt.txt",
       language: "text",
-      content: "I'm deciding whether to take on an outsourcing project. Have several Claws analyze it from the angles of money, time cost, and long-term career impact to help me make a clear decision.",
+      content: "Ich überlege, ob ich ein Outsourcing-Projekt annehmen soll. Lass mehrere Claws es aus den Blickwinkeln Geld, Zeitaufwand und langfristige Auswirkungen auf die Karriere analysieren, damit ich eine klare Entscheidung treffen kann.",
     },
   ]}
 />
@@ -226,7 +226,7 @@ Sie haben eine klare kreative Richtung und benötigen unterschiedliche Fachkompe
     {
       name: "prompt.txt",
       language: "text",
-      content: "I'm producing a podcast episode. Have one Claw research the topic and draft an outline, one write the script, and one produce the cover image design brief.",
+      content: "Ich produziere eine Podcast-Folge. Lass einen Claw das Thema recherchieren und eine Gliederung entwerfen, einen das Skript schreiben und einen das Briefing für das Cover-Design erstellen.",
     },
   ]}
 />
@@ -240,7 +240,7 @@ Kein Aufgabenziel – nur Claws, die ganz in bestimmte Charaktere eintauchen und
     {
       name: "prompt.txt",
       language: "text",
-      content: "Have Claws in the group play Socrates, Nietzsche, and Laozi. I'll pose a question and you debate it from your respective philosophical stances.",
+      content: "Lass die Claws in der Gruppe Sokrates, Nietzsche und Laozi verkörpern. Ich stelle eine Frage und ihr debattiert sie aus euren jeweiligen philosophischen Positionen.",
     },
   ]}
 />
@@ -254,7 +254,7 @@ Mehrere Claws verbinden sich mit unterschiedlichen Datenquellen und Geräten und
     {
       name: "prompt.txt",
       language: "text",
-      content: "Every morning at 9:00 AM: one Claw reads today's weather and calendar, one suggests an outfit based on the schedule, and one lists the three most important things for the day — then announce it all via the home speaker.",
+      content: "Jeden Morgen um 9:00 Uhr: Ein Claw liest das heutige Wetter und den Kalender, einer schlägt basierend auf dem Terminplan ein Outfit vor und einer nennt die drei wichtigsten Dinge des Tages — und dann wird alles über den Lautsprecher zu Hause angesagt.",
     },
   ]}
 />
@@ -274,7 +274,7 @@ Wenn der Einzelchat normal reagiert, können Sie Kimi bitten, die Gruppensitzung
     {
       name: "prompt.txt",
       language: "text",
-      content: "Please find the groupId of the group \"xxx Chat Room\" and check the status of the group chat session.",
+      content: "Finde bitte die groupId der Gruppe \"xxx Chat Room\" und überprüfe den Status der Gruppenchat-Sitzung.",
     },
   ]}
 />

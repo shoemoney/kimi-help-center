@@ -98,7 +98,7 @@ Nach der Installation sollte WebBridge in der Erweiterungsliste Ihres Browsers e
     {
       name: "prompt.txt",
       language: "text",
-      content: "Use Kimi Webbridge and open Xiaohongshu, search for posts about the Kimi K2.6 release",
+      content: "Verwende Kimi WebBridge, um Xiaohongshu zu öffnen, und suche nach Beiträgen über die Veröffentlichung von Kimi K2.6",
     },
   ]}
 />
@@ -144,7 +144,7 @@ Sobald die Erweiterung verbunden ist, können Sie Anweisungen erteilen.
     {
       name: "prompt.txt",
       language: "text",
-      content: "Use Kimi WebBridge open X.com and search for posts about the Kimi K2.6 release",
+      content: "Verwende Kimi WebBridge, um X.com zu öffnen, und suche nach Beiträgen über die Veröffentlichung von Kimi K2.6",
     },
   ]}
 />

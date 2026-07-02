@@ -31,23 +31,31 @@ Additional seats purchased during the subscription period are prorated based on 
 
 ## Core Benefits
 
+- Minimum order of 5 seats
+- Enterprise-grade data privacy protection
+- Priority access to experimental features: Agent Swarm / Kimi Claw / Professional Database
+- 2x monthly Agent credits
+- Agent multi-tasking
+- Kimi Code 5x credits
+- Dedicated technical support
+
 ### AI Capabilities
 
 | Benefit | Credits |
 |---------|-------|
-| Agent Usage | 4x (approx. 150/month) |
-| Concurrent Agent Tasks | 2 tasks |
+| Agent Usage | 2x monthly credits |
+| Concurrent Agent Tasks | Multi-tasking (2 tasks) |
 | Priority Queue | 4x speed |
-| Agent Cluster | 50 times/month, 4 parallel subtasks |
-| Kimi Code | 20x credits |
+| Agent Swarm | Up to 4 parallel subtasks |
+| Kimi Code | 5x credits |
 | Kimi Claw | One-click deployment of dedicated AI assistant, supporting Web and Android |
-| Professional Database | 5,000 times/month, covering financial, economic, and academic data sources |
+| Professional Database | Covering financial, economic, and academic data sources |
 
 ### Enterprise Features
 
 - **Data Privacy Protection**: Enterprise data is not used for model training, ensuring business information security
 - **Member Management**: Administrators can invite and remove members, flexibly allocating seats
-- **Workspace**: Complete isolation between personal and enterprise data, with workspace switching support
+- **Dedicated Technical Support**: Enterprise customers receive dedicated technical support
 
 ## Member Management
 
@@ -97,7 +105,7 @@ When switching workspaces, the page automatically refreshes to load data and ben
 
 <Callout type="warning">
 
-Platform Support: Web fully supports Kimi Business features. Mobile and desktop clients support personal membership only; enterprise features are not available.
+Platform Support: Web and desktop clients support Kimi Business enterprise features. The mobile app currently supports personal membership only; enterprise features are not available there.
 
 </Callout>
 

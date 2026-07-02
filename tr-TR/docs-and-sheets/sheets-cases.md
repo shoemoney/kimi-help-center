@@ -33,7 +33,7 @@ Kimi, tıpkı bir finansal analist gibi gerçek finansal verileri toplar, bir DC
     {
       name: "prompt.md",
       language: "markdown",
-      content: "Perform a DCF valuation of XX Healthcare. Put the entire valuation process and data\ninto an Excel spreadsheet, cite data sources, provide the reasoning behind estimated\nfigures such as market size, growth rates, and market share, and incorporate macro\nenvironment analysis.",
+      content: "XX Healthcare için bir DCF değerlemesi yap. Tüm değerleme sürecini ve verileri\nbir Excel elektronik tablosuna aktar, veri kaynaklarını belirt, pazar büyüklüğü, büyüme oranları ve pazar payı gibi\ntahmini rakamların ardındaki gerekçeyi açıkla ve makroekonomik ortam analizini de dahil et.",
     },
   ]}
 />
@@ -54,7 +54,7 @@ Kimi, tıpkı bir storyboard sanatçısı gibi süre, çekim açıklamaları, d�
     {
       name: "prompt.md",
       language: "markdown",
-      content: "Create a storyboard script in Excel for a 3D promotional video about Kimi AI's new\nupgrade — OK Computer — which supports generating and editing Office documents\n(e.g., long-form thesis formatting in Word, data modeling and analysis in Excel,\nautomatic slide generation).\n\nThe Excel should include:\nColumn A: Sequence number (1-20)\nColumn B: Cumulative duration (seconds)\nColumn C: Shot duration (seconds)\nColumn D: Shot description (3D / camera movement)\nColumn E: Narration/text (use different background colors to distinguish narration\nfrom on-screen text)\nColumn F: Sound effects/BGM (use different font colors to distinguish)\nColumn G: Storyboard frames (generate an image for each shot — maintain visual\nconsistency using the classic black-and-white line sketch style)\n\nPlease design the creative outline, script, and storyboards independently, then\ngenerate frames to complete this script, presented in a polished Excel format.",
+      content: "Kimi AI'nin yeni sürümü olan OK Computer hakkında bir 3D tanıtım videosu için Excel'de bir\nstoryboard senaryosu oluştur — bu sürüm Office belgeleri oluşturmayı ve düzenlemeyi destekler\n(ör. Word'de uzun tez biçimlendirme, Excel'de veri modelleme ve analizi,\notomatik slayt oluşturma).\n\nExcel şunları içermeli:\nA Sütunu: sıra numarası (1-20)\nB Sütunu: kümülatif süre (saniye)\nC Sütunu: çekim süresi (saniye)\nD Sütunu: çekim açıklaması (3D / kamera hareketi)\nE Sütunu: anlatı/metin (anlatıyı ekrandaki metinden ayırmak için farklı arka plan renkleri kullan)\nF Sütunu: ses efektleri/fon müziği (ayırt etmek için farklı yazı tipi renkleri kullan)\nG Sütunu: storyboard kareleri (her çekim için bir görsel oluştur — klasik siyah beyaz çizgi eskiz stilini kullanarak görsel tutarlılığı koru)\n\nYaratıcı taslağı, senaryoyu ve storyboardları bağımsız olarak tasarla, ardından\nbu senaryoyu tamamlamak için kareleri oluştur ve her şeyi özenli bir Excel biçiminde sun.",
     },
   ]}
 />

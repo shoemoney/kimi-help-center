@@ -53,7 +53,7 @@ Biçimlendirmeye dair belirli beklentileriniz olduğunda, Kimi'ye bir örnek ver
     {
       name: "prompt.txt",
       language: "text",
-      content: "Please organize the meeting notes in this format:\n\nMeeting Topic: xxx\nAttendees: xxx\nKey Decisions:\nxxx\nxxxAction Items:\n[ ] xxx (Owner: xxx, Deadline: xxx)",
+      content: "Toplantı notlarını şu biçimde düzenle:\n\nToplantı Konusu: xxx\nKatılımcılar: xxx\nÖnemli Kararlar:\nxxx\nxxxEylem Maddeleri:\n[ ] xxx (Sorumlu: xxx, Son Tarih: xxx)",
     },
   ]}
 />
@@ -66,7 +66,7 @@ Karmaşık görevlerde işi daha küçük adımlara ayırın ve Kimi'ye bu adım
     {
       name: "prompt.txt",
       language: "text",
-      content: "I need a competitive analysis report. Please follow these steps:\nList the top 3 domestic competitors and their core features\nCompare their pricing strategies\nAnalyze each product's strengths and weaknesses\nProvide differentiation recommendations for our product",
+      content: "Bir rekabet analizi raporuna ihtiyacım var. Şu adımları izle:\nEn önemli 3 yerli rakibi ve temel özelliklerini listele\nFiyatlandırma stratejilerini karşılaştır\nHer ürünün güçlü ve zayıf yönlerini analiz et\nKendi ürünümüz için farklılaşma önerileri sun",
     },
   ]}
 />
@@ -122,7 +122,7 @@ Bu sayede kendinizi tekrarlamak zorunda kalmazsınız; Kimi bu tercihleri sonrak
     {
       name: "prompt.txt",
       language: "text",
-      content: "Write a [article type] about [topic] for [target audience], approximately [xxx] words.\nRequirements: [style/format/focus areas]",
+      content: "[target audience] için [topic] hakkında yaklaşık [xxx] kelimelik bir [article type] yaz.\nGereksinimler: [style/format/focus areas]",
     },
   ]}
 />
@@ -134,7 +134,7 @@ Bu sayede kendinizi tekrarlamak zorunda kalmazsınız; Kimi bu tercihleri sonrak
     {
       name: "prompt.txt",
       language: "text",
-      content: "Analyze [subject], focusing on [key dimensions].\nOutput format: [table/chart/report]\nInclude conclusions and recommendations.",
+      content: "[key dimensions] üzerine odaklanarak [subject] konusunu analiz et.\nÇıktı biçimi: [table/chart/report]\nSonuçları ve önerileri dahil et.",
     },
   ]}
 />
@@ -146,7 +146,7 @@ Bu sayede kendinizi tekrarlamak zorunda kalmazsınız; Kimi bu tercihleri sonrak
     {
       name: "prompt.txt",
       language: "text",
-      content: "Translate the following into [target language], maintaining a [academic/conversational/business] tone.\nInclude the original term in parentheses for domain-specific terminology.",
+      content: "Aşağıdaki metni [academic/conversational/business] bir üslupla [target language] diline çevir.\nAlana özgü terimler için özgün terimi parantez içinde belirt.",
     },
   ]}
 />

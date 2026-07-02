@@ -21,7 +21,7 @@ Sohbet kutusuna sorularınızı yazabilir, dosya yükleyebilir veya ihtiyacını
     {
       name: "prompt.txt",
       language: "text",
-      content: "Hi, Kimi!",
+      content: "Selam Kimi!",
     },
   ]}
 />

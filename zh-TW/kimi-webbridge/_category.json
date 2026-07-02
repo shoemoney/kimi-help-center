@@ -1,11 +1,11 @@
 {
   "title": "Kimi WebBridge",
-  "description": "A browser extension for AI agents",
+  "description": "專為 AI Agent 設計的瀏覽器擴充功能",
   "seo": {
     "title": "Kimi WebBridge",
-    "description": "A browser extension for AI agents"
+    "description": "專為 AI Agent 設計的瀏覽器擴充功能"
   },
   "icon": "kimi-webbridge",
   "order": 4,
-  "note": "extract_headings: true/false in each md front matter controls whether ## headings are shown as sub-items on list pages"
+  "note": "每個 md front matter 中的 extract_headings 會控制 ## 標題是否在列表頁顯示為可展開項目"
 }

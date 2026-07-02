@@ -1,9 +1,9 @@
 {
   "title": "Kimi WebBridge",
-  "description": "A browser extension for AI agents",
+  "description": "Расширение браузера для ИИ-агентов",
   "seo": {
     "title": "Kimi WebBridge",
-    "description": "A browser extension for AI agents"
+    "description": "Расширение браузера для ИИ-агентов"
   },
   "icon": "kimi-webbridge",
   "order": 4,

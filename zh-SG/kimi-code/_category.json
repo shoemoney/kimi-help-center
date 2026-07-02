@@ -1,9 +1,9 @@
 {
   "title": "Kimi Code",
-  "description": "CLI agent, VS Code extension, IDE integration, third-party agents",
+  "description": "CLI 代理、VS Code 扩展、IDE 集成、第三方代理",
   "seo": {
     "title": "Kimi Code",
-    "description": "CLI agent, VS Code extension, IDE integration, third-party agents"
+    "description": "CLI 代理、VS Code 扩展、IDE 集成、第三方代理"
   },
   "icon": "kimi-code",
   "order": 10,

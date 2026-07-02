@@ -1,9 +1,9 @@
 {
   "title": "Getting Started",
-  "description": "Chat basics, model selection, web search, memory space, and presets",
+  "description": "Основы чата, выбор модели, веб-поиск, пространство памяти и предустановки",
   "seo": {
     "title": "Getting Started",
-    "description": "Chat basics, model selection, web search, memory space, and presets"
+    "description": "Основы чата, выбор модели, веб-поиск, пространство памяти и предустановки"
   },
   "icon": "getting-started",
   "order": 1,

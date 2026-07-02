@@ -1,9 +1,9 @@
 {
   "title": "Kimi Claw",
-  "description": "Your personal AI assistant — setup, chat platforms, memory, troubleshooting",
+  "description": "Ваш личный ИИ-ассистент — настройка, чат-платформы, память, устранение неполадок",
   "seo": {
     "title": "Kimi Claw",
-    "description": "Your personal AI assistant — setup, chat platforms, memory, troubleshooting"
+    "description": "Ваш личный ИИ-ассистент — настройка, чат-платформы, память, устранение неполадок"
   },
   "icon": "kimi-claw",
   "order": 3,

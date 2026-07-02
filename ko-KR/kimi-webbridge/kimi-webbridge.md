@@ -98,7 +98,7 @@ WebBridge는 로컬 브리지 서비스와 브라우저 확장 프로그램을 �
     {
       name: "prompt.txt",
       language: "text",
-      content: "Use Kimi Webbridge and open Xiaohongshu, search for posts about the Kimi K2.6 release",
+      content: "Kimi WebBridge로 Xiaohongshu를 열고 Kimi K2.6 출시에 관한 게시물을 검색해 줘",
     },
   ]}
 />
@@ -144,7 +144,7 @@ Windows 사용자라면 아래 명령어를 사용하세요.
     {
       name: "prompt.txt",
       language: "text",
-      content: "Use Kimi WebBridge open X.com and search for posts about the Kimi K2.6 release",
+      content: "Kimi WebBridge로 X.com을 열고 Kimi K2.6 출시에 관한 게시물을 검색해 줘",
     },
   ]}
 />

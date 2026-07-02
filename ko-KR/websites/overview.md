@@ -86,7 +86,7 @@ K2.6 Agent 모드로 전환하고 웹사이트 구축 작업을 입력하세요.
     {
       name: "prompt.txt",
       language: "text",
-      content: "Build a website for West Highland Terrier dogs with a black-and-white color scheme. Include three sections:\nA studio-quality photo calendar with AI-generated image display\nA \"Curly Lab\" care and grooming encyclopedia\nA merchandise store selling Westie-print hoodies and limited-edition silver-foil posters. The checkout page should include a charity module — donate $1 per item sold to stray dog rescue.",
+      content: "웨스트 하이랜드 테리어를 주제로 흑백 색상의 웹사이트를 만들어 줘. 다음 세 가지 섹션을 포함해:\nAI로 생성한 이미지를 보여 주는 스튜디오 퀄리티 사진 캘린더\n\"Curly Lab\" 관리 및 그루밍 백과사전\nWestie 프린트 후드티와 한정판 은박 포스터를 판매하는 굿즈 스토어. 결제 페이지에는 자선 모듈을 포함하고 — 판매되는 상품 1개당 $1을 유기견 구조에 기부해 줘.",
     },
   ]}
 />

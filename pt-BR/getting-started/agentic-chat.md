@@ -21,7 +21,7 @@ Abra [kimi.com](https://www.kimi.com) e experimente enviar uma mensagem — diga
     {
       name: "prompt.txt",
       language: "text",
-      content: "Hi, Kimi!",
+      content: "Oi, Kimi!",
     },
   ]}
 />

@@ -22,7 +22,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "I'm [name/nickname], currently based in [city]. Background in [profession/role], with expertise in [area 1] and [area 2].\nCurrently focused on: advancing [Project A] and [Project B].\nPlease default to English for all future responses unless I explicitly write in another language.",
+      content: "ฉันชื่อ [name/nickname] ปัจจุบันอาศัยอยู่ที่ [city] มีพื้นฐานด้าน [profession/role] เชี่ยวชาญใน [area 1] และ [area 2]\nปัจจุบันกำลังมุ่งเน้นที่: การผลักดัน [Project A] และ [Project B]\nโปรดตอบเป็นภาษาไทยโดยค่าเริ่มต้นสำหรับการตอบทุกครั้งต่อจากนี้ เว้นแต่ฉันจะเขียนเป็นภาษาอื่นอย่างชัดเจน",
     },
   ]}
 />
@@ -36,7 +36,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "My content consumption preferences:\n- Prefer structured presentation: use heading hierarchy, bullet points, and bold key conclusions\n- Avoid walls of text: for complex topics, lead with a \"TL;DR\" summary, then expand into details\n- Terminology handling: explain jargon in plain language on first use, then use it freely afterward\n- Citation format: cite sources for factual data using [^N^] notation",
+      content: "ความชอบในการรับเนื้อหาของฉัน:\n- ชอบการนำเสนอแบบมีโครงสร้าง: ใช้ลำดับชั้นของหัวข้อ หัวข้อย่อย และตัวหนาสำหรับข้อสรุปสำคัญ\n- หลีกเลี่ยงข้อความยาวเป็นพืด: สำหรับหัวข้อที่ซับซ้อน ให้เริ่มด้วยบทสรุป \"TL;DR\" ก่อน แล้วจึงขยายไปยังรายละเอียด\n- การจัดการศัพท์เฉพาะ: อธิบายศัพท์เฉพาะด้วยภาษาที่เข้าใจง่ายเมื่อใช้ครั้งแรก จากนั้นจึงใช้ได้อย่างอิสระ\n- รูปแบบการอ้างอิง: อ้างอิงแหล่งที่มาสำหรับข้อมูลเชิงข้อเท็จจริงโดยใช้สัญกรณ์ [^N^]",
     },
   ]}
 />
@@ -48,7 +48,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "At the end of each conversation:\n- If we discussed new important facts (e.g., schedule changes, project updates, preference adjustments), proactively ask whether to update memory\n- If new information conflicts with existing memory, flag the discrepancy and confirm which takes priority\n- For sensitive information (specific addresses, ID numbers, trade secrets), proactively ask whether to store it in memory",
+      content: "เมื่อจบการสนทนาแต่ละครั้ง:\n- หากเราพูดคุยเกี่ยวกับข้อเท็จจริงสำคัญใหม่ ๆ (เช่น การเปลี่ยนแปลงกำหนดการ การอัปเดตโครงการ การปรับเปลี่ยนความชอบ) ให้ถามเชิงรุกว่าควรอัปเดตหน่วยความจำหรือไม่\n- หากข้อมูลใหม่ขัดแย้งกับหน่วยความจำที่มีอยู่ ให้ชี้ให้เห็นความไม่สอดคล้องและยืนยันว่าสิ่งใดควรมีความสำคัญเหนือกว่า\n- สำหรับข้อมูลที่ละเอียดอ่อน (ที่อยู่ที่เจาะจง หมายเลขบัตรประชาชน ความลับทางการค้า) ให้ถามเชิงรุกว่าควรจัดเก็บไว้ในหน่วยความจำหรือไม่",
     },
   ]}
 />
@@ -62,7 +62,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "[Fact-Check Protocol]\nWhen I ask questions in the following domains, strictly follow this source priority:\n1. Medical/Health: Prefer PubMed, WHO, UpToDate; never cite health blogs or self-media\n2. Finance/Investment: Use only SEC filings, central bank data, and public company annual reports; no forum speculation\n3. Legal/Compliance: Refer to official regulatory databases; for local policies, note \"consult a local attorney\"\n4. Tech/Programming: Prefer official documentation; label GitHub Issues as community experience, not authoritative\n5. For information from Wikipedia, Reddit, Quora, or other UGC platforms, always tag as \"[Unverified]\"",
+      content: "[Fact-Check Protocol]\nเมื่อฉันถามคำถามในสาขาต่อไปนี้ ให้ปฏิบัติตามลำดับความสำคัญของแหล่งข้อมูลนี้อย่างเคร่งครัด:\n1. การแพทย์/สุขภาพ: ให้ความสำคัญกับ PubMed, WHO, UpToDate; อย่าอ้างอิงบล็อกสุขภาพหรือสื่อส่วนบุคคลเด็ดขาด\n2. การเงิน/การลงทุน: ใช้เฉพาะเอกสารที่ยื่นต่อ SEC ข้อมูลธนาคารกลาง และรายงานประจำปีของบริษัทมหาชน; ไม่ใช้การคาดเดาจากฟอรัม\n3. กฎหมาย/การปฏิบัติตามข้อกำหนด: อ้างอิงฐานข้อมูลกำกับดูแลอย่างเป็นทางการ; สำหรับนโยบายท้องถิ่น ให้หมายเหตุว่า \"ปรึกษาทนายความในพื้นที่\"\n4. เทคโนโลยี/การเขียนโปรแกรม: ให้ความสำคัญกับเอกสารทางการ; ระบุ GitHub Issues เป็นประสบการณ์จากชุมชน ไม่ใช่แหล่งที่เชื่อถือได้อย่างเป็นทางการ\n5. สำหรับข้อมูลจาก Wikipedia, Reddit, Quora หรือแพลตฟอร์ม UGC อื่น ๆ ให้ติดแท็ก \"[Unverified]\" เสมอ",
     },
   ]}
 />
@@ -74,7 +74,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "[High-Risk Topic Checklist]\nWhen the following keywords are detected, automatically trigger a \"double-check\" process:\n1. Specific numbers (prices, dates, statistics) → must state the data source and year\n2. Time-sensitive language (\"latest,\" \"just,\" \"recently\") → must verify whether it's within the knowledge cutoff\n3. Professional advice (medical, legal, investment) → must append disclaimer: \"The above is for reference only and does not constitute professional advice\"\n4. Specific quotes from individuals → must label as direct quote or paraphrase; never fabricate quotes\n\nExecution: First state \"I need to verify the following information,\" then provide the answer.",
+      content: "[High-Risk Topic Checklist]\nเมื่อตรวจพบคำสำคัญต่อไปนี้ ให้เริ่มกระบวนการ \"ตรวจสอบซ้ำ\" โดยอัตโนมัติ:\n1. ตัวเลขที่เจาะจง (ราคา วันที่ สถิติ) → ต้องระบุแหล่งข้อมูลและปี\n2. ภาษาที่ไวต่อเวลา (\"ล่าสุด\", \"เพิ่ง\", \"เมื่อเร็ว ๆ นี้\") → ต้องตรวจสอบว่าอยู่ภายในขอบเขตความรู้หรือไม่\n3. คำแนะนำเชิงวิชาชีพ (การแพทย์ กฎหมาย การลงทุน) → ต้องแนบข้อความปฏิเสธความรับผิด: \"ข้อมูลข้างต้นมีไว้เพื่อการอ้างอิงเท่านั้นและไม่ถือเป็นคำแนะนำเชิงวิชาชีพ\"\n4. การอ้างคำพูดที่เจาะจงจากบุคคล → ต้องระบุว่าเป็นการอ้างคำพูดโดยตรงหรือการถอดความ; อย่ากุคำพูดขึ้นเองเด็ดขาด\n\nการดำเนินการ: ก่อนอื่นให้ระบุว่า \"ฉันต้องตรวจสอบข้อมูลต่อไปนี้\" แล้วจึงให้คำตอบ",
     },
   ]}
 />

@@ -28,7 +28,7 @@ preview: false
     {
       name: "prompt.md",
       language: "markdown",
-      content: "You are a senior manuscript reviewer specializing in smart cities and regional planning.\nBelow is a set of specific review comments. Please carefully analyze these issues,\nlocate the corresponding paragraphs or figures in the attached Word document, and\ninsert the issues along with detailed revision suggestions as comments. Note: the\ncomments should read as if written by a human, not AI — avoid bullet-point formatting.\n\nPlease output the original manuscript with detailed comments.",
+      content: "คุณเป็นผู้ตรวจทานต้นฉบับอาวุโสที่เชี่ยวชาญด้านเมืองอัจฉริยะและการวางผังภูมิภาค\nด้านล่างนี้คือชุดความคิดเห็นการตรวจทานที่เฉพาะเจาะจง โปรดวิเคราะห์ประเด็นเหล่านี้อย่างรอบคอบ\nค้นหาย่อหน้าหรือรูปภาพที่เกี่ยวข้องในเอกสาร Word ที่แนบมา และ\nแทรกประเด็นเหล่านั้นพร้อมข้อเสนอแนะการแก้ไขโดยละเอียดในรูปแบบความคิดเห็น หมายเหตุ:\nความคิดเห็นควรอ่านราวกับเขียนโดยมนุษย์ ไม่ใช่ AI — หลีกเลี่ยงการจัดรูปแบบแบบหัวข้อย่อย\n\nโปรดแสดงผลต้นฉบับเดิมพร้อมความคิดเห็นโดยละเอียด",
     },
   ]}
 />
@@ -44,7 +44,7 @@ preview: false
     {
       name: "prompt.md",
       language: "markdown",
-      content: "Find the first assignment PDF for Stanford's CS336 course in English, then convert\nit to a French PDF. Preserve all code and mathematical formulas in the French version.\nThe translation should be fluent — do not omit or add any content.",
+      content: "ค้นหาไฟล์ PDF ของงานมอบหมายชิ้นแรกในวิชา CS336 ของ Stanford เป็นภาษาอังกฤษ จากนั้น\nแปลงเป็นไฟล์ PDF ภาษาฝรั่งเศส รักษาโค้ดและสูตรคณิตศาสตร์ทั้งหมดไว้ในเวอร์ชันภาษาฝรั่งเศส\nการแปลควรลื่นไหล — อย่าตัดทอนหรือเพิ่มเนื้อหาใด ๆ",
     },
   ]}
 />
@@ -63,7 +63,7 @@ preview: false
     {
       name: "prompt.md",
       language: "markdown",
-      content: "You are a curatorial publishing AI specializing in modern art, particularly Picasso studies.\nYour task: use extensive imagery to help viewers understand why Picasso must be revisited\nagain and again.\n\nOutput directly as a PDF.\n\nI. Core Requirements\nExtensive imagery\nEvery period, every artist reference, every movement must have supporting images\nPrioritize sourced images\nUse high-fidelity AI-generated images only when sourced images are unavailable\n\nII. Visual System\nMAP Logo as full-page watermark\nAsymmetric layout\nClear grid with controlled local disruption\nHigh-contrast black & white + primary color accents\n\nIII. Content Structure (generate all sections)\n1. Cover\nPicasso\nExhibition subtitle (English & Chinese)\nMAP Logo watermark\n\n2. Why Picasso (with images)\nPortraits of Picasso from different periods\nWorks from different periods juxtaposed\n\n3. Periods & Movements (image-centric)\nEach period must include 8–12 images:\nBlue Period\nRose Period\nCubism (Analytic / Synthetic)\nWar & Politics\nLate Experiments\n\nImage types:\nFull artwork\nDetail crops\nStructural deconstruction diagrams (AI-generated when needed)\n\n4. Key Works\nNo fewer than 25 works\nIndividual works may occupy full pages\nEmphasis on structure, perspective, and deconstruction\n\n5. How to Look at Picasso\nImage-based comparative explanations\nSide-by-side treatments of the same subject\n\n6. Exhibition Hall & Rhythm\nHigh-density viewing zones\nReflective buffer zones\n\n7. MAP's Contemporary Position\nWhy Shanghai needs Picasso\nWhy this moment matters",
+      content: "คุณเป็น AI ด้านการจัดพิมพ์เชิงภัณฑารักษ์ที่เชี่ยวชาญด้านศิลปะสมัยใหม่ โดยเฉพาะการศึกษาเกี่ยวกับปิกัสโซ\nภารกิจของคุณ: ใช้ภาพจำนวนมากเพื่อช่วยให้ผู้ชมเข้าใจว่าเหตุใดปิกัสโซจึงต้องถูกกลับมาพิจารณาใหม่\nครั้งแล้วครั้งเล่า\n\nแสดงผลเป็น PDF โดยตรง\n\nI. ข้อกำหนดหลัก\nภาพจำนวนมาก\nทุกยุค ทุกการอ้างอิงถึงศิลปิน และทุกกระแสความเคลื่อนไหวต้องมีภาพประกอบ\nให้ความสำคัญกับภาพที่มีแหล่งที่มา\nใช้ภาพที่สร้างโดย AI ความละเอียดสูงเฉพาะเมื่อไม่มีภาพจากแหล่งที่มา\n\nII. ระบบภาพ\nโลโก้ MAP เป็นลายน้ำเต็มหน้า\nเลย์เอาต์แบบอสมมาตร\nกริดที่ชัดเจนพร้อมการแทรกแตกเฉพาะจุดที่ควบคุมได้\nขาวดำคอนทราสต์สูง + การเน้นด้วยสีหลัก\n\nIII. โครงสร้างเนื้อหา (สร้างทุกส่วน)\n1. ปก\nปิกัสโซ\nคำบรรยายนิทรรศการ (English & Chinese)\nลายน้ำโลโก้ MAP\n\n2. ทำไมต้องปิกัสโซ (พร้อมภาพ)\nภาพเหมือนของปิกัสโซจากยุคต่าง ๆ\nผลงานจากยุคต่าง ๆ วางเคียงกัน\n\n3. ยุคและกระแสความเคลื่อนไหว (เน้นภาพเป็นหลัก)\nแต่ละยุคต้องมีภาพ 8 ถึง 12 ภาพ:\nยุคสีน้ำเงิน\nยุคสีชมพู\nคิวบิสม์ (เชิงวิเคราะห์ / เชิงสังเคราะห์)\nสงครามและการเมือง\nการทดลองในช่วงปลาย\n\nประเภทของภาพ:\nผลงานเต็ม\nภาพครอปรายละเอียด\nแผนภาพการรื้อสร้างเชิงโครงสร้าง (สร้างโดย AI เมื่อจำเป็น)\n\n4. ผลงานสำคัญ\nไม่น้อยกว่า 25 ชิ้น\nบางผลงานอาจใช้พื้นที่เต็มหน้า\nเน้นที่โครงสร้าง มุมมอง และการรื้อสร้าง\n\n5. วิธีมองปิกัสโซ\nคำอธิบายเชิงเปรียบเทียบที่อิงภาพ\nการนำเสนอหัวข้อเดียวกันแบบเคียงข้างกัน\n\n6. ห้องจัดแสดงและจังหวะ\nโซนชมที่มีความหนาแน่นสูง\nโซนพักเพื่อการใคร่ครวญ\n\n7. จุดยืนร่วมสมัยของ MAP\nทำไมเซี่ยงไฮ้จึงต้องการปิกัสโซ\nทำไมช่วงเวลานี้จึงสำคัญ",
     },
   ]}
 />

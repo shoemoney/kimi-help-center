@@ -152,7 +152,7 @@ OpenClaw จากบุคคลที่สามคือ Claw ที่ไ�
     {
       name: "prompt.txt",
       language: "text",
-      content: "Kimi, set the language of all reports to English.",
+      content: "Kimi ตั้งค่าภาษาของรายงานทั้งหมดเป็นภาษาไทย",
     },
   ]}
 />
@@ -162,7 +162,7 @@ OpenClaw จากบุคคลที่สามคือ Claw ที่ไ�
     {
       name: "prompt.txt",
       language: "text",
-      content: "All future analyses must include data sources.",
+      content: "การวิเคราะห์ทั้งหมดในอนาคตต้องมีแหล่งข้อมูลกำกับ",
     },
   ]}
 />
@@ -198,7 +198,7 @@ Kimi Conductor จะส่งผลลัพธ์สำคัญไปยั�
     {
       name: "prompt.txt",
       language: "text",
-      content: "Help me create a 4-day, 3-night travel guide for Paris, including restaurant and hotel recommendations, daily itinerary, and an interactive website with all attractions marked on a map.",
+      content: "ช่วยฉันสร้างคู่มือท่องเที่ยวปารีส 4 วัน 3 คืน รวมถึงคำแนะนำร้านอาหารและโรงแรม กำหนดการรายวัน และเว็บไซต์แบบอินเทอร์แอกทีฟที่ปักหมุดสถานที่ท่องเที่ยวทั้งหมดบนแผนที่",
     },
   ]}
 />
@@ -212,7 +212,7 @@ Kimi Conductor จะส่งผลลัพธ์สำคัญไปยั�
     {
       name: "prompt.txt",
       language: "text",
-      content: "I'm deciding whether to take on an outsourcing project. Have several Claws analyze it from the angles of money, time cost, and long-term career impact to help me make a clear decision.",
+      content: "ฉันกำลังตัดสินใจว่าจะรับโปรเจกต์เอาต์ซอร์สหรือไม่ ให้ Claw หลายตัวช่วยวิเคราะห์จากมุมของเงิน ต้นทุนเวลา และผลกระทบต่ออาชีพในระยะยาว เพื่อช่วยให้ฉันตัดสินใจได้อย่างชัดเจน",
     },
   ]}
 />
@@ -226,7 +226,7 @@ Kimi Conductor จะส่งผลลัพธ์สำคัญไปยั�
     {
       name: "prompt.txt",
       language: "text",
-      content: "I'm producing a podcast episode. Have one Claw research the topic and draft an outline, one write the script, and one produce the cover image design brief.",
+      content: "ฉันกำลังผลิตพอดแคสต์หนึ่งตอน ให้ Claw ตัวหนึ่งค้นคว้าหัวข้อและร่างโครงเรื่อง ตัวหนึ่งเขียนสคริปต์ และอีกตัวจัดทำบรีฟการออกแบบภาพปก",
     },
   ]}
 />
@@ -240,7 +240,7 @@ Kimi Conductor จะส่งผลลัพธ์สำคัญไปยั�
     {
       name: "prompt.txt",
       language: "text",
-      content: "Have Claws in the group play Socrates, Nietzsche, and Laozi. I'll pose a question and you debate it from your respective philosophical stances.",
+      content: "ให้ Claw ในกลุ่มสวมบทเป็นโสกราตีส นีตเชอ และเล่าจื๊อ ฉันจะตั้งคำถามแล้วพวกคุณโต้แย้งกันจากจุดยืนทางปรัชญาของแต่ละคน",
     },
   ]}
 />
@@ -254,7 +254,7 @@ Claw หลายตัวเชื่อมต่อกับแหล่งข
     {
       name: "prompt.txt",
       language: "text",
-      content: "Every morning at 9:00 AM: one Claw reads today's weather and calendar, one suggests an outfit based on the schedule, and one lists the three most important things for the day — then announce it all via the home speaker.",
+      content: "ทุกเช้าเวลา 9:00 น.: Claw ตัวหนึ่งอ่านสภาพอากาศและปฏิทินของวันนี้ ตัวหนึ่งแนะนำชุดแต่งกายตามกำหนดการ และอีกตัวลิสต์สามสิ่งที่สำคัญที่สุดของวัน — จากนั้นประกาศทั้งหมดผ่านลำโพงที่บ้าน",
     },
   ]}
 />
@@ -274,7 +274,7 @@ Claw หลายตัวเชื่อมต่อกับแหล่งข
     {
       name: "prompt.txt",
       language: "text",
-      content: "Please find the groupId of the group \"xxx Chat Room\" and check the status of the group chat session.",
+      content: "โปรดค้นหา groupId ของกลุ่ม \"xxx Chat Room\" และตรวจสอบสถานะของเซสชันแชทกลุ่ม",
     },
   ]}
 />

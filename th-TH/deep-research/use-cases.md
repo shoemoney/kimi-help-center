@@ -31,7 +31,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "I am a professional securities analyst. Please help me conduct an in-depth analysis of Pop Mart from a financial perspective. The analysis should include but not be limited to: 1. Company overview: business model, competitive moat, and industry position; 2. Industry overview, upstream/downstream dynamics, and future development; 3. Financial data: revenue and profit trends, influencing factors, balance sheet and cash flow; 4. Compliance record — any regulatory penalties, specific grounds, and associated risks; 5. Technical analysis: price trends, indicators, and support/resistance levels; 6. Market sentiment: ratings, public sentiment, and news impact; 7. Competitive comparison: key competitors, respective market shares and financial metrics; 8. Valuation and health: PE/PB/DCF valuation and reasonableness assessment; 9. Key risks: industry competition, policy, geopolitical, etc.",
+      content: "ผมเป็นนักวิเคราะห์หลักทรัพย์มืออาชีพ โปรดช่วยผมวิเคราะห์ Pop Mart เชิงลึกจากมุมมองด้านการเงิน การวิเคราะห์ควรครอบคลุมแต่ไม่จำกัดเพียง: 1. ภาพรวมบริษัท: โมเดลธุรกิจ ความได้เปรียบเชิงแข่งขัน (moat) และตำแหน่งในอุตสาหกรรม; 2. ภาพรวมอุตสาหกรรม พลวัตต้นน้ำ/ปลายน้ำ และการพัฒนาในอนาคต; 3. ข้อมูลการเงิน: แนวโน้มรายได้และกำไร ปัจจัยที่มีผล งบดุลและกระแสเงินสด; 4. ประวัติการปฏิบัติตามกฎเกณฑ์ — บทลงโทษจากหน่วยงานกำกับดูแลที่เคยมี เหตุผลเฉพาะ และความเสี่ยงที่เกี่ยวข้อง; 5. การวิเคราะห์ทางเทคนิค: แนวโน้มราคา ตัวชี้วัด และระดับแนวรับ/แนวต้าน; 6. อารมณ์ตลาด: อันดับความน่าเชื่อถือ ความรู้สึกของสาธารณชน และผลกระทบจากข่าว; 7. การเปรียบเทียบเชิงแข่งขัน: คู่แข่งหลัก ส่วนแบ่งตลาดและตัวชี้วัดทางการเงินของแต่ละราย; 8. การประเมินมูลค่าและสุขภาพทางการเงิน: การประเมินมูลค่าแบบ PE/PB/DCF และการประเมินความสมเหตุสมผล; 9. ความเสี่ยงหลัก: การแข่งขันในอุตสาหกรรม นโยบาย ภูมิรัฐศาสตร์ ฯลฯ",
     },
   ]}
 />
@@ -43,7 +43,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "Compare and analyze the product strategy differences between Notion and Obsidian",
+      content: "เปรียบเทียบและวิเคราะห์ความแตกต่างของกลยุทธ์ผลิตภัณฑ์ระหว่าง Notion และ Obsidian",
     },
   ]}
 />
@@ -55,7 +55,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "Conduct deep research on [Company Name]:\n1. Business model & core moat (competitive advantages, technology/channel edge, competitive landscape);\n2. Financial health (revenue structure, profitability, cash flow, key risk areas);\n3. Team & governance (founder background, equity structure, key talent);\n4. Market & policy (TAM/SAM/SOM, industry growth rate, regulatory environment);\n5. Risk identification (business, legal, exit barriers);\n6. Valuation reference (comparable companies, historical funding rounds, reasonable range).\nRequirements: Cite data sources, mark key conclusions with ⭐, list disputed points separately.",
+      content: "ทำการวิจัยเชิงลึกเกี่ยวกับ [Company Name]:\n1. โมเดลธุรกิจและความได้เปรียบหลัก (ข้อได้เปรียบเชิงแข่งขัน จุดแข็งด้านเทคโนโลยี/ช่องทาง ภูมิทัศน์การแข่งขัน);\n2. สุขภาพทางการเงิน (โครงสร้างรายได้ ความสามารถในการทำกำไร กระแสเงินสด พื้นที่ความเสี่ยงหลัก);\n3. ทีมและการกำกับดูแล (ภูมิหลังผู้ก่อตั้ง โครงสร้างผู้ถือหุ้น บุคลากรคนสำคัญ);\n4. ตลาดและนโยบาย (TAM/SAM/SOM อัตราการเติบโตของอุตสาหกรรม สภาพแวดล้อมด้านกฎระเบียบ);\n5. การระบุความเสี่ยง (ธุรกิจ กฎหมาย อุปสรรคในการถอนตัว);\n6. การอ้างอิงการประเมินมูลค่า (บริษัทที่เทียบเคียงได้ รอบการระดมทุนในอดีต ช่วงที่สมเหตุสมผล)\nข้อกำหนด: อ้างอิงแหล่งข้อมูล ทำเครื่องหมายข้อสรุปสำคัญด้วย ⭐ และแยกแสดงประเด็นที่ยังเป็นข้อถกเถียง",
     },
   ]}
 />
@@ -69,7 +69,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "I'm an in-house lawyer in a Chinese robotic company, and the management is considering expanding into Southeast Asian countries. However, I'm not quite confident about the data and privacy requirements in those countries. Could you help me list the names of the data and privacy laws of Southeast Asian countries (on a country-by-country basis), and preferably provide a brief summary and key takeaways of those laws?",
+      content: "ผมเป็นทนายความประจำบริษัทหุ่นยนต์แห่งหนึ่งในจีน และฝ่ายบริหารกำลังพิจารณาขยายกิจการไปยังประเทศในเอเชียตะวันออกเฉียงใต้ แต่ผมยังไม่ค่อยมั่นใจเกี่ยวกับข้อกำหนดด้านข้อมูลและความเป็นส่วนตัวในประเทศเหล่านั้น คุณช่วยระบุชื่อกฎหมายด้านข้อมูลและความเป็นส่วนตัวของประเทศในเอเชียตะวันออกเฉียงใต้ (แยกเป็นรายประเทศ) และหากเป็นไปได้ ช่วยสรุปสั้น ๆ พร้อมประเด็นสำคัญของกฎหมายเหล่านั้นได้ไหม?",
     },
   ]}
 />
@@ -81,7 +81,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "I am a graduate student in communications conducting academic research on the \"digital divide.\" Please perform a systematic deep research. I need at least 15 core journal articles in both Chinese and English. Provide the definition of this concept, literature from the past 3–5 years, and 3 potential sub-topics for further research. Focus on the latest studies and policy documents since 2020, with particular attention to new research dynamics following the AI boom in 2023.",
+      content: "ผมเป็นนักศึกษาระดับบัณฑิตศึกษาสาขาการสื่อสารที่กำลังทำวิจัยเชิงวิชาการเกี่ยวกับ \"ความเหลื่อมล้ำทางดิจิทัล\" โปรดทำการวิจัยเชิงลึกอย่างเป็นระบบ ผมต้องการบทความวารสารหลักอย่างน้อย 15 ฉบับทั้งภาษาจีนและภาษาอังกฤษ โปรดให้คำนิยามของแนวคิดนี้ วรรณกรรมจาก 3–5 ปีที่ผ่านมา และ 3 หัวข้อย่อยที่มีศักยภาพสำหรับการวิจัยต่อไป เน้นการศึกษาและเอกสารเชิงนโยบายล่าสุดตั้งแต่ปี 2020 โดยให้ความสนใจเป็นพิเศษกับพลวัตการวิจัยใหม่ ๆ หลังจากกระแส AI บูมในปี 2023",
     },
   ]}
 />
@@ -91,7 +91,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "Create a lesson plan for \"Spring\" for 7th-grade students",
+      content: "สร้างแผนการสอนเรื่อง \"ฤดูใบไม้ผลิ\" สำหรับนักเรียนเกรด 7",
     },
   ]}
 />
@@ -108,7 +108,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "As a policy analyst, conduct a deep analysis of [policy name/document], covering the background and core objectives.\nList the applicable entities and substantive changes of key provisions, the specific compliance requirements and timelines for enterprises, and a forecast of future policy direction.\nRequirements: Cite official text with sources, highlight key changes, discuss controversial clauses separately, and keep the total under 2,000 words.",
+      content: "ในฐานะนักวิเคราะห์นโยบาย จงวิเคราะห์เชิงลึกเกี่ยวกับ [policy name/document] โดยครอบคลุมภูมิหลังและวัตถุประสงค์หลัก\nระบุหน่วยงานที่เกี่ยวข้องและการเปลี่ยนแปลงเชิงสาระสำคัญของบทบัญญัติหลัก ข้อกำหนดการปฏิบัติตามที่เฉพาะเจาะจงและกรอบเวลาสำหรับองค์กร ตลอดจนการคาดการณ์ทิศทางนโยบายในอนาคต\nข้อกำหนด: อ้างอิงข้อความทางการพร้อมแหล่งที่มา เน้นการเปลี่ยนแปลงที่สำคัญ อภิปรายข้อบัญญัติที่เป็นข้อถกเถียงแยกต่างหาก และควบคุมความยาวรวมไม่เกิน 2,000 คำ",
     },
   ]}
 />
@@ -120,7 +120,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "I want to take a road trip through northern Xinjiang. Please create a 5-day, 4-night itinerary covering food, activities, and lodging. Our family of four includes myself, my spouse, a 6-year-old boy, and a 4-year-old girl. The kids are active and enjoy walking, but please avoid any particularly dangerous routes.",
+      content: "ผมอยากขับรถเที่ยวผ่านซินเจียงตอนเหนือ โปรดจัดแผนการเดินทาง 5 วัน 4 คืน ครอบคลุมอาหาร กิจกรรม และที่พัก ครอบครัวเรามีสี่คน ได้แก่ ตัวผม คู่สมรส เด็กชายอายุ 6 ขวบ และเด็กหญิงอายุ 4 ขวบ เด็ก ๆ ซนและชอบเดิน แต่โปรดหลีกเลี่ยงเส้นทางที่อันตรายเป็นพิเศษ",
     },
   ]}
 />
@@ -132,7 +132,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "Compile 2025 funding events in the robotics industry, sorted by month, noting lead investors and funding trends. Provide citation links.",
+      content: "รวบรวมเหตุการณ์การระดมทุนในอุตสาหกรรมหุ่นยนต์ปี 2025 จัดเรียงตามเดือน พร้อมระบุนักลงทุนนำ (lead investor) และแนวโน้มการระดมทุน ให้ลิงก์อ้างอิงด้วย",
     },
   ]}
 />
@@ -142,7 +142,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "Compare the pros and cons of iPhone 16 vs. iPhone 17 across photography, performance, and battery life, citing real user feedback from the past year.",
+      content: "เปรียบเทียบข้อดีข้อเสียของ iPhone 16 กับ iPhone 17 ในด้านการถ่ายภาพ ประสิทธิภาพ และอายุการใช้งานแบตเตอรี่ โดยอ้างอิงความคิดเห็นจากผู้ใช้จริงในช่วงปีที่ผ่านมา",
     },
   ]}
 />
@@ -152,7 +152,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "I'm a college student looking for a job and starting from scratch in LLM development. Help me plan a learning path for this field and provide the corresponding knowledge points.",
+      content: "ผมเป็นนักศึกษามหาวิทยาลัยที่กำลังหางานและเริ่มต้นจากศูนย์ในการพัฒนา LLM ช่วยผมวางแผนเส้นทางการเรียนรู้สำหรับสาขานี้ และให้หัวข้อความรู้ที่เกี่ยวข้อง",
     },
   ]}
 />

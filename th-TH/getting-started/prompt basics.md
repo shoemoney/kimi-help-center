@@ -53,7 +53,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "Please organize the meeting notes in this format:\n\nMeeting Topic: xxx\nAttendees: xxx\nKey Decisions:\nxxx\nxxxAction Items:\n[ ] xxx (Owner: xxx, Deadline: xxx)",
+      content: "โปรดจัดระเบียบบันทึกการประชุมในรูปแบบนี้:\n\nหัวข้อการประชุม: xxx\nผู้เข้าร่วม: xxx\nการตัดสินใจสำคัญ:\nxxx\nxxxรายการสิ่งที่ต้องทำ:\n[ ] xxx (ผู้รับผิดชอบ: xxx, กำหนดส่ง: xxx)",
     },
   ]}
 />
@@ -66,7 +66,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "I need a competitive analysis report. Please follow these steps:\nList the top 3 domestic competitors and their core features\nCompare their pricing strategies\nAnalyze each product's strengths and weaknesses\nProvide differentiation recommendations for our product",
+      content: "ฉันต้องการรายงานการวิเคราะห์คู่แข่ง โปรดทำตามขั้นตอนเหล่านี้:\nระบุคู่แข่งในประเทศ 3 อันดับแรกและคุณสมบัติหลักของพวกเขา\nเปรียบเทียบกลยุทธ์การตั้งราคาของพวกเขา\nวิเคราะห์จุดแข็งและจุดอ่อนของแต่ละผลิตภัณฑ์\nให้คำแนะนำในการสร้างความแตกต่างสำหรับผลิตภัณฑ์ของเรา",
     },
   ]}
 />
@@ -122,7 +122,7 @@ Kimi รองรับการอัปโหลด PDF เอกสาร Wor
     {
       name: "prompt.txt",
       language: "text",
-      content: "Write a [article type] about [topic] for [target audience], approximately [xxx] words.\nRequirements: [style/format/focus areas]",
+      content: "เขียน [article type] เกี่ยวกับ [topic] สำหรับ [target audience] ความยาวประมาณ [xxx] คำ\nข้อกำหนด: [style/format/focus areas]",
     },
   ]}
 />
@@ -134,7 +134,7 @@ Kimi รองรับการอัปโหลด PDF เอกสาร Wor
     {
       name: "prompt.txt",
       language: "text",
-      content: "Analyze [subject], focusing on [key dimensions].\nOutput format: [table/chart/report]\nInclude conclusions and recommendations.",
+      content: "วิเคราะห์ [subject] โดยเน้นที่ [key dimensions]\nรูปแบบผลลัพธ์: [table/chart/report]\nรวมข้อสรุปและคำแนะนำ",
     },
   ]}
 />
@@ -146,7 +146,7 @@ Kimi รองรับการอัปโหลด PDF เอกสาร Wor
     {
       name: "prompt.txt",
       language: "text",
-      content: "Translate the following into [target language], maintaining a [academic/conversational/business] tone.\nInclude the original term in parentheses for domain-specific terminology.",
+      content: "แปลข้อความต่อไปนี้เป็น [target language] โดยคงโทน [academic/conversational/business]\nสำหรับศัพท์เฉพาะทาง ให้ระบุคำศัพท์ต้นฉบับไว้ในวงเล็บ",
     },
   ]}
 />

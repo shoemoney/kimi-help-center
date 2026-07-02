@@ -21,7 +21,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "Hi, Kimi!",
+      content: "สวัสดี Kimi!",
     },
   ]}
 />

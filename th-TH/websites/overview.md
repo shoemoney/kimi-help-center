@@ -86,7 +86,7 @@ preview_content: "สร้างและเผยแพร่เว็บไ�
     {
       name: "prompt.txt",
       language: "text",
-      content: "Build a website for West Highland Terrier dogs with a black-and-white color scheme. Include three sections:\nA studio-quality photo calendar with AI-generated image display\nA \"Curly Lab\" care and grooming encyclopedia\nA merchandise store selling Westie-print hoodies and limited-edition silver-foil posters. The checkout page should include a charity module — donate $1 per item sold to stray dog rescue.",
+      content: "สร้างเว็บไซต์เกี่ยวกับสุนัขพันธุ์ West Highland Terrier ด้วยโทนสีขาวดำ ประกอบด้วยสามส่วน:\nปฏิทินภาพถ่ายคุณภาพระดับสตูดิโอพร้อมการแสดงภาพที่สร้างโดย AI\nสารานุกรมการดูแลและตัดแต่งขน \"Curly Lab\"\nร้านขายสินค้าที่จำหน่ายเสื้อฮู้ดลาย Westie และโปสเตอร์รุ่นลิมิเต็ดพิมพ์ฟอยล์สีเงิน หน้าชำระเงินควรมีโมดูลการกุศล — บริจาค $1 ต่อสินค้าที่ขายได้แต่ละชิ้นเพื่อช่วยเหลือสุนัขจรจัด",
     },
   ]}
 />

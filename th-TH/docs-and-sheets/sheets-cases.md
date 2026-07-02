@@ -33,7 +33,7 @@ Kimi ทำหน้าที่เสมือนนักวิเคราะ
     {
       name: "prompt.md",
       language: "markdown",
-      content: "Perform a DCF valuation of XX Healthcare. Put the entire valuation process and data\ninto an Excel spreadsheet, cite data sources, provide the reasoning behind estimated\nfigures such as market size, growth rates, and market share, and incorporate macro\nenvironment analysis.",
+      content: "ทำการประเมินมูลค่าแบบ DCF ของ XX Healthcare นำกระบวนการประเมินมูลค่าและข้อมูลทั้งหมด\nใส่ลงในสเปรดชีต Excel อ้างอิงแหล่งข้อมูล อธิบายเหตุผลเบื้องหลังตัวเลขประมาณการ\nเช่น ขนาดตลาด อัตราการเติบโต และส่วนแบ่งตลาด และรวมการวิเคราะห์สภาพแวดล้อมมหภาคเข้าไปด้วย",
     },
   ]}
 />
@@ -54,7 +54,7 @@ Kimi ทำหน้าที่เสมือนนักออกแบบส
     {
       name: "prompt.md",
       language: "markdown",
-      content: "Create a storyboard script in Excel for a 3D promotional video about Kimi AI's new\nupgrade — OK Computer — which supports generating and editing Office documents\n(e.g., long-form thesis formatting in Word, data modeling and analysis in Excel,\nautomatic slide generation).\n\nThe Excel should include:\nColumn A: Sequence number (1-20)\nColumn B: Cumulative duration (seconds)\nColumn C: Shot duration (seconds)\nColumn D: Shot description (3D / camera movement)\nColumn E: Narration/text (use different background colors to distinguish narration\nfrom on-screen text)\nColumn F: Sound effects/BGM (use different font colors to distinguish)\nColumn G: Storyboard frames (generate an image for each shot — maintain visual\nconsistency using the classic black-and-white line sketch style)\n\nPlease design the creative outline, script, and storyboards independently, then\ngenerate frames to complete this script, presented in a polished Excel format.",
+      content: "สร้างสคริปต์สตอรีบอร์ดใน Excel สำหรับวิดีโอโปรโมต 3 มิติเกี่ยวกับ\nการอัปเกรดใหม่ของ Kimi AI — OK Computer — ซึ่งรองรับการสร้างและแก้ไขเอกสาร Office\n(เช่น การจัดรูปแบบวิทยานิพนธ์ขนาดยาวใน Word การสร้างแบบจำลองและวิเคราะห์ข้อมูลใน Excel\nการสร้างสไลด์อัตโนมัติ)\n\nไฟล์ Excel ควรมี:\nคอลัมน์ A: หมายเลขลำดับ (1-20)\nคอลัมน์ B: ระยะเวลาสะสม (วินาที)\nคอลัมน์ C: ระยะเวลาของช็อต (วินาที)\nคอลัมน์ D: คำอธิบายช็อต (3 มิติ / การเคลื่อนกล้อง)\nคอลัมน์ E: เสียงบรรยาย/ข้อความ (ใช้สีพื้นหลังต่างกันเพื่อแยกเสียงบรรยาย\nออกจากข้อความบนหน้าจอ)\nคอลัมน์ F: เอฟเฟกต์เสียง/เพลงประกอบ (ใช้สีตัวอักษรต่างกันเพื่อแยกความแตกต่าง)\nคอลัมน์ G: เฟรมสตอรีบอร์ด (สร้างภาพหนึ่งภาพสำหรับแต่ละช็อต — รักษาความสอดคล้องทางภาพ\nด้วยการใช้สไตล์ภาพร่างลายเส้นขาวดำแบบคลาสสิก)\n\nออกแบบโครงร่างสร้างสรรค์ สคริปต์ และสตอรีบอร์ดด้วยตนเอง จากนั้น\nสร้างเฟรมเพื่อทำสคริปต์นี้ให้สมบูรณ์ นำเสนอในรูปแบบ Excel ที่เรียบร้อย",
     },
   ]}
 />

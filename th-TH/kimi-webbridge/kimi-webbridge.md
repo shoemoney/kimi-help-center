@@ -98,7 +98,7 @@ WebBridge ทำงานผ่านบริการบริดจ์ใน�
     {
       name: "prompt.txt",
       language: "text",
-      content: "Use Kimi Webbridge and open Xiaohongshu, search for posts about the Kimi K2.6 release",
+      content: "ใช้ Kimi WebBridge เปิด Xiaohongshu และค้นหาโพสต์เกี่ยวกับการเปิดตัว Kimi K2.6",
     },
   ]}
 />
@@ -144,7 +144,7 @@ WebBridge ทำงานผ่านบริการบริดจ์ใน�
     {
       name: "prompt.txt",
       language: "text",
-      content: "Use Kimi WebBridge open X.com and search for posts about the Kimi K2.6 release",
+      content: "ใช้ Kimi WebBridge เปิด X.com และค้นหาโพสต์เกี่ยวกับการเปิดตัว Kimi K2.6",
     },
   ]}
 />

@@ -93,7 +93,7 @@ Wenn die oben genannten Methoden das Problem nicht lösen, senden Sie bitte Feed
 **So prüfen Sie Ihre Browser-Version:** Chrome: Klicken Sie oben rechts auf das Symbol ⋮ → Hilfe → Über Google Chrome; Safari: Klicken Sie in der Menüleiste auf „Safari“ → Über Safari; Edge: Klicken Sie oben rechts auf das Symbol ⋯ → Hilfe und Feedback → Über Microsoft Edge.
 </Callout>
 
-## Einstiegspunkte für Feedback
+## So senden Sie Feedback
 
 **Web:** Unten links auf der offiziellen Website: Konto → Nutzer-Feedback → Hilfe & Feedback
 

@@ -93,7 +93,7 @@ Si los métodos anteriores no resuelven el problema, envía tus comentarios a tr
 **Cómo comprobar la versión de tu navegador:** Chrome: haz clic en el ícono ⋮ en la esquina superior derecha → Ayuda → Información de Google Chrome; Safari: haz clic en "Safari" en la barra de menú → Acerca de Safari; Edge: haz clic en el ícono ⋯ en la esquina superior derecha → Ayuda y comentarios → Acerca de Microsoft Edge.
 </Callout>
 
-## Puntos de acceso para comentarios
+## Cómo enviar comentarios
 
 **Web:** Esquina inferior izquierda del sitio oficial: Cuenta → Comentarios del usuario → Ayuda y comentarios
 

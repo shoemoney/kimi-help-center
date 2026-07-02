@@ -93,7 +93,7 @@ Yukarıdaki yöntemler sorunu çözmüyorsa, lütfen ürün içindeki 👎 geri 
 **Tarayıcı sürümünüzü nasıl kontrol edersiniz:** Chrome: sağ üst köşedeki ⋮ simgesine tıklayın → Yardım → Google Chrome Hakkında; Safari: menü çubuğundaki "Safari"ye tıklayın → Safari Hakkında; Edge: sağ üst köşedeki ⋯ simgesine tıklayın → Yardım ve geri bildirim → Microsoft Edge Hakkında.
 </Callout>
 
-## Geri Bildirim Giriş Noktaları
+## Geri Bildirim Nasıl Gönderilir
 
 **Web:** Resmî web sitesinin sol alt köşesi: Hesap → Kullanıcı Geri Bildirimi → Yardım ve Geri Bildirim
 

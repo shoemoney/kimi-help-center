@@ -93,7 +93,7 @@ Se i metodi sopra indicati non risolvono il problema, invia un feedback tramite 
 **Come verificare la versione del tuo browser:** Chrome: fai clic sull'icona ⋮ nell'angolo in alto a destra → Guida → Informazioni su Google Chrome; Safari: fai clic su "Safari" nella barra dei menu → Informazioni su Safari; Edge: fai clic sull'icona ⋯ nell'angolo in alto a destra → Guida e feedback → Informazioni su Microsoft Edge.
 </Callout>
 
-## Punti di accesso al feedback
+## Come inviare feedback
 
 **Web:** angolo in basso a sinistra del sito ufficiale: Account → Feedback utente → Guida e feedback
 

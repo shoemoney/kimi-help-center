@@ -93,7 +93,7 @@ If the above methods don't resolve the issue, please submit feedback via the in-
 **How to check your browser version:** Chrome: click the ⋮ icon in the top-right corner → Help → About Google Chrome; Safari: click "Safari" in the menu bar → About Safari; Edge: click the ⋯ icon in the top-right corner → Help and feedback → About Microsoft Edge.
 </Callout>
 
-## Feedback Entry Points
+## How to Send Feedback
 
 **Web:** Bottom-left corner of the official website: Account → User Feedback → Help & Feedback
 

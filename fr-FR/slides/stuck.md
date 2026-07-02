@@ -93,7 +93,7 @@ Si les méthodes ci-dessus ne résolvent pas le problème, faites-nous part de v
 **Comment vérifier la version de votre navigateur :** Chrome : cliquez sur l'icône ⋮ dans le coin supérieur droit → Aide → À propos de Google Chrome ; Safari : cliquez sur « Safari » dans la barre de menus → À propos de Safari ; Edge : cliquez sur l'icône ⋯ dans le coin supérieur droit → Aide et commentaires → À propos de Microsoft Edge.
 </Callout>
 
-## Points d'accès au retour d'expérience
+## Comment envoyer vos retours
 
 **Web :** coin inférieur gauche du site officiel : Compte → Retour utilisateur → Aide et commentaires
 

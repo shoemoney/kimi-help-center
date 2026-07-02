@@ -35,7 +35,7 @@ If you need further assistance, contact our staff through the in-product “👎
 </Callout>
 
 
-## PPT Card Pop-up and Preview Issues
+## PPT Card Display and Preview Issues
 
 After the model finishes creating the PPT, the end of the conversation will say “Click the card below to preview” and display a PPT card. Click the card to enter the PPT editing page.
 
@@ -94,7 +94,7 @@ If the methods above do not resolve the issue, submit feedback through the in-pr
 **How to check your browser version:** In Chrome, click “⋮ → Help → About Google Chrome” in the upper-right corner; in Safari, click “Safari → About Safari” in the menu bar; in Edge, click “⋯ → Help and feedback → About Microsoft Edge” in the upper-right corner.
 </Callout>
 
-## Feedback Entry
+## How to Send Feedback
 
 **Web:** Bottom-left of the official site: “Account → User Feedback → Help & Feedback”
 

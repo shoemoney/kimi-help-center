@@ -93,7 +93,7 @@ Jika metode di atas tidak menyelesaikan masalah, silakan kirim umpan balik melal
 **Cara memeriksa versi browser Anda:** Chrome: klik ikon ⋮ di sudut kanan atas → Bantuan → Tentang Google Chrome; Safari: klik "Safari" di bilah menu → Tentang Safari; Edge: klik ikon ⋯ di sudut kanan atas → Bantuan dan umpan balik → Tentang Microsoft Edge.
 </Callout>
 
-## Titik Akses Umpan Balik
+## Cara Mengirim Umpan Balik
 
 **Web:** Sudut kiri bawah situs web resmi: Akun → Umpan Balik Pengguna → Bantuan & Umpan Balik
 

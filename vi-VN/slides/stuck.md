@@ -93,7 +93,7 @@ Nếu các cách trên không giải quyết được sự cố, vui lòng gửi
 **Cách kiểm tra phiên bản trình duyệt:** Chrome: nhấp vào biểu tượng ⋮ ở góc trên bên phải → Trợ giúp → Giới thiệu về Google Chrome; Safari: nhấp vào "Safari" trên thanh trình đơn → Giới thiệu về Safari; Edge: nhấp vào biểu tượng ⋯ ở góc trên bên phải → Trợ giúp và phản hồi → Giới thiệu về Microsoft Edge.
 </Callout>
 
-## Lối vào gửi phản hồi
+## Cách gửi phản hồi
 
 **Web:** Góc dưới bên trái của trang web chính thức: Tài khoản → Phản hồi của người dùng → Trợ giúp & Phản hồi
 

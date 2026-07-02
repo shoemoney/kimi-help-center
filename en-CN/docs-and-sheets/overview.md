@@ -11,7 +11,7 @@ preview_content: "An overview of Kimi Docs & Sheets capabilities and where to ac
   title="Kimi Docs and Sheets Overview - Kimi Help Center"
   description="Learn about Kimi's intelligent document and spreadsheet generation features. AI automatically creates structured documents, data tables, and analysis reports, with export support for Word, Excel, and other formats."
 />
-# Kimi Docs & Kimi Sheets: Office Productivity, Upgraded
+# Kimi Docs & Kimi Sheets: A Major Upgrade for Office Productivity
 
 On January 27, 2026, Moonshot AI officially released Kimi K2.5, bringing a major upgrade to Kimi Agent's office capabilities—it is now becoming proficient with Office.
 

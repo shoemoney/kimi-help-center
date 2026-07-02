@@ -21,7 +21,7 @@ Hãy mở [kimi.com](https://www.kimi.com) và thử gửi một tin nhắn — 
     {
       name: "prompt.txt",
       language: "text",
-      content: "Hi, Kimi!",
+      content: "Chào Kimi!",
     },
   ]}
 />

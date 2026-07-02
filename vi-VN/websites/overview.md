@@ -86,7 +86,7 @@ Mô tả nhu cầu của bạn bằng ngôn ngữ tự nhiên. Hỗ trợ ba cá
     {
       name: "prompt.txt",
       language: "text",
-      content: "Build a website for West Highland Terrier dogs with a black-and-white color scheme. Include three sections:\nA studio-quality photo calendar with AI-generated image display\nA \"Curly Lab\" care and grooming encyclopedia\nA merchandise store selling Westie-print hoodies and limited-edition silver-foil posters. The checkout page should include a charity module — donate $1 per item sold to stray dog rescue.",
+      content: "Xây dựng một trang web về giống chó West Highland Terrier với tông màu đen trắng. Bao gồm ba phần:\nMột lịch ảnh chất lượng studio với hiển thị hình ảnh do AI tạo\nMột bách khoa toàn thư chăm sóc và cắt tỉa lông \"Curly Lab\"\nMột cửa hàng bán áo hoodie in hình Westie và áp phích phiên bản giới hạn ép nhũ bạc. Trang thanh toán nên có một mô-đun từ thiện — quyên góp $1 cho mỗi sản phẩm bán được để cứu trợ chó hoang.",
     },
   ]}
 />

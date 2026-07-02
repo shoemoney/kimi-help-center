@@ -28,7 +28,7 @@ Như một biên tập viên rà soát bản thảo tỉ mỉ, Kimi phân tích 
     {
       name: "prompt.md",
       language: "markdown",
-      content: "You are a senior manuscript reviewer specializing in smart cities and regional planning.\nBelow is a set of specific review comments. Please carefully analyze these issues,\nlocate the corresponding paragraphs or figures in the attached Word document, and\ninsert the issues along with detailed revision suggestions as comments. Note: the\ncomments should read as if written by a human, not AI — avoid bullet-point formatting.\n\nPlease output the original manuscript with detailed comments.",
+      content: "Bạn là một biên tập viên bản thảo cấp cao chuyên về đô thị thông minh và quy hoạch vùng.\nDưới đây là một tập hợp các nhận xét đánh giá cụ thể. Hãy phân tích kỹ những vấn đề này,\nxác định các đoạn văn hoặc hình ảnh tương ứng trong tài liệu Word đính kèm và\nchèn các vấn đề cùng với đề xuất chỉnh sửa chi tiết dưới dạng nhận xét. Lưu ý: các\nnhận xét phải đọc như thể do một người viết, không phải AI — tránh định dạng gạch đầu dòng.\n\nHãy xuất ra bản thảo gốc kèm theo các nhận xét chi tiết.",
     },
   ]}
 />
@@ -44,7 +44,7 @@ Như một dịch giả không biết mệt mỏi, Kimi dịch một file PDF ti
     {
       name: "prompt.md",
       language: "markdown",
-      content: "Find the first assignment PDF for Stanford's CS336 course in English, then convert\nit to a French PDF. Preserve all code and mathematical formulas in the French version.\nThe translation should be fluent — do not omit or add any content.",
+      content: "Tìm tệp PDF của bài tập đầu tiên trong khóa học CS336 của Stanford bằng tiếng Anh, sau đó\nchuyển đổi nó thành tệp PDF tiếng Pháp. Giữ nguyên toàn bộ mã và các công thức toán học trong bản tiếng Pháp.\nBản dịch phải trôi chảy — không lược bỏ hoặc thêm bất kỳ nội dung nào.",
     },
   ]}
 />
@@ -63,7 +63,7 @@ Như một nhà thiết kế bố cục, Kimi giúp bạn lên kế hoạch về
     {
       name: "prompt.md",
       language: "markdown",
-      content: "You are a curatorial publishing AI specializing in modern art, particularly Picasso studies.\nYour task: use extensive imagery to help viewers understand why Picasso must be revisited\nagain and again.\n\nOutput directly as a PDF.\n\nI. Core Requirements\nExtensive imagery\nEvery period, every artist reference, every movement must have supporting images\nPrioritize sourced images\nUse high-fidelity AI-generated images only when sourced images are unavailable\n\nII. Visual System\nMAP Logo as full-page watermark\nAsymmetric layout\nClear grid with controlled local disruption\nHigh-contrast black & white + primary color accents\n\nIII. Content Structure (generate all sections)\n1. Cover\nPicasso\nExhibition subtitle (English & Chinese)\nMAP Logo watermark\n\n2. Why Picasso (with images)\nPortraits of Picasso from different periods\nWorks from different periods juxtaposed\n\n3. Periods & Movements (image-centric)\nEach period must include 8–12 images:\nBlue Period\nRose Period\nCubism (Analytic / Synthetic)\nWar & Politics\nLate Experiments\n\nImage types:\nFull artwork\nDetail crops\nStructural deconstruction diagrams (AI-generated when needed)\n\n4. Key Works\nNo fewer than 25 works\nIndividual works may occupy full pages\nEmphasis on structure, perspective, and deconstruction\n\n5. How to Look at Picasso\nImage-based comparative explanations\nSide-by-side treatments of the same subject\n\n6. Exhibition Hall & Rhythm\nHigh-density viewing zones\nReflective buffer zones\n\n7. MAP's Contemporary Position\nWhy Shanghai needs Picasso\nWhy this moment matters",
+      content: "Bạn là một AI xuất bản giám tuyển chuyên về nghệ thuật hiện đại, đặc biệt là các nghiên cứu về Picasso.\nNhiệm vụ của bạn: sử dụng hình ảnh phong phú để giúp người xem hiểu vì sao cần khám phá lại Picasso\nhết lần này đến lần khác.\n\nXuất trực tiếp dưới dạng PDF.\n\nI. Yêu cầu cốt lõi\nHình ảnh phong phú\nMỗi thời kỳ, mỗi tham chiếu nghệ sĩ và mỗi trào lưu đều phải có hình ảnh minh họa\nƯu tiên hình ảnh có nguồn gốc\nChỉ dùng hình ảnh do AI tạo với độ trung thực cao khi không có hình ảnh nguồn\n\nII. Hệ thống hình ảnh\nLogo MAP làm hình mờ toàn trang\nBố cục bất đối xứng\nLưới rõ ràng với sự phá cách cục bộ có kiểm soát\nĐen trắng tương phản cao + điểm nhấn màu cơ bản\n\nIII. Cấu trúc nội dung (tạo tất cả các phần)\n1. Bìa\nPicasso\nPhụ đề triển lãm (English & Chinese)\nHình mờ logo MAP\n\n2. Vì sao là Picasso (kèm hình ảnh)\nChân dung Picasso qua các thời kỳ khác nhau\nCác tác phẩm từ những thời kỳ khác nhau đặt cạnh nhau\n\n3. Thời kỳ và trào lưu (lấy hình ảnh làm trọng tâm)\nMỗi thời kỳ phải có từ 8 đến 12 hình ảnh:\nThời kỳ Lam\nThời kỳ Hồng\nLập thể (phân tích / tổng hợp)\nChiến tranh và chính trị\nCác thử nghiệm giai đoạn cuối\n\nCác loại hình ảnh:\nTác phẩm đầy đủ\nCắt cận cảnh chi tiết\nSơ đồ giải cấu trúc (do AI tạo khi cần)\n\n4. Tác phẩm chủ chốt\nKhông ít hơn 25 tác phẩm\nMột số tác phẩm có thể chiếm trọn trang\nNhấn mạnh vào cấu trúc, phối cảnh và giải cấu trúc\n\n5. Cách ngắm nhìn Picasso\nGiải thích so sánh dựa trên hình ảnh\nXử lý cùng một chủ đề đặt song song\n\n6. Không gian triển lãm và nhịp điệu\nKhu vực xem mật độ cao\nKhu vực đệm để chiêm nghiệm\n\n7. Vị thế đương đại của MAP\nVì sao Thượng Hải cần Picasso\nVì sao thời điểm này quan trọng",
     },
   ]}
 />

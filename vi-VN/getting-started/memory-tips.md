@@ -22,7 +22,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "I'm [name/nickname], currently based in [city]. Background in [profession/role], with expertise in [area 1] and [area 2].\nCurrently focused on: advancing [Project A] and [Project B].\nPlease default to English for all future responses unless I explicitly write in another language.",
+      content: "Tôi là [name/nickname], hiện đang sống tại [city]. Có nền tảng về [profession/role], với chuyên môn về [area 1] và [area 2].\nHiện đang tập trung vào: thúc đẩy [Project A] và [Project B].\nVui lòng mặc định trả lời bằng tiếng Việt cho mọi phản hồi sau này, trừ khi tôi viết rõ bằng ngôn ngữ khác.",
     },
   ]}
 />
@@ -36,7 +36,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "My content consumption preferences:\n- Prefer structured presentation: use heading hierarchy, bullet points, and bold key conclusions\n- Avoid walls of text: for complex topics, lead with a \"TL;DR\" summary, then expand into details\n- Terminology handling: explain jargon in plain language on first use, then use it freely afterward\n- Citation format: cite sources for factual data using [^N^] notation",
+      content: "Sở thích tiếp nhận nội dung của tôi:\n- Ưu tiên trình bày có cấu trúc: dùng phân cấp tiêu đề, gạch đầu dòng và in đậm các kết luận chính\n- Tránh những đoạn văn dày đặc: với các chủ đề phức tạp, mở đầu bằng phần tóm tắt \"TL;DR\", rồi mới đi vào chi tiết\n- Xử lý thuật ngữ: giải thích thuật ngữ chuyên ngành bằng ngôn ngữ dễ hiểu ở lần dùng đầu tiên, sau đó dùng thoải mái\n- Định dạng trích dẫn: trích dẫn nguồn cho dữ liệu thực tế bằng ký hiệu [^N^]",
     },
   ]}
 />
@@ -48,7 +48,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "At the end of each conversation:\n- If we discussed new important facts (e.g., schedule changes, project updates, preference adjustments), proactively ask whether to update memory\n- If new information conflicts with existing memory, flag the discrepancy and confirm which takes priority\n- For sensitive information (specific addresses, ID numbers, trade secrets), proactively ask whether to store it in memory",
+      content: "Vào cuối mỗi cuộc trò chuyện:\n- Nếu chúng ta đã bàn về những thông tin quan trọng mới (ví dụ: thay đổi lịch trình, cập nhật dự án, điều chỉnh sở thích), hãy chủ động hỏi có nên cập nhật bộ nhớ không\n- Nếu thông tin mới mâu thuẫn với bộ nhớ hiện có, hãy nêu rõ điểm khác biệt và xác nhận thông tin nào được ưu tiên\n- Với thông tin nhạy cảm (địa chỉ cụ thể, số CMND/CCCD, bí mật kinh doanh), hãy chủ động hỏi có nên lưu vào bộ nhớ không",
     },
   ]}
 />
@@ -62,7 +62,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "[Fact-Check Protocol]\nWhen I ask questions in the following domains, strictly follow this source priority:\n1. Medical/Health: Prefer PubMed, WHO, UpToDate; never cite health blogs or self-media\n2. Finance/Investment: Use only SEC filings, central bank data, and public company annual reports; no forum speculation\n3. Legal/Compliance: Refer to official regulatory databases; for local policies, note \"consult a local attorney\"\n4. Tech/Programming: Prefer official documentation; label GitHub Issues as community experience, not authoritative\n5. For information from Wikipedia, Reddit, Quora, or other UGC platforms, always tag as \"[Unverified]\"",
+      content: "[Fact-Check Protocol]\nKhi tôi đặt câu hỏi trong các lĩnh vực sau, hãy tuân thủ nghiêm ngặt thứ tự ưu tiên nguồn này:\n1. Y tế/Sức khỏe: Ưu tiên PubMed, WHO, UpToDate; tuyệt đối không trích dẫn blog sức khỏe hoặc truyền thông cá nhân\n2. Tài chính/Đầu tư: Chỉ dùng hồ sơ SEC, dữ liệu ngân hàng trung ương và báo cáo thường niên của công ty đại chúng; không dùng suy đoán trên diễn đàn\n3. Pháp lý/Tuân thủ: Tham khảo cơ sở dữ liệu quản lý chính thức; với quy định địa phương, ghi chú \"hãy tham vấn luật sư địa phương\"\n4. Công nghệ/Lập trình: Ưu tiên tài liệu chính thức; gắn nhãn GitHub Issues là kinh nghiệm cộng đồng, không phải nguồn chính thống\n5. Với thông tin từ Wikipedia, Reddit, Quora hoặc các nền tảng UGC khác, luôn gắn thẻ \"[Unverified]\"",
     },
   ]}
 />
@@ -74,7 +74,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "[High-Risk Topic Checklist]\nWhen the following keywords are detected, automatically trigger a \"double-check\" process:\n1. Specific numbers (prices, dates, statistics) → must state the data source and year\n2. Time-sensitive language (\"latest,\" \"just,\" \"recently\") → must verify whether it's within the knowledge cutoff\n3. Professional advice (medical, legal, investment) → must append disclaimer: \"The above is for reference only and does not constitute professional advice\"\n4. Specific quotes from individuals → must label as direct quote or paraphrase; never fabricate quotes\n\nExecution: First state \"I need to verify the following information,\" then provide the answer.",
+      content: "[High-Risk Topic Checklist]\nKhi phát hiện các từ khóa sau, tự động kích hoạt quy trình \"kiểm tra kép\":\n1. Con số cụ thể (giá cả, ngày tháng, số liệu thống kê) → phải nêu nguồn dữ liệu và năm\n2. Ngôn ngữ nhạy cảm về thời gian (\"mới nhất\", \"vừa\", \"gần đây\") → phải kiểm tra xem có nằm trong mốc kiến thức hay không\n3. Lời khuyên chuyên môn (y tế, pháp lý, đầu tư) → phải kèm tuyên bố miễn trừ: \"Nội dung trên chỉ mang tính tham khảo và không cấu thành lời khuyên chuyên môn\"\n4. Trích dẫn cụ thể từ cá nhân → phải gắn nhãn là trích dẫn trực tiếp hoặc diễn giải; tuyệt đối không bịa đặt trích dẫn\n\nThực hiện: Trước tiên nêu \"Tôi cần kiểm chứng thông tin sau\", rồi mới đưa ra câu trả lời.",
     },
   ]}
 />

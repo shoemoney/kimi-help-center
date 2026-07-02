@@ -33,7 +33,7 @@ Tựa như một chuyên viên phân tích tài chính, Kimi thu thập dữ li�
     {
       name: "prompt.md",
       language: "markdown",
-      content: "Perform a DCF valuation of XX Healthcare. Put the entire valuation process and data\ninto an Excel spreadsheet, cite data sources, provide the reasoning behind estimated\nfigures such as market size, growth rates, and market share, and incorporate macro\nenvironment analysis.",
+      content: "Thực hiện định giá DCF cho XX Healthcare. Đưa toàn bộ quy trình định giá và dữ liệu\nvào một bảng tính Excel, trích dẫn nguồn dữ liệu, giải thích lập luận đằng sau các con số ước tính\nnhư quy mô thị trường, tốc độ tăng trưởng và thị phần, đồng thời kết hợp phân tích môi trường vĩ mô.",
     },
   ]}
 />
@@ -54,7 +54,7 @@ Tựa như một họa sĩ phân cảnh, Kimi tạo kịch bản phân cảnh vi
     {
       name: "prompt.md",
       language: "markdown",
-      content: "Create a storyboard script in Excel for a 3D promotional video about Kimi AI's new\nupgrade — OK Computer — which supports generating and editing Office documents\n(e.g., long-form thesis formatting in Word, data modeling and analysis in Excel,\nautomatic slide generation).\n\nThe Excel should include:\nColumn A: Sequence number (1-20)\nColumn B: Cumulative duration (seconds)\nColumn C: Shot duration (seconds)\nColumn D: Shot description (3D / camera movement)\nColumn E: Narration/text (use different background colors to distinguish narration\nfrom on-screen text)\nColumn F: Sound effects/BGM (use different font colors to distinguish)\nColumn G: Storyboard frames (generate an image for each shot — maintain visual\nconsistency using the classic black-and-white line sketch style)\n\nPlease design the creative outline, script, and storyboards independently, then\ngenerate frames to complete this script, presented in a polished Excel format.",
+      content: "Tạo một kịch bản storyboard trong Excel cho một video quảng cáo 3D về bản\nnâng cấp mới của Kimi AI — OK Computer — hỗ trợ tạo và chỉnh sửa tài liệu Office\n(ví dụ: định dạng luận văn dài trong Word, mô hình hóa và phân tích dữ liệu trong Excel,\ntạo slide tự động).\n\nExcel cần bao gồm:\nCột A: số thứ tự (1-20)\nCột B: thời lượng tích lũy (giây)\nCột C: thời lượng cảnh quay (giây)\nCột D: mô tả cảnh quay (3D / chuyển động máy quay)\nCột E: lời dẫn/văn bản (dùng màu nền khác nhau để phân biệt lời dẫn\nvới văn bản trên màn hình)\nCột F: hiệu ứng âm thanh/nhạc nền (dùng màu chữ khác nhau để phân biệt)\nCột G: khung hình storyboard (tạo một hình ảnh cho mỗi cảnh quay — giữ tính nhất quán về hình ảnh\nbằng cách dùng phong cách phác thảo nét đen trắng cổ điển)\n\nHãy tự thiết kế dàn ý sáng tạo, kịch bản và storyboard, sau đó\ntạo các khung hình để hoàn thiện kịch bản này, trình bày ở định dạng Excel chỉn chu.",
     },
   ]}
 />

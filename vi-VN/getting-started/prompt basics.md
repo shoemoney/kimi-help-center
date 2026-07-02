@@ -53,7 +53,7 @@ Khi bạn có kỳ vọng cụ thể về định dạng, việc đưa cho Kimi 
     {
       name: "prompt.txt",
       language: "text",
-      content: "Please organize the meeting notes in this format:\n\nMeeting Topic: xxx\nAttendees: xxx\nKey Decisions:\nxxx\nxxxAction Items:\n[ ] xxx (Owner: xxx, Deadline: xxx)",
+      content: "Hãy sắp xếp ghi chú cuộc họp theo định dạng này:\n\nChủ đề cuộc họp: xxx\nNgười tham dự: xxx\nQuyết định chính:\nxxx\nxxxHạng mục hành động:\n[ ] xxx (Người phụ trách: xxx, Hạn chót: xxx)",
     },
   ]}
 />
@@ -66,7 +66,7 @@ Với những nhiệm vụ phức tạp, hãy chia công việc thành các bư�
     {
       name: "prompt.txt",
       language: "text",
-      content: "I need a competitive analysis report. Please follow these steps:\nList the top 3 domestic competitors and their core features\nCompare their pricing strategies\nAnalyze each product's strengths and weaknesses\nProvide differentiation recommendations for our product",
+      content: "Tôi cần một báo cáo phân tích cạnh tranh. Hãy làm theo các bước sau:\nLiệt kê 3 đối thủ trong nước hàng đầu và các tính năng cốt lõi của họ\nSo sánh chiến lược giá của họ\nPhân tích điểm mạnh và điểm yếu của từng sản phẩm\nĐưa ra khuyến nghị khác biệt hóa cho sản phẩm của chúng tôi",
     },
   ]}
 />
@@ -122,7 +122,7 @@ Dưới đây là vài mẫu prompt dùng được ngay — sao chép, tùy ch�
     {
       name: "prompt.txt",
       language: "text",
-      content: "Write a [article type] about [topic] for [target audience], approximately [xxx] words.\nRequirements: [style/format/focus areas]",
+      content: "Viết một [article type] về [topic] cho [target audience], khoảng [xxx] từ.\nYêu cầu: [style/format/focus areas]",
     },
   ]}
 />
@@ -134,7 +134,7 @@ Dưới đây là vài mẫu prompt dùng được ngay — sao chép, tùy ch�
     {
       name: "prompt.txt",
       language: "text",
-      content: "Analyze [subject], focusing on [key dimensions].\nOutput format: [table/chart/report]\nInclude conclusions and recommendations.",
+      content: "Phân tích [subject], tập trung vào [key dimensions].\nĐịnh dạng đầu ra: [table/chart/report]\nBao gồm kết luận và khuyến nghị.",
     },
   ]}
 />
@@ -146,7 +146,7 @@ Dưới đây là vài mẫu prompt dùng được ngay — sao chép, tùy ch�
     {
       name: "prompt.txt",
       language: "text",
-      content: "Translate the following into [target language], maintaining a [academic/conversational/business] tone.\nInclude the original term in parentheses for domain-specific terminology.",
+      content: "Dịch nội dung sau sang [target language], giữ giọng văn [academic/conversational/business].\nVới thuật ngữ chuyên ngành, hãy kèm thuật ngữ gốc trong ngoặc đơn.",
     },
   ]}
 />

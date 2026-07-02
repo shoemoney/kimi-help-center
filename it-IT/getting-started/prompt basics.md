@@ -53,7 +53,7 @@ Quando hai aspettative precise sul formato, dare a Kimi un esempio (few-shot) è
     {
       name: "prompt.txt",
       language: "text",
-      content: "Please organize the meeting notes in this format:\n\nMeeting Topic: xxx\nAttendees: xxx\nKey Decisions:\nxxx\nxxxAction Items:\n[ ] xxx (Owner: xxx, Deadline: xxx)",
+      content: "Organizza gli appunti della riunione in questo formato:\n\nArgomento della riunione: xxx\nPartecipanti: xxx\nDecisioni chiave:\nxxx\nxxxAzioni da intraprendere:\n[ ] xxx (Responsabile: xxx, Scadenza: xxx)",
     },
   ]}
 />
@@ -66,7 +66,7 @@ Per le attività complesse, suddividi il lavoro in passaggi più piccoli e guida
     {
       name: "prompt.txt",
       language: "text",
-      content: "I need a competitive analysis report. Please follow these steps:\nList the top 3 domestic competitors and their core features\nCompare their pricing strategies\nAnalyze each product's strengths and weaknesses\nProvide differentiation recommendations for our product",
+      content: "Ho bisogno di un report di analisi competitiva. Segui questi passaggi:\nElenca i 3 principali concorrenti nazionali e le loro funzionalità principali\nConfronta le loro strategie di prezzo\nAnalizza i punti di forza e di debolezza di ciascun prodotto\nFornisci raccomandazioni di differenziazione per il nostro prodotto",
     },
   ]}
 />
@@ -122,7 +122,7 @@ Ecco alcuni modelli di prompt pronti all'uso: copia, personalizza e via:
     {
       name: "prompt.txt",
       language: "text",
-      content: "Write a [article type] about [topic] for [target audience], approximately [xxx] words.\nRequirements: [style/format/focus areas]",
+      content: "Scrivi un [article type] su [topic] per [target audience], di circa [xxx] parole.\nRequisiti: [style/format/focus areas]",
     },
   ]}
 />
@@ -134,7 +134,7 @@ Ecco alcuni modelli di prompt pronti all'uso: copia, personalizza e via:
     {
       name: "prompt.txt",
       language: "text",
-      content: "Analyze [subject], focusing on [key dimensions].\nOutput format: [table/chart/report]\nInclude conclusions and recommendations.",
+      content: "Analizza [subject], concentrandoti su [key dimensions].\nFormato di output: [table/chart/report]\nIncludi conclusioni e raccomandazioni.",
     },
   ]}
 />
@@ -146,7 +146,7 @@ Ecco alcuni modelli di prompt pronti all'uso: copia, personalizza e via:
     {
       name: "prompt.txt",
       language: "text",
-      content: "Translate the following into [target language], maintaining a [academic/conversational/business] tone.\nInclude the original term in parentheses for domain-specific terminology.",
+      content: "Traduci il testo seguente in [target language], mantenendo un tono [academic/conversational/business].\nPer la terminologia specialistica, indica il termine originale tra parentesi.",
     },
   ]}
 />

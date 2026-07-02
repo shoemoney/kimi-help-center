@@ -21,7 +21,7 @@ Abre [kimi.com](https://www.kimi.com) y prueba a enviar un mensaje: saluda a Kim
     {
       name: "prompt.txt",
       language: "text",
-      content: "Hi, Kimi!",
+      content: "¡Hola, Kimi!",
     },
   ]}
 />

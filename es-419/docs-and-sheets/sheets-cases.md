@@ -33,7 +33,7 @@ Como un analista financiero, Kimi recopila datos financieros reales, construye u
     {
       name: "prompt.md",
       language: "markdown",
-      content: "Perform a DCF valuation of XX Healthcare. Put the entire valuation process and data\ninto an Excel spreadsheet, cite data sources, provide the reasoning behind estimated\nfigures such as market size, growth rates, and market share, and incorporate macro\nenvironment analysis.",
+      content: "Realiza una valoración por DCF de XX Healthcare. Vuelca todo el proceso de valoración y los datos\nen una hoja de cálculo de Excel, cita las fuentes de datos, explica el razonamiento detrás de las estimaciones\ncomo el tamaño del mercado, las tasas de crecimiento y la cuota de mercado, e incorpora un análisis del entorno macroeconómico.",
     },
   ]}
 />
@@ -54,7 +54,7 @@ Como un artista de storyboards, Kimi crea guiones de storyboard de video en form
     {
       name: "prompt.md",
       language: "markdown",
-      content: "Create a storyboard script in Excel for a 3D promotional video about Kimi AI's new\nupgrade — OK Computer — which supports generating and editing Office documents\n(e.g., long-form thesis formatting in Word, data modeling and analysis in Excel,\nautomatic slide generation).\n\nThe Excel should include:\nColumn A: Sequence number (1-20)\nColumn B: Cumulative duration (seconds)\nColumn C: Shot duration (seconds)\nColumn D: Shot description (3D / camera movement)\nColumn E: Narration/text (use different background colors to distinguish narration\nfrom on-screen text)\nColumn F: Sound effects/BGM (use different font colors to distinguish)\nColumn G: Storyboard frames (generate an image for each shot — maintain visual\nconsistency using the classic black-and-white line sketch style)\n\nPlease design the creative outline, script, and storyboards independently, then\ngenerate frames to complete this script, presented in a polished Excel format.",
+      content: "Crea un guion de storyboard en Excel para un video promocional en 3D sobre la nueva\nactualización de Kimi AI — OK Computer — que permite generar y editar documentos de Office\n(por ejemplo, dar formato a tesis extensas en Word, modelar y analizar datos en Excel,\ngenerar diapositivas automáticamente).\n\nEl Excel debe incluir:\nColumna A: número de secuencia (1-20)\nColumna B: duración acumulada (segundos)\nColumna C: duración del plano (segundos)\nColumna D: descripción del plano (3D / movimiento de cámara)\nColumna E: narración/texto (usa distintos colores de fondo para distinguir la narración\ndel texto en pantalla)\nColumna F: efectos de sonido/música de fondo (usa distintos colores de fuente para distinguirlos)\nColumna G: fotogramas del storyboard (genera una imagen por plano — mantén la coherencia visual\nempleando el clásico estilo de boceto a línea en blanco y negro)\n\nDiseña de forma autónoma el esquema creativo, el guion y los storyboards y, a continuación,\ngenera los fotogramas para completar este guion, presentado en un formato de Excel pulido.",
     },
   ]}
 />

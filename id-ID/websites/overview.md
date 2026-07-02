@@ -86,7 +86,7 @@ Jelaskan kebutuhan Anda dalam bahasa alami. Tersedia tiga metode pembuatan:
     {
       name: "prompt.txt",
       language: "text",
-      content: "Build a website for West Highland Terrier dogs with a black-and-white color scheme. Include three sections:\nA studio-quality photo calendar with AI-generated image display\nA \"Curly Lab\" care and grooming encyclopedia\nA merchandise store selling Westie-print hoodies and limited-edition silver-foil posters. The checkout page should include a charity module — donate $1 per item sold to stray dog rescue.",
+      content: "Buat situs web tentang anjing West Highland Terrier dengan skema warna hitam putih. Sertakan tiga bagian:\nKalender foto berkualitas studio dengan tampilan gambar hasil AI\nEnsiklopedia perawatan dan grooming \"Curly Lab\"\nToko merchandise yang menjual hoodie bermotif Westie dan poster edisi terbatas berlapis foil perak. Halaman pembayaran harus menyertakan modul amal — donasikan $1 untuk setiap item terjual guna penyelamatan anjing telantar.",
     },
   ]}
 />

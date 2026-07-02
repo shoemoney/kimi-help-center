@@ -33,7 +33,7 @@ Layaknya seorang analis keuangan, Kimi mengumpulkan data keuangan riil, menyusun
     {
       name: "prompt.md",
       language: "markdown",
-      content: "Perform a DCF valuation of XX Healthcare. Put the entire valuation process and data\ninto an Excel spreadsheet, cite data sources, provide the reasoning behind estimated\nfigures such as market size, growth rates, and market share, and incorporate macro\nenvironment analysis.",
+      content: "Lakukan valuasi DCF atas XX Healthcare. Masukkan seluruh proses valuasi dan datanya\nke dalam lembar kerja Excel, kutip sumber data, jelaskan alasan di balik angka-angka estimasi\nseperti ukuran pasar, laju pertumbuhan, dan pangsa pasar, serta sertakan analisis lingkungan makroekonomi.",
     },
   ]}
 />
@@ -54,7 +54,7 @@ Layaknya seorang storyboard artist, Kimi membuat skrip storyboard video dalam fo
     {
       name: "prompt.md",
       language: "markdown",
-      content: "Create a storyboard script in Excel for a 3D promotional video about Kimi AI's new\nupgrade — OK Computer — which supports generating and editing Office documents\n(e.g., long-form thesis formatting in Word, data modeling and analysis in Excel,\nautomatic slide generation).\n\nThe Excel should include:\nColumn A: Sequence number (1-20)\nColumn B: Cumulative duration (seconds)\nColumn C: Shot duration (seconds)\nColumn D: Shot description (3D / camera movement)\nColumn E: Narration/text (use different background colors to distinguish narration\nfrom on-screen text)\nColumn F: Sound effects/BGM (use different font colors to distinguish)\nColumn G: Storyboard frames (generate an image for each shot — maintain visual\nconsistency using the classic black-and-white line sketch style)\n\nPlease design the creative outline, script, and storyboards independently, then\ngenerate frames to complete this script, presented in a polished Excel format.",
+      content: "Buat skrip storyboard di Excel untuk video promosi 3D tentang\npembaruan terbaru Kimi AI — OK Computer — yang mendukung pembuatan dan pengeditan dokumen Office\n(mis. pemformatan tesis panjang di Word, pemodelan dan analisis data di Excel,\npembuatan slide otomatis).\n\nExcel harus mencakup:\nKolom A: nomor urut (1-20)\nKolom B: durasi kumulatif (detik)\nKolom C: durasi shot (detik)\nKolom D: deskripsi shot (3D / gerakan kamera)\nKolom E: narasi/teks (gunakan warna latar berbeda untuk membedakan narasi\ndari teks di layar)\nKolom F: efek suara/musik latar (gunakan warna font berbeda untuk membedakannya)\nKolom G: bingkai storyboard (buat satu gambar untuk setiap shot — jaga konsistensi visual\ndengan menggunakan gaya sketsa garis hitam putih klasik)\n\nRancang sendiri kerangka kreatif, naskah, dan storyboard, lalu\nbuat bingkai-bingkai untuk melengkapi naskah ini, disajikan dalam format Excel yang rapi.",
     },
   ]}
 />

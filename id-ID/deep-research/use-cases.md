@@ -31,7 +31,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "I am a professional securities analyst. Please help me conduct an in-depth analysis of Pop Mart from a financial perspective. The analysis should include but not be limited to: 1. Company overview: business model, competitive moat, and industry position; 2. Industry overview, upstream/downstream dynamics, and future development; 3. Financial data: revenue and profit trends, influencing factors, balance sheet and cash flow; 4. Compliance record — any regulatory penalties, specific grounds, and associated risks; 5. Technical analysis: price trends, indicators, and support/resistance levels; 6. Market sentiment: ratings, public sentiment, and news impact; 7. Competitive comparison: key competitors, respective market shares and financial metrics; 8. Valuation and health: PE/PB/DCF valuation and reasonableness assessment; 9. Key risks: industry competition, policy, geopolitical, etc.",
+      content: "Saya seorang analis sekuritas profesional. Tolong bantu saya melakukan analisis mendalam terhadap Pop Mart dari perspektif keuangan. Analisis harus mencakup, tetapi tidak terbatas pada: 1. Gambaran umum perusahaan: model bisnis, keunggulan kompetitif (moat), dan posisi industri; 2. Gambaran umum industri, dinamika hulu/hilir, dan perkembangan masa depan; 3. Data keuangan: tren pendapatan dan laba, faktor yang memengaruhi, neraca, dan arus kas; 4. Rekam jejak kepatuhan — sanksi regulator yang pernah ada, dasar spesifiknya, dan risiko terkait; 5. Analisis teknikal: tren harga, indikator, serta level support/resistance; 6. Sentimen pasar: rating, sentimen publik, dan dampak berita; 7. Perbandingan kompetitif: pesaing utama, pangsa pasar masing-masing, dan metrik keuangan; 8. Valuasi dan kesehatan: valuasi PE/PB/DCF dan penilaian kewajarannya; 9. Risiko utama: persaingan industri, kebijakan, geopolitik, dll.",
     },
   ]}
 />
@@ -43,7 +43,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "Compare and analyze the product strategy differences between Notion and Obsidian",
+      content: "Bandingkan dan analisis perbedaan strategi produk antara Notion dan Obsidian",
     },
   ]}
 />
@@ -55,7 +55,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "Conduct deep research on [Company Name]:\n1. Business model & core moat (competitive advantages, technology/channel edge, competitive landscape);\n2. Financial health (revenue structure, profitability, cash flow, key risk areas);\n3. Team & governance (founder background, equity structure, key talent);\n4. Market & policy (TAM/SAM/SOM, industry growth rate, regulatory environment);\n5. Risk identification (business, legal, exit barriers);\n6. Valuation reference (comparable companies, historical funding rounds, reasonable range).\nRequirements: Cite data sources, mark key conclusions with ⭐, list disputed points separately.",
+      content: "Lakukan riset mendalam tentang [Company Name]:\n1. Model bisnis & keunggulan inti (keunggulan kompetitif, keunggulan teknologi/kanal, lanskap persaingan);\n2. Kesehatan keuangan (struktur pendapatan, profitabilitas, arus kas, area risiko utama);\n3. Tim & tata kelola (latar belakang pendiri, struktur kepemilikan saham, talenta kunci);\n4. Pasar & kebijakan (TAM/SAM/SOM, laju pertumbuhan industri, lingkungan regulasi);\n5. Identifikasi risiko (bisnis, hukum, hambatan keluar);\n6. Acuan valuasi (perusahaan sebanding, putaran pendanaan historis, rentang yang wajar).\nPersyaratan: Cantumkan sumber data, tandai kesimpulan penting dengan ⭐, dan cantumkan poin-poin yang diperdebatkan secara terpisah.",
     },
   ]}
 />
@@ -69,7 +69,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "I'm an in-house lawyer in a Chinese robotic company, and the management is considering expanding into Southeast Asian countries. However, I'm not quite confident about the data and privacy requirements in those countries. Could you help me list the names of the data and privacy laws of Southeast Asian countries (on a country-by-country basis), and preferably provide a brief summary and key takeaways of those laws?",
+      content: "Saya seorang penasihat hukum in-house di sebuah perusahaan robotik Tiongkok, dan manajemen sedang mempertimbangkan ekspansi ke negara-negara Asia Tenggara. Namun, saya kurang yakin tentang persyaratan data dan privasi di negara-negara tersebut. Bisakah Anda membantu saya menyusun nama-nama undang-undang data dan privasi negara-negara Asia Tenggara (secara per negara), dan sebaiknya berikan ringkasan singkat serta poin-poin penting dari undang-undang tersebut?",
     },
   ]}
 />
@@ -81,7 +81,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "I am a graduate student in communications conducting academic research on the \"digital divide.\" Please perform a systematic deep research. I need at least 15 core journal articles in both Chinese and English. Provide the definition of this concept, literature from the past 3–5 years, and 3 potential sub-topics for further research. Focus on the latest studies and policy documents since 2020, with particular attention to new research dynamics following the AI boom in 2023.",
+      content: "Saya seorang mahasiswa pascasarjana bidang komunikasi yang melakukan riset akademis tentang \"kesenjangan digital\". Tolong lakukan riset mendalam secara sistematis. Saya memerlukan setidaknya 15 artikel jurnal inti dalam bahasa Tionghoa maupun Inggris. Berikan definisi konsep ini, literatur dari 3–5 tahun terakhir, dan 3 subtopik potensial untuk riset lebih lanjut. Fokus pada studi dan dokumen kebijakan terbaru sejak 2020, dengan perhatian khusus pada dinamika riset baru setelah ledakan AI pada 2023.",
     },
   ]}
 />
@@ -91,7 +91,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "Create a lesson plan for \"Spring\" for 7th-grade students",
+      content: "Buat rencana pembelajaran tentang \"Musim Semi\" untuk siswa kelas 7",
     },
   ]}
 />
@@ -108,7 +108,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "As a policy analyst, conduct a deep analysis of [policy name/document], covering the background and core objectives.\nList the applicable entities and substantive changes of key provisions, the specific compliance requirements and timelines for enterprises, and a forecast of future policy direction.\nRequirements: Cite official text with sources, highlight key changes, discuss controversial clauses separately, and keep the total under 2,000 words.",
+      content: "Sebagai seorang analis kebijakan, lakukan analisis mendalam terhadap [policy name/document], mencakup latar belakang dan tujuan utamanya.\nSebutkan entitas yang berlaku dan perubahan substantif dari ketentuan-ketentuan utama, persyaratan kepatuhan spesifik beserta lini masa bagi perusahaan, serta prakiraan arah kebijakan ke depan.\nPersyaratan: Kutip teks resmi beserta sumbernya, soroti perubahan-perubahan penting, bahas klausul-klausul kontroversial secara terpisah, dan jaga total di bawah 2.000 kata.",
     },
   ]}
 />
@@ -120,7 +120,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "I want to take a road trip through northern Xinjiang. Please create a 5-day, 4-night itinerary covering food, activities, and lodging. Our family of four includes myself, my spouse, a 6-year-old boy, and a 4-year-old girl. The kids are active and enjoy walking, but please avoid any particularly dangerous routes.",
+      content: "Saya ingin melakukan perjalanan darat melintasi Xinjiang bagian utara. Tolong buatkan itinerari 5 hari 4 malam yang mencakup makanan, aktivitas, dan penginapan. Keluarga kami berempat terdiri dari saya, pasangan saya, seorang anak laki-laki berusia 6 tahun, dan seorang anak perempuan berusia 4 tahun. Anak-anak aktif dan senang berjalan kaki, tetapi tolong hindari rute yang sangat berbahaya.",
     },
   ]}
 />
@@ -132,7 +132,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "Compile 2025 funding events in the robotics industry, sorted by month, noting lead investors and funding trends. Provide citation links.",
+      content: "Susun daftar peristiwa pendanaan di industri robotika pada 2025, diurutkan berdasarkan bulan, dengan mencatat investor utama (lead investor) dan tren pendanaan. Sertakan tautan kutipan.",
     },
   ]}
 />
@@ -142,7 +142,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "Compare the pros and cons of iPhone 16 vs. iPhone 17 across photography, performance, and battery life, citing real user feedback from the past year.",
+      content: "Bandingkan kelebihan dan kekurangan iPhone 16 vs. iPhone 17 dari segi fotografi, performa, dan daya tahan baterai, dengan mengutip umpan balik pengguna nyata dari setahun terakhir.",
     },
   ]}
 />
@@ -152,7 +152,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "I'm a college student looking for a job and starting from scratch in LLM development. Help me plan a learning path for this field and provide the corresponding knowledge points.",
+      content: "Saya seorang mahasiswa yang sedang mencari pekerjaan dan memulai dari nol dalam pengembangan LLM. Bantu saya menyusun jalur pembelajaran untuk bidang ini dan berikan poin-poin pengetahuan yang sesuai.",
     },
   ]}
 />

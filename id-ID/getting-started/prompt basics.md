@@ -53,7 +53,7 @@ Ketika Anda memiliki ekspektasi format tertentu, memberi Kimi sebuah contoh (few
     {
       name: "prompt.txt",
       language: "text",
-      content: "Please organize the meeting notes in this format:\n\nMeeting Topic: xxx\nAttendees: xxx\nKey Decisions:\nxxx\nxxxAction Items:\n[ ] xxx (Owner: xxx, Deadline: xxx)",
+      content: "Tolong susun catatan rapat dalam format ini:\n\nTopik Rapat: xxx\nPeserta: xxx\nKeputusan Penting:\nxxx\nxxxItem Tindakan:\n[ ] xxx (Penanggung Jawab: xxx, Tenggat: xxx)",
     },
   ]}
 />
@@ -66,7 +66,7 @@ Untuk tugas yang rumit, bagi pekerjaan menjadi langkah-langkah kecil dan pandu K
     {
       name: "prompt.txt",
       language: "text",
-      content: "I need a competitive analysis report. Please follow these steps:\nList the top 3 domestic competitors and their core features\nCompare their pricing strategies\nAnalyze each product's strengths and weaknesses\nProvide differentiation recommendations for our product",
+      content: "Saya memerlukan laporan analisis kompetitif. Ikuti langkah-langkah berikut:\nSebutkan 3 pesaing domestik teratas dan fitur inti mereka\nBandingkan strategi penetapan harga mereka\nAnalisis kelebihan dan kekurangan setiap produk\nBerikan rekomendasi diferensiasi untuk produk kami",
     },
   ]}
 />
@@ -122,7 +122,7 @@ Berikut beberapa templat prompt siap pakai — salin, sesuaikan, dan jalankan:
     {
       name: "prompt.txt",
       language: "text",
-      content: "Write a [article type] about [topic] for [target audience], approximately [xxx] words.\nRequirements: [style/format/focus areas]",
+      content: "Tulis sebuah [article type] tentang [topic] untuk [target audience], sekitar [xxx] kata.\nPersyaratan: [style/format/focus areas]",
     },
   ]}
 />
@@ -134,7 +134,7 @@ Berikut beberapa templat prompt siap pakai — salin, sesuaikan, dan jalankan:
     {
       name: "prompt.txt",
       language: "text",
-      content: "Analyze [subject], focusing on [key dimensions].\nOutput format: [table/chart/report]\nInclude conclusions and recommendations.",
+      content: "Analisis [subject], dengan fokus pada [key dimensions].\nFormat keluaran: [table/chart/report]\nSertakan kesimpulan dan rekomendasi.",
     },
   ]}
 />
@@ -146,7 +146,7 @@ Berikut beberapa templat prompt siap pakai — salin, sesuaikan, dan jalankan:
     {
       name: "prompt.txt",
       language: "text",
-      content: "Translate the following into [target language], maintaining a [academic/conversational/business] tone.\nInclude the original term in parentheses for domain-specific terminology.",
+      content: "Terjemahkan teks berikut ke [target language], dengan mempertahankan nada [academic/conversational/business].\nUntuk terminologi khusus bidang, sertakan istilah aslinya dalam tanda kurung.",
     },
   ]}
 />

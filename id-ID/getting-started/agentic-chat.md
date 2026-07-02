@@ -21,7 +21,7 @@ Buka [kimi.com](https://www.kimi.com) dan coba kirim pesan — sapa Kimi:
     {
       name: "prompt.txt",
       language: "text",
-      content: "Hi, Kimi!",
+      content: "Hai, Kimi!",
     },
   ]}
 />

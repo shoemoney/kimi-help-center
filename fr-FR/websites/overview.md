@@ -86,7 +86,7 @@ Décrivez vos besoins en langage naturel. Trois méthodes de création sont pris
     {
       name: "prompt.txt",
       language: "text",
-      content: "Build a website for West Highland Terrier dogs with a black-and-white color scheme. Include three sections:\nA studio-quality photo calendar with AI-generated image display\nA \"Curly Lab\" care and grooming encyclopedia\nA merchandise store selling Westie-print hoodies and limited-edition silver-foil posters. The checkout page should include a charity module — donate $1 per item sold to stray dog rescue.",
+      content: "Créez un site web sur les West Highland Terriers avec une palette de couleurs en noir et blanc. Incluez trois sections :\nUn calendrier photo de qualité studio avec affichage d'images générées par IA\nUne encyclopédie de soins et de toilettage « Curly Lab »\nUne boutique vendant des sweats à capuche à motifs Westie et des affiches en édition limitée à dorure argentée. La page de paiement doit comporter un module caritatif — reverser 1 $ par article vendu au sauvetage des chiens errants.",
     },
   ]}
 />

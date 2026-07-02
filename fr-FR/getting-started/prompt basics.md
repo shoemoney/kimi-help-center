@@ -53,7 +53,7 @@ Lorsque vous avez des attentes précises en matière de mise en forme, donner un
     {
       name: "prompt.txt",
       language: "text",
-      content: "Please organize the meeting notes in this format:\n\nMeeting Topic: xxx\nAttendees: xxx\nKey Decisions:\nxxx\nxxxAction Items:\n[ ] xxx (Owner: xxx, Deadline: xxx)",
+      content: "Organisez le compte rendu de réunion selon ce format :\n\nSujet de la réunion : xxx\nParticipants : xxx\nDécisions clés :\nxxx\nxxxActions à mener :\n[ ] xxx (Responsable : xxx, Échéance : xxx)",
     },
   ]}
 />
@@ -66,7 +66,7 @@ Pour les tâches complexes, fractionnez le travail en étapes plus petites et gu
     {
       name: "prompt.txt",
       language: "text",
-      content: "I need a competitive analysis report. Please follow these steps:\nList the top 3 domestic competitors and their core features\nCompare their pricing strategies\nAnalyze each product's strengths and weaknesses\nProvide differentiation recommendations for our product",
+      content: "J'ai besoin d'un rapport d'analyse concurrentielle. Suivez ces étapes :\nÉnumérez les 3 principaux concurrents nationaux et leurs fonctionnalités clés\nComparez leurs stratégies tarifaires\nAnalysez les forces et les faiblesses de chaque produit\nFormulez des recommandations de différenciation pour notre produit",
     },
   ]}
 />
@@ -122,7 +122,7 @@ Voici quelques modèles de prompt prêts à l'emploi : copiez-les, adaptez-les e
     {
       name: "prompt.txt",
       language: "text",
-      content: "Write a [article type] about [topic] for [target audience], approximately [xxx] words.\nRequirements: [style/format/focus areas]",
+      content: "Rédigez un(e) [type d'article] sur [sujet] destiné à [public cible], d'environ [xxx] mots.\nExigences : [style/format/points à privilégier]",
     },
   ]}
 />
@@ -134,7 +134,7 @@ Voici quelques modèles de prompt prêts à l'emploi : copiez-les, adaptez-les e
     {
       name: "prompt.txt",
       language: "text",
-      content: "Analyze [subject], focusing on [key dimensions].\nOutput format: [table/chart/report]\nInclude conclusions and recommendations.",
+      content: "Analysez [sujet], en vous concentrant sur [dimensions clés].\nFormat de sortie : [tableau/graphique/rapport]\nIncluez des conclusions et des recommandations.",
     },
   ]}
 />
@@ -146,7 +146,7 @@ Voici quelques modèles de prompt prêts à l'emploi : copiez-les, adaptez-les e
     {
       name: "prompt.txt",
       language: "text",
-      content: "Translate the following into [target language], maintaining a [academic/conversational/business] tone.\nInclude the original term in parentheses for domain-specific terminology.",
+      content: "Traduisez le texte suivant en [langue cible], en conservant un ton [académique/conversationnel/professionnel].\nPour la terminologie spécialisée, indiquez le terme d'origine entre parenthèses.",
     },
   ]}
 />

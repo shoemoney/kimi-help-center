@@ -21,7 +21,7 @@ Ouvrez [kimi.com](https://www.kimi.com) et envoyez un premier message — dites 
     {
       name: "prompt.txt",
       language: "text",
-      content: "Hi, Kimi!",
+      content: "Salut, Kimi !",
     },
   ]}
 />

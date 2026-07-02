@@ -49,7 +49,7 @@ Kimi offers four membership subscription plans to meet different needs, from eve
 - **Agent Swarm**: Parallel multi-Agent workflows and data productivity for massive search, long-form writing, and batch processing.
 </Callout>
 
-## Which plan is right for you
+## Which plan is right for you?
 
 <Frames
   src="./images/membership/overview-03.png"

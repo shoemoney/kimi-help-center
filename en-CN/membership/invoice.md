@@ -1,5 +1,5 @@
 ---
-title: "How Users Can Issue Invoices Themselves"
+title: "Kimi Membership Invoicing"
 slug: "membership-invoice"
 order: 9
 extract_headings: false
@@ -12,7 +12,7 @@ preview_content: "Steps and notes for Kimi members to issue electronic invoices 
   description="Learn how to apply for a Kimi membership invoice, including supported invoice types, required invoice details, and FAQs to help with reimbursement."
 />
 
-# Kimi Membership Self-Service Invoicing
+# Kimi Membership Invoicing
 
 Kimi lets users issue electronic invoices themselves in a simple, convenient process. You can go directly to the [membership subscription page](https://www.kimi.com/membership/subscription) to start.
 

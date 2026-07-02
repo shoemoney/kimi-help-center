@@ -1,5 +1,5 @@
 ---
-title: "Membership Benefits: Activation and Lookup"
+title: "Membership Benefits: Activation and Status Check"
 slug: "membership-account-query"
 order: 5
 extract_headings: true
@@ -12,7 +12,7 @@ preview_content: "How to troubleshoot membership benefits that have not been act
   description="Learn how to view your Kimi membership subscription status, expiration date, remaining credit, usage history, and other account information so you can stay up to date on your membership benefits."
 />
 
-# Membership Benefits: Activation and Lookup
+# Membership Benefits: Activation and Status Check
 
 After you purchase a membership, your benefits usually take effect immediately. If you run into any issues, please refer to the guidance below.
 

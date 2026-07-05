@@ -30,7 +30,7 @@ Việc tạo Kimi Slides có thể bị treo trong những trường hợp sau:
 - **Tác vụ bị hủy**: Tình huống này thường do lỗi khi tạo Kimi Slides. Bạn chỉ cần bắt đầu một cuộc trò chuyện mới và nhập lại cùng một chỉ dẫn tác vụ để thử lại.
 
 <Callout type="info">
-Để được hỗ trợ thêm, vui lòng liên hệ với đội ngũ của chúng tôi qua kênh phản hồi 👎 trong sản phẩm, hoặc gửi email đến [support@moonshot.cn](mailto:support@moonshot.cn).
+Để được hỗ trợ thêm, vui lòng liên hệ với đội ngũ của chúng tôi qua kênh phản hồi 👎 trong sản phẩm, hoặc gửi email đến [support@moonshot.ai](mailto:support@moonshot.ai).
 </Callout>
 
 ## Sự cố với thẻ bật lên và xem trước Slides ở chế độ thích ứng
@@ -51,7 +51,7 @@ Nếu nhấp vào thẻ Slides mà không mở được trang chỉnh sửa, hã
 - Nếu thẻ Slides vẫn không xuất hiện trên nhiều trình duyệt và thiết bị, vui lòng làm theo [Hướng dẫn gửi phản hồi lỗi](#hướng-dẫn-gửi-phản-hồi-lỗi) bên dưới để gửi phản hồi, và bắt đầu một cuộc trò chuyện mới để tạo lại.
 
 <Callout type="info">
-Nếu bạn đã xác nhận sự cố vẫn tiếp diễn trên nhiều thiết bị và trình duyệt, vui lòng gửi email đến [support@moonshot.cn](mailto:support@moonshot.cn) để báo cáo, kèm theo đường liên kết cuộc trò chuyện và ảnh chụp màn hình của sự cố. Sau khi xác minh đó là lỗi, chúng tôi sẽ bồi hoàn cho bạn số tín dụng tương ứng.
+Nếu bạn đã xác nhận sự cố vẫn tiếp diễn trên nhiều thiết bị và trình duyệt, vui lòng gửi email đến [support@moonshot.ai](mailto:support@moonshot.ai) để báo cáo, kèm theo đường liên kết cuộc trò chuyện và ảnh chụp màn hình của sự cố. Sau khi xác minh đó là lỗi, chúng tôi sẽ bồi hoàn cho bạn số tín dụng tương ứng.
 </Callout>
 
 ### Bản xem trước Slides bị trắng hoặc lỗi định dạng
@@ -80,7 +80,7 @@ Một số phiên bản phần mềm văn phòng cũ có thể không tương th
 
 ## Hướng dẫn gửi phản hồi lỗi
 
-Nếu các cách trên không giải quyết được sự cố, vui lòng gửi phản hồi qua kênh phản hồi 👎 trong sản phẩm hoặc gửi email đến [support@moonshot.cn](mailto:support@moonshot.cn). Để giúp chúng tôi xác định sự cố nhanh hơn, vui lòng cung cấp các thông tin sau càng đầy đủ càng tốt:
+Nếu các cách trên không giải quyết được sự cố, vui lòng gửi phản hồi qua kênh phản hồi 👎 trong sản phẩm hoặc gửi email đến [support@moonshot.ai](mailto:support@moonshot.ai). Để giúp chúng tôi xác định sự cố nhanh hơn, vui lòng cung cấp các thông tin sau càng đầy đủ càng tốt:
 
 | Loại thông tin | Chi tiết |
 |------------------|---------|

@@ -30,7 +30,7 @@ La generazione di Kimi Slides può bloccarsi nelle seguenti situazioni:
 - **Attività annullata**: di solito la causa è un errore nella generazione di Kimi Slides. Avvia semplicemente una nuova chat e inserisci le stesse istruzioni dell'attività per riprovare.
 
 <Callout type="info">
-Per ulteriore assistenza, contatta il nostro team tramite il canale di feedback 👎 all'interno del prodotto oppure invia un'email a [support@moonshot.cn](mailto:support@moonshot.cn).
+Per ulteriore assistenza, contatta il nostro team tramite il canale di feedback 👎 all'interno del prodotto oppure invia un'email a [support@moonshot.ai](mailto:support@moonshot.ai).
 </Callout>
 
 ## Schede pop-up e problemi di anteprima delle Slides in modalità adattiva
@@ -51,7 +51,7 @@ Se facendo clic sulla scheda Slides non si apre la pagina di modifica, prova ad 
 - Se la scheda Slides continua a non comparire su più browser e dispositivi, segui le [Linee guida per la segnalazione dei bug](#linee-guida-per-la-segnalazione-dei-bug) qui sotto per inviare un feedback e avvia una nuova chat per rigenerare.
 
 <Callout type="info">
-Se hai confermato che il problema persiste su più dispositivi e browser, invia un'email a [support@moonshot.cn](mailto:support@moonshot.cn) per segnalarlo, allegando il link della conversazione e uno screenshot del problema. Una volta verificato come bug, ti rimborseremo con i crediti corrispondenti.
+Se hai confermato che il problema persiste su più dispositivi e browser, invia un'email a [support@moonshot.ai](mailto:support@moonshot.ai) per segnalarlo, allegando il link della conversazione e uno screenshot del problema. Una volta verificato come bug, ti rimborseremo con i crediti corrispondenti.
 </Callout>
 
 ### L'anteprima delle Slides è vuota o lo stile è danneggiato
@@ -80,7 +80,7 @@ Alcune versioni più datate dei software per ufficio potrebbero non essere compa
 
 ## Linee guida per la segnalazione dei bug
 
-Se i metodi sopra indicati non risolvono il problema, invia un feedback tramite il canale di feedback 👎 all'interno del prodotto oppure invia un'email a [support@moonshot.cn](mailto:support@moonshot.cn). Per aiutarci a individuare il problema più rapidamente, fornisci il più possibile le seguenti informazioni:
+Se i metodi sopra indicati non risolvono il problema, invia un feedback tramite il canale di feedback 👎 all'interno del prodotto oppure invia un'email a [support@moonshot.ai](mailto:support@moonshot.ai). Per aiutarci a individuare il problema più rapidamente, fornisci il più possibile le seguenti informazioni:
 
 | Tipo di informazione | Dettagli |
 |------------------|---------|

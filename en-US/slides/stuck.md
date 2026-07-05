@@ -30,7 +30,7 @@ Kimi Slides generation may get stuck in the following situations:
 - **Task cancelled**: This is usually caused by a Kimi Slides generation failure. Simply start a new chat and enter the same task instructions to try again.
 
 <Callout type="info">
-For further assistance, please contact our team via the 👎 feedback channel in the product, or send an email to [support@moonshot.cn](mailto:support@moonshot.cn).
+For further assistance, please contact our team via the 👎 feedback channel in the product, or send an email to [support@moonshot.ai](mailto:support@moonshot.ai).
 </Callout>
 
 ## Adaptive Mode Slides Pop-up Cards and Preview Issues
@@ -51,7 +51,7 @@ If clicking the Slides card fails to open the editing page, try refreshing and r
 - If the Slides card still fails to appear across multiple browsers and devices, please follow the [Bug Feedback Guidelines](#bug-feedback-guidelines) below to submit feedback, and start a new chat to regenerate.
 
 <Callout type="info">
-If you have confirmed that the issue persists across multiple devices and browsers, please send an email to [support@moonshot.cn](mailto:support@moonshot.cn) to report it, attaching the conversation link and a screenshot of the issue. Once verified as a bug, we will compensate you with the corresponding credits.
+If you have confirmed that the issue persists across multiple devices and browsers, please send an email to [support@moonshot.ai](mailto:support@moonshot.ai) to report it, attaching the conversation link and a screenshot of the issue. Once verified as a bug, we will compensate you with the corresponding credits.
 </Callout>
 
 ### Slides Preview Is Blank or Styling Is Broken
@@ -80,7 +80,7 @@ Some older versions of office software may not be compatible. If you are unable 
 
 ## Bug Feedback Guidelines
 
-If the above methods don't resolve the issue, please submit feedback via the in-product 👎 feedback channel or send an email to [support@moonshot.cn](mailto:support@moonshot.cn). To help us locate the issue faster, please provide the following information as much as possible:
+If the above methods don't resolve the issue, please submit feedback via the in-product 👎 feedback channel or send an email to [support@moonshot.ai](mailto:support@moonshot.ai). To help us locate the issue faster, please provide the following information as much as possible:
 
 | Information Type | Details |
 |------------------|---------|

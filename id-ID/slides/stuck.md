@@ -30,7 +30,7 @@ Pembuatan Kimi Slides dapat macet dalam situasi berikut:
 - **Tugas dibatalkan**: Hal ini biasanya disebabkan oleh kegagalan pembuatan Kimi Slides. Cukup mulai obrolan baru dan masukkan instruksi tugas yang sama untuk mencoba lagi.
 
 <Callout type="info">
-Untuk bantuan lebih lanjut, silakan hubungi tim kami melalui saluran umpan balik 👎 di dalam produk, atau kirim email ke [support@moonshot.cn](mailto:support@moonshot.cn).
+Untuk bantuan lebih lanjut, silakan hubungi tim kami melalui saluran umpan balik 👎 di dalam produk, atau kirim email ke [support@moonshot.ai](mailto:support@moonshot.ai).
 </Callout>
 
 ## Masalah Kartu Pop-up dan Pratinjau Slides Mode Adaptif
@@ -51,7 +51,7 @@ Jika mengeklik kartu Slides tidak membuka halaman pengeditan, coba segarkan dan 
 - Jika kartu Slides tetap gagal muncul di berbagai browser dan perangkat, silakan ikuti [Panduan Umpan Balik Bug](#panduan-umpan-balik-bug) di bawah untuk mengirim umpan balik, lalu mulai obrolan baru untuk membuat ulang.
 
 <Callout type="info">
-Jika Anda telah memastikan bahwa masalah ini tetap ada di berbagai perangkat dan browser, silakan kirim email ke [support@moonshot.cn](mailto:support@moonshot.cn) untuk melaporkannya, dengan melampirkan tautan percakapan dan tangkapan layar masalah. Setelah diverifikasi sebagai bug, kami akan memberikan kompensasi berupa kredit yang sesuai.
+Jika Anda telah memastikan bahwa masalah ini tetap ada di berbagai perangkat dan browser, silakan kirim email ke [support@moonshot.ai](mailto:support@moonshot.ai) untuk melaporkannya, dengan melampirkan tautan percakapan dan tangkapan layar masalah. Setelah diverifikasi sebagai bug, kami akan memberikan kompensasi berupa kredit yang sesuai.
 </Callout>
 
 ### Pratinjau Slides Kosong atau Tampilannya Rusak
@@ -80,7 +80,7 @@ Beberapa versi lama perangkat lunak perkantoran mungkin tidak kompatibel. Jika A
 
 ## Panduan Umpan Balik Bug
 
-Jika metode di atas tidak menyelesaikan masalah, silakan kirim umpan balik melalui saluran umpan balik 👎 di dalam produk atau kirim email ke [support@moonshot.cn](mailto:support@moonshot.cn). Untuk membantu kami menemukan masalah lebih cepat, mohon berikan informasi berikut sebanyak mungkin:
+Jika metode di atas tidak menyelesaikan masalah, silakan kirim umpan balik melalui saluran umpan balik 👎 di dalam produk atau kirim email ke [support@moonshot.ai](mailto:support@moonshot.ai). Untuk membantu kami menemukan masalah lebih cepat, mohon berikan informasi berikut sebanyak mungkin:
 
 | Jenis Informasi | Detail |
 |------------------|---------|

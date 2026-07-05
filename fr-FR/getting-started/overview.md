@@ -36,7 +36,7 @@ Kimi est bien plus qu'un assistant conversationnel — c'est un agent IA capable
 |-------|-------------|------|
 | **K2.6 Agent** | Planifie et accomplit automatiquement des tâches : génération de sites web, création de diapositives, Deep Research, traitement de documents et de feuilles de calcul | [kimi.com/agent](https://www.kimi.com/agent) |
 | **K2.6 Agent Swarm [Bêta]** | Prend en charge jusqu'à 4 000 appels d'outils en parallèle, coordonnant plus de 300 sous-agents pour la recherche à grande échelle, la rédaction de longs textes et le traitement par lots | [kimi.com/agent-swarm](https://www.kimi.com/agent-swarm) |
-| **Kimi Code** | Suite d'assistance au code pensée pour les développeurs, avec outil CLI et extension VS Code | [kimi.com/code](https://www.kimi.com/code?from=kfc_overview_topbar) |
+| **Kimi Code** | Suite d'assistance au code pensée pour les développeurs, avec outil CLI et extension VS Code | [kimi.com/code](https://www.kimi.com/code) |
 | **Kimi Claw** | Plateforme d'automatisation cloud sans déploiement — lancez un agent IA persistant en moins de 30 secondes avec plus de 5 000 compétences intégrées (ClawHub) | [kimi.com/bot](https://www.kimi.com/bot) |
 
 ## Autres fonctionnalités essentielles

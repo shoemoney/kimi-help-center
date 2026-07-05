@@ -36,7 +36,7 @@ Kimi không chỉ là trợ lý trò chuyện — đó là một AI agent có th
 |-------|-------------|------|
 | **K2.6 Agent** | Tự động lập kế hoạch và hoàn thành tác vụ, bao gồm tạo website, tạo trang trình bày, Deep Research, xử lý tài liệu và bảng tính | [kimi.com/agent](https://www.kimi.com/agent) |
 | **K2.6 Agent Swarm [Beta]** | Hỗ trợ tối đa 4.000 lệnh gọi công cụ song song, điều phối hơn 300 subagent cho tìm kiếm quy mô lớn, viết nội dung dài và xử lý hàng loạt | [kimi.com/agent-swarm](https://www.kimi.com/agent-swarm) |
-| **Kimi Code** | Bộ trợ lý lập trình dành cho nhà phát triển, gồm công cụ CLI và tiện ích mở rộng VS Code | [kimi.com/code](https://www.kimi.com/code?from=kfc_overview_topbar) |
+| **Kimi Code** | Bộ trợ lý lập trình dành cho nhà phát triển, gồm công cụ CLI và tiện ích mở rộng VS Code | [kimi.com/code](https://www.kimi.com/code) |
 | **Kimi Claw** | Nền tảng tự động hóa trên đám mây không cần triển khai — khởi chạy AI agent thường trực trong chưa đầy 30 giây với hơn 5.000 kỹ năng tích hợp sẵn (ClawHub) | [kimi.com/bot](https://www.kimi.com/bot) |
 
 ## Các tính năng cốt lõi khác

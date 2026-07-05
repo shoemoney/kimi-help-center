@@ -34,7 +34,7 @@ Kimi 不仅是对话助手，更是能自主执行任务的 AI Agent：
 
 - **[通用 Agent](https://www.kimi.com/agent)**：自动规划并完成任务，支持网站生成、PPT 制作、深度研究、文档和表格处理等。
 - **[Agent 集群](https://www.kimi.com/agent-swarm)**：支持高达 1500 次并行工具调用，可以自主调度多达 100+ 子智能体（Sub-agents）并行处理任务，适用海量搜索、长文写作、批量处理任务。
-- **[Kimi Code](https://www.kimi.com/code?from=kfc_overview_topbar)**：面向开发者的编程助手套件，包括命令行工具（CLI）、VS Code 插件。
+- **[Kimi Code](https://www.kimi.com/code)**：面向开发者的编程助手套件，包括命令行工具（CLI）、VS Code 插件。
 - **[Kimi Claw](https://www.kimi.com/bot)**：零部署云端自动化平台，无需服务器或 Docker，30 秒内即可启动持续运行的 AI 代理。内置 5,000+ 技能库（ClawHub），支持链式组合调用与多步骤自主规划，轻松完成复杂调研与数据分析流程。
 
 ## 其他核心功能

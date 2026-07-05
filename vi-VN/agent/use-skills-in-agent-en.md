@@ -125,5 +125,5 @@ Một mô tả Skill hoàn chỉnh nên bao gồm:
 
 <ComparisonBlock
   wrong={"Giúp người dùng tìm kiếm và khám phá Skills."}
-  correct={"Giúp người dùng tìm kiếm và khám phá Skills. Được dùng khi người dùng muốn tìm một loại Skill cụ thể hoặc mô tả một vấn đề và mong nhận được đề xuất Skill. Các từ kích hoạt bao gồm 'Tìm Skill', 'Tìm kiếm Skill', 'Có Skill nào làm được X không?', v.v."}
+  correct={"Giúp người dùng tìm kiếm và khám phá Skills. Được dùng khi người dùng muốn tìm một loại Skill cụ thể hoặc mô tả một vấn đề và mong nhận được đề xuất Skill. Các từ kích hoạt bao gồm “Tìm Skill”, “Tìm kiếm Skill”, “Có Skill nào làm được X không?”, v.v."}
 />

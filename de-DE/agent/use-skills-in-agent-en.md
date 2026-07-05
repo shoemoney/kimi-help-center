@@ -125,5 +125,5 @@ Eine vollständige Skill-Beschreibung sollte Folgendes enthalten:
 
 <ComparisonBlock
   wrong={"Nutzern helfen, Skills zu suchen und zu entdecken."}
-  correct={"Nutzern helfen, Skills zu suchen und zu entdecken. Wird verwendet, wenn Nutzer ausdrücklich einen bestimmten Typ von Skill finden möchten oder ein Problem beschreiben und auf Skill-Empfehlungen hoffen. Zu den Auslösewörtern zählen ‚Skills finden‘, ‚Skills suchen‘, ‚Gibt es einen Skill, der X kann?‘ usw."}
+  correct={"Nutzern helfen, Skills zu suchen und zu entdecken. Wird verwendet, wenn Nutzer ausdrücklich einen bestimmten Typ von Skill finden möchten oder ein Problem beschreiben und auf Skill-Empfehlungen hoffen. Zu den Auslösewörtern zählen “Skills finden”, “Skills suchen”, “Gibt es einen Skill, der X kann?” usw."}
 />

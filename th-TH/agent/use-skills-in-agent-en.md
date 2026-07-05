@@ -125,5 +125,5 @@ Kimi อาศัยคำอธิบาย Skill เพื่อพิจา�
 
 <ComparisonBlock
   wrong={"ช่วยผู้ใช้ค้นหาและค้นพบ Skills"}
-  correct={"ช่วยผู้ใช้ค้นหาและค้นพบ Skills ใช้เมื่อผู้ใช้ต้องการค้นหา Skill ประเภทใดประเภทหนึ่งอย่างชัดเจน หรืออธิบายปัญหาและหวังจะได้รับคำแนะนำ Skill คำที่กระตุ้นได้แก่ 'Find Skills', 'Search Skills', 'Is there a Skill that can do X?' เป็นต้น"}
+  correct={"ช่วยผู้ใช้ค้นหาและค้นพบ Skills ใช้เมื่อผู้ใช้ต้องการค้นหา Skill ประเภทใดประเภทหนึ่งอย่างชัดเจน หรืออธิบายปัญหาและหวังจะได้รับคำแนะนำ Skill คำที่กระตุ้นได้แก่ “Find Skills”, “Search Skills”, “Is there a Skill that can do X?” เป็นต้น"}
 />

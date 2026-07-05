@@ -80,7 +80,7 @@ preview: false
 />
 
 ## Limiti della memoria
-Lo Memory Space presenta attualmente i seguenti limiti:
+Lo Spazio di memoria presenta attualmente i seguenti limiti:
 - È possibile memorizzare fino a 50 voci di memoria.
 - Ogni voce di memoria è limitata a 500 caratteri.
 - Le memorie create prima di aprile 2026 possono superare questo limite; tali memorie esistenti vengono comunque conservate.

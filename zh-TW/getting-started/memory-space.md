@@ -1,5 +1,5 @@
 ---
-title: "Memory Space（記憶空間）"
+title: "記憶空間（記憶空間）"
 slug: "memory-space"
 order: 6
 extract_headings: false
@@ -7,11 +7,11 @@ preview: false
 ---
 
 <SeoMeta
-  title="Memory Space（記憶空間） - Kimi 說明中心"
+  title="記憶空間（記憶空間） - Kimi 說明中心"
   description="Kimi 真的學會了傾聽——聊得越多，它越懂你。運作方式如下："
 />
 
-# Memory Space（記憶空間）
+# 記憶空間（記憶空間）
 
 ## 什麼是記憶？
 Kimi 真的學會了傾聽——聊得越多，它越懂你。運作方式如下：
@@ -51,7 +51,7 @@ Kimi 會使用另行訓練的模型，有選擇地記住對你有價值的對話
 **(2) 透過設定管理（UI）**
 
 你也可以透過設定介面管理記憶：
-- Web / Mobile：設定 → 個人化 → Memory Space（記憶空間）
+- Web / Mobile：設定 → 個人化 → 記憶空間（記憶空間）
 - 你可以在這裡查看所有已儲存的記憶項目
 - 也可以手動刪除不再需要的任何記憶
 
@@ -74,10 +74,10 @@ Kimi 會使用另行訓練的模型，有選擇地記住對你有價值的對話
 - 「……別忘了這件事」
 
 ### 更新記憶
-前往個人檔案 → 設定 → 個人化 → Memory Space（記憶空間），即可編輯個別記憶項目。
+前往個人檔案 → 設定 → 個人化 → 記憶空間（記憶空間），即可編輯個別記憶項目。
 
 ### 刪除（遺忘）記憶
-前往個人檔案 → 設定 → 個人化 → Memory Space（記憶空間），並在個別項目上點選刪除。
+前往個人檔案 → 設定 → 個人化 → 記憶空間（記憶空間），並在個別項目上點選刪除。
 
 <Frames
   src="./images/memory-space/screenshot-19.png"

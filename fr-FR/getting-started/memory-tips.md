@@ -80,7 +80,7 @@ preview: false
 />
 
 ## Limites de la mémoire
-Memory Space comporte actuellement les limites suivantes :
+Espace mémoire comporte actuellement les limites suivantes :
 - Vous pouvez enregistrer jusqu'à 50 entrées de mémoire.
 - Chaque entrée de mémoire est limitée à 500 caractères.
 - Les mémoires créées avant avril 2026 peuvent dépasser cette limite ; ces mémoires existantes sont toujours conservées.

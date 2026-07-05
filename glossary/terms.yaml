@@ -248,12 +248,28 @@ terms:
   zh_form: 记忆空间
   en_form: Memory Space
   alias: []
-  translation_strategy: keep_original_with_note
+  translation_strategy: localize
   case_sensitive: true
   region_note: global
   context_example: 记忆空间（Memory Space）支持长期记忆
   source_article: zh-CN/getting-started/memory-space.md
   status: confirmed
+  localized_forms:
+    zh-CN: 记忆空间
+    zh-SG: 记忆空间
+    zh-TW: 記憶空間
+    de-DE: Erinnerungsbereich
+    es-419: Espacio de memoria
+    fr-FR: Espace mémoire
+    id-ID: Ruang Memori
+    it-IT: Spazio di memoria
+    ja-JP: 記憶領域
+    ko-KR: 메모리 공간
+    pt-BR: Espaço de memória
+    tr-TR: Bellek Alanı
+    ru-RU: Пространство памяти
+    th-TH: พื้นที่ความจำ
+    vi-VN: Không gian bộ nhớ
 - id: P1-018
   category: P1
   zh_form: 网页搜索

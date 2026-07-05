@@ -1,5 +1,5 @@
 ---
-title: "Memory Space"
+title: "Espace mémoire"
 slug: "memory-space"
 order: 6
 extract_headings: false
@@ -7,11 +7,11 @@ preview: false
 ---
 
 <SeoMeta
-  title="Memory Space - Centre d'aide Kimi"
+  title="Espace mémoire - Centre d'aide Kimi"
   description="Kimi a véritablement appris à vous écouter : plus vous échangez avec lui, mieux il vous comprend. Voici comment cela fonctionne :"
 />
 
-# Memory Space
+# Espace mémoire
 
 ## Qu'est-ce que la mémoire ?
 Kimi a véritablement appris à vous écouter : plus vous échangez avec lui, mieux il vous comprend. Voici comment cela fonctionne :
@@ -51,7 +51,7 @@ Remarque : la mémoire est entièrement sous votre contrôle. Elle n'est pas uti
 **(2) Gérer via les Paramètres (interface)**
 
 Vous pouvez également gérer la mémoire depuis l'interface des paramètres :
-- Web / Mobile : Paramètres → Personnalisation → Memory Space
+- Web / Mobile : Paramètres → Personnalisation → Espace mémoire
 - Vous pouvez y consulter toutes les entrées de mémoire enregistrées
 - Vous pouvez supprimer manuellement toute mémoire dont vous n'avez plus besoin
 
@@ -74,10 +74,10 @@ S'il y a un point précis que vous tenez à ce que Kimi retienne, insistez :
 - « …n'oublie pas cela »
 
 ### Mettre à jour des mémoires
-Allez dans Profil → Paramètres → Personnalisation → Memory Space pour modifier chaque entrée de mémoire.
+Allez dans Profil → Paramètres → Personnalisation → Espace mémoire pour modifier chaque entrée de mémoire.
 
 ### Supprimer (oublier) des mémoires
-Allez dans Profil → Paramètres → Personnalisation → Memory Space et cliquez sur supprimer pour chaque entrée.
+Allez dans Profil → Paramètres → Personnalisation → Espace mémoire et cliquez sur supprimer pour chaque entrée.
 
 <Frames
   src="./images/memory-space/screenshot-19.png"

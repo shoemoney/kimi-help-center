@@ -1,5 +1,5 @@
 ---
-title: "Memory Space"
+title: "Ruang Memori"
 slug: "memory-space"
 order: 6
 extract_headings: false
@@ -7,11 +7,11 @@ preview: false
 ---
 
 <SeoMeta
-  title="Memory Space - Pusat Bantuan Kimi"
+  title="Ruang Memori - Pusat Bantuan Kimi"
   description="Kimi benar-benar belajar mendengarkan — semakin banyak Anda berbicara, semakin baik ia memahami Anda. Begini cara kerjanya:"
 />
 
-# Memory Space
+# Ruang Memori
 
 ## Apa itu memori?
 Kimi benar-benar belajar mendengarkan — semakin banyak Anda berbicara, semakin baik ia memahami Anda. Begini cara kerjanya:
@@ -51,7 +51,7 @@ Catatan: Memori sepenuhnya berada dalam kendali Anda. Memori tidak digunakan unt
 **(2) Kelola lewat Pengaturan (UI)**
 
 Anda juga bisa mengelola memori melalui antarmuka pengaturan:
-- Web / Seluler: Pengaturan → Personalisasi → Memory Space
+- Web / Seluler: Pengaturan → Personalisasi → Ruang Memori
 - Di sini Anda dapat melihat semua entri memori yang tersimpan
 - Anda bisa menghapus secara manual memori yang sudah tidak diperlukan
 
@@ -74,10 +74,10 @@ Jika ada sesuatu yang khusus ingin Anda agar Kimi ingat, tegaskanlah:
 - "…jangan sampai lupa yang ini"
 
 ### Memperbarui memori
-Buka Profil → Pengaturan → Personalisasi → Memory Space untuk menyunting entri memori satu per satu.
+Buka Profil → Pengaturan → Personalisasi → Ruang Memori untuk menyunting entri memori satu per satu.
 
 ### Menghapus (melupakan) memori
-Buka Profil → Pengaturan → Personalisasi → Memory Space lalu klik hapus pada entri yang dimaksud.
+Buka Profil → Pengaturan → Personalisasi → Ruang Memori lalu klik hapus pada entri yang dimaksud.
 
 <Frames
   src="./images/memory-space/screenshot-19.png"

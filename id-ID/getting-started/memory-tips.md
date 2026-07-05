@@ -80,7 +80,7 @@ preview: false
 />
 
 ## Batas memori
-Saat ini Memory Space memiliki batasan berikut:
+Saat ini Ruang Memori memiliki batasan berikut:
 - Maksimal 50 entri memori dapat disimpan.
 - Setiap entri memori dibatasi hingga 500 karakter.
 - Memori yang dibuat sebelum April 2026 mungkin melebihi batas ini; memori lama tersebut tetap dipertahankan.

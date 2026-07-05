@@ -19,11 +19,11 @@ OpenClaw réinitialise automatiquement la conversation **chaque jour à 4 h 00**
 
 Si vous souhaitez modifier le moment de la réinitialisation, vous pouvez ajuster la planification dans `config.yaml`.
 
-**Bonne pratique :** pour tout élément important — préférences, détails de projet, instructions récurrentes — demandez explicitement à Kimi Claw de l'enregistrer : _« Remember this to Memory. »_ Les informations stockées dans Memory Space sont conservées d'une réinitialisation de conversation à l'autre.
+**Bonne pratique :** pour tout élément important — préférences, détails de projet, instructions récurrentes — demandez explicitement à Kimi Claw de l'enregistrer : _« Remember this to Memory. »_ Les informations stockées dans Espace mémoire sont conservées d'une réinitialisation de conversation à l'autre.
 
 ## Kimi Claw a-t-il perdu la mémoire ?
 
-La réinitialisation quotidienne de 4 h efface le contexte de la conversation active. Si un élément n'a pas été enregistré dans **Memory Space**, il est perdu.
+La réinitialisation quotidienne de 4 h efface le contexte de la conversation active. Si un élément n'a pas été enregistré dans **Espace mémoire**, il est perdu.
 
 **Comment y remédier :**
 - Pendant une conversation, dites _« Remember X to Memory »_ et Kimi Claw l'inscrira dans le stockage à long terme.

@@ -1,5 +1,5 @@
 ---
-title: "Memory Space"
+title: "Erinnerungsbereich"
 slug: "memory-space"
 order: 6
 extract_headings: false
@@ -7,11 +7,11 @@ preview: false
 ---
 
 <SeoMeta
-  title="Memory Space - Kimi Hilfecenter"
+  title="Erinnerungsbereich - Kimi Hilfecenter"
   description="Kimi hat wirklich gelernt zuzuhören – je mehr Sie erzählen, desto besser versteht es Sie. So funktioniert es:"
 />
 
-# Memory Space
+# Erinnerungsbereich
 
 ## Was ist das Gedächtnis?
 Kimi hat wirklich gelernt zuzuhören – je mehr Sie erzählen, desto besser versteht es Sie. So funktioniert es:
@@ -51,7 +51,7 @@ Hinweis: Das Gedächtnis liegt vollständig in Ihrer Hand. Es wird nicht für da
 **(2) Verwaltung über die Einstellungen (Benutzeroberfläche)**
 
 Sie können das Gedächtnis auch über die Einstellungen verwalten:
-- Web / Mobil: Einstellungen → Personalisierung → Memory Space
+- Web / Mobil: Einstellungen → Personalisierung → Erinnerungsbereich
 - Hier können Sie alle gespeicherten Gedächtniseinträge einsehen
 - Sie können jeden Eintrag, den Sie nicht mehr benötigen, manuell löschen
 
@@ -74,10 +74,10 @@ Wenn es etwas gibt, das Kimi sich ausdrücklich merken soll, betonen Sie es:
 - „… vergiss das nicht“
 
 ### Gedächtniseinträge aktualisieren
-Gehen Sie zu Profil → Einstellungen → Personalisierung → Memory Space, um einzelne Gedächtniseinträge zu bearbeiten.
+Gehen Sie zu Profil → Einstellungen → Personalisierung → Erinnerungsbereich, um einzelne Gedächtniseinträge zu bearbeiten.
 
 ### Gedächtniseinträge löschen (vergessen)
-Gehen Sie zu Profil → Einstellungen → Personalisierung → Memory Space und klicken Sie bei einzelnen Einträgen auf Löschen.
+Gehen Sie zu Profil → Einstellungen → Personalisierung → Erinnerungsbereich und klicken Sie bei einzelnen Einträgen auf Löschen.
 
 <Frames
   src="./images/memory-space/screenshot-19.png"

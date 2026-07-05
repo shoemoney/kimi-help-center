@@ -39,18 +39,6 @@ Additional seats purchased during the subscription period are prorated based on 
 - Kimi Code 5x credits
 - Dedicated technical support
 
-### AI Capabilities
-
-| Benefit | Credits |
-|---------|-------|
-| Agent Usage | 2x monthly credits |
-| Concurrent Agent Tasks | Multi-tasking (2 tasks) |
-| Priority Queue | 4x speed |
-| Agent Swarm | Up to 4 parallel subtasks |
-| Kimi Code | 5x credits |
-| Kimi Claw | One-click deployment of dedicated AI assistant, supporting Web and Android |
-| Professional Database | Covering financial, economic, and academic data sources |
-
 ### Enterprise Features
 
 - **Data Privacy Protection**: Enterprise data is not used for model training, ensuring business information security

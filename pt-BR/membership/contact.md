@@ -42,7 +42,7 @@ Ideal para:
 ## Suporte ao serviço de API
 
 **E-mail:** api-service@moonshot.ai.
-Você também pode acessar a [Comunidade Kimi OpenPlatform](https://forum.moonshot.ai/)
+Você também pode acessar a [Comunidade da Kimi Open Platform](https://forum.moonshot.ai/)
 
 Ideal para:
 

@@ -31,23 +31,19 @@ Các chỗ mua thêm trong thời gian đăng ký sẽ được tính theo tỷ 
 
 ## Quyền lợi cốt lõi
 
-### Năng lực AI
-
-| Quyền lợi | Tín dụng |
-|---------|-------|
-| Lượt dùng Agent | gấp 4 lần (khoảng 150 lượt/tháng) |
-| Tác vụ Agent đồng thời | 2 tác vụ |
-| Hàng đợi ưu tiên | tốc độ gấp 4 lần |
-| Agent Cluster | 50 lượt/tháng, 4 tác vụ con song song |
-| Kimi Code | tín dụng gấp 20 lần |
-| Kimi Claw | Triển khai trợ lý AI chuyên biệt chỉ với một nhấp chuột, hỗ trợ Web và Android |
-| Cơ sở dữ liệu chuyên nghiệp | 5.000 lượt/tháng, bao quát các nguồn dữ liệu tài chính, kinh tế và học thuật |
+- Số lượng đặt mua tối thiểu 5 chỗ
+- Bảo vệ quyền riêng tư dữ liệu cấp doanh nghiệp
+- Ưu tiên truy cập các tính năng thử nghiệm: Agent Swarm / Kimi Claw / Professional Database
+- Tín dụng Agent hàng tháng gấp 2 lần
+- Agent đa nhiệm
+- Kimi Code tín dụng gấp 5 lần
+- Hỗ trợ kỹ thuật chuyên biệt
 
 ### Tính năng dành cho doanh nghiệp
 
 - **Bảo vệ quyền riêng tư dữ liệu**: Dữ liệu doanh nghiệp không được dùng để huấn luyện mô hình, đảm bảo an toàn thông tin kinh doanh
 - **Quản lý thành viên**: Quản trị viên có thể mời và xóa thành viên, phân bổ chỗ một cách linh hoạt
-- **Không gian làm việc**: Dữ liệu cá nhân và doanh nghiệp được cách ly hoàn toàn, hỗ trợ chuyển đổi giữa các không gian làm việc
+- **Hỗ trợ kỹ thuật chuyên biệt**: Khách hàng doanh nghiệp nhận được hỗ trợ kỹ thuật chuyên biệt
 
 ## Quản lý thành viên
 
@@ -97,7 +93,7 @@ Khi chuyển đổi không gian làm việc, trang sẽ tự động làm mới 
 
 <Callout type="warning">
 
-Hỗ trợ nền tảng: Web hỗ trợ đầy đủ các tính năng Kimi Business. Ứng dụng di động và máy tính chỉ hỗ trợ tư cách thành viên cá nhân; các tính năng dành cho doanh nghiệp không khả dụng.
+Hỗ trợ nền tảng: Web và ứng dụng máy tính hỗ trợ các tính năng doanh nghiệp Kimi Business. Ứng dụng di động hiện chỉ hỗ trợ tư cách thành viên cá nhân; các tính năng dành cho doanh nghiệp không khả dụng trên đó.
 
 </Callout>
 

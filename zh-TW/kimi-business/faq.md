@@ -66,8 +66,16 @@ Kimi Business 支援企業銀行轉帳。請依照下列步驟操作：
 目前 Kimi App 不支援 Kimi Business 企業功能，僅支援個人會員。桌面版用戶端現已支援 Kimi Business。使用方式如下：
 
 1. 開啟 Kimi 桌面版用戶端，並使用已加入企業組織的帳號登入。
-2. 點擊頭像 / 工作區入口，切換至企業工作區。
-3. 切換後，即可在桌面版用戶端使用 Kimi Business 企業權益。
+2. 在左上角切換至 Chat 模式。
+3. 點擊頭像 / 工作區入口，切換至企業工作區。
+4. 切換後，即可在桌面版用戶端使用 Kimi Business 企業權益。
+
+<Frames
+  src="./images/faq/desktop-workspace-switch-en.png"
+  alt="在 Kimi 桌面版用戶端切換至企業工作區"
+  width={3024}
+  height={1832}
+/>
 
 個人會員與企業會員彼此獨立。如果你已訂閱個人會員，仍可在 App 中繼續使用個人會員權益；在桌面版用戶端中，可用權益則依目前選取的工作區而定。
 

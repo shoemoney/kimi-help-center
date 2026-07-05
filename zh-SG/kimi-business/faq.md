@@ -66,8 +66,16 @@ Kimi Business 适合有团队协作需求的中小型企业，尤其适用于需
 目前，Kimi App 暂不支持 Kimi Business 企业功能，仅支持个人会员。桌面客户端现已支持 Kimi Business。使用方法如下：
 
 1. 打开 Kimi 桌面客户端，并使用已加入企业组织的账号登录。
-2. 点击头像 / 工作空间入口，切换到企业工作空间。
-3. 切换后，即可在桌面客户端使用 Kimi Business 企业权益。
+2. 在左上角切换到 Chat 模式。
+3. 点击头像 / 工作空间入口，切换到企业工作空间。
+4. 切换后，即可在桌面客户端使用 Kimi Business 企业权益。
+
+<Frames
+  src="./images/faq/desktop-workspace-switch-en.png"
+  alt="切换到 Kimi 桌面客户端中的企业工作空间"
+  width={3024}
+  height={1832}
+/>
 
 个人会员与企业会员相互独立。如果你已订阅个人会员，可继续在 App 中使用个人会员权益；在桌面客户端中，可用权益取决于当前选择的工作空间。
 

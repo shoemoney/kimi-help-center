@@ -66,8 +66,16 @@ Hinweis: Die Empfängerkontonummer gilt nur für diese Überweisung und muss nic
 Derzeit unterstützt die Kimi App keine Unternehmensfunktionen von Kimi Business und nur persönliche Mitgliedschaften. Der Desktop-Client unterstützt Kimi Business jetzt. So nutzen Sie es:
 
 1. Öffnen Sie den Kimi-Desktop-Client und melden Sie sich mit einem Konto an, das Ihrer Unternehmensorganisation beigetreten ist.
-2. Klicken Sie auf das Profilbild bzw. den Workspace-Eintrag und wechseln Sie zum Unternehmens-Workspace.
-3. Nach dem Wechsel können Sie die Unternehmensleistungen von Kimi Business im Desktop-Client nutzen.
+2. Wechseln Sie oben links in den Chat-Modus.
+3. Klicken Sie auf das Profilbild bzw. den Workspace-Eintrag und wechseln Sie zum Unternehmens-Workspace.
+4. Nach dem Wechsel können Sie die Unternehmensleistungen von Kimi Business im Desktop-Client nutzen.
+
+<Frames
+  src="./images/faq/desktop-workspace-switch-en.png"
+  alt="Wechsel zum Unternehmens-Workspace im Kimi-Desktop-Client"
+  width={3024}
+  height={1832}
+/>
 
 Persönliche und Unternehmensmitgliedschaften sind voneinander unabhängig. Wenn Sie bereits eine persönliche Mitgliedschaft abonniert haben, können Sie die entsprechenden Leistungen weiterhin in der App nutzen; im Desktop-Client richten sich die verfügbaren Leistungen nach dem aktuell ausgewählten Workspace.
 

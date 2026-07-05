@@ -66,8 +66,16 @@ Nota: il numero del conto beneficiario vale solo per questo bonifico e non deve 
 Attualmente l'app Kimi non supporta le funzionalità aziendali di Kimi Business e gestisce soltanto gli abbonamenti personali. Il client desktop, invece, supporta ora Kimi Business. Per utilizzarlo:
 
 1. Apri il client desktop di Kimi e accedi con un account che ha aderito alla tua organizzazione aziendale.
-2. Fai clic sull'avatar o sull'accesso allo spazio di lavoro e passa allo spazio di lavoro aziendale.
-3. Una volta effettuato il passaggio, potrai usufruire dei vantaggi aziendali di Kimi Business nel client desktop.
+2. In alto a sinistra, passa alla modalità Chat.
+3. Fai clic sull'avatar o sull'accesso allo spazio di lavoro e passa allo spazio di lavoro aziendale.
+4. Una volta effettuato il passaggio, potrai usufruire dei vantaggi aziendali di Kimi Business nel client desktop.
+
+<Frames
+  src="./images/faq/desktop-workspace-switch-en.png"
+  alt="Passaggio allo spazio di lavoro aziendale nel client desktop di Kimi"
+  width={3024}
+  height={1832}
+/>
 
 Gli abbonamenti personali e quelli aziendali sono indipendenti. Se hai già sottoscritto un abbonamento personale, puoi continuare a usufruirne nell'app; nel client desktop, i vantaggi disponibili dipendono dallo spazio di lavoro attualmente selezionato.
 

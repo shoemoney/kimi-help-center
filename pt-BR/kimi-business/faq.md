@@ -66,8 +66,16 @@ Observação: o número da conta de recebimento é válido apenas para esta tran
 Atualmente, o aplicativo Kimi não oferece suporte aos recursos corporativos do Kimi Business, apenas a assinaturas pessoais. O cliente desktop já é compatível com o Kimi Business. Para usá-lo:
 
 1. Abra o cliente desktop do Kimi e faça login com uma conta que já tenha entrado na sua organização corporativa.
-2. Clique no avatar / acesso ao espaço de trabalho e mude para o espaço de trabalho corporativo.
-3. Após a troca, você poderá usar os benefícios corporativos do Kimi Business no cliente desktop.
+2. No canto superior esquerdo, mude para o modo Chat.
+3. Clique no avatar / acesso ao espaço de trabalho e mude para o espaço de trabalho corporativo.
+4. Após a troca, você poderá usar os benefícios corporativos do Kimi Business no cliente desktop.
+
+<Frames
+  src="./images/faq/desktop-workspace-switch-en.png"
+  alt="Alternando para o espaço de trabalho corporativo no cliente desktop do Kimi"
+  width={3024}
+  height={1832}
+/>
 
 As assinaturas pessoal e corporativa são independentes. Se você já assinou uma assinatura pessoal, pode continuar usando os benefícios dela no aplicativo; no cliente desktop, os benefícios disponíveis seguem o espaço de trabalho selecionado no momento.
 

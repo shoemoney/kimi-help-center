@@ -66,8 +66,16 @@ Remarque : le numéro de compte bénéficiaire ne vaut que pour ce virement et n
 Actuellement, l'application Kimi ne prend pas en charge les fonctionnalités entreprise de Kimi Business et ne gère que les abonnements personnels. Le client de bureau prend désormais en charge Kimi Business. Pour l'utiliser :
 
 1. Ouvrez le client de bureau Kimi et connectez-vous avec un compte ayant rejoint votre organisation d'entreprise.
-2. Cliquez sur l'avatar / l'entrée de l'espace de travail et basculez vers l'espace de travail de l'entreprise.
-3. Une fois la bascule effectuée, vous pouvez profiter des avantages entreprise de Kimi Business dans le client de bureau.
+2. Dans le coin supérieur gauche, basculez en mode Chat.
+3. Cliquez sur l'avatar / l'entrée de l'espace de travail et basculez vers l'espace de travail de l'entreprise.
+4. Une fois la bascule effectuée, vous pouvez profiter des avantages entreprise de Kimi Business dans le client de bureau.
+
+<Frames
+  src="./images/faq/desktop-workspace-switch-en.png"
+  alt="Basculement vers l'espace de travail de l'entreprise dans le client de bureau Kimi"
+  width={3024}
+  height={1832}
+/>
 
 Les abonnements personnels et entreprise sont indépendants. Si vous avez déjà souscrit un abonnement personnel, vous pouvez continuer à profiter de ses avantages dans l'application ; dans le client de bureau, les avantages auxquels vous avez accès dépendent de l'espace de travail actuellement sélectionné.
 

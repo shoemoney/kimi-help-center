@@ -31,23 +31,19 @@ Le postazioni aggiuntive acquistate durante il periodo di abbonamento vengono ca
 
 ## Vantaggi principali
 
-### Funzionalità AI
-
-| Vantaggio | Crediti |
-|---------|-------|
-| Utilizzo Agent | 4x (circa 150/mese) |
-| Attività Agent in parallelo | 2 attività |
-| Coda prioritaria | velocità 4x |
-| Agent Cluster | 50 volte/mese, 4 sottoattività in parallelo |
-| Kimi Code | crediti 20x |
-| Kimi Claw | distribuzione con un solo clic dell'assistente AI dedicato, con supporto per Web e Android |
-| Database professionale | 5.000 volte/mese, con copertura di fonti dati finanziarie, economiche e accademiche |
+- Ordine minimo di 5 postazioni
+- Protezione della privacy dei dati di livello aziendale
+- Accesso prioritario alle funzionalità sperimentali: Agent Swarm / Kimi Claw / Professional Database
+- Crediti Agent mensili raddoppiati (2x)
+- Multitasking dell'Agent
+- Crediti Kimi Code 5x
+- Supporto tecnico dedicato
 
 ### Funzionalità per le imprese
 
 - **Protezione della privacy dei dati**: i dati aziendali non vengono utilizzati per l'addestramento dei modelli, garantendo la sicurezza delle informazioni di business
 - **Gestione dei membri**: gli amministratori possono invitare e rimuovere i membri, assegnando le postazioni con flessibilità
-- **Workspace**: isolamento completo tra dati personali e aziendali, con possibilità di passare da un workspace all'altro
+- **Supporto tecnico dedicato**: i clienti aziendali ricevono supporto tecnico dedicato
 
 ## Gestione dei membri
 
@@ -97,7 +93,7 @@ Quando si passa da un workspace all'altro, la pagina si aggiorna automaticamente
 
 <Callout type="warning">
 
-Supporto delle piattaforme: il Web supporta integralmente le funzionalità di Kimi Business. I client mobile e desktop supportano solo l'abbonamento personale; le funzionalità aziendali non sono disponibili.
+Supporto delle piattaforme: i client Web e desktop supportano le funzionalità aziendali di Kimi Business. L'app mobile attualmente supporta solo l'abbonamento personale; le funzionalità aziendali non sono disponibili.
 
 </Callout>
 

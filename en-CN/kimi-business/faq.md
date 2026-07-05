@@ -83,8 +83,16 @@ Note: The receiving account number is only for this transfer and does not need t
 Kimi App currently does not support Kimi Business features and only supports personal membership. The desktop client already supports Kimi Business. To use it:
 
 1. Open the Kimi desktop client and sign in with an account that has joined the enterprise organization.
-2. Click the avatar / workspace entry, then switch to the enterprise workspace.
-3. After switching, you can use your Kimi Business benefits on desktop.
+2. In the upper-left corner, switch to Chat mode.
+3. Click the avatar / workspace entry, then switch to the enterprise workspace.
+4. After switching, you can use your Kimi Business benefits on desktop.
+
+<Frames
+  src="./images/faq/desktop-workspace-switch-en.png"
+  alt="Switching to the enterprise workspace in the Kimi desktop client"
+  width={3024}
+  height={1832}
+/>
 
 Personal and enterprise plans are independent. If you have activated a personal membership, you can still use your personal membership benefits normally in the App. On desktop, you can use either personal or enterprise benefits depending on the current workspace.
 

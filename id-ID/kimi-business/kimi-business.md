@@ -31,23 +31,19 @@ Seat tambahan yang dibeli selama periode langganan dihitung secara proporsional 
 
 ## Manfaat Utama
 
-### Kemampuan AI
-
-| Manfaat | Kredit |
-|---------|-------|
-| Penggunaan Agent | 4x (sekitar 150/bulan) |
-| Tugas Agent Bersamaan | 2 tugas |
-| Antrean Prioritas | Kecepatan 4x |
-| Agent Cluster | 50 kali/bulan, 4 subtugas paralel |
-| Kimi Code | kredit 20x |
-| Kimi Claw | Penerapan asisten AI khusus dengan sekali klik, mendukung Web dan Android |
-| Database Profesional | 5.000 kali/bulan, mencakup sumber data keuangan, ekonomi, dan akademik |
+- Pemesanan minimum 5 seat
+- Perlindungan privasi data tingkat enterprise
+- Akses prioritas ke fitur eksperimental: Agent Swarm / Kimi Claw / Professional Database
+- Kredit Agent bulanan 2x
+- Multitugas Agent
+- Kredit Kimi Code 5x
+- Dukungan teknis khusus
 
 ### Fitur Enterprise
 
 - **Perlindungan Privasi Data**: Data enterprise tidak digunakan untuk pelatihan model, menjaga keamanan informasi bisnis
 - **Pengelolaan Anggota**: Administrator dapat mengundang dan mengeluarkan anggota, serta mengalokasikan seat secara fleksibel
-- **Ruang Kerja**: Pemisahan penuh antara data pribadi dan enterprise, dengan dukungan perpindahan ruang kerja
+- **Dukungan Teknis Khusus**: Pelanggan enterprise menerima dukungan teknis khusus
 
 ## Pengelolaan Anggota
 
@@ -97,7 +93,7 @@ Saat berpindah ruang kerja, halaman otomatis dimuat ulang untuk memuat data dan 
 
 <Callout type="warning">
 
-Dukungan Platform: Web mendukung penuh fitur Kimi Business. Aplikasi seluler dan desktop hanya mendukung keanggotaan pribadi; fitur enterprise tidak tersedia.
+Dukungan Platform: Klien web dan desktop mendukung fitur enterprise Kimi Business. Aplikasi seluler saat ini hanya mendukung keanggotaan pribadi; fitur enterprise tidak tersedia di sana.
 
 </Callout>
 

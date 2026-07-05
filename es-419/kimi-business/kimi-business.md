@@ -31,23 +31,19 @@ Los asientos adicionales comprados durante el periodo de suscripción se prorrat
 
 ## Beneficios principales
 
-### Capacidades de IA
-
-| Beneficio | Créditos |
-|---------|-------|
-| Uso de Agent | 4x (aprox. 150/mes) |
-| Tareas de Agent en paralelo | 2 tareas |
-| Cola prioritaria | 4x de velocidad |
-| Clúster de Agent | 50 veces/mes, 4 subtareas en paralelo |
-| Kimi Code | créditos de 20x |
-| Kimi Claw | Implementación con un solo clic de un asistente de IA dedicado, compatible con Web y Android |
-| Base de datos profesional | 5,000 veces/mes, con fuentes de datos financieros, económicos y académicos |
+- Pedido mínimo de 5 asientos
+- Protección de la privacidad de los datos de nivel empresarial
+- Acceso prioritario a funciones experimentales: Agent Swarm / Kimi Claw / Professional Database
+- 2x de créditos mensuales de Agent
+- Multitarea de Agent
+- 5x de créditos de Kimi Code
+- Soporte técnico dedicado
 
 ### Funciones para empresas
 
 - **Protección de la privacidad de los datos**: los datos de la empresa no se utilizan para entrenar modelos, lo que garantiza la seguridad de la información del negocio
 - **Gestión de miembros**: los administradores pueden invitar y eliminar miembros, asignando asientos con flexibilidad
-- **Espacio de trabajo**: aislamiento total entre los datos personales y los de la empresa, con la posibilidad de cambiar de espacio de trabajo
+- **Soporte técnico dedicado**: los clientes empresariales reciben soporte técnico dedicado
 
 ## Gestión de miembros
 
@@ -97,7 +93,7 @@ Al cambiar de espacio de trabajo, la página se actualiza automáticamente para 
 
 <Callout type="warning">
 
-Compatibilidad de plataformas: la Web es totalmente compatible con las funciones de Kimi Business. Las aplicaciones móviles y de escritorio solo admiten la membresía personal; las funciones para empresas no están disponibles.
+Compatibilidad de plataformas: los clientes Web y de escritorio admiten las funciones empresariales de Kimi Business. La aplicación móvil actualmente solo admite la membresía personal; las funciones para empresas no están disponibles allí.
 
 </Callout>
 

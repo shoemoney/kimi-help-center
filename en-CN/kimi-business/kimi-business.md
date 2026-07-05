@@ -31,23 +31,19 @@ When you add seats during a subscription period, the price is prorated based on 
 
 ## Core Benefits
 
-### AI Capabilities
-
-| Benefit | Credit |
-|--------|------|
-| Agent credit | 4× (about 150/month) |
-| Agent task parallelism | 2 tasks |
-| Agent priority generation queue | 4× faster |
-| Agent Swarm | 50 times/month, with 4 subtasks running in parallel |
-| Kimi Code | 20× credit |
-| Kimi Claw | One-click deployment of your dedicated AI assistant, supported on Web and Android |
-| Professional databases | 5,000 times/month, covering financial, economic, and academic data sources such as Tonghuashun and Tianyancha |
+- Minimum order of 5 seats
+- Enterprise-grade data privacy protection
+- Priority access to experimental features: Agent Swarm / Kimi Claw / Professional Database
+- 2x monthly Agent credits
+- Agent multi-tasking
+- Kimi Code 5x credits
+- Dedicated technical support
 
 ### Enterprise-Exclusive Features
 
 - **Data privacy protection**: Enterprise data is not used for model training, helping keep business information secure
 - **Member management**: Admins can invite and remove members, and flexibly allocate seats
-- **Workspaces**: Personal and enterprise data are separated, with support for workspace switching
+- **Dedicated technical support**: Enterprise customers receive dedicated technical support
 
 ## Member Management
 
@@ -80,6 +76,7 @@ Each person can join up to 10 enterprise organizations. After joining, a member 
 
 ### Remove Members
 
+- Removed members immediately lose access to the enterprise workspace
 - Once removed, a member immediately loses Kimi Business benefits and can no longer use enterprise credit
 - The removed member’s seat enters the "Pending release" status and will be released in the next billing cycle
 

@@ -66,8 +66,16 @@ Nota: El número de cuenta receptora es solo para esta transferencia y no es nec
 Actualmente, la app de Kimi no admite las funciones empresariales de Kimi Business y solo admite membresías personales. El cliente de escritorio ya admite Kimi Business. Para usarlo:
 
 1. Abre el cliente de escritorio de Kimi e inicia sesión con una cuenta que se haya unido a tu organización empresarial.
-2. Haz clic en el avatar / acceso al espacio de trabajo y cambia al espacio de trabajo empresarial.
-3. Después de cambiar, podrás usar los beneficios empresariales de Kimi Business en el cliente de escritorio.
+2. En la esquina superior izquierda, cambia al modo Chat.
+3. Haz clic en el avatar / acceso al espacio de trabajo y cambia al espacio de trabajo empresarial.
+4. Después de cambiar, podrás usar los beneficios empresariales de Kimi Business en el cliente de escritorio.
+
+<Frames
+  src="./images/faq/desktop-workspace-switch-en.png"
+  alt="Cambiar al espacio de trabajo empresarial en el cliente de escritorio de Kimi"
+  width={3024}
+  height={1832}
+/>
 
 Las membresías personales y empresariales son independientes. Si ya te suscribiste a una membresía personal, puedes seguir usando los beneficios de la membresía personal en la app; en el cliente de escritorio, los beneficios disponibles dependen del espacio de trabajo seleccionado actualmente.
 

@@ -114,7 +114,7 @@ Deep Research 通常需要 10–25 分鐘。系統會在背景執行——你不
 2. **額度 退還**：工具呼叫錯誤會自動退還；若研究方向偏移，請提交回饋
 3. **輸入品質**：簡潔、明確的問題能產生更好的結果
 4. **範圍界線**：若只是簡單問答，建議使用標準聊天模式，以獲得更快回覆
-5. **條款**：須遵守 [Kimi User Service Agreement](https://www.kimi.com/user/agreement/modelUse?version=v2)
+5. **條款**：須遵守 [Kimi 使用者服務協議](https://www.kimi.com/user/agreement/modelUse?version=v2)
 
 ## 相關資源
 - 技術報告：[Kimi-Researcher：端到端 RL 訓練](https://moonshotai.github.io/Kimi-Researcher/)

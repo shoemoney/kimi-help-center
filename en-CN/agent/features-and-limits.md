@@ -45,7 +45,7 @@ Context limits and output balance: Agent has a context window of 128K tokens, wh
 - Execution time: in Agent mode, a single task usually takes 5–20 minutes to execute, and Agent Swarm may take longer. You can leave the current page, but do not click Stop, as this will interrupt the task.
 - Credit usage: using Agent to execute tasks will deduct credits based on the actual token consumption. Agent shares one credit pool with other membership features, while Kimi Code uses a separate credit pool.
 - Simple tasks: for simple Q&A, we recommend using regular chat mode for a faster response.
-- Content compliance: Agent features must comply with the [Kimi User Agreement](https://www.kimi.com/user/agreement/modelUse?version=v2) and do not support generating non-compliant content. If non-compliant content is entered, Kimi will suspend or stop the service.
+- Content compliance: Agent features must comply with the [Kimi User Service Agreement](https://www.kimi.com/user/agreement/modelUse?version=v2) and do not support generating non-compliant content. If non-compliant content is entered, Kimi will suspend or stop the service.
 
 ## FAQ
 

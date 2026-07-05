@@ -64,7 +64,7 @@ Paid tiers: 60–720 Agent tasks/month depending on your plan
 - **Simple tasks**: For simple Q&A, standard chat mode is recommended for faster responses.
 
 <Callout type="warning">
-**Content Compliance**: Agent features are subject to the [Kimi User Agreement](https://www.kimi.com/user/agreement/modelUse?version=v2). Generating prohibited content is not supported; submitting prohibited content may result in service suspension.
+**Content Compliance**: Agent features are subject to the [Kimi User Service Agreement](https://www.kimi.com/user/agreement/modelUse?version=v2). Generating prohibited content is not supported; submitting prohibited content may result in service suspension.
 </Callout>
 
 ## FAQ

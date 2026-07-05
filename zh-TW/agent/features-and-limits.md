@@ -64,7 +64,7 @@ Agent 可以生成全端內容，包括前端介面、後端服務，以及持�
 - **簡單任務**：若只是簡單問答，建議使用標準聊天模式，以獲得更快回應。
 
 <Callout type="warning">
-**內容合規**：Agent 功能須遵守 [Kimi 使用者協議](https://www.kimi.com/user/agreement/modelUse?version=v2)。不支援生成禁止內容；提交禁止內容可能導致服務暫停。
+**內容合規**：Agent 功能須遵守 [Kimi 使用者服務協議](https://www.kimi.com/user/agreement/modelUse?version=v2)。不支援生成禁止內容；提交禁止內容可能導致服務暫停。
 </Callout>
 
 ## 常見問題

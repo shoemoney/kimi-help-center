@@ -64,7 +64,7 @@ Kostenpflichtige Stufen: 60–720 Agent-Aufgaben/Monat je nach Tarif
 - **Einfache Aufgaben**: Für einfache Fragen und Antworten empfiehlt sich der Standard-Chat-Modus, da er schneller antwortet.
 
 <Callout type="warning">
-**Inhaltliche Konformität**: Die Agent-Funktionen unterliegen dem [Kimi User Agreement](https://www.kimi.com/user/agreement/modelUse?version=v2). Das Erzeugen unzulässiger Inhalte wird nicht unterstützt; das Einreichen unzulässiger Inhalte kann zur Sperrung des Dienstes führen.
+**Inhaltliche Konformität**: Die Agent-Funktionen unterliegen dem [Kimi Nutzungsvereinbarung](https://www.kimi.com/user/agreement/modelUse?version=v2). Das Erzeugen unzulässiger Inhalte wird nicht unterstützt; das Einreichen unzulässiger Inhalte kann zur Sperrung des Dienstes führen.
 </Callout>
 
 ## Häufige Fragen

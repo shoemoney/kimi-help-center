@@ -64,7 +64,7 @@ Niveles de pago: de 60 a 720 tareas de Agent al mes según tu plan
 - **Tareas simples**: Para preguntas y respuestas sencillas, se recomienda el modo de chat estándar para obtener respuestas más rápidas.
 
 <Callout type="warning">
-**Cumplimiento de contenido**: Las funciones de Agent están sujetas al [Acuerdo de Usuario de Kimi](https://www.kimi.com/user/agreement/modelUse?version=v2). No se admite la generación de contenido prohibido; el envío de contenido prohibido puede dar lugar a la suspensión del servicio.
+**Cumplimiento de contenido**: Las funciones de Agent están sujetas al [Acuerdo de Servicio de Usuario de Kimi](https://www.kimi.com/user/agreement/modelUse?version=v2). No se admite la generación de contenido prohibido; el envío de contenido prohibido puede dar lugar a la suspensión del servicio.
 </Callout>
 
 ## Preguntas frecuentes

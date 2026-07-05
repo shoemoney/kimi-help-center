@@ -64,7 +64,7 @@ Piani a pagamento: da 60 a 720 attività Agent/mese a seconda del piano
 - **Attività semplici**: per semplici domande e risposte, si consiglia la modalità chat standard per risposte più rapide.
 
 <Callout type="warning">
-**Conformità dei contenuti**: le funzionalità di Agent sono soggette al [Kimi User Agreement](https://www.kimi.com/user/agreement/modelUse?version=v2). La generazione di contenuti vietati non è supportata; l'invio di contenuti vietati può comportare la sospensione del servizio.
+**Conformità dei contenuti**: le funzionalità di Agent sono soggette al [Contratto di Servizio Utente di Kimi](https://www.kimi.com/user/agreement/modelUse?version=v2). La generazione di contenuti vietati non è supportata; l'invio di contenuti vietati può comportare la sospensione del servizio.
 </Callout>
 
 ## Domande frequenti

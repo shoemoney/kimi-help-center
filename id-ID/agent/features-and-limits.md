@@ -64,7 +64,7 @@ Tingkat berbayar: 60–720 tugas Agent/bulan tergantung paket Anda
 - **Tugas sederhana**: Untuk tanya jawab sederhana, mode chat standar disarankan demi respons yang lebih cepat.
 
 <Callout type="warning">
-**Kepatuhan Konten**: Fitur Agent tunduk pada [Perjanjian Pengguna Kimi](https://www.kimi.com/user/agreement/modelUse?version=v2). Menghasilkan konten terlarang tidak didukung; mengirimkan konten terlarang dapat mengakibatkan penangguhan layanan.
+**Kepatuhan Konten**: Fitur Agent tunduk pada [Perjanjian Layanan Pengguna Kimi](https://www.kimi.com/user/agreement/modelUse?version=v2). Menghasilkan konten terlarang tidak didukung; mengirimkan konten terlarang dapat mengakibatkan penangguhan layanan.
 </Callout>
 
 ## FAQ

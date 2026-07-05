@@ -114,7 +114,7 @@ Deep Research thường mất 10–25 phút. Hệ thống chạy nền — bạn
 2. **Hoàn lại tín dụng**: Tự động hoàn lại nếu xảy ra lỗi khi gọi công cụ; hãy gửi phản hồi nếu nghiên cứu đi chệch hướng
 3. **Chất lượng đầu vào**: Câu hỏi ngắn gọn, rõ ràng sẽ cho kết quả tốt hơn
 4. **Ranh giới phạm vi**: Với các câu hỏi đơn giản, hãy dùng chế độ trò chuyện thông thường để có phản hồi nhanh hơn
-5. **Điều khoản**: Tuân theo [Kimi User Service Agreement](https://www.kimi.com/user/agreement/modelUse?version=v2)
+5. **Điều khoản**: Tuân theo [Thỏa thuận Dịch vụ Người dùng Kimi](https://www.kimi.com/user/agreement/modelUse?version=v2)
 
 ## Tài nguyên liên quan
 - Báo cáo kỹ thuật: [Kimi-Researcher: End-to-End RL Training](https://moonshotai.github.io/Kimi-Researcher/)

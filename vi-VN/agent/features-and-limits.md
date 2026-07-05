@@ -64,7 +64,7 @@ Gói trả phí: 60–720 tác vụ Agent/tháng tùy theo gói của bạn
 - **Tác vụ đơn giản**: Với các câu hỏi đáp đơn giản, nên dùng chế độ trò chuyện tiêu chuẩn để được phản hồi nhanh hơn.
 
 <Callout type="warning">
-**Tuân thủ nội dung**: Các tính năng Agent tuân theo [Kimi User Agreement](https://www.kimi.com/user/agreement/modelUse?version=v2). Việc tạo nội dung bị cấm không được hỗ trợ; gửi nội dung bị cấm có thể dẫn đến việc đình chỉ dịch vụ.
+**Tuân thủ nội dung**: Các tính năng Agent tuân theo [Thỏa thuận Dịch vụ Người dùng Kimi](https://www.kimi.com/user/agreement/modelUse?version=v2). Việc tạo nội dung bị cấm không được hỗ trợ; gửi nội dung bị cấm có thể dẫn đến việc đình chỉ dịch vụ.
 </Callout>
 
 ## Câu hỏi thường gặp

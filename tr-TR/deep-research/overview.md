@@ -114,7 +114,7 @@ Deep Research genellikle 10-25 dakika sürer. Sistem arka planda çalışır —
 2. **Kredi iadeleri**: Araç çağrısı hataları için otomatik olarak iade edilir; amacından sapan araştırmalar için geri bildirim gönderin
 3. **Girdi kalitesi**: Kısa ve iyi tanımlanmış sorular daha iyi sonuçlar üretir
 4. **Kapsam sınırları**: Basit soru-cevaplar için daha hızlı yanıtlar almak adına standart sohbet modunu kullanın
-5. **Koşullar**: [Kimi User Service Agreement](https://www.kimi.com/user/agreement/modelUse?version=v2)'a tabidir
+5. **Koşullar**: [Kimi Kullanıcı Hizmet Sözleşmesi](https://www.kimi.com/user/agreement/modelUse?version=v2)'a tabidir
 
 ## İlgili kaynaklar
 - Teknik rapor: [Kimi-Researcher: End-to-End RL Training](https://moonshotai.github.io/Kimi-Researcher/)

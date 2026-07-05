@@ -64,7 +64,7 @@ Büyük dil modellerinin 256K karakterlik bağlam sınırı (yaklaşık 40.000�
 - **Basit görevler**: Basit soru-yanıtlar için daha hızlı yanıt almak adına standart sohbet modu önerilir.
 
 <Callout type="warning">
-**İçerik Uyumu**: Agent özellikleri [Kimi Kullanıcı Sözleşmesi](https://www.kimi.com/user/agreement/modelUse?version=v2) kapsamındadır. Yasaklı içerik üretimi desteklenmez; yasaklı içerik göndermek hizmetin askıya alınmasına yol açabilir.
+**İçerik Uyumu**: Agent özellikleri [Kimi Kullanıcı Hizmet Sözleşmesi](https://www.kimi.com/user/agreement/modelUse?version=v2) kapsamındadır. Yasaklı içerik üretimi desteklenmez; yasaklı içerik göndermek hizmetin askıya alınmasına yol açabilir.
 </Callout>
 
 ## SSS

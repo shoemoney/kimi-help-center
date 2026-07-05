@@ -64,7 +64,7 @@ Agentは、フロントエンド画面、バックエンドサービス、永続
 - **簡単なタスク**: シンプルなQ&Aでは、より速く回答を得られる標準チャットモードの利用をおすすめします。
 
 <Callout type="warning">
-**コンテンツ規定の遵守**: Agent機能には [Kimiユーザー契約](https://www.kimi.com/user/agreement/modelUse?version=v2) が適用されます。禁止コンテンツの生成には対応していません。禁止コンテンツを送信した場合、サービスの利用が停止されることがあります。
+**コンテンツ規定の遵守**: Agent機能には [Kimiユーザーサービス契約](https://www.kimi.com/user/agreement/modelUse?version=v2) が適用されます。禁止コンテンツの生成には対応していません。禁止コンテンツを送信した場合、サービスの利用が停止されることがあります。
 </Callout>
 
 ## FAQ

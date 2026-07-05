@@ -64,7 +64,7 @@ Agent는 프런트엔드 인터페이스, 백엔드 서비스, 영구 저장 로
 - **간단한 작업**: 간단한 질의응답에는 더 빠른 응답을 위해 표준 채팅 모드를 권장합니다.
 
 <Callout type="warning">
-**콘텐츠 규정 준수**: Agent 기능에는 [Kimi 사용자 계약](https://www.kimi.com/user/agreement/modelUse?version=v2)이 적용됩니다. 금지된 콘텐츠 생성은 지원되지 않으며, 금지된 콘텐츠를 제출하면 서비스가 정지될 수 있습니다.
+**콘텐츠 규정 준수**: Agent 기능에는 [Kimi 사용자 서비스 이용약관](https://www.kimi.com/user/agreement/modelUse?version=v2)이 적용됩니다. 금지된 콘텐츠 생성은 지원되지 않으며, 금지된 콘텐츠를 제출하면 서비스가 정지될 수 있습니다.
 </Callout>
 
 ## FAQ

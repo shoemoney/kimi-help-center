@@ -64,7 +64,7 @@ Agent 可以生成全栈内容，包括前端界面、后端服务和持久化�
 - **简单任务**：对于简单问答，建议使用标准聊天模式，以获得更快的响应。
 
 <Callout type="warning">
-**内容合规**：Agent 功能受 [《Kimi 用户协议》](https://www.kimi.com/user/agreement/modelUse?version=v2) 约束。不支持生成违规内容；提交违规内容可能导致服务暂停。
+**内容合规**：Agent 功能受 [《Kimi 用户服务协议》](https://www.kimi.com/user/agreement/modelUse?version=v2) 约束。不支持生成违规内容；提交违规内容可能导致服务暂停。
 </Callout>
 
 ## 常见问题

@@ -64,7 +64,7 @@ Niveaux payants : de 60 à 720 tâches Agent/mois selon votre formule
 - **Tâches simples** : pour les questions-réponses simples, le mode de discussion standard est recommandé pour des réponses plus rapides.
 
 <Callout type="warning">
-**Conformité du contenu** : les fonctionnalités de l'Agent sont soumises au [Contrat d'utilisation de Kimi](https://www.kimi.com/user/agreement/modelUse?version=v2). La génération de contenu interdit n'est pas prise en charge ; la soumission de contenu interdit peut entraîner la suspension du service.
+**Conformité du contenu** : les fonctionnalités de l'Agent sont soumises au [Contrat de service utilisateur de Kimi](https://www.kimi.com/user/agreement/modelUse?version=v2). La génération de contenu interdit n'est pas prise en charge ; la soumission de contenu interdit peut entraîner la suspension du service.
 </Callout>
 
 ## FAQ

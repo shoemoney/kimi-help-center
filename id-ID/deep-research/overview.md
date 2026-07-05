@@ -114,7 +114,7 @@ Deep Research umumnya membutuhkan waktu 10–25 menit. Sistem berjalan di latar 
 2. **Pengembalian kredit**: Dikembalikan secara otomatis untuk kesalahan pemanggilan alat; kirimkan umpan balik untuk riset yang melenceng dari arah
 3. **Kualitas masukan**: Pertanyaan yang ringkas dan jelas menghasilkan hasil yang lebih baik
 4. **Batasan cakupan**: Untuk tanya-jawab sederhana, gunakan mode chat standar agar respons lebih cepat
-5. **Ketentuan**: Tunduk pada [Kimi User Service Agreement](https://www.kimi.com/user/agreement/modelUse?version=v2)
+5. **Ketentuan**: Tunduk pada [Perjanjian Layanan Pengguna Kimi](https://www.kimi.com/user/agreement/modelUse?version=v2)
 
 ## Sumber daya terkait
 - Laporan teknis: [Kimi-Researcher: End-to-End RL Training](https://moonshotai.github.io/Kimi-Researcher/)

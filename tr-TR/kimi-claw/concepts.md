@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Temel kavramlar ve terminal - Kimi Yardım Merkezi"
-  description="Kimi Claw'un temel kavramlarını — Memory, Skills, HEARTBEAT, Identity, Soul, Tools ve User — ve ağ geçidi, bot durumu, skill'ler ve zamanlanmış görevleri kontrol etmek için kullanılan terminal komutlarını öğrenin."
+  description="Kimi Claw'un temel kavramlarını — Memory, Skills, HEARTBEAT, Identity, Soul, Tools ve User — ve gateway, bot durumu, skill'ler ve zamanlanmış görevleri kontrol etmek için kullanılan terminal komutlarını öğrenin."
 />
 
 # Temel kavramlar ve terminal
@@ -36,7 +36,7 @@ Web üzerinde **Ayarlar → Terminal** yolunu izleyerek bir komut satırı aray�
 
 Dilerseniz hangi komutu çalıştırmak istediğinizi Kimi Claw'a günlük dilinizle de söyleyebilirsiniz — komutu sizin için o yürütecektir.
 
-> Not: Terminal ve eklentiler aynı bağlantı kanalını paylaşır. OpenClaw ağ geçidini yeniden başlatmak Terminal'in bağlantısını keser.
+> Not: Terminal ve eklentiler aynı bağlantı kanalını paylaşır. OpenClaw gateway'ini yeniden başlatmak Terminal'in bağlantısını keser.
 
 ## Komut referansı
 

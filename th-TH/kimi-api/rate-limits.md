@@ -1,5 +1,5 @@
 ---
-title: "การจำกัดอัตราการเรียกใช้"
+title: "Rate limits"
 slug: "api-rate-limits"
 order: 5
 extract_headings: false
@@ -7,11 +7,11 @@ preview: false
 ---
 
 <SeoMeta
-  title="การจำกัดอัตราการเรียกใช้ - ศูนย์ช่วยเหลือ Kimi"
+  title="Rate limits - ศูนย์ช่วยเหลือ Kimi"
   description="Kimi API กำหนด rate limit ทั้งความถี่ของคำขอและ concurrency เพื่อรักษาเสถียรภาพของแพลตฟอร์มและการใช้งานอย่างเป็นธรรม ระดับของ rate limit อ้างอิงจากบัญชีของคุณ..."
 />
 
-# การจำกัดอัตราการเรียกใช้
+# Rate limits
 
 Kimi API กำหนด rate limit（การจำกัดอัตรา） ทั้งในด้านความถี่ของคำขอและ concurrency เพื่อรักษาเสถียรภาพของแพลตฟอร์มและการใช้งานอย่างเป็นธรรม โดยระดับของ rate limit จะอ้างอิงจากยอดเติมเงินสะสมในบัญชีของคุณ
 

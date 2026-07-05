@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="核心概念与终端 - Kimi 帮助中心"
-  description="了解 Kimi Claw 的核心概念——Memory、Skills、HEARTBEAT、Identity、Soul、Tools 和 User——以及用于检查网关、Bot 状态、Skill 和定时任务的终端命令。"
+  description="了解 Kimi Claw 的核心概念——Memory、Skills、HEARTBEAT、Identity、Soul、Tools 和 User——以及用于检查 gateway、Bot 状态、Skill 和定时任务的终端命令。"
 />
 
 # 核心概念与终端
@@ -36,7 +36,7 @@ preview: false
 
 也可以直接用自然语言告诉 Kimi Claw 要运行什么命令，它会替你执行。
 
-> 注意：终端和插件共用同一个连接通道。重启 OpenClaw 网关会导致终端断开连接。
+> 注意：终端和插件共用同一个连接通道。重启 OpenClaw gateway 会导致终端断开连接。
 
 ## 命令参考
 

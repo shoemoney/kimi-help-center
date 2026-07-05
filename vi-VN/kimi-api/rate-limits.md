@@ -1,5 +1,5 @@
 ---
-title: "Giới hạn tần suất"
+title: "Rate limits"
 slug: "api-rate-limits"
 order: 5
 extract_headings: false
@@ -7,23 +7,23 @@ preview: false
 ---
 
 <SeoMeta
-  title="Giới hạn tần suất - Trung tâm trợ giúp Kimi"
-  description="Kimi API áp dụng giới hạn về tần suất và mức độ đồng thời của yêu cầu nhằm đảm bảo sự ổn định của nền tảng và việc sử dụng công bằng. Các bậc giới hạn tần suất được xác định dựa trên..."
+  title="Rate limits - Trung tâm trợ giúp Kimi"
+  description="Kimi API áp dụng rate limit và giới hạn mức độ đồng thời của yêu cầu nhằm đảm bảo sự ổn định của nền tảng và việc sử dụng công bằng. Các bậc rate limit được xác định dựa trên..."
 />
 
-# Giới hạn tần suất
+# Rate limits
 
-Kimi API áp dụng giới hạn về tần suất và mức độ đồng thời của yêu cầu nhằm đảm bảo sự ổn định của nền tảng và việc sử dụng công bằng. Các bậc giới hạn tần suất được xác định dựa trên tổng số tiền nạp tích lũy của tài khoản bạn.
+Kimi API áp dụng rate limit (giới hạn tần suất) và giới hạn mức độ đồng thời của yêu cầu nhằm đảm bảo sự ổn định của nền tảng và việc sử dụng công bằng. Các bậc rate limit được xác định dựa trên tổng số tiền nạp tích lũy của tài khoản bạn.
 
-## Các bậc giới hạn tần suất
+## Các bậc rate limit
 
-Giới hạn tần suất của API được phân bậc dựa trên **tổng số tiền nạp tích lũy** của tài khoản — nạp càng nhiều, giới hạn tần suất khả dụng càng cao. Để biết ngưỡng cụ thể của từng bậc cùng với giới hạn RPM (số yêu cầu mỗi phút) và TPM (số token mỗi phút) tương ứng, hãy tham khảo bảng điều khiển tại [platform.kimi.ai](https://platform.kimi.ai).
+Rate limit của API được phân bậc dựa trên **tổng số tiền nạp tích lũy** của tài khoản — nạp càng nhiều, rate limit khả dụng càng cao. Để biết ngưỡng cụ thể của từng bậc cùng với giới hạn RPM (số yêu cầu mỗi phút) và TPM (số token mỗi phút) tương ứng, hãy tham khảo bảng điều khiển tại [platform.kimi.ai](https://platform.kimi.ai).
 
 ## Cách kiểm tra giới hạn hiện tại?
 
-- Đăng nhập vào bảng điều khiển API để xem bậc giới hạn tần suất hiện tại của bạn.
-- Header phản hồi của API cũng chứa thông tin về giới hạn tần suất:
-  - `X-RateLimit-Limit`: Mức giới hạn tần suất hiện tại
+- Đăng nhập vào bảng điều khiển API để xem bậc rate limit hiện tại của bạn.
+- Header phản hồi của API cũng chứa thông tin về rate limit:
+  - `X-RateLimit-Limit`: Mức rate limit hiện tại
   - `X-RateLimit-Remaining`: Số yêu cầu còn lại khả dụng
   - `X-RateLimit-Reset`: Thời điểm giới hạn được đặt lại
 
@@ -35,9 +35,9 @@ Khi tần suất yêu cầu của bạn vượt quá giới hạn, API sẽ tr�
 2. **Kiểm soát mức độ đồng thời**: Dùng hàng đợi yêu cầu hoặc semaphore để giới hạn số yêu cầu chạy đồng thời.
 3. **Gộp yêu cầu**: Kết hợp nhiều yêu cầu nhỏ thành ít yêu cầu lớn hơn.
 
-## Yêu cầu nâng giới hạn tần suất
+## Yêu cầu nâng rate limit
 
-Nếu nhu cầu kinh doanh của bạn vượt quá giới hạn tần suất hiện tại:
+Nếu nhu cầu kinh doanh của bạn vượt quá rate limit hiện tại:
 
-- **Nạp thêm để nâng bậc**: Tăng tổng số tiền nạp tích lũy và hệ thống sẽ tự động nâng bậc giới hạn tần suất cho bạn.
-- **Liên hệ bộ phận bán hàng**: Với các nhu cầu đặc biệt, hãy liên hệ đội ngũ bán hàng của nền tảng qua [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) để yêu cầu tín dụng tần suất tùy chỉnh.
+- **Nạp thêm để nâng bậc**: Tăng tổng số tiền nạp tích lũy và hệ thống sẽ tự động nâng bậc rate limit cho bạn.
+- **Liên hệ bộ phận bán hàng**: Với các nhu cầu đặc biệt, hãy liên hệ đội ngũ bán hàng của nền tảng qua [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) để yêu cầu tín dụng rate limit tùy chỉnh.

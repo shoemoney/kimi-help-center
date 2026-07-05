@@ -31,7 +31,7 @@ Kimi Claw propose des outils de réparation intégrés, accessibles depuis les *
 
 | Option | Ce qu'elle fait |
 |--------|--------------|
-| **Redémarrer Kimi Claw** | Redémarre la connexion à la passerelle. Corrige la plupart des problèmes passagers (déconnexions du pont, blocages temporaires). |
+| **Redémarrer Kimi Claw** | Redémarre la connexion au gateway. Corrige la plupart des problèmes passagers (déconnexions du pont, blocages temporaires). |
 | **Réparer Kimi Claw** | Lance un diagnostic automatisé qui détecte et corrige les problèmes de configuration. Essayez cette option lorsqu'un simple redémarrage ne suffit pas. |
 | **Restaurer les paramètres initiaux** | Réinitialise Kimi Claw à son état par défaut. Les fichiers de l'espace de travail et la mémoire sont conservés, mais les connexions aux plateformes de discussion (Telegram, etc.) devront être reconfigurées. À utiliser en dernier recours. |
 

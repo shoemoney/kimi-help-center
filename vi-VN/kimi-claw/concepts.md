@@ -36,7 +36,7 @@ Bạn có thể mở giao diện dòng lệnh qua **Settings → Terminal** trê
 
 Ngoài ra, bạn chỉ cần nói cho Kimi Claw biết lệnh cần chạy bằng ngôn ngữ thông thường — nó sẽ thực thi giúp bạn.
 
-> Lưu ý: Terminal và các plugin dùng chung một kênh kết nối. Việc khởi động lại cổng OpenClaw sẽ ngắt kết nối Terminal.
+> Lưu ý: Terminal và các plugin dùng chung một kênh kết nối. Việc khởi động lại gateway OpenClaw sẽ ngắt kết nối Terminal.
 
 ## Tham chiếu lệnh
 

@@ -21,7 +21,7 @@ Si Kimi Claw ne répond pas ou se montre anormalement lent, plusieurs causes son
 
 | Cause | Description |
 |-------|-------------|
-| **Déconnexion du pont** | La connexion entre Kimi Claw et le serveur a été interrompue ; la passerelle doit être redémarrée |
+| **Déconnexion du pont** | La connexion entre Kimi Claw et le serveur a été interrompue ; le gateway doit être redémarré |
 | **Ressource occupée** | La charge du serveur est élevée ; les réponses peuvent être retardées |
 | **Instance hors ligne** | L'instance Kimi Claw est passée hors ligne et doit être réparée |
 
@@ -31,7 +31,7 @@ Suivez ces étapes dans l'ordre jusqu'à ce que le problème soit résolu :
 
 1. **Envoyez un autre message** — Il s'agit parfois d'un simple délai passager ; un message de relance peut déclencher une réponse
 2. **Actualisez la page** — Fermez puis rouvrez la conversation Kimi Claw
-3. **Redémarrez la passerelle** — Allez dans **Paramètres** et cliquez sur **Redémarrer Kimi Claw**. Attendez que le service revienne en ligne
+3. **Redémarrez le gateway** — Allez dans **Paramètres** et cliquez sur **Redémarrer Kimi Claw**. Attendez que le service revienne en ligne
 4. **Réparation automatique** — Dans les paramètres, cliquez sur **Réparer Kimi Claw**. Le système détectera et corrigera automatiquement les problèmes de configuration
 5. **Restaurez les paramètres initiaux** — Si rien d'autre ne fonctionne, sélectionnez **Restaurer les paramètres initiaux** dans les paramètres
 

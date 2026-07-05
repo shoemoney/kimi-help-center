@@ -240,7 +240,7 @@ Une fois connecté, décrivez une tâche en langage naturel. Un bon point de dé
     {
       name: "prompt.txt",
       language: "text",
-      content: "Take a look at this project's directory structure and briefly describe what each directory is for.",
+      content: "Examine la structure des répertoires de ce projet et décris brièvement à quoi sert chaque répertoire.",
     },
   ]}
 />
@@ -254,7 +254,7 @@ Vous pouvez aussi décrire directement une tâche plus concrète :
     {
       name: "prompt.txt",
       language: "text",
-      content: "Add a function in src/utils that converts any string to kebab-case, and add a unit test for it.",
+      content: "Ajoute une fonction dans src/utils qui convertit n'importe quelle chaîne en kebab-case, et ajoute un test unitaire pour cette fonction.",
     },
   ]}
 />

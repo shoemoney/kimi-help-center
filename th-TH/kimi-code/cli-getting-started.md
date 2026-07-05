@@ -240,7 +240,7 @@ Windows (PowerShell):
     {
       name: "prompt.txt",
       language: "text",
-      content: "Take a look at this project's directory structure and briefly describe what each directory is for.",
+      content: "ช่วยดูโครงสร้างไดเรกทอรีของโปรเจกต์นี้ และอธิบายสั้น ๆ ว่าแต่ละไดเรกทอรีมีไว้เพื่ออะไร",
     },
   ]}
 />
@@ -254,7 +254,7 @@ Kimi Code CLI จะเรียกใช้เครื่องมืออ่
     {
       name: "prompt.txt",
       language: "text",
-      content: "Add a function in src/utils that converts any string to kebab-case, and add a unit test for it.",
+      content: "เพิ่มฟังก์ชันใน src/utils ที่แปลงสตริงใด ๆ ให้เป็นรูปแบบ kebab-case และเขียน unit test สำหรับฟังก์ชันนี้ด้วย",
     },
   ]}
 />

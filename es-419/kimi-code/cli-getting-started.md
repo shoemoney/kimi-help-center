@@ -240,7 +240,7 @@ Una vez que hayas iniciado sesión, describe una tarea en lenguaje natural. Un b
     {
       name: "prompt.txt",
       language: "text",
-      content: "Take a look at this project's directory structure and briefly describe what each directory is for.",
+      content: "Revisa la estructura de directorios de este proyecto y describe brevemente para qué sirve cada directorio.",
     },
   ]}
 />
@@ -254,7 +254,7 @@ También puedes describir una tarea más concreta directamente:
     {
       name: "prompt.txt",
       language: "text",
-      content: "Add a function in src/utils that converts any string to kebab-case, and add a unit test for it.",
+      content: "Agrega una función en src/utils que convierta cualquier cadena a kebab-case, y agrega una prueba unitaria para ella.",
     },
   ]}
 />

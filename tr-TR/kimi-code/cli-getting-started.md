@@ -240,7 +240,7 @@ Oturum açtıktan sonra, bir görevi doğal dille tarif edin. İyi bir başlang�
     {
       name: "prompt.txt",
       language: "text",
-      content: "Take a look at this project's directory structure and briefly describe what each directory is for.",
+      content: "Bu projenin dizin yapısına bir göz at ve her dizinin ne işe yaradığını kısaca açıkla.",
     },
   ]}
 />
@@ -254,7 +254,7 @@ Daha somut bir görevi doğrudan da tarif edebilirsiniz:
     {
       name: "prompt.txt",
       language: "text",
-      content: "Add a function in src/utils that converts any string to kebab-case, and add a unit test for it.",
+      content: "src/utils içine herhangi bir dizeyi kebab-case biçimine dönüştüren bir fonksiyon ekle ve bunun için bir birim testi ekle.",
     },
   ]}
 />

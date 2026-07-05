@@ -240,7 +240,7 @@ Nach der Anmeldung beschreiben Sie eine Aufgabe in natürlicher Sprache. Ein gut
     {
       name: "prompt.txt",
       language: "text",
-      content: "Take a look at this project's directory structure and briefly describe what each directory is for.",
+      content: "Wirf einen Blick auf die Verzeichnisstruktur dieses Projekts und beschreibe kurz, wofür jedes Verzeichnis da ist.",
     },
   ]}
 />
@@ -254,7 +254,7 @@ Sie können auch direkt eine konkretere Aufgabe beschreiben:
     {
       name: "prompt.txt",
       language: "text",
-      content: "Add a function in src/utils that converts any string to kebab-case, and add a unit test for it.",
+      content: "Füge in src/utils eine Funktion hinzu, die einen beliebigen String in kebab-case umwandelt, und schreibe einen Unit-Test dafür.",
     },
   ]}
 />

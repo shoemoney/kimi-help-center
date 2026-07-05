@@ -240,7 +240,7 @@ Setelah login, jelaskan sebuah tugas dengan bahasa alami. Titik awal yang baik a
     {
       name: "prompt.txt",
       language: "text",
-      content: "Take a look at this project's directory structure and briefly describe what each directory is for.",
+      content: "Lihat struktur direktori proyek ini dan jelaskan secara singkat fungsi setiap direktori.",
     },
   ]}
 />
@@ -254,7 +254,7 @@ Anda juga dapat langsung menjelaskan tugas yang lebih konkret:
     {
       name: "prompt.txt",
       language: "text",
-      content: "Add a function in src/utils that converts any string to kebab-case, and add a unit test for it.",
+      content: "Tambahkan sebuah fungsi di src/utils yang mengonversi string apa pun menjadi kebab-case, dan tambahkan uji unit untuknya.",
     },
   ]}
 />

@@ -240,7 +240,7 @@ Anthropic, OpenAI, Google 등 다른 공급자를 연결하려면 `~/.kimi-code/
     {
       name: "prompt.txt",
       language: "text",
-      content: "Take a look at this project's directory structure and briefly describe what each directory is for.",
+      content: "이 프로젝트의 디렉터리 구조를 살펴보고 각 디렉터리가 어떤 용도인지 간단히 설명해 줘.",
     },
   ]}
 />
@@ -254,7 +254,7 @@ Kimi Code CLI는 응답하기 전에 파일 읽기, 검색 등의 도구를 자�
     {
       name: "prompt.txt",
       language: "text",
-      content: "Add a function in src/utils that converts any string to kebab-case, and add a unit test for it.",
+      content: "src/utils에 임의의 문자열을 kebab-case로 변환하는 함수를 추가하고, 그에 대한 단위 테스트도 작성해 줘.",
     },
   ]}
 />

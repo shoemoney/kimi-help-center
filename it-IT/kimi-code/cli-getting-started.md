@@ -240,7 +240,7 @@ Una volta effettuato l'accesso, descrivi un'attività in linguaggio naturale. Un
     {
       name: "prompt.txt",
       language: "text",
-      content: "Take a look at this project's directory structure and briefly describe what each directory is for.",
+      content: "Dai un'occhiata alla struttura delle directory di questo progetto e descrivi brevemente a cosa serve ciascuna directory.",
     },
   ]}
 />
@@ -254,7 +254,7 @@ Puoi anche descrivere direttamente un'attività più concreta:
     {
       name: "prompt.txt",
       language: "text",
-      content: "Add a function in src/utils that converts any string to kebab-case, and add a unit test for it.",
+      content: "Aggiungi una funzione in src/utils che converta qualsiasi stringa in kebab-case e aggiungi un test unitario per essa.",
     },
   ]}
 />

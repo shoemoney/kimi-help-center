@@ -240,7 +240,7 @@ Sau khi đăng nhập, hãy mô tả một tác vụ bằng ngôn ngữ tự nhi
     {
       name: "prompt.txt",
       language: "text",
-      content: "Take a look at this project's directory structure and briefly describe what each directory is for.",
+      content: "Xem qua cấu trúc thư mục của dự án này và mô tả ngắn gọn mục đích của từng thư mục.",
     },
   ]}
 />
@@ -254,7 +254,7 @@ Bạn cũng có thể mô tả trực tiếp một tác vụ cụ thể hơn:
     {
       name: "prompt.txt",
       language: "text",
-      content: "Add a function in src/utils that converts any string to kebab-case, and add a unit test for it.",
+      content: "Thêm một hàm trong src/utils để chuyển đổi bất kỳ chuỗi nào sang kebab-case, và thêm một unit test cho nó.",
     },
   ]}
 />

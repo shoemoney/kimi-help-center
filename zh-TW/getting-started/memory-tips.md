@@ -22,7 +22,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "我是 [name/nickname]，目前居住在 [city]。背景是 [profession/role]，專長為 [area 1] 與 [area 2]。\n目前專注於：推進 [Project A] 和 [Project B]。\n除非我明確使用其他語言，否則日後所有回覆請預設使用英文。",
+      content: "我是 [姓名/暱稱]，目前居住在 [城市]。背景是 [職業/角色]，專長為 [領域 1] 與 [領域 2]。\n目前專注於：推進 [專案 A] 和 [專案 B]。\n除非我明確使用其他語言，否則日後所有回覆請預設使用英文。",
     },
   ]}
 />

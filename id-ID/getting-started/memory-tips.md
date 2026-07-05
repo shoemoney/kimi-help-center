@@ -22,7 +22,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "Saya [name/nickname], saat ini tinggal di [city]. Berlatar belakang [profession/role], dengan keahlian di [area 1] dan [area 2].\nSaat ini berfokus pada: memajukan [Project A] dan [Project B].\nMohon secara default menjawab dalam bahasa Indonesia untuk semua respons berikutnya, kecuali saya secara eksplisit menulis dalam bahasa lain.",
+      content: "Saya [nama/panggilan], saat ini tinggal di [kota]. Berlatar belakang [profesi/peran], dengan keahlian di [bidang 1] dan [bidang 2].\nSaat ini berfokus pada: memajukan [Proyek A] dan [Proyek B].\nMohon secara default menjawab dalam bahasa Indonesia untuk semua respons berikutnya, kecuali saya secara eksplisit menulis dalam bahasa lain.",
     },
   ]}
 />
@@ -62,7 +62,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "[Fact-Check Protocol]\nKetika saya mengajukan pertanyaan dalam bidang-bidang berikut, patuhi ketat prioritas sumber ini:\n1. Medis/Kesehatan: Utamakan PubMed, WHO, UpToDate; jangan pernah mengutip blog kesehatan atau media pribadi\n2. Keuangan/Investasi: Gunakan hanya dokumen SEC, data bank sentral, dan laporan tahunan perusahaan publik; tanpa spekulasi forum\n3. Hukum/Kepatuhan: Rujuk basis data regulasi resmi; untuk kebijakan lokal, beri catatan \"konsultasikan dengan pengacara setempat\"\n4. Teknologi/Pemrograman: Utamakan dokumentasi resmi; beri label GitHub Issues sebagai pengalaman komunitas, bukan sumber otoritatif\n5. Untuk informasi dari Wikipedia, Reddit, Quora, atau platform UGC lainnya, selalu beri tag \"[Unverified]\"",
+      content: "[Protokol Pengecekan Fakta]\nKetika saya mengajukan pertanyaan dalam bidang-bidang berikut, patuhi ketat prioritas sumber ini:\n1. Medis/Kesehatan: Utamakan PubMed, WHO, UpToDate; jangan pernah mengutip blog kesehatan atau media pribadi\n2. Keuangan/Investasi: Gunakan hanya dokumen SEC, data bank sentral, dan laporan tahunan perusahaan publik; tanpa spekulasi forum\n3. Hukum/Kepatuhan: Rujuk basis data regulasi resmi; untuk kebijakan lokal, beri catatan \"konsultasikan dengan pengacara setempat\"\n4. Teknologi/Pemrograman: Utamakan dokumentasi resmi; beri label GitHub Issues sebagai pengalaman komunitas, bukan sumber otoritatif\n5. Untuk informasi dari Wikipedia, Reddit, Quora, atau platform UGC lainnya, selalu beri tag \"[Belum Terverifikasi]\"",
     },
   ]}
 />
@@ -74,7 +74,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "[High-Risk Topic Checklist]\nKetika kata kunci berikut terdeteksi, otomatis picu proses \"pemeriksaan ganda\":\n1. Angka spesifik (harga, tanggal, statistik) → wajib menyebutkan sumber data dan tahunnya\n2. Bahasa yang sensitif waktu (\"terbaru\", \"baru saja\", \"belakangan ini\") → wajib memverifikasi apakah masih dalam batas pengetahuan\n3. Saran profesional (medis, hukum, investasi) → wajib menambahkan penafian: \"Informasi di atas hanya untuk referensi dan bukan merupakan saran profesional\"\n4. Kutipan spesifik dari individu → wajib memberi label sebagai kutipan langsung atau parafrasa; jangan pernah mengarang kutipan\n\nEksekusi: Pertama nyatakan \"Saya perlu memverifikasi informasi berikut\", lalu berikan jawabannya.",
+      content: "[Daftar Periksa Topik Berisiko Tinggi]\nKetika kata kunci berikut terdeteksi, otomatis picu proses \"pemeriksaan ganda\":\n1. Angka spesifik (harga, tanggal, statistik) → wajib menyebutkan sumber data dan tahunnya\n2. Bahasa yang sensitif waktu (\"terbaru\", \"baru saja\", \"belakangan ini\") → wajib memverifikasi apakah masih dalam batas pengetahuan\n3. Saran profesional (medis, hukum, investasi) → wajib menambahkan penafian: \"Informasi di atas hanya untuk referensi dan bukan merupakan saran profesional\"\n4. Kutipan spesifik dari individu → wajib memberi label sebagai kutipan langsung atau parafrasa; jangan pernah mengarang kutipan\n\nEksekusi: Pertama nyatakan \"Saya perlu memverifikasi informasi berikut\", lalu berikan jawabannya.",
     },
   ]}
 />

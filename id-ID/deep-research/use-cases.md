@@ -55,7 +55,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "Lakukan riset mendalam tentang [Company Name]:\n1. Model bisnis & keunggulan inti (keunggulan kompetitif, keunggulan teknologi/kanal, lanskap persaingan);\n2. Kesehatan keuangan (struktur pendapatan, profitabilitas, arus kas, area risiko utama);\n3. Tim & tata kelola (latar belakang pendiri, struktur kepemilikan saham, talenta kunci);\n4. Pasar & kebijakan (TAM/SAM/SOM, laju pertumbuhan industri, lingkungan regulasi);\n5. Identifikasi risiko (bisnis, hukum, hambatan keluar);\n6. Acuan valuasi (perusahaan sebanding, putaran pendanaan historis, rentang yang wajar).\nPersyaratan: Cantumkan sumber data, tandai kesimpulan penting dengan ⭐, dan cantumkan poin-poin yang diperdebatkan secara terpisah.",
+      content: "Lakukan riset mendalam tentang [Nama Perusahaan]:\n1. Model bisnis & keunggulan inti (keunggulan kompetitif, keunggulan teknologi/kanal, lanskap persaingan);\n2. Kesehatan keuangan (struktur pendapatan, profitabilitas, arus kas, area risiko utama);\n3. Tim & tata kelola (latar belakang pendiri, struktur kepemilikan saham, talenta kunci);\n4. Pasar & kebijakan (TAM/SAM/SOM, laju pertumbuhan industri, lingkungan regulasi);\n5. Identifikasi risiko (bisnis, hukum, hambatan keluar);\n6. Acuan valuasi (perusahaan sebanding, putaran pendanaan historis, rentang yang wajar).\nPersyaratan: Cantumkan sumber data, tandai kesimpulan penting dengan ⭐, dan cantumkan poin-poin yang diperdebatkan secara terpisah.",
     },
   ]}
 />
@@ -108,7 +108,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "Sebagai seorang analis kebijakan, lakukan analisis mendalam terhadap [policy name/document], mencakup latar belakang dan tujuan utamanya.\nSebutkan entitas yang berlaku dan perubahan substantif dari ketentuan-ketentuan utama, persyaratan kepatuhan spesifik beserta lini masa bagi perusahaan, serta prakiraan arah kebijakan ke depan.\nPersyaratan: Kutip teks resmi beserta sumbernya, soroti perubahan-perubahan penting, bahas klausul-klausul kontroversial secara terpisah, dan jaga total di bawah 2.000 kata.",
+      content: "Sebagai seorang analis kebijakan, lakukan analisis mendalam terhadap [nama kebijakan/dokumen], mencakup latar belakang dan tujuan utamanya.\nSebutkan entitas yang berlaku dan perubahan substantif dari ketentuan-ketentuan utama, persyaratan kepatuhan spesifik beserta lini masa bagi perusahaan, serta prakiraan arah kebijakan ke depan.\nPersyaratan: Kutip teks resmi beserta sumbernya, soroti perubahan-perubahan penting, bahas klausul-klausul kontroversial secara terpisah, dan jaga total di bawah 2.000 kata.",
     },
   ]}
 />

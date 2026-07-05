@@ -22,7 +22,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "Sono [nome/soprannome], attualmente residente a [città]. Ho una formazione in [professione/ruolo], con competenze in [area 1] e [area 2].\nAttualmente mi concentro su: portare avanti [Progetto A] e [Progetto B].\nUsa l'italiano come lingua predefinita per tutte le risposte future, a meno che non scriva esplicitamente in un'altra lingua.",
+      content: "Sono [nome/soprannome], attualmente residente a [città]. Ho una formazione in [professione/ruolo], con competenze in [ambito 1] e [ambito 2].\nAttualmente mi concentro su: portare avanti [Progetto A] e [Progetto B].\nUsa l'italiano come lingua predefinita per tutte le risposte future, a meno che non scriva esplicitamente in un'altra lingua.",
     },
   ]}
 />

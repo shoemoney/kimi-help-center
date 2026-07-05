@@ -60,7 +60,7 @@ Kimi Claw peut exécuter des tâches selon un planning, devenant ainsi un moteur
 </Callout>
 
 **Modèle** :
-> À **[horaire]**, fais **[tâche]**, produis le résultat au format **[format]**, en respectant **[contraintes]**.
+> À **[horaire]**, fais **[tâche]**, produis le résultat au format **[format de sortie]**, en respectant **[contraintes]**.
 **Exemples** :
 - « Tous les jours à 9 h 17, résume les dernières actualités du marché : 3 points clés + 1 note de risque, en moins de 200 mots. »
 - « Dans 1 heure, rappelle-moi de terminer mon rapport quotidien et joins un modèle en quatre sections. »

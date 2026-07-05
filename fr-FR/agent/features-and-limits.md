@@ -55,8 +55,9 @@ En raison de la limite de contexte de 256 K caractères des grands modèles de l
 
 <Callout type="warning">
 **Consommation de crédits** : les tâches de l'Agent puisent dans le pool de crédits partagé (autres fonctionnalités de l'abonnement). Kimi Code utilise un pool de crédits distinct. Chaque tâche de l'Agent consomme généralement 1 unité de crédits. Pour des informations détaillées sur les crédits selon le niveau d'abonnement, consultez [Crédits et facturation](/agent/quota-and-billing).
-Niveau gratuit : 6 tâches Agent/mois
-Niveaux payants : de 60 à 720 tâches Agent/mois selon votre formule
+
+- Niveau gratuit : 6 tâches Agent/mois
+- Niveaux payants : de 60 à 720 tâches Agent/mois selon votre formule
 </Callout>
 
 - **Durée d'exécution** : en mode Agent, une tâche unique prend généralement de 5 à 20 minutes. Les tâches K2.6 Agent Swarm [Beta] peuvent durer plus longtemps. Vous pouvez quitter la page — il suffit de ne pas cliquer sur Arrêter pour ne pas interrompre la tâche.

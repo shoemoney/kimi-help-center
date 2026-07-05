@@ -55,8 +55,9 @@ Büyük dil modellerinin 256K karakterlik bağlam sınırı (yaklaşık 40.000�
 
 <Callout type="warning">
 **Kredi kullanımı**: Agent görevleri, ortak havuzdaki (diğer üyelik özellikleri) krediyi tüketir. Kimi Code ayrı bir kredi havuzu kullanır. Her Agent görevi genellikle 1 kredi birimi tüketir. Üyelik kademelerine göre ayrıntılı kredi bilgileri için [Krediler ve Faturalandırma](/agent/quota-and-billing) sayfasına bakın.
-Ücretsiz kademe: ayda 6 Agent görevi
-Ücretli kademeler: planınıza bağlı olarak ayda 60–720 Agent görevi
+
+- Ücretsiz kademe: ayda 6 Agent görevi
+- Ücretli kademeler: planınıza bağlı olarak ayda 60–720 Agent görevi
 </Callout>
 
 - **Yürütme süresi**: Agent modunda tek bir görev genellikle 5–20 dakika sürer. K2.6 Agent Swarm [Beta] görevleri daha uzun sürebilir. Sayfadan ayrılabilirsiniz — yalnızca görevi kesmek için Durdur'a basmayın.

@@ -55,8 +55,9 @@ Aufgrund der Kontextgrenze großer Sprachmodelle von 256K Zeichen (etwa 40.000�
 
 <Callout type="warning">
 **Credit-Nutzung**: Agent-Aufgaben verbrauchen Credits aus dem gemeinsamen Kontingent (weitere Mitgliedschaftsfunktionen). Kimi Code nutzt ein separates Credits-Kontingent. Jede Agent-Aufgabe verbraucht in der Regel 1 Credit-Einheit. Ausführliche Informationen zu den Credits nach Mitgliedschaftsstufe finden Sie unter „Credits & Abrechnung“.
-Kostenlose Stufe: 6 Agent-Aufgaben/Monat
-Kostenpflichtige Stufen: 60–720 Agent-Aufgaben/Monat je nach Tarif
+
+- Kostenlose Stufe: 6 Agent-Aufgaben/Monat
+- Kostenpflichtige Stufen: 60–720 Agent-Aufgaben/Monat je nach Tarif
 </Callout>
 
 - **Ausführungsdauer**: Im Agent-Modus dauert eine einzelne Aufgabe in der Regel 5–20 Minuten. Aufgaben mit K2.6 Agent Swarm [Beta] können länger dauern. Sie können die Seite verlassen – klicken Sie nur nicht auf „Stopp“, um die Aufgabe nicht abzubrechen.

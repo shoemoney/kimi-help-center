@@ -55,8 +55,9 @@ Karena batas konteks model bahasa besar sebesar 256K karakter (kira-kira 40.000�
 
 <Callout type="warning">
 **Penggunaan kredit**: Tugas Agent mengonsumsi kredit dari kumpulan bersama (fitur keanggotaan lainnya). Kimi Code menggunakan kumpulan kredit terpisah. Setiap tugas Agent biasanya mengonsumsi 1 unit kredit. Untuk informasi kredit rinci menurut tingkat keanggotaan, lihat [Kredit & Penagihan](/agent/quota-and-billing).
-Tingkat gratis: 6 tugas Agent/bulan
-Tingkat berbayar: 60–720 tugas Agent/bulan tergantung paket Anda
+
+- Tingkat gratis: 6 tugas Agent/bulan
+- Tingkat berbayar: 60–720 tugas Agent/bulan tergantung paket Anda
 </Callout>
 
 - **Waktu eksekusi**: Dalam mode Agent, satu tugas biasanya memakan waktu 5–20 menit. Tugas K2.6 Agent Swarm [Beta] mungkin lebih lama. Anda boleh meninggalkan halaman — cukup jangan klik Stop agar tugas tidak terhenti.

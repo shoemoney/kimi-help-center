@@ -55,8 +55,9 @@ Debido al límite de contexto de 256K caracteres de los grandes modelos de lengu
 
 <Callout type="warning">
 **Uso de créditos**: Las tareas de Agent consumen créditos del paquete de créditos compartido (otras funciones de membresía). Kimi Code usa un paquete de créditos independiente. Cada tarea de Agent suele consumir 1 unidad de créditos. Para obtener información detallada sobre los créditos según el nivel de membresía, consulta [Créditos y facturación](/agent/quota-and-billing).
-Nivel gratuito: 6 tareas de Agent al mes
-Niveles de pago: de 60 a 720 tareas de Agent al mes según tu plan
+
+- Nivel gratuito: 6 tareas de Agent al mes
+- Niveles de pago: de 60 a 720 tareas de Agent al mes según tu plan
 </Callout>
 
 - **Tiempo de ejecución**: En el modo Agent, una sola tarea suele tomar de 5 a 20 minutos. Las tareas de K2.6 Agent Swarm [Beta] pueden tardar más. Puedes salir de la página, solo no hagas clic en Detener para no interrumpir la tarea.

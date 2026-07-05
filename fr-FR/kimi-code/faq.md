@@ -94,7 +94,7 @@ Si vous utilisez la plateforme Kimi Code, vous pouvez vérifier vos crédits act
 
 ### Comment demander une facture ou faire évoluer mon abonnement ?
 
-Rendez-vous sur la [page d'abonnement Kimi](https://www.kimi.com/membership/pricing?from=kfc_docs_faq#pricing-faq) et suivez les instructions pour soumettre une demande de facture ou faire évoluer votre forfait.
+Rendez-vous sur la [page d'abonnement Kimi](https://www.kimi.com/membership/pricing#pricing-faq) et suivez les instructions pour soumettre une demande de facture ou faire évoluer votre forfait.
 
 ## Problèmes d'interaction
 

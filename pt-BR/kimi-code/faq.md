@@ -94,7 +94,7 @@ Se você usa a plataforma Kimi Code, pode verificar seus créditos atuais e o st
 
 ### Como solicito uma nota fiscal ou faço upgrade da minha assinatura?
 
-Acesse a [página de assinatura do Kimi](https://www.kimi.com/membership/pricing?from=kfc_docs_faq#pricing-faq) e siga as instruções para enviar uma solicitação de nota fiscal ou fazer upgrade do seu plano.
+Acesse a [página de assinatura do Kimi](https://www.kimi.com/membership/pricing#pricing-faq) e siga as instruções para enviar uma solicitação de nota fiscal ou fazer upgrade do seu plano.
 
 ## Problemas de interação
 

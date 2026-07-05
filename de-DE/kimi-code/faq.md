@@ -94,7 +94,7 @@ Wenn Sie die Kimi Code-Plattform nutzen, können Sie Ihre aktuelle Credits und I
 
 ### Wie fordere ich eine Rechnung an oder upgrade meine Mitgliedschaft?
 
-Besuchen Sie die [Kimi-Mitgliedschaftsseite](https://www.kimi.com/membership/pricing?from=kfc_docs_faq#pricing-faq) und folgen Sie den Anweisungen, um eine Rechnung anzufordern oder Ihren Tarif zu upgraden.
+Besuchen Sie die [Kimi-Mitgliedschaftsseite](https://www.kimi.com/membership/pricing#pricing-faq) und folgen Sie den Anweisungen, um eine Rechnung anzufordern oder Ihren Tarif zu upgraden.
 
 ## Probleme bei der Bedienung
 

@@ -94,7 +94,7 @@ If you are using the Kimi Code platform, you can check your current credits and 
 
 ### How do I request an invoice or upgrade my membership?
 
-Visit the [Kimi Membership page](https://www.kimi.com/membership/pricing?from=kfc_docs_faq#pricing-faq) and follow the instructions to submit an invoice request or upgrade your plan.
+Visit the [Kimi Membership page](https://www.kimi.com/membership/pricing#pricing-faq) and follow the instructions to submit an invoice request or upgrade your plan.
 
 ## Interaction issues
 

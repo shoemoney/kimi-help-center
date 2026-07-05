@@ -94,7 +94,7 @@ Si usas la plataforma de Kimi Code, puedes consultar tus créditos actuales y el
 
 ### ¿Cómo solicito una factura o mejoro mi membresía?
 
-Visita la [página de membresía de Kimi](https://www.kimi.com/membership/pricing?from=kfc_docs_faq#pricing-faq) y sigue las instrucciones para solicitar una factura o mejorar tu plan.
+Visita la [página de membresía de Kimi](https://www.kimi.com/membership/pricing#pricing-faq) y sigue las instrucciones para solicitar una factura o mejorar tu plan.
 
 ## Problemas de interacción
 

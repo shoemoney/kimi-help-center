@@ -94,7 +94,7 @@ Se utilizzi la piattaforma Kimi Code, puoi controllare i crediti attuali e lo st
 
 ### Come richiedo una fattura o effettuo l'upgrade del mio abbonamento?
 
-Visita la [pagina dell'abbonamento Kimi](https://www.kimi.com/membership/pricing?from=kfc_docs_faq#pricing-faq) e segui le istruzioni per richiedere una fattura o aggiornare il tuo piano.
+Visita la [pagina dell'abbonamento Kimi](https://www.kimi.com/membership/pricing#pricing-faq) e segui le istruzioni per richiedere una fattura o aggiornare il tuo piano.
 
 ## Problemi di interazione
 

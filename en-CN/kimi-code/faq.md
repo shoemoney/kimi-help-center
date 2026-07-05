@@ -95,7 +95,7 @@ If you use the Kimi Code platform, you can run the `/usage` command to view your
 
 ### How to request an invoice or upgrade membership
 
-Go to the [Kimi membership benefits page](https://www.kimi.com/membership/pricing?from=kfc_docs_faq#pricing-faq) and follow the on-page instructions to request an invoice or upgrade your membership.
+Go to the [Kimi membership benefits page](https://www.kimi.com/membership/pricing#pricing-faq) and follow the on-page instructions to request an invoice or upgrade your membership.
 
 ## Interaction issues
 

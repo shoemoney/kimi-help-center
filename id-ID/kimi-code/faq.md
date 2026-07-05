@@ -94,7 +94,7 @@ Jika Anda menggunakan platform Kimi Code, Anda dapat memeriksa kredit saat ini d
 
 ### Bagaimana cara meminta faktur atau meningkatkan keanggotaan saya?
 
-Kunjungi [halaman Keanggotaan Kimi](https://www.kimi.com/membership/pricing?from=kfc_docs_faq#pricing-faq) dan ikuti petunjuk untuk mengajukan permintaan faktur atau meningkatkan paket Anda.
+Kunjungi [halaman Keanggotaan Kimi](https://www.kimi.com/membership/pricing#pricing-faq) dan ikuti petunjuk untuk mengajukan permintaan faktur atau meningkatkan paket Anda.
 
 ## Masalah interaksi
 

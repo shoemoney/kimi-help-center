@@ -15,7 +15,7 @@ preview_content: "Kimi Code 会员权益、API Key 管理与设备登录指南�
 # Kimi Code 概览
 
 ## Kimi Code 是什么
-Kimi Code 是 [Kimi 会员权益](https://www.kimi.com/membership/pricing?from=kfc_docs_overview)中面向编程场景的智能编程服务。
+Kimi Code 是 [Kimi 会员权益](https://www.kimi.com/membership/pricing)中面向编程场景的智能编程服务。
 
 你可以把它理解为一个 AI 编程助手：它可以在开发工具中帮你阅读代码、修改文件、执行命令，并协助完成开发任务。
 

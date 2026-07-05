@@ -94,7 +94,7 @@ Nếu bạn đang dùng nền tảng Kimi Code, bạn có thể kiểm tra tín 
 
 ### Làm thế nào để yêu cầu hóa đơn hoặc nâng cấp thành viên?
 
-Truy cập [trang Thành viên Kimi](https://www.kimi.com/membership/pricing?from=kfc_docs_faq#pricing-faq) và làm theo hướng dẫn để gửi yêu cầu hóa đơn hoặc nâng cấp gói của bạn.
+Truy cập [trang Thành viên Kimi](https://www.kimi.com/membership/pricing#pricing-faq) và làm theo hướng dẫn để gửi yêu cầu hóa đơn hoặc nâng cấp gói của bạn.
 
 ## Vấn đề tương tác
 

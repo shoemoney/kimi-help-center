@@ -94,7 +94,7 @@ Kimi Code プラットフォームを使用している場合、`/usage` コマ�
 
 ### 請求書の発行依頼やメンバーシップのアップグレードはどうすればよいですか？
 
-[Kimi メンバーシップページ](https://www.kimi.com/membership/pricing?from=kfc_docs_faq#pricing-faq)にアクセスし、案内に従って請求書の発行を依頼するか、プランをアップグレードしてください。
+[Kimi メンバーシップページ](https://www.kimi.com/membership/pricing#pricing-faq)にアクセスし、案内に従って請求書の発行を依頼するか、プランをアップグレードしてください。
 
 ## 操作に関する問題
 

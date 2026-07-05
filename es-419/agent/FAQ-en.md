@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Preguntas frecuentes sobre la creación de skills - Centro de ayuda de Kimi"
-  description="Preguntas comunes sobre la creación de Kimi Skills, como la carga de documentos, el uso de tokens, los límites de frecuencia, el nombre de las skills y la gestión de errores en la creación."
+  description="Preguntas comunes sobre la creación de Kimi Skills, como la carga de documentos, el uso de tokens, los rate limits, el nombre de las skills y la gestión de errores en la creación."
 />
 
 # Preguntas frecuentes (FAQ) sobre las skills

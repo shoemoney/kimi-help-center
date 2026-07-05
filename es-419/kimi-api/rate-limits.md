@@ -1,5 +1,5 @@
 ---
-title: "Límites de tasa"
+title: "Rate limits"
 slug: "api-rate-limits"
 order: 5
 extract_headings: false
@@ -7,17 +7,17 @@ preview: false
 ---
 
 <SeoMeta
-  title="Límites de tasa - Centro de ayuda de Kimi"
-  description="La API de Kimi aplica límites de tasa a la frecuencia de solicitudes y a la concurrencia para garantizar la estabilidad de la plataforma y un uso justo. Los niveles de rate limit se basan en el saldo acumulado de tu cuenta..."
+  title="Rate limits - Centro de ayuda de Kimi"
+  description="La API de Kimi aplica rate limits a la frecuencia de solicitudes y a la concurrencia para garantizar la estabilidad de la plataforma y un uso justo. Los niveles de rate limit se basan en el saldo acumulado de tu cuenta..."
 />
 
-# Límites de tasa
+# Rate limits
 
-La API de Kimi aplica límites de tasa a la frecuencia de solicitudes y a la concurrencia para garantizar la estabilidad de la plataforma y un uso justo. Los niveles de rate limit（límite de frecuencia） se basan en el monto acumulado de recargas de tu cuenta.
+La API de Kimi aplica rate limits a la frecuencia de solicitudes y a la concurrencia para garantizar la estabilidad de la plataforma y un uso justo. Los niveles de rate limit（límite de frecuencia） se basan en el monto acumulado de recargas de tu cuenta.
 
 ## Niveles de rate limit
 
-Los límites de tasa de la API se organizan por niveles según el **monto acumulado de recargas** de tu cuenta: mientras más hayas recargado, mayores serán los límites disponibles. Para conocer los umbrales específicos de cada nivel y los límites correspondientes de RPM (solicitudes por minuto) y TPM (tokens por minuto), consulta la consola en [platform.kimi.ai](https://platform.kimi.ai).
+Los rate limits de la API se organizan por niveles según el **monto acumulado de recargas** de tu cuenta: mientras más hayas recargado, mayores serán los límites disponibles. Para conocer los umbrales específicos de cada nivel y los límites correspondientes de RPM (solicitudes por minuto) y TPM (tokens por minuto), consulta la consola en [platform.kimi.ai](https://platform.kimi.ai).
 
 ## ¿Cómo consultar los límites actuales?
 
@@ -35,9 +35,9 @@ Cuando la frecuencia de tus solicitudes supera el límite, la API devuelve un c�
 2. **Controla la concurrencia**: usa colas de solicitudes o semáforos para limitar la cantidad de solicitudes simultáneas.
 3. **Agrupa solicitudes**: combina varias solicitudes pequeñas en menos solicitudes más grandes.
 
-## Solicitar límites de tasa más altos
+## Solicitar rate limits más altos
 
-Si las necesidades de tu negocio superan los límites de tasa actuales:
+Si las necesidades de tu negocio superan los rate limits actuales:
 
 - **Recarga para subir de nivel**: aumenta tu monto acumulado de recargas y el sistema actualizará automáticamente tu nivel de rate limit.
 - **Contacta a ventas**: para requerimientos especiales, comunícate con el equipo de ventas de la plataforma a través de [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) para solicitar una cuota de tasa personalizada.

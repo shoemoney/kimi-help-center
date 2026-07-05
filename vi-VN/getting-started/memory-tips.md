@@ -80,7 +80,7 @@ preview: false
 />
 
 ## Giới hạn của bộ nhớ
-Không gian bộ nhớ hiện có những giới hạn sau:
+Lệnh ghi nhớ hiện có những giới hạn sau:
 - Lưu được tối đa 50 mục bộ nhớ.
 - Mỗi mục bộ nhớ giới hạn 500 ký tự.
 - Những bộ nhớ được tạo trước tháng 4 năm 2026 có thể vượt quá giới hạn này; các bộ nhớ hiện có đó vẫn được giữ lại.

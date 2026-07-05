@@ -14,7 +14,7 @@ preview: false
 # Créditos y facturación del Agent
 
 <Callout type="info">
-El modo Agent usa el sistema de créditos de Kimi. Todos los beneficios de membresía incluyen dos paquetes de créditos: Kimi Code usa un paquete de créditos independiente; las demás funciones de membresía (Agent, Deep Research, Slides, Docs, Sheets, Kimi Claw, etc.) comparten un solo paquete de créditos, y los créditos se descuentan según el consumo real de tokens.
+El modo Agent usa el sistema de créditos de Kimi. Todos los beneficios de membresía incluyen dos paquetes de créditos: Kimi Code usa un paquete de créditos independiente; las demás funciones de membresía (Agent, Deep Research, Diapositivas, Documentos, Hojas de cálculo, Kimi Claw, etc.) comparten un solo paquete de créditos, y los créditos se descuentan según el consumo real de tokens.
 </Callout>
 
 ## Modelo de facturación

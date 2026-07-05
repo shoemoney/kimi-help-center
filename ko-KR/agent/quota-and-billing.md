@@ -14,7 +14,7 @@ preview: false
 # Agent 크레딧 및 과금
 
 <Callout type="info">
-Agent 모드는 Kimi의 크레딧 시스템을 사용합니다. 모든 멤버십 혜택에는 두 개의 크레딧 풀이 포함됩니다. Kimi Code는 별도의 크레딧 풀을 사용하고, 그 외 멤버십 기능(Agent, Deep Research, Slides, Docs, Sheets, Kimi Claw 등)은 하나의 크레딧 풀을 공유하며 실제 token 사용량에 따라 quota가 차감됩니다.
+Agent 모드는 Kimi의 크레딧 시스템을 사용합니다. 모든 멤버십 혜택에는 두 개의 크레딧 풀이 포함됩니다. Kimi Code는 별도의 크레딧 풀을 사용하고, 그 외 멤버십 기능(Agent, Deep Research, 슬라이드, 문서, 시트, Kimi Claw 등)은 하나의 크레딧 풀을 공유하며 실제 token 사용량에 따라 quota가 차감됩니다.
 </Callout>
 
 ## 과금 방식

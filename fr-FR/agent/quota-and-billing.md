@@ -14,7 +14,7 @@ preview: false
 # Crédits et facturation de l'Agent
 
 <Callout type="info">
-Le mode Agent utilise le système de crédits de Kimi. Tous les avantages d'abonnement incluent deux réserves de crédits : Kimi Code dispose d'une réserve de crédits distincte ; les autres fonctionnalités d'abonnement (Agent, Deep Research, Slides, Docs, Sheets, Kimi Claw, etc.) partagent une même réserve de crédits, les crédits étant déduits selon la consommation réelle de tokens.
+Le mode Agent utilise le système de crédits de Kimi. Tous les avantages d'abonnement incluent deux réserves de crédits : Kimi Code dispose d'une réserve de crédits distincte ; les autres fonctionnalités d'abonnement (Agent, Deep Research, Diapositives, Documents, Feuilles de calcul, Kimi Claw, etc.) partagent une même réserve de crédits, les crédits étant déduits selon la consommation réelle de tokens.
 </Callout>
 
 ## Modèle de facturation

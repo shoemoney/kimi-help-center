@@ -240,7 +240,7 @@ Depois de fazer login, descreva uma tarefa em linguagem natural. Um bom ponto de
     {
       name: "prompt.txt",
       language: "text",
-      content: "Take a look at this project's directory structure and briefly describe what each directory is for.",
+      content: "Dê uma olhada na estrutura de diretórios deste projeto e descreva brevemente para que serve cada diretório.",
     },
   ]}
 />
@@ -254,7 +254,7 @@ Você também pode descrever uma tarefa mais concreta diretamente:
     {
       name: "prompt.txt",
       language: "text",
-      content: "Add a function in src/utils that converts any string to kebab-case, and add a unit test for it.",
+      content: "Adicione uma função em src/utils que converta qualquer string para kebab-case e crie um teste unitário para ela.",
     },
   ]}
 />

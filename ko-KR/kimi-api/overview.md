@@ -20,7 +20,7 @@ Kimi API 플랫폼은 개발자에게 강력한 대규모 언어 모델 기능�
 
 Kimi API는 Moonshot의 독자적인 대규모 언어 모델을 기반으로 하며, 텍스트 생성, 멀티턴 대화, 파일 파싱, Web Search 등 핵심 기능을 제공합니다. 이 플랫폼은 OpenAI API 형식과 호환되므로 개발자가 최소한의 노력으로 마이그레이션하고 통합할 수 있습니다.
 
-**플랫폼 URL**: [platform.moonshot.ai](https://www.platform.moonshot.ai)
+**플랫폼 URL**: [platform.kimi.ai](https://platform.kimi.ai)
 
 ## 대상 사용자
 
@@ -37,7 +37,7 @@ Kimi API는 Moonshot의 독자적인 대규모 언어 모델을 기반으로 하
 
 ## 빠른 시작
 
-1. [platform.moonshot.ai](https://platform.moonshot.ai)에 방문해 개발자 계정을 등록합니다.
+1. [platform.kimi.ai](https://platform.kimi.ai)에 방문해 개발자 계정을 등록합니다.
 2. 콘솔에서 API 키를 생성합니다.
 3. API 문서를 참고해 첫 호출을 실행합니다.
 4. 사용 사례에 맞는 모델과 매개변수를 선택합니다.

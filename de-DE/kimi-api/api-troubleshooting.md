@@ -91,7 +91,7 @@ Die Web-Search-Funktion der Kimi API ruft öffentlich verfügbare Informationen 
 
 ## Wird eine On-Premises-Bereitstellung unterstützt?
 
-Die Kimi API bietet derzeit ausschließlich cloudbasierte API-Dienste an und **unterstützt keine private On-Premises-Bereitstellung**. Bei Bedarf an einer privaten Bereitstellung wenden Sie sich über [platform.moonshot.ai/contact-sales](https://platform.moonshot.ai/contact-sales) an das Vertriebsteam.
+Die Kimi API bietet derzeit ausschließlich cloudbasierte API-Dienste an und **unterstützt keine private On-Premises-Bereitstellung**. Bei Bedarf an einer privaten Bereitstellung wenden Sie sich über [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) an das Vertriebsteam.
 
 ## Kann ich die Kimi API von außerhalb Chinas aufrufen?
 

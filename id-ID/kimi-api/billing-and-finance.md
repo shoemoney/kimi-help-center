@@ -21,7 +21,7 @@ Pertanyaan yang sering diajukan seputar tagihan, harga, dan pembayaran Kimi API.
 Kimi API ditagih berdasarkan token yang digunakan — token input dan token output dihitung secara terpisah. Harga bervariasi menurut model, dan web search dikenakan biaya tambahan sebesar $0,004 per pemanggilan.
 
 <Callout type="tip">
-Untuk rincian harga, lihat [platform.moonshot.ai/docs/pricing/chat](https://platform.moonshot.ai/docs/pricing/chat).
+Untuk rincian harga, lihat [platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat).
 </Callout>
 
 ## Metode pembayaran apa saja yang didukung?
@@ -33,7 +33,7 @@ Konsol API mendukung metode pembayaran berikut:
 
 Dana yang telah diisi dapat langsung digunakan untuk API.
 ## Bagaimana cara meminta faktur?
-1. Masuk ke konsol [platform.moonshot.ai](https://platform.moonshot.ai).
+1. Masuk ke konsol [platform.kimi.ai](https://platform.kimi.ai).
 2. Buka **Billing → Invoice Management**.
 3. Pilih catatan top-up yang memerlukan faktur.
 4. Isi detail faktur (pribadi atau bisnis) lalu kirim.

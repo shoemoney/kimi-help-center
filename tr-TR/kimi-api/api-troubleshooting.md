@@ -91,7 +91,7 @@ Kimi API'nin web arama özelliği, internetteki herkese açık bilgileri gerçek
 
 ## Şirket içi (on-premises) dağıtım destekleniyor mu?
 
-Kimi API şu anda yalnızca bulut tabanlı API hizmetleri sunmaktadır ve **şirket içi (on-premises) özel dağıtımı desteklememektedir**. Özel dağıtım gereksinimleri için [platform.moonshot.ai/contact-sales](https://platform.moonshot.ai/contact-sales) üzerinden satış ekibiyle iletişime geçin.
+Kimi API şu anda yalnızca bulut tabanlı API hizmetleri sunmaktadır ve **şirket içi (on-premises) özel dağıtımı desteklememektedir**. Özel dağıtım gereksinimleri için [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) üzerinden satış ekibiyle iletişime geçin.
 
 ## Kimi API'yi Çin dışından çağırabilir miyim?
 

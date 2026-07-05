@@ -41,7 +41,7 @@ Detaillierte Preise zum Context Caching finden Sie in der offiziellen Dokumentat
 
 Die vollständige Preistabelle der Modelle sowie die Abrechnungsregeln finden Sie hier:
 
-Sie können zu [platform.moonshot.ai/docs/pricing/chat](https://www.platform.moonshot.ai/docs/pricing/chat) gehen
+Sie können zu [platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat) gehen
 
 ## Tipps zur Kostenoptimierung
 

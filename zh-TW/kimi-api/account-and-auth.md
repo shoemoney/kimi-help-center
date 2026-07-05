@@ -21,7 +21,7 @@ preview: false
 個人帳戶**無法直接開立企業發票**。如需企業發票，請先將帳戶升級為組織帳戶。通過驗證後，即可用組織名稱申請發票。
 
 ## 如何從個人帳戶升級為組織帳戶？
-1. 登入 [platform.moonshot.ai](https://platform.moonshot.ai) 控制台。
+1. 登入 [platform.kimi.ai](https://platform.kimi.ai) 控制台。
 2. 前往 **帳戶設定 → 驗證**。
 3. 選擇 **組織驗證**，並填寫所需資訊。
 4. 提交審核；審核通過後，帳戶會自動轉換。

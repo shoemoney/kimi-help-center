@@ -21,7 +21,7 @@ Questions fréquentes sur la facturation, la tarification et le paiement de l'AP
 L'API Kimi est facturée selon le nombre de tokens consommés — les tokens d'entrée et de sortie sont tarifés séparément. Les prix varient selon le modèle, et le Web Search entraîne des frais supplémentaires de 0,004 $ par appel.
 
 <Callout type="tip">
-Pour la tarification détaillée, consultez [platform.moonshot.ai/docs/pricing/chat](https://platform.moonshot.ai/docs/pricing/chat).
+Pour la tarification détaillée, consultez [platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat).
 </Callout>
 
 ## Quels modes de paiement sont acceptés ?
@@ -33,7 +33,7 @@ La console de l'API prend en charge les modes de paiement suivants :
 
 Les fonds rechargés sont immédiatement disponibles pour utiliser l'API.
 ## Comment demander une facture ?
-1. Connectez-vous à la console [platform.moonshot.ai](https://platform.moonshot.ai).
+1. Connectez-vous à la console [platform.kimi.ai](https://platform.kimi.ai).
 2. Accédez à **Facturation → Gestion des factures**.
 3. Sélectionnez les recharges pour lesquelles vous avez besoin d'une facture.
 4. Renseignez les informations de facturation (particulier ou entreprise) et validez.

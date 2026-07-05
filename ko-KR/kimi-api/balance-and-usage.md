@@ -17,7 +17,7 @@ Kimi API는 계정 잔액과 사용량 세부 정보를 확인할 수 있는 여
 
 ## 콘솔 대시보드
 
-[platform.moonshot.ai](https://platform.moonshot.ai)에 로그인한 뒤 콘솔의 **fee-detail**(결제 세부 정보) 페이지로 이동하면 다음을 확인할 수 있습니다.
+[platform.kimi.ai](https://platform.kimi.ai)에 로그인한 뒤 콘솔의 **fee-detail**(결제 세부 정보) 페이지로 이동하면 다음을 확인할 수 있습니다.
 
 - 현재 계정 잔액
 - 일별 사용량 내역

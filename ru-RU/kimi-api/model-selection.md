@@ -19,7 +19,7 @@ preview: false
 
 Kimi API предлагает разработчикам несколько моделей на выбор.
 ## Доступные модели
-Полный список моделей и подробные характеристики см. на [platform.moonshot.ai/docs/introduction](https://www.platform.moonshot.ai/docs/introduction).
+Полный список моделей и подробные характеристики см. на [platform.kimi.ai/docs/models](https://platform.kimi.ai/docs/models).
 При выборе модели учитывайте:
 | Параметр | На что обратить внимание |
 | --- | --- |

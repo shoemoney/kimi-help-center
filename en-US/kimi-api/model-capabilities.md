@@ -25,7 +25,7 @@ Yes. Kimi API provides JSON Mode, which constrains the model output to valid JSO
 
 ## Support model fine-tuning?
 
-Kimi API **does not currently support** user-initiated model fine-tuning. For custom model requirements, contact the sales team via [platform.moonshot.ai/contact-sales](https://www.platform.moonshot.ai/contact-sales) to learn about enterprise customization options.
+Kimi API **does not currently support** user-initiated model fine-tuning. For custom model requirements, contact the sales team via [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) to learn about enterprise customization options.
 
 ## Support OCR?
 

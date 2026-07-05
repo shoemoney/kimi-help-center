@@ -17,7 +17,7 @@ Kimi API, platform kararlılığını ve adil kullanımı sağlamak için istek 
 
 ## Rate limit kademeleri
 
-API rate limit'leri, hesabınızın **toplam yükleme tutarına** göre kademelendirilir; ne kadar çok yükleme yaparsanız, kullanabileceğiniz rate limit'ler o kadar yüksek olur. Kademe eşikleri ile bunlara karşılık gelen RPM (dakika başına istek) ve TPM (dakika başına token) sınırlarının ayrıntıları için [platform.moonshot.ai](https://www.platform.moonshot.ai) konsoluna bakın.
+API rate limit'leri, hesabınızın **toplam yükleme tutarına** göre kademelendirilir; ne kadar çok yükleme yaparsanız, kullanabileceğiniz rate limit'ler o kadar yüksek olur. Kademe eşikleri ile bunlara karşılık gelen RPM (dakika başına istek) ve TPM (dakika başına token) sınırlarının ayrıntıları için [platform.kimi.ai](https://platform.kimi.ai) konsoluna bakın.
 
 ## Mevcut sınırları nasıl kontrol edebilirsiniz?
 
@@ -40,4 +40,4 @@ API rate limit'leri, hesabınızın **toplam yükleme tutarına** göre kademele
 İş ihtiyaçlarınız mevcut rate limit'leri aşıyorsa:
 
 - **Yükleme yaparak yükseltin**: Toplam yükleme tutarınızı artırın; sistem rate limit kademenizi otomatik olarak yükseltecektir.
-- **Satış ekibiyle iletişime geçin**: Özel gereksinimleriniz için [platform.moonshot.ai/contact-sales](https://www.platform.moonshot.ai/contact-sales) üzerinden platform satış ekibine ulaşarak özel bir rate quota talep edin.
+- **Satış ekibiyle iletişime geçin**: Özel gereksinimleriniz için [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) üzerinden platform satış ekibine ulaşarak özel bir rate quota talep edin.

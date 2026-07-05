@@ -41,7 +41,7 @@ Consulta la documentación oficial para conocer los precios detallados de Contex
 
 Para ver la tabla completa de precios por modelo y las reglas de facturación:
 
-Puedes ir a [platform.moonshot.ai/docs/pricing/chat](https://www.platform.moonshot.ai/docs/pricing/chat)
+Puedes ir a [platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat)
 
 ## Consejos para optimizar costos
 

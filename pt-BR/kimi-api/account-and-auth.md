@@ -21,7 +21,7 @@ Perguntas frequentes sobre contas de desenvolvedor, verificação e autenticaç�
 Uma conta pessoal **não pode receber nota fiscal empresarial diretamente**. Se você precisa de uma nota fiscal empresarial, primeiro converta sua conta para uma conta de organização. Após a verificação, você poderá solicitar notas fiscais em nome da sua organização.
 
 ## Como faço para converter uma conta pessoal em conta de organização?
-1. Acesse o console em [platform.moonshot.ai](https://platform.moonshot.ai).
+1. Acesse o console em [platform.kimi.ai](https://platform.kimi.ai).
 2. Vá em **Configurações da conta → Verificação**.
 3. Selecione **Verificação de organização** e preencha as informações solicitadas.
 4. Envie para análise — após a aprovação, sua conta será convertida automaticamente.

@@ -21,7 +21,7 @@ Các câu hỏi thường gặp về thanh toán, giá cả và phương thức 
 Kimi API tính phí theo số token tiêu thụ — token đầu vào và token đầu ra được tính giá riêng. Giá thay đổi tùy theo mô hình, và web search phát sinh thêm phí 0,004 USD cho mỗi lần gọi.
 
 <Callout type="tip">
-Để xem chi tiết về giá, truy cập [platform.moonshot.ai/docs/pricing/chat](https://platform.moonshot.ai/docs/pricing/chat).
+Để xem chi tiết về giá, truy cập [platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat).
 </Callout>
 
 ## Hỗ trợ những phương thức thanh toán nào?
@@ -33,7 +33,7 @@ Bảng điều khiển API hỗ trợ các phương thức thanh toán sau:
 
 Số tiền đã nạp có thể dùng ngay cho việc sử dụng API.
 ## Làm thế nào để yêu cầu hóa đơn?
-1. Đăng nhập vào bảng điều khiển [platform.moonshot.ai](https://platform.moonshot.ai).
+1. Đăng nhập vào bảng điều khiển [platform.kimi.ai](https://platform.kimi.ai).
 2. Đi tới **Billing → Invoice Management**.
 3. Chọn các bản ghi nạp tiền mà bạn cần xuất hóa đơn.
 4. Điền thông tin hóa đơn (cá nhân hoặc doanh nghiệp) và gửi.

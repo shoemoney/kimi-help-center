@@ -25,7 +25,7 @@ Sí. La API de Kimi ofrece el modo JSON, que restringe la salida del modelo a JS
 
 ## ¿Es compatible con el ajuste fino de modelos?
 
-La API de Kimi **actualmente no admite** el ajuste fino de modelos iniciado por el usuario. Si necesitas modelos personalizados, comunícate con el equipo de ventas a través de [platform.moonshot.ai/contact-sales](https://www.platform.moonshot.ai/contact-sales) para conocer las opciones de personalización empresarial.
+La API de Kimi **actualmente no admite** el ajuste fino de modelos iniciado por el usuario. Si necesitas modelos personalizados, comunícate con el equipo de ventas a través de [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) para conocer las opciones de personalización empresarial.
 
 ## ¿Es compatible con OCR?
 

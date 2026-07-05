@@ -19,7 +19,7 @@ Pilihan kemitraan untuk klien perusahaan — mulai dari diskon volume hingga SLA
 
 Kimi API menyediakan beragam pilihan kemitraan bagi klien perusahaan untuk memenuhi kebutuhan bisnis dalam skala apa pun.
 ## Bagaimana cara menghubungi tim penjualan?
-Kunjungi [platform.moonshot.ai/contact-sales](https://platform.moonshot.ai/contact-sales) untuk mengisi formulir kontak. Tim penjualan kami akan menghubungi Anda dalam 1–2 hari kerja.
+Kunjungi [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) untuk mengisi formulir kontak. Tim penjualan kami akan menghubungi Anda dalam 1–2 hari kerja.
 
 <Callout type="tip">
 **Sertakan dalam pengajuan Anda**:

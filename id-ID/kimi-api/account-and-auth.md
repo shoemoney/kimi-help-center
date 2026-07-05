@@ -21,7 +21,7 @@ Pertanyaan yang sering diajukan seputar akun developer Kimi API, verifikasi, dan
 Akun pribadi **tidak bisa langsung menerima faktur bisnis**. Jika Anda membutuhkan faktur bisnis, tingkatkan dulu akun Anda menjadi akun organisasi. Setelah terverifikasi, Anda bisa meminta faktur atas nama organisasi Anda.
 
 ## Bagaimana cara meningkatkan akun pribadi menjadi akun organisasi?
-1. Masuk ke konsol [platform.moonshot.ai](https://platform.moonshot.ai).
+1. Masuk ke konsol [platform.kimi.ai](https://platform.kimi.ai).
 2. Buka **Account Settings → Verification**.
 3. Pilih **Organization Verification** lalu isi informasi yang diperlukan.
 4. Kirim untuk ditinjau — setelah disetujui, akun Anda akan otomatis dikonversi.

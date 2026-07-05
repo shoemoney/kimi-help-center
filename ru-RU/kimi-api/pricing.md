@@ -41,7 +41,7 @@ preview: false
 
 Полную таблицу цен по моделям и правила тарификации можно найти здесь:
 
-Перейдите на [platform.moonshot.ai/docs/pricing/chat](https://www.platform.moonshot.ai/docs/pricing/chat)
+Перейдите на [platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat)
 
 ## Как оптимизировать расходы
 

@@ -15,7 +15,7 @@ preview: false
 
 Kimi Code là dịch vụ đi kèm trong gói hội viên Kimi, mang đến các tính năng và hỗ trợ liên quan đến lập trình, giúp hội viên hoàn thành các tác vụ lập trình hiệu quả hơn trong quy trình phát triển cá nhân.
 
-> Xin lưu ý rằng quyền lợi này chỉ dành cho mục đích phát triển cá nhân, không phục vụ các kịch bản phát triển doanh nghiệp. Nếu có nhu cầu doanh nghiệp, vui lòng truy cập [Nền tảng Mở Kimi](https://www.platform.moonshot.ai/).
+> Xin lưu ý rằng quyền lợi này chỉ dành cho mục đích phát triển cá nhân, không phục vụ các kịch bản phát triển doanh nghiệp. Nếu có nhu cầu doanh nghiệp, vui lòng truy cập [Nền tảng Mở Kimi](https://platform.kimi.ai/).
 
 ## Tính phí
 

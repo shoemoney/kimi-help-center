@@ -91,7 +91,7 @@ Tính năng web search của Kimi API truy xuất thông tin công khai trên in
 
 ## Có hỗ trợ triển khai tại chỗ không?
 
-Kimi API hiện chỉ cung cấp dịch vụ API trên đám mây và **không hỗ trợ triển khai riêng tại chỗ**. Nếu có nhu cầu triển khai riêng, hãy liên hệ đội ngũ kinh doanh qua [platform.moonshot.ai/contact-sales](https://platform.moonshot.ai/contact-sales).
+Kimi API hiện chỉ cung cấp dịch vụ API trên đám mây và **không hỗ trợ triển khai riêng tại chỗ**. Nếu có nhu cầu triển khai riêng, hãy liên hệ đội ngũ kinh doanh qua [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales).
 
 ## Tôi có thể gọi Kimi API từ ngoài Trung Quốc không?
 

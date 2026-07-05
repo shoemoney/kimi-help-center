@@ -17,7 +17,7 @@ Kimi API menerapkan rate limit（batas laju） pada frekuensi dan concurrency pe
 
 ## Tingkatan rate limit
 
-Rate limit API dibagi dalam beberapa tingkatan berdasarkan **total top-up kumulatif** akun Anda — semakin besar top-up Anda, semakin tinggi rate limit yang tersedia. Untuk ambang batas setiap tingkatan beserta batas RPM (permintaan per menit) dan TPM (token per menit) yang sesuai, lihat konsol [platform.moonshot.ai](https://www.platform.moonshot.ai).
+Rate limit API dibagi dalam beberapa tingkatan berdasarkan **total top-up kumulatif** akun Anda — semakin besar top-up Anda, semakin tinggi rate limit yang tersedia. Untuk ambang batas setiap tingkatan beserta batas RPM (permintaan per menit) dan TPM (token per menit) yang sesuai, lihat konsol [platform.kimi.ai](https://platform.kimi.ai).
 
 ## Cara memeriksa batas saat ini?
 
@@ -40,4 +40,4 @@ Ketika frekuensi permintaan Anda melampaui batas, API mengembalikan kode status 
 Jika kebutuhan bisnis Anda melebihi rate limit saat ini:
 
 - **Top-up untuk naik tingkat**: Tingkatkan total top-up kumulatif Anda, dan sistem akan otomatis menaikkan tingkatan rate limit Anda.
-- **Hubungi tim sales**: Untuk kebutuhan khusus, hubungi tim sales platform melalui [platform.moonshot.ai/contact-sales](https://www.platform.moonshot.ai/contact-sales) guna meminta quota rate limit yang disesuaikan.
+- **Hubungi tim sales**: Untuk kebutuhan khusus, hubungi tim sales platform melalui [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) guna meminta quota rate limit yang disesuaikan.

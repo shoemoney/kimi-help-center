@@ -33,6 +33,6 @@ Códigos de erro comuns ao chamar a API do Kimi e como resolvê-los.
 <Callout type="tip">
 1. **Verifique a mensagem de erro completa**: O JSON de resposta inclui `error.message` com uma descrição detalhada.
 2. **Anote o request_id**: Ajuda o suporte a localizar o problema rapidamente.
-3. **Consulte a documentação oficial**: Garanta que as chamadas estejam de acordo com a documentação em [platform.moonshot.ai](https://platform.moonshot.ai).
+3. **Consulte a documentação oficial**: Garanta que as chamadas estejam de acordo com a documentação em [platform.kimi.ai](https://platform.kimi.ai).
 4. **Implemente lógica de retentativa**: Para os erros 429 e 500, use backoff exponencial.
 </Callout>

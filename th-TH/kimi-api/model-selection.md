@@ -19,7 +19,7 @@ preview: false
 
 Kimi API มีโมเดลให้นักพัฒนาเลือกใช้หลายแบบ
 ## โมเดลที่ใช้งานได้
-ดูรายการโมเดลทั้งหมดและข้อมูลจำเพาะโดยละเอียดได้ที่ [platform.moonshot.ai/docs/introduction](https://www.platform.moonshot.ai/docs/introduction)
+ดูรายการโมเดลทั้งหมดและข้อมูลจำเพาะโดยละเอียดได้ที่ [platform.kimi.ai/docs/models](https://platform.kimi.ai/docs/models)
 เมื่อเลือกโมเดล คุณสามารถพิจารณาจาก:
 | มิติ | สิ่งที่ควรพิจารณา |
 | --- | --- |

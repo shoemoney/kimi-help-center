@@ -19,7 +19,7 @@ Pilih model Kimi API yang tepat berdasarkan kemampuan, kecepatan, dan harga.
 
 Kimi API menyediakan beragam model yang bisa dipilih oleh para pengembang.
 ## Model yang tersedia
-Kunjungi [platform.moonshot.ai/docs/introduction](https://www.platform.moonshot.ai/docs/introduction) untuk daftar model lengkap beserta spesifikasi terperincinya.
+Kunjungi [platform.kimi.ai/docs/models](https://platform.kimi.ai/docs/models) untuk daftar model lengkap beserta spesifikasi terperincinya.
 Saat memilih model, Anda dapat mempertimbangkan:
 | Dimensi | Pertimbangan |
 | --- | --- |

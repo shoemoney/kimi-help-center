@@ -41,7 +41,7 @@ Kimi API는 token 사용량을 기준으로 과금되며, 모델 및 기능별 �
 
 전체 모델 요금표와 과금 규칙은 다음에서 확인할 수 있습니다.
 
-[platform.moonshot.ai/docs/pricing/chat](https://www.platform.moonshot.ai/docs/pricing/chat)으로 이동하세요
+[platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat)으로 이동하세요
 
 ## 비용 최적화 팁
 

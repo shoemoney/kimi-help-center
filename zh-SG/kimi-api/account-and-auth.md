@@ -21,7 +21,7 @@ preview: false
 个人账户**不能直接开具企业发票**。如需企业发票，请先将账户升级为组织账户。认证通过后，你即可使用组织名称申请开票。
 
 ## 如何从个人账户升级为组织账户？
-1. 登录 [platform.moonshot.ai](https://platform.moonshot.ai) 控制台。
+1. 登录 [platform.kimi.ai](https://platform.kimi.ai) 控制台。
 2. 前往 **账户设置 → 认证**。
 3. 选择 **组织认证**，并填写所需信息。
 4. 提交审核——审核通过后，你的账户将自动完成转换。

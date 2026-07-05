@@ -17,7 +17,7 @@ La API de Kimi aplica límites de tasa a la frecuencia de solicitudes y a la con
 
 ## Niveles de rate limit
 
-Los límites de tasa de la API se organizan por niveles según el **monto acumulado de recargas** de tu cuenta: mientras más hayas recargado, mayores serán los límites disponibles. Para conocer los umbrales específicos de cada nivel y los límites correspondientes de RPM (solicitudes por minuto) y TPM (tokens por minuto), consulta la consola en [platform.moonshot.ai](https://www.platform.moonshot.ai).
+Los límites de tasa de la API se organizan por niveles según el **monto acumulado de recargas** de tu cuenta: mientras más hayas recargado, mayores serán los límites disponibles. Para conocer los umbrales específicos de cada nivel y los límites correspondientes de RPM (solicitudes por minuto) y TPM (tokens por minuto), consulta la consola en [platform.kimi.ai](https://platform.kimi.ai).
 
 ## ¿Cómo consultar los límites actuales?
 
@@ -40,4 +40,4 @@ Cuando la frecuencia de tus solicitudes supera el límite, la API devuelve un c�
 Si las necesidades de tu negocio superan los límites de tasa actuales:
 
 - **Recarga para subir de nivel**: aumenta tu monto acumulado de recargas y el sistema actualizará automáticamente tu nivel de rate limit.
-- **Contacta a ventas**: para requerimientos especiales, comunícate con el equipo de ventas de la plataforma a través de [platform.moonshot.ai/contact-sales](https://www.platform.moonshot.ai/contact-sales) para solicitar una cuota de tasa personalizada.
+- **Contacta a ventas**: para requerimientos especiales, comunícate con el equipo de ventas de la plataforma a través de [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) para solicitar una cuota de tasa personalizada.

@@ -15,7 +15,7 @@ preview: false
 
 Kimi Code, Kimi üyelik planına dahil olan ve üyelerin kişisel geliştirme iş akışlarında programlama görevlerini daha verimli tamamlamalarına yardımcı olmak için kodlamayla ilgili destek ve özellikler sunan bir hizmettir.
 
-> Lütfen unutmayın: Bu avantaj yalnızca kişisel geliştirme amaçlı kullanım içindir, kurumsal geliştirme senaryoları için değildir. Kurumsal ihtiyaçlar için lütfen [Kimi Açık Platformu](https://www.platform.moonshot.ai/) ziyaret edin.
+> Lütfen unutmayın: Bu avantaj yalnızca kişisel geliştirme amaçlı kullanım içindir, kurumsal geliştirme senaryoları için değildir. Kurumsal ihtiyaçlar için lütfen [Kimi Açık Platformu](https://platform.kimi.ai/) ziyaret edin.
 
 ## Faturalandırma
 

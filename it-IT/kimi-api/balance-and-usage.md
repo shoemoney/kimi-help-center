@@ -17,7 +17,7 @@ L'API di Kimi offre diversi modi per consultare il saldo del tuo account e i det
 
 ## Dashboard della console
 
-Accedi a [platform.moonshot.ai](https://platform.moonshot.ai) e vai alla pagina **fee-detail** (dettagli di fatturazione) nella console per consultare:
+Accedi a [platform.kimi.ai](https://platform.kimi.ai) e vai alla pagina **fee-detail** (dettagli di fatturazione) nella console per consultare:
 
 - Il saldo attuale dell'account
 - Il riepilogo dell'utilizzo giornaliero

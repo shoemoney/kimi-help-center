@@ -19,7 +19,7 @@ Chọn mô hình Kimi API phù hợp dựa trên năng lực, tốc độ và gi
 
 Kimi API cung cấp nhiều mô hình để nhà phát triển lựa chọn.
 ## Các mô hình hiện có
-Truy cập [platform.moonshot.ai/docs/introduction](https://www.platform.moonshot.ai/docs/introduction) để xem danh sách mô hình đầy đủ cùng thông số kỹ thuật chi tiết.
+Truy cập [platform.kimi.ai/docs/models](https://platform.kimi.ai/docs/models) để xem danh sách mô hình đầy đủ cùng thông số kỹ thuật chi tiết.
 Khi chọn mô hình, bạn có thể cân nhắc:
 | Tiêu chí | Điểm cần lưu ý |
 | --- | --- |

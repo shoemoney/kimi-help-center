@@ -21,7 +21,7 @@ Frequently asked questions about Kimi API billing, pricing, and payment.
 Kimi API is billed per token consumed — input tokens and output tokens are priced separately. Pricing varies by model, and web search incurs an additional fee of $0.004 per invocation.
 
 <Callout type="tip">
-For detailed pricing, see [platform.moonshot.ai/docs/pricing/chat](https://platform.moonshot.ai/docs/pricing/chat).
+For detailed pricing, see [platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat).
 </Callout>
 
 ## What payment methods are supported?
@@ -33,7 +33,7 @@ The API console supports the following payment methods:
 
 Topped-up funds are available immediately for API usage.
 ## How do I request an invoice?
-1. Log in to the [platform.moonshot.ai](https://platform.moonshot.ai) console.
+1. Log in to the [platform.kimi.ai](https://platform.kimi.ai) console.
 2. Navigate to **Billing → Invoice Management**.
 3. Select the top-up records for which you need an invoice.
 4. Fill in the invoice details (personal or business) and submit.

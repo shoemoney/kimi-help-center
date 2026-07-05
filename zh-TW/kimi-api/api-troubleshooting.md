@@ -91,7 +91,7 @@ Kimi API 的網頁搜尋功能會即時從網際網路擷取公開資訊。結�
 
 ## 支援本地部署嗎？
 
-Kimi API 目前僅提供雲端 API 服務，**不支援本地私有化部署**。如有私有化部署需求，請透過 [platform.moonshot.ai/contact-sales](https://platform.moonshot.ai/contact-sales) 聯絡銷售團隊。
+Kimi API 目前僅提供雲端 API 服務，**不支援本地私有化部署**。如有私有化部署需求，請透過 [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) 聯絡銷售團隊。
 
 ## 可以從中國境外呼叫 Kimi API 嗎？
 

@@ -17,7 +17,7 @@ Die Kimi API bietet mehrere Möglichkeiten, Ihr Kontoguthaben und Ihre Nutzungsd
 
 ## Konsolen-Dashboard
 
-Melden Sie sich unter [platform.moonshot.ai](https://platform.moonshot.ai) an und rufen Sie in der Konsole die Seite **fee-detail** (Abrechnungsdetails) auf, um Folgendes anzuzeigen:
+Melden Sie sich unter [platform.kimi.ai](https://platform.kimi.ai) an und rufen Sie in der Konsole die Seite **fee-detail** (Abrechnungsdetails) auf, um Folgendes anzuzeigen:
 
 - Aktuelles Kontoguthaben
 - Tägliche Nutzungsaufschlüsselung

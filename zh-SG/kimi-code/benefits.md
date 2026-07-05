@@ -15,7 +15,7 @@ preview: false
 
 Kimi Code 是 Kimi 会员套餐包含的一项服务，提供与编程相关的支持和功能，帮助会员在个人开发流程中更高效地完成编程任务。
 
-> 请注意，此权益仅限个人开发使用，不适用于企业开发场景。如有企业需求，请访问 [Kimi 开放平台](https://www.platform.moonshot.ai/)。
+> 请注意，此权益仅限个人开发使用，不适用于企业开发场景。如有企业需求，请访问 [Kimi 开放平台](https://platform.kimi.ai/)。
 
 ## 计费
 

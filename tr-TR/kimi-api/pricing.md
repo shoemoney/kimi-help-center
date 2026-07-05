@@ -41,7 +41,7 @@ Context Caching fiyatlandırmasının ayrıntıları için resmi belgelere başv
 
 Eksiksiz model fiyatlandırma tablosu ve ücretlendirme kuralları için:
 
-[platform.moonshot.ai/docs/pricing/chat](https://www.platform.moonshot.ai/docs/pricing/chat) adresine gidebilirsiniz
+[platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat) adresine gidebilirsiniz
 
 ## Maliyet optimizasyonu ipuçları
 

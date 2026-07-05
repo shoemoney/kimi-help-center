@@ -20,7 +20,7 @@ Kimi API platformu, geliştiricilere güçlü büyük dil modeli yetenekleri sun
 
 Kimi API, Moonshot'ın kendi geliştirdiği büyük dil modelleriyle çalışır; metin üretimi, çok turlu sohbetler, dosya ayrıştırma, web araması ve diğer temel yetenekleri sunar. Platform, OpenAI API formatıyla uyumludur ve geliştiricilerin en az çabayla geçiş yapıp entegrasyon gerçekleştirmesine olanak tanır.
 
-**Platform URL'si**: [platform.moonshot.ai](https://www.platform.moonshot.ai)
+**Platform URL'si**: [platform.kimi.ai](https://platform.kimi.ai)
 
 ## Hedef kitle
 
@@ -37,7 +37,7 @@ Kimi API, Moonshot'ın kendi geliştirdiği büyük dil modelleriyle çalışır
 
 ## Hızlı başlangıç
 
-1. Geliştirici hesabı oluşturmak için [platform.moonshot.ai](https://platform.moonshot.ai) adresini ziyaret edin.
+1. Geliştirici hesabı oluşturmak için [platform.kimi.ai](https://platform.kimi.ai) adresini ziyaret edin.
 2. Konsolda bir API Key oluşturun.
 3. İlk çağrınızı yapmak için API belgelerine başvurun.
 4. Kullanım senaryonuza uygun model ve parametreleri seçin.

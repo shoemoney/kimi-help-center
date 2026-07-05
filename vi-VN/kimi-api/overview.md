@@ -20,7 +20,7 @@ Nền tảng Kimi API mang đến cho nhà phát triển những khả năng m�
 
 Kimi API được vận hành bởi các mô hình ngôn ngữ lớn độc quyền của Moonshot, cung cấp các khả năng cốt lõi như sinh văn bản, hội thoại nhiều lượt, phân tích tệp, tìm kiếm web và nhiều tính năng khác. Nền tảng tương thích với định dạng OpenAI API, cho phép nhà phát triển chuyển đổi và tích hợp với công sức tối thiểu.
 
-**Địa chỉ nền tảng**: [platform.moonshot.ai](https://www.platform.moonshot.ai)
+**Địa chỉ nền tảng**: [platform.kimi.ai](https://platform.kimi.ai)
 
 ## Đối tượng phù hợp
 
@@ -37,7 +37,7 @@ Kimi API được vận hành bởi các mô hình ngôn ngữ lớn độc quy�
 
 ## Bắt đầu nhanh
 
-1. Truy cập [platform.moonshot.ai](https://platform.moonshot.ai) để đăng ký tài khoản nhà phát triển.
+1. Truy cập [platform.kimi.ai](https://platform.kimi.ai) để đăng ký tài khoản nhà phát triển.
 2. Tạo API Key trong bảng điều khiển.
 3. Tham khảo tài liệu API để thực hiện lệnh gọi đầu tiên.
 4. Chọn mô hình và tham số phù hợp với tình huống sử dụng của bạn.

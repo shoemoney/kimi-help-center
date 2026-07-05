@@ -19,7 +19,7 @@ Yeteneğe, hıza ve fiyatlandırmaya göre doğru Kimi API modelini seçin.
 
 Kimi API, geliştiricilerin tercih edebileceği birden fazla model sunar.
 ## Kullanılabilir modeller
-Eksiksiz model listesi ve ayrıntılı özellikler için [platform.moonshot.ai/docs/introduction](https://www.platform.moonshot.ai/docs/introduction) adresini ziyaret edin.
+Eksiksiz model listesi ve ayrıntılı özellikler için [platform.kimi.ai/docs/models](https://platform.kimi.ai/docs/models) adresini ziyaret edin.
 Bir model seçerken şunları göz önünde bulundurabilirsiniz:
 | Boyut | Değerlendirme |
 | --- | --- |

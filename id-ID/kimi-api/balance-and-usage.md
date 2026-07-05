@@ -17,7 +17,7 @@ Kimi API menyediakan beragam cara untuk melihat saldo akun dan detail penggunaan
 
 ## Dasbor konsol
 
-Masuk ke [platform.moonshot.ai](https://platform.moonshot.ai) dan buka halaman **fee-detail** (detail tagihan) di konsol untuk melihat:
+Masuk ke [platform.kimi.ai](https://platform.kimi.ai) dan buka halaman **fee-detail** (detail tagihan) di konsol untuk melihat:
 
 - Saldo akun saat ini
 - Rincian penggunaan harian

@@ -19,7 +19,7 @@ Partnership options for enterprise clients — from volume discounts to custom S
 
 Kimi API offers a range of partnership options for enterprise clients to meet business needs at any scale.
 ## How to contact the sales team?
-Visit [platform.moonshot.ai/contact-sales](https://platform.moonshot.ai/contact-sales) to submit a contact form. Our sales team will reach out within 1–2 business days.
+Visit [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) to submit a contact form. Our sales team will reach out within 1–2 business days.
 
 <Callout type="tip">
 **Include in your submission**:

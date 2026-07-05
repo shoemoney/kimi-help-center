@@ -17,7 +17,7 @@ Kimi API 会对请求频率和并发实施速率限制，以保障平台稳定�
 
 ## 速率限制档位
 
-API 速率限制会根据你账户的**累计充值金额**划分档位——充值越多，可用的速率限制越高。具体档位门槛以及对应的 RPM（每分钟请求数）和 TPM（每分钟 token 数）限制，请参考 [platform.moonshot.ai](https://www.platform.moonshot.ai) 控制台。
+API 速率限制会根据你账户的**累计充值金额**划分档位——充值越多，可用的速率限制越高。具体档位门槛以及对应的 RPM（每分钟请求数）和 TPM（每分钟 token 数）限制，请参考 [platform.kimi.ai](https://platform.kimi.ai) 控制台。
 
 ## 如何查看当前限制？
 
@@ -40,4 +40,4 @@ API 速率限制会根据你账户的**累计充值金额**划分档位——充
 如果你的业务需求超过当前速率限制：
 
 - **充值升级**：提高账户累计充值金额，系统会自动提升你的速率限制档位。
-- **联系销售**：如有特殊需求，请通过 [platform.moonshot.ai/contact-sales](https://www.platform.moonshot.ai/contact-sales) 联系平台销售团队，申请自定义速率配额。
+- **联系销售**：如有特殊需求，请通过 [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) 联系平台销售团队，申请自定义速率配额。

@@ -19,7 +19,7 @@ preview: false
 
 Kimi API 提供多款模型供開發者選用。
 ## 可用模型
-請前往 [platform.moonshot.ai/docs/introduction](https://www.platform.moonshot.ai/docs/introduction) 查看完整模型清單與詳細規格。
+請前往 [platform.kimi.ai/docs/models](https://platform.kimi.ai/docs/models) 查看完整模型清單與詳細規格。
 選擇模型時，可從以下面向評估：
 | 面向 | 考量重點 |
 | --- | --- |

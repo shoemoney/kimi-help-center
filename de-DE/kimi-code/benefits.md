@@ -15,7 +15,7 @@ preview: false
 
 Kimi Code ist ein im Kimi-Abo enthaltener Dienst, der Coding-bezogene Unterstützung und Funktionen bietet, damit Mitglieder Programmieraufgaben in ihrem persönlichen Entwicklungsworkflow effizienter erledigen können.
 
-> Bitte beachten Sie, dass dieser Vorteil ausschließlich für die persönliche Entwicklung gedacht ist, nicht für Entwicklungsszenarien in Unternehmen. Für Unternehmensanforderungen besuchen Sie bitte die [Kimi Open Platform](https://www.platform.moonshot.ai/).
+> Bitte beachten Sie, dass dieser Vorteil ausschließlich für die persönliche Entwicklung gedacht ist, nicht für Entwicklungsszenarien in Unternehmen. Für Unternehmensanforderungen besuchen Sie bitte die [Kimi Open Platform](https://platform.kimi.ai/).
 
 ## Abrechnung
 

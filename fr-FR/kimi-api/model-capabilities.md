@@ -25,7 +25,7 @@ Oui. L'API Kimi propose un mode JSON, qui contraint la sortie du modèle à prod
 
 ## Le fine-tuning des modèles est-il pris en charge ?
 
-L'API Kimi **ne prend pas encore en charge** le fine-tuning des modèles à l'initiative de l'utilisateur. Pour des besoins de modèles personnalisés, contactez l'équipe commerciale via [platform.moonshot.ai/contact-sales](https://www.platform.moonshot.ai/contact-sales) afin de découvrir les options de personnalisation pour les entreprises.
+L'API Kimi **ne prend pas encore en charge** le fine-tuning des modèles à l'initiative de l'utilisateur. Pour des besoins de modèles personnalisés, contactez l'équipe commerciale via [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) afin de découvrir les options de personnalisation pour les entreprises.
 
 ## L'OCR est-il pris en charge ?
 

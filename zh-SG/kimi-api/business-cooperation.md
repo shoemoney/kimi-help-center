@@ -19,7 +19,7 @@ preview: false
 
 Kimi API 为企业客户提供多种合作方案，满足不同规模的业务需求。
 ## 如何联系销售团队？
-访问 [platform.moonshot.ai/contact-sales](https://platform.moonshot.ai/contact-sales) 提交联系表单。我们的销售团队将在 1–2 个工作日内与您联系。
+访问 [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) 提交联系表单。我们的销售团队将在 1–2 个工作日内与您联系。
 
 <Callout type="tip">
 **提交时请包含以下信息**：

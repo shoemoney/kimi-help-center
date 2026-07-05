@@ -91,7 +91,7 @@ La **génération de PPT** et la **deep research** ne sont **pas encore disponib
 
 ## Le déploiement sur site est-il pris en charge ?
 
-L'API Kimi propose actuellement uniquement des services d'API dans le cloud et **ne prend pas en charge le déploiement privé sur site**. Pour des besoins de déploiement privé, contactez l'équipe commerciale via [platform.moonshot.ai/contact-sales](https://platform.moonshot.ai/contact-sales).
+L'API Kimi propose actuellement uniquement des services d'API dans le cloud et **ne prend pas en charge le déploiement privé sur site**. Pour des besoins de déploiement privé, contactez l'équipe commerciale via [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales).
 
 ## Puis-je appeler l'API Kimi depuis l'extérieur de la Chine ?
 

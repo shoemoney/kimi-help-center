@@ -25,7 +25,7 @@ Evet. Kimi API, model çıktısını geçerli JSON ile sınırlandıran JSON Mod
 
 ## Model ince ayarını destekliyor mu?
 
-Kimi API, **şu anda** kullanıcı tarafından başlatılan model ince ayarını **desteklememektedir**. Özel model gereksinimleriniz için kurumsal özelleştirme seçenekleri hakkında bilgi almak üzere [platform.moonshot.ai/contact-sales](https://www.platform.moonshot.ai/contact-sales) üzerinden satış ekibiyle iletişime geçin.
+Kimi API, **şu anda** kullanıcı tarafından başlatılan model ince ayarını **desteklememektedir**. Özel model gereksinimleriniz için kurumsal özelleştirme seçenekleri hakkında bilgi almak üzere [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) üzerinden satış ekibiyle iletişime geçin.
 
 ## OCR destekliyor mu?
 

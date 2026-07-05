@@ -21,7 +21,7 @@ Preguntas frecuentes sobre cuentas de desarrollador, verificación y autenticaci
 Una cuenta personal **no puede recibir directamente una factura empresarial**. Si necesitas una factura empresarial, primero debes actualizar tu cuenta a una cuenta de organización. Una vez verificada, podrás solicitar facturas a nombre de tu organización.
 
 ## ¿Cómo actualizo de una cuenta personal a una cuenta de organización?
-1. Inicia sesión en la consola de [platform.moonshot.ai](https://platform.moonshot.ai).
+1. Inicia sesión en la consola de [platform.kimi.ai](https://platform.kimi.ai).
 2. Ve a **Configuración de la cuenta → Verificación**.
 3. Selecciona **Verificación de organización** y completa la información requerida.
 4. Envía la solicitud para revisión: una vez aprobada, tu cuenta se convertirá automáticamente.

@@ -25,7 +25,7 @@ Kimi API のモデル機能に関するよくある質問をまとめていま�
 
 ## モデルのファインチューニングに対応していますか？
 
-Kimi API は、ユーザーによるモデルのファインチューニングを**現時点ではサポートしていません**。カスタムモデルに関する要件がある場合は、[platform.moonshot.ai/contact-sales](https://www.platform.moonshot.ai/contact-sales) から営業チームにお問い合わせのうえ、エンタープライズ向けのカスタマイズオプションをご確認ください。
+Kimi API は、ユーザーによるモデルのファインチューニングを**現時点ではサポートしていません**。カスタムモデルに関する要件がある場合は、[platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) から営業チームにお問い合わせのうえ、エンタープライズ向けのカスタマイズオプションをご確認ください。
 
 ## OCRに対応していますか？
 

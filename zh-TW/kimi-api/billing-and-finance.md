@@ -21,7 +21,7 @@ preview: false
 Kimi API 依消耗的 token 計費——輸入 token 與輸出 token 分別定價。價格會因模型而異；使用 Web Search 另需支付每次呼叫 $0.004 的費用。
 
 <Callout type="tip">
-詳細價格請參閱 [platform.moonshot.ai/docs/pricing/chat](https://platform.moonshot.ai/docs/pricing/chat)。
+詳細價格請參閱 [platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat)。
 </Callout>
 
 ## 支援哪些付款方式？
@@ -33,7 +33,7 @@ API 控制台支援以下付款方式：
 
 儲值完成後，款項會立即可用於 API 使用。
 ## 如何申請發票？
-1. 登入 [platform.moonshot.ai](https://platform.moonshot.ai) 控制台。
+1. 登入 [platform.kimi.ai](https://platform.kimi.ai) 控制台。
 2. 前往 **帳務 → 發票管理**。
 3. 選取需要開立發票的儲值紀錄。
 4. 填寫發票資訊（個人或企業）並送出。

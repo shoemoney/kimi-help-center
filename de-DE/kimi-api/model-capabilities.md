@@ -25,7 +25,7 @@ Ja. Die Kimi API bietet einen JSON Mode, der die Modellausgabe auf gültiges JSO
 
 ## Wird das Feintuning von Modellen unterstützt?
 
-Die Kimi API **unterstützt derzeit kein** vom Nutzer initiiertes Feintuning von Modellen. Bei Bedarf an individuellen Modellen wenden Sie sich über [platform.moonshot.ai/contact-sales](https://www.platform.moonshot.ai/contact-sales) an das Vertriebsteam, um sich über Anpassungsmöglichkeiten für Unternehmen zu informieren.
+Die Kimi API **unterstützt derzeit kein** vom Nutzer initiiertes Feintuning von Modellen. Bei Bedarf an individuellen Modellen wenden Sie sich über [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) an das Vertriebsteam, um sich über Anpassungsmöglichkeiten für Unternehmen zu informieren.
 
 ## Wird OCR unterstützt?
 

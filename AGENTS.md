@@ -3,6 +3,10 @@
 This repo stores help center articles as MDX-compatible Markdown under locale
 folders such as `en-US/` and `zh-CN/`.
 
+For translating/localizing content across locales, see
+[`TRANSLATION.md`](./TRANSLATION.md) (keep-English vs localize rules, glossary,
+domains/URLs/emails, punctuation, and workflow).
+
 ## Scope
 
 - Use this repo for checked-in help center content only.

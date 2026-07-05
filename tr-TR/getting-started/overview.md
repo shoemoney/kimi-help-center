@@ -18,7 +18,7 @@ preview_content: "Başlamak için Kimi'nin sohbet modlarını, yapay zeka ajanla
 Kimi, Moonshot AI tarafından geliştirilen; yerleşik web araması, derin düşünme, çok modlu akıl yürütme ve ultra uzun bağlamlı sohbetler sunan bir yapay zeka asistanıdır.
 </Callout>
 
-Sohbet etmeye, içerik üretmeye, araştırmaya ve geliştirmeye başlamak için [Kimi.com](https://www.kimi.com/) adresini ziyaret edin veya Kimi uygulamasını indirin. Geliştiriciler, Kimi'nin yeteneklerini kendi uygulamalarına entegre etmek için API ve araçlara erişmek üzere [Kimi Açık Platform](https://platform.moonshot.ai/) sayfasına gidebilir.
+Sohbet etmeye, içerik üretmeye, araştırmaya ve geliştirmeye başlamak için [Kimi.com](https://www.kimi.com/) adresini ziyaret edin veya Kimi uygulamasını indirin. Geliştiriciler, Kimi'nin yeteneklerini kendi uygulamalarına entegre etmek için API ve araçlara erişmek üzere [Kimi Açık Platform](https://platform.kimi.ai/) sayfasına gidebilir.
 ## Sohbet modları
 | Mod | Açıklama |
 |------|-------------|

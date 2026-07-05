@@ -23,4 +23,4 @@ Escolha o canal adequado conforme o tipo de feedback:
 | Feedback sobre a qualidade das conversas | Após uma conversa, clique no botão **👎** e descreva o tipo de problema e o desvio específico |
 | Recursos de conta / denúncias | [support@moonshot.ai](mailto:support@moonshot.ai) |
 | Imprensa | [pr@kimi.com](mailto:pr@kimi.com) |
-| Suporte da Kimi API | Acesse a [Plataforma Aberta do Kimi](https://platform.moonshot.ai/) para contatos de atendimento ao cliente e a comunidade de desenvolvedores |
+| Suporte da Kimi API | Acesse a [Plataforma Aberta do Kimi](https://platform.kimi.ai/) para contatos de atendimento ao cliente e a comunidade de desenvolvedores |

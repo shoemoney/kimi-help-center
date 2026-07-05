@@ -23,4 +23,4 @@ Geri bildirim türünüze göre uygun kanalı seçin:
 | Sohbet kalitesi geri bildirimi | Bir konuşmanın ardından **👎** düğmesine tıklayın ve sorun türünü ve belirli sapmayı açıklayın |
 | Hesap itirazları / şikayetler | [support@moonshot.ai](mailto:support@moonshot.ai) |
 | Medya soruları | [pr@kimi.com](mailto:pr@kimi.com) |
-| Kimi API desteği | Müşteri hizmetleri iletişim bilgileri ve geliştirici topluluğu için [Kimi Open Platform](https://platform.moonshot.ai/) üzerinden oturum açın |
+| Kimi API desteği | Müşteri hizmetleri iletişim bilgileri ve geliştirici topluluğu için [Kimi Open Platform](https://platform.kimi.ai/) üzerinden oturum açın |

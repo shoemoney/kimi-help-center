@@ -18,7 +18,7 @@ preview_content: "了解 Kimi 的聊天模式、AI 代理、檔案處理與介�
 Kimi 是由 Moonshot AI 開發的 AI 助理，內建 Web Search、深度思考、多模態推理，以及超長上下文對話能力。
 </Callout>
 
-前往 [Kimi.com](https://www.kimi.com/) 或下載 Kimi app，即可開始聊天、創作、研究與建構。開發者可前往 [Kimi 開放平台](https://platform.moonshot.ai/) 使用 API 與工具，將 Kimi 的能力整合到自己的應用程式中。
+前往 [Kimi.com](https://www.kimi.com/) 或下載 Kimi app，即可開始聊天、創作、研究與建構。開發者可前往 [Kimi 開放平台](https://platform.kimi.ai/) 使用 API 與工具，將 Kimi 的能力整合到自己的應用程式中。
 ## 聊天模式
 | 模式 | 說明 |
 |------|-------------|

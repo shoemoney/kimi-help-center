@@ -18,7 +18,7 @@ preview_content: "Explora los modos de chat de Kimi, los agentes de IA, el manej
 Kimi es un asistente de IA desarrollado por Moonshot AI, con búsqueda web integrada, pensamiento profundo, razonamiento multimodal y conversaciones de contexto ultralargo.
 </Callout>
 
-Visita [Kimi.com](https://www.kimi.com/) o descarga la app de Kimi para empezar a chatear, crear, investigar y construir. Los desarrolladores pueden ir a la [Plataforma abierta de Kimi](https://platform.moonshot.ai/) para acceder a las API y herramientas que integran las capacidades de Kimi en sus propias aplicaciones.
+Visita [Kimi.com](https://www.kimi.com/) o descarga la app de Kimi para empezar a chatear, crear, investigar y construir. Los desarrolladores pueden ir a la [Plataforma abierta de Kimi](https://platform.kimi.ai/) para acceder a las API y herramientas que integran las capacidades de Kimi en sus propias aplicaciones.
 ## Modos de chat
 | Modo | Descripción |
 |------|-------------|

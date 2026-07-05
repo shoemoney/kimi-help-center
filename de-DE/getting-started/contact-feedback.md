@@ -23,4 +23,4 @@ Wählen Sie je nach Art Ihres Feedbacks den passenden Kanal:
 | Feedback zur Chat-Qualität | Klicken Sie nach einer Unterhaltung auf die Schaltfläche **👎** und beschreiben Sie die Art des Problems sowie die konkrete Abweichung |
 | Konto-Einsprüche / Meldungen | [support@moonshot.ai](mailto:support@moonshot.ai) |
 | Presseanfragen | [pr@kimi.com](mailto:pr@kimi.com) |
-| Support zur Kimi API | Melden Sie sich bei der [Kimi Open Platform](https://platform.moonshot.ai/) an, um Kontakte zum Kundenservice und die Entwickler-Community zu erreichen |
+| Support zur Kimi API | Melden Sie sich bei der [Kimi Open Platform](https://platform.kimi.ai/) an, um Kontakte zum Kundenservice und die Entwickler-Community zu erreichen |

@@ -23,4 +23,4 @@ Elige el canal adecuado según el tipo de comentario:
 | Comentarios sobre la calidad del chat | Después de una conversación, haz clic en el botón **👎** y describe el tipo de problema y la desviación específica |
 | Apelaciones de cuenta / reportes | [support@moonshot.ai](mailto:support@moonshot.ai) |
 | Consultas de medios | [pr@kimi.com](mailto:pr@kimi.com) |
-| Soporte de Kimi API | Inicia sesión en la [Kimi Open Platform](https://platform.moonshot.ai/) para acceder a los contactos de atención al cliente y a la comunidad de desarrolladores |
+| Soporte de Kimi API | Inicia sesión en la [Kimi Open Platform](https://platform.kimi.ai/) para acceder a los contactos de atención al cliente y a la comunidad de desarrolladores |

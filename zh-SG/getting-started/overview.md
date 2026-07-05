@@ -18,7 +18,7 @@ preview_content: "了解 Kimi 的聊天模式、AI 智能体、文件处理能�
 Kimi 是由 Moonshot AI 开发的 AI 助手，内置网页搜索、深度思考、多模态推理和超长上下文对话能力。
 </Callout>
 
-访问 [Kimi.com](https://www.kimi.com/) 或下载 Kimi 应用，即可开始聊天、创作、研究和构建。开发者可前往 [Kimi 开放平台](https://platform.moonshot.ai/) 获取 API 和工具，将 Kimi 的能力集成到自己的应用中。
+访问 [Kimi.com](https://www.kimi.com/) 或下载 Kimi 应用，即可开始聊天、创作、研究和构建。开发者可前往 [Kimi 开放平台](https://platform.kimi.ai/) 获取 API 和工具，将 Kimi 的能力集成到自己的应用中。
 ## 聊天模式
 | 模式 | 说明 |
 |------|-------------|

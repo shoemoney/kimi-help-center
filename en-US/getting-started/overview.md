@@ -17,7 +17,7 @@ preview_content: "Explore Kimi's chat modes, AI agents, file handling, and inter
 Kimi is an AI assistant developed by Moonshot AI, with built-in web search, deep thinking, multimodal reasoning, and ultra-long context conversations.
 </Callout>
 
-Visit [Kimi.com](https://www.kimi.com/) or download the Kimi app to start chatting, creating, researching, and building. Developers can head to the [Kimi Open Platform](https://platform.moonshot.ai/) for APIs and tools to integrate Kimi's capabilities into their own applications.
+Visit [Kimi.com](https://www.kimi.com/) or download the Kimi app to start chatting, creating, researching, and building. Developers can head to the [Kimi Open Platform](https://platform.kimi.ai/) for APIs and tools to integrate Kimi's capabilities into their own applications.
 ## Chat modes
 | Mode | Description |
 |------|-------------|

@@ -23,4 +23,4 @@ preview: false
 | 채팅 품질 피드백 | 대화가 끝난 뒤 **👎** 버튼을 클릭하고 문제 유형과 구체적으로 기대와 달랐던 점을 설명해 주세요 |
 | 계정 이의 제기 / 신고 | [support@moonshot.ai](mailto:support@moonshot.ai) |
 | 미디어 문의 | [pr@kimi.com](mailto:pr@kimi.com) |
-| Kimi API 지원 | [Kimi Open Platform](https://platform.moonshot.ai/)에 로그인해 고객 지원 연락처와 개발자 커뮤니티를 확인하세요 |
+| Kimi API 지원 | [Kimi Open Platform](https://platform.kimi.ai/)에 로그인해 고객 지원 연락처와 개발자 커뮤니티를 확인하세요 |

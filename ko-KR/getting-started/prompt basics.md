@@ -122,7 +122,7 @@ Kimi는 PDF, Word 문서, Excel 파일, 이미지 등 다양한 파일 업로드
     {
       name: "prompt.txt",
       language: "text",
-      content: "[topic]에 대해 [target audience]를 대상으로 하는 [article type]을 작성해 주세요. 분량은 약 [xxx]단어입니다.\n요구 사항: [style/format/focus areas]",
+      content: "[주제]에 대해 [대상 독자]를 대상으로 하는 [글 유형]을 작성해 주세요. 분량은 약 [xxx]단어입니다.\n요구 사항: [스타일/형식/중점 영역]",
     },
   ]}
 />
@@ -134,7 +134,7 @@ Kimi는 PDF, Word 문서, Excel 파일, 이미지 등 다양한 파일 업로드
     {
       name: "prompt.txt",
       language: "text",
-      content: "[subject]을 분석해 주세요. [key dimensions]에 중점을 두어 주세요.\n출력 형식: [table/chart/report]\n결론과 권장 사항을 포함해 주세요.",
+      content: "[대상]을 분석해 주세요. [핵심 차원]에 중점을 두어 주세요.\n출력 형식: [표/차트/보고서]\n결론과 권장 사항을 포함해 주세요.",
     },
   ]}
 />
@@ -146,7 +146,7 @@ Kimi는 PDF, Word 문서, Excel 파일, 이미지 등 다양한 파일 업로드
     {
       name: "prompt.txt",
       language: "text",
-      content: "다음 내용을 [target language](으)로 번역해 주세요. [academic/conversational/business] 어조를 유지해 주세요.\n전문 용어는 괄호 안에 원문 용어를 함께 표기해 주세요.",
+      content: "다음 내용을 [목표 언어](으)로 번역해 주세요. [학술적/대화체/비즈니스] 어조를 유지해 주세요.\n전문 용어는 괄호 안에 원문 용어를 함께 표기해 주세요.",
     },
   ]}
 />

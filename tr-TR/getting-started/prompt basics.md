@@ -122,7 +122,7 @@ Bu sayede kendinizi tekrarlamak zorunda kalmazsınız; Kimi bu tercihleri sonrak
     {
       name: "prompt.txt",
       language: "text",
-      content: "[target audience] için [topic] hakkında yaklaşık [xxx] kelimelik bir [article type] yaz.\nGereksinimler: [style/format/focus areas]",
+      content: "[hedef kitle] için [konu] hakkında yaklaşık [xxx] kelimelik bir [makale türü] yaz.\nGereksinimler: [üslup/biçim/odak alanları]",
     },
   ]}
 />
@@ -134,7 +134,7 @@ Bu sayede kendinizi tekrarlamak zorunda kalmazsınız; Kimi bu tercihleri sonrak
     {
       name: "prompt.txt",
       language: "text",
-      content: "[key dimensions] üzerine odaklanarak [subject] konusunu analiz et.\nÇıktı biçimi: [table/chart/report]\nSonuçları ve önerileri dahil et.",
+      content: "[temel boyutlar] üzerine odaklanarak [konu] konusunu analiz et.\nÇıktı biçimi: [tablo/grafik/rapor]\nSonuçları ve önerileri dahil et.",
     },
   ]}
 />
@@ -146,7 +146,7 @@ Bu sayede kendinizi tekrarlamak zorunda kalmazsınız; Kimi bu tercihleri sonrak
     {
       name: "prompt.txt",
       language: "text",
-      content: "Aşağıdaki metni [academic/conversational/business] bir üslupla [target language] diline çevir.\nAlana özgü terimler için özgün terimi parantez içinde belirt.",
+      content: "Aşağıdaki metni [akademik/sohbet havasında/kurumsal] bir üslupla [hedef dil] diline çevir.\nAlana özgü terimler için özgün terimi parantez içinde belirt.",
     },
   ]}
 />

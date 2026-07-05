@@ -122,7 +122,7 @@ Dưới đây là vài mẫu prompt dùng được ngay — sao chép, tùy ch�
     {
       name: "prompt.txt",
       language: "text",
-      content: "Viết một [article type] về [topic] cho [target audience], khoảng [xxx] từ.\nYêu cầu: [style/format/focus areas]",
+      content: "Viết một [loại bài viết] về [chủ đề] cho [đối tượng mục tiêu], khoảng [xxx] từ.\nYêu cầu: [phong cách/định dạng/lĩnh vực trọng tâm]",
     },
   ]}
 />
@@ -134,7 +134,7 @@ Dưới đây là vài mẫu prompt dùng được ngay — sao chép, tùy ch�
     {
       name: "prompt.txt",
       language: "text",
-      content: "Phân tích [subject], tập trung vào [key dimensions].\nĐịnh dạng đầu ra: [table/chart/report]\nBao gồm kết luận và khuyến nghị.",
+      content: "Phân tích [chủ thể], tập trung vào [khía cạnh then chốt].\nĐịnh dạng đầu ra: [bảng/biểu đồ/báo cáo]\nBao gồm kết luận và khuyến nghị.",
     },
   ]}
 />
@@ -146,7 +146,7 @@ Dưới đây là vài mẫu prompt dùng được ngay — sao chép, tùy ch�
     {
       name: "prompt.txt",
       language: "text",
-      content: "Dịch nội dung sau sang [target language], giữ giọng văn [academic/conversational/business].\nVới thuật ngữ chuyên ngành, hãy kèm thuật ngữ gốc trong ngoặc đơn.",
+      content: "Dịch nội dung sau sang [ngôn ngữ đích], giữ giọng văn [học thuật/đời thường/kinh doanh].\nVới thuật ngữ chuyên ngành, hãy kèm thuật ngữ gốc trong ngoặc đơn.",
     },
   ]}
 />

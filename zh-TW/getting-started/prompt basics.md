@@ -122,7 +122,7 @@ Kimi 支援上傳 PDF、Word 文件、Excel 檔案、圖片等。你也可以直
     {
       name: "prompt.txt",
       language: "text",
-      content: "請為 [target audience] 撰寫一篇關於 [topic] 的 [article type]，約 [xxx] 字。\n要求：[style/format/focus areas]",
+      content: "請為 [目標讀者] 撰寫一篇關於 [主題] 的 [文章類型]，約 [xxx] 字。\n要求：[風格/格式/重點方向]",
     },
   ]}
 />
@@ -134,7 +134,7 @@ Kimi 支援上傳 PDF、Word 文件、Excel 檔案、圖片等。你也可以直
     {
       name: "prompt.txt",
       language: "text",
-      content: "分析 [subject]，重點關注 [key dimensions]。\n輸出格式：[table/chart/report]\n包含結論與建議。",
+      content: "分析 [主題]，重點關注 [關鍵維度]。\n輸出格式：[表格/圖表/報告]\n包含結論與建議。",
     },
   ]}
 />
@@ -146,7 +146,7 @@ Kimi 支援上傳 PDF、Word 文件、Excel 檔案、圖片等。你也可以直
     {
       name: "prompt.txt",
       language: "text",
-      content: "將以下內容翻譯成 [target language]，並維持 [academic/conversational/business] 語氣。\n針對領域專有名詞，請在括號中保留原文術語。",
+      content: "將以下內容翻譯成 [目標語言]，並維持 [學術/口語/商務] 語氣。\n針對領域專有名詞，請在括號中保留原文術語。",
     },
   ]}
 />

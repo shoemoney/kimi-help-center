@@ -122,7 +122,7 @@ Berikut beberapa templat prompt siap pakai — salin, sesuaikan, dan jalankan:
     {
       name: "prompt.txt",
       language: "text",
-      content: "Tulis sebuah [article type] tentang [topic] untuk [target audience], sekitar [xxx] kata.\nPersyaratan: [style/format/focus areas]",
+      content: "Tulis sebuah [jenis artikel] tentang [topik] untuk [target audiens], sekitar [xxx] kata.\nPersyaratan: [gaya/format/area fokus]",
     },
   ]}
 />
@@ -134,7 +134,7 @@ Berikut beberapa templat prompt siap pakai — salin, sesuaikan, dan jalankan:
     {
       name: "prompt.txt",
       language: "text",
-      content: "Analisis [subject], dengan fokus pada [key dimensions].\nFormat keluaran: [table/chart/report]\nSertakan kesimpulan dan rekomendasi.",
+      content: "Analisis [subjek], dengan fokus pada [dimensi utama].\nFormat keluaran: [tabel/grafik/laporan]\nSertakan kesimpulan dan rekomendasi.",
     },
   ]}
 />
@@ -146,7 +146,7 @@ Berikut beberapa templat prompt siap pakai — salin, sesuaikan, dan jalankan:
     {
       name: "prompt.txt",
       language: "text",
-      content: "Terjemahkan teks berikut ke [target language], dengan mempertahankan nada [academic/conversational/business].\nUntuk terminologi khusus bidang, sertakan istilah aslinya dalam tanda kurung.",
+      content: "Terjemahkan teks berikut ke [bahasa target], dengan mempertahankan nada [akademis/percakapan/bisnis].\nUntuk terminologi khusus bidang, sertakan istilah aslinya dalam tanda kurung.",
     },
   ]}
 />

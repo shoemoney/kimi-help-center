@@ -265,7 +265,7 @@ Plusieurs Claws se connectent à différentes sources de données et à différe
 
 ### Que faire si mentionner un Claw avec @ dans la discussion de groupe reste sans réponse ?
 
-Vérifiez d'abord l'état du Claw dans une discussion privée. S'il y est déconnecté, consultez le [guide de dépannage de Kimi Claw](/help/kimi-claw/troubleshooting) pour résoudre le problème.
+Vérifiez d'abord l'état du Claw dans une discussion privée. S'il y est déconnecté, consultez le [guide de dépannage de Kimi Claw](/kimi-claw/troubleshooting) pour résoudre le problème.
 
 Si la discussion privée répond normalement, vous pouvez demander à Kimi de diagnostiquer la session de groupe :
 

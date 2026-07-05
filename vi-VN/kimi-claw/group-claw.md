@@ -265,7 +265,7 @@ Nhiều Claw kết nối với các nguồn dữ liệu và thiết bị khác n
 
 ### Phải làm gì nếu @một Claw trong nhóm trò chuyện mà không có phản hồi?
 
-Đầu tiên, hãy xác nhận trạng thái của Claw trong một cuộc trò chuyện riêng. Nếu nó cũng mất kết nối ở đó, hãy tham khảo [hướng dẫn khắc phục sự cố Kimi Claw](/help/kimi-claw/troubleshooting) để xử lý.
+Đầu tiên, hãy xác nhận trạng thái của Claw trong một cuộc trò chuyện riêng. Nếu nó cũng mất kết nối ở đó, hãy tham khảo [hướng dẫn khắc phục sự cố Kimi Claw](/kimi-claw/troubleshooting) để xử lý.
 
 Nếu cuộc trò chuyện riêng vẫn phản hồi bình thường, bạn có thể nhờ Kimi chẩn đoán phiên trò chuyện nhóm:
 

@@ -265,7 +265,7 @@ Vários Claws se conectam a diferentes fontes de dados e dispositivos, usando o 
 
 ### O que fazer se ao @-mencionar um Claw no chat em grupo não houver resposta?
 
-Primeiro, confirme o status do Claw em um chat privado. Se ele estiver desconectado lá, consulte o [guia de solução de problemas do Kimi Claw](/help/kimi-claw/troubleshooting) para corrigir.
+Primeiro, confirme o status do Claw em um chat privado. Se ele estiver desconectado lá, consulte o [guia de solução de problemas do Kimi Claw](/kimi-claw/troubleshooting) para corrigir.
 
 Se o chat privado responder normalmente, você pode pedir ao Kimi para diagnosticar a sessão do grupo:
 

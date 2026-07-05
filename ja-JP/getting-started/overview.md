@@ -18,7 +18,7 @@ preview_content: "Kimi のチャットモード、AIエージェント、ファ�
 Kimi は Moonshot AI が開発した AIアシスタントです。ウェブ検索、深い思考、マルチモーダル推論、超長文コンテキストでの対話に標準で対応しています。
 </Callout>
 
-[Kimi.com](https://www.kimi.com/) にアクセスするか、Kimi アプリをダウンロードして、チャット、作成、調査、開発を始めましょう。開発者は [Kimi Open Platform](https://platform.moonshot.ai/) で API やツールを利用し、Kimi の機能を自分のアプリケーションに組み込めます。
+[Kimi.com](https://www.kimi.com/) にアクセスするか、Kimi アプリをダウンロードして、チャット、作成、調査、開発を始めましょう。開発者は [Kimi オープンプラットフォーム](https://platform.moonshot.ai/) で API やツールを利用し、Kimi の機能を自分のアプリケーションに組み込めます。
 ## チャットモード
 | モード | 説明 |
 |------|-------------|

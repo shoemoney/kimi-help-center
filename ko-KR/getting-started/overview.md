@@ -18,7 +18,7 @@ preview_content: "Kimi의 채팅 모드, AI 에이전트, 파일 처리, 인터�
 Kimi는 Moonshot AI가 개발한 AI 어시스턴트로, 웹 검색, 심층 사고, 멀티모달 추론, 초장문 컨텍스트 대화를 기본으로 제공합니다.
 </Callout>
 
-[Kimi.com](https://www.kimi.com/)에 방문하거나 Kimi 앱을 다운로드해 채팅, 창작, 리서치, 구축을 시작해 보세요. 개발자는 [Kimi Open Platform](https://platform.moonshot.ai/)에서 API와 도구를 사용해 Kimi의 기능을 자신의 애플리케이션에 통합할 수 있습니다.
+[Kimi.com](https://www.kimi.com/)에 방문하거나 Kimi 앱을 다운로드해 채팅, 창작, 리서치, 구축을 시작해 보세요. 개발자는 [Kimi 오픈 플랫폼](https://platform.moonshot.ai/)에서 API와 도구를 사용해 Kimi의 기능을 자신의 애플리케이션에 통합할 수 있습니다.
 ## 채팅 모드
 | 모드 | 설명 |
 |------|-------------|

@@ -18,7 +18,7 @@ preview_content: "Khám phá các chế độ trò chuyện, AI agent, khả nă
 Kimi là trợ lý AI do Moonshot AI phát triển, tích hợp sẵn khả năng tìm kiếm web, tư duy chuyên sâu, suy luận đa phương thức và hội thoại với ngữ cảnh siêu dài.
 </Callout>
 
-Truy cập [Kimi.com](https://www.kimi.com/) hoặc tải ứng dụng Kimi để bắt đầu trò chuyện, sáng tạo, nghiên cứu và xây dựng. Các nhà phát triển có thể truy cập [Kimi Open Platform](https://platform.moonshot.ai/) để sử dụng API và công cụ tích hợp các năng lực của Kimi vào ứng dụng của riêng mình.
+Truy cập [Kimi.com](https://www.kimi.com/) hoặc tải ứng dụng Kimi để bắt đầu trò chuyện, sáng tạo, nghiên cứu và xây dựng. Các nhà phát triển có thể truy cập [Nền tảng Mở Kimi](https://platform.moonshot.ai/) để sử dụng API và công cụ tích hợp các năng lực của Kimi vào ứng dụng của riêng mình.
 ## Các chế độ trò chuyện
 | Chế độ | Mô tả |
 |------|-------------|

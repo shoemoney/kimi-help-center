@@ -18,7 +18,7 @@ preview_content: "Jelajahi mode obrolan, agen AI, penanganan file, dan panduan a
 Kimi adalah asisten AI yang dikembangkan oleh Moonshot AI, dilengkapi web search bawaan, pemikiran mendalam, penalaran multimodal, dan percakapan dengan konteks yang sangat panjang.
 </Callout>
 
-Kunjungi [Kimi.com](https://www.kimi.com/) atau unduh aplikasi Kimi untuk mulai mengobrol, berkreasi, meneliti, dan membangun. Para developer dapat menuju [Kimi Open Platform](https://platform.moonshot.ai/) untuk mendapatkan API dan perangkat guna mengintegrasikan kemampuan Kimi ke dalam aplikasi mereka sendiri.
+Kunjungi [Kimi.com](https://www.kimi.com/) atau unduh aplikasi Kimi untuk mulai mengobrol, berkreasi, meneliti, dan membangun. Para developer dapat menuju [Platform Terbuka Kimi](https://platform.moonshot.ai/) untuk mendapatkan API dan perangkat guna mengintegrasikan kemampuan Kimi ke dalam aplikasi mereka sendiri.
 ## Mode obrolan
 | Mode | Deskripsi |
 |------|-------------|

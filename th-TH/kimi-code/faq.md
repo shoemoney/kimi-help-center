@@ -72,12 +72,12 @@ Kimi Code CLI ได้รับการอัปเกรดครั้งใ
 
 **โปรดสังเกตความแตกต่างของแพลตฟอร์ม**
 
-สิทธิประโยชน์สมาชิก Kimi Code และ [Kimi Open Platform](https://platform.kimi.com) มี Base URL ต่างกัน โปรดตรวจสอบให้แน่ใจว่า Base URL ตรงกับ API Key เมื่อตั้งค่า
+สิทธิประโยชน์สมาชิก Kimi Code และ [แพลตฟอร์มเปิดของ Kimi](https://platform.kimi.com) มี Base URL ต่างกัน โปรดตรวจสอบให้แน่ใจว่า Base URL ตรงกับ API Key เมื่อตั้งค่า
 
 | แพลตฟอร์ม | Base URL | การเรียกเก็บเงิน | การสร้างคีย์ |
 |------|---------|---------|-------------|
 | **Kimi Code** | รองรับ Anthropic: `https://api.kimi.com/coding/` | การสมัครสมาชิก Kimi (รวม เครดิต) | [Kimi Code Console](https://www.kimi.com/code/console) |
-| **Kimi Open Platform** | `https://api.moonshot.cn/v1` | จ่ายตามการใช้งานจริง | [Kimi Open Platform](https://platform.kimi.com) |
+| **แพลตฟอร์มเปิดของ Kimi** | `https://api.moonshot.cn/v1` | จ่ายตามการใช้งานจริง | [แพลตฟอร์มเปิดของ Kimi](https://platform.kimi.com) |
 
 ### API key ไม่ถูกต้อง
 

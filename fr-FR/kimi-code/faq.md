@@ -72,12 +72,12 @@ Si vous voyez « No models available for the selected platform » lors de l'exé
 
 **Attention à la distinction entre plateformes**
 
-Les avantages de l'abonnement Kimi Code et la [Kimi Open Platform](https://platform.kimi.com) ont des Base URLs différentes. Veuillez vous assurer que la Base URL correspond à la clé API lors de la configuration.
+Les avantages de l'abonnement Kimi Code et la [Plateforme ouverte de Kimi](https://platform.kimi.com) ont des Base URLs différentes. Veuillez vous assurer que la Base URL correspond à la clé API lors de la configuration.
 
 | Plateforme | Base URL | Facturation | Création de clé |
 |------|---------|---------|-------------|
 | **Kimi Code** | Compatible Anthropic : `https://api.kimi.com/coding/` | Abonnement Kimi (inclut les crédits) | [Console Kimi Code](https://www.kimi.com/code/console) |
-| **Kimi Open Platform** | `https://api.moonshot.cn/v1` | Paiement à l'usage | [Kimi Open Platform](https://platform.kimi.com) |
+| **Plateforme ouverte de Kimi** | `https://api.moonshot.cn/v1` | Paiement à l'usage | [Plateforme ouverte de Kimi](https://platform.kimi.com) |
 
 ### La clé API est invalide
 

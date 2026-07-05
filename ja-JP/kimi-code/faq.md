@@ -72,12 +72,12 @@ kimi-code のインストール後、**初めて `kimi` を実行したとき**�
 
 **プラットフォームの違いに注意**
 
-Kimi Code のメンバーシップ特典と [Kimi Open Platform](https://platform.kimi.com) では、Base URL が異なります。設定時は、Base URL と API Key が対応していることを必ず確認してください。
+Kimi Code のメンバーシップ特典と [Kimi オープンプラットフォーム](https://platform.kimi.com) では、Base URL が異なります。設定時は、Base URL と API Key が対応していることを必ず確認してください。
 
 | プラットフォーム | Base URL | 課金 | キーの作成 |
 |------|---------|---------|-------------|
 | **Kimi Code** | Anthropic 互換: `https://api.kimi.com/coding/` | Kimi メンバーシップのサブスクリプション（クレジット を含む） | [Kimi Code Console](https://www.kimi.com/code/console) |
-| **Kimi Open Platform** | `https://api.moonshot.cn/v1` | 従量課金 | [Kimi Open Platform](https://platform.kimi.com) |
+| **Kimi オープンプラットフォーム** | `https://api.moonshot.cn/v1` | 従量課金 | [Kimi オープンプラットフォーム](https://platform.kimi.com) |
 
 ### APIキーが無効
 

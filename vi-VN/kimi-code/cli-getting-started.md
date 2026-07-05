@@ -302,7 +302,7 @@ Trước tiên, hãy xác nhận rằng Key và Base URL của bạn thuộc cù
 | Nền tảng | Base URL | Thanh toán | Tạo Key |
 |------|---------|---------|-------------|
 | **Kimi Code** | Tương thích OpenAI: `https://api.kimi.com/coding/v1`<br> Tương thích Anthropic: `https://api.kimi.com/coding/` | Gói thành viên Kimi (đã bao gồm tín dụng) | [Kimi Code Console](https://www.kimi.com/code/console) |
-| **Kimi Open Platform** | `https://api.moonshot.cn/v1` | Trả theo lượng dùng | [Kimi Open Platform](https://platform.kimi.com) |
+| **Nền tảng Mở Kimi** | `https://api.moonshot.cn/v1` | Trả theo lượng dùng | [Nền tảng Mở Kimi](https://platform.kimi.com) |
 
 **Sau khi cài đặt, không tìm thấy lệnh `kimi`.**
 

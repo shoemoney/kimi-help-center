@@ -23,4 +23,4 @@ preview: false
 | チャット品質に関するフィードバック | 会話後に **👎** ボタンをクリックし、問題の種類と具体的に期待と異なっていた点を記入してください |
 | アカウントに関する異議申し立て／通報 | [support@moonshot.ai](mailto:support@moonshot.ai) |
 | メディアからのお問い合わせ | [pr@kimi.com](mailto:pr@kimi.com) |
-| Kimi API サポート | [Kimi Open Platform](https://platform.kimi.ai/) にログインすると、カスタマーサービスの連絡先と開発者コミュニティを確認できます |
+| Kimi API サポート | [Kimi オープンプラットフォーム](https://platform.kimi.ai/) にログインすると、カスタマーサービスの連絡先と開発者コミュニティを確認できます |

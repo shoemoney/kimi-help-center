@@ -302,7 +302,7 @@ Pertama, pastikan Key dan Base URL Anda berasal dari platform yang sama. `api.ki
 | Platform | Base URL | Penagihan | Pembuatan Key |
 |------|---------|---------|-------------|
 | **Kimi Code** | Kompatibel OpenAI: `https://api.kimi.com/coding/v1`<br> Kompatibel Anthropic: `https://api.kimi.com/coding/` | Langganan keanggotaan Kimi (termasuk kredit) | [Konsol Kimi Code](https://www.kimi.com/code/console) |
-| **Kimi Open Platform** | `https://api.moonshot.cn/v1` | Bayar sesuai pemakaian | [Kimi Open Platform](https://platform.kimi.com) |
+| **Platform Terbuka Kimi** | `https://api.moonshot.cn/v1` | Bayar sesuai pemakaian | [Platform Terbuka Kimi](https://platform.kimi.com) |
 
 **Perintah `kimi` tidak ditemukan setelah instalasi.**
 

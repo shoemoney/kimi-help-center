@@ -15,7 +15,7 @@ preview: false
 
 Kimi Code est un service inclus dans l'offre d'abonnement Kimi, qui propose une assistance et des fonctionnalités liées au code pour aider les abonnés à réaliser plus efficacement leurs tâches de programmation dans leur flux de développement personnel.
 
-> Veuillez noter que cet avantage est destiné uniquement à un usage de développement personnel, et non à des scénarios de développement en entreprise. Pour les besoins professionnels, rendez-vous sur la [Kimi Open Platform](https://platform.kimi.ai/).
+> Veuillez noter que cet avantage est destiné uniquement à un usage de développement personnel, et non à des scénarios de développement en entreprise. Pour les besoins professionnels, rendez-vous sur la [Plateforme ouverte de Kimi](https://platform.kimi.ai/).
 
 ## Facturation
 

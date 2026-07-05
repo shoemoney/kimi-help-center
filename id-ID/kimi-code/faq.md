@@ -72,12 +72,12 @@ Jika Anda melihat "No models available for the selected platform" saat menjalank
 
 **Perhatikan perbedaan platform**
 
-Manfaat keanggotaan Kimi Code dan [Kimi Open Platform](https://platform.kimi.com) memiliki Base URL yang berbeda. Pastikan Base URL sesuai dengan API Key saat melakukan konfigurasi.
+Manfaat keanggotaan Kimi Code dan [Platform Terbuka Kimi](https://platform.kimi.com) memiliki Base URL yang berbeda. Pastikan Base URL sesuai dengan API Key saat melakukan konfigurasi.
 
 | Platform | Base URL | Penagihan | Pembuatan key |
 |------|---------|---------|-------------|
 | **Kimi Code** | Kompatibel dengan Anthropic: `https://api.kimi.com/coding/` | Langganan keanggotaan Kimi (termasuk kredit) | [Konsol Kimi Code](https://www.kimi.com/code/console) |
-| **Kimi Open Platform** | `https://api.moonshot.cn/v1` | Bayar sesuai pemakaian | [Kimi Open Platform](https://platform.kimi.com) |
+| **Platform Terbuka Kimi** | `https://api.moonshot.cn/v1` | Bayar sesuai pemakaian | [Platform Terbuka Kimi](https://platform.kimi.com) |
 
 ### API key tidak valid
 

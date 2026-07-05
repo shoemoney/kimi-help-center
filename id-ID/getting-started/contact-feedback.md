@@ -23,4 +23,4 @@ Pilih saluran yang sesuai dengan jenis masukan Anda:
 | Masukan kualitas obrolan | Setelah percakapan, klik tombol **👎** lalu jelaskan jenis masalah dan penyimpangan spesifiknya |
 | Banding / laporan akun | [support@moonshot.ai](mailto:support@moonshot.ai) |
 | Pertanyaan media | [pr@kimi.com](mailto:pr@kimi.com) |
-| Dukungan Kimi API | Masuk ke [Kimi Open Platform](https://platform.kimi.ai/) untuk kontak layanan pelanggan dan komunitas developer |
+| Dukungan Kimi API | Masuk ke [Platform Terbuka Kimi](https://platform.kimi.ai/) untuk kontak layanan pelanggan dan komunitas developer |

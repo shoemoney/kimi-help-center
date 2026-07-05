@@ -72,12 +72,12 @@ Wenn beim Ausführen von `/login` die Meldung „No models available for the sel
 
 **Unterschied zwischen den Plattformen beachten**
 
-Die Kimi Code-Mitgliedschaftsvorteile und die [Kimi Open Platform](https://platform.kimi.com) verwenden unterschiedliche Base-URLs. Achten Sie bei der Konfiguration darauf, dass Base-URL und API-Key zusammenpassen.
+Die Kimi Code-Mitgliedschaftsvorteile und die [Kimi Offene Plattform](https://platform.kimi.com) verwenden unterschiedliche Base-URLs. Achten Sie bei der Konfiguration darauf, dass Base-URL und API-Key zusammenpassen.
 
 | Plattform | Base-URL | Abrechnung | Schlüsselerstellung |
 |------|---------|---------|-------------|
 | **Kimi Code** | Anthropic-kompatibel: `https://api.kimi.com/coding/` | Kimi-Mitgliedschaftsabonnement (inklusive Credits) | [Kimi Code Console](https://www.kimi.com/code/console) |
-| **Kimi Open Platform** | `https://api.moonshot.cn/v1` | Nutzungsbasierte Abrechnung | [Kimi Open Platform](https://platform.kimi.com) |
+| **Kimi Offene Plattform** | `https://api.moonshot.cn/v1` | Nutzungsbasierte Abrechnung | [Kimi Offene Plattform](https://platform.kimi.com) |
 
 ### API-Schlüssel ist ungültig
 

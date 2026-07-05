@@ -302,7 +302,7 @@ Kimi Code CLI จัดเก็บข้อมูลในเครื่อง
 | แพลตฟอร์ม | Base URL | การเรียกเก็บเงิน | การสร้าง Key |
 |------|---------|---------|-------------|
 | **Kimi Code** | OpenAI compatible: `https://api.kimi.com/coding/v1`<br> Anthropic compatible: `https://api.kimi.com/coding/` | การสมัครสมาชิก Kimi (รวม เครดิต) | [Kimi Code Console](https://www.kimi.com/code/console) |
-| **Kimi Open Platform** | `https://api.moonshot.cn/v1` | จ่ายตามการใช้งานจริง | [Kimi Open Platform](https://platform.kimi.com) |
+| **แพลตฟอร์มเปิดของ Kimi** | `https://api.moonshot.cn/v1` | จ่ายตามการใช้งานจริง | [แพลตฟอร์มเปิดของ Kimi](https://platform.kimi.com) |
 
 **ไม่พบคำสั่ง `kimi` หลังจากการติดตั้ง**
 

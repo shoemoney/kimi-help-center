@@ -57,7 +57,9 @@ Ketika ada beberapa jenis kredit, kredit dipakai dengan urutan berikut:
 ## Saat kredit habis
 - Tugas yang sudah berjalan akan tetap selesai seperti biasa
 - Tugas baru akan memunculkan pesan "kredit tidak mencukupi"
+
 **Pilihan Anda**:
+
 - Tunggu kredit Anda disegarkan pada siklus penagihan berikutnya
 - Tingkatkan ke paket tier lebih tinggi untuk jatah bulanan yang lebih besar
 ## Bagaimana persisnya kredit disegarkan?

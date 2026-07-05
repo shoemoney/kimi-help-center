@@ -57,7 +57,9 @@ Cuando existen varios tipos de créditos, se consumen en este orden:
 ## Cuando se agotan los créditos
 - Cualquier tarea que ya esté en curso se completará con normalidad
 - Las tareas nuevas mostrarán un aviso de «créditos insuficientes»
+
 **Tus opciones**:
+
 - Esperar a que tus créditos se renueven en el próximo ciclo de facturación
 - Mejorar a un plan de nivel superior para obtener una asignación mensual mayor
 ## ¿Cómo se renuevan exactamente los créditos?

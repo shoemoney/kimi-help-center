@@ -57,7 +57,9 @@ Lorsque plusieurs types de crédits coexistent, ils sont consommés dans cet ord
 ## Lorsque vos crédits sont épuisés
 - Toute tâche déjà en cours se terminera normalement
 - Les nouvelles tâches afficheront un message « crédits insuffisants »
+
 **Vos options** :
+
 - Attendre le renouvellement de vos crédits au prochain cycle de facturation
 - Passer à une offre supérieure pour bénéficier d'une allocation mensuelle plus généreuse
 ## Comment les crédits se renouvellent-ils exactement ?

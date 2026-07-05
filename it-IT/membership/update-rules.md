@@ -57,7 +57,9 @@ Quando esistono più tipi di crediti, vengono consumati in questo ordine:
 ## Quando i crediti si esauriscono
 - Qualsiasi attività già in corso verrà completato normalmente
 - Le nuove attività mostreranno l'avviso "crediti insufficienti"
+
 **Le tue opzioni**:
+
 - Attendere il rinnovo dei crediti nel ciclo di fatturazione successivo
 - Passare a un piano di livello superiore per ottenere un'allocazione mensile maggiore
 ## Come avviene esattamente il rinnovo dei crediti?

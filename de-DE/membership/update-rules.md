@@ -57,7 +57,9 @@ Wenn mehrere Credit-Arten vorhanden sind, werden sie in dieser Reihenfolge verbr
 ## Wenn die Credits aufgebraucht sind
 - Jede bereits laufende Aufgabe wird normal zu Ende geführt
 - Bei neuen Aufgaben erscheint der Hinweis „Nicht genügend Credits“
+
 **Ihre Möglichkeiten**:
+
 - Warten Sie auf die Auffrischung Ihrer Credits im nächsten Abrechnungszyklus
 - Wechseln Sie zu einem höheren Tarif mit einem größeren monatlichen Kontingent
 ## Wie genau werden Credits aufgefrischt?

@@ -57,7 +57,9 @@ Quando há vários tipos de crédito, eles são consumidos nesta ordem:
 ## Quando os créditos acabam
 - Qualquer tarefa já em andamento será concluída normalmente
 - Novas tarefas exibirão uma mensagem de "créditos insuficientes"
+
 **Suas opções**:
+
 - Aguardar a renovação dos seus créditos no próximo ciclo de cobrança
 - Fazer upgrade para um plano de nível superior e ter uma franquia mensal maior
 ## Como exatamente os créditos são renovados?

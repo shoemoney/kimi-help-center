@@ -42,7 +42,7 @@ Yardıma mı ihtiyacınız var? Bize şu yollarla ulaşabilirsiniz.
 ## API hizmeti desteği
 
 **E-posta:** api-service@moonshot.ai.
-Ayrıca [Kimi OpenPlatform Topluluğu](https://forum.moonshot.ai/) sayfasını da ziyaret edebilirsiniz
+Ayrıca [Kimi OpenPlatform Community](https://forum.moonshot.ai/) sayfasını da ziyaret edebilirsiniz
 
 Şu durumlar için idealdir:
 

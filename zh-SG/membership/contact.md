@@ -42,7 +42,7 @@ preview: false
 ## API 服务支持
 
 **Email:** api-service@moonshot.ai.
-你也可以前往 [Kimi 开放平台社区](https://forum.moonshot.ai/)
+你也可以前往 [Kimi OpenPlatform Community](https://forum.moonshot.ai/)
 
 适用于：
 

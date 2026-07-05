@@ -42,7 +42,7 @@ preview: false
 ## API 서비스 지원
 
 **이메일:** api-service@moonshot.ai.
-[Kimi OpenPlatform 커뮤니티](https://forum.moonshot.ai/)를 이용하셔도 됩니다.
+[Kimi OpenPlatform Community](https://forum.moonshot.ai/)를 이용하셔도 됩니다.
 
 다음과 같은 경우에 적합합니다.
 

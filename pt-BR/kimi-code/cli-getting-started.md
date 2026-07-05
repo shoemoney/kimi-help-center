@@ -302,7 +302,7 @@ Primeiro, confirme se a sua Key e a Base URL pertencem à mesma plataforma. `api
 | Plataforma | Base URL | Cobrança | Criação da chave |
 |------|---------|---------|-------------|
 | **Kimi Code** | Compatível com OpenAI: `https://api.kimi.com/coding/v1`<br> Compatível com Anthropic: `https://api.kimi.com/coding/` | Assinatura de membro Kimi (inclui créditos) | [Console do Kimi Code](https://www.kimi.com/code/console) |
-| **Kimi Open Platform** | `https://api.moonshot.cn/v1` | Pagamento conforme o uso | [Kimi Open Platform](https://platform.kimi.com) |
+| **Plataforma aberta da Kimi** | `https://api.moonshot.cn/v1` | Pagamento conforme o uso | [Plataforma aberta da Kimi](https://platform.kimi.com) |
 
 **O comando `kimi` não é encontrado após a instalação.**
 

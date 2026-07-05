@@ -56,7 +56,7 @@ Bir dosya veya dizin yoluna atıfta bulunmak için girişinizde `@` simgesini ku
     {
       name: "prompt.txt",
       language: "text",
-      content: "Check @src/utils/auth.ts for any security vulnerabilities",
+      content: "@src/utils/auth.ts dosyasını güvenlik açıkları açısından kontrol et",
     },
   ]}
 />

@@ -56,7 +56,7 @@ Usa el símbolo `@` en tu entrada para referenciar rutas de archivos o directori
     {
       name: "prompt.txt",
       language: "text",
-      content: "Check @src/utils/auth.ts for any security vulnerabilities",
+      content: "Revisa @src/utils/auth.ts en busca de vulnerabilidades de seguridad",
     },
   ]}
 />

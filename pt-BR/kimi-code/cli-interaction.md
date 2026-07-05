@@ -56,7 +56,7 @@ Use o símbolo `@` na sua entrada para referenciar caminhos de arquivos ou diret
     {
       name: "prompt.txt",
       language: "text",
-      content: "Check @src/utils/auth.ts for any security vulnerabilities",
+      content: "Verifique @src/utils/auth.ts em busca de vulnerabilidades de segurança",
     },
   ]}
 />

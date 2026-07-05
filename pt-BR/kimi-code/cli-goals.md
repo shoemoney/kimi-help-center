@@ -25,7 +25,7 @@ Escreva o objetivo após `/goal`:
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Fix bugs listed in the issue tracker.",
+      content: "/goal Corrija os bugs listados no issue tracker.",
     },
   ]}
 />
@@ -39,7 +39,7 @@ As metas funcionam melhor quando o objetivo indica a linha de chegada e a evidê
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Fix every bug labeled checkout-regression, add or update tests for each fix, and run the checkout test suite",
+      content: "/goal Corrija todos os bugs com o rótulo checkout-regression, adicione ou atualize testes para cada correção e execute a suíte de testes do checkout",
     },
   ]}
 />
@@ -51,7 +51,7 @@ Evite metas que apenas indicam uma direção genérica:
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Find all bugs in this codebase.",
+      content: "/goal Encontre todos os bugs neste codebase.",
     },
   ]}
 />
@@ -67,7 +67,7 @@ Use metas para trabalhos com uma linha de chegada clara e evidências verificáv
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Fix every failing checkout test and run the checkout test suite successfully.",
+      content: "/goal Corrija todos os testes de checkout que falham e execute a suíte de testes do checkout com sucesso.",
     },
   ]}
 />
@@ -81,7 +81,7 @@ Use metas quando a tarefa pode exigir várias interações de investigação e c
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Find why the release build fails, fix the root cause, and verify the build passes.",
+      content: "/goal Descubra por que o release build falha, corrija a causa raiz e verifique se o build passa.",
     },
   ]}
 />
@@ -95,7 +95,7 @@ Use metas para trabalhos sequenciais que devem continuar sem um novo prompt.
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Update the feature implementation, add docs, run tests, and summarize the changed files.",
+      content: "/goal Atualize a implementação da funcionalidade, adicione documentação, execute os testes e resuma os arquivos alterados.",
     },
   ]}
 />
@@ -113,7 +113,7 @@ Não use metas para tópicos amplos ou discussões abertas.
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Greetings!",
+      content: "/goal Olá!",
     },
   ]}
 />
@@ -131,7 +131,7 @@ Não use metas para tarefas que se sabem impossíveis ou irresolúveis.
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Prove 1 + 1 = 3.",
+      content: "/goal Prove que 1 + 1 = 3.",
     },
   ]}
 />
@@ -149,7 +149,7 @@ Não use metas com objetivos ambíguos ou complicados.
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Create a videogame in a single HTML file.",
+      content: "/goal Crie um videogame em um único arquivo HTML.",
     },
   ]}
 />
@@ -189,7 +189,7 @@ Use `/goal next` quando você já tem mais trabalho pronto, mas não quer interr
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal next Update the release notes after the tests pass",
+      content: "/goal next Atualize as notas de versão depois que os testes passarem",
     },
   ]}
 />
@@ -227,7 +227,7 @@ No modo de prompt não interativo, apenas a criação de metas é suportada:
     {
       name: "command.sh",
       language: "bash",
-      content: "kimi -p \"/goal Fix the failing checkout test\"",
+      content: "kimi -p \"/goal Corrija o teste de checkout que falha\"",
     },
   ]}
 />

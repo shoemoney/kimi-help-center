@@ -25,7 +25,7 @@ Tuliskan tujuan setelah `/goal`:
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Fix bugs listed in the issue tracker.",
+      content: "/goal Perbaiki bug yang tercantum di issue tracker.",
     },
   ]}
 />
@@ -39,7 +39,7 @@ Goal bekerja paling baik ketika tujuannya menyebutkan garis akhir sekaligus bukt
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Fix every bug labeled checkout-regression, add or update tests for each fix, and run the checkout test suite",
+      content: "/goal Perbaiki setiap bug berlabel checkout-regression, tambahkan atau perbarui tes untuk setiap perbaikan, lalu jalankan checkout test suite",
     },
   ]}
 />
@@ -51,7 +51,7 @@ Hindari goal yang hanya menyebutkan arah yang terlalu luas:
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Find all bugs in this codebase.",
+      content: "/goal Temukan semua bug di codebase ini.",
     },
   ]}
 />
@@ -67,7 +67,7 @@ Gunakan goal untuk pekerjaan dengan garis akhir yang jelas dan bukti yang dapat 
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Fix every failing checkout test and run the checkout test suite successfully.",
+      content: "/goal Perbaiki setiap checkout test yang gagal dan jalankan checkout test suite hingga berhasil.",
     },
   ]}
 />
@@ -81,7 +81,7 @@ Gunakan goal ketika tugas mungkin membutuhkan beberapa giliran investigasi dan p
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Find why the release build fails, fix the root cause, and verify the build passes.",
+      content: "/goal Cari tahu mengapa release build gagal, perbaiki akar penyebabnya, dan pastikan build-nya lolos.",
     },
   ]}
 />
@@ -95,7 +95,7 @@ Gunakan goal untuk pekerjaan berurutan yang sebaiknya berlanjut tanpa prompt tam
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Update the feature implementation, add docs, run tests, and summarize the changed files.",
+      content: "/goal Perbarui implementasi fitur, tambahkan dokumentasi, jalankan tes, dan rangkum file yang berubah.",
     },
   ]}
 />
@@ -113,7 +113,7 @@ Jangan gunakan goal untuk topik yang luas atau diskusi terbuka.
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Greetings!",
+      content: "/goal Halo!",
     },
   ]}
 />
@@ -131,7 +131,7 @@ Jangan gunakan goal untuk tugas yang diketahui mustahil atau tidak dapat diseles
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Prove 1 + 1 = 3.",
+      content: "/goal Buktikan 1 + 1 = 3.",
     },
   ]}
 />
@@ -149,7 +149,7 @@ Jangan gunakan goal dengan tujuan yang ambigu atau rumit.
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Create a videogame in a single HTML file.",
+      content: "/goal Buat sebuah video game dalam satu file HTML.",
     },
   ]}
 />
@@ -189,7 +189,7 @@ Gunakan `/goal next` ketika Anda sudah punya pekerjaan lain yang siap tetapi tid
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal next Update the release notes after the tests pass",
+      content: "/goal next Perbarui release notes setelah tes lolos",
     },
   ]}
 />
@@ -227,7 +227,7 @@ Dalam mode prompt non-interaktif, hanya pembuatan goal yang didukung:
     {
       name: "command.sh",
       language: "bash",
-      content: "kimi -p \"/goal Fix the failing checkout test\"",
+      content: "kimi -p \"/goal Perbaiki checkout test yang gagal\"",
     },
   ]}
 />

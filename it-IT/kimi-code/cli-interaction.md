@@ -56,7 +56,7 @@ Usa il simbolo `@` nell'input per fare riferimento a percorsi di file o cartelle
     {
       name: "prompt.txt",
       language: "text",
-      content: "Check @src/utils/auth.ts for any security vulnerabilities",
+      content: "Controlla @src/utils/auth.ts per eventuali vulnerabilità di sicurezza",
     },
   ]}
 />

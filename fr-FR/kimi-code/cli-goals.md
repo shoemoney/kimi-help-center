@@ -25,7 +25,7 @@ Indiquez l'objectif après `/goal` :
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Fix bugs listed in the issue tracker.",
+      content: "/goal Corrige les bugs listés dans le suivi des issues.",
     },
   ]}
 />
@@ -39,7 +39,7 @@ Les objectifs donnent les meilleurs résultats lorsqu'ils nomment la ligne d'arr
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Fix every bug labeled checkout-regression, add or update tests for each fix, and run the checkout test suite",
+      content: "/goal Corrige chaque bug étiqueté checkout-regression, ajoute ou mets à jour les tests pour chaque correctif, puis lance la suite de tests checkout",
     },
   ]}
 />
@@ -51,7 +51,7 @@ Les objectifs donnent les meilleurs résultats lorsqu'ils nomment la ligne d'arr
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Find all bugs in this codebase.",
+      content: "/goal Trouve tous les bugs de ce codebase.",
     },
   ]}
 />
@@ -67,7 +67,7 @@ Utilisez les objectifs pour un travail doté d'une ligne d'arrivée claire et d'
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Fix every failing checkout test and run the checkout test suite successfully.",
+      content: "/goal Corrige chaque test checkout en échec et lance la suite de tests checkout avec succès.",
     },
   ]}
 />
@@ -81,7 +81,7 @@ Utilisez les objectifs lorsque la tâche peut nécessiter plusieurs tours d'inve
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Find why the release build fails, fix the root cause, and verify the build passes.",
+      content: "/goal Trouve pourquoi la compilation de la release échoue, corrige la cause profonde et vérifie que la compilation passe.",
     },
   ]}
 />
@@ -95,7 +95,7 @@ Utilisez les objectifs pour un travail séquencé qui doit se poursuivre sans no
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Update the feature implementation, add docs, run tests, and summarize the changed files.",
+      content: "/goal Mets à jour l'implémentation de la fonctionnalité, ajoute la documentation, lance les tests et résume les fichiers modifiés.",
     },
   ]}
 />
@@ -113,7 +113,7 @@ N'utilisez pas les objectifs pour des sujets trop vastes ou des discussions ouve
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Greetings!",
+      content: "/goal Bonjour !",
     },
   ]}
 />
@@ -131,7 +131,7 @@ N'utilisez pas les objectifs pour des tâches reconnues comme impossibles ou ins
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Prove 1 + 1 = 3.",
+      content: "/goal Prouve que 1 + 1 = 3.",
     },
   ]}
 />
@@ -149,7 +149,7 @@ N'utilisez pas les objectifs avec des intentions ambiguës ou trop complexes.
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Create a videogame in a single HTML file.",
+      content: "/goal Crée un jeu vidéo dans un seul fichier HTML.",
     },
   ]}
 />
@@ -189,7 +189,7 @@ Utilisez `/goal next` lorsque vous avez d'autres tâches prêtes mais ne souhait
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal next Update the release notes after the tests pass",
+      content: "/goal next Mets à jour les notes de version une fois les tests passés",
     },
   ]}
 />
@@ -227,7 +227,7 @@ En mode d'invite non interactif, seule la création d'objectifs est prise en cha
     {
       name: "command.sh",
       language: "bash",
-      content: "kimi -p \"/goal Fix the failing checkout test\"",
+      content: "kimi -p \"/goal Corrige le test checkout en échec\"",
     },
   ]}
 />

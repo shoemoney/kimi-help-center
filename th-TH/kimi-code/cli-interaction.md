@@ -56,7 +56,7 @@ Thinking Mode ช่วยให้ AI คิดวิเคราะห์ใ�
     {
       name: "prompt.txt",
       language: "text",
-      content: "Check @src/utils/auth.ts for any security vulnerabilities",
+      content: "ช่วยตรวจสอบ @src/utils/auth.ts ว่ามีช่องโหว่ด้านความปลอดภัยหรือไม่",
     },
   ]}
 />

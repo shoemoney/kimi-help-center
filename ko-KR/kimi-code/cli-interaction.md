@@ -56,7 +56,7 @@ Thinking Mode는 AI가 응답하기 전에 더 깊이 있게 추론하도록 해
     {
       name: "prompt.txt",
       language: "text",
-      content: "Check @src/utils/auth.ts for any security vulnerabilities",
+      content: "@src/utils/auth.ts 파일에 보안 취약점이 있는지 확인해 줘",
     },
   ]}
 />

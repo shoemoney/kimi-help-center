@@ -56,7 +56,7 @@ Verwenden Sie das Symbol `@` in Ihrer Eingabe, um auf Datei- oder Verzeichnispfa
     {
       name: "prompt.txt",
       language: "text",
-      content: "Check @src/utils/auth.ts for any security vulnerabilities",
+      content: "Prüfe @src/utils/auth.ts auf Sicherheitslücken",
     },
   ]}
 />

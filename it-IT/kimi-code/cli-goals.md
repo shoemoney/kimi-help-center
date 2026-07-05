@@ -25,7 +25,7 @@ Scrivi l'obiettivo dopo `/goal`:
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Fix bugs listed in the issue tracker.",
+      content: "/goal Correggi i bug elencati nell'issue tracker.",
     },
   ]}
 />
@@ -39,7 +39,7 @@ Gli obiettivi danno il meglio quando l'obiettivo indica il traguardo e la prova 
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Fix every bug labeled checkout-regression, add or update tests for each fix, and run the checkout test suite",
+      content: "/goal Correggi ogni bug etichettato checkout-regression, aggiungi o aggiorna i test per ogni correzione ed esegui la suite di test di checkout",
     },
   ]}
 />
@@ -51,7 +51,7 @@ Evita obiettivi che indicano solo una direzione generica:
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Find all bugs in this codebase.",
+      content: "/goal Trova tutti i bug in questo codebase.",
     },
   ]}
 />
@@ -67,7 +67,7 @@ Usa gli obiettivi per lavori con un traguardo chiaro e prove verificabili.
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Fix every failing checkout test and run the checkout test suite successfully.",
+      content: "/goal Correggi ogni test di checkout che fallisce ed esegui con successo la suite di test di checkout.",
     },
   ]}
 />
@@ -81,7 +81,7 @@ Usa gli obiettivi quando il compito può richiedere diversi turni di indagine e 
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Find why the release build fails, fix the root cause, and verify the build passes.",
+      content: "/goal Trova perché la build di rilascio fallisce, correggi la causa originaria e verifica che la build passi.",
     },
   ]}
 />
@@ -95,7 +95,7 @@ Usa gli obiettivi per lavori sequenziali che devono proseguire senza un altro pr
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Update the feature implementation, add docs, run tests, and summarize the changed files.",
+      content: "/goal Aggiorna l'implementazione della funzionalità, aggiungi la documentazione, esegui i test e riepiloga i file modificati.",
     },
   ]}
 />
@@ -113,7 +113,7 @@ Non usare gli obiettivi per argomenti generici o discussioni aperte.
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Greetings!",
+      content: "/goal Salve!",
     },
   ]}
 />
@@ -131,7 +131,7 @@ Non usare gli obiettivi per compiti notoriamente impossibili o irrisolvibili.
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Prove 1 + 1 = 3.",
+      content: "/goal Dimostra che 1 + 1 = 3.",
     },
   ]}
 />
@@ -149,7 +149,7 @@ Non usare gli obiettivi con obiettivi ambigui o complicati.
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Create a videogame in a single HTML file.",
+      content: "/goal Crea un videogioco in un singolo file HTML.",
     },
   ]}
 />
@@ -189,7 +189,7 @@ Usa `/goal next` quando hai altro lavoro pronto ma non vuoi interrompere l'obiet
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal next Update the release notes after the tests pass",
+      content: "/goal next Aggiorna le note di rilascio dopo che i test passano",
     },
   ]}
 />
@@ -227,7 +227,7 @@ Nella modalità prompt non interattiva è supportata solo la creazione di obiett
     {
       name: "command.sh",
       language: "bash",
-      content: "kimi -p \"/goal Fix the failing checkout test\"",
+      content: "kimi -p \"/goal Correggi il test di checkout che fallisce\"",
     },
   ]}
 />

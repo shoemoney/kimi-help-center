@@ -56,7 +56,7 @@ Utilisez le symbole `@` dans votre saisie pour référencer un chemin de fichier
     {
       name: "prompt.txt",
       language: "text",
-      content: "Check @src/utils/auth.ts for any security vulnerabilities",
+      content: "Vérifie @src/utils/auth.ts pour d'éventuelles vulnérabilités de sécurité",
     },
   ]}
 />

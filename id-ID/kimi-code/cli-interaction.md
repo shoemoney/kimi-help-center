@@ -56,7 +56,7 @@ Gunakan simbol `@` pada masukan Anda untuk merujuk ke path berkas atau direktori
     {
       name: "prompt.txt",
       language: "text",
-      content: "Check @src/utils/auth.ts for any security vulnerabilities",
+      content: "Periksa @src/utils/auth.ts untuk mengetahui adanya kerentanan keamanan",
     },
   ]}
 />

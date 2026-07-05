@@ -25,7 +25,7 @@ Viết mục tiêu sau `/goal`:
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Fix bugs listed in the issue tracker.",
+      content: "/goal Sửa các bug được liệt kê trong issue tracker.",
     },
   ]}
 />
@@ -39,7 +39,7 @@ Mục tiêu phát huy hiệu quả tốt nhất khi nó nêu rõ đích đến v
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Fix every bug labeled checkout-regression, add or update tests for each fix, and run the checkout test suite",
+      content: "/goal Sửa mọi bug có nhãn checkout-regression, thêm hoặc cập nhật test cho từng bản sửa, và chạy bộ test checkout",
     },
   ]}
 />
@@ -51,7 +51,7 @@ Tránh đặt mục tiêu chỉ nêu một hướng đi chung chung:
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Find all bugs in this codebase.",
+      content: "/goal Tìm tất cả bug trong codebase này.",
     },
   ]}
 />
@@ -67,7 +67,7 @@ Dùng mục tiêu cho những công việc có đích đến rõ ràng và bằn
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Fix every failing checkout test and run the checkout test suite successfully.",
+      content: "/goal Sửa mọi test checkout bị lỗi và chạy thành công bộ test checkout.",
     },
   ]}
 />
@@ -81,7 +81,7 @@ Dùng mục tiêu khi tác vụ có thể cần nhiều lượt điều tra và 
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Find why the release build fails, fix the root cause, and verify the build passes.",
+      content: "/goal Tìm lý do bản build phát hành bị lỗi, sửa nguyên nhân gốc rễ, và xác nhận bản build vượt qua.",
     },
   ]}
 />
@@ -95,7 +95,7 @@ Dùng mục tiêu cho những công việc theo trình tự cần tiếp tục m
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Update the feature implementation, add docs, run tests, and summarize the changed files.",
+      content: "/goal Cập nhật phần triển khai tính năng, thêm tài liệu, chạy test, và tóm tắt các tệp đã thay đổi.",
     },
   ]}
 />
@@ -113,7 +113,7 @@ Dùng mục tiêu cho những công việc theo trình tự cần tiếp tục m
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Greetings!",
+      content: "/goal Xin chào!",
     },
   ]}
 />
@@ -131,7 +131,7 @@ Agent sẽ đánh dấu mục tiêu là hoàn thành ngay lập tức đối v�
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Prove 1 + 1 = 3.",
+      content: "/goal Chứng minh 1 + 1 = 3.",
     },
   ]}
 />
@@ -149,7 +149,7 @@ Agent sẽ đánh dấu mục tiêu là bị chặn nếu mục tiêu có vẻ b
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Create a videogame in a single HTML file.",
+      content: "/goal Tạo một trò chơi điện tử trong một tệp HTML duy nhất.",
     },
   ]}
 />
@@ -189,7 +189,7 @@ Dùng `/goal next` khi bạn đã sẵn sàng có thêm việc nhưng không mu�
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal next Update the release notes after the tests pass",
+      content: "/goal next Cập nhật ghi chú phát hành sau khi các test vượt qua",
     },
   ]}
 />
@@ -227,7 +227,7 @@ Chế độ mục tiêu hữu ích cho những công việc có thể kiểm ch�
     {
       name: "command.sh",
       language: "bash",
-      content: "kimi -p \"/goal Fix the failing checkout test\"",
+      content: "kimi -p \"/goal Sửa test checkout bị lỗi\"",
     },
   ]}
 />

@@ -17,7 +17,7 @@ Kimi API では、アカウント残高と使用状況の詳細を確認する�
 
 ## コンソールダッシュボード
 
-[platform.moonshot.ai](https://platform.moonshot.ai) にログインし、コンソールの **fee-detail**（請求明細）ページに移動すると、次の情報を確認できます。
+[platform.kimi.ai](https://platform.kimi.ai) にログインし、コンソールの **fee-detail**（請求明細）ページに移動すると、次の情報を確認できます。
 
 - 現在のアカウント残高
 - 日別の使用状況内訳

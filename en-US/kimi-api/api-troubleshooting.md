@@ -91,7 +91,7 @@ Kimi API's web search feature retrieves publicly available information from the 
 
 ## Is on-premises deployment supported?
 
-Kimi API currently offers cloud-based API services only and **does not support on-premises private deployment**. For private deployment requirements, contact the sales team via [platform.moonshot.ai/contact-sales](https://platform.moonshot.ai/contact-sales).
+Kimi API currently offers cloud-based API services only and **does not support on-premises private deployment**. For private deployment requirements, contact the sales team via [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales).
 
 ## Can I call the Kimi API from outside of China?
 

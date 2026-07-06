@@ -72,12 +72,12 @@ kimi-code のインストール後、**初めて `kimi` を実行したとき**�
 
 **プラットフォームの違いに注意**
 
-Kimi Code のメンバーシップ特典と [Kimi Open Platform](https://platform.kimi.com) では、Base URL が異なります。設定時は、Base URL と API Key が対応していることを必ず確認してください。
+Kimi Code のメンバーシップ特典と [Kimi オープンプラットフォーム](https://platform.kimi.com) では、Base URL が異なります。設定時は、Base URL と API Key が対応していることを必ず確認してください。
 
 | プラットフォーム | Base URL | 課金 | キーの作成 |
 |------|---------|---------|-------------|
 | **Kimi Code** | Anthropic 互換: `https://api.kimi.com/coding/` | Kimi メンバーシップのサブスクリプション（クレジット を含む） | [Kimi Code Console](https://www.kimi.com/code/console) |
-| **Kimi Open Platform** | `https://api.moonshot.cn/v1` | 従量課金 | [Kimi Open Platform](https://platform.kimi.com) |
+| **Kimi オープンプラットフォーム** | `https://api.moonshot.cn/v1` | 従量課金 | [Kimi オープンプラットフォーム](https://platform.kimi.com) |
 
 ### APIキーが無効
 
@@ -94,7 +94,7 @@ Kimi Code プラットフォームを使用している場合、`/usage` コマ�
 
 ### 請求書の発行依頼やメンバーシップのアップグレードはどうすればよいですか？
 
-[Kimi メンバーシップページ](https://www.kimi.com/membership/pricing?from=kfc_docs_faq#pricing-faq)にアクセスし、案内に従って請求書の発行を依頼するか、プランをアップグレードしてください。
+[Kimi メンバーシップページ](https://www.kimi.com/membership/pricing#pricing-faq)にアクセスし、案内に従って請求書の発行を依頼するか、プランをアップグレードしてください。
 
 ## 操作に関する問題
 

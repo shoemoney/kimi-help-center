@@ -8,17 +8,17 @@ preview: false
 
 <SeoMeta
   title="Créditos y facturación del Agent - Centro de ayuda de Kimi"
-  description="El modo Agent usa el sistema de créditos de Kimi. Todos los beneficios de membresía incluyen dos bolsas de créditos: Kimi Code usa una bolsa de créditos independiente; las demás funciones de membresía comparten una sola bolsa de créditos, y los créditos se descuentan según el consumo real de tokens."
+  description="El modo Agent usa el sistema de créditos de Kimi. Todos los beneficios de membresía incluyen dos paquetes de créditos: Kimi Code usa un paquete de créditos independiente; las demás funciones de membresía comparten un solo paquete de créditos, y los créditos se descuentan según el consumo real de tokens."
 />
 
 # Créditos y facturación del Agent
 
 <Callout type="info">
-El modo Agent usa el sistema de créditos de Kimi. Todos los beneficios de membresía incluyen dos bolsas de créditos: Kimi Code usa una bolsa de créditos independiente; las demás funciones de membresía (Agent, Deep Research, Slides, Docs, Sheets, Kimi Claw, etc.) comparten una sola bolsa de créditos, y los créditos se descuentan según el consumo real de tokens.
+El modo Agent usa el sistema de créditos de Kimi. Todos los beneficios de membresía incluyen dos paquetes de créditos: Kimi Code usa un paquete de créditos independiente; las demás funciones de membresía (Agent, Deep Research, Diapositivas, Documentos, Hojas de cálculo, Kimi Claw, etc.) comparten un solo paquete de créditos, y los créditos se descuentan según el consumo real de tokens.
 </Callout>
 
 ## Modelo de facturación
-- **Dos bolsas de créditos**: Todos los beneficios de membresía incluyen dos bolsas de créditos. Kimi Code usa una bolsa de créditos independiente; las demás funciones de membresía comparten una sola bolsa de créditos: distribuye el uso como prefieras
+- **Dos paquetes de créditos**: Todos los beneficios de membresía incluyen dos paquetes de créditos. Kimi Code usa un paquete de créditos independiente; las demás funciones de membresía comparten un solo paquete de créditos: distribuye el uso como prefieras
 - **Pago por uso**: El consumo de créditos depende de la complejidad y duración de la tarea (es decir, del uso de tokens): las tareas simples cuestan menos y las complejas cuestan más
 - **Renovación mensual**: Los créditos se restablecen cada mes, en sintonía con tu ciclo de suscripción
 - **Prioridad de uso**: Primero se consumen los créditos de bonificación (por ejemplo, créditos de prueba o recompensas promocionales) y luego los créditos del plan

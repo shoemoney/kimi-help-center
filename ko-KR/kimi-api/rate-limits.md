@@ -17,7 +17,7 @@ Kimi API는 플랫폼 안정성과 공정한 사용을 위해 요청 빈도와 c
 
 ## Rate limit 등급
 
-API rate limit은 계정의 **누적 충전 금액**에 따라 등급이 나뉩니다. 충전 금액이 많을수록 더 높은 rate limit을 사용할 수 있습니다. 구체적인 등급 기준과 해당 RPM(분당 요청 수), TPM(분당 token 수) 한도는 [platform.moonshot.ai](https://www.platform.moonshot.ai) 콘솔에서 확인하세요.
+API rate limit은 계정의 **누적 충전 금액**에 따라 등급이 나뉩니다. 충전 금액이 많을수록 더 높은 rate limit을 사용할 수 있습니다. 구체적인 등급 기준과 해당 RPM(분당 요청 수), TPM(분당 token 수) 한도는 [platform.kimi.ai](https://platform.kimi.ai) 콘솔에서 확인하세요.
 
 ## 현재 한도 확인 방법
 
@@ -40,4 +40,4 @@ API rate limit은 계정의 **누적 충전 금액**에 따라 등급이 나뉩�
 비즈니스 요구가 현재 rate limit을 초과하는 경우:
 
 - **충전하여 업그레이드**: 누적 충전 금액을 늘리면 시스템이 rate limit 등급을 자동으로 업그레이드합니다.
-- **영업팀에 문의**: 특별한 요구사항이 있으면 [platform.moonshot.ai/contact-sales](https://www.platform.moonshot.ai/contact-sales)를 통해 플랫폼 영업팀에 문의하여 맞춤 rate quota를 요청하세요.
+- **영업팀에 문의**: 특별한 요구사항이 있으면 [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales)를 통해 플랫폼 영업팀에 문의하여 맞춤 rate quota를 요청하세요.

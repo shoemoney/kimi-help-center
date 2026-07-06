@@ -14,7 +14,7 @@ preview: false
 # Créditos e cobrança do Agent
 
 <Callout type="info">
-O modo Agent usa o sistema de créditos da Kimi. Todos os benefícios de assinatura incluem dois pools de créditos: o Kimi Code usa um pool de créditos separado; os demais recursos de assinatura (Agent, Deep Research, Slides, Docs, Sheets, Kimi Claw etc.) compartilham um único pool de créditos, com os créditos deduzidos conforme o consumo real de tokens.
+O modo Agent usa o sistema de créditos da Kimi. Todos os benefícios de assinatura incluem dois pools de créditos: o Kimi Code usa um pool de créditos separado; os demais recursos de assinatura (Agent, Deep Research, Apresentações, Documentos, Planilhas, Kimi Claw etc.) compartilham um único pool de créditos, com os créditos deduzidos conforme o consumo real de tokens.
 </Callout>
 
 ## Modelo de cobrança

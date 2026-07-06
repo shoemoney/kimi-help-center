@@ -19,7 +19,7 @@ preview: false
 
 Kimi API は、あらゆる規模のビジネスニーズに対応できるよう、エンタープライズのお客様向けに多様な提携オプションをご用意しています。
 ## 営業チームへのお問い合わせ方法
-[platform.moonshot.ai/contact-sales](https://platform.moonshot.ai/contact-sales) にアクセスし、お問い合わせフォームを送信してください。営業チームより1〜2営業日以内にご連絡します。
+[platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) にアクセスし、お問い合わせフォームを送信してください。営業チームより1〜2営業日以内にご連絡します。
 
 <Callout type="tip">
 **送信内容に含める項目**:

@@ -55,8 +55,9 @@ Due to the 256K character context limit of large language models (approximately 
 
 <Callout type="warning">
 **credit usage**: Agent tasks consume credits from the shared pool (other membership features). Kimi Code uses a separate credit pool. Each Agent task typically consumes 1 credit unit. For detailed credit information by membership tier, see [Credits & Billing](/agent/quota-and-billing).
-Free tier: 6 Agent tasks/month
-Paid tiers: 60–720 Agent tasks/month depending on your plan
+
+- Free tier: 6 Agent tasks/month
+- Paid tiers: 60–720 Agent tasks/month depending on your plan
 </Callout>
 
 - **Execution time**: In Agent mode, a single task typically takes 5–20 minutes. K2.6 Agent Swarm [Beta] tasks may take longer. You can leave the page — just don't click Stop to interrupt the task.
@@ -64,7 +65,7 @@ Paid tiers: 60–720 Agent tasks/month depending on your plan
 - **Simple tasks**: For simple Q&A, standard chat mode is recommended for faster responses.
 
 <Callout type="warning">
-**Content Compliance**: Agent features are subject to the [Kimi User Agreement](https://www.kimi.com/user/agreement/modelUse?version=v2). Generating prohibited content is not supported; submitting prohibited content may result in service suspension.
+**Content Compliance**: Agent features are subject to the [Kimi User Service Agreement](https://www.kimi.com/user/agreement/modelUse?version=v2). Generating prohibited content is not supported; submitting prohibited content may result in service suspension.
 </Callout>
 
 ## FAQ

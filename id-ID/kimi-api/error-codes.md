@@ -33,6 +33,6 @@ Kode kesalahan umum saat memanggil Kimi API dan cara mengatasinya.
 <Callout type="tip">
 1. **Periksa pesan kesalahan lengkap**: JSON respons menyertakan `error.message` dengan deskripsi terperinci.
 2. **Catat request_id**: Membantu tim dukungan menemukan masalah dengan cepat.
-3. **Rujuk dokumentasi resmi**: Pastikan panggilan sesuai dengan dokumentasi di [platform.moonshot.ai](https://platform.moonshot.ai).
+3. **Rujuk dokumentasi resmi**: Pastikan panggilan sesuai dengan dokumentasi di [platform.kimi.ai](https://platform.kimi.ai).
 4. **Terapkan logika coba ulang**: Untuk kesalahan 429 dan 500, gunakan exponential backoff.
 </Callout>

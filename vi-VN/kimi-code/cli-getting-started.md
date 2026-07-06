@@ -240,7 +240,7 @@ Sau khi đăng nhập, hãy mô tả một tác vụ bằng ngôn ngữ tự nhi
     {
       name: "prompt.txt",
       language: "text",
-      content: "Take a look at this project's directory structure and briefly describe what each directory is for.",
+      content: "Xem qua cấu trúc thư mục của dự án này và mô tả ngắn gọn mục đích của từng thư mục.",
     },
   ]}
 />
@@ -254,7 +254,7 @@ Bạn cũng có thể mô tả trực tiếp một tác vụ cụ thể hơn:
     {
       name: "prompt.txt",
       language: "text",
-      content: "Add a function in src/utils that converts any string to kebab-case, and add a unit test for it.",
+      content: "Thêm một hàm trong src/utils để chuyển đổi bất kỳ chuỗi nào sang kebab-case, và thêm một unit test cho nó.",
     },
   ]}
 />
@@ -302,7 +302,7 @@ Trước tiên, hãy xác nhận rằng Key và Base URL của bạn thuộc cù
 | Nền tảng | Base URL | Thanh toán | Tạo Key |
 |------|---------|---------|-------------|
 | **Kimi Code** | Tương thích OpenAI: `https://api.kimi.com/coding/v1`<br> Tương thích Anthropic: `https://api.kimi.com/coding/` | Gói thành viên Kimi (đã bao gồm tín dụng) | [Kimi Code Console](https://www.kimi.com/code/console) |
-| **Kimi Open Platform** | `https://api.moonshot.cn/v1` | Trả theo lượng dùng | [Kimi Open Platform](https://platform.kimi.com) |
+| **Nền tảng Mở Kimi** | `https://api.moonshot.cn/v1` | Trả theo lượng dùng | [Nền tảng Mở Kimi](https://platform.kimi.com) |
 
 **Sau khi cài đặt, không tìm thấy lệnh `kimi`.**
 

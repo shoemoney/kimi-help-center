@@ -25,7 +25,7 @@ preview: false
 
 ## 是否支持模型微调？
 
-Kimi API **目前不支持**用户自行发起模型微调。如有定制模型需求，请通过 [platform.moonshot.ai/contact-sales](https://www.platform.moonshot.ai/contact-sales) 联系销售团队，了解企业级定制方案。
+Kimi API **目前不支持**用户自行发起模型微调。如有定制模型需求，请通过 [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) 联系销售团队，了解企业级定制方案。
 
 ## 是否支持 OCR？
 

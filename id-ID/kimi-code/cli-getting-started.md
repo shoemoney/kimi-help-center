@@ -240,7 +240,7 @@ Setelah login, jelaskan sebuah tugas dengan bahasa alami. Titik awal yang baik a
     {
       name: "prompt.txt",
       language: "text",
-      content: "Take a look at this project's directory structure and briefly describe what each directory is for.",
+      content: "Lihat struktur direktori proyek ini dan jelaskan secara singkat fungsi setiap direktori.",
     },
   ]}
 />
@@ -254,7 +254,7 @@ Anda juga dapat langsung menjelaskan tugas yang lebih konkret:
     {
       name: "prompt.txt",
       language: "text",
-      content: "Add a function in src/utils that converts any string to kebab-case, and add a unit test for it.",
+      content: "Tambahkan sebuah fungsi di src/utils yang mengonversi string apa pun menjadi kebab-case, dan tambahkan uji unit untuknya.",
     },
   ]}
 />
@@ -302,7 +302,7 @@ Pertama, pastikan Key dan Base URL Anda berasal dari platform yang sama. `api.ki
 | Platform | Base URL | Penagihan | Pembuatan Key |
 |------|---------|---------|-------------|
 | **Kimi Code** | Kompatibel OpenAI: `https://api.kimi.com/coding/v1`<br> Kompatibel Anthropic: `https://api.kimi.com/coding/` | Langganan keanggotaan Kimi (termasuk kredit) | [Konsol Kimi Code](https://www.kimi.com/code/console) |
-| **Kimi Open Platform** | `https://api.moonshot.cn/v1` | Bayar sesuai pemakaian | [Kimi Open Platform](https://platform.kimi.com) |
+| **Platform Terbuka Kimi** | `https://api.moonshot.cn/v1` | Bayar sesuai pemakaian | [Platform Terbuka Kimi](https://platform.kimi.com) |
 
 **Perintah `kimi` tidak ditemukan setelah instalasi.**
 

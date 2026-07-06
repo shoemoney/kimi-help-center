@@ -91,7 +91,7 @@ La **generazione di PPT** e la **Deep Research** **non sono ancora disponibili t
 
 ## È supportata l'installazione on-premises?
 
-L'API Kimi offre attualmente solo servizi API basati sul cloud e **non supporta l'installazione privata on-premises**. Per esigenze di installazione privata, contatta il team commerciale tramite [platform.moonshot.ai/contact-sales](https://platform.moonshot.ai/contact-sales).
+L'API Kimi offre attualmente solo servizi API basati sul cloud e **non supporta l'installazione privata on-premises**. Per esigenze di installazione privata, contatta il team commerciale tramite [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales).
 
 ## Posso chiamare l'API Kimi dall'esterno della Cina?
 

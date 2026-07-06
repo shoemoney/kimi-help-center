@@ -125,5 +125,5 @@ Uma descrição completa de Skill deve incluir:
 
 <ComparisonBlock
   wrong={"Ajudar os usuários a pesquisar e descobrir Skills."}
-  correct={"Ajudar os usuários a pesquisar e descobrir Skills. Usada quando os usuários querem explicitamente encontrar um determinado tipo de Skill ou descrevem um problema na esperança de receber recomendações de Skills. As palavras-chave incluem 'Encontrar Skills', 'Pesquisar Skills', 'Existe uma Skill que faça X?', etc."}
+  correct={"Ajudar os usuários a pesquisar e descobrir Skills. Usada quando os usuários querem explicitamente encontrar um determinado tipo de Skill ou descrevem um problema na esperança de receber recomendações de Skills. As palavras-chave incluem “Encontrar Skills”, “Pesquisar Skills”, “Existe uma Skill que faça X?”, etc."}
 />

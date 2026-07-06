@@ -15,7 +15,7 @@ preview: false
 
 Kimi Code is a service included in the Kimi membership plan, providing coding-related support and features to help members complete programming tasks more efficiently in their personal development workflow.
 
-> Please note that this benefit is intended for personal development use only, not for enterprise development scenarios. For enterprise needs, please visit the [Kimi Open Platform](https://www.platform.moonshot.ai/).
+> Please note that this benefit is intended for personal development use only, not for enterprise development scenarios. For enterprise needs, please visit the [Kimi Open Platform](https://platform.kimi.ai/).
 
 ## Billing
 

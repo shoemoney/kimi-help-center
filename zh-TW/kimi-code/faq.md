@@ -94,7 +94,7 @@ API key 無效可能有以下原因：
 
 ### 如何申請發票或升級會員？
 
-請前往 [Kimi 會員頁面](https://www.kimi.com/membership/pricing?from=kfc_docs_faq#pricing-faq)，依照說明提交發票申請或升級方案。
+請前往 [Kimi 會員頁面](https://www.kimi.com/membership/pricing#pricing-faq)，依照說明提交發票申請或升級方案。
 
 ## 互動問題
 

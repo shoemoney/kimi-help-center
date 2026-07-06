@@ -42,7 +42,7 @@ preview: false
 ## API 服務支援
 
 **電子郵件：** api-service@moonshot.ai。
-你也可以前往 [Kimi OpenPlatform 社群](https://forum.moonshot.ai/)
+你也可以前往 [Kimi OpenPlatform Community](https://forum.moonshot.ai/)
 
 適合處理：
 

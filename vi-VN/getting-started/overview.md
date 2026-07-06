@@ -18,7 +18,7 @@ preview_content: "Khám phá các chế độ trò chuyện, AI agent, khả nă
 Kimi là trợ lý AI do Moonshot AI phát triển, tích hợp sẵn khả năng tìm kiếm web, tư duy chuyên sâu, suy luận đa phương thức và hội thoại với ngữ cảnh siêu dài.
 </Callout>
 
-Truy cập [Kimi.com](https://www.kimi.com/) hoặc tải ứng dụng Kimi để bắt đầu trò chuyện, sáng tạo, nghiên cứu và xây dựng. Các nhà phát triển có thể truy cập [Kimi Open Platform](https://platform.moonshot.ai/) để sử dụng API và công cụ tích hợp các năng lực của Kimi vào ứng dụng của riêng mình.
+Truy cập [Kimi.com](https://www.kimi.com/) hoặc tải ứng dụng Kimi để bắt đầu trò chuyện, sáng tạo, nghiên cứu và xây dựng. Các nhà phát triển có thể truy cập [Nền tảng Mở Kimi](https://platform.kimi.ai/) để sử dụng API và công cụ tích hợp các năng lực của Kimi vào ứng dụng của riêng mình.
 ## Các chế độ trò chuyện
 | Chế độ | Mô tả |
 |------|-------------|
@@ -36,7 +36,7 @@ Kimi không chỉ là trợ lý trò chuyện — đó là một AI agent có th
 |-------|-------------|------|
 | **K2.6 Agent** | Tự động lập kế hoạch và hoàn thành tác vụ, bao gồm tạo website, tạo trang trình bày, Deep Research, xử lý tài liệu và bảng tính | [kimi.com/agent](https://www.kimi.com/agent) |
 | **K2.6 Agent Swarm [Beta]** | Hỗ trợ tối đa 4.000 lệnh gọi công cụ song song, điều phối hơn 300 subagent cho tìm kiếm quy mô lớn, viết nội dung dài và xử lý hàng loạt | [kimi.com/agent-swarm](https://www.kimi.com/agent-swarm) |
-| **Kimi Code** | Bộ trợ lý lập trình dành cho nhà phát triển, gồm công cụ CLI và tiện ích mở rộng VS Code | [kimi.com/code](https://www.kimi.com/code?from=kfc_overview_topbar) |
+| **Kimi Code** | Bộ trợ lý lập trình dành cho nhà phát triển, gồm công cụ CLI và tiện ích mở rộng VS Code | [kimi.com/code](https://www.kimi.com/code) |
 | **Kimi Claw** | Nền tảng tự động hóa trên đám mây không cần triển khai — khởi chạy AI agent thường trực trong chưa đầy 30 giây với hơn 5.000 kỹ năng tích hợp sẵn (ClawHub) | [kimi.com/bot](https://www.kimi.com/bot) |
 
 ## Các tính năng cốt lõi khác

@@ -21,7 +21,7 @@ Questions fréquentes sur les comptes développeur de l'API Kimi, la vérificati
 Un compte personnel **ne peut pas recevoir directement de facture professionnelle**. Si vous avez besoin d'une facture professionnelle, commencez par faire passer votre compte au statut de compte d'organisation. Une fois la vérification effectuée, vous pourrez demander des factures au nom de votre organisation.
 
 ## Comment passer d'un compte personnel à un compte d'organisation ?
-1. Connectez-vous à la console [platform.moonshot.ai](https://platform.moonshot.ai).
+1. Connectez-vous à la console [platform.kimi.ai](https://platform.kimi.ai).
 2. Accédez à **Paramètres du compte → Vérification**.
 3. Sélectionnez **Vérification de l'organisation** et renseignez les informations requises.
 4. Soumettez le dossier pour examen — une fois approuvé, votre compte sera automatiquement converti.

@@ -31,23 +31,19 @@ Les sièges supplémentaires achetés en cours d'abonnement sont facturés au pr
 
 ## Avantages principaux
 
-### Capacités d'IA
-
-| Avantage | Crédits |
-|---------|-------|
-| Utilisation de l'Agent | 4× (environ 150/mois) |
-| Tâches d'Agent simultanées | 2 tâches |
-| File d'attente prioritaire | Vitesse 4× |
-| Cluster d'Agents | 50 fois/mois, 4 sous-tâches en parallèle |
-| Kimi Code | crédits 20× |
-| Kimi Claw | Déploiement en un clic d'un assistant IA dédié, compatible Web et Android |
-| Base de données professionnelle | 5 000 fois/mois, couvrant les sources financières, économiques et académiques |
+- Commande minimale de 5 sièges
+- Protection de la confidentialité des données de niveau entreprise
+- Accès prioritaire aux fonctionnalités expérimentales : Agent Swarm / Kimi Claw / Professional Database
+- Crédits Agent mensuels ×2
+- Multitâche pour l'Agent
+- Crédits Kimi Code ×5
+- Assistance technique dédiée
 
 ### Fonctionnalités d'entreprise
 
 - **Protection de la confidentialité des données** : les données de l'entreprise ne sont pas utilisées pour l'entraînement des modèles, ce qui garantit la sécurité des informations professionnelles
 - **Gestion des membres** : les administrateurs peuvent inviter et retirer des membres, et répartir les sièges en toute flexibilité
-- **Espace de travail** : isolation totale entre les données personnelles et professionnelles, avec basculement possible entre espaces de travail
+- **Assistance technique dédiée** : les clients entreprise bénéficient d'une assistance technique dédiée
 
 ## Gestion des membres
 
@@ -97,7 +93,7 @@ Lors du changement d'espace de travail, la page se rafraîchit automatiquement p
 
 <Callout type="warning">
 
-Compatibilité des plateformes : le Web prend en charge l'intégralité des fonctionnalités de Kimi Business. Les applications mobiles et de bureau ne prennent en charge que l'abonnement personnel ; les fonctionnalités d'entreprise n'y sont pas disponibles.
+Compatibilité des plateformes : le Web et le client de bureau prennent en charge les fonctionnalités entreprise de Kimi Business. L'application mobile ne prend actuellement en charge que l'abonnement personnel ; les fonctionnalités d'entreprise n'y sont pas disponibles.
 
 </Callout>
 

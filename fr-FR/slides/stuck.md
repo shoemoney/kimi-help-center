@@ -30,7 +30,7 @@ La génération de Kimi Slides peut rester bloquée dans les situations suivante
 - **Tâche annulée** : cela résulte généralement d'un échec de génération de Kimi Slides. Il vous suffit de démarrer un nouveau chat et de saisir les mêmes instructions de tâche pour réessayer.
 
 <Callout type="info">
-Pour obtenir une aide supplémentaire, contactez notre équipe via le canal de retour 👎 dans le produit, ou envoyez un e-mail à [support@moonshot.cn](mailto:support@moonshot.cn).
+Pour obtenir une aide supplémentaire, contactez notre équipe via le canal de retour 👎 dans le produit, ou envoyez un e-mail à [support@moonshot.ai](mailto:support@moonshot.ai).
 </Callout>
 
 ## Problèmes de cartes contextuelles et d'aperçu des Slides en mode adaptatif
@@ -51,7 +51,7 @@ Si le clic sur la carte Slides n'ouvre pas la page d'édition, essayez d'actuali
 - Si la carte Slides ne s'affiche toujours pas sur plusieurs navigateurs et appareils, suivez les [Consignes de signalement de bugs](#consignes-de-signalement-de-bugs) ci-dessous pour nous faire part de votre retour, et démarrez un nouveau chat pour régénérer.
 
 <Callout type="info">
-Si vous avez confirmé que le problème persiste sur plusieurs appareils et navigateurs, envoyez un e-mail à [support@moonshot.cn](mailto:support@moonshot.cn) pour le signaler, en joignant le lien de la conversation et une capture d'écran du problème. Une fois le bug vérifié, nous vous dédommagerons avec les crédits correspondants.
+Si vous avez confirmé que le problème persiste sur plusieurs appareils et navigateurs, envoyez un e-mail à [support@moonshot.ai](mailto:support@moonshot.ai) pour le signaler, en joignant le lien de la conversation et une capture d'écran du problème. Une fois le bug vérifié, nous vous dédommagerons avec les crédits correspondants.
 </Callout>
 
 ### L'aperçu des Slides est vide ou la mise en forme est incorrecte
@@ -80,7 +80,7 @@ Certaines versions plus anciennes de logiciels bureautiques peuvent ne pas être
 
 ## Consignes de signalement de bugs
 
-Si les méthodes ci-dessus ne résolvent pas le problème, faites-nous part de votre retour via le canal de retour 👎 dans le produit ou envoyez un e-mail à [support@moonshot.cn](mailto:support@moonshot.cn). Pour nous aider à localiser le problème plus rapidement, merci de fournir autant que possible les informations suivantes :
+Si les méthodes ci-dessus ne résolvent pas le problème, faites-nous part de votre retour via le canal de retour 👎 dans le produit ou envoyez un e-mail à [support@moonshot.ai](mailto:support@moonshot.ai). Pour nous aider à localiser le problème plus rapidement, merci de fournir autant que possible les informations suivantes :
 
 | Type d'information | Détails |
 |------------------|---------|

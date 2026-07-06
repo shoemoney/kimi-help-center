@@ -80,7 +80,7 @@ preview: false
 />
 
 ## Limites de memória
-O Memory Space atualmente tem os seguintes limites:
+O Espaço de memória atualmente tem os seguintes limites:
 - É possível armazenar até 50 entradas de memória.
 - Cada entrada de memória é limitada a 500 caracteres.
 - Memórias criadas antes de abril de 2026 podem exceder esse limite; essas memórias existentes continuam sendo mantidas.

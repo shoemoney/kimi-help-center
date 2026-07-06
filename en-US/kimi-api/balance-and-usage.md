@@ -17,7 +17,7 @@ Kimi API provides multiple ways to view your account balance and usage details, 
 
 ## Console dashboard
 
-Log in to [platform.moonshot.ai](https://platform.moonshot.ai) and navigate to the **fee-detail** (billing details) page in the console to view:
+Log in to [platform.kimi.ai](https://platform.kimi.ai) and navigate to the **fee-detail** (billing details) page in the console to view:
 
 - Current account balance
 - Daily usage breakdown

@@ -19,7 +19,7 @@ Partnerschaftsmodelle für Unternehmenskunden – von Mengenrabatten bis hin zu 
 
 Kimi API bietet Unternehmenskunden eine Reihe von Partnerschaftsmodellen, die geschäftliche Anforderungen jeder Größenordnung abdecken.
 ## Wie erreichen Sie das Vertriebsteam?
-Besuchen Sie [platform.moonshot.ai/contact-sales](https://platform.moonshot.ai/contact-sales), um ein Kontaktformular auszufüllen. Unser Vertriebsteam meldet sich innerhalb von 1–2 Werktagen bei Ihnen.
+Besuchen Sie [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales), um ein Kontaktformular auszufüllen. Unser Vertriebsteam meldet sich innerhalb von 1–2 Werktagen bei Ihnen.
 
 <Callout type="tip">
 **Geben Sie in Ihrer Anfrage Folgendes an**:

@@ -91,7 +91,7 @@ Kimi API의 Web Search 기능은 인터넷에 공개된 정보를 실시간으�
 
 ## 온프레미스 배포를 지원하나요?
 
-현재 Kimi API는 클라우드 기반 API 서비스만 제공하며, **온프레미스 프라이빗 배포는 지원하지 않습니다**. 프라이빗 배포가 필요하다면 [platform.moonshot.ai/contact-sales](https://platform.moonshot.ai/contact-sales)를 통해 영업팀에 문의하세요.
+현재 Kimi API는 클라우드 기반 API 서비스만 제공하며, **온프레미스 프라이빗 배포는 지원하지 않습니다**. 프라이빗 배포가 필요하다면 [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales)를 통해 영업팀에 문의하세요.
 
 ## 중국 외 지역에서 Kimi API를 호출할 수 있나요?
 

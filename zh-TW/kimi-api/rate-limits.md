@@ -17,7 +17,7 @@ Kimi API 對請求頻率與 concurrency（併發）設有 rate limit（速率限
 
 ## Rate limit 等級
 
-API rate limit 會依照帳戶的**累計儲值金額**分級——儲值越多，可使用的 rate limit 越高。各等級門檻以及對應的 RPM（每分鐘請求數）與 TPM（每分鐘 token 數）限制，請參閱 [platform.moonshot.ai](https://www.platform.moonshot.ai) 控制台。
+API rate limit 會依照帳戶的**累計儲值金額**分級——儲值越多，可使用的 rate limit 越高。各等級門檻以及對應的 RPM（每分鐘請求數）與 TPM（每分鐘 token 數）限制，請參閱 [platform.kimi.ai](https://platform.kimi.ai) 控制台。
 
 ## 如何查看目前限制？
 
@@ -40,4 +40,4 @@ API rate limit 會依照帳戶的**累計儲值金額**分級——儲值越多�
 如果你的業務需求超過目前的 rate limit：
 
 - **儲值升級**：提高累計儲值金額後，系統會自動升級你的 rate limit 等級。
-- **聯絡銷售團隊**：如有特殊需求，請透過 [platform.moonshot.ai/contact-sales](https://www.platform.moonshot.ai/contact-sales) 聯絡平台銷售團隊，申請自訂 rate quota（速率配額）。
+- **聯絡銷售團隊**：如有特殊需求，請透過 [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) 聯絡平台銷售團隊，申請自訂 rate quota（速率配額）。

@@ -125,5 +125,5 @@ Una descripción completa de una habilidad debe incluir:
 
 <ComparisonBlock
   wrong={"Ayuda a los usuarios a buscar y descubrir habilidades."}
-  correct={"Ayuda a los usuarios a buscar y descubrir habilidades. Se usa cuando los usuarios quieren explícitamente encontrar un cierto tipo de habilidad o describen un problema y esperan recibir recomendaciones de habilidades. Las palabras desencadenantes incluyen 'Buscar habilidades', 'Encontrar habilidades', '¿Hay alguna habilidad que pueda hacer X?', etc."}
+  correct={"Ayuda a los usuarios a buscar y descubrir habilidades. Se usa cuando los usuarios quieren explícitamente encontrar un cierto tipo de habilidad o describen un problema y esperan recibir recomendaciones de habilidades. Las palabras desencadenantes incluyen “Buscar habilidades”, “Encontrar habilidades”, “¿Hay alguna habilidad que pueda hacer X?”, etc."}
 />

@@ -125,5 +125,5 @@ Eksiksiz bir Skill açıklaması şunları içermelidir:
 
 <ComparisonBlock
   wrong={"Kullanıcıların Skill aramasına ve keşfetmesine yardımcı ol."}
-  correct={"Kullanıcıların Skill aramasına ve keşfetmesine yardımcı ol. Kullanıcılar belirli bir türde Skill bulmak istediklerinde ya da bir sorunu tarif edip Skill önerisi almayı umduklarında kullanılır. Tetikleyici kelimeler arasında 'Skill bul', 'Skill ara', 'X yapabilecek bir Skill var mı?' gibi ifadeler yer alır."}
+  correct={"Kullanıcıların Skill aramasına ve keşfetmesine yardımcı ol. Kullanıcılar belirli bir türde Skill bulmak istediklerinde ya da bir sorunu tarif edip Skill önerisi almayı umduklarında kullanılır. Tetikleyici kelimeler arasında “Skill bul”, “Skill ara”, “X yapabilecek bir Skill var mı?” gibi ifadeler yer alır."}
 />

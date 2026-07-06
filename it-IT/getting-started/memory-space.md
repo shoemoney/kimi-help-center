@@ -1,5 +1,5 @@
 ---
-title: "Memory Space"
+title: "Spazio di memoria"
 slug: "memory-space"
 order: 6
 extract_headings: false
@@ -7,11 +7,11 @@ preview: false
 ---
 
 <SeoMeta
-  title="Memory Space - Centro assistenza Kimi"
+  title="Spazio di memoria - Centro assistenza Kimi"
   description="Kimi ha imparato davvero ad ascoltare: più parli, meglio ti capisce. Ecco come funziona:"
 />
 
-# Memory Space
+# Spazio di memoria
 
 ## Cos'è la memoria?
 Kimi ha imparato davvero ad ascoltare: più parli, meglio ti capisce. Ecco come funziona:
@@ -51,7 +51,7 @@ Nota: la memoria è interamente sotto il tuo controllo. Non viene usata per adde
 **(2) Gestione tramite le Impostazioni (interfaccia)**
 
 Puoi gestire la memoria anche dall'interfaccia delle impostazioni:
-- Web / Mobile: Impostazioni → Personalizzazione → Memory Space
+- Web / Mobile: Impostazioni → Personalizzazione → Spazio di memoria
 - Qui puoi consultare tutti i ricordi salvati
 - Puoi eliminare manualmente qualsiasi ricordo che non ti serve più
 
@@ -74,10 +74,10 @@ Se c'è qualcosa che vuoi che Kimi ricordi in particolare, mettilo in risalto:
 - "…non dimenticarlo"
 
 ### Aggiornare i ricordi
-Vai su Profilo → Impostazioni → Personalizzazione → Memory Space per modificare i singoli ricordi.
+Vai su Profilo → Impostazioni → Personalizzazione → Spazio di memoria per modificare i singoli ricordi.
 
 ### Eliminare (dimenticare) i ricordi
-Vai su Profilo → Impostazioni → Personalizzazione → Memory Space e clicca su elimina accanto ai singoli ricordi.
+Vai su Profilo → Impostazioni → Personalizzazione → Spazio di memoria e clicca su elimina accanto ai singoli ricordi.
 
 <Frames
   src="./images/memory-space/screenshot-19.png"

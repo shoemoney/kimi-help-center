@@ -25,7 +25,7 @@ Hedefi `/goal` komutundan sonra yazın:
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Fix bugs listed in the issue tracker.",
+      content: "/goal Sorun izleyicide listelenen hataları düzelt.",
     },
   ]}
 />
@@ -39,7 +39,7 @@ Hedefler en iyi sonucu, bitiş çizgisini ve onu kanıtlayan delili belirten bir
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Fix every bug labeled checkout-regression, add or update tests for each fix, and run the checkout test suite",
+      content: "/goal checkout-regression etiketli her hatayı düzelt, her düzeltme için test ekle veya güncelle ve checkout test paketini çalıştır",
     },
   ]}
 />
@@ -51,7 +51,7 @@ Yalnızca geniş bir yön belirten hedeflerden kaçının:
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Find all bugs in this codebase.",
+      content: "/goal Bu kod tabanındaki tüm hataları bul.",
     },
   ]}
 />
@@ -67,7 +67,7 @@ Net bir bitiş çizgisi ve doğrulanabilir delili olan işler için hedefleri ku
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Fix every failing checkout test and run the checkout test suite successfully.",
+      content: "/goal Başarısız olan her checkout testini düzelt ve checkout test paketini başarıyla çalıştır.",
     },
   ]}
 />
@@ -81,7 +81,7 @@ Görev birkaç tur araştırma ve onarım gerektirebildiğinde hedefleri kullan�
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Find why the release build fails, fix the root cause, and verify the build passes.",
+      content: "/goal Sürüm derlemesinin neden başarısız olduğunu bul, temel nedeni düzelt ve derlemenin geçtiğini doğrula.",
     },
   ]}
 />
@@ -95,7 +95,7 @@ Başka bir istem olmadan devam etmesi gereken sıralı işler için hedefleri ku
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Update the feature implementation, add docs, run tests, and summarize the changed files.",
+      content: "/goal Özellik uygulamasını güncelle, dokümantasyon ekle, testleri çalıştır ve değişen dosyaları özetle.",
     },
   ]}
 />
@@ -113,7 +113,7 @@ Geniş konular veya açık uçlu tartışmalar için hedefleri kullanmayın.
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Greetings!",
+      content: "/goal Merhaba!",
     },
   ]}
 />
@@ -131,7 +131,7 @@ Ajanlar, hedef olmayan girdiler için hedefi anında tamamlanmış olarak işare
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Prove 1 + 1 = 3.",
+      content: "/goal 1 + 1 = 3 olduğunu kanıtla.",
     },
   ]}
 />
@@ -149,7 +149,7 @@ Muğlak veya karmaşık amaçlarla hedefleri kullanmayın.
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Create a videogame in a single HTML file.",
+      content: "/goal Tek bir HTML dosyasında bir video oyunu oluştur.",
     },
   ]}
 />
@@ -189,7 +189,7 @@ Hazır daha fazla işiniz olduğunda ancak mevcut hedefi kesmek istemediğinizde
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal next Update the release notes after the tests pass",
+      content: "/goal next Testler geçtikten sonra sürüm notlarını güncelle",
     },
   ]}
 />
@@ -227,7 +227,7 @@ Etkileşimsiz istem modunda yalnızca hedef oluşturma desteklenir:
     {
       name: "command.sh",
       language: "bash",
-      content: "kimi -p \"/goal Fix the failing checkout test\"",
+      content: "kimi -p \"/goal Başarısız olan checkout testini düzelt\"",
     },
   ]}
 />

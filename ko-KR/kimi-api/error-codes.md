@@ -33,6 +33,6 @@ Kimi API 호출 시 자주 발생하는 오류 코드와 해결 방법입니다.
 <Callout type="tip">
 1. **전체 오류 메시지 확인**: 응답 JSON의 `error.message`에 자세한 설명이 포함되어 있습니다.
 2. **request_id 기록**: 지원팀이 문제를 빠르게 찾는 데 도움이 됩니다.
-3. **공식 문서 참조**: 호출이 [platform.moonshot.ai](https://platform.moonshot.ai)의 문서와 일치하는지 확인하세요.
+3. **공식 문서 참조**: 호출이 [platform.kimi.ai](https://platform.kimi.ai)의 문서와 일치하는지 확인하세요.
 4. **재시도 로직 구현**: 429 및 500 오류에는 지수 백오프를 사용하세요.
 </Callout>

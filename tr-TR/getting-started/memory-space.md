@@ -1,5 +1,5 @@
 ---
-title: "Memory Space"
+title: "Bellek Alanı"
 slug: "memory-space"
 order: 6
 extract_headings: false
@@ -7,11 +7,11 @@ preview: false
 ---
 
 <SeoMeta
-  title="Memory Space - Kimi Yardım Merkezi"
+  title="Bellek Alanı - Kimi Yardım Merkezi"
   description="Kimi gerçekten dinlemeyi öğrendi — onunla ne kadar çok konuşursanız sizi o kadar iyi anlıyor. İşte nasıl çalıştığı:"
 />
 
-# Memory Space
+# Bellek Alanı
 
 ## Bellek nedir?
 Kimi gerçekten dinlemeyi öğrendi — onunla ne kadar çok konuşursanız sizi o kadar iyi anlıyor. İşte nasıl çalıştığı:
@@ -51,7 +51,7 @@ Not: Bellek tamamen sizin denetiminizdedir. Model eğitiminde kullanılmaz, dile
 **(2) Ayarlar üzerinden yönetim (Arayüz)**
 
 Belleği ayarlar arayüzü üzerinden de yönetebilirsiniz:
-- Web / Mobil: Ayarlar → Kişiselleştirme → Memory Space
+- Web / Mobil: Ayarlar → Kişiselleştirme → Bellek Alanı
 - Burada kaydedilen tüm bellek kayıtlarını görüntüleyebilirsiniz
 - Artık ihtiyaç duymadığınız her belleği elle silebilirsiniz
 
@@ -74,10 +74,10 @@ Kimi'nin özellikle hatırlamasını istediğiniz bir şey varsa, bunu vurgulay�
 - "…bunu unutma"
 
 ### Bellekleri güncelleme
-Tekil bellek kayıtlarını düzenlemek için Profil → Ayarlar → Kişiselleştirme → Memory Space yolunu izleyin.
+Tekil bellek kayıtlarını düzenlemek için Profil → Ayarlar → Kişiselleştirme → Bellek Alanı yolunu izleyin.
 
 ### Bellekleri silme (unutturma)
-Profil → Ayarlar → Kişiselleştirme → Memory Space yolunu izleyin ve tekil kayıtların yanındaki sil düğmesine tıklayın.
+Profil → Ayarlar → Kişiselleştirme → Bellek Alanı yolunu izleyin ve tekil kayıtların yanındaki sil düğmesine tıklayın.
 
 <Frames
   src="./images/memory-space/screenshot-19.png"

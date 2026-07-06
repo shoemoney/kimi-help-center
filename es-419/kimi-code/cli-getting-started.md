@@ -240,7 +240,7 @@ Una vez que hayas iniciado sesión, describe una tarea en lenguaje natural. Un b
     {
       name: "prompt.txt",
       language: "text",
-      content: "Take a look at this project's directory structure and briefly describe what each directory is for.",
+      content: "Revisa la estructura de directorios de este proyecto y describe brevemente para qué sirve cada directorio.",
     },
   ]}
 />
@@ -254,7 +254,7 @@ También puedes describir una tarea más concreta directamente:
     {
       name: "prompt.txt",
       language: "text",
-      content: "Add a function in src/utils that converts any string to kebab-case, and add a unit test for it.",
+      content: "Agrega una función en src/utils que convierta cualquier cadena a kebab-case, y agrega una prueba unitaria para ella.",
     },
   ]}
 />
@@ -302,7 +302,7 @@ Primero, confirma que tu clave y tu Base URL pertenezcan a la misma plataforma. 
 | Plataforma | Base URL | Facturación | Creación de la clave |
 |------|---------|---------|-------------|
 | **Kimi Code** | Compatible con OpenAI: `https://api.kimi.com/coding/v1`<br> Compatible con Anthropic: `https://api.kimi.com/coding/` | Suscripción de membresía de Kimi (incluye créditos) | [Consola de Kimi Code](https://www.kimi.com/code/console) |
-| **Kimi Open Platform** | `https://api.moonshot.cn/v1` | Pago por uso | [Kimi Open Platform](https://platform.kimi.com) |
+| **Plataforma abierta de Kimi** | `https://api.moonshot.cn/v1` | Pago por uso | [Plataforma abierta de Kimi](https://platform.kimi.com) |
 
 **El comando `kimi` no se encuentra después de la instalación.**
 

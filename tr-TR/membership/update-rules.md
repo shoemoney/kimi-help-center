@@ -57,7 +57,9 @@ Birden fazla kredi türü olduğunda, bunlar şu sırayla tüketilir:
 ## Krediler bittiğinde
 - Halihazırda devam eden görevler normal şekilde tamamlanır
 - Yeni görevler "yetersiz kredi" uyarısı gösterir
+
 **Seçenekleriniz**:
+
 - Bir sonraki faturalandırma döngüsünde kredilerinizin yenilenmesini bekleyin
 - Daha büyük bir aylık tahsisat için daha üst katman bir plana yükseltin
 ## Krediler tam olarak nasıl yenilenir?

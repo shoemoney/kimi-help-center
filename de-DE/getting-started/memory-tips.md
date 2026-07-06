@@ -80,7 +80,7 @@ preview: false
 />
 
 ## Memory-Limits
-Memory Space hat derzeit folgende Limits:
+Erinnerungsbereich hat derzeit folgende Limits:
 - Es können bis zu 50 Memory-Einträge gespeichert werden.
 - Jeder Memory-Eintrag ist auf 500 Zeichen begrenzt.
 - Vor April 2026 erstellte Memorys können dieses Limit überschreiten; solche bestehenden Memorys bleiben weiterhin erhalten.

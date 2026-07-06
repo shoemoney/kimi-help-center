@@ -25,7 +25,7 @@ Có. Kimi API cung cấp JSON Mode, giúp giới hạn đầu ra của mô hình
 
 ## Có hỗ trợ tinh chỉnh mô hình không?
 
-Kimi API **hiện chưa hỗ trợ** việc tinh chỉnh mô hình do người dùng khởi tạo. Nếu cần mô hình tùy chỉnh, hãy liên hệ đội ngũ bán hàng qua [platform.moonshot.ai/contact-sales](https://www.platform.moonshot.ai/contact-sales) để tìm hiểu về các lựa chọn tùy chỉnh dành cho doanh nghiệp.
+Kimi API **hiện chưa hỗ trợ** việc tinh chỉnh mô hình do người dùng khởi tạo. Nếu cần mô hình tùy chỉnh, hãy liên hệ đội ngũ bán hàng qua [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) để tìm hiểu về các lựa chọn tùy chỉnh dành cho doanh nghiệp.
 
 ## Có hỗ trợ OCR không?
 

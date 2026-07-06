@@ -91,7 +91,7 @@ preview: false
 
 ## รองรับการติดตั้งแบบ on-premises หรือไม่?
 
-ปัจจุบัน Kimi API ให้บริการ API บนคลาวด์เท่านั้น และ **ไม่รองรับการติดตั้งแบบ on-premises ส่วนตัว** สำหรับความต้องการการติดตั้งแบบส่วนตัว โปรดติดต่อทีมขายผ่าน [platform.moonshot.ai/contact-sales](https://platform.moonshot.ai/contact-sales)
+ปัจจุบัน Kimi API ให้บริการ API บนคลาวด์เท่านั้น และ **ไม่รองรับการติดตั้งแบบ on-premises ส่วนตัว** สำหรับความต้องการการติดตั้งแบบส่วนตัว โปรดติดต่อทีมขายผ่าน [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales)
 
 ## ฉันสามารถเรียกใช้ Kimi API จากนอกประเทศจีนได้หรือไม่?
 

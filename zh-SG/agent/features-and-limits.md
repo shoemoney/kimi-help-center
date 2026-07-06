@@ -55,8 +55,9 @@ Agent 可以生成全栈内容，包括前端界面、后端服务和持久化�
 
 <Callout type="warning">
 **额度使用**：Agent 任务会消耗共享池（其他会员功能）的额度。Kimi Code 使用单独的额度池。每个 Agent 任务通常消耗 1 个额度单位。不同会员等级的详细额度信息，请参阅[额度与计费](/agent/quota-and-billing)。
-免费等级：每月 6 个 Agent 任务
-付费等级：每月 60–720 个 Agent 任务，具体取决于你的套餐
+
+- 免费等级：每月 6 个 Agent 任务
+- 付费等级：每月 60–720 个 Agent 任务，具体取决于你的套餐
 </Callout>
 
 - **执行时间**：在 Agent 模式下，单个任务通常需要 5–20 分钟。K2.6 Agent Swarm [Beta] 任务可能需要更长时间。你可以离开页面，但不要点击“停止”来中断任务。
@@ -64,7 +65,7 @@ Agent 可以生成全栈内容，包括前端界面、后端服务和持久化�
 - **简单任务**：对于简单问答，建议使用标准聊天模式，以获得更快的响应。
 
 <Callout type="warning">
-**内容合规**：Agent 功能受 [《Kimi 用户协议》](https://www.kimi.com/user/agreement/modelUse?version=v2) 约束。不支持生成违规内容；提交违规内容可能导致服务暂停。
+**内容合规**：Agent 功能受 [《Kimi 用户服务协议》](https://www.kimi.com/user/agreement/modelUse?version=v2) 约束。不支持生成违规内容；提交违规内容可能导致服务暂停。
 </Callout>
 
 ## 常见问题

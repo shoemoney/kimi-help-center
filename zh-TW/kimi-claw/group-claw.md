@@ -265,7 +265,7 @@ Kimi Conductor 會將關鍵結果送到主聊天。若要查看 Claw 在過程�
 
 ### 在群組聊天中 @ 某個 Claw 卻沒有回應，該怎麼辦？
 
-請先在私人聊天中確認該 Claw 的狀態。如果它在私人聊天中已斷線，請參考 [Kimi Claw 疑難排解指南](/help/kimi-claw/troubleshooting) 修復。
+請先在私人聊天中確認該 Claw 的狀態。如果它在私人聊天中已斷線，請參考 [Kimi Claw 疑難排解指南](/kimi-claw/troubleshooting) 修復。
 
 如果私人聊天能正常回應，你可以請 Kimi 診斷群組工作階段：
 

@@ -66,8 +66,16 @@ Not: Alıcı hesap numarası yalnızca bu havale içindir ve saklanması gerekme
 Kimi uygulaması şu anda Kimi Business kurumsal özelliklerini desteklememekte ve yalnızca bireysel üyelikleri desteklemektedir. Masaüstü istemcisi artık Kimi Business'ı desteklemektedir. Kullanmak için:
 
 1. Kimi masaüstü istemcisini açın ve kurumsal kuruluşunuza katılmış bir hesapla oturum açın.
-2. Avatara / çalışma alanı girişine tıklayın ve kurumsal çalışma alanına geçin.
-3. Geçiş yaptıktan sonra masaüstü istemcisinde Kimi Business kurumsal avantajlarını kullanabilirsiniz.
+2. Sol üst köşeden Sohbet moduna geçin.
+3. Avatara / çalışma alanı girişine tıklayın ve kurumsal çalışma alanına geçin.
+4. Geçiş yaptıktan sonra masaüstü istemcisinde Kimi Business kurumsal avantajlarını kullanabilirsiniz.
+
+<Frames
+  src="./images/faq/desktop-workspace-switch-en.png"
+  alt="Kimi masaüstü istemcisinde kurumsal çalışma alanına geçiş"
+  width={3024}
+  height={1832}
+/>
 
 Bireysel ve kurumsal üyelikler birbirinden bağımsızdır. Halihazırda bir bireysel üyeliğe abone olduysanız uygulamada bireysel üyelik avantajlarını kullanmaya devam edebilirsiniz; masaüstü istemcisinde ise yararlanabileceğiniz avantajlar, seçili olan çalışma alanına göre belirlenir.
 

@@ -30,7 +30,7 @@ Kimi Slides 生成可能会在以下情况下卡住：
 - **任务被取消**：这通常是 Kimi Slides 生成失败导致的。你可以直接开启新的聊天，输入相同的任务指令后重试。
 
 <Callout type="info">
-如需进一步协助，请通过产品内的 👎 反馈渠道联系我们的团队，或发送邮件至 [support@moonshot.cn](mailto:support@moonshot.cn)。
+如需进一步协助，请通过产品内的 👎 反馈渠道联系我们的团队，或发送邮件至 [support@moonshot.ai](mailto:support@moonshot.ai)。
 </Callout>
 
 ## 自适应模式下 Slides 弹出卡片与预览问题
@@ -51,7 +51,7 @@ Kimi Slides 生成可能会在以下情况下卡住：
 - 如果在多个浏览器和设备上 Slides 卡片仍无法出现，请按照下方的 [Bug 反馈指南](#bug-反馈指南) 提交反馈，并开启新的聊天重新生成。
 
 <Callout type="info">
-如果你已确认该问题在多个设备和浏览器上均存在，请发送邮件至 [support@moonshot.cn](mailto:support@moonshot.cn) 进行反馈，并附上对话链接和问题截图。经核实为 bug 后，我们会为你补偿相应额度。
+如果你已确认该问题在多个设备和浏览器上均存在，请发送邮件至 [support@moonshot.ai](mailto:support@moonshot.ai) 进行反馈，并附上对话链接和问题截图。经核实为 bug 后，我们会为你补偿相应额度。
 </Callout>
 
 ### Slides 预览为空白或样式错乱
@@ -80,7 +80,7 @@ Kimi Slides 生成可能会在以下情况下卡住：
 
 ## Bug 反馈指南
 
-如果以上方法仍未解决问题，请通过产品内的 👎 反馈渠道提交反馈，或发送邮件至 [support@moonshot.cn](mailto:support@moonshot.cn)。为了帮助我们更快定位问题，请尽可能提供以下信息：
+如果以上方法仍未解决问题，请通过产品内的 👎 反馈渠道提交反馈，或发送邮件至 [support@moonshot.ai](mailto:support@moonshot.ai)。为了帮助我们更快定位问题，请尽可能提供以下信息：
 
 | 信息类型 | 详情 |
 |------------------|---------|

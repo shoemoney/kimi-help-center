@@ -94,7 +94,7 @@ Kimi Code platformunu kullanıyorsanız, `/usage` komutuyla mevcut kredinizi ve 
 
 ### Fatura nasıl talep edebilirim veya üyeliğimi nasıl yükseltebilirim?
 
-[Kimi Üyelik sayfasını](https://www.kimi.com/membership/pricing?from=kfc_docs_faq#pricing-faq) ziyaret edin ve fatura talebi göndermek ya da planınızı yükseltmek için yönergeleri izleyin.
+[Kimi Üyelik sayfasını](https://www.kimi.com/membership/pricing#pricing-faq) ziyaret edin ve fatura talebi göndermek ya da planınızı yükseltmek için yönergeleri izleyin.
 
 ## Etkileşim sorunları
 

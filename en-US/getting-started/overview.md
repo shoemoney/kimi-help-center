@@ -17,7 +17,7 @@ preview_content: "Explore Kimi's chat modes, AI agents, file handling, and inter
 Kimi is an AI assistant developed by Moonshot AI, with built-in web search, deep thinking, multimodal reasoning, and ultra-long context conversations.
 </Callout>
 
-Visit [Kimi.com](https://www.kimi.com/) or download the Kimi app to start chatting, creating, researching, and building. Developers can head to the [Kimi Open Platform](https://platform.moonshot.ai/) for APIs and tools to integrate Kimi's capabilities into their own applications.
+Visit [Kimi.com](https://www.kimi.com/) or download the Kimi app to start chatting, creating, researching, and building. Developers can head to the [Kimi Open Platform](https://platform.kimi.ai/) for APIs and tools to integrate Kimi's capabilities into their own applications.
 ## Chat modes
 | Mode | Description |
 |------|-------------|
@@ -35,7 +35,7 @@ Kimi is more than a chat assistant — it's an AI agent that can autonomously pl
 |-------|-------------|------|
 | **K2.6 Agent** | Automatically plans and completes tasks, including website generation, slide creation, Deep Research, document and spreadsheet processing | [kimi.com/agent](https://www.kimi.com/agent) |
 | **K2.6 Agent Swarm [Beta]** | Supports up to 4,000 parallel tool calls, coordinating 300+ sub-agents for large-scale search, long-form writing, and batch processing | [kimi.com/agent-swarm](https://www.kimi.com/agent-swarm) |
-| **Kimi Code** | Developer-focused coding assistant suite, including CLI tool and VS Code extension | [kimi.com/code](https://www.kimi.com/code?from=kfc_overview_topbar) |
+| **Kimi Code** | Developer-focused coding assistant suite, including CLI tool and VS Code extension | [kimi.com/code](https://www.kimi.com/code) |
 | **Kimi Claw** | Zero-deployment cloud automation platform — launch a persistent AI agent in under 30 seconds with 5,000+ built-in skills (ClawHub) | [kimi.com/bot](https://www.kimi.com/bot) |
 
 ## Other core features

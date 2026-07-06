@@ -72,12 +72,12 @@ Nếu bạn thấy "No models available for the selected platform" khi chạy `/
 
 **Lưu ý sự khác biệt giữa các nền tảng**
 
-Quyền lợi thành viên của Kimi Code và [Kimi Open Platform](https://platform.kimi.com) có Base URL khác nhau. Vui lòng đảm bảo Base URL khớp với API Key khi cấu hình.
+Quyền lợi thành viên của Kimi Code và [Nền tảng Mở Kimi](https://platform.kimi.com) có Base URL khác nhau. Vui lòng đảm bảo Base URL khớp với API Key khi cấu hình.
 
 | Nền tảng | Base URL | Thanh toán | Tạo key |
 |------|---------|---------|-------------|
 | **Kimi Code** | Tương thích Anthropic: `https://api.kimi.com/coding/` | Đăng ký thành viên Kimi (bao gồm tín dụng) | [Kimi Code Console](https://www.kimi.com/code/console) |
-| **Kimi Open Platform** | `https://api.moonshot.cn/v1` | Trả theo mức dùng | [Kimi Open Platform](https://platform.kimi.com) |
+| **Nền tảng Mở Kimi** | `https://api.moonshot.cn/v1` | Trả theo mức dùng | [Nền tảng Mở Kimi](https://platform.kimi.com) |
 
 ### API key không hợp lệ
 
@@ -94,7 +94,7 @@ Nếu bạn đang dùng nền tảng Kimi Code, bạn có thể kiểm tra tín 
 
 ### Làm thế nào để yêu cầu hóa đơn hoặc nâng cấp thành viên?
 
-Truy cập [trang Thành viên Kimi](https://www.kimi.com/membership/pricing?from=kfc_docs_faq#pricing-faq) và làm theo hướng dẫn để gửi yêu cầu hóa đơn hoặc nâng cấp gói của bạn.
+Truy cập [trang Thành viên Kimi](https://www.kimi.com/membership/pricing#pricing-faq) và làm theo hướng dẫn để gửi yêu cầu hóa đơn hoặc nâng cấp gói của bạn.
 
 ## Vấn đề tương tác
 

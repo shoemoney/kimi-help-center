@@ -20,7 +20,7 @@ Platform Kimi API menyediakan kemampuan model bahasa besar yang andal bagi para 
 
 Kimi API ditenagai oleh model bahasa besar buatan Moonshot sendiri, dengan kemampuan inti seperti pembuatan teks, percakapan multi-giliran, penguraian berkas, pencarian web, dan lainnya. Platform ini kompatibel dengan format OpenAI API, sehingga pengembang dapat bermigrasi dan berintegrasi dengan sangat mudah.
 
-**URL platform**: [platform.moonshot.ai](https://www.platform.moonshot.ai)
+**URL platform**: [platform.kimi.ai](https://platform.kimi.ai)
 
 ## Untuk siapa platform ini
 
@@ -37,7 +37,7 @@ Kimi API ditenagai oleh model bahasa besar buatan Moonshot sendiri, dengan kemam
 
 ## Mulai cepat
 
-1. Kunjungi [platform.moonshot.ai](https://platform.moonshot.ai) untuk mendaftarkan akun pengembang.
+1. Kunjungi [platform.kimi.ai](https://platform.kimi.ai) untuk mendaftarkan akun pengembang.
 2. Buat API Key di konsol.
 3. Lihat dokumentasi API untuk melakukan panggilan pertama Anda.
 4. Pilih model dan parameter yang sesuai dengan kasus penggunaan Anda.

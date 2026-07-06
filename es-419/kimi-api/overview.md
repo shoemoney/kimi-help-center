@@ -20,7 +20,7 @@ La plataforma de Kimi API ofrece a los desarrolladores potentes capacidades de m
 
 La Kimi API funciona con los modelos de lenguaje propios de Moonshot y ofrece generación de texto, conversaciones de múltiples turnos, análisis de archivos, búsqueda web y otras capacidades fundamentales. La plataforma es compatible con el formato de la API de OpenAI, lo que permite a los desarrolladores migrar e integrar con un esfuerzo mínimo.
 
-**URL de la plataforma**: [platform.moonshot.ai](https://www.platform.moonshot.ai)
+**URL de la plataforma**: [platform.kimi.ai](https://platform.kimi.ai)
 
 ## Público objetivo
 
@@ -37,7 +37,7 @@ La Kimi API funciona con los modelos de lenguaje propios de Moonshot y ofrece ge
 
 ## Inicio rápido
 
-1. Visita [platform.moonshot.ai](https://platform.moonshot.ai) para registrar una cuenta de desarrollador.
+1. Visita [platform.kimi.ai](https://platform.kimi.ai) para registrar una cuenta de desarrollador.
 2. Crea una API Key en la consola.
 3. Consulta la documentación de la API para realizar tu primera llamada.
 4. Elige el modelo y los parámetros adecuados para tu caso de uso.

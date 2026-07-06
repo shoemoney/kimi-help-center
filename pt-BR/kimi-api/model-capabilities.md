@@ -25,7 +25,7 @@ Sim. A Kimi API oferece o modo JSON, que restringe a saída do modelo a um JSON 
 
 ## A Kimi API oferece suporte ao ajuste fino de modelos?
 
-A Kimi API **atualmente não oferece suporte** ao ajuste fino de modelos iniciado pelo usuário. Para necessidades de modelos personalizados, entre em contato com a equipe de vendas em [platform.moonshot.ai/contact-sales](https://www.platform.moonshot.ai/contact-sales) e conheça as opções de personalização para empresas.
+A Kimi API **atualmente não oferece suporte** ao ajuste fino de modelos iniciado pelo usuário. Para necessidades de modelos personalizados, entre em contato com a equipe de vendas em [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) e conheça as opções de personalização para empresas.
 
 ## A Kimi API oferece suporte a OCR?
 
@@ -36,6 +36,6 @@ Os modelos Vision da Kimi API têm capacidade de compreensão de imagens e podem
 - Cada imagem é cobrada a uma taxa fixa de 1.024 tokens.
 - Além do reconhecimento de texto simples, os modelos também interpretam tabelas, gráficos e outros conteúdos estruturados dentro das imagens.
 
-## A Kimi API oferece suporte a TTS (texto para fala) e ASR (reconhecimento de fala)?
+## A Kimi API oferece suporte a TTS (texto para voz) e ASR (reconhecimento de fala)?
 
 A Kimi API **atualmente não oferece suporte** a TTS ou ASR. Para capacidades relacionadas a fala, considere combinar um serviço de voz de terceiros com a Kimi API. Acompanhe os comunicados da plataforma para conhecer as próximas atualizações de recursos.

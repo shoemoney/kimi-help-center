@@ -265,7 +265,7 @@ Kimi Conductor 会将关键结果发送到主聊天。若要查看 Claw 在过�
 
 ### 在群聊中 @ 某个 Claw 后没有响应，怎么办？
 
-请先在私聊中确认该 Claw 的状态。如果它在私聊中也已断开，请参考 [Kimi Claw 故障排查指南](/help/kimi-claw/troubleshooting) 进行修复。
+请先在私聊中确认该 Claw 的状态。如果它在私聊中也已断开，请参考 [Kimi Claw 故障排查指南](/kimi-claw/troubleshooting) 进行修复。
 
 如果私聊响应正常，可以让 Kimi 诊断群聊会话：
 

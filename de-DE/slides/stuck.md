@@ -30,7 +30,7 @@ Die Erstellung von Kimi Slides kann in folgenden Situationen hängen bleiben:
 - **Aufgabe abgebrochen**: Dies wird meist durch einen Fehler bei der Erstellung von Kimi Slides verursacht. Starten Sie einfach einen neuen Chat und geben Sie dieselben Aufgabenanweisungen erneut ein.
 
 <Callout type="info">
-Wenn Sie weitere Hilfe benötigen, wenden Sie sich bitte über den 👎-Feedback-Kanal im Produkt an unser Team oder senden Sie eine E-Mail an [support@moonshot.cn](mailto:support@moonshot.cn).
+Wenn Sie weitere Hilfe benötigen, wenden Sie sich bitte über den 👎-Feedback-Kanal im Produkt an unser Team oder senden Sie eine E-Mail an [support@moonshot.ai](mailto:support@moonshot.ai).
 </Callout>
 
 ## Pop-up-Karten und Vorschauprobleme bei Slides im adaptiven Modus
@@ -51,7 +51,7 @@ Wenn sich die Bearbeitungsseite durch Klicken auf die Slides-Karte nicht öffnen
 - Wenn die Slides-Karte über mehrere Browser und Geräte hinweg weiterhin nicht erscheint, folgen Sie bitte den [Richtlinien zur Fehlermeldung](#richtlinien-zur-fehlermeldung) weiter unten, um Feedback zu senden, und starten Sie einen neuen Chat, um die Erstellung zu wiederholen.
 
 <Callout type="info">
-Wenn Sie bestätigt haben, dass das Problem über mehrere Geräte und Browser hinweg weiterhin besteht, senden Sie bitte eine E-Mail an [support@moonshot.cn](mailto:support@moonshot.cn), um es zu melden, und fügen Sie den Link zur Unterhaltung sowie einen Screenshot des Problems bei. Sobald der Fehler bestätigt ist, erstatten wir Ihnen die entsprechenden credits.
+Wenn Sie bestätigt haben, dass das Problem über mehrere Geräte und Browser hinweg weiterhin besteht, senden Sie bitte eine E-Mail an [support@moonshot.ai](mailto:support@moonshot.ai), um es zu melden, und fügen Sie den Link zur Unterhaltung sowie einen Screenshot des Problems bei. Sobald der Fehler bestätigt ist, erstatten wir Ihnen die entsprechenden credits.
 </Callout>
 
 ### Slides-Vorschau ist leer oder die Darstellung ist fehlerhaft
@@ -80,7 +80,7 @@ Einige ältere Versionen von Office-Software sind möglicherweise nicht kompatib
 
 ## Richtlinien zur Fehlermeldung
 
-Wenn die oben genannten Methoden das Problem nicht lösen, senden Sie bitte Feedback über den 👎-Feedback-Kanal im Produkt oder schreiben Sie eine E-Mail an [support@moonshot.cn](mailto:support@moonshot.cn). Damit wir das Problem schneller eingrenzen können, geben Sie bitte möglichst die folgenden Informationen an:
+Wenn die oben genannten Methoden das Problem nicht lösen, senden Sie bitte Feedback über den 👎-Feedback-Kanal im Produkt oder schreiben Sie eine E-Mail an [support@moonshot.ai](mailto:support@moonshot.ai). Damit wir das Problem schneller eingrenzen können, geben Sie bitte möglichst die folgenden Informationen an:
 
 | Informationstyp | Details |
 |------------------|---------|

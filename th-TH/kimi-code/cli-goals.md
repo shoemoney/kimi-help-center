@@ -25,7 +25,7 @@ preview_content: "ใช้เป้าหมายเพื่อให้ Kimi
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Fix bugs listed in the issue tracker.",
+      content: "/goal แก้ไขบั๊กที่แสดงอยู่ใน issue tracker",
     },
   ]}
 />
@@ -39,7 +39,7 @@ Kimi Code จะบันทึกวัตถุประสงค์ ส่ง
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Fix every bug labeled checkout-regression, add or update tests for each fix, and run the checkout test suite",
+      content: "/goal แก้ไขบั๊กทุกตัวที่มีป้ายกำกับ checkout-regression เพิ่มหรืออัปเดตเทสต์สำหรับการแก้ไขแต่ละครั้ง แล้วรันชุดเทสต์ของ checkout",
     },
   ]}
 />
@@ -51,7 +51,7 @@ Kimi Code จะบันทึกวัตถุประสงค์ ส่ง
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Find all bugs in this codebase.",
+      content: "/goal ค้นหาบั๊กทั้งหมดในโค้ดเบสนี้",
     },
   ]}
 />
@@ -67,7 +67,7 @@ Kimi Code จะบันทึกวัตถุประสงค์ ส่ง
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Fix every failing checkout test and run the checkout test suite successfully.",
+      content: "/goal แก้ไขเทสต์ของ checkout ที่ล้มเหลวทุกตัว และรันชุดเทสต์ของ checkout ให้สำเร็จ",
     },
   ]}
 />
@@ -81,7 +81,7 @@ Kimi Code สามารถตรวจสอบผลลัพธ์ของ�
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Find why the release build fails, fix the root cause, and verify the build passes.",
+      content: "/goal ค้นหาสาเหตุที่ release build ล้มเหลว แก้ไขต้นตอที่แท้จริง และตรวจสอบว่าบิลด์ผ่าน",
     },
   ]}
 />
@@ -95,7 +95,7 @@ Kimi Code สามารถตรวจสอบผลลัพธ์ของ�
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Update the feature implementation, add docs, run tests, and summarize the changed files.",
+      content: "/goal อัปเดตการพัฒนาฟีเจอร์ เพิ่มเอกสาร รันเทสต์ และสรุปไฟล์ที่มีการเปลี่ยนแปลง",
     },
   ]}
 />
@@ -113,7 +113,7 @@ Kimi Code สามารถตรวจสอบผลลัพธ์ของ�
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Greetings!",
+      content: "/goal สวัสดี!",
     },
   ]}
 />
@@ -131,7 +131,7 @@ Kimi Code สามารถตรวจสอบผลลัพธ์ของ�
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Prove 1 + 1 = 3.",
+      content: "/goal พิสูจน์ว่า 1 + 1 = 3",
     },
   ]}
 />
@@ -149,7 +149,7 @@ Kimi Code สามารถตรวจสอบผลลัพธ์ของ�
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Create a videogame in a single HTML file.",
+      content: "/goal สร้างวิดีโอเกมด้วยไฟล์ HTML เพียงไฟล์เดียว",
     },
   ]}
 />
@@ -189,7 +189,7 @@ Kimi Code สามารถตรวจสอบผลลัพธ์ของ�
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal next Update the release notes after the tests pass",
+      content: "/goal next อัปเดต release notes หลังจากเทสต์ผ่าน",
     },
   ]}
 />
@@ -227,7 +227,7 @@ Kimi Code สามารถตรวจสอบผลลัพธ์ของ�
     {
       name: "command.sh",
       language: "bash",
-      content: "kimi -p \"/goal Fix the failing checkout test\"",
+      content: "kimi -p \"/goal แก้ไขเทสต์ของ checkout ที่ล้มเหลว\"",
     },
   ]}
 />

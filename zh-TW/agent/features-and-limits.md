@@ -55,8 +55,9 @@ Agent 可以生成全端內容，包括前端介面、後端服務，以及持�
 
 <Callout type="warning">
 **額度 使用量**：Agent 任務會消耗共用池中的額度（其他會員功能亦使用此池）。Kimi Code 使用獨立的額度池。每個 Agent 任務通常消耗 1 個額度 單位。各會員方案的詳細額度 資訊，請參閱 [額度 與帳單](/agent/quota-and-billing)。
-免費方案：每月 6 個 Agent 任務
-付費方案：依方案不同，每月 60–720 個 Agent 任務
+
+- 免費方案：每月 6 個 Agent 任務
+- 付費方案：依方案不同，每月 60–720 個 Agent 任務
 </Callout>
 
 - **執行時間**：在 Agent 模式中，單一任務通常需要 5–20 分鐘。K2.6 Agent Swarm [Beta] 任務可能需要更長時間。你可以離開頁面，但請不要點擊停止而中斷任務。
@@ -64,7 +65,7 @@ Agent 可以生成全端內容，包括前端介面、後端服務，以及持�
 - **簡單任務**：若只是簡單問答，建議使用標準聊天模式，以獲得更快回應。
 
 <Callout type="warning">
-**內容合規**：Agent 功能須遵守 [Kimi 使用者協議](https://www.kimi.com/user/agreement/modelUse?version=v2)。不支援生成禁止內容；提交禁止內容可能導致服務暫停。
+**內容合規**：Agent 功能須遵守 [Kimi 使用者服務協議](https://www.kimi.com/user/agreement/modelUse?version=v2)。不支援生成禁止內容；提交禁止內容可能導致服務暫停。
 </Callout>
 
 ## 常見問題

@@ -56,7 +56,7 @@ Dùng ký hiệu `@` trong câu nhập để tham chiếu đến đường dẫn
     {
       name: "prompt.txt",
       language: "text",
-      content: "Check @src/utils/auth.ts for any security vulnerabilities",
+      content: "Kiểm tra @src/utils/auth.ts xem có lỗ hổng bảo mật nào không",
     },
   ]}
 />

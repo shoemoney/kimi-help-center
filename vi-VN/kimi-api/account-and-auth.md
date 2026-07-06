@@ -21,7 +21,7 @@ Các câu hỏi thường gặp về tài khoản nhà phát triển Kimi API, v
 Tài khoản cá nhân **không thể trực tiếp nhận hóa đơn doanh nghiệp**. Nếu cần hóa đơn doanh nghiệp, trước tiên hãy nâng cấp tài khoản của bạn thành tài khoản tổ chức. Sau khi được xác minh, bạn có thể yêu cầu xuất hóa đơn dưới tên tổ chức của mình.
 
 ## Làm thế nào để nâng cấp từ tài khoản cá nhân lên tài khoản tổ chức?
-1. Đăng nhập vào bảng điều khiển [platform.moonshot.ai](https://platform.moonshot.ai).
+1. Đăng nhập vào bảng điều khiển [platform.kimi.ai](https://platform.kimi.ai).
 2. Vào **Account Settings → Verification**.
 3. Chọn **Organization Verification** và điền các thông tin cần thiết.
 4. Gửi để xét duyệt — sau khi được phê duyệt, tài khoản của bạn sẽ tự động được chuyển đổi.

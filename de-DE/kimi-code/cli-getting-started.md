@@ -240,7 +240,7 @@ Nach der Anmeldung beschreiben Sie eine Aufgabe in natürlicher Sprache. Ein gut
     {
       name: "prompt.txt",
       language: "text",
-      content: "Take a look at this project's directory structure and briefly describe what each directory is for.",
+      content: "Wirf einen Blick auf die Verzeichnisstruktur dieses Projekts und beschreibe kurz, wofür jedes Verzeichnis da ist.",
     },
   ]}
 />
@@ -254,7 +254,7 @@ Sie können auch direkt eine konkretere Aufgabe beschreiben:
     {
       name: "prompt.txt",
       language: "text",
-      content: "Add a function in src/utils that converts any string to kebab-case, and add a unit test for it.",
+      content: "Füge in src/utils eine Funktion hinzu, die einen beliebigen String in kebab-case umwandelt, und schreibe einen Unit-Test dafür.",
     },
   ]}
 />
@@ -302,7 +302,7 @@ Vergewissern Sie sich zunächst, dass Ihr Schlüssel und die Base-URL zur selben
 | Plattform | Base-URL | Abrechnung | Schlüsselerstellung |
 |------|---------|---------|-------------|
 | **Kimi Code** | OpenAI-kompatibel: `https://api.kimi.com/coding/v1`<br> Anthropic-kompatibel: `https://api.kimi.com/coding/` | Kimi-Mitgliedschaftsabonnement (inklusive Credits) | [Kimi Code Console](https://www.kimi.com/code/console) |
-| **Kimi Open Platform** | `https://api.moonshot.cn/v1` | Nutzungsbasierte Abrechnung | [Kimi Open Platform](https://platform.kimi.com) |
+| **Kimi Offene Plattform** | `https://api.moonshot.cn/v1` | Nutzungsbasierte Abrechnung | [Kimi Offene Plattform](https://platform.kimi.com) |
 
 **Der Befehl `kimi` wird nach der Installation nicht gefunden.**
 

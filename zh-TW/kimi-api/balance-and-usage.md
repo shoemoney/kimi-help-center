@@ -17,7 +17,7 @@ Kimi API 提供多種方式查看帳戶餘額與用量明細，協助你掌握�
 
 ## 控制台儀表板
 
-登入 [platform.moonshot.ai](https://platform.moonshot.ai)，前往控制台中的 **fee-detail**（帳單明細）頁面，即可查看：
+登入 [platform.kimi.ai](https://platform.kimi.ai)，前往控制台中的 **fee-detail**（帳單明細）頁面，即可查看：
 
 - 目前帳戶餘額
 - 每日用量明細

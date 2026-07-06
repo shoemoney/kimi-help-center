@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Concepts fondamentaux et terminal - Centre d'aide Kimi"
-  description="Comprenez les concepts clés de Kimi Claw — Memory, Skills, HEARTBEAT, Identity, Soul, Tools et User — ainsi que les commandes du terminal pour vérifier la passerelle, l'état du bot, les skills et les tâches planifiées."
+  description="Comprenez les concepts clés de Kimi Claw — Memory, Skills, HEARTBEAT, Identity, Soul, Tools et User — ainsi que les commandes du terminal pour vérifier le gateway, l'état du bot, les skills et les tâches planifiées."
 />
 
 # Concepts fondamentaux et terminal
@@ -36,7 +36,7 @@ Vous pouvez ouvrir une interface en ligne de commande via **Settings → Termina
 
 Sinon, indiquez simplement à Kimi Claw la commande à lancer en langage courant — il l'exécutera pour vous.
 
-> Remarque : le Terminal et les plugins partagent le même canal de connexion. Redémarrer la passerelle OpenClaw déconnecte le Terminal.
+> Remarque : le Terminal et les plugins partagent le même canal de connexion. Redémarrer le gateway OpenClaw déconnecte le Terminal.
 
 ## Référence des commandes
 

@@ -41,7 +41,7 @@ Tham khảo tài liệu chính thức để biết chi tiết về giá Context 
 
 Để xem bảng giá đầy đủ theo mô hình và các quy tắc tính phí:
 
-Bạn có thể truy cập [platform.moonshot.ai/docs/pricing/chat](https://www.platform.moonshot.ai/docs/pricing/chat)
+Bạn có thể truy cập [platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat)
 
 ## Mẹo tối ưu chi phí
 

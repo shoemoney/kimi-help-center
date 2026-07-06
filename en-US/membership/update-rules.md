@@ -57,7 +57,9 @@ When multiple credit types exist, they are consumed in this order:
 ## When credits run out
 - Any task already in progress will finish normally
 - New tasks will show an "insufficient credits" prompt
+
 **Your options**:
+
 - Wait for your credits to refresh at the next billing cycle
 - Upgrade to a higher-tier plan for a larger monthly allowance
 ## How exactly do credits refresh?

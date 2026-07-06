@@ -22,7 +22,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "Sono [nome/soprannome], attualmente residente a [città]. Ho una formazione in [professione/ruolo], con competenze in [area 1] e [area 2].\nAttualmente mi concentro su: portare avanti [Progetto A] e [Progetto B].\nUsa l'italiano come lingua predefinita per tutte le risposte future, a meno che non scriva esplicitamente in un'altra lingua.",
+      content: "Sono [nome/soprannome], attualmente residente a [città]. Ho una formazione in [professione/ruolo], con competenze in [ambito 1] e [ambito 2].\nAttualmente mi concentro su: portare avanti [Progetto A] e [Progetto B].\nUsa l'italiano come lingua predefinita per tutte le risposte future, a meno che non scriva esplicitamente in un'altra lingua.",
     },
   ]}
 />
@@ -80,7 +80,7 @@ preview: false
 />
 
 ## Limiti della memoria
-Lo Memory Space presenta attualmente i seguenti limiti:
+Lo Spazio di memoria presenta attualmente i seguenti limiti:
 - È possibile memorizzare fino a 50 voci di memoria.
 - Ogni voce di memoria è limitata a 500 caratteri.
 - Le memorie create prima di aprile 2026 possono superare questo limite; tali memorie esistenti vengono comunque conservate.

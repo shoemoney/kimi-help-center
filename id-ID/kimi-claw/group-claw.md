@@ -265,7 +265,7 @@ Beberapa Claw terhubung ke sumber data dan perangkat yang berbeda, menggunakan g
 
 ### Apa yang harus dilakukan jika @ ke sebuah Claw di group chat tidak direspons?
 
-Pertama, pastikan status Claw tersebut di chat pribadi. Jika di sana terputus, lihat [panduan pemecahan masalah Kimi Claw](/help/kimi-claw/troubleshooting) untuk memperbaikinya.
+Pertama, pastikan status Claw tersebut di chat pribadi. Jika di sana terputus, lihat [panduan pemecahan masalah Kimi Claw](/kimi-claw/troubleshooting) untuk memperbaikinya.
 
 Jika chat pribadi merespons normal, Anda bisa meminta Kimi mendiagnosis sesi grup:
 

@@ -70,9 +70,9 @@ Kimi Claw Android cần các quyền sau để chạy ổn định trong nền. 
 
 | Quyền | Giải thích |
 | --- | --- |
-| Thông báo hệ thống | Hiển thị trạng thái cổng kết nối và nhắc nhở |
+| Thông báo hệ thống | Hiển thị trạng thái gateway và nhắc nhở |
 | Quyền truy cập dung lượng lưu trữ | Cần tối thiểu 5GB dung lượng khả dụng |
-| Quyền chạy nền | Giữ cho cổng kết nối tiếp tục chạy khi chuyển sang nền |
+| Quyền chạy nền | Giữ cho gateway tiếp tục chạy khi chuyển sang nền |
 
 Vì đường dẫn cài đặt khác nhau giữa các thương hiệu điện thoại, dưới đây là các bước chung:
 
@@ -106,7 +106,7 @@ Nếu cài đặt thất bại, bạn có thể nhấn "Cài đặt lại" để
 
 Sau khi hoàn tất cấu hình, vào giao diện chính của Bảng điều khiển, bạn có thể thấy các thông tin sau:
 
-- Trạng thái cổng kết nối OpenClaw — Đang khởi động / Đã kết nối / Đã dừng, và Thời gian hoạt động
+- Trạng thái gateway OpenClaw — Đang khởi động / Đã kết nối / Đã dừng, và Thời gian hoạt động
 - Kênh trò chuyện — Danh sách các kênh giao tiếp đang kết nối
 - Nhật ký OpenClaw — Nhật ký gốc về hoạt động của OpenClaw
 - Dùng cuộc trò chuyện Kimi — Mở ứng dụng Kimi, mở giao diện trò chuyện tương ứng với Kimi Claw Android và tự động chuyển sang Claw tương ứng.
@@ -397,9 +397,9 @@ Vì lý do an toàn tài chính và quyền riêng tư, các loại ứng dụng
 | --- | --- |
 | Điều khiển ứng dụng di động từ xa | Sử dụng từ xa các ứng dụng trên điện thoại qua lệnh phần mềm trò chuyện |
 | Giao tiếp đa kênh | Hỗ trợ giao tiếp với Claw qua Kimi, Feishu và WeChat |
-| Xem nhật ký theo thời gian thực | Xem nhật ký hoạt động của cổng kết nối OpenClaw, hỗ trợ tìm kiếm và lọc theo cấp độ |
+| Xem nhật ký theo thời gian thực | Xem nhật ký hoạt động của gateway OpenClaw, hỗ trợ tìm kiếm và lọc theo cấp độ |
 | Sao lưu và khôi phục cấu hình | Sao lưu cấu hình hiện tại, có thể khôi phục sau khi cài đặt lại hoặc đổi thiết bị |
-| Giám sát trạng thái cổng kết nối | Xem theo thời gian thực trạng thái kết nối và thời gian hoạt động của cổng kết nối OpenClaw |
+| Giám sát trạng thái gateway | Xem theo thời gian thực trạng thái kết nối và thời gian hoạt động của gateway OpenClaw |
 | Quản lý kênh | Thêm, xem và xóa các kênh giao tiếp |
 | Bảng điều khiển OpenClaw | Quản lý OpenClaw qua Bảng điều khiển tích hợp |
 
@@ -444,17 +444,17 @@ Dưới đây là phần tham khảo cho Kimi Claw Android.
 
 ### Kết nối và độ ổn định
 
-#### Tại sao trạng thái cổng kết nối luôn hiển thị "Đang khởi động"?
+#### Tại sao trạng thái gateway luôn hiển thị "Đang khởi động"?
 
 - Kiểm tra xem kết nối mạng có bình thường không
 - Xác nhận tất cả các quyền cần thiết (thông báo, tối ưu hóa pin, lưu trữ, tự khởi động) đã được cấp
-- Thử nhấn "Sao lưu và khởi động lại" trong phần cài đặt để khởi động lại dịch vụ cổng kết nối
+- Thử nhấn "Sao lưu và khởi động lại" trong phần cài đặt để khởi động lại dịch vụ gateway
 
-#### Cổng kết nối đột nhiên bị ngắt?
+#### Gateway đột nhiên bị ngắt?
 
 - Kiểm tra xem điện thoại có vào chế độ tiết kiệm pin khiến ứng dụng nền bị dọn không
 - Xác nhận "Bỏ qua tối ưu hóa pin" và "Quyền tự khởi động" đã được cấp đúng
-- Kiểm tra trạng thái cổng kết nối trên Bảng điều khiển. Nếu hiển thị "Đã dừng", nhấn Khởi động lại
+- Kiểm tra trạng thái gateway trên Bảng điều khiển. Nếu hiển thị "Đã dừng", nhấn Khởi động lại
 
 #### Kimi Claw Android có bị ngắt kết nối sau khi khóa màn hình điện thoại không?
 
@@ -486,7 +486,7 @@ Dưới đây là phần tham khảo cho Kimi Claw Android.
 #### Tại sao tôi không thấy Kimi Claw Android trong ứng dụng Kimi?
 
 - Vui lòng xác nhận quy trình Onboarding đã hoàn tất đầy đủ (cấp quyền → cài đặt OpenClaw → cấu hình tài khoản Kimi)
-- Kiểm tra xem trạng thái cổng kết nối trong Bảng điều khiển có phải "Đã kết nối" không
+- Kiểm tra xem trạng thái gateway trong Bảng điều khiển có phải "Đã kết nối" không
 - Thử làm mới danh sách Bot trong ứng dụng Kimi
 
 ### Sử dụng chức năng
@@ -509,7 +509,7 @@ Dưới đây là phần tham khảo cho Kimi Claw Android.
 
 #### Cách xem trạng thái hoạt động của Kimi Claw Android?
 
-- Trên giao diện chính của Bảng điều khiển, bạn có thể xem trạng thái cổng kết nối và thời gian hoạt động
+- Trên giao diện chính của Bảng điều khiển, bạn có thể xem trạng thái gateway và thời gian hoạt động
 - Nhấn "Nhật ký thời gian thực" để xem nhật ký hoạt động chi tiết
 - Thông qua chức năng tìm kiếm và lọc theo cấp độ của nhật ký, bạn có thể nhanh chóng xác định vấn đề
 

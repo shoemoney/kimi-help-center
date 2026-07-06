@@ -19,15 +19,15 @@ OpenClaw reinicia automáticamente la conversación todos los días a las **4:00
 
 Si necesitas ajustar el momento del reinicio, puedes modificar la programación en `config.yaml`.
 
-**Buena práctica:** para todo lo que sea importante —preferencias, detalles de proyectos, instrucciones recurrentes— pídele explícitamente a Kimi Claw que lo guarde: _«Recuerda esto en Memory»_. La información almacenada en Memory se conserva entre los reinicios de conversación.
+**Buena práctica:** para todo lo que sea importante —preferencias, detalles de proyectos, instrucciones recurrentes— pídele explícitamente a Kimi Claw que lo guarde: _«Recuerda esto en memoria»_. La información almacenada en memoria se conserva entre los reinicios de conversación.
 
 ## ¿Kimi Claw perdió su memoria?
 
-El reinicio diario de las 4 a. m. borra el contexto de la conversación activa. Si algo no se guardó en **Memory**, desaparece.
+El reinicio diario de las 4 a. m. borra el contexto de la conversación activa. Si algo no se guardó en **memoria**, desaparece.
 
 **Cómo solucionarlo:**
-- Durante una conversación, di _«Recuerda X en Memory»_ y Kimi Claw lo guardará en el almacenamiento de largo plazo.
-- Revisa los recuerdos almacenados en **Workspace → AGENTS.md → #MEMORY**.
+- Durante una conversación, di _«Recuerda X en memoria»_ y Kimi Claw lo guardará en el almacenamiento de largo plazo.
+- Revisa los recuerdos almacenados en **Espacio de trabajo → AGENTS.md → #MEMORY**.
 
 <Frames
   src="./images/memory-loss/claw-memory.png"
@@ -38,7 +38,7 @@ El reinicio diario de las 4 a. m. borra el contexto de la conversación activa. 
 
 ## ¿Cuánto tiempo se conserva la memoria tras finalizar la suscripción?
 
-Los archivos de memoria residen en tu Workspace, y puedes verlos o descargarlos en cualquier momento.
+Los archivos de memoria residen en tu espacio de trabajo, y puedes verlos o descargarlos en cualquier momento.
 
 - Una vez que vence tu membresía, la instancia en la nube **se conserva durante 7 días**.
 - Si renuevas dentro de esos 7 días, todos los datos —memoria, configuración, skills— se restauran por completo.

@@ -30,7 +30,7 @@ La generación de Kimi Slides puede quedarse atascada en las siguientes situacio
 - **La tarea se canceló**: Por lo general, esto se debe a una falla en la generación de Kimi Slides. Simplemente inicia un nuevo chat e ingresa las mismas instrucciones de tarea para intentarlo de nuevo.
 
 <Callout type="info">
-Para obtener más ayuda, comunícate con nuestro equipo a través del canal de comentarios 👎 dentro del producto, o envía un correo electrónico a [support@moonshot.cn](mailto:support@moonshot.cn).
+Para obtener más ayuda, comunícate con nuestro equipo a través del canal de comentarios 👎 dentro del producto, o envía un correo electrónico a [support@moonshot.ai](mailto:support@moonshot.ai).
 </Callout>
 
 ## Tarjetas emergentes y problemas de vista previa de Slides en modo adaptativo
@@ -51,7 +51,7 @@ Si al hacer clic en la tarjeta de Slides no se abre la página de edición, inte
 - Si la tarjeta de Slides sigue sin aparecer en varios navegadores y dispositivos, sigue las [Pautas para reportar errores](#pautas-para-reportar-errores) a continuación para enviar tus comentarios, e inicia un nuevo chat para regenerarla.
 
 <Callout type="info">
-Si confirmaste que el problema persiste en varios dispositivos y navegadores, envía un correo electrónico a [support@moonshot.cn](mailto:support@moonshot.cn) para reportarlo, adjuntando el enlace de la conversación y una captura de pantalla del problema. Una vez verificado como un error, te compensaremos con los créditos correspondientes.
+Si confirmaste que el problema persiste en varios dispositivos y navegadores, envía un correo electrónico a [support@moonshot.ai](mailto:support@moonshot.ai) para reportarlo, adjuntando el enlace de la conversación y una captura de pantalla del problema. Una vez verificado como un error, te compensaremos con los créditos correspondientes.
 </Callout>
 
 ### La vista previa de Slides aparece en blanco o el estilo está dañado
@@ -80,7 +80,7 @@ Algunas versiones antiguas de software de oficina podrían no ser compatibles. S
 
 ## Pautas para reportar errores
 
-Si los métodos anteriores no resuelven el problema, envía tus comentarios a través del canal de comentarios 👎 dentro del producto o por correo electrónico a [support@moonshot.cn](mailto:support@moonshot.cn). Para ayudarnos a localizar el problema más rápido, proporciona la siguiente información en la medida de lo posible:
+Si los métodos anteriores no resuelven el problema, envía tus comentarios a través del canal de comentarios 👎 dentro del producto o por correo electrónico a [support@moonshot.ai](mailto:support@moonshot.ai). Para ayudarnos a localizar el problema más rápido, proporciona la siguiente información en la medida de lo posible:
 
 | Tipo de información | Detalles |
 |------------------|---------|

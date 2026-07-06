@@ -91,7 +91,7 @@ Kimi API の Web Search 機能は、インターネット上で公開されて�
 
 ## オンプレミス展開はサポートされていますか？
 
-Kimi API は現在、クラウドベースの API サービスのみを提供しており、**オンプレミスのプライベート展開には対応していません**。プライベート展開が必要な場合は、[platform.moonshot.ai/contact-sales](https://platform.moonshot.ai/contact-sales) から営業チームにお問い合わせください。
+Kimi API は現在、クラウドベースの API サービスのみを提供しており、**オンプレミスのプライベート展開には対応していません**。プライベート展開が必要な場合は、[platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) から営業チームにお問い合わせください。
 
 ## 中国国外から Kimi API を呼び出せますか？
 

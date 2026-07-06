@@ -41,7 +41,7 @@ Kimi API 依 token 用量計費，並依模型與功能採用不同定價。
 
 完整的模型定價表與計費規則請見：
 
-你可以前往 [platform.moonshot.ai/docs/pricing/chat](https://www.platform.moonshot.ai/docs/pricing/chat)
+你可以前往 [platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat)
 
 ## 成本最佳化建議
 

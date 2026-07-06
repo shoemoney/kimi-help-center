@@ -22,7 +22,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "Tôi là [name/nickname], hiện đang sống tại [city]. Có nền tảng về [profession/role], với chuyên môn về [area 1] và [area 2].\nHiện đang tập trung vào: thúc đẩy [Project A] và [Project B].\nVui lòng mặc định trả lời bằng tiếng Việt cho mọi phản hồi sau này, trừ khi tôi viết rõ bằng ngôn ngữ khác.",
+      content: "Tôi là [tên/biệt danh], hiện đang sống tại [thành phố]. Có nền tảng về [nghề nghiệp/vai trò], với chuyên môn về [lĩnh vực 1] và [lĩnh vực 2].\nHiện đang tập trung vào: thúc đẩy [Dự án A] và [Dự án B].\nVui lòng mặc định trả lời bằng tiếng Việt cho mọi phản hồi sau này, trừ khi tôi viết rõ bằng ngôn ngữ khác.",
     },
   ]}
 />
@@ -62,7 +62,7 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "[Fact-Check Protocol]\nKhi tôi đặt câu hỏi trong các lĩnh vực sau, hãy tuân thủ nghiêm ngặt thứ tự ưu tiên nguồn này:\n1. Y tế/Sức khỏe: Ưu tiên PubMed, WHO, UpToDate; tuyệt đối không trích dẫn blog sức khỏe hoặc truyền thông cá nhân\n2. Tài chính/Đầu tư: Chỉ dùng hồ sơ SEC, dữ liệu ngân hàng trung ương và báo cáo thường niên của công ty đại chúng; không dùng suy đoán trên diễn đàn\n3. Pháp lý/Tuân thủ: Tham khảo cơ sở dữ liệu quản lý chính thức; với quy định địa phương, ghi chú \"hãy tham vấn luật sư địa phương\"\n4. Công nghệ/Lập trình: Ưu tiên tài liệu chính thức; gắn nhãn GitHub Issues là kinh nghiệm cộng đồng, không phải nguồn chính thống\n5. Với thông tin từ Wikipedia, Reddit, Quora hoặc các nền tảng UGC khác, luôn gắn thẻ \"[Unverified]\"",
+      content: "[Quy trình Kiểm chứng Thông tin]\nKhi tôi đặt câu hỏi trong các lĩnh vực sau, hãy tuân thủ nghiêm ngặt thứ tự ưu tiên nguồn này:\n1. Y tế/Sức khỏe: Ưu tiên PubMed, WHO, UpToDate; tuyệt đối không trích dẫn blog sức khỏe hoặc truyền thông cá nhân\n2. Tài chính/Đầu tư: Chỉ dùng hồ sơ SEC, dữ liệu ngân hàng trung ương và báo cáo thường niên của công ty đại chúng; không dùng suy đoán trên diễn đàn\n3. Pháp lý/Tuân thủ: Tham khảo cơ sở dữ liệu quản lý chính thức; với quy định địa phương, ghi chú \"hãy tham vấn luật sư địa phương\"\n4. Công nghệ/Lập trình: Ưu tiên tài liệu chính thức; gắn nhãn GitHub Issues là kinh nghiệm cộng đồng, không phải nguồn chính thống\n5. Với thông tin từ Wikipedia, Reddit, Quora hoặc các nền tảng UGC khác, luôn gắn thẻ \"[Chưa kiểm chứng]\"",
     },
   ]}
 />
@@ -74,13 +74,13 @@ preview: false
     {
       name: "prompt.txt",
       language: "text",
-      content: "[High-Risk Topic Checklist]\nKhi phát hiện các từ khóa sau, tự động kích hoạt quy trình \"kiểm tra kép\":\n1. Con số cụ thể (giá cả, ngày tháng, số liệu thống kê) → phải nêu nguồn dữ liệu và năm\n2. Ngôn ngữ nhạy cảm về thời gian (\"mới nhất\", \"vừa\", \"gần đây\") → phải kiểm tra xem có nằm trong mốc kiến thức hay không\n3. Lời khuyên chuyên môn (y tế, pháp lý, đầu tư) → phải kèm tuyên bố miễn trừ: \"Nội dung trên chỉ mang tính tham khảo và không cấu thành lời khuyên chuyên môn\"\n4. Trích dẫn cụ thể từ cá nhân → phải gắn nhãn là trích dẫn trực tiếp hoặc diễn giải; tuyệt đối không bịa đặt trích dẫn\n\nThực hiện: Trước tiên nêu \"Tôi cần kiểm chứng thông tin sau\", rồi mới đưa ra câu trả lời.",
+      content: "[Danh sách Kiểm tra Chủ đề Rủi ro Cao]\nKhi phát hiện các từ khóa sau, tự động kích hoạt quy trình \"kiểm tra kép\":\n1. Con số cụ thể (giá cả, ngày tháng, số liệu thống kê) → phải nêu nguồn dữ liệu và năm\n2. Ngôn ngữ nhạy cảm về thời gian (\"mới nhất\", \"vừa\", \"gần đây\") → phải kiểm tra xem có nằm trong mốc kiến thức hay không\n3. Lời khuyên chuyên môn (y tế, pháp lý, đầu tư) → phải kèm tuyên bố miễn trừ: \"Nội dung trên chỉ mang tính tham khảo và không cấu thành lời khuyên chuyên môn\"\n4. Trích dẫn cụ thể từ cá nhân → phải gắn nhãn là trích dẫn trực tiếp hoặc diễn giải; tuyệt đối không bịa đặt trích dẫn\n\nThực hiện: Trước tiên nêu \"Tôi cần kiểm chứng thông tin sau\", rồi mới đưa ra câu trả lời.",
     },
   ]}
 />
 
 ## Giới hạn của bộ nhớ
-Memory Space hiện có những giới hạn sau:
+Lệnh ghi nhớ hiện có những giới hạn sau:
 - Lưu được tối đa 50 mục bộ nhớ.
 - Mỗi mục bộ nhớ giới hạn 500 ký tự.
 - Những bộ nhớ được tạo trước tháng 4 năm 2026 có thể vượt quá giới hạn này; các bộ nhớ hiện có đó vẫn được giữ lại.

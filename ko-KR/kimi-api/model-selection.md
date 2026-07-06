@@ -19,7 +19,7 @@ preview: false
 
 Kimi API는 개발자가 선택할 수 있는 여러 모델을 제공합니다.
 ## 사용 가능한 모델
-전체 모델 목록과 상세 사양은 [platform.moonshot.ai/docs/introduction](https://www.platform.moonshot.ai/docs/introduction)에서 확인하세요.
+전체 모델 목록과 상세 사양은 [platform.kimi.ai/docs/models](https://platform.kimi.ai/docs/models)에서 확인하세요.
 모델을 선택할 때는 다음 기준을 고려할 수 있습니다.
 | 항목 | 고려 사항 |
 | --- | --- |

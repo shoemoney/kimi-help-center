@@ -122,7 +122,7 @@ Kimi は PDF、Word 文書、Excel ファイル、画像などのアップロー
     {
       name: "prompt.txt",
       language: "text",
-      content: "[topic] について、[target audience] 向けの [article type] を約 [xxx] 語で書いてください。\n要件: [style/format/focus areas]",
+      content: "[トピック] について、[ターゲット読者] 向けの [記事の種類] を約 [xxx] 語で書いてください。\n要件: [文体/形式/重点分野]",
     },
   ]}
 />
@@ -134,7 +134,7 @@ Kimi は PDF、Word 文書、Excel ファイル、画像などのアップロー
     {
       name: "prompt.txt",
       language: "text",
-      content: "[subject] を分析し、[key dimensions] に重点を置いてください。\n出力形式: [table/chart/report]\n結論と推奨事項を含めてください。",
+      content: "[対象] を分析し、[重要な観点] に重点を置いてください。\n出力形式: [表/グラフ/レポート]\n結論と推奨事項を含めてください。",
     },
   ]}
 />
@@ -146,7 +146,7 @@ Kimi は PDF、Word 文書、Excel ファイル、画像などのアップロー
     {
       name: "prompt.txt",
       language: "text",
-      content: "次の内容を [target language] に翻訳し、[academic/conversational/business] のトーンを維持してください。\n専門用語については、括弧内に原語も併記してください。",
+      content: "次の内容を [対象言語] に翻訳し、[学術的/口語的/ビジネス] のトーンを維持してください。\n専門用語については、括弧内に原語も併記してください。",
     },
   ]}
 />

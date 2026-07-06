@@ -72,12 +72,12 @@ Se esegui `/login` e vedi il messaggio "No models available for the selected pla
 
 **Attenzione alla distinzione tra le piattaforme**
 
-I vantaggi dell'abbonamento Kimi Code e la [Kimi Open Platform](https://platform.kimi.com) hanno Base URL diversi. Assicurati che il Base URL corrisponda alla chiave API durante la configurazione.
+I vantaggi dell'abbonamento Kimi Code e la [Piattaforma aperta di Kimi](https://platform.kimi.com) hanno Base URL diversi. Assicurati che il Base URL corrisponda alla chiave API durante la configurazione.
 
 | Piattaforma | Base URL | Fatturazione | Creazione della chiave |
 |------|---------|---------|-------------|
 | **Kimi Code** | Compatibile con Anthropic: `https://api.kimi.com/coding/` | Abbonamento Kimi (crediti inclusi) | [Console di Kimi Code](https://www.kimi.com/code/console) |
-| **Kimi Open Platform** | `https://api.moonshot.cn/v1` | Pagamento a consumo | [Kimi Open Platform](https://platform.kimi.com) |
+| **Piattaforma aperta di Kimi** | `https://api.moonshot.cn/v1` | Pagamento a consumo | [Piattaforma aperta di Kimi](https://platform.kimi.com) |
 
 ### La chiave API non è valida
 
@@ -94,7 +94,7 @@ Se utilizzi la piattaforma Kimi Code, puoi controllare i crediti attuali e lo st
 
 ### Come richiedo una fattura o effettuo l'upgrade del mio abbonamento?
 
-Visita la [pagina dell'abbonamento Kimi](https://www.kimi.com/membership/pricing?from=kfc_docs_faq#pricing-faq) e segui le istruzioni per richiedere una fattura o aggiornare il tuo piano.
+Visita la [pagina dell'abbonamento Kimi](https://www.kimi.com/membership/pricing#pricing-faq) e segui le istruzioni per richiedere una fattura o aggiornare il tuo piano.
 
 ## Problemi di interazione
 

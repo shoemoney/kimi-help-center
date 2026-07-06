@@ -33,6 +33,6 @@ Kimi API çağrılırken karşılaşılan yaygın hata kodları ve bunların nas
 <Callout type="tip">
 1. **Tam hata mesajını kontrol edin**: Yanıt JSON'u, ayrıntılı açıklama içeren `error.message` alanını barındırır.
 2. **request_id'yi not edin**: Destek ekibinin sorunu hızla bulmasına yardımcı olur.
-3. **Resmi belgelere başvurun**: Çağrılarınızın [platform.moonshot.ai](https://platform.moonshot.ai) adresindeki belgelerle uyumlu olduğundan emin olun.
+3. **Resmi belgelere başvurun**: Çağrılarınızın [platform.kimi.ai](https://platform.kimi.ai) adresindeki belgelerle uyumlu olduğundan emin olun.
 4. **Yeniden deneme mantığı uygulayın**: 429 ve 500 hataları için üstel geri çekilme kullanın.
 </Callout>

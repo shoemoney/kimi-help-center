@@ -31,23 +31,19 @@ Abonelik süresi içinde satın alınan ek koltuklar, kalan gün sayısına gör
 
 ## Temel Avantajlar
 
-### Yapay Zekâ Yetenekleri
-
-| Avantaj | Krediler |
-|---------|-------|
-| Agent Kullanımı | 4x (ayda yaklaşık 150) |
-| Eşzamanlı Agent Görevleri | 2 görev |
-| Öncelikli Kuyruk | 4x hız |
-| Agent Kümesi | Ayda 50 kez, 4 paralel alt görev |
-| Kimi Code | 20x kredi |
-| Kimi Claw | Web ve Android'i destekleyen, tek tıkla dağıtılabilen özel yapay zekâ asistanı |
-| Profesyonel Veri Tabanı | Ayda 5.000 kez; finansal, ekonomik ve akademik veri kaynaklarını kapsar |
+- En az 5 koltukluk minimum sipariş
+- Kurumsal düzeyde veri gizliliği koruması
+- Deneysel özelliklere öncelikli erişim: Agent Swarm / Kimi Claw / Professional Database
+- Aylık Agent kredilerinde 2x artış
+- Agent çoklu görev desteği
+- Kimi Code 5x kredi
+- Özel teknik destek
 
 ### Kurumsal Özellikler
 
 - **Veri Gizliliği Koruması**: Kurumsal veriler model eğitiminde kullanılmaz; iş bilgilerinizin güvenliği sağlanır
 - **Üye Yönetimi**: Yöneticiler üye davet edip kaldırabilir ve koltukları esnek biçimde dağıtabilir
-- **Çalışma Alanı**: Kişisel ve kurumsal veriler tamamen birbirinden ayrılır; çalışma alanı geçişi desteklenir
+- **Özel Teknik Destek**: Kurumsal müşteriler özel teknik destek alır
 
 ## Üye Yönetimi
 
@@ -97,7 +93,7 @@ Kimi Business, kişisel ve kurumsal veriler arasında tam bir ayrım sağlamak i
 
 <Callout type="warning">
 
-Platform Desteği: Web, Kimi Business özelliklerini tam olarak destekler. Mobil ve masaüstü istemciler yalnızca kişisel üyeliği destekler; kurumsal özellikler kullanılamaz.
+Platform Desteği: Web ve masaüstü istemciler Kimi Business kurumsal özelliklerini destekler. Mobil uygulama şu anda yalnızca kişisel üyeliği destekler; kurumsal özellikler burada kullanılamaz.
 
 </Callout>
 

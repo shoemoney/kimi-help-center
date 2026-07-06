@@ -55,8 +55,9 @@ Do các mô hình ngôn ngữ lớn có giới hạn ngữ cảnh 256K ký tự 
 
 <Callout type="warning">
 **Mức sử dụng tín dụng**: Các tác vụ Agent tiêu thụ tín dụng từ kho dùng chung (các tính năng thành viên khác). Kimi Code dùng một kho tín dụng riêng. Mỗi tác vụ Agent thường tiêu thụ 1 đơn vị tín dụng. Để biết thông tin tín dụng chi tiết theo từng hạng thành viên, xem [Tín dụng & Thanh toán](/agent/quota-and-billing).
-Gói miễn phí: 6 tác vụ Agent/tháng
-Gói trả phí: 60–720 tác vụ Agent/tháng tùy theo gói của bạn
+
+- Gói miễn phí: 6 tác vụ Agent/tháng
+- Gói trả phí: 60–720 tác vụ Agent/tháng tùy theo gói của bạn
 </Callout>
 
 - **Thời gian thực thi**: Ở chế độ Agent, một tác vụ thường mất 5–20 phút. Các tác vụ K2.6 Agent Swarm [Beta] có thể lâu hơn. Bạn có thể rời khỏi trang — chỉ cần đừng nhấn Dừng để gián đoạn tác vụ.
@@ -64,7 +65,7 @@ Gói trả phí: 60–720 tác vụ Agent/tháng tùy theo gói của bạn
 - **Tác vụ đơn giản**: Với các câu hỏi đáp đơn giản, nên dùng chế độ trò chuyện tiêu chuẩn để được phản hồi nhanh hơn.
 
 <Callout type="warning">
-**Tuân thủ nội dung**: Các tính năng Agent tuân theo [Kimi User Agreement](https://www.kimi.com/user/agreement/modelUse?version=v2). Việc tạo nội dung bị cấm không được hỗ trợ; gửi nội dung bị cấm có thể dẫn đến việc đình chỉ dịch vụ.
+**Tuân thủ nội dung**: Các tính năng Agent tuân theo [Thỏa thuận Dịch vụ Người dùng Kimi](https://www.kimi.com/user/agreement/modelUse?version=v2). Việc tạo nội dung bị cấm không được hỗ trợ; gửi nội dung bị cấm có thể dẫn đến việc đình chỉ dịch vụ.
 </Callout>
 
 ## Câu hỏi thường gặp

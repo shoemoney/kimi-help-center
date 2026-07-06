@@ -19,7 +19,7 @@ Choisissez le modèle Kimi API adapté selon ses capacités, sa rapidité et son
 
 Kimi API propose plusieurs modèles parmi lesquels les développeurs peuvent choisir.
 ## Modèles disponibles
-Consultez [platform.moonshot.ai/docs/introduction](https://www.platform.moonshot.ai/docs/introduction) pour la liste complète des modèles et leurs spécifications détaillées.
+Consultez [platform.kimi.ai/docs/models](https://platform.kimi.ai/docs/models) pour la liste complète des modèles et leurs spécifications détaillées.
 Au moment de choisir un modèle, vous pouvez tenir compte des éléments suivants :
 | Critère | À prendre en compte |
 | --- | --- |

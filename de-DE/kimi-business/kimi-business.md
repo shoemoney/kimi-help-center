@@ -31,23 +31,19 @@ Weitere Plätze, die während der Laufzeit hinzugekauft werden, werden anteilig 
 
 ## Wichtigste Vorteile
 
-### KI-Funktionen
-
-| Vorteil | Credits |
-|---------|-------|
-| Agent-Nutzung | 4× (ca. 150/Monat) |
-| Gleichzeitige Agent-Aufgaben | 2 Aufgaben |
-| Prioritäts-Warteschlange | 4-fache Geschwindigkeit |
-| Agent-Cluster | 50 Mal/Monat, 4 parallele Teilaufgaben |
-| Kimi Code | 20× Credits |
-| Kimi Claw | Ein-Klick-Bereitstellung eines dedizierten KI-Assistenten, unterstützt Web und Android |
-| Professionelle Datenbank | 5.000 Mal/Monat, deckt Finanz-, Wirtschafts- und akademische Datenquellen ab |
+- Mindestabnahme von 5 Plätzen
+- Datenschutz auf Unternehmensniveau
+- Vorrangiger Zugang zu experimentellen Funktionen: Agent Swarm / Kimi Claw / Professional Database
+- 2× monatliche Agent-Credits
+- Agent-Multitasking
+- Kimi Code 5× Credits
+- Dedizierter technischer Support
 
 ### Unternehmensfunktionen
 
 - **Datenschutz**: Unternehmensdaten werden nicht zum Trainieren von Modellen verwendet – so bleiben geschäftliche Informationen sicher
 - **Mitgliederverwaltung**: Administratoren können Mitglieder einladen und entfernen und Plätze flexibel zuweisen
-- **Workspace**: Vollständige Trennung von persönlichen und Unternehmensdaten, mit Wechselmöglichkeit zwischen Workspaces
+- **Dedizierter technischer Support**: Unternehmenskunden erhalten dedizierten technischen Support
 
 ## Mitgliederverwaltung
 
@@ -97,7 +93,7 @@ Beim Wechsel des Workspace wird die Seite automatisch aktualisiert, um die Daten
 
 <Callout type="warning">
 
-Plattformunterstützung: Das Web unterstützt die Funktionen von Kimi Business vollständig. Mobile und Desktop-Clients unterstützen nur die persönliche Mitgliedschaft; Unternehmensfunktionen stehen dort nicht zur Verfügung.
+Plattformunterstützung: Web- und Desktop-Clients unterstützen die Unternehmensfunktionen von Kimi Business. Die mobile App unterstützt derzeit nur die persönliche Mitgliedschaft; Unternehmensfunktionen stehen dort nicht zur Verfügung.
 
 </Callout>
 

@@ -15,12 +15,12 @@ preview: false
 
 Kimi Code es un servicio incluido en el plan de membresía de Kimi que ofrece soporte y funciones de programación para ayudar a los miembros a completar sus tareas de codificación de manera más eficiente en su flujo de trabajo de desarrollo personal.
 
-> Ten en cuenta que este beneficio está pensado únicamente para uso de desarrollo personal, no para escenarios de desarrollo empresarial. Si tienes necesidades empresariales, visita la [Plataforma Abierta de Kimi](https://www.platform.moonshot.ai/).
+> Ten en cuenta que este beneficio está pensado únicamente para uso de desarrollo personal, no para escenarios de desarrollo empresarial. Si tienes necesidades empresariales, visita la [Plataforma abierta de Kimi](https://platform.kimi.ai/).
 
 ## Facturación
 
 - El uso de Kimi Code está **incluido en tu cuota de suscripción**: no se aplican cargos adicionales.
-- Cada solicitud consume créditos de tu **bolsa de créditos exclusiva de Kimi Code**; cada plan incluye una cantidad diferente de créditos.
+- Cada solicitud consume créditos de tu **paquete de créditos exclusivo de Kimi Code**; cada plan incluye una cantidad diferente de créditos.
 - El sistema da prioridad a los créditos de bonificación antes de consumir los créditos del plan.
 
 ## Renovación de créditos

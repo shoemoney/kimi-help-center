@@ -17,7 +17,7 @@ Kimi API cung cấp nhiều cách để xem số dư tài khoản và chi tiết
 
 ## Bảng điều khiển trên console
 
-Đăng nhập vào [platform.moonshot.ai](https://platform.moonshot.ai) và truy cập trang **fee-detail** (chi tiết thanh toán) trong console để xem:
+Đăng nhập vào [platform.kimi.ai](https://platform.kimi.ai) và truy cập trang **fee-detail** (chi tiết thanh toán) trong console để xem:
 
 - Số dư tài khoản hiện tại
 - Phân tích mức sử dụng theo ngày

@@ -265,7 +265,7 @@ Più Claw si collegano a diverse fonti di dati e dispositivi, usando la chat di 
 
 ### Cosa fare se taggando un Claw nella chat di gruppo non ottieni risposta?
 
-Per prima cosa, verifica lo stato del Claw in una chat privata. Se lì risulta disconnesso, consulta la [guida alla risoluzione dei problemi di Kimi Claw](/help/kimi-claw/troubleshooting) per risolvere.
+Per prima cosa, verifica lo stato del Claw in una chat privata. Se lì risulta disconnesso, consulta la [guida alla risoluzione dei problemi di Kimi Claw](/kimi-claw/troubleshooting) per risolvere.
 
 Se la chat privata risponde normalmente, puoi chiedere a Kimi di diagnosticare la sessione di gruppo:
 

@@ -21,7 +21,7 @@ Perguntas frequentes sobre cobrança, preços e pagamento da API Kimi.
 A API Kimi é cobrada por token consumido — os tokens de entrada e de saída têm preços distintos. O preço varia conforme o modelo, e a busca na web tem uma taxa adicional de US$ 0,004 por chamada.
 
 <Callout type="tip">
-Para detalhes de preços, consulte [platform.moonshot.ai/docs/pricing/chat](https://platform.moonshot.ai/docs/pricing/chat).
+Para detalhes de preços, consulte [platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat).
 </Callout>
 
 ## Quais formas de pagamento são aceitas?
@@ -33,7 +33,7 @@ O console da API aceita as seguintes formas de pagamento:
 
 Os valores adicionados ficam disponíveis imediatamente para uso da API.
 ## Como solicitar uma nota fiscal?
-1. Acesse o console em [platform.moonshot.ai](https://platform.moonshot.ai).
+1. Acesse o console em [platform.kimi.ai](https://platform.kimi.ai).
 2. Vá até **Cobrança → Gerenciamento de Notas Fiscais**.
 3. Selecione os registros de recarga para os quais precisa de nota fiscal.
 4. Preencha os dados da nota (pessoa física ou jurídica) e envie.

@@ -33,6 +33,6 @@ preview: false
 <Callout type="tip">
 1. **查看完整错误信息**：响应 JSON 中的 `error.message` 会提供详细说明。
 2. **记录 request_id**：有助于支持团队快速定位问题。
-3. **参考官方文档**：确保调用方式与 [platform.moonshot.ai](https://platform.moonshot.ai) 上的文档一致。
+3. **参考官方文档**：确保调用方式与 [platform.kimi.ai](https://platform.kimi.ai) 上的文档一致。
 4. **实现重试逻辑**：对于 429 和 500 错误，请使用指数退避。
 </Callout>

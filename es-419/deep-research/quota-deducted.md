@@ -17,7 +17,7 @@ Deep Research distingue entre "conversaciones estándar" y "ejecución de tareas
 
 ## Reglas de cobro
 
-- **Método de cobro**: después de seleccionar una tarea de Deep Research, los créditos se descuentan del fondo compartido (otras funciones de la membresía). Kimi Code usa un fondo de créditos independiente.
+- **Método de cobro**: después de seleccionar una tarea de Deep Research, los créditos se descuentan del paquete de créditos compartido (otras funciones de la membresía). Kimi Code usa un paquete de créditos independiente.
 - **Reembolso en caso de falla**: si una tarea falla (no devuelve resultados válidos), haz clic en el botón de retroalimentación "👎". Nuestro equipo verificará el problema y reembolsará los créditos correspondientes.
 
 ## ¿Cómo consultar los créditos restantes?

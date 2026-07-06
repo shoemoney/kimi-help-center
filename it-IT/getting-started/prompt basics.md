@@ -122,7 +122,7 @@ Ecco alcuni modelli di prompt pronti all'uso: copia, personalizza e via:
     {
       name: "prompt.txt",
       language: "text",
-      content: "Scrivi un [article type] su [topic] per [target audience], di circa [xxx] parole.\nRequisiti: [style/format/focus areas]",
+      content: "Scrivi un [tipo di articolo] su [argomento] per [pubblico di riferimento], di circa [xxx] parole.\nRequisiti: [stile/formato/aspetti su cui concentrarsi]",
     },
   ]}
 />
@@ -134,7 +134,7 @@ Ecco alcuni modelli di prompt pronti all'uso: copia, personalizza e via:
     {
       name: "prompt.txt",
       language: "text",
-      content: "Analizza [subject], concentrandoti su [key dimensions].\nFormato di output: [table/chart/report]\nIncludi conclusioni e raccomandazioni.",
+      content: "Analizza [argomento], concentrandoti su [dimensioni chiave].\nFormato di output: [tabella/grafico/report]\nIncludi conclusioni e raccomandazioni.",
     },
   ]}
 />
@@ -146,7 +146,7 @@ Ecco alcuni modelli di prompt pronti all'uso: copia, personalizza e via:
     {
       name: "prompt.txt",
       language: "text",
-      content: "Traduci il testo seguente in [target language], mantenendo un tono [academic/conversational/business].\nPer la terminologia specialistica, indica il termine originale tra parentesi.",
+      content: "Traduci il testo seguente in [lingua di destinazione], mantenendo un tono [accademico/colloquiale/aziendale].\nPer la terminologia specialistica, indica il termine originale tra parentesi.",
     },
   ]}
 />

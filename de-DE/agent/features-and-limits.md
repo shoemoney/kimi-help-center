@@ -54,9 +54,10 @@ Aufgrund der Kontextgrenze großer Sprachmodelle von 256K Zeichen (etwa 40.000�
 ## Wichtige Hinweise
 
 <Callout type="warning">
-**Credit-Nutzung**: Agent-Aufgaben verbrauchen Credits aus dem gemeinsamen Kontingent (weitere Mitgliedschaftsfunktionen). Kimi Code nutzt ein separates Credits-Kontingent. Jede Agent-Aufgabe verbraucht in der Regel 1 Credit-Einheit. Ausführliche Informationen zu den Credits nach Mitgliedschaftsstufe finden Sie unter „Credits & Abrechnung“.
-Kostenlose Stufe: 6 Agent-Aufgaben/Monat
-Kostenpflichtige Stufen: 60–720 Agent-Aufgaben/Monat je nach Tarif
+**Credit-Nutzung**: Agent-Aufgaben verbrauchen Credits aus dem gemeinsamen Kontingent (weitere Mitgliedschaftsfunktionen). Kimi Code nutzt ein separates Credits-Kontingent. Jede Agent-Aufgabe verbraucht in der Regel 1 Credit-Einheit. Ausführliche Informationen zu den Credits nach Mitgliedschaftsstufe finden Sie unter [Credits & Abrechnung](/agent/quota-and-billing).
+
+- Kostenlose Stufe: 6 Agent-Aufgaben/Monat
+- Kostenpflichtige Stufen: 60–720 Agent-Aufgaben/Monat je nach Tarif
 </Callout>
 
 - **Ausführungsdauer**: Im Agent-Modus dauert eine einzelne Aufgabe in der Regel 5–20 Minuten. Aufgaben mit K2.6 Agent Swarm [Beta] können länger dauern. Sie können die Seite verlassen – klicken Sie nur nicht auf „Stopp“, um die Aufgabe nicht abzubrechen.
@@ -64,7 +65,7 @@ Kostenpflichtige Stufen: 60–720 Agent-Aufgaben/Monat je nach Tarif
 - **Einfache Aufgaben**: Für einfache Fragen und Antworten empfiehlt sich der Standard-Chat-Modus, da er schneller antwortet.
 
 <Callout type="warning">
-**Inhaltliche Konformität**: Die Agent-Funktionen unterliegen dem [Kimi User Agreement](https://www.kimi.com/user/agreement/modelUse?version=v2). Das Erzeugen unzulässiger Inhalte wird nicht unterstützt; das Einreichen unzulässiger Inhalte kann zur Sperrung des Dienstes führen.
+**Inhaltliche Konformität**: Die Agent-Funktionen unterliegen dem [Kimi Nutzungsvereinbarung](https://www.kimi.com/user/agreement/modelUse?version=v2). Das Erzeugen unzulässiger Inhalte wird nicht unterstützt; das Einreichen unzulässiger Inhalte kann zur Sperrung des Dienstes führen.
 </Callout>
 
 ## Häufige Fragen

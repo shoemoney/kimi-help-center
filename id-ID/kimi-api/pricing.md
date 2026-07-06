@@ -41,7 +41,7 @@ Lihat dokumentasi resmi untuk rincian harga Context Caching.
 
 Untuk tabel harga model lengkap dan aturan penagihan:
 
-Anda dapat mengunjungi [platform.moonshot.ai/docs/pricing/chat](https://www.platform.moonshot.ai/docs/pricing/chat)
+Anda dapat mengunjungi [platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat)
 
 ## Tips menghemat biaya
 

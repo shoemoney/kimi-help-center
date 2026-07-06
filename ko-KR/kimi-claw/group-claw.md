@@ -265,7 +265,7 @@ Kimi Conductor는 핵심 결과를 메인 채팅으로 전달합니다. 작업 �
 
 ### 그룹 채팅에서 Claw를 @멘션했는데 응답이 없으면 어떻게 하나요?
 
-먼저 비공개 채팅에서 Claw의 상태를 확인하세요. 그곳에서도 연결이 끊겨 있다면 [Kimi Claw 문제 해결 가이드](/help/kimi-claw/troubleshooting)를 참고해 해결하세요.
+먼저 비공개 채팅에서 Claw의 상태를 확인하세요. 그곳에서도 연결이 끊겨 있다면 [Kimi Claw 문제 해결 가이드](/kimi-claw/troubleshooting)를 참고해 해결하세요.
 
 비공개 채팅에서는 정상적으로 응답한다면, Kimi에게 그룹 세션 진단을 요청할 수 있습니다.
 

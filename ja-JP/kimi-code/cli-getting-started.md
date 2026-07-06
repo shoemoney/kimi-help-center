@@ -302,7 +302,7 @@ Kimi Code CLIはデフォルトで、設定ファイル、セッション記録�
 | プラットフォーム | Base URL | 課金 | キー作成 |
 |------|---------|---------|-------------|
 | **Kimi Code** | OpenAI互換: `https://api.kimi.com/coding/v1`<br> Anthropic互換: `https://api.kimi.com/coding/` | Kimiメンバーシップのサブスクリプション（quotaを含む） | [Kimi Code Console](https://www.kimi.com/code/console) |
-| **Kimi Open Platform** | `https://api.moonshot.cn/v1` | 従量課金 | [Kimi Open Platform](https://platform.kimi.com) |
+| **Kimi オープンプラットフォーム** | `https://api.moonshot.cn/v1` | 従量課金 | [Kimi オープンプラットフォーム](https://platform.kimi.com) |
 
 **インストール後に`kimi`コマンドが見つかりません。**
 

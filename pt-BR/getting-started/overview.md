@@ -18,7 +18,7 @@ preview_content: "Conheça os modos de chat, os agentes de IA, o tratamento de a
 O Kimi é um assistente de IA desenvolvido pela Moonshot AI, com busca na web, pensamento profundo, raciocínio multimodal e conversas de contexto ultralongo integrados.
 </Callout>
 
-Acesse o [Kimi.com](https://www.kimi.com/) ou baixe o app do Kimi para começar a conversar, criar, pesquisar e construir. Os desenvolvedores podem acessar a [Kimi Open Platform](https://platform.moonshot.ai/) para obter APIs e ferramentas que integram os recursos do Kimi a seus próprios aplicativos.
+Acesse o [Kimi.com](https://www.kimi.com/) ou baixe o app do Kimi para começar a conversar, criar, pesquisar e construir. Os desenvolvedores podem acessar a [Plataforma aberta da Kimi](https://platform.kimi.ai/) para obter APIs e ferramentas que integram os recursos do Kimi a seus próprios aplicativos.
 ## Modos de chat
 | Modo | Descrição |
 |------|-------------|
@@ -36,7 +36,7 @@ O Kimi é mais do que um assistente de chat — é um agente de IA capaz de plan
 |-------|-------------|------|
 | **K2.6 Agent** | Planeja e conclui tarefas automaticamente, incluindo geração de sites, criação de slides, Deep Research e processamento de documentos e planilhas | [kimi.com/agent](https://www.kimi.com/agent) |
 | **K2.6 Agent Swarm [Beta]** | Suporta até 4.000 chamadas de ferramentas em paralelo, coordenando mais de 300 subagentes para busca em larga escala, redação de textos longos e processamento em lote | [kimi.com/agent-swarm](https://www.kimi.com/agent-swarm) |
-| **Kimi Code** | Conjunto de ferramentas de assistência à programação voltado para desenvolvedores, incluindo ferramenta CLI e extensão para VS Code | [kimi.com/code](https://www.kimi.com/code?from=kfc_overview_topbar) |
+| **Kimi Code** | Conjunto de ferramentas de assistência à programação voltado para desenvolvedores, incluindo ferramenta CLI e extensão para VS Code | [kimi.com/code](https://www.kimi.com/code) |
 | **Kimi Claw** | Plataforma de automação em nuvem sem implantação — lance um agente de IA persistente em menos de 30 segundos com mais de 5.000 habilidades integradas (ClawHub) | [kimi.com/bot](https://www.kimi.com/bot) |
 
 ## Outros recursos principais

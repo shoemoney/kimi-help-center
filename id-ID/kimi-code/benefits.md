@@ -15,7 +15,7 @@ preview: false
 
 Kimi Code adalah layanan yang termasuk dalam paket keanggotaan Kimi, menyediakan dukungan dan fitur terkait coding untuk membantu anggota menyelesaikan tugas pemrograman dengan lebih efisien dalam alur kerja pengembangan pribadi mereka.
 
-> Perlu diperhatikan bahwa manfaat ini hanya ditujukan untuk penggunaan pengembangan pribadi, bukan untuk skenario pengembangan tingkat perusahaan. Untuk kebutuhan perusahaan, silakan kunjungi [Kimi Open Platform](https://www.platform.moonshot.ai/).
+> Perlu diperhatikan bahwa manfaat ini hanya ditujukan untuk penggunaan pengembangan pribadi, bukan untuk skenario pengembangan tingkat perusahaan. Untuk kebutuhan perusahaan, silakan kunjungi [Platform Terbuka Kimi](https://platform.kimi.ai/).
 
 ## Penagihan
 

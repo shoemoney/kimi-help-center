@@ -91,7 +91,7 @@ La **generación de PPT** y el **deep research** **aún no están disponibles a 
 
 ## ¿Se admite el despliegue on-premises?
 
-La API de Kimi actualmente ofrece únicamente servicios de API en la nube y **no admite el despliegue privado on-premises**. Para requisitos de despliegue privado, comunícate con el equipo de ventas a través de [platform.moonshot.ai/contact-sales](https://platform.moonshot.ai/contact-sales).
+La API de Kimi actualmente ofrece únicamente servicios de API en la nube y **no admite el despliegue privado on-premises**. Para requisitos de despliegue privado, comunícate con el equipo de ventas a través de [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales).
 
 ## ¿Puedo llamar a la API de Kimi desde fuera de China?
 

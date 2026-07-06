@@ -265,7 +265,7 @@ Mehrere Claws verbinden sich mit unterschiedlichen Datenquellen und Geräten und
 
 ### Was tun, wenn ein per @ angesprochener Claw im Gruppenchat nicht antwortet?
 
-Überprüfen Sie zunächst den Status des Claw in einem Einzelchat. Ist er dort getrennt, lesen Sie die [Anleitung zur Fehlerbehebung von Kimi Claw](/help/kimi-claw/troubleshooting), um das Problem zu beheben.
+Überprüfen Sie zunächst den Status des Claw in einem Einzelchat. Ist er dort getrennt, lesen Sie die [Anleitung zur Fehlerbehebung von Kimi Claw](/kimi-claw/troubleshooting), um das Problem zu beheben.
 
 Wenn der Einzelchat normal reagiert, können Sie Kimi bitten, die Gruppensitzung zu diagnostizieren:
 

@@ -25,7 +25,7 @@ preview_content: "목표를 활용하면 Kimi Code가 여러 차례의 대화에
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Fix bugs listed in the issue tracker.",
+      content: "/goal 이슈 트래커에 나열된 버그를 고쳐 줘.",
     },
   ]}
 />
@@ -39,7 +39,7 @@ Kimi Code는 목표를 저장하고 이를 다음 사용자 메시지로 보낸 
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Fix every bug labeled checkout-regression, add or update tests for each fix, and run the checkout test suite",
+      content: "/goal checkout-regression 라벨이 붙은 모든 버그를 고치고, 각 수정마다 테스트를 추가하거나 갱신한 뒤, checkout 테스트 스위트를 실행해 줘",
     },
   ]}
 />
@@ -51,7 +51,7 @@ Kimi Code는 목표를 저장하고 이를 다음 사용자 메시지로 보낸 
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Find all bugs in this codebase.",
+      content: "/goal 이 코드베이스에 있는 모든 버그를 찾아 줘.",
     },
   ]}
 />
@@ -67,7 +67,7 @@ Kimi Code는 목표를 저장하고 이를 다음 사용자 메시지로 보낸 
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Fix every failing checkout test and run the checkout test suite successfully.",
+      content: "/goal 실패하는 모든 checkout 테스트를 고치고 checkout 테스트 스위트를 성공적으로 실행해 줘.",
     },
   ]}
 />
@@ -81,7 +81,7 @@ Kimi Code는 테스트 출력을 점검하고, 파일을 변경하며, 검사를
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Find why the release build fails, fix the root cause, and verify the build passes.",
+      content: "/goal 릴리스 빌드가 실패하는 이유를 찾아 근본 원인을 고치고, 빌드가 통과하는지 확인해 줘.",
     },
   ]}
 />
@@ -95,7 +95,7 @@ Kimi Code는 테스트 출력을 점검하고, 파일을 변경하며, 검사를
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Update the feature implementation, add docs, run tests, and summarize the changed files.",
+      content: "/goal 기능 구현을 업데이트하고, 문서를 추가하고, 테스트를 실행한 뒤, 변경된 파일을 요약해 줘.",
     },
   ]}
 />
@@ -113,7 +113,7 @@ Kimi Code는 테스트 출력을 점검하고, 파일을 변경하며, 검사를
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Greetings!",
+      content: "/goal 안녕하세요!",
     },
   ]}
 />
@@ -131,7 +131,7 @@ Kimi Code는 테스트 출력을 점검하고, 파일을 변경하며, 검사를
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Prove 1 + 1 = 3.",
+      content: "/goal 1 + 1 = 3임을 증명해 줘.",
     },
   ]}
 />
@@ -149,7 +149,7 @@ Kimi Code는 테스트 출력을 점검하고, 파일을 변경하며, 검사를
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Create a videogame in a single HTML file.",
+      content: "/goal 단일 HTML 파일로 비디오 게임을 만들어 줘.",
     },
   ]}
 />
@@ -189,7 +189,7 @@ Kimi Code는 테스트 출력을 점검하고, 파일을 변경하며, 검사를
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal next Update the release notes after the tests pass",
+      content: "/goal next 테스트가 통과하면 릴리스 노트를 업데이트해 줘",
     },
   ]}
 />
@@ -227,7 +227,7 @@ Kimi Code는 테스트 출력을 점검하고, 파일을 변경하며, 검사를
     {
       name: "command.sh",
       language: "bash",
-      content: "kimi -p \"/goal Fix the failing checkout test\"",
+      content: "kimi -p \"/goal 실패하는 checkout 테스트를 고쳐 줘\"",
     },
   ]}
 />

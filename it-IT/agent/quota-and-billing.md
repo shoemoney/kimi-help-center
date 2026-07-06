@@ -14,7 +14,7 @@ preview: false
 # Crediti e fatturazione di Agent
 
 <Callout type="info">
-La modalità Agent utilizza il sistema di crediti di Kimi. Tutti i vantaggi dell'abbonamento includono due pool di crediti: Kimi Code utilizza un pool di crediti separato; le altre funzionalità dell'abbonamento (Agent, Deep Research, Slides, Docs, Sheets, Kimi Claw, ecc.) condividono un unico pool di crediti, con i crediti detratti in base al consumo effettivo di token.
+La modalità Agent utilizza il sistema di crediti di Kimi. Tutti i vantaggi dell'abbonamento includono due pool di crediti: Kimi Code utilizza un pool di crediti separato; le altre funzionalità dell'abbonamento (Agent, Deep Research, Presentazioni, Documenti, Fogli di calcolo, Kimi Claw, ecc.) condividono un unico pool di crediti, con i crediti detratti in base al consumo effettivo di token.
 </Callout>
 
 ## Modello di fatturazione

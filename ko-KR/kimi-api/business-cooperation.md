@@ -19,7 +19,7 @@ preview: false
 
 Kimi API는 모든 규모의 비즈니스 요구를 충족할 수 있도록 기업 고객에게 다양한 협력 방안을 제공합니다.
 ## 영업팀 문의 방법
-[platform.moonshot.ai/contact-sales](https://platform.moonshot.ai/contact-sales)에서 문의 양식을 제출해 주세요. 영업팀이 영업일 기준 1~2일 이내에 연락드립니다.
+[platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales)에서 문의 양식을 제출해 주세요. 영업팀이 영업일 기준 1~2일 이내에 연락드립니다.
 
 <Callout type="tip">
 **제출 시 포함할 내용**:

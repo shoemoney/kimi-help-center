@@ -15,7 +15,7 @@ preview_content: "A guide to Kimi Code membership benefits, API Key management, 
 # Kimi Code Overview
 
 ## What Is Kimi Code
-Kimi Code is an AI programming service for coding scenarios, included in [Kimi membership benefits](https://www.kimi.com/membership/pricing?from=kfc_docs_overview).
+Kimi Code is an AI programming service for coding scenarios, included in [Kimi membership benefits](https://www.kimi.com/membership/pricing).
 
 You can think of it as an AI coding assistant: it can help you read code, edit files, run commands, and complete development tasks inside your development tools.
 

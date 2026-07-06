@@ -21,7 +21,7 @@ preview: false
 Kimi API оплачивается по количеству использованных token: входные и выходные token тарифицируются отдельно. Стоимость зависит от модели, а за Web Search дополнительно взимается $0.004 за каждый вызов.
 
 <Callout type="tip">
-Подробные тарифы см. на странице [platform.moonshot.ai/docs/pricing/chat](https://platform.moonshot.ai/docs/pricing/chat).
+Подробные тарифы см. на странице [platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat).
 </Callout>
 
 ## Какие способы оплаты поддерживаются?
@@ -33,7 +33,7 @@ Kimi API оплачивается по количеству использова
 
 Пополненные средства сразу доступны для использования API.
 ## Как запросить счет?
-1. Войдите в консоль [platform.moonshot.ai](https://platform.moonshot.ai).
+1. Войдите в консоль [platform.kimi.ai](https://platform.kimi.ai).
 2. Перейдите в раздел **Оплата → Управление счетами**.
 3. Выберите записи о пополнении, для которых нужен счет.
 4. Заполните данные для счета (личные или корпоративные) и отправьте запрос.

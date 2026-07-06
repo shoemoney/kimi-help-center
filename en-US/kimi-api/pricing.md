@@ -41,7 +41,7 @@ Refer to the official documentation for detailed Context Caching pricing.
 
 For the complete model pricing table and billing rules:
 
-You can go to [platform.moonshot.ai/docs/pricing/chat](https://www.platform.moonshot.ai/docs/pricing/chat)
+You can go to [platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat)
 
 ## Cost optimization tips
 

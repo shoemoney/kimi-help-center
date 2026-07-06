@@ -17,7 +17,7 @@ Kimi API, hesap bakiyenizi ve kullanım ayrıntılarınızı görüntülemeniz i
 
 ## Konsol panosu
 
-[platform.moonshot.ai](https://platform.moonshot.ai) adresinde oturum açın ve konsoldaki **fee-detail** (faturalandırma ayrıntıları) sayfasına giderek şunları görüntüleyin:
+[platform.kimi.ai](https://platform.kimi.ai) adresinde oturum açın ve konsoldaki **fee-detail** (faturalandırma ayrıntıları) sayfasına giderek şunları görüntüleyin:
 
 - Güncel hesap bakiyesi
 - Günlük kullanım dökümü

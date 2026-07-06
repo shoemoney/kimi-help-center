@@ -18,7 +18,7 @@ preview_content: "Esplora le modalità di chat di Kimi, gli agenti AI, la gestio
 Kimi è un assistente AI sviluppato da Moonshot AI, con web search integrata, ragionamento approfondito, ragionamento multimodale e conversazioni dal contesto ultra esteso.
 </Callout>
 
-Visita [Kimi.com](https://www.kimi.com/) o scarica l'app Kimi per iniziare a chattare, creare, fare ricerche e sviluppare. Gli sviluppatori possono visitare la [Kimi Open Platform](https://platform.moonshot.ai/) per accedere ad API e strumenti con cui integrare le funzionalità di Kimi nelle proprie applicazioni.
+Visita [Kimi.com](https://www.kimi.com/) o scarica l'app Kimi per iniziare a chattare, creare, fare ricerche e sviluppare. Gli sviluppatori possono visitare la [Piattaforma aperta di Kimi](https://platform.kimi.ai/) per accedere ad API e strumenti con cui integrare le funzionalità di Kimi nelle proprie applicazioni.
 ## Modalità di chat
 | Modalità | Descrizione |
 |------|-------------|
@@ -36,7 +36,7 @@ Kimi è molto più di un assistente di chat: è un agente AI capace di pianifica
 |-------|-------------|------|
 | **K2.6 Agent** | Pianifica e completa automaticamente le attività, tra cui la generazione di siti web, la creazione di slide, la Deep Research e l'elaborazione di documenti e fogli di calcolo | [kimi.com/agent](https://www.kimi.com/agent) |
 | **K2.6 Agent Swarm [Beta]** | Supporta fino a 4.000 chiamate parallele agli strumenti, coordinando oltre 300 sub-agent per ricerche su larga scala, scrittura di testi lunghi ed elaborazione in batch | [kimi.com/agent-swarm](https://www.kimi.com/agent-swarm) |
-| **Kimi Code** | Suite di assistenti alla programmazione dedicata agli sviluppatori, comprensiva di strumento CLI ed estensione per VS Code | [kimi.com/code](https://www.kimi.com/code?from=kfc_overview_topbar) |
+| **Kimi Code** | Suite di assistenti alla programmazione dedicata agli sviluppatori, comprensiva di strumento CLI ed estensione per VS Code | [kimi.com/code](https://www.kimi.com/code) |
 | **Kimi Claw** | Piattaforma di automazione cloud senza deployment: avvia un agente AI persistente in meno di 30 secondi, con oltre 5.000 skill integrate (ClawHub) | [kimi.com/bot](https://www.kimi.com/bot) |
 
 ## Altre funzionalità principali

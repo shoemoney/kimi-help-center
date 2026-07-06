@@ -72,12 +72,12 @@ Kimi Code CLI 已完成一次重要的版本升级——从 Python/uv 迁移到 
 
 **请注意平台差异**
 
-Kimi Code 会员权益与 [Kimi Open Platform](https://platform.kimi.com) 使用不同的 Base URL。配置时请确保 Base URL 与 API Key 匹配。
+Kimi Code 会员权益与 [Kimi 开放平台](https://platform.kimi.com) 使用不同的 Base URL。配置时请确保 Base URL 与 API Key 匹配。
 
 | 平台 | Base URL | 计费方式 | Key 创建入口 |
 |------|---------|---------|-------------|
 | **Kimi Code** | 兼容 Anthropic：`https://api.kimi.com/coding/` | Kimi 会员订阅（包含额度） | [Kimi Code Console](https://www.kimi.com/code/console) |
-| **Kimi Open Platform** | `https://api.moonshot.cn/v1` | 按量付费 | [Kimi Open Platform](https://platform.kimi.com) |
+| **Kimi 开放平台** | `https://api.moonshot.cn/v1` | 按量付费 | [Kimi 开放平台](https://platform.kimi.com) |
 
 ### API key 无效
 
@@ -94,7 +94,7 @@ API key 无效的可能原因：
 
 ### 如何申请发票或升级会员？
 
-访问 [Kimi 会员页面](https://www.kimi.com/membership/pricing?from=kfc_docs_faq#pricing-faq)，按照页面说明提交发票申请或升级你的套餐。
+访问 [Kimi 会员页面](https://www.kimi.com/membership/pricing#pricing-faq)，按照页面说明提交发票申请或升级你的套餐。
 
 ## 交互问题
 

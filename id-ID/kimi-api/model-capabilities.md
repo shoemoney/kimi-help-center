@@ -25,7 +25,7 @@ Ya. Kimi API menyediakan JSON Mode yang membatasi keluaran model agar berupa JSO
 
 ## Apakah mendukung fine-tuning model?
 
-Kimi API **saat ini belum mendukung** fine-tuning model yang dimulai oleh pengguna. Untuk kebutuhan model khusus, hubungi tim penjualan melalui [platform.moonshot.ai/contact-sales](https://www.platform.moonshot.ai/contact-sales) untuk mengetahui opsi kustomisasi enterprise.
+Kimi API **saat ini belum mendukung** fine-tuning model yang dimulai oleh pengguna. Untuk kebutuhan model khusus, hubungi tim penjualan melalui [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) untuk mengetahui opsi kustomisasi enterprise.
 
 ## Apakah mendukung OCR?
 

@@ -19,7 +19,7 @@ preview: false
 
 Kimi API มีตัวเลือกความร่วมมือหลากหลายรูปแบบสำหรับลูกค้าองค์กร เพื่อตอบโจทย์ความต้องการทางธุรกิจในทุกระดับ
 ## ติดต่อทีมขายได้อย่างไร?
-เข้าไปที่ [platform.moonshot.ai/contact-sales](https://platform.moonshot.ai/contact-sales) เพื่อกรอกแบบฟอร์มติดต่อ ทีมขายของเราจะติดต่อกลับภายใน 1–2 วันทำการ
+เข้าไปที่ [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) เพื่อกรอกแบบฟอร์มติดต่อ ทีมขายของเราจะติดต่อกลับภายใน 1–2 วันทำการ
 
 <Callout type="tip">
 **สิ่งที่ควรระบุในแบบฟอร์ม**:

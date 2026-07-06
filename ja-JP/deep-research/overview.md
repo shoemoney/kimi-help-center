@@ -114,7 +114,7 @@ Deep Researchは通常10〜25分かかります。システムはバックグラ
 2. **creditの返金**：ツール呼び出しエラーの場合は自動的に返金されます。調査の方向性がずれた場合はフィードバックを送信してください
 3. **入力品質**：簡潔で明確に定義された質問ほど、より良い結果が得られます
 4. **適用範囲**：簡単なQ&Aには、より速く応答できる通常のチャットモードをご利用ください
-5. **規約**：[Kimi User Service Agreement（Kimiユーザーサービス契約）](https://www.kimi.com/user/agreement/modelUse?version=v2)が適用されます
+5. **規約**：[Kimiユーザーサービス契約](https://www.kimi.com/user/agreement/modelUse?version=v2)が適用されます
 
 ## 関連リソース
 - 技術レポート：[Kimi-Researcher: End-to-End RL Training](https://moonshotai.github.io/Kimi-Researcher/)

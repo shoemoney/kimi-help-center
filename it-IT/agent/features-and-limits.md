@@ -55,8 +55,9 @@ A causa del limite di contesto di 256K caratteri dei modelli linguistici di gran
 
 <Callout type="warning">
 **Utilizzo dei crediti**: le attività di Agent consumano crediti dal pool condiviso (altre funzionalità dell'abbonamento). Kimi Code utilizza un pool di crediti separato. Ogni attività di Agent consuma in genere 1 unità di crediti. Per informazioni dettagliate sui crediti in base al livello di abbonamento, consulta [Crediti e fatturazione](/agent/quota-and-billing).
-Piano gratuito: 6 attività Agent/mese
-Piani a pagamento: da 60 a 720 attività Agent/mese a seconda del piano
+
+- Piano gratuito: 6 attività Agent/mese
+- Piani a pagamento: da 60 a 720 attività Agent/mese a seconda del piano
 </Callout>
 
 - **Tempo di esecuzione**: in modalità Agent, una singola attività richiede in genere 5-20 minuti. Le attività K2.6 Agent Swarm [Beta] possono richiedere più tempo. Puoi lasciare la pagina: assicurati solo di non fare clic su Interrompi per interrompere l'attività.
@@ -64,7 +65,7 @@ Piani a pagamento: da 60 a 720 attività Agent/mese a seconda del piano
 - **Attività semplici**: per semplici domande e risposte, si consiglia la modalità chat standard per risposte più rapide.
 
 <Callout type="warning">
-**Conformità dei contenuti**: le funzionalità di Agent sono soggette al [Kimi User Agreement](https://www.kimi.com/user/agreement/modelUse?version=v2). La generazione di contenuti vietati non è supportata; l'invio di contenuti vietati può comportare la sospensione del servizio.
+**Conformità dei contenuti**: le funzionalità di Agent sono soggette al [Contratto di Servizio Utente di Kimi](https://www.kimi.com/user/agreement/modelUse?version=v2). La generazione di contenuti vietati non è supportata; l'invio di contenuti vietati può comportare la sospensione del servizio.
 </Callout>
 
 ## Domande frequenti

@@ -41,7 +41,7 @@ Consultez la documentation officielle pour connaître la tarification détaillé
 
 Pour consulter le tableau complet des tarifs par modèle et les règles de facturation :
 
-Rendez-vous sur [platform.moonshot.ai/docs/pricing/chat](https://www.platform.moonshot.ai/docs/pricing/chat)
+Rendez-vous sur [platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat)
 
 ## Conseils pour optimiser les coûts
 

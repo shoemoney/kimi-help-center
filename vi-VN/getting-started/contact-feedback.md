@@ -23,4 +23,4 @@ Chọn kênh phù hợp dựa trên loại phản hồi của bạn:
 | Phản hồi về chất lượng trò chuyện | Sau một cuộc trò chuyện, nhấp vào nút **👎** và mô tả loại vấn đề cùng sai lệch cụ thể |
 | Khiếu nại tài khoản / báo cáo | [support@moonshot.ai](mailto:support@moonshot.ai) |
 | Liên hệ truyền thông | [pr@kimi.com](mailto:pr@kimi.com) |
-| Hỗ trợ Kimi API | Đăng nhập vào [Kimi Open Platform](https://platform.moonshot.ai/) để xem thông tin liên hệ chăm sóc khách hàng và cộng đồng nhà phát triển |
+| Hỗ trợ Kimi API | Đăng nhập vào [Nền tảng Mở Kimi](https://platform.kimi.ai/) để xem thông tin liên hệ chăm sóc khách hàng và cộng đồng nhà phát triển |

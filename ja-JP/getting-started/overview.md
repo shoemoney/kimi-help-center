@@ -18,7 +18,7 @@ preview_content: "Kimi のチャットモード、AIエージェント、ファ�
 Kimi は Moonshot AI が開発した AIアシスタントです。ウェブ検索、深い思考、マルチモーダル推論、超長文コンテキストでの対話に標準で対応しています。
 </Callout>
 
-[Kimi.com](https://www.kimi.com/) にアクセスするか、Kimi アプリをダウンロードして、チャット、作成、調査、開発を始めましょう。開発者は [Kimi Open Platform](https://platform.moonshot.ai/) で API やツールを利用し、Kimi の機能を自分のアプリケーションに組み込めます。
+[Kimi.com](https://www.kimi.com/) にアクセスするか、Kimi アプリをダウンロードして、チャット、作成、調査、開発を始めましょう。開発者は [Kimi オープンプラットフォーム](https://platform.kimi.ai/) で API やツールを利用し、Kimi の機能を自分のアプリケーションに組み込めます。
 ## チャットモード
 | モード | 説明 |
 |------|-------------|
@@ -36,7 +36,7 @@ Kimi は単なるチャットアシスタントではありません。タスク
 |-------|-------------|------|
 | **K2.6 Agent** | Webサイト生成、スライド作成、Deep Research、ドキュメントやスプレッドシートの処理など、タスクを自動で計画・完了します | [kimi.com/agent](https://www.kimi.com/agent) |
 | **K2.6 Agent Swarm [Beta]** | 最大4,000件の並列ツール呼び出しに対応し、300以上のサブエージェントを連携させて、大規模検索、長文執筆、バッチ処理を実行します | [kimi.com/agent-swarm](https://www.kimi.com/agent-swarm) |
-| **Kimi Code** | 開発者向けのコーディングアシスタントスイートです。CLI ツールと VS Code 拡張機能を含みます | [kimi.com/code](https://www.kimi.com/code?from=kfc_overview_topbar) |
+| **Kimi Code** | 開発者向けのコーディングアシスタントスイートです。CLI ツールと VS Code 拡張機能を含みます | [kimi.com/code](https://www.kimi.com/code) |
 | **Kimi Claw** | デプロイ不要のクラウド自動化プラットフォームです。5,000以上の組み込みスキル（ClawHub）を備えた常駐型 AIエージェントを30秒以内に起動できます | [kimi.com/bot](https://www.kimi.com/bot) |
 
 ## その他の主な機能

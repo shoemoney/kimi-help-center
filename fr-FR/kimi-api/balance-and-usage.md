@@ -17,7 +17,7 @@ L'API Kimi propose plusieurs moyens de consulter le solde de votre compte et le 
 
 ## Tableau de bord de la console
 
-Connectez-vous à [platform.moonshot.ai](https://platform.moonshot.ai) et rendez-vous sur la page **fee-detail** (détails de facturation) de la console pour consulter :
+Connectez-vous à [platform.kimi.ai](https://platform.kimi.ai) et rendez-vous sur la page **fee-detail** (détails de facturation) de la console pour consulter :
 
 - Le solde actuel du compte
 - La répartition quotidienne de l'utilisation

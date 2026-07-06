@@ -36,7 +36,7 @@ Puedes abrir una interfaz de línea de comandos desde **Configuración → Termi
 
 O bien, simplemente dile a Kimi Claw qué comando ejecutar en lenguaje natural: él lo ejecutará por ti.
 
-> Nota: La Terminal y los plugins comparten el mismo canal de conexión. Reiniciar la puerta de enlace de OpenClaw desconectará la Terminal.
+> Nota: La Terminal y los plugins comparten el mismo canal de conexión. Reiniciar el gateway de OpenClaw desconectará la Terminal.
 
 ## Referencia de comandos
 

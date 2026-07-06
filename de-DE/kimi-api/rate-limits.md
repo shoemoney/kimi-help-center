@@ -17,7 +17,7 @@ Die Kimi API erzwingt rate limit（Ratenbegrenzung）s für Anfragehäufigkeit u
 
 ## Rate-limit-Stufen
 
-Die rate limits der API sind nach dem **kumulierten Aufladebetrag Ihres Kontos** gestaffelt – je mehr Sie aufgeladen haben, desto höher fallen Ihre verfügbaren rate limits aus. Die konkreten Stufenschwellen sowie die zugehörigen Grenzwerte für RPM (Anfragen pro Minute) und TPM (token pro Minute) finden Sie in der Konsole unter [platform.moonshot.ai](https://www.platform.moonshot.ai).
+Die rate limits der API sind nach dem **kumulierten Aufladebetrag Ihres Kontos** gestaffelt – je mehr Sie aufgeladen haben, desto höher fallen Ihre verfügbaren rate limits aus. Die konkreten Stufenschwellen sowie die zugehörigen Grenzwerte für RPM (Anfragen pro Minute) und TPM (token pro Minute) finden Sie in der Konsole unter [platform.kimi.ai](https://platform.kimi.ai).
 
 ## Aktuelle Limits prüfen?
 
@@ -40,4 +40,4 @@ Wenn Ihre Anfragehäufigkeit das Limit überschreitet, gibt die API den Statusco
 Wenn Ihr Geschäftsbedarf die aktuellen rate limits übersteigt:
 
 - **Durch Aufladen hochstufen**: Erhöhen Sie Ihren kumulierten Aufladebetrag, und das System stuft Ihre rate-limit-Stufe automatisch hoch.
-- **Vertrieb kontaktieren**: Bei besonderen Anforderungen wenden Sie sich über [platform.moonshot.ai/contact-sales](https://www.platform.moonshot.ai/contact-sales) an das Vertriebsteam der Plattform, um eine individuelle rate quota anzufragen.
+- **Vertrieb kontaktieren**: Bei besonderen Anforderungen wenden Sie sich über [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) an das Vertriebsteam der Plattform, um eine individuelle rate quota anzufragen.

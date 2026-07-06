@@ -57,7 +57,9 @@ Khi tồn tại nhiều loại tín dụng, chúng được tiêu hao theo thứ
 ## Khi hết tín dụng
 - Mọi tác vụ đang chạy sẽ hoàn tất bình thường
 - Tác vụ mới sẽ hiển thị thông báo "không đủ tín dụng"
+
 **Các lựa chọn của bạn**:
+
 - Chờ tín dụng được làm mới vào chu kỳ thanh toán tiếp theo
 - Nâng cấp lên gói cao cấp hơn để có hạn mức hằng tháng lớn hơn
 ## Tín dụng được làm mới chính xác như thế nào?

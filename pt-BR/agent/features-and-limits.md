@@ -55,8 +55,9 @@ Devido ao limite de contexto de 256K caracteres dos large language models (cerca
 
 <Callout type="warning">
 **Uso de créditos**: as tarefas do Agent consomem créditos do pool compartilhado (outros recursos de assinatura). O Kimi Code usa um pool de créditos separado. Cada tarefa do Agent normalmente consome 1 unidade de créditos. Para informações detalhadas de créditos por nível de assinatura, consulte [Créditos e cobrança](/agent/quota-and-billing).
-Nível gratuito: 6 tarefas do Agent/mês
-Níveis pagos: de 60 a 720 tarefas do Agent/mês, dependendo do seu plano
+
+- Nível gratuito: 6 tarefas do Agent/mês
+- Níveis pagos: de 60 a 720 tarefas do Agent/mês, dependendo do seu plano
 </Callout>
 
 - **Tempo de execução**: no modo Agent, uma única tarefa normalmente leva de 5 a 20 minutos. As tarefas do K2.6 Agent Swarm [Beta] podem demorar mais. Você pode sair da página — basta não clicar em Parar para interromper a tarefa.
@@ -64,7 +65,7 @@ Níveis pagos: de 60 a 720 tarefas do Agent/mês, dependendo do seu plano
 - **Tarefas simples**: para perguntas e respostas simples, recomenda-se o modo de chat padrão, que oferece respostas mais rápidas.
 
 <Callout type="warning">
-**Conformidade de conteúdo**: os recursos do Agent estão sujeitos ao [Kimi User Agreement](https://www.kimi.com/user/agreement/modelUse?version=v2). Não é permitida a geração de conteúdo proibido; o envio de conteúdo proibido pode resultar na suspensão do serviço.
+**Conformidade de conteúdo**: os recursos do Agent estão sujeitos ao [Acordo de Serviço ao Usuário do Kimi](https://www.kimi.com/user/agreement/modelUse?version=v2). Não é permitida a geração de conteúdo proibido; o envio de conteúdo proibido pode resultar na suspensão do serviço.
 </Callout>
 
 ## Perguntas frequentes

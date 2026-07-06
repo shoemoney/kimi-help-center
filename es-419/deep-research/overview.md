@@ -114,7 +114,7 @@ Deep Research suele tardar entre 10 y 25 minutos. El sistema se ejecuta en segun
 2. **Reembolsos de créditos**: se reembolsan automáticamente ante errores en la invocación de herramientas; envía tus comentarios si la investigación se desvía de la dirección
 3. **Calidad de la entrada**: las preguntas concisas y bien definidas producen mejores resultados
 4. **Límites de alcance**: para preguntas y respuestas sencillas, usa el modo de chat estándar para obtener respuestas más rápidas
-5. **Términos**: sujeto al [Kimi User Service Agreement](https://www.kimi.com/user/agreement/modelUse?version=v2)
+5. **Términos**: sujeto al [Acuerdo de Servicio de Usuario de Kimi](https://www.kimi.com/user/agreement/modelUse?version=v2)
 
 ## Recursos relacionados
 - Informe técnico: [Kimi-Researcher: End-to-End RL Training](https://moonshotai.github.io/Kimi-Researcher/)

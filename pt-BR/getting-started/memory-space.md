@@ -1,5 +1,5 @@
 ---
-title: "Memory Space"
+title: "Espaço de memória"
 slug: "memory-space"
 order: 6
 extract_headings: false
@@ -7,11 +7,11 @@ preview: false
 ---
 
 <SeoMeta
-  title="Memory Space - Central de Ajuda Kimi"
+  title="Espaço de memória - Central de Ajuda Kimi"
   description="O Kimi realmente aprendeu a ouvir — quanto mais você conversa, melhor ele entende você. Veja como funciona:"
 />
 
-# Memory Space
+# Espaço de memória
 
 ## O que é a memória?
 O Kimi realmente aprendeu a ouvir — quanto mais você conversa, melhor ele entende você. Veja como funciona:
@@ -51,7 +51,7 @@ Observação: a memória está totalmente sob seu controle. Ela não é usada pa
 **(2) Gerenciar pelas Configurações (interface)**
 
 Você também pode gerenciar a memória pela interface de configurações:
-- Web / Celular: Configurações → Personalização → Memory Space
+- Web / Celular: Configurações → Personalização → Espaço de memória
 - Aqui você pode visualizar todas as memórias salvas
 - Você pode excluir manualmente qualquer memória que não precise mais
 
@@ -74,10 +74,10 @@ Se houver algo que você queira especificamente que o Kimi lembre, enfatize:
 - "…não se esqueça disso"
 
 ### Atualizando memórias
-Vá em Perfil → Configurações → Personalização → Memory Space para editar memórias individuais.
+Vá em Perfil → Configurações → Personalização → Espaço de memória para editar memórias individuais.
 
 ### Excluindo (esquecendo) memórias
-Vá em Perfil → Configurações → Personalização → Memory Space e clique em excluir em cada memória.
+Vá em Perfil → Configurações → Personalização → Espaço de memória e clique em excluir em cada memória.
 
 <Frames
   src="./images/memory-space/screenshot-19.png"

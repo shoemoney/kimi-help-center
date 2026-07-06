@@ -41,7 +41,7 @@ Kimi API は、token消費量に基づいて課金され、モデルや機能ご
 
 モデル料金表と課金ルールの全文は、次を参照してください:
 
-[platform.moonshot.ai/docs/pricing/chat](https://www.platform.moonshot.ai/docs/pricing/chat) をご覧ください
+[platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat) をご覧ください
 
 ## コスト最適化のヒント
 

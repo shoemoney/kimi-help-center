@@ -21,7 +21,7 @@ Kimi API 청구, 가격, 결제에 관한 자주 묻는 질문입니다.
 Kimi API는 사용한 token 수를 기준으로 과금되며, 입력 token과 출력 token의 가격이 별도로 책정됩니다. 가격은 모델에 따라 달라지며, Web Search는 호출당 $0.004의 추가 요금이 발생합니다.
 
 <Callout type="tip">
-자세한 가격은 [platform.moonshot.ai/docs/pricing/chat](https://platform.moonshot.ai/docs/pricing/chat)을 참고하세요.
+자세한 가격은 [platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat)을 참고하세요.
 </Callout>
 
 ## 어떤 결제 수단을 지원하나요?
@@ -33,7 +33,7 @@ API 콘솔에서는 다음 결제 수단을 지원합니다.
 
 충전한 금액은 API 사용에 즉시 사용할 수 있습니다.
 ## 인보이스는 어떻게 요청하나요?
-1. [platform.moonshot.ai](https://platform.moonshot.ai) 콘솔에 로그인합니다.
+1. [platform.kimi.ai](https://platform.kimi.ai) 콘솔에 로그인합니다.
 2. **Billing → Invoice Management**로 이동합니다.
 3. 인보이스가 필요한 충전 기록을 선택합니다.
 4. 인보이스 정보(개인 또는 사업자)를 입력하고 제출합니다.

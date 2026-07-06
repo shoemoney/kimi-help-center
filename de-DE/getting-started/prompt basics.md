@@ -122,7 +122,7 @@ Hier finden Sie einige sofort einsetzbare Prompt-Vorlagen – kopieren, anpassen
     {
       name: "prompt.txt",
       language: "text",
-      content: "Schreibe einen [article type] über [topic] für [target audience], mit etwa [xxx] Wörtern.\nAnforderungen: [style/format/focus areas]",
+      content: "Schreibe einen [Artikeltyp] über [Thema] für [Zielgruppe], mit etwa [xxx] Wörtern.\nAnforderungen: [Stil/Format/Schwerpunkte]",
     },
   ]}
 />
@@ -134,7 +134,7 @@ Hier finden Sie einige sofort einsetzbare Prompt-Vorlagen – kopieren, anpassen
     {
       name: "prompt.txt",
       language: "text",
-      content: "Analysiere [subject] mit Schwerpunkt auf [key dimensions].\nAusgabeformat: [table/chart/report]\nFüge Schlussfolgerungen und Empfehlungen hinzu.",
+      content: "Analysiere [Thema] mit Schwerpunkt auf [Schlüsseldimensionen].\nAusgabeformat: [Tabelle/Diagramm/Bericht]\nFüge Schlussfolgerungen und Empfehlungen hinzu.",
     },
   ]}
 />
@@ -146,7 +146,7 @@ Hier finden Sie einige sofort einsetzbare Prompt-Vorlagen – kopieren, anpassen
     {
       name: "prompt.txt",
       language: "text",
-      content: "Übersetze den folgenden Text ins [target language] und bewahre einen [academic/conversational/business] Ton.\nGib bei Fachterminologie den Originalbegriff in Klammern an.",
+      content: "Übersetze den folgenden Text ins [Zielsprache] und bewahre einen [akademisch/umgangssprachlich/geschäftlich] Ton.\nGib bei Fachterminologie den Originalbegriff in Klammern an.",
     },
   ]}
 />

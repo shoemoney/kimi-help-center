@@ -23,4 +23,4 @@ preview: false
 | 聊天品質回饋 | 對話結束後，點擊 **👎** 按鈕，並說明問題類型與具體偏差情形 |
 | 帳號申訴／檢舉 | [support@moonshot.ai](mailto:support@moonshot.ai) |
 | 媒體洽詢 | [pr@kimi.com](mailto:pr@kimi.com) |
-| Kimi API 支援 | 登入 [Kimi 開放平台](https://platform.moonshot.ai/) 取得客服聯絡方式與開發者社群資訊 |
+| Kimi API 支援 | 登入 [Kimi 開放平台](https://platform.kimi.ai/) 取得客服聯絡方式與開發者社群資訊 |

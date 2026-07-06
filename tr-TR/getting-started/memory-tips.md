@@ -80,7 +80,7 @@ preview: false
 />
 
 ## Bellek sınırları
-Memory Space şu anda aşağıdaki sınırlara sahiptir:
+Bellek Alanı şu anda aşağıdaki sınırlara sahiptir:
 - En fazla 50 bellek kaydı saklanabilir.
 - Her bellek kaydı 500 karakterle sınırlıdır.
 - Nisan 2026'dan önce oluşturulan bellekler bu sınırı aşabilir; mevcut bu bellekler hâlâ korunmaktadır.

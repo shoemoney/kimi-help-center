@@ -19,7 +19,7 @@ Opciones de colaboración para clientes empresariales: desde descuentos por volu
 
 La API de Kimi ofrece una variedad de opciones de colaboración para clientes empresariales, con el fin de satisfacer necesidades comerciales de cualquier escala.
 ## ¿Cómo contactar al equipo de ventas?
-Visita [platform.moonshot.ai/contact-sales](https://platform.moonshot.ai/contact-sales) para enviar un formulario de contacto. Nuestro equipo de ventas se comunicará contigo en un plazo de 1 a 2 días hábiles.
+Visita [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) para enviar un formulario de contacto. Nuestro equipo de ventas se comunicará contigo en un plazo de 1 a 2 días hábiles.
 
 <Callout type="tip">
 **Incluye en tu envío**:

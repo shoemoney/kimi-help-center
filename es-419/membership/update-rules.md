@@ -8,17 +8,17 @@ preview: false
 
 <SeoMeta
   title="Reglas de actualización y uso de créditos - Centro de ayuda de Kimi"
-  description="Los beneficios de la membresía de Kimi incluyen dos grupos de créditos. Kimi Code usa un grupo de créditos independiente; las demás funciones de la membresía comparten un solo grupo de créditos, y los créditos se consumen según el uso real."
+  description="Los beneficios de la membresía de Kimi incluyen dos paquetes de créditos. Kimi Code usa un paquete de créditos independiente; las demás funciones de la membresía comparten un solo paquete de créditos, y los créditos se consumen según el uso real."
 />
 
 # Reglas de actualización y uso de créditos
 
 <Callout type="info">
-Los beneficios de la membresía de Kimi incluyen dos grupos de créditos. Kimi Code usa un grupo de créditos independiente; las demás funciones de la membresía comparten un solo grupo de créditos, y los créditos se consumen según el uso real.
+Los beneficios de la membresía de Kimi incluyen dos paquetes de créditos. Kimi Code usa un paquete de créditos independiente; las demás funciones de la membresía comparten un solo paquete de créditos, y los créditos se consumen según el uso real.
 </Callout>
 
-## ¿Qué son los dos grupos de créditos?
-En lugar de tener un grupo de créditos distinto para cada función, tu membresía te ofrece dos grupos de créditos. Kimi Code usa un grupo de créditos independiente; las demás funciones de la membresía comparten un solo grupo de créditos que funciona en todas partes:
+## ¿Qué son los dos paquetes de créditos?
+En lugar de tener un paquete de créditos distinto para cada función, tu membresía te ofrece dos paquetes de créditos. Kimi Code usa un paquete de créditos independiente; las demás funciones de la membresía comparten un solo paquete de créditos que funciona en todas partes:
 | Función | Descripción |
 |---------|-------------|
 | **Tareas de Agent** | Sitios web, documentos, presentaciones, hojas de cálculo, deep research |
@@ -26,10 +26,10 @@ En lugar de tener un grupo de créditos distinto para cada función, tu membres�
 | **Otras funciones** | Generación de imágenes y más |
 
 > **Kimi Chat**: Conversaciones con los modelos más recientes (no consume créditos)
-> **Kimi Code**: Asistente de programación con IA (grupo de créditos independiente)
+> **Kimi Code**: Asistente de programación con IA (paquete de créditos independiente)
 
 <Callout type="tip">
-Esto significa que puedes distribuir los créditos como prefieras dentro del grupo compartido: dedicar más a investigación un mes y más a documentos al siguiente. Kimi Chat no consume créditos, y Kimi Code usa su propio grupo de créditos independiente.
+Esto significa que puedes distribuir los créditos como prefieras dentro del paquete de créditos compartido: dedicar más a investigación un mes y más a documentos al siguiente. Kimi Chat no consume créditos, y Kimi Code usa su propio paquete de créditos independiente.
 </Callout>
 
 ## ¿Cómo se calculan los créditos?
@@ -40,7 +40,7 @@ Los créditos se consumen según la cantidad de tokens que procesa una tarea. La
 - Generar una presentación sencilla ≈ 1–2 % de tus créditos
 - Ejecutar un informe de deep research ≈ 5–10 %
 - Escribir un fragmento de código ≈ 0,5–2 %
-Los planes de niveles superiores incluyen grupos de créditos proporcionalmente más grandes.
+Los planes de niveles superiores incluyen paquetes de créditos proporcionalmente más grandes.
 </Callout>
 
 ## Reglas de actualización de créditos
@@ -57,7 +57,9 @@ Cuando existen varios tipos de créditos, se consumen en este orden:
 ## Cuando se agotan los créditos
 - Cualquier tarea que ya esté en curso se completará con normalidad
 - Las tareas nuevas mostrarán un aviso de «créditos insuficientes»
+
 **Tus opciones**:
+
 - Esperar a que tus créditos se renueven en el próximo ciclo de facturación
 - Mejorar a un plan de nivel superior para obtener una asignación mensual mayor
 ## ¿Cómo se renuevan exactamente los créditos?

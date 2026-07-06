@@ -21,7 +21,7 @@ Domande frequenti sugli account sviluppatore, la verifica e l'autenticazione del
 Un account personale **non può ricevere direttamente una fattura aziendale**. Se hai bisogno di una fattura aziendale, devi prima trasformare il tuo account in un account aziendale. Una volta completata la verifica, potrai richiedere le fatture intestate alla tua organizzazione.
 
 ## Come passo da un account personale a un account aziendale?
-1. Accedi alla console su [platform.moonshot.ai](https://platform.moonshot.ai).
+1. Accedi alla console su [platform.kimi.ai](https://platform.kimi.ai).
 2. Vai su **Impostazioni account → Verifica**.
 3. Seleziona **Verifica organizzazione** e compila le informazioni richieste.
 4. Invia la richiesta di revisione: una volta approvata, l'account verrà convertito automaticamente.

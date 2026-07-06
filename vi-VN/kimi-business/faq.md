@@ -66,8 +66,16 @@ Lưu ý: Số tài khoản nhận chỉ dùng cho lần chuyển khoản này v�
 Hiện tại, ứng dụng Kimi App chưa hỗ trợ các tính năng doanh nghiệp Kimi Business mà chỉ hỗ trợ thành viên cá nhân. Ứng dụng máy tính hiện đã hỗ trợ Kimi Business. Để sử dụng:
 
 1. Mở ứng dụng máy tính Kimi và đăng nhập bằng tài khoản đã tham gia tổ chức doanh nghiệp của bạn.
-2. Nhấp vào ảnh đại diện / lối vào không gian làm việc và chuyển sang không gian làm việc doanh nghiệp.
-3. Sau khi chuyển đổi, bạn có thể sử dụng các quyền lợi doanh nghiệp Kimi Business trong ứng dụng máy tính.
+2. Ở góc trên bên trái, chuyển sang chế độ Chat.
+3. Nhấp vào ảnh đại diện / lối vào không gian làm việc và chuyển sang không gian làm việc doanh nghiệp.
+4. Sau khi chuyển đổi, bạn có thể sử dụng các quyền lợi doanh nghiệp Kimi Business trong ứng dụng máy tính.
+
+<Frames
+  src="./images/faq/desktop-workspace-switch-en.png"
+  alt="Chuyển sang không gian làm việc doanh nghiệp trong ứng dụng máy tính Kimi"
+  width={3024}
+  height={1832}
+/>
 
 Thành viên cá nhân và thành viên doanh nghiệp hoạt động độc lập. Nếu bạn đã đăng ký thành viên cá nhân, bạn có thể tiếp tục sử dụng các quyền lợi thành viên cá nhân trong App; trong ứng dụng máy tính, các quyền lợi khả dụng của bạn tùy thuộc vào không gian làm việc đang được chọn.
 

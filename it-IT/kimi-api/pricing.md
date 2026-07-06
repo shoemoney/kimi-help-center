@@ -41,7 +41,7 @@ Consulta la documentazione ufficiale per i dettagli sui prezzi del Context Cachi
 
 Per la tabella completa dei prezzi dei modelli e le regole di fatturazione:
 
-Puoi visitare [platform.moonshot.ai/docs/pricing/chat](https://www.platform.moonshot.ai/docs/pricing/chat)
+Puoi visitare [platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat)
 
 ## Consigli per ottimizzare i costi
 

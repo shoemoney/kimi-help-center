@@ -20,7 +20,7 @@ Kimi API 平台为开发者提供强大的大语言模型能力，帮助你将 A
 
 Kimi API 由 Moonshot 自研大语言模型驱动，提供文本生成、多轮对话、文件解析、网页搜索等核心能力。平台兼容 OpenAI API 格式，开发者可以以极低成本完成迁移与集成。
 
-**平台地址**： [platform.moonshot.ai](https://www.platform.moonshot.ai)
+**平台地址**： [platform.kimi.ai](https://platform.kimi.ai)
 
 ## 适用对象
 
@@ -37,7 +37,7 @@ Kimi API 由 Moonshot 自研大语言模型驱动，提供文本生成、多轮�
 
 ## 快速开始
 
-1. 访问 [platform.moonshot.ai](https://platform.moonshot.ai) 注册开发者账号。
+1. 访问 [platform.kimi.ai](https://platform.kimi.ai) 注册开发者账号。
 2. 在控制台创建 API 密钥。
 3. 参考 API 文档发起你的第一次调用。
 4. 根据使用场景选择合适的模型和参数。

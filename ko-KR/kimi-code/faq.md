@@ -94,7 +94,7 @@ Kimi Code 플랫폼을 사용 중이라면 `/usage` 명령어로 현재 quota와
 
 ### 인보이스 요청이나 멤버십 업그레이드는 어떻게 하나요?
 
-[Kimi 멤버십 페이지](https://www.kimi.com/membership/pricing?from=kfc_docs_faq#pricing-faq)에 방문하여 안내에 따라 인보이스 요청을 제출하거나 플랜을 업그레이드하세요.
+[Kimi 멤버십 페이지](https://www.kimi.com/membership/pricing#pricing-faq)에 방문하여 안내에 따라 인보이스 요청을 제출하거나 플랜을 업그레이드하세요.
 
 ## 상호작용 관련 문제
 

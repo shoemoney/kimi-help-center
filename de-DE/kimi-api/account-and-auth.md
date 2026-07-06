@@ -21,7 +21,7 @@ Häufig gestellte Fragen zu Entwicklerkonten, Verifizierung und Authentifizierun
 Ein Privatkonto **kann keine Geschäftsrechnung direkt erhalten**. Wenn Sie eine Geschäftsrechnung benötigen, wandeln Sie Ihr Konto zunächst in ein Organisationskonto um. Nach der Verifizierung können Sie Rechnungen auf den Namen Ihrer Organisation anfordern.
 
 ## Wie wandle ich ein Privatkonto in ein Organisationskonto um?
-1. Melden Sie sich in der Konsole unter [platform.moonshot.ai](https://platform.moonshot.ai) an.
+1. Melden Sie sich in der Konsole unter [platform.kimi.ai](https://platform.kimi.ai) an.
 2. Gehen Sie zu **Kontoeinstellungen → Verifizierung**.
 3. Wählen Sie **Organisationsverifizierung** und geben Sie die erforderlichen Informationen ein.
 4. Reichen Sie den Antrag zur Prüfung ein — nach der Genehmigung wird Ihr Konto automatisch umgewandelt.

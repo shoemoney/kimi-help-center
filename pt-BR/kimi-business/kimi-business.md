@@ -31,23 +31,19 @@ Os assentos adicionais comprados durante o período de assinatura têm o valor p
 
 ## Principais Benefícios
 
-### Recursos de IA
-
-| Benefício | Créditos |
-|---------|-------|
-| Uso do Agent | 4x (cerca de 150/mês) |
-| Tarefas simultâneas do Agent | 2 tarefas |
-| Fila prioritária | velocidade 4x |
-| Agent Cluster | 50 vezes/mês, 4 subtarefas paralelas |
-| Kimi Code | créditos de 20x |
-| Kimi Claw | Implantação com um clique do assistente de IA dedicado, com suporte para Web e Android |
-| Banco de dados profissional | 5.000 vezes/mês, abrangendo fontes de dados financeiros, econômicos e acadêmicos |
+- Pedido mínimo de 5 assentos
+- Proteção de privacidade de dados de nível empresarial
+- Acesso prioritário a recursos experimentais: Agent Swarm / Kimi Claw / Professional Database
+- 2x de créditos mensais do Agent
+- Multitarefa do Agent
+- 5x de créditos do Kimi Code
+- Suporte técnico dedicado
 
 ### Recursos Empresariais
 
 - **Proteção de privacidade dos dados**: Os dados da empresa não são usados para treinar modelos, garantindo a segurança das informações de negócio
 - **Gestão de membros**: Os administradores podem convidar e remover membros, alocando assentos de forma flexível
-- **Espaço de trabalho**: Isolamento total entre dados pessoais e corporativos, com suporte para alternância entre espaços de trabalho
+- **Suporte técnico dedicado**: Os clientes corporativos recebem suporte técnico dedicado
 
 ## Gestão de Membros
 
@@ -97,7 +93,7 @@ Ao alternar entre espaços de trabalho, a página é atualizada automaticamente 
 
 <Callout type="warning">
 
-Suporte por plataforma: a Web oferece suporte completo aos recursos do Kimi Business. Os aplicativos para celular e desktop dão suporte apenas à assinatura pessoal; os recursos empresariais não estão disponíveis.
+Suporte por plataforma: os clientes Web e desktop oferecem suporte aos recursos empresariais do Kimi Business. O aplicativo para celular atualmente oferece suporte apenas à assinatura pessoal; os recursos empresariais não estão disponíveis nele.
 
 </Callout>
 

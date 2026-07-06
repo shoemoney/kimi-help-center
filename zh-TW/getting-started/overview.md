@@ -18,7 +18,7 @@ preview_content: "了解 Kimi 的聊天模式、AI 代理、檔案處理與介�
 Kimi 是由 Moonshot AI 開發的 AI 助理，內建 Web Search、深度思考、多模態推理，以及超長上下文對話能力。
 </Callout>
 
-前往 [Kimi.com](https://www.kimi.com/) 或下載 Kimi app，即可開始聊天、創作、研究與建構。開發者可前往 [Kimi 開放平台](https://platform.moonshot.ai/) 使用 API 與工具，將 Kimi 的能力整合到自己的應用程式中。
+前往 [Kimi.com](https://www.kimi.com/) 或下載 Kimi app，即可開始聊天、創作、研究與建構。開發者可前往 [Kimi 開放平台](https://platform.kimi.ai/) 使用 API 與工具，將 Kimi 的能力整合到自己的應用程式中。
 ## 聊天模式
 | 模式 | 說明 |
 |------|-------------|
@@ -36,7 +36,7 @@ Kimi 不只是聊天助理，更是能自主規劃並執行任務的 AI 代理�
 |-------|-------------|------|
 | **K2.6 Agent** | 自動規劃並完成任務，包括網站生成、簡報製作、Deep Research、文件與試算表處理 | [kimi.com/agent](https://www.kimi.com/agent) |
 | **K2.6 Agent Swarm [測試版]** | 支援最多 4,000 次平行工具呼叫，協調 300+ 個子代理，進行大規模搜尋、長文寫作與批次處理 | [kimi.com/agent-swarm](https://www.kimi.com/agent-swarm) |
-| **Kimi Code** | 面向開發者的程式開發助理套件，包含 CLI 工具與 VS Code 擴充功能 | [kimi.com/code](https://www.kimi.com/code?from=kfc_overview_topbar) |
+| **Kimi Code** | 面向開發者的程式開發助理套件，包含 CLI 工具與 VS Code 擴充功能 | [kimi.com/code](https://www.kimi.com/code) |
 | **Kimi Claw** | 零部署雲端自動化平台——30 秒內即可啟動持續運行的 AI 代理，內建 5,000+ 項技能（ClawHub） | [kimi.com/bot](https://www.kimi.com/bot) |
 
 ## 其他核心功能

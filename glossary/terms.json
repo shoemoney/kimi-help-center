@@ -1,10 +1,10 @@
 {
   "meta": {
     "version": "1.0.0",
-    "last_updated": "2026-05-22",
+    "last_updated": "2026-07-02",
     "description": "Kimi Help Center 多语言专有名词对照表",
     "source_repo": "git@dev.msh.team:search-engine/kimi-helpcenter-doc.git",
-    "total_terms": 168,
+    "total_terms": 169,
     "locales": [
       "zh-CN",
       "en-US"
@@ -326,12 +326,29 @@
       "zh_form": "记忆空间",
       "en_form": "Memory Space",
       "alias": [],
-      "translation_strategy": "keep_original_with_note",
+      "translation_strategy": "localize",
       "case_sensitive": true,
       "region_note": "global",
       "context_example": "记忆空间（Memory Space）支持长期记忆",
       "source_article": "zh-CN/getting-started/memory-space.md",
-      "status": "confirmed"
+      "status": "confirmed",
+      "localized_forms": {
+        "zh-CN": "记忆空间",
+        "zh-SG": "记忆空间",
+        "zh-TW": "記憶空間",
+        "de-DE": "Erinnerungsbereich",
+        "es-419": "Espacio de memoria",
+        "fr-FR": "Espace mémoire",
+        "id-ID": "Ruang Memori",
+        "it-IT": "Spazio di memoria",
+        "ja-JP": "記憶領域",
+        "ko-KR": "메모리 공간",
+        "pt-BR": "Espaço de memória",
+        "tr-TR": "Bellek Alanı",
+        "ru-RU": "Пространство памяти",
+        "th-TH": "พื้นที่ความจำ",
+        "vi-VN": "Lệnh ghi nhớ"
+      }
     },
     {
       "id": "P1-018",
@@ -2433,6 +2450,38 @@
       "context_example": "复刻（remix）功能",
       "source_article": "zh-CN/getting-started/overview.md",
       "status": "confirmed"
+    },
+    {
+      "id": "P1-025",
+      "category": "P1",
+      "zh_form": "Kimi 开放平台",
+      "en_form": "Kimi Open Platform",
+      "alias": [
+        "Kimi Platform"
+      ],
+      "translation_strategy": "localize",
+      "case_sensitive": true,
+      "region_note": "global",
+      "context_example": "开发者可前往 Kimi 开放平台（Kimi Open Platform）获取 API 与工具，将 Kimi 能力集成到自己的应用中",
+      "source_article": "en-US/getting-started/overview.md",
+      "status": "confirmed",
+      "localized_forms": {
+        "zh-CN": "Kimi 开放平台",
+        "zh-SG": "Kimi 开放平台",
+        "zh-TW": "Kimi 開放平台",
+        "fr-FR": "Plateforme ouverte de Kimi",
+        "de-DE": "Kimi Offene Plattform",
+        "id-ID": "Platform Terbuka Kimi",
+        "it-IT": "Piattaforma aperta di Kimi",
+        "ja-JP": "Kimi オープンプラットフォーム",
+        "ko-KR": "Kimi 오픈 플랫폼",
+        "pt-BR": "Plataforma aberta da Kimi",
+        "es-419": "Plataforma abierta de Kimi",
+        "tr-TR": "Kimi Açık Platform",
+        "th-TH": "แพลตฟอร์มเปิดของ Kimi",
+        "vi-VN": "Nền tảng Mở Kimi",
+        "ru-RU": "Открытая платформа Kimi"
+      }
     }
   ]
 }

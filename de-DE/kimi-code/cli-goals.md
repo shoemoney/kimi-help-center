@@ -25,7 +25,7 @@ Schreiben Sie das Ziel hinter `/goal`:
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Fix bugs listed in the issue tracker.",
+      content: "/goal Behebe die im Issue-Tracker aufgeführten Bugs.",
     },
   ]}
 />
@@ -39,7 +39,7 @@ Ziele funktionieren am besten, wenn das Ziel sowohl die Ziellinie als auch den N
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Fix every bug labeled checkout-regression, add or update tests for each fix, and run the checkout test suite",
+      content: "/goal Behebe jeden Bug mit dem Label checkout-regression, ergänze oder aktualisiere für jede Korrektur Tests und führe die checkout-Testsuite aus",
     },
   ]}
 />
@@ -51,7 +51,7 @@ Vermeiden Sie Ziele, die nur eine grobe Richtung vorgeben:
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Find all bugs in this codebase.",
+      content: "/goal Finde alle Bugs in dieser Codebase.",
     },
   ]}
 />
@@ -67,7 +67,7 @@ Nutzen Sie Ziele für Arbeit mit klarer Ziellinie und überprüfbarem Nachweis.
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Fix every failing checkout test and run the checkout test suite successfully.",
+      content: "/goal Behebe jeden fehlschlagenden checkout-Test und führe die checkout-Testsuite erfolgreich aus.",
     },
   ]}
 />
@@ -81,7 +81,7 @@ Nutzen Sie Ziele, wenn eine Aufgabe mehrere Schritte aus Untersuchung und Korrek
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Find why the release build fails, fix the root cause, and verify the build passes.",
+      content: "/goal Finde heraus, warum der Release-Build fehlschlägt, behebe die Grundursache und stelle sicher, dass der Build durchläuft.",
     },
   ]}
 />
@@ -95,7 +95,7 @@ Nutzen Sie Ziele für aufeinanderfolgende Arbeit, die ohne weiteren Prompt fortg
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Update the feature implementation, add docs, run tests, and summarize the changed files.",
+      content: "/goal Aktualisiere die Feature-Implementierung, ergänze die Dokumentation, führe die Tests aus und fasse die geänderten Dateien zusammen.",
     },
   ]}
 />
@@ -113,7 +113,7 @@ Nutzen Sie Ziele nicht für weit gefasste Themen oder offene Diskussionen.
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Greetings!",
+      content: "/goal Hallo!",
     },
   ]}
 />
@@ -131,7 +131,7 @@ Nutzen Sie Ziele nicht für Aufgaben, die bekanntermaßen unmöglich oder unlös
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Prove 1 + 1 = 3.",
+      content: "/goal Beweise, dass 1 + 1 = 3.",
     },
   ]}
 />
@@ -149,7 +149,7 @@ Nutzen Sie Ziele nicht mit unklaren oder komplizierten Vorgaben.
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal Create a videogame in a single HTML file.",
+      content: "/goal Erstelle ein Videospiel in einer einzigen HTML-Datei.",
     },
   ]}
 />
@@ -189,7 +189,7 @@ Verwenden Sie `/goal next`, wenn Sie weitere Arbeit bereit haben, aber das aktue
     {
       name: "prompt.txt",
       language: "text",
-      content: "/goal next Update the release notes after the tests pass",
+      content: "/goal next Aktualisiere die Release Notes, nachdem die Tests bestanden sind",
     },
   ]}
 />
@@ -227,7 +227,7 @@ Im nicht-interaktiven Prompt-Modus wird nur das Anlegen von Zielen unterstützt:
     {
       name: "command.sh",
       language: "bash",
-      content: "kimi -p \"/goal Fix the failing checkout test\"",
+      content: "kimi -p \"/goal Behebe den fehlschlagenden checkout-Test\"",
     },
   ]}
 />

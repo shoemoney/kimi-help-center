@@ -21,7 +21,7 @@ Kimi API geliştirici hesapları, doğrulama ve kimlik doğrulama hakkında sık
 Bireysel bir hesap **doğrudan kurumsal fatura alamaz**. Kurumsal faturaya ihtiyacınız varsa, önce hesabınızı kurumsal hesaba yükseltin. Doğrulama tamamlandıktan sonra, kuruluşunuz adına fatura talep edebilirsiniz.
 
 ## Bireysel hesaptan kurumsal hesaba nasıl yükseltirim?
-1. [platform.moonshot.ai](https://platform.moonshot.ai) konsolunda oturum açın.
+1. [platform.kimi.ai](https://platform.kimi.ai) konsolunda oturum açın.
 2. **Hesap Ayarları → Doğrulama** bölümüne gidin.
 3. **Kurumsal Doğrulama**'yı seçin ve gerekli bilgileri doldurun.
 4. İnceleme için gönderin — onaylandığında hesabınız otomatik olarak dönüştürülür.

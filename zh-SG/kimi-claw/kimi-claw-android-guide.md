@@ -70,9 +70,9 @@ Kimi Claw Android 需要以下权限，才能在后台稳定运行。请逐项�
 
 | 权限 | 说明 |
 | --- | --- |
-| 系统通知 | 显示网关状态和提醒 |
+| 系统通知 | 显示 gateway 状态和提醒 |
 | 存储空间权限 | 需要至少 5GB 可用空间 |
-| 后台运行权限 | 切换到后台时保持网关运行 |
+| 后台运行权限 | 切换到后台时保持 gateway 运行 |
 
 不同手机品牌的设置路径可能不同，以下为通用步骤：
 
@@ -106,7 +106,7 @@ Kimi Claw Android 需要以下权限，才能在后台稳定运行。请逐项�
 
 完成配置后，进入 Dashboard 主界面，你可以看到以下信息：
 
-- OpenClaw 网关状态 —— 启动中 / 已连接 / 已停止，以及运行时长
+- OpenClaw gateway 状态 —— 启动中 / 已连接 / 已停止，以及运行时长
 - 聊天渠道 —— 当前已连接的通信渠道列表
 - OpenClaw 日志 —— OpenClaw 运行的原始日志
 - 使用 Kimi 对话 —— 打开 Kimi App，进入 Kimi Claw Android 对应的对话界面，并自动切换到对应的 Claw。
@@ -397,9 +397,9 @@ Kimi Claw Android 内置 ClawHub 技能库。你可以在设置中管理和安�
 | --- | --- |
 | 远程控制手机应用 | 通过聊天软件指令远程使用手机上的 App |
 | 多渠道通信 | 支持通过 Kimi、飞书、微信与 Claw 通信 |
-| 实时日志查看 | 查看 OpenClaw 网关运行日志，支持搜索和级别过滤 |
+| 实时日志查看 | 查看 OpenClaw gateway 运行日志，支持搜索和级别过滤 |
 | 配置备份与恢复 | 备份当前配置，可在重装或更换设备后恢复 |
-| 网关状态监控 | 实时查看 OpenClaw 网关的连接状态和运行时长 |
+| gateway 状态监控 | 实时查看 OpenClaw gateway 的连接状态和运行时长 |
 | 渠道管理 | 添加、查看和删除通信渠道 |
 | OpenClaw Dashboard | 通过内置 Dashboard 管理 OpenClaw |
 
@@ -444,17 +444,17 @@ Kimi Claw Android 内置 ClawHub 技能库。你可以在设置中管理和安�
 
 ### 连接与稳定性
 
-#### 为什么网关状态一直显示“启动中”？
+#### 为什么 gateway 状态一直显示“启动中”？
 
 - 检查网络连接是否正常
 - 确认所有必需权限（通知、电池优化、存储、自启动）均已授予
-- 尝试在设置中点击“备份并重启”，重启网关服务
+- 尝试在设置中点击“备份并重启”，重启 gateway 服务
 
-#### 网关突然断开了？
+#### gateway 突然断开了？
 
 - 检查手机是否进入省电模式，导致后台 App 被清理
 - 确认“忽略电池优化”和“自启动权限”已正确授予
-- 在 Dashboard 查看网关状态。如果显示“已停止”，点击重启
+- 在 Dashboard 查看 gateway 状态。如果显示“已停止”，点击重启
 
 #### 手机锁屏后，Kimi Claw Android 会断开连接吗？
 
@@ -486,7 +486,7 @@ Kimi Claw Android 内置 ClawHub 技能库。你可以在设置中管理和安�
 #### 为什么在 Kimi App 中看不到 Kimi Claw Android？
 
 - 请确认 Onboarding 流程已完整完成（权限授予 → 安装 OpenClaw → 配置 Kimi 账号）
-- 检查 Dashboard 中的网关状态是否为“已连接”
+- 检查 Dashboard 中的 gateway 状态是否为“已连接”
 - 尝试在 Kimi App 中刷新 Bot 列表
 
 ### 功能使用
@@ -509,7 +509,7 @@ Kimi Claw Android 内置 ClawHub 技能库。你可以在设置中管理和安�
 
 #### 如何查看 Kimi Claw Android 的运行状态？
 
-- 在 Dashboard 主界面，你可以查看网关状态和运行时间
+- 在 Dashboard 主界面，你可以查看 gateway 状态和运行时间
 - 点击“实时日志”查看详细运行日志
 - 通过日志的搜索和级别过滤功能，可以快速定位问题
 

@@ -14,7 +14,7 @@ preview: false
 # Agent kredileri ve faturalandırma
 
 <Callout type="info">
-Agent modu, Kimi'nin kredi sistemini kullanır. Tüm üyelik avantajları iki kredi havuzu içerir: Kimi Code ayrı bir kredi havuzu kullanır; diğer üyelik özellikleri (Agent, Deep Research, Slides, Docs, Sheets, Kimi Claw vb.) tek bir kredi havuzunu paylaşır ve krediler, gerçek token tüketimine göre düşülür.
+Agent modu, Kimi'nin kredi sistemini kullanır. Tüm üyelik avantajları iki kredi havuzu içerir: Kimi Code ayrı bir kredi havuzu kullanır; diğer üyelik özellikleri (Agent, Deep Research, Slaytlar, Belgeler, Tablolar, Kimi Claw vb.) tek bir kredi havuzunu paylaşır ve krediler, gerçek token tüketimine göre düşülür.
 </Callout>
 
 ## Faturalandırma modeli

@@ -70,9 +70,9 @@ Kimi Claw Android'in arka planda kararlı bir şekilde çalışabilmesi için a�
 
 | İzinler | Açıklama |
 | --- | --- |
-| Sistem bildirimi | Ağ geçidi durumunu ve hatırlatmaları gösterir |
+| Sistem bildirimi | Gateway durumunu ve hatırlatmaları gösterir |
 | Depolama alanı izinleri | En az 5 GB kullanılabilir alan gereklidir |
-| Arka planda çalışma izni | Arka plana geçildiğinde ağ geçidini çalışır durumda tutar |
+| Arka planda çalışma izni | Arka plana geçildiğinde gateway'i çalışır durumda tutar |
 
 Ayar yolları farklı telefon markaları arasında değiştiğinden, genel adımlar aşağıdaki gibidir:
 
@@ -106,7 +106,7 @@ Kurulum başarısız olursa, yeniden denemek için "Yeniden Kur"a dokunabilirsin
 
 Yapılandırma tamamlandıktan sonra Dashboard ana arayüzüne girin; burada aşağıdaki bilgileri görebilirsiniz:
 
-- OpenClaw Ağ Geçidi Durumu — Başlatılıyor / Bağlandı / Durduruldu ve Çalışma Süresi
+- OpenClaw Gateway Durumu — Başlatılıyor / Bağlandı / Durduruldu ve Çalışma Süresi
 - Sohbet Kanalları — Şu anda bağlı olan iletişim kanallarının listesi
 - OpenClaw Günlüğü — OpenClaw çalışmasının ham günlüğü
 - Kimi Sohbetini Kullan — Kimi uygulamasını açar, Kimi Claw Android'e karşılık gelen sohbet arayüzünü açar ve otomatik olarak ilgili Claw'a geçiş yapar.
@@ -397,9 +397,9 @@ Finansal güvenlik ve gizlilik endişeleri nedeniyle, aşağıdaki kategorilerde
 | --- | --- |
 | Mobil uygulamayı uzaktan kontrol etme | Sohbet yazılımı komutlarıyla telefondaki uygulamaları uzaktan kullanma |
 | Çok kanallı iletişim | Kimi, Feishu ve WeChat aracılığıyla Claw ile iletişimi destekler |
-| Gerçek zamanlı günlük görüntüleme | OpenClaw ağ geçidi çalışma günlüklerini görüntüleme; arama ve düzey filtrelemeyi destekler |
+| Gerçek zamanlı günlük görüntüleme | OpenClaw gateway çalışma günlüklerini görüntüleme; arama ve düzey filtrelemeyi destekler |
 | Yapılandırma yedekleme ve geri yükleme | Yeniden kurulum veya cihaz değişiminden sonra geri yüklenebilen mevcut yapılandırmayı yedekleme |
-| Ağ geçidi durumu izleme | OpenClaw ağ geçidinin bağlantı durumunu ve çalışma süresini gerçek zamanlı görüntüleme |
+| Gateway durumu izleme | OpenClaw gateway'inin bağlantı durumunu ve çalışma süresini gerçek zamanlı görüntüleme |
 | Kanal yönetimi | İletişim kanalları ekleme, görüntüleme ve silme |
 | OpenClaw Dashboard | Yerleşik Dashboard aracılığıyla OpenClaw'u yönetme |
 
@@ -444,17 +444,17 @@ Aşağıdaki bilgiler Kimi Claw Android için bir referanstır.
 
 ### Bağlantı ve kararlılık
 
-#### Ağ geçidi durumu neden her zaman "Başlatılıyor" gösteriyor?
+#### Gateway durumu neden her zaman "Başlatılıyor" gösteriyor?
 
 - Ağ bağlantısının normal olup olmadığını kontrol edin
 - Gerekli tüm izinlerin (bildirimler, pil optimizasyonu, depolama, otomatik başlatma) verildiğini doğrulayın
-- Ağ geçidi hizmetini yeniden başlatmak için ayarlardaki "Yedekle ve Yeniden Başlat"a dokunmayı deneyin
+- Gateway hizmetini yeniden başlatmak için ayarlardaki "Yedekle ve Yeniden Başlat"a dokunmayı deneyin
 
-#### Ağ geçidi aniden mi bağlantıyı kesti?
+#### Gateway aniden mi bağlantıyı kesti?
 
 - Telefonun güç tasarrufu moduna girip girmediğini ve bunun arka plan uygulamalarının temizlenmesine yol açıp açmadığını kontrol edin
 - "Pil optimizasyonunu yoksay" ve "Otomatik başlatma izni"nin doğru şekilde verildiğini doğrulayın
-- Dashboard'da ağ geçidi durumunu kontrol edin. "Durduruldu" gösteriyorsa, Yeniden Başlat'a dokunun
+- Dashboard'da gateway durumunu kontrol edin. "Durduruldu" gösteriyorsa, Yeniden Başlat'a dokunun
 
 #### Telefon kilitlendikten sonra Kimi Claw Android bağlantısı kesiliyor mu?
 
@@ -486,7 +486,7 @@ Aşağıdaki bilgiler Kimi Claw Android için bir referanstır.
 #### Kimi uygulamasında Kimi Claw Android'i neden göremiyorum?
 
 - Lütfen Onboarding sürecinin tam olarak tamamlandığını doğrulayın (izin verme → OpenClaw kurulumu → Kimi hesabı yapılandırması)
-- Dashboard'daki ağ geçidi durumunun "Bağlandı" olup olmadığını kontrol edin
+- Dashboard'daki gateway durumunun "Bağlandı" olup olmadığını kontrol edin
 - Kimi uygulamasındaki Bot listesini yenilemeyi deneyin
 
 ### İşlev kullanımı
@@ -509,7 +509,7 @@ Aşağıdaki bilgiler Kimi Claw Android için bir referanstır.
 
 #### Kimi Claw Android'in çalışma durumunu nasıl görüntülerim?
 
-- Dashboard ana arayüzünde, ağ geçidi durumunu ve çalışma süresini görüntüleyebilirsiniz
+- Dashboard ana arayüzünde, gateway durumunu ve çalışma süresini görüntüleyebilirsiniz
 - Ayrıntılı çalışma günlüklerini görüntülemek için "Gerçek Zamanlı Günlük"e dokunun
 - Günlüklerin arama ve düzey filtreleme işlevleri sayesinde sorunlar hızla saptanabilir
 

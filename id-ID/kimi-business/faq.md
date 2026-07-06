@@ -66,8 +66,16 @@ Catatan: Nomor rekening tujuan hanya berlaku untuk transfer ini dan tidak perlu 
 Saat ini, Aplikasi Kimi belum mendukung fitur enterprise Kimi Business dan hanya mendukung keanggotaan pribadi. Klien desktop kini telah mendukung Kimi Business. Untuk menggunakannya:
 
 1. Buka klien desktop Kimi dan masuk dengan akun yang telah bergabung ke organisasi enterprise Anda.
-2. Klik avatar / entri workspace dan beralih ke workspace enterprise.
-3. Setelah beralih, Anda dapat menggunakan manfaat enterprise Kimi Business di klien desktop.
+2. Di sudut kiri atas, beralih ke mode Chat.
+3. Klik avatar / entri workspace dan beralih ke workspace enterprise.
+4. Setelah beralih, Anda dapat menggunakan manfaat enterprise Kimi Business di klien desktop.
+
+<Frames
+  src="./images/faq/desktop-workspace-switch-en.png"
+  alt="Beralih ke workspace enterprise di klien desktop Kimi"
+  width={3024}
+  height={1832}
+/>
 
 Keanggotaan pribadi dan enterprise bersifat independen. Jika Anda sudah berlangganan keanggotaan pribadi, Anda dapat terus menggunakan manfaat keanggotaan pribadi di Aplikasi; di klien desktop, manfaat yang tersedia mengikuti workspace yang sedang dipilih.
 

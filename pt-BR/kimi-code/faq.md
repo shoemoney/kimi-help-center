@@ -72,12 +72,12 @@ Se você vir "No models available for the selected platform" (Nenhum modelo disp
 
 **Atenção à distinção entre plataformas**
 
-Os benefícios da assinatura do Kimi Code e a [Kimi Open Platform](https://platform.kimi.com) têm Base URLs diferentes. Certifique-se de que a Base URL corresponda à API Key ao configurar.
+Os benefícios da assinatura do Kimi Code e a [Plataforma aberta da Kimi](https://platform.kimi.com) têm Base URLs diferentes. Certifique-se de que a Base URL corresponda à API Key ao configurar.
 
 | Plataforma | Base URL | Cobrança | Criação de chave |
 |------|---------|---------|-------------|
 | **Kimi Code** | Compatível com Anthropic: `https://api.kimi.com/coding/` | Assinatura Kimi (inclui créditos) | [Console do Kimi Code](https://www.kimi.com/code/console) |
-| **Kimi Open Platform** | `https://api.moonshot.cn/v1` | Pagamento conforme o uso | [Kimi Open Platform](https://platform.kimi.com) |
+| **Plataforma aberta da Kimi** | `https://api.moonshot.cn/v1` | Pagamento conforme o uso | [Plataforma aberta da Kimi](https://platform.kimi.com) |
 
 ### A chave de API é inválida
 
@@ -94,7 +94,7 @@ Se você usa a plataforma Kimi Code, pode verificar seus créditos atuais e o st
 
 ### Como solicito uma nota fiscal ou faço upgrade da minha assinatura?
 
-Acesse a [página de assinatura do Kimi](https://www.kimi.com/membership/pricing?from=kfc_docs_faq#pricing-faq) e siga as instruções para enviar uma solicitação de nota fiscal ou fazer upgrade do seu plano.
+Acesse a [página de assinatura do Kimi](https://www.kimi.com/membership/pricing#pricing-faq) e siga as instruções para enviar uma solicitação de nota fiscal ou fazer upgrade do seu plano.
 
 ## Problemas de interação
 

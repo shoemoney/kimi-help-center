@@ -21,7 +21,7 @@ preview: false
 Kimi API คิดค่าใช้จ่ายตามจำนวน token ที่ใช้ โดยคิดราคา input token และ output token แยกกัน ราคาแตกต่างกันไปตามแต่ละโมเดล และการใช้ web search จะมีค่าใช้จ่ายเพิ่มเติม $0.004 ต่อการเรียกใช้หนึ่งครั้ง
 
 <Callout type="tip">
-สำหรับรายละเอียดราคา ดูได้ที่ [platform.moonshot.ai/docs/pricing/chat](https://platform.moonshot.ai/docs/pricing/chat)
+สำหรับรายละเอียดราคา ดูได้ที่ [platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat)
 </Callout>
 
 ## รองรับวิธีการชำระเงินแบบใดบ้าง?
@@ -33,7 +33,7 @@ Kimi API คิดค่าใช้จ่ายตามจำนวน token �
 
 เงินที่เติมเข้ามาสามารถใช้กับ API ได้ทันที
 ## ฉันจะขอใบกำกับภาษีได้อย่างไร?
-1. เข้าสู่ระบบคอนโซล [platform.moonshot.ai](https://platform.moonshot.ai)
+1. เข้าสู่ระบบคอนโซล [platform.kimi.ai](https://platform.kimi.ai)
 2. ไปที่ **Billing → Invoice Management**
 3. เลือกรายการเติมเงินที่คุณต้องการใบกำกับภาษี
 4. กรอกรายละเอียดใบกำกับภาษี (ส่วนบุคคลหรือธุรกิจ) แล้วส่ง

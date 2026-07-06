@@ -18,7 +18,7 @@ preview_content: "Kimi의 채팅 모드, AI 에이전트, 파일 처리, 인터�
 Kimi는 Moonshot AI가 개발한 AI 어시스턴트로, 웹 검색, 심층 사고, 멀티모달 추론, 초장문 컨텍스트 대화를 기본으로 제공합니다.
 </Callout>
 
-[Kimi.com](https://www.kimi.com/)에 방문하거나 Kimi 앱을 다운로드해 채팅, 창작, 리서치, 구축을 시작해 보세요. 개발자는 [Kimi Open Platform](https://platform.moonshot.ai/)에서 API와 도구를 사용해 Kimi의 기능을 자신의 애플리케이션에 통합할 수 있습니다.
+[Kimi.com](https://www.kimi.com/)에 방문하거나 Kimi 앱을 다운로드해 채팅, 창작, 리서치, 구축을 시작해 보세요. 개발자는 [Kimi 오픈 플랫폼](https://platform.kimi.ai/)에서 API와 도구를 사용해 Kimi의 기능을 자신의 애플리케이션에 통합할 수 있습니다.
 ## 채팅 모드
 | 모드 | 설명 |
 |------|-------------|
@@ -36,7 +36,7 @@ Kimi는 단순한 채팅 어시스턴트가 아니라, 작업을 스스로 계�
 |-------|-------------|------|
 | **K2.6 Agent** | 웹사이트 생성, 슬라이드 제작, Deep Research, 문서 및 스프레드시트 처리 등 작업을 자동으로 계획하고 완료합니다 | [kimi.com/agent](https://www.kimi.com/agent) |
 | **K2.6 Agent Swarm [Beta]** | 최대 4,000개의 병렬 도구 호출을 지원하며, 300개 이상의 sub-agent를 조율해 대규모 검색, 장문 작성, 일괄 처리를 수행합니다 | [kimi.com/agent-swarm](https://www.kimi.com/agent-swarm) |
-| **Kimi Code** | CLI 도구와 VS Code 확장 프로그램을 포함한 개발자용 코딩 어시스턴트 제품군입니다 | [kimi.com/code](https://www.kimi.com/code?from=kfc_overview_topbar) |
+| **Kimi Code** | CLI 도구와 VS Code 확장 프로그램을 포함한 개발자용 코딩 어시스턴트 제품군입니다 | [kimi.com/code](https://www.kimi.com/code) |
 | **Kimi Claw** | 배포가 필요 없는 클라우드 자동화 플랫폼입니다. 5,000개 이상의 내장 스킬(ClawHub)을 갖춘 상주형 AI 에이전트를 30초 안에 시작할 수 있습니다 | [kimi.com/bot](https://www.kimi.com/bot) |
 
 ## 기타 핵심 기능

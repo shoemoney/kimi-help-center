@@ -19,7 +19,7 @@ Wählen Sie das passende Kimi-API-Modell anhand von Leistungsfähigkeit, Geschwi
 
 Die Kimi API bietet Entwicklern mehrere Modelle zur Auswahl.
 ## Verfügbare Modelle
-Die vollständige Modellliste und detaillierte Spezifikationen finden Sie unter [platform.moonshot.ai/docs/introduction](https://www.platform.moonshot.ai/docs/introduction).
+Die vollständige Modellliste und detaillierte Spezifikationen finden Sie unter [platform.kimi.ai/docs/models](https://platform.kimi.ai/docs/models).
 Bei der Modellauswahl können Sie Folgendes berücksichtigen:
 | Dimension | Überlegung |
 | --- | --- |

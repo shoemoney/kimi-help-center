@@ -14,7 +14,7 @@ preview_content: "Compara los cinco niveles de membresía de Kimi, el sistema de
 
 # Resumen de los planes de membresía
 
-Kimi ofrece cinco niveles de membresía —incluido un plan gratuito— diseñados para crecer junto con tus necesidades, desde la productividad diaria hasta los flujos de trabajo más exigentes. Todos los planes incluyen **dos pools de créditos**: Kimi Code usa un pool de créditos independiente; las demás funciones de la membresía comparten un mismo pool de créditos.
+Kimi ofrece cinco niveles de membresía —incluido un plan gratuito— diseñados para crecer junto con tus necesidades, desde la productividad diaria hasta los flujos de trabajo más exigentes. Todos los planes incluyen **dos paquetes de créditos**: Kimi Code usa un paquete de créditos independiente; las demás funciones de la membresía comparten un mismo paquete de créditos.
 
 ## Comparación de planes
 
@@ -38,7 +38,7 @@ Usa todo el límite de créditos para la misma función
 
 ## Cómo funciona la facturación
 
-- **Dos pools de créditos**: Kimi Code usa un pool de créditos independiente; las demás funciones de la membresía comparten un mismo pool de créditos, medido por el uso de tokens.
+- **Dos paquetes de créditos**: Kimi Code usa un paquete de créditos independiente; las demás funciones de la membresía comparten un mismo paquete de créditos, medido por el uso de tokens.
 - **Renovación mensual**: los créditos se reinician al inicio de cada ciclo de facturación.
 - **Orden de prioridad**: primero se consumen los créditos de bonificación y luego los del plan.
 

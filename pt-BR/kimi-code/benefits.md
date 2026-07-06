@@ -15,7 +15,7 @@ preview: false
 
 O Kimi Code é um serviço incluído no plano de assinatura do Kimi, que oferece suporte e recursos voltados para programação para ajudar os membros a concluir tarefas de programação com mais eficiência em seu fluxo de trabalho de desenvolvimento pessoal.
 
-> Lembre-se de que este benefício destina-se exclusivamente ao uso em desenvolvimento pessoal, e não a cenários de desenvolvimento corporativo. Para necessidades corporativas, acesse a [Plataforma Aberta do Kimi](https://www.platform.moonshot.ai/).
+> Lembre-se de que este benefício destina-se exclusivamente ao uso em desenvolvimento pessoal, e não a cenários de desenvolvimento corporativo. Para necessidades corporativas, acesse a [Plataforma Aberta do Kimi](https://platform.kimi.ai/).
 
 ## Cobrança
 

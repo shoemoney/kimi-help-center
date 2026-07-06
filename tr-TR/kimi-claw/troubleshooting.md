@@ -31,7 +31,7 @@ Kimi Claw, web üzerindeki **Ayarlar** bölümünden erişilebilen yerleşik ona
 
 | Seçenek | Ne İşe Yarar |
 |--------|--------------|
-| **Kimi Claw'ı Yeniden Başlat** | Ağ geçidi bağlantısını yeniden başlatır. Geçici sorunların çoğunu (köprü kopmaları, geçici takılmalar) giderir. |
+| **Kimi Claw'ı Yeniden Başlat** | Gateway bağlantısını yeniden başlatır. Geçici sorunların çoğunu (köprü kopmaları, geçici takılmalar) giderir. |
 | **Kimi Claw'ı Onar** | Yapılandırma sorunlarını tespit edip düzelten otomatik bir tanılama çalıştırır. Basit bir yeniden başlatmanın işe yaramadığı durumlarda bunu deneyin. |
 | **İlk Ayarları Geri Yükle** | Kimi Claw'ı varsayılan durumuna sıfırlar. Çalışma alanı dosyaları ve Memory korunur ancak sohbet platformu bağlantılarının (Telegram vb.) yeniden yapılandırılması gerekir. Son çare olarak kullanın. |
 

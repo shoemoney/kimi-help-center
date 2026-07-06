@@ -17,7 +17,7 @@ Kimi API では、プラットフォームの安定性と公平な利用を保�
 
 ## rate limit の階層
 
-API の rate limit は、アカウントの**累計チャージ額**に応じた階層制です。チャージ額が増えるほど、利用可能な rate limit も高くなります。各階層のしきい値と、対応する RPM（1 分あたりのリクエスト数）および TPM（1 分あたりの token 数）の上限については、[platform.moonshot.ai](https://www.platform.moonshot.ai) コンソールをご確認ください。
+API の rate limit は、アカウントの**累計チャージ額**に応じた階層制です。チャージ額が増えるほど、利用可能な rate limit も高くなります。各階層のしきい値と、対応する RPM（1 分あたりのリクエスト数）および TPM（1 分あたりの token 数）の上限については、[platform.kimi.ai](https://platform.kimi.ai) コンソールをご確認ください。
 
 ## 現在の上限を確認するには？
 
@@ -40,4 +40,4 @@ API の rate limit は、アカウントの**累計チャージ額**に応じた
 ビジネス上の要件が現在の rate limit を超える場合は、次の方法をご検討ください。
 
 - **チャージしてアップグレードする**: 累計チャージ額を増やすと、システムが rate limit 階層を自動的にアップグレードします。
-- **営業担当に問い合わせる**: 特別な要件がある場合は、[platform.moonshot.ai/contact-sales](https://www.platform.moonshot.ai/contact-sales) からプラットフォームの営業チームに連絡し、カスタム rate quota をリクエストしてください。
+- **営業担当に問い合わせる**: 特別な要件がある場合は、[platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) からプラットフォームの営業チームに連絡し、カスタム rate quota をリクエストしてください。

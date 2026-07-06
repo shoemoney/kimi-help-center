@@ -55,8 +55,9 @@ Agent는 프런트엔드 인터페이스, 백엔드 서비스, 영구 저장 로
 
 <Callout type="warning">
 **크레딧 사용량**: Agent 작업은 공유 풀(기타 멤버십 기능)에서 크레딧을 소비합니다. Kimi Code는 별도의 크레딧 풀을 사용합니다. 각 Agent 작업은 일반적으로 크레딧 1단위를 소비합니다. 멤버십 등급별 자세한 크레딧 정보는 [크레딧 및 결제](/agent/quota-and-billing)를 참고하세요.
-무료 등급: 월 6회 Agent 작업
-유료 등급: 요금제에 따라 월 60~720회 Agent 작업
+
+- 무료 등급: 월 6회 Agent 작업
+- 유료 등급: 요금제에 따라 월 60~720회 Agent 작업
 </Callout>
 
 - **실행 시간**: Agent 모드에서는 단일 작업이 보통 5~20분 정도 걸립니다. K2.6 Agent Swarm [베타] 작업은 더 오래 걸릴 수 있습니다. 페이지를 떠나도 괜찮지만, Stop을 클릭해 작업을 중단하지 마세요.
@@ -64,7 +65,7 @@ Agent는 프런트엔드 인터페이스, 백엔드 서비스, 영구 저장 로
 - **간단한 작업**: 간단한 질의응답에는 더 빠른 응답을 위해 표준 채팅 모드를 권장합니다.
 
 <Callout type="warning">
-**콘텐츠 규정 준수**: Agent 기능에는 [Kimi 사용자 계약](https://www.kimi.com/user/agreement/modelUse?version=v2)이 적용됩니다. 금지된 콘텐츠 생성은 지원되지 않으며, 금지된 콘텐츠를 제출하면 서비스가 정지될 수 있습니다.
+**콘텐츠 규정 준수**: Agent 기능에는 [Kimi 사용자 서비스 이용약관](https://www.kimi.com/user/agreement/modelUse?version=v2)이 적용됩니다. 금지된 콘텐츠 생성은 지원되지 않으며, 금지된 콘텐츠를 제출하면 서비스가 정지될 수 있습니다.
 </Callout>
 
 ## FAQ

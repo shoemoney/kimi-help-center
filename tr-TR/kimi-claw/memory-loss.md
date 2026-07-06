@@ -19,15 +19,15 @@ OpenClaw, **her gün saat 04.00'te** konuşmayı otomatik olarak sıfırlar. Bö
 
 Sıfırlamanın ne zaman gerçekleşeceğini değiştirmek isterseniz, zamanlamayı `config.yaml` dosyasından düzenleyebilirsiniz.
 
-**En iyi yöntem:** Sizin için önemli olan her şey için — tercihler, proje ayrıntıları, tekrar eden talimatlar — Kimi Claw'a bunları kaydetmesini açıkça söyleyin: _"Bunu Memory'ye kaydet."_ Memory'de saklanan bilgiler, konuşma sıfırlamalarından etkilenmeden kalıcı olarak korunur.
+**En iyi yöntem:** Sizin için önemli olan her şey için — tercihler, proje ayrıntıları, tekrar eden talimatlar — Kimi Claw'a bunları kaydetmesini açıkça söyleyin: _"Bunu belleğe kaydet."_ Bellekte saklanan bilgiler, konuşma sıfırlamalarından etkilenmeden kalıcı olarak korunur.
 
 ## Kimi Claw belleğini mi kaybetti?
 
-Her gün saat 04.00'te yapılan sıfırlama, aktif konuşma bağlamını temizler. Bir şey **Memory**'ye kaydedilmediyse kaybolur.
+Her gün saat 04.00'te yapılan sıfırlama, aktif konuşma bağlamını temizler. Bir şey **belleğe** kaydedilmediyse kaybolur.
 
 **Nasıl çözülür:**
-- Bir konuşma sırasında _"X'i Memory'ye kaydet"_ deyin; Kimi Claw bunu uzun süreli belleğe yazacaktır.
-- Kaydedilmiş bellekleri **Workspace → AGENTS.md → #MEMORY** üzerinden görüntüleyin.
+- Bir konuşma sırasında _"X'i belleğe kaydet"_ deyin; Kimi Claw bunu uzun süreli belleğe yazacaktır.
+- Kaydedilmiş bellekleri **Çalışma alanı → AGENTS.md → #MEMORY** üzerinden görüntüleyin.
 
 <Frames
   src="./images/memory-loss/claw-memory.png"
@@ -38,7 +38,7 @@ Her gün saat 04.00'te yapılan sıfırlama, aktif konuşma bağlamını temizle
 
 ## Abonelik sona erdikten sonra bellek ne kadar süre saklanır?
 
-Bellek dosyaları Workspace'inizde tutulur ve bunları istediğiniz zaman görüntüleyebilir veya indirebilirsiniz.
+Bellek dosyaları çalışma alanınızda tutulur ve bunları istediğiniz zaman görüntüleyebilir veya indirebilirsiniz.
 
 - Üyeliğiniz sona erdikten sonra bulut örneği **7 gün boyunca saklanır**.
 - 7 gün içinde yenileme yaparsanız, tüm verileriniz — bellek, yapılandırma, beceriler — eksiksiz şekilde geri yüklenir.

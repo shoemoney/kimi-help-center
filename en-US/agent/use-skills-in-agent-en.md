@@ -125,5 +125,5 @@ A complete Skill description should include:
 
 <ComparisonBlock
   wrong={"Help users search and discover Skills."}
-  correct={"Help users search and discover Skills. Used when users explicitly want to find a certain type of Skill or describe a problem and hope to get Skill recommendations. Trigger words include 'Find Skills', 'Search Skills', 'Is there a Skill that can do X?', etc."}
+  correct={"Help users search and discover Skills. Used when users explicitly want to find a certain type of Skill or describe a problem and hope to get Skill recommendations. Trigger words include “Find Skills”, “Search Skills”, “Is there a Skill that can do X?”, etc."}
 />

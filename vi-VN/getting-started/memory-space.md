@@ -1,5 +1,5 @@
 ---
-title: "Memory Space"
+title: "Lệnh ghi nhớ"
 slug: "memory-space"
 order: 6
 extract_headings: false
@@ -7,11 +7,11 @@ preview: false
 ---
 
 <SeoMeta
-  title="Memory Space - Trung tâm trợ giúp Kimi"
+  title="Lệnh ghi nhớ - Trung tâm trợ giúp Kimi"
   description="Kimi đã thực sự biết lắng nghe — bạn càng trò chuyện nhiều, Kimi càng hiểu bạn rõ hơn. Đây là cách hoạt động:"
 />
 
-# Memory Space
+# Lệnh ghi nhớ
 
 ## Bộ nhớ là gì?
 Kimi đã thực sự biết lắng nghe — bạn càng trò chuyện nhiều, Kimi càng hiểu bạn rõ hơn. Đây là cách hoạt động:
@@ -51,7 +51,7 @@ Lưu ý: Bộ nhớ hoàn toàn nằm trong tầm kiểm soát của bạn. Nó 
 **(2) Quản lý qua phần Cài đặt (giao diện)**
 
 Bạn cũng có thể quản lý bộ nhớ thông qua giao diện cài đặt:
-- Trên web / di động: Cài đặt → Cá nhân hóa → Memory Space
+- Trên web / di động: Cài đặt → Cá nhân hóa → Lệnh ghi nhớ
 - Tại đây bạn có thể xem tất cả các mục bộ nhớ đã lưu
 - Bạn có thể tự tay xóa bất kỳ bộ nhớ nào không còn cần đến
 
@@ -74,10 +74,10 @@ Nếu có điều gì bạn đặc biệt muốn Kimi ghi nhớ, hãy nhấn m�
 - "…đừng quên điều này nhé"
 
 ### Cập nhật bộ nhớ
-Vào Hồ sơ → Cài đặt → Cá nhân hóa → Memory Space để chỉnh sửa từng mục bộ nhớ.
+Vào Hồ sơ → Cài đặt → Cá nhân hóa → Lệnh ghi nhớ để chỉnh sửa từng mục bộ nhớ.
 
 ### Xóa (quên đi) bộ nhớ
-Vào Hồ sơ → Cài đặt → Cá nhân hóa → Memory Space và nhấn xóa ở từng mục.
+Vào Hồ sơ → Cài đặt → Cá nhân hóa → Lệnh ghi nhớ và nhấn xóa ở từng mục.
 
 <Frames
   src="./images/memory-space/screenshot-19.png"

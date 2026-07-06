@@ -125,5 +125,5 @@ Deskripsi Skill yang lengkap sebaiknya mencakup:
 
 <ComparisonBlock
   wrong={"Membantu pengguna mencari dan menemukan Skills."}
-  correct={"Membantu pengguna mencari dan menemukan Skills. Digunakan ketika pengguna secara eksplisit ingin menemukan jenis Skill tertentu atau menjelaskan suatu masalah dan berharap mendapatkan rekomendasi Skill. Kata pemicu mencakup 'Find Skills', 'Search Skills', 'Is there a Skill that can do X?', dan sebagainya."}
+  correct={"Membantu pengguna mencari dan menemukan Skills. Digunakan ketika pengguna secara eksplisit ingin menemukan jenis Skill tertentu atau menjelaskan suatu masalah dan berharap mendapatkan rekomendasi Skill. Kata pemicu mencakup “Find Skills”, “Search Skills”, “Is there a Skill that can do X?”, dan sebagainya."}
 />

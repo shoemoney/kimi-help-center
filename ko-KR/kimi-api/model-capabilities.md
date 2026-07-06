@@ -25,7 +25,7 @@ preview: false
 
 ## 모델 파인튜닝을 지원하나요?
 
-Kimi API는 현재 사용자가 직접 시작하는 모델 파인튜닝을 **지원하지 않습니다**. 맞춤형 모델이 필요한 경우 [platform.moonshot.ai/contact-sales](https://www.platform.moonshot.ai/contact-sales)를 통해 영업팀에 문의하여 기업용 맞춤 옵션을 확인하세요.
+Kimi API는 현재 사용자가 직접 시작하는 모델 파인튜닝을 **지원하지 않습니다**. 맞춤형 모델이 필요한 경우 [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales)를 통해 영업팀에 문의하여 기업용 맞춤 옵션을 확인하세요.
 
 ## OCR을 지원하나요?
 

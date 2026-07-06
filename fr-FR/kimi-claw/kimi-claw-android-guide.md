@@ -70,9 +70,9 @@ Kimi Claw Android nécessite les autorisations suivantes pour fonctionner de man
 
 | Autorisations | Explication |
 | --- | --- |
-| Notification système | Afficher l’état de la passerelle et les rappels |
+| Notification système | Afficher l’état du gateway et les rappels |
 | Autorisations d’espace de stockage | Au moins 5GB d’espace disponible sont requis |
-| Autorisation d’exécution en arrière-plan | Maintenir la passerelle en fonctionnement lors du passage en arrière-plan |
+| Autorisation d’exécution en arrière-plan | Maintenir le gateway en fonctionnement lors du passage en arrière-plan |
 
 Comme les chemins de réglages varient selon les marques de téléphones, voici les étapes générales :
 
@@ -106,7 +106,7 @@ Si l’installation échoue, vous pouvez cliquer sur « Réinstaller » pour ré
 
 Une fois la configuration terminée, accédez à l’interface principale du tableau de bord. Vous y trouverez les informations suivantes :
 
-- État de la passerelle OpenClaw — Démarrage / Connectée / Arrêtée, et durée d’exécution
+- État du gateway OpenClaw — Démarrage / Connectée / Arrêtée, et durée d’exécution
 - Canaux de discussion — Liste des canaux de communication actuellement connectés
 - Journal OpenClaw — Journal d’origine du fonctionnement d’OpenClaw
 - Utiliser la conversation Kimi — Ouvrez la Kimi App, ouvrez l’interface de conversation correspondant à Kimi Claw Android, et basculez automatiquement vers le Claw correspondant.
@@ -397,9 +397,9 @@ Pour des raisons de sécurité financière et de confidentialité, les catégori
 | --- | --- |
 | Contrôle à distance d’applications mobiles | Utiliser à distance des apps sur un téléphone mobile via des commandes envoyées depuis un logiciel de discussion |
 | Communication multicanal | Prend en charge la communication avec Claw via Kimi, Feishu et WeChat |
-| Consultation des journaux en temps réel | Consulter les journaux de fonctionnement de la passerelle OpenClaw, avec recherche et filtrage par niveau |
+| Consultation des journaux en temps réel | Consulter les journaux de fonctionnement du gateway OpenClaw, avec recherche et filtrage par niveau |
 | Sauvegarde et restauration de la configuration | Sauvegarder la configuration actuelle, qui peut être restaurée après une réinstallation ou un remplacement d’appareil |
-| Surveillance de l’état de la passerelle | Consulter en temps réel l’état de connexion et la durée d’exécution de la passerelle OpenClaw |
+| Surveillance de l’état du gateway | Consulter en temps réel l’état de connexion et la durée d’exécution du gateway OpenClaw |
 | Gestion des canaux | Ajouter, consulter et supprimer des canaux de communication |
 | Tableau de bord OpenClaw | Gérer OpenClaw via le tableau de bord intégré |
 
@@ -444,17 +444,17 @@ Ce qui suit sert de référence pour Kimi Claw Android.
 
 ### Connectivité et stabilité
 
-#### Pourquoi l’état de la passerelle affiche-t-il toujours « Démarrage » ?
+#### Pourquoi l’état du gateway affiche-t-il toujours « Démarrage » ?
 
 - Vérifiez que la connexion réseau fonctionne normalement
 - Confirmez que toutes les autorisations requises (notifications, optimisation de la batterie, stockage, démarrage automatique) ont été accordées
-- Essayez de cliquer sur « Sauvegarder et redémarrer » dans les paramètres pour redémarrer le service de passerelle
+- Essayez de cliquer sur « Sauvegarder et redémarrer » dans les paramètres pour redémarrer le service de gateway
 
-#### La passerelle s’est-elle soudainement déconnectée ?
+#### Le gateway s’est-il soudainement déconnecté ?
 
 - Vérifiez si le téléphone est passé en mode économie d’énergie, ce qui peut entraîner la suppression des apps en arrière-plan
 - Confirmez que les options « Ignorer l’optimisation de la batterie » et « Autorisation de démarrage automatique » ont été correctement accordées
-- Vérifiez l’état de la passerelle dans le tableau de bord. S’il affiche « Arrêtée », cliquez sur Redémarrer
+- Vérifiez l’état du gateway dans le tableau de bord. S’il affiche « Arrêtée », cliquez sur Redémarrer
 
 #### Kimi Claw Android perd-il la connexion après le verrouillage du téléphone ?
 
@@ -486,7 +486,7 @@ Ce qui suit sert de référence pour Kimi Claw Android.
 #### Pourquoi ne vois-je pas Kimi Claw Android dans la Kimi App ?
 
 - Confirmez que le processus d’intégration a été entièrement terminé (octroi des autorisations → installation d’OpenClaw → configuration du compte Kimi)
-- Vérifiez que l’état de la passerelle dans le tableau de bord est « Connectée »
+- Vérifiez que l’état du gateway dans le tableau de bord est « Connectée »
 - Essayez d’actualiser la liste des bots dans la Kimi App
 
 ### Utilisation des fonctionnalités
@@ -509,7 +509,7 @@ Ce qui suit sert de référence pour Kimi Claw Android.
 
 #### Comment consulter l’état de fonctionnement de Kimi Claw Android ?
 
-- Dans l’interface principale du tableau de bord, vous pouvez consulter l’état de la passerelle et le temps d’exécution
+- Dans l’interface principale du tableau de bord, vous pouvez consulter l’état du gateway et le temps d’exécution
 - Cliquez sur « Journal en temps réel » pour consulter les journaux détaillés des opérations
 - Les fonctions de recherche et de filtrage par niveau des journaux permettent de localiser rapidement les problèmes
 

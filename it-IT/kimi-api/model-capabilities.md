@@ -25,7 +25,7 @@ Sì. La Kimi API offre la modalità JSON, che vincola l'output del modello a un 
 
 ## Supporta il fine-tuning dei modelli?
 
-La Kimi API **al momento non supporta** il fine-tuning dei modelli avviato dall'utente. Per esigenze di modelli personalizzati, contatta il team commerciale tramite [platform.moonshot.ai/contact-sales](https://www.platform.moonshot.ai/contact-sales) per scoprire le opzioni di personalizzazione enterprise.
+La Kimi API **al momento non supporta** il fine-tuning dei modelli avviato dall'utente. Per esigenze di modelli personalizzati, contatta il team commerciale tramite [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) per scoprire le opzioni di personalizzazione enterprise.
 
 ## Supporta l'OCR?
 

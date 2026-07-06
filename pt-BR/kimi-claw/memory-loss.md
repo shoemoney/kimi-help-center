@@ -19,15 +19,15 @@ O OpenClaw reinicia automaticamente a conversa **todos os dias às 4h**. Isso ev
 
 Se precisar ajustar o horário desse reinício, você pode alterar o agendamento no arquivo `config.yaml`.
 
-**Boa prática:** para tudo que for importante — preferências, detalhes de projetos, instruções recorrentes — peça explicitamente ao Kimi Claw para salvar: _"Guarde isso na Memory."_ As informações armazenadas na Memory permanecem mesmo após os reinícios da conversa.
+**Boa prática:** para tudo que for importante — preferências, detalhes de projetos, instruções recorrentes — peça explicitamente ao Kimi Claw para salvar: _"Guarde isso na memória."_ As informações armazenadas na memória permanecem mesmo após os reinícios da conversa.
 
 ## O Kimi Claw perdeu a memória?
 
-O reinício diário das 4h limpa o contexto da conversa ativa. Se algo não foi salvo na **Memory**, ele desaparece.
+O reinício diário das 4h limpa o contexto da conversa ativa. Se algo não foi salvo na **memória**, ele desaparece.
 
 **Como resolver:**
-- Durante uma conversa, diga _"Guarde X na Memory"_ e o Kimi Claw gravará a informação no armazenamento de longo prazo.
-- Consulte as memórias armazenadas em **Workspace → AGENTS.md → #MEMORY**.
+- Durante uma conversa, diga _"Guarde X na memória"_ e o Kimi Claw gravará a informação no armazenamento de longo prazo.
+- Consulte as memórias armazenadas em **Espaço de trabalho → AGENTS.md → #MEMORY**.
 
 <Frames
   src="./images/memory-loss/claw-memory.png"
@@ -38,7 +38,7 @@ O reinício diário das 4h limpa o contexto da conversa ativa. Se algo não foi 
 
 ## Por quanto tempo a memória é mantida após o fim da assinatura?
 
-Os arquivos de memória ficam no seu Workspace, e você pode visualizá-los ou baixá-los a qualquer momento.
+Os arquivos de memória ficam no seu espaço de trabalho, e você pode visualizá-los ou baixá-los a qualquer momento.
 
 - Após o vencimento da sua assinatura, a instância na nuvem é **mantida por 7 dias**.
 - Renove dentro de 7 dias e todos os dados — memória, configuração, habilidades — serão totalmente restaurados.

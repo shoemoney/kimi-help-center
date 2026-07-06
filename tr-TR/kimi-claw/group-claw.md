@@ -265,7 +265,7 @@ Birden çok Claw, farklı veri kaynaklarına ve cihazlara bağlanır; grup sohbe
 
 ### Grup sohbetinde bir Claw'ı @ ile etiketlediğimde yanıt alamazsam ne yapmalıyım?
 
-Öncelikle, Claw'ın durumunu özel bir sohbette doğrulayın. Orada da bağlantısı kesilmişse, sorunu gidermek için [Kimi Claw sorun giderme kılavuzuna](/help/kimi-claw/troubleshooting) bakın.
+Öncelikle, Claw'ın durumunu özel bir sohbette doğrulayın. Orada da bağlantısı kesilmişse, sorunu gidermek için [Kimi Claw sorun giderme kılavuzuna](/kimi-claw/troubleshooting) bakın.
 
 Özel sohbet normal şekilde yanıt veriyorsa, Kimi'den grup oturumunu teşhis etmesini isteyebilirsiniz:
 

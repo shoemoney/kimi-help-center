@@ -1,5 +1,5 @@
 ---
-title: "タスク完了前に クレジット が差し引かれましたか？"
+title: "タスク完了前にクレジットが差し引かれましたか？"
 slug: "deep-research-quota-deducted"
 order: 6
 extract_headings: false
@@ -7,11 +7,11 @@ preview: false
 ---
 
 <SeoMeta
-  title="タスク完了前に クレジット が差し引かれましたか？ - Kimi ヘルプセンター"
+  title="タスク完了前にクレジットが差し引かれましたか？ - Kimi ヘルプセンター"
   description="Deep Research には &quot;通常の会話&quot; と &quot;タスク実行&quot; の2種類があります。課金はタスクに基づいて適用されます..."
 />
 
-# クレジット の差し引きルール
+# クレジットの差し引きルール
 
 Deep Research では「通常の会話」と「タスク実行」を区別しています。Deep Research タスクを選択すると、タスクの種類に応じて課金されます。
 

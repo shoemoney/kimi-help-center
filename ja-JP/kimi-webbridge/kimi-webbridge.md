@@ -8,13 +8,13 @@ preview: false
 
 <SeoMeta
   title="Kimi WebBridgeの紹介 - Kimi ヘルプセンター"
-  description="Kimi WebBridgeは、AI Agent向けに設計されたブラウザ拡張機能です。ChromeまたはEdgeブラウザ上で直接動作し、既存のログインセッションを活用して、Agentが人間のようにWebページを操作できるようにします。"
+  description="Kimi WebBridgeは、AI Agent向けに設計されたブラウザ拡張機能です。ChromeまたはEdgeブラウザ上で直接動作し、既存のログインセッションを活用して、Agentが人間のようにウェブページを操作できるようにします。"
   ogType="article"
 />
 
 # Kimi WebBridgeの紹介
 
-Kimi WebBridgeは、AI Agent向けに設計されたブラウザ拡張機能です。クラウド型のブラウザ自動化ソリューションとは異なり、Kimi WebBridgeはお使いのChromeまたはEdgeブラウザ上で直接動作します。既存のログインセッションを自動的に活用し、Agentが人間のようにWebページを操作できるようにします。
+Kimi WebBridgeは、AI Agent向けに設計されたブラウザ拡張機能です。クラウド型のブラウザ自動化ソリューションとは異なり、Kimi WebBridgeはお使いのChromeまたはEdgeブラウザ上で直接動作します。既存のログインセッションを自動的に活用し、Agentが人間のようにウェブページを操作できるようにします。
 
 <VideoList
   column={1}
@@ -32,7 +32,7 @@ Kimi WebBridgeは、AI Agent向けに設計されたブラウザ拡張機能で�
 </Callout>
 
 <Callout type="info">
-WebBridgeは、ローカルブリッジサービスとブラウザ拡張機能を通じて動作します。すべての実行処理はお使いのデバイス上でローカルに行われるため、ログイン状態やWebページの内容が端末の外へ出ることはありません。
+WebBridgeは、ローカルブリッジサービスとブラウザ拡張機能を通じて動作します。すべての実行処理はお使いのデバイス上でローカルに行われるため、ログイン状態やウェブページの内容が端末の外へ出ることはありません。
 </Callout>
 
 <Frames

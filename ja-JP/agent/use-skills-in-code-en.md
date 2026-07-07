@@ -1,5 +1,5 @@
 ---
-title: "Kimi Code で Skill を使う"
+title: "Kimi Codeでスキルを使う"
 slug: "use-skills-in-code"
 order: 8
 extract_headings: false
@@ -7,12 +7,12 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi Code で Skill を使う - Kimi ヘルプセンター"
+  title="Kimi Codeでスキルを使う - Kimi ヘルプセンター"
   description="Kimi Code CLI で Skill を作成・呼び出し、チームのコーディング規約を標準化し、開発ワークフローを自動化する方法を説明します。"
   ogType="article"
 />
 
-# Kimi Code で Skill を使う
+# Kimi Codeでスキルを使う
 
 Kimi Code は開発者のために設計された AI プログラミングアシスタントです。ターミナルやエディタ上で直接動作し、コードの作成、バグ修正、ドキュメント生成を支援します。Kimi Code では、`SKILL.md` ファイルを通じて知識ベースのガイドラインを提供できます。AI はそれを読み込み、定義された基準に沿って動作します。コードスタイル、ワークフロー、ベストプラクティスの定義に適しています。
 

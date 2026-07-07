@@ -40,7 +40,6 @@ Usa todo el límite de créditos para la misma función
 
 - **Un único paquete de créditos compartido**: la serie Agent, Kimi Code y las demás funciones de la membresía comparten el mismo paquete de créditos, medido por el uso real de tokens.
 - **Renovación mensual**: los créditos se reinician al inicio de cada ciclo de facturación.
-- **Orden de prioridad**: primero se consumen los créditos de bonificación y luego los del plan.
 
 ## Ahorra con la facturación anual
 

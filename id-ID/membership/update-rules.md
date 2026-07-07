@@ -49,10 +49,6 @@ Paket tier lebih tinggi disertai pool kredit yang proporsional lebih besar.
 | **Kedaluwarsa** | Kredit yang tak terpakai kedaluwarsa di akhir setiap siklus — tidak dibawa ke periode berikutnya atau dikonversi menjadi uang tunai |
 | **Batasan** | Setiap tugas dapat dikenai batas concurrency 5 jam dan 7 hari sebagaimana ditampilkan di UI |
 
-## Prioritas penggunaan
-Ketika ada beberapa jenis kredit, kredit dipakai dengan urutan berikut:
-1. **Kredit bonus** — Diperoleh dari uji coba, promosi, atau hadiah referral
-2. **Kredit paket** — Termasuk dalam tier keanggotaan Anda
 ## Saat kredit habis
 - Tugas yang sudah berjalan akan tetap selesai seperti biasa
 - Tugas baru akan memunculkan pesan "kredit tidak mencukupi"

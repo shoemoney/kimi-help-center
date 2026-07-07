@@ -40,7 +40,6 @@ Tüm kredi limitini aynı işlev için kullanın
 
 - **Tek ortak kredi havuzu** — Agent serisi, Kimi Code ve diğer üyelik özelliklerinin tümü, token kullanımına göre ölçülen tek bir ortak kredi havuzundan yararlanır.
 - **Aylık yenileme** — Krediler her faturalandırma döneminin başında sıfırlanır.
-- **Öncelik sırası** — Önce bonus krediler, ardından plan kredileri kullanılır.
 
 ## Yıllık faturalandırmayla tasarruf edin
 

@@ -40,7 +40,6 @@ Aproveite todo o seu limite de créditos dentro de um mesmo recurso
 
 - **Pool de créditos único** — a série Agent, o Kimi Code e os demais recursos da assinatura compartilham o mesmo pool de créditos, medido pelo uso de tokens.
 - **Renovação mensal** — os créditos são zerados no início de cada ciclo de cobrança.
-- **Ordem de prioridade** — os créditos bônus são consumidos primeiro, depois os créditos do plano.
 
 ## Economize com a cobrança anual
 

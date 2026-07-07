@@ -49,10 +49,6 @@ I piani di livello superiore includono pool di crediti proporzionalmente più am
 | **Scadenza** | I crediti non utilizzati scadono al termine di ogni ciclo — non vengono riportati né convertiti in denaro |
 | **Limiti** | le singole attività possono essere soggetti a limiti di concorrenza di 5 ore e 7 giorni, come indicato nell'interfaccia |
 
-## Priorità di utilizzo
-Quando esistono più tipi di crediti, vengono consumati in questo ordine:
-1. **Crediti bonus** — Ottenuti da prove, promozioni o premi referral
-2. **Crediti del piano** — Inclusi nel tuo livello di abbonamento
 ## Quando i crediti si esauriscono
 - Qualsiasi attività già in corso verrà completato normalmente
 - Le nuove attività mostreranno l'avviso "crediti insufficienti"

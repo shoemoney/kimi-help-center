@@ -40,7 +40,6 @@ Utilizza tutto il limite di crediti per la stessa funzionalità
 
 - **Un unico pool di crediti condiviso** — la serie Agent, Kimi Code e le altre funzionalità dell'abbonamento attingono tutte allo stesso pool, conteggiato in base all'utilizzo dei token.
 - **Rinnovo mensile** — I crediti si azzerano all'inizio di ogni ciclo di fatturazione.
-- **Ordine di priorità** — Vengono consumati prima i crediti bonus, poi quelli del piano.
 
 ## Risparmia con la fatturazione annuale
 

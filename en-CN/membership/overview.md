@@ -85,7 +85,6 @@ Kimi offers four membership subscription plans to meet different needs, from eve
 - **Shared credit pool**: the Agent series, Kimi Code, and other membership features share one credit pool and are billed based on actual token consumption.
 - **Monthly refresh**: Credits are refreshed automatically in each billing cycle.
 - **Frequency limits**: For 5-hour and weekly frequency controls, please follow the page prompts.
-- **Usage priority**: The system uses gifted credits first, then plan credits.
 
 <Callout type="info">
 **What is a token?**
@@ -153,10 +152,6 @@ Tasks already in progress can be completed normally, while new tasks will show a
 - Wait for credits to refresh automatically (5-hour / weekly / monthly refresh, subject to the page prompts)
 - Upgrade to a higher membership tier for more credits
 - Join official campaigns to receive gifted credits
-
-### Do gifted credits expire?
-
-Yes. Gifted credits, such as trial gifts and campaign rewards, usually have a validity period, such as 7 days or 30 days. They will automatically expire after the validity period ends. The system uses gifted credits first, then plan credits.
 
 ### Can I use all my credits on one feature?
 

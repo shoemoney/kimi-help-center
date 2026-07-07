@@ -40,7 +40,6 @@ Utilisez l'intégralité de votre plafond de crédits pour une même fonction
 
 - **Un pool de crédits unique** — La série Agent, Kimi Code et les autres fonctionnalités d'abonnement partagent un même pool de crédits, décompté selon l'usage de tokens.
 - **Renouvellement mensuel** — Les crédits sont réinitialisés au début de chaque cycle de facturation.
-- **Ordre de priorité** — Les crédits bonus sont consommés en premier, puis les crédits de la formule.
 
 ## Économisez avec la facturation annuelle
 

@@ -49,10 +49,6 @@ Los planes de niveles superiores incluyen paquetes de créditos proporcionalment
 | **Vencimiento** | Los créditos no utilizados vencen al final de cada ciclo: no se acumulan ni se convierten en dinero |
 | **Límites** | Las tareas individuales pueden estar sujetas a límites de concurrencia de 5 horas y 7 días, según se muestra en la interfaz |
 
-## Prioridad de uso
-Cuando existen varios tipos de créditos, se consumen en este orden:
-1. **Créditos de bonificación** — Obtenidos de pruebas, promociones o recompensas por referidos
-2. **Créditos del plan** — Incluidos con tu nivel de membresía
 ## Cuando se agotan los créditos
 - Cualquier tarea que ya esté en curso se completará con normalidad
 - Las tareas nuevas mostrarán un aviso de «créditos insuficientes»

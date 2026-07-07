@@ -40,7 +40,6 @@ Nutzen Sie das gesamte credit-Limit für dieselbe Funktion
 
 - **Ein gemeinsamer credit-Pool** – Die Agent-Serie, Kimi Code und die übrigen Mitgliedschaftsfunktionen teilen sich einen einzigen Credits-Pool, abgerechnet nach token-Verbrauch.
 - **Monatliche Erneuerung** – Die credits werden zu Beginn jedes Abrechnungszeitraums zurückgesetzt.
-- **Verbrauchsreihenfolge** – Zuerst werden Bonus-credits verbraucht, danach die credits des Plans.
 
 ## Mit jährlicher Abrechnung sparen
 

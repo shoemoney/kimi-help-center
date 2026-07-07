@@ -49,10 +49,6 @@ Các gói cao cấp hơn có nguồn tín dụng lớn hơn tương ứng.
 | **Hết hạn** | Tín dụng chưa dùng sẽ hết hạn vào cuối mỗi chu kỳ — không chuyển sang kỳ sau hay quy đổi thành tiền mặt |
 | **Giới hạn** | Từng tác vụ có thể chịu giới hạn concurrency trong 5 giờ và 7 ngày như hiển thị trên giao diện |
 
-## Thứ tự ưu tiên sử dụng
-Khi tồn tại nhiều loại tín dụng, chúng được tiêu hao theo thứ tự sau:
-1. **Tín dụng thưởng** — Nhận được từ dùng thử, khuyến mãi hoặc phần thưởng giới thiệu
-2. **Tín dụng gói** — Đi kèm theo cấp độ thành viên của bạn
 ## Khi hết tín dụng
 - Mọi tác vụ đang chạy sẽ hoàn tất bình thường
 - Tác vụ mới sẽ hiển thị thông báo "không đủ tín dụng"

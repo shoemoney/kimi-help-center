@@ -49,10 +49,6 @@ Planos de níveis superiores incluem um pool de créditos proporcionalmente maio
 | **Expiração** | Créditos não utilizados expiram ao final de cada ciclo — eles não acumulam nem são convertidos em dinheiro |
 | **Limites** | Tarefas individuais podem estar sujeitas a limites de concurrency de 5 horas e 7 dias, conforme exibido na interface |
 
-## Prioridade de uso
-Quando há vários tipos de crédito, eles são consumidos nesta ordem:
-1. **Créditos bônus** — obtidos em testes, promoções ou recompensas por indicação
-2. **Créditos do plano** — incluídos no seu nível de assinatura
 ## Quando os créditos acabam
 - Qualquer tarefa já em andamento será concluída normalmente
 - Novas tarefas exibirão uma mensagem de "créditos insuficientes"

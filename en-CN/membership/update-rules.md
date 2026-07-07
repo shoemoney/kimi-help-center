@@ -43,14 +43,6 @@ Using a free user as an example:
 - Unused credits in the current period are automatically cleared after expiry; they do not roll over and cannot be redeemed for cash
 - A single conversation or task may be subject to concurrency limits over 5-hour and 7-day windows. Please refer to the in-page prompts for the specific rules
 
-## Credit usage priority
-
-<Callout type="tip">
-When multiple types of credits are available, they are deducted in the following order:
-1. **Used first**: complimentary credits (such as trial gifts and campaign rewards)
-2. **Used next**: membership plan credits
-</Callout>
-
 ## What happens when credits run out
 
 <Callout type="warning">

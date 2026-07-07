@@ -50,10 +50,6 @@ Higher-tier plans come with proportionally larger credit pools.
 | **Expiration** | Unused credits expire at the end of each cycle — they do not roll over or convert to cash |
 | **Limits** | Individual tasks may be subject to 5-hour and 7-day concurrency limits as shown in the UI |
 
-## Usage priority
-When multiple credit types exist, they are consumed in this order:
-1. **Bonus credits** — Earned from trials, promotions, or referral rewards
-2. **Plan credits** — Included with your membership tier
 ## When credits run out
 - Any task already in progress will finish normally
 - New tasks will show an "insufficient credits" prompt

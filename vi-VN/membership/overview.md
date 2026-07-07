@@ -40,7 +40,6 @@ Dùng toàn bộ hạn mức tín dụng cho cùng một chức năng
 
 - **Một nguồn tín dụng duy nhất** — Chuỗi Agent, Kimi Code và các tính năng thành viên khác đều dùng chung một nguồn tín dụng, tính theo mức sử dụng token.
 - **Làm mới hàng tháng** — Tín dụng được đặt lại vào đầu mỗi chu kỳ thanh toán.
-- **Thứ tự ưu tiên** — Tín dụng khuyến mãi được dùng trước, sau đó mới đến tín dụng của gói.
 
 ## Tiết kiệm với thanh toán theo năm
 

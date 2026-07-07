@@ -40,7 +40,6 @@ Use all credit limit for the same function
 
 - **Shared credit pool** — Agent features, Kimi Code, and other membership features share one credit pool, metered by token usage.
 - **Monthly refresh** — Credits reset at the start of each billing cycle.
-- **Priority order** — Bonus credits are consumed first, then plan credits.
 
 ## Save with annual billing
 

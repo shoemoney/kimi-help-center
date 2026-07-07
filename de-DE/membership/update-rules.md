@@ -49,10 +49,6 @@ Höhere Tarife enthalten entsprechend größere Credit-Pools.
 | **Ablauf** | Nicht genutzte Credits verfallen am Ende jedes Zyklus – sie werden weder übertragen noch in Guthaben umgewandelt |
 | **Limits** | Einzelne Aufgaben können den in der Benutzeroberfläche angezeigten concurrency-Limits von 5 Stunden und 7 Tagen unterliegen |
 
-## Verbrauchsreihenfolge
-Wenn mehrere Credit-Arten vorhanden sind, werden sie in dieser Reihenfolge verbraucht:
-1. **Bonus-Credits** – Verdient durch Testphasen, Aktionen oder Empfehlungsprämien
-2. **Tarif-Credits** – In Ihrer Mitgliedschaftsstufe enthalten
 ## Wenn die Credits aufgebraucht sind
 - Jede bereits laufende Aufgabe wird normal zu Ende geführt
 - Bei neuen Aufgaben erscheint der Hinweis „Nicht genügend Credits“

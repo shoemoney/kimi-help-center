@@ -97,7 +97,6 @@ Membership benefits for all plans share a single credit pool, calculated by toke
 - **Shared credit pool**: the Agent series, Kimi Code, and other membership features share one pool. Usage is calculated based on actual token consumption.
 - **Monthly refresh**: Credits are automatically refreshed in each billing cycle. Unused credits expire at the end of the cycle and are cleared.
 - **Frequency limits**: For 5-hour and weekly frequency controls, refer to the prompts shown on the page.
-- **Usage priority**: The system consumes granted credits first, then plan credits.
 
 For more benefit details and plan comparisons, see [Membership Subscription Benefits Overview](/membership/membership-overview).
 
@@ -121,10 +120,6 @@ Tasks already in progress can still be completed normally, but new tasks will sh
 - Wait for credits to refresh automatically (5-hour / weekly / monthly refresh, subject to the prompts shown on the page)
 - Upgrade to a higher-tier membership plan for more credits
 - Join official campaigns to receive granted credits
-
-### Do granted credits expire?
-
-Yes. Granted credits, such as trial gifts or campaign rewards, usually have a validity period, such as 7 days or 30 days. They automatically expire after the validity period ends. The system consumes granted credits first, then plan credits.
 
 ### Can I use all my credits on one feature?
 

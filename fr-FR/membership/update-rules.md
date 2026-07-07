@@ -49,10 +49,6 @@ Les offres supérieures s'accompagnent de réserves de crédits proportionnellem
 | **Expiration** | Les crédits non utilisés expirent à la fin de chaque cycle — ils ne sont ni reportés ni convertis en argent |
 | **Limites** | Certaines tâches peuvent être soumises à des limites de concurrency sur 5 heures et 7 jours, comme indiqué dans l'interface |
 
-## Ordre de priorité d'utilisation
-Lorsque plusieurs types de crédits coexistent, ils sont consommés dans cet ordre :
-1. **Crédits bonus** — Obtenus via des essais, des promotions ou des récompenses de parrainage
-2. **Crédits du forfait** — Inclus dans votre formule d'abonnement
 ## Lorsque vos crédits sont épuisés
 - Toute tâche déjà en cours se terminera normalement
 - Les nouvelles tâches afficheront un message « crédits insuffisants »

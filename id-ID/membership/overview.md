@@ -40,7 +40,6 @@ Gunakan seluruh batas kredit untuk fungsi yang sama
 
 - **Satu kumpulan kredit bersama** — Seri Agent, Kimi Code, dan fitur keanggotaan lainnya semuanya menggunakan satu kumpulan kredit yang sama, diukur berdasarkan penggunaan token.
 - **Pembaruan bulanan** — Kredit diatur ulang pada awal setiap siklus penagihan.
-- **Urutan prioritas** — Kredit bonus digunakan terlebih dahulu, kemudian kredit paket.
 
 ## Hemat dengan penagihan tahunan
 

@@ -49,10 +49,6 @@ Daha üst katman planlar, orantılı olarak daha büyük kredi havuzlarıyla gel
 | **Sona erme** | Kullanılmayan krediler her döngünün sonunda sona erer — devredilmez veya nakde dönüştürülmez |
 | **Sınırlar** | Tekil görevler, arayüzde gösterildiği şekilde 5 saatlik ve 7 günlük concurrency sınırlarına tabi olabilir |
 
-## Kullanım önceliği
-Birden fazla kredi türü olduğunda, bunlar şu sırayla tüketilir:
-1. **Bonus krediler** — Denemelerden, kampanyalardan veya referans ödüllerinden kazanılan
-2. **Plan kredileri** — Üyelik katmanınızla birlikte gelen
 ## Krediler bittiğinde
 - Halihazırda devam eden görevler normal şekilde tamamlanır
 - Yeni görevler "yetersiz kredi" uyarısı gösterir

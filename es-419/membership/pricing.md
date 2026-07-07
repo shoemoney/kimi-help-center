@@ -42,4 +42,4 @@ Kimi ofrece cinco niveles de membresía, incluido un plan gratuito, cada uno dis
 
 ## Asignación de créditos
 
-Todos los planes incluyen dos paquetes de créditos: Kimi Code usa un paquete de créditos independiente; las demás funciones de la membresía comparten un solo paquete de créditos. Los niveles superiores incluyen un paquete de créditos proporcionalmente mayor, lo que permite flujos de trabajo más frecuentes y complejos. Consulta [Reglas de actualización y uso de créditos](/membership/update-rules) para más detalles.
+Todos los planes incluyen un único paquete de créditos compartido: la serie Agent, Kimi Code y las demás funciones de la membresía comparten el mismo paquete de créditos. Los niveles superiores incluyen un paquete de créditos proporcionalmente mayor, lo que permite flujos de trabajo más frecuentes y complejos. Consulta [Reglas de actualización y uso de créditos](/membership/update-rules) para más detalles.

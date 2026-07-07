@@ -14,7 +14,7 @@ preview_content: "Bandingkan lima tingkat keanggotaan Kimi, sistem kredit, dan o
 
 # Ikhtisar paket keanggotaan
 
-Kimi menawarkan lima tingkat keanggotaan — termasuk paket gratis — yang dirancang untuk menyesuaikan kebutuhan Anda, mulai dari produktivitas sehari-hari hingga alur kerja pengguna tingkat lanjut. Semua paket mencakup **dua kumpulan kredit**: Kimi Code menggunakan kumpulan kredit terpisah; fitur keanggotaan lainnya berbagi satu kumpulan kredit.
+Kimi menawarkan lima tingkat keanggotaan — termasuk paket gratis — yang dirancang untuk menyesuaikan kebutuhan Anda, mulai dari produktivitas sehari-hari hingga alur kerja pengguna tingkat lanjut. Semua paket mencakup **satu kumpulan kredit bersama**: seri Agent, Kimi Code, dan fitur keanggotaan lainnya semuanya menggunakan kumpulan kredit yang sama, diukur berdasarkan penggunaan token.
 
 ## Perbandingan paket
 
@@ -38,7 +38,7 @@ Gunakan seluruh batas kredit untuk fungsi yang sama
 
 ## Cara kerja penagihan
 
-- **Dua kumpulan kredit** — Kimi Code menggunakan kumpulan kredit terpisah; fitur keanggotaan lainnya berbagi satu kumpulan kredit, diukur berdasarkan penggunaan token.
+- **Satu kumpulan kredit bersama** — Seri Agent, Kimi Code, dan fitur keanggotaan lainnya semuanya menggunakan satu kumpulan kredit yang sama, diukur berdasarkan penggunaan token.
 - **Pembaruan bulanan** — Kredit diatur ulang pada awal setiap siklus penagihan.
 - **Urutan prioritas** — Kredit bonus digunakan terlebih dahulu, kemudian kredit paket.
 

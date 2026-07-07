@@ -8,17 +8,17 @@ preview: false
 
 <SeoMeta
   title="Aturan pembaruan & penggunaan kredit - Pusat Bantuan Kimi"
-  description="Manfaat keanggotaan Kimi mencakup dua pool kredit. Kimi Code menggunakan pool kredit terpisah; fitur keanggotaan lainnya berbagi satu pool kredit, dan kredit dipakai sesuai penggunaan sebenarnya."
+  description="Manfaat keanggotaan Kimi mencakup satu pool kredit bersama. Seri Agent, Kimi Code, dan fitur keanggotaan lainnya semuanya menggunakan pool kredit yang sama, dan kredit dipakai sesuai penggunaan sebenarnya."
 />
 
 # Aturan pembaruan & penggunaan kredit
 
 <Callout type="info">
-Manfaat keanggotaan Kimi mencakup dua pool kredit. Kimi Code menggunakan pool kredit terpisah; fitur keanggotaan lainnya berbagi satu pool kredit, dan kredit dipakai sesuai penggunaan sebenarnya.
+Manfaat keanggotaan Kimi mencakup satu pool kredit bersama. Seri Agent, Kimi Code, dan fitur keanggotaan lainnya semuanya menggunakan pool kredit yang sama, dan kredit dipakai sesuai penggunaan sebenarnya.
 </Callout>
 
-## Apa itu dua pool kredit?
-Alih-alih kredit terpisah untuk setiap fitur, keanggotaan Anda memberikan dua pool kredit. Kimi Code menggunakan pool kredit terpisah; fitur keanggotaan lainnya berbagi satu pool kredit yang berlaku di mana saja:
+## Bagaimana cara kerja pool kredit bersama?
+Alih-alih kredit terpisah untuk setiap fitur, keanggotaan Anda memberikan satu pool kredit bersama. Seri Agent, Kimi Code, dan fitur keanggotaan lainnya semuanya menggunakan pool kredit yang sama yang berlaku di mana saja:
 | Fitur | Deskripsi |
 |---------|-------------|
 | **Tugas Agent** | Website, dokumen, slide, spreadsheet, deep research |
@@ -26,10 +26,9 @@ Alih-alih kredit terpisah untuk setiap fitur, keanggotaan Anda memberikan dua po
 | **Fitur lainnya** | Pembuatan gambar dan lainnya |
 
 > **Kimi Chat**: Percakapan dengan model terbaru (tidak memakai kredit)
-> **Kimi Code**: Asisten coding bertenaga AI (pool kredit terpisah)
 
 <Callout type="tip">
-Ini berarti Anda bebas mengalokasikan kredit sesuka hati di seluruh pool bersama — pakai lebih banyak untuk riset di satu bulan, lebih banyak untuk dokumen di bulan berikutnya. Kimi Chat tidak memakai kredit, dan Kimi Code memakai pool kredit terpisahnya sendiri.
+Ini berarti Anda bebas mengalokasikan kredit sesuka hati di seluruh pool bersama — pakai lebih banyak untuk riset di satu bulan, lebih banyak untuk dokumen di bulan berikutnya. Kimi Chat tidak memakai kredit.
 </Callout>
 
 ## Bagaimana kredit dihitung?

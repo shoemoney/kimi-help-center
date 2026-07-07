@@ -14,7 +14,7 @@ preview_content: "A full comparison of Kimi’s five membership plans, including
 
 # Membership Subscription Benefits Overview
 
-Kimi offers four membership subscription plans to meet different needs, from everyday personal use to intensive professional workflows. Every plan includes two credit pools: Kimi Code uses a separate credit pool, while other membership features share another credit pool. Chat does not consume credits. Credits can be allocated freely.
+Kimi offers four membership subscription plans to meet different needs, from everyday personal use to intensive professional workflows. Every plan shares a single credit pool: the Agent series, Kimi Code, and other membership features all draw from the same credit pool. Chat does not consume credits. Credits can be allocated freely.
 
 ## Plan comparison
 
@@ -82,7 +82,7 @@ Kimi offers four membership subscription plans to meet different needs, from eve
 
 ## Billing
 
-- **Two credit pools**: Kimi Code uses a separate credit pool. Other membership features share one credit pool and are billed based on actual token consumption.
+- **Shared credit pool**: the Agent series, Kimi Code, and other membership features share one credit pool and are billed based on actual token consumption.
 - **Monthly refresh**: Credits are refreshed automatically in each billing cycle.
 - **Frequency limits**: For 5-hour and weekly frequency controls, please follow the page prompts.
 - **Usage priority**: The system uses gifted credits first, then plan credits.
@@ -110,7 +110,7 @@ Choose a continuous annual subscription to save up to **¥1,680**. Ideal for lon
 
 ### Why are my benefits different from before?
 
-We have upgraded the benefit system and unified your benefit credits. Now, Agent, PPT, and other membership features share one credit pool and are billed based on actual usage. Kimi Code uses a separate credit pool. For details, see [Membership Credit Explanation](https://www.kimi.com/membership-credits).
+We have upgraded the benefit system and unified your benefit credits. Now, Agent, Kimi Code, PPT, and other membership features share one credit pool and are billed based on actual usage. For details, see [Membership Credit Explanation](https://www.kimi.com/membership-credits).
 
 ### How do I request an invoice?
 
@@ -140,7 +140,7 @@ Unused benefits during the subscription period will be automatically cleared aft
 - **Web**: Click your avatar in the lower-left corner → Settings → Subscription
 - **APP**: Me → Membership plan → Subscription
 
-You can view your current credit balance (percentage), next refresh time, and the 10 most recent usage records, including usage time, feature, and consumption percentage.
+You can view your current credit balance (percentage), next refresh time, and the 1,000 most recent usage records, including usage time, feature, and consumption percentage.
 
 <Callout type="tip">
 Usage details may have a short delay. Please refer to the current credit display.
@@ -160,7 +160,7 @@ Yes. Gifted credits, such as trial gifts and campaign rewards, usually have a va
 
 ### Can I use all my credits on one feature?
 
-Yes. Membership benefits include two credit pools: Kimi Code uses a separate credit pool, while other membership features such as Agent, PPT, and Deep Research share one credit pool. You can allocate them freely.
+Yes. Membership benefits share a single credit pool: Agent, Kimi Code, PPT, Deep Research, and other features all draw from the same pool. You can allocate them freely.
 
 ### Are paid services refundable?
 

@@ -14,7 +14,7 @@ preview_content: "So sánh năm hạng thành viên của Kimi, hệ thống tí
 
 # Tổng quan các gói thành viên
 
-Kimi cung cấp năm hạng thành viên — bao gồm cả gói miễn phí — được thiết kế để mở rộng theo nhu cầu của bạn, từ công việc thường ngày đến quy trình dành cho người dùng chuyên sâu. Tất cả các gói đều có **hai nguồn tín dụng**: Kimi Code dùng một nguồn tín dụng riêng; các tính năng thành viên khác dùng chung một nguồn tín dụng.
+Kimi cung cấp năm hạng thành viên — bao gồm cả gói miễn phí — được thiết kế để mở rộng theo nhu cầu của bạn, từ công việc thường ngày đến quy trình dành cho người dùng chuyên sâu. Tất cả các gói đều dùng chung **một nguồn tín dụng duy nhất**: chuỗi Agent, Kimi Code và các tính năng thành viên khác đều lấy từ cùng một nguồn tín dụng, tính theo mức sử dụng token.
 
 ## So sánh các gói
 
@@ -38,7 +38,7 @@ Dùng toàn bộ hạn mức tín dụng cho cùng một chức năng
 
 ## Cách tính phí hoạt động
 
-- **Hai nguồn tín dụng** — Kimi Code dùng một nguồn tín dụng riêng; các tính năng thành viên khác dùng chung một nguồn tín dụng, tính theo mức sử dụng token.
+- **Một nguồn tín dụng duy nhất** — Chuỗi Agent, Kimi Code và các tính năng thành viên khác đều dùng chung một nguồn tín dụng, tính theo mức sử dụng token.
 - **Làm mới hàng tháng** — Tín dụng được đặt lại vào đầu mỗi chu kỳ thanh toán.
 - **Thứ tự ưu tiên** — Tín dụng khuyến mãi được dùng trước, sau đó mới đến tín dụng của gói.
 

@@ -42,4 +42,4 @@ O Kimi oferece cinco níveis de assinatura — incluindo um plano gratuito — c
 
 ## Distribuição de créditos
 
-Todos os planos incluem dois conjuntos de créditos: o Kimi Code usa um conjunto de créditos separado; os demais recursos da assinatura compartilham um único conjunto de créditos. Os níveis superiores incluem um conjunto de créditos proporcionalmente maior, dando suporte a fluxos de trabalho mais frequentes e complexos. Consulte [Regras de atualização e uso de créditos](/membership/update-rules) para mais detalhes.
+Todos os planos incluem um único conjunto de créditos compartilhado: a série Agent, o Kimi Code e os demais recursos da assinatura utilizam o mesmo conjunto de créditos. Os níveis superiores incluem um conjunto de créditos proporcionalmente maior, dando suporte a fluxos de trabalho mais frequentes e complexos. Consulte [Regras de atualização e uso de créditos](/membership/update-rules) para mais detalhes.

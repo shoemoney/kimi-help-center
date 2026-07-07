@@ -14,7 +14,7 @@ preview_content: "Kimi'nin beş üyelik kademesini, kredi sistemini ve faturalan
 
 # Üyelik planlarına genel bakış
 
-Kimi, günlük üretkenlikten ileri düzey kullanıcı iş akışlarına kadar ihtiyaçlarınızla birlikte ölçeklenecek şekilde tasarlanmış, biri ücretsiz olmak üzere beş üyelik kademesi sunar. Tüm planlar **iki kredi havuzu** içerir: Kimi Code ayrı bir kredi havuzu kullanır; diğer üyelik özellikleri ortak bir kredi havuzunu paylaşır.
+Kimi, günlük üretkenlikten ileri düzey kullanıcı iş akışlarına kadar ihtiyaçlarınızla birlikte ölçeklenecek şekilde tasarlanmış, biri ücretsiz olmak üzere beş üyelik kademesi sunar. Tüm planlar **tek bir ortak kredi havuzu** içerir: Agent serisi, Kimi Code ve diğer üyelik özelliklerinin tümü aynı kredi havuzundan yararlanır.
 
 ## Plan karşılaştırması
 
@@ -38,7 +38,7 @@ Tüm kredi limitini aynı işlev için kullanın
 
 ## Faturalandırma nasıl işler
 
-- **İki kredi havuzu** — Kimi Code ayrı bir kredi havuzu kullanır; diğer üyelik özellikleri token kullanımına göre ölçülen ortak bir kredi havuzunu paylaşır.
+- **Tek ortak kredi havuzu** — Agent serisi, Kimi Code ve diğer üyelik özelliklerinin tümü, token kullanımına göre ölçülen tek bir ortak kredi havuzundan yararlanır.
 - **Aylık yenileme** — Krediler her faturalandırma döneminin başında sıfırlanır.
 - **Öncelik sırası** — Önce bonus krediler, ardından plan kredileri kullanılır.
 

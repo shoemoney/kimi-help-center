@@ -42,4 +42,4 @@ Kimi, biri ücretsiz olmak üzere beş üyelik kademesi sunar; her biri aylık v
 
 ## Kredi dağılımı
 
-Tüm planlar iki kredi havuzu içerir: Kimi Code ayrı bir kredi havuzu kullanır; diğer üyelik özellikleri tek bir kredi havuzunu paylaşır. Daha yüksek kademeler orantılı olarak daha büyük bir kredi havuzu içererek daha sık ve karmaşık iş akışlarını destekler. Ayrıntılar için [Kredi Güncellemesi ve Kullanım Kuralları](/membership/update-rules) sayfasına bakın.
+Tüm planlar tek bir ortak kredi havuzu içerir: Agent serisi, Kimi Code ve diğer üyelik özelliklerinin tümü aynı kredi havuzundan yararlanır. Daha yüksek kademeler orantılı olarak daha büyük bir kredi havuzu içererek daha sık ve karmaşık iş akışlarını destekler. Ayrıntılar için [Kredi Güncellemesi ve Kullanım Kuralları](/membership/update-rules) sayfasına bakın.

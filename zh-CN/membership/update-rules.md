@@ -4,7 +4,7 @@ slug: "membership-update-rules"
 order: 3
 extract_headings: true
 preview: true
-preview_content: "了解会员额度刷新周期、使用优先级与两个额度池规则。"
+preview_content: "了解会员额度刷新周期、使用优先级与额度共享规则。"
 ---
 
 <SeoMeta
@@ -13,18 +13,18 @@ preview_content: "了解会员额度刷新周期、使用优先级与两个额�
 />
 # 会员额度更新与使用规则
 
-Kimi 会员权益包含两个额度池：Kimi Code 使用单独额度池，其他会员功能（Agent、深度研究、PPT、文档、表格、Kimi Claw 等）共享一个额度池，按实际 token 消耗扣除。
+Kimi 会员权益的各项功能（Agent 系列、Kimi Code、深度研究、PPT、文档、表格、Kimi Claw 等）共享一个额度池，按实际 token 消耗扣除。
 
-## 什么是两个额度池？
+## 什么是共享额度池？
 
-所有套餐的会员权益包含两个额度池：Kimi Code 使用单独额度池，其他会员功能共享一个额度池。你可以在其他会员功能中自由分配使用：
+所有套餐的会员权益共享一个额度池，各项会员功能均从同一额度池扣除。你可以在各会员功能中自由分配使用：
 
 - **Agent 系列**：网站生成、文档处理、PPT 制作、表格处理、深度研究等
+- **Kimi Code**：智能编程助手
 - **Kimi Claw**：可一键部署的专属助理
 - **其他会员权益**：图片生成等
 
 > **Kimi Chat**：使用最新模型进行对话（不消耗额度）
-> **Kimi Code**：智能编程助手（使用单独额度池）
 
 ## 额度如何计算？
 

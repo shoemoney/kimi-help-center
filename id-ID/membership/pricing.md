@@ -42,4 +42,4 @@ Kimi menawarkan lima tingkat keanggotaan — termasuk paket gratis — masing-ma
 
 ## Alokasi kredit
 
-Semua paket mencakup dua kumpulan kredit: Kimi Code menggunakan kumpulan kredit tersendiri; fitur keanggotaan lainnya berbagi satu kumpulan kredit. Tingkat yang lebih tinggi mencakup kumpulan kredit yang proporsional lebih besar, sehingga mendukung alur kerja yang lebih sering dan kompleks. Lihat [Aturan Pembaruan & Penggunaan Kredit](/membership/update-rules) untuk detailnya.
+Semua paket mencakup satu kumpulan kredit bersama: seri Agent, Kimi Code, dan fitur keanggotaan lainnya semuanya menggunakan kumpulan kredit yang sama. Tingkat yang lebih tinggi mencakup kumpulan kredit yang proporsional lebih besar, sehingga mendukung alur kerja yang lebih sering dan kompleks. Lihat [Aturan Pembaruan & Penggunaan Kredit](/membership/update-rules) untuk detailnya.

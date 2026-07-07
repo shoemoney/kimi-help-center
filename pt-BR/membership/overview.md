@@ -14,7 +14,7 @@ preview_content: "Compare os cinco níveis de assinatura do Kimi, o sistema de c
 
 # Visão geral dos planos de assinatura
 
-O Kimi oferece cinco níveis de assinatura — incluindo um plano gratuito — projetados para acompanhar suas necessidades, da produtividade do dia a dia aos fluxos de trabalho mais avançados. Todos os planos incluem **dois pools de créditos**: o Kimi Code usa um pool de créditos separado; os demais recursos da assinatura compartilham um único pool de créditos.
+O Kimi oferece cinco níveis de assinatura — incluindo um plano gratuito — projetados para acompanhar suas necessidades, da produtividade do dia a dia aos fluxos de trabalho mais avançados. Todos os planos incluem **um único pool de créditos compartilhado**: a série Agent, o Kimi Code e os demais recursos da assinatura utilizam o mesmo pool de créditos, medido pelo uso de tokens.
 
 ## Comparação de planos
 
@@ -38,7 +38,7 @@ Aproveite todo o seu limite de créditos dentro de um mesmo recurso
 
 ## Como funciona a cobrança
 
-- **Dois pools de créditos** — o Kimi Code usa um pool de créditos separado; os demais recursos da assinatura compartilham um único pool de créditos, medido pelo uso de tokens.
+- **Pool de créditos único** — a série Agent, o Kimi Code e os demais recursos da assinatura compartilham o mesmo pool de créditos, medido pelo uso de tokens.
 - **Renovação mensal** — os créditos são zerados no início de cada ciclo de cobrança.
 - **Ordem de prioridade** — os créditos bônus são consumidos primeiro, depois os créditos do plano.
 

@@ -9,12 +9,12 @@ preview_content: "Learn about Kimi membership plan pricing, benefits, and credit
 
 <SeoMeta
   title="Kimi Membership Plan Pricing and Benefits Comparison - Kimi Help Center"
-  description="Compare pricing, benefits, and credit details for Kimi’s five membership plans, from Adagio to Allegro, including the overseas Vivace plan. Membership benefits include two credit pools: Kimi Code uses a separate pool, while other membership features share one pool. Save up to ¥1,680 with an annual auto-renewal subscription."
+  description="Compare pricing, benefits, and credit details for Kimi’s five membership plans, from Adagio to Allegro, including the overseas Vivace plan. Membership benefits share a single credit pool: the Agent series, Kimi Code, and other features all draw from the same pool. Save up to ¥1,680 with an annual auto-renewal subscription."
 />
 
 # Membership Pricing and Plan Overview
 
-Kimi offers five membership plans, including the free Adagio plan. All plans support monthly auto-renewal and annual auto-renewal subscriptions. Membership benefits include two credit pools: Kimi Code uses a separate pool, while other membership features share one pool. Credits can be allocated freely.
+Kimi offers five membership plans, including the free Adagio plan. All plans support monthly auto-renewal and annual auto-renewal subscriptions. Membership benefits share a single credit pool: the Agent series, Kimi Code, and other features all draw from the same pool. Credits can be allocated freely.
 
 ## Subscription Options and Pricing
 
@@ -91,10 +91,10 @@ The Agent usage figures above are estimates based on typical task token consumpt
 ## Credit Details
 
 <Callout type="info">
-Membership benefits for all plans include two credit pools, calculated by token consumption. Kimi Code uses a separate credit pool, while other membership features, such as Agent, share one pool. Chat does not consume credits. You do not need to manage usage for each feature separately. Higher-tier plans provide more credits, supporting more frequent and more complex use cases.
+Membership benefits for all plans share a single credit pool, calculated by token consumption. Agent, Kimi Code, and other membership features all draw from the same pool. Chat does not consume credits. You do not need to manage usage for each feature separately. Higher-tier plans provide more credits, supporting more frequent and more complex use cases.
 </Callout>
 
-- **Two credit pools**: Kimi Code uses a separate credit pool, while other membership features share one pool. Usage is calculated based on actual token consumption.
+- **Shared credit pool**: the Agent series, Kimi Code, and other membership features share one pool. Usage is calculated based on actual token consumption.
 - **Monthly refresh**: Credits are automatically refreshed in each billing cycle. Unused credits expire at the end of the cycle and are cleared.
 - **Frequency limits**: For 5-hour and weekly frequency controls, refer to the prompts shown on the page.
 - **Usage priority**: The system consumes granted credits first, then plan credits.
@@ -108,7 +108,7 @@ For more benefit details and plan comparisons, see [Membership Subscription Bene
 - **Web**: Click your avatar in the lower-left corner → Settings → Subscription
 - **APP**: Me → Membership Plan → Subscription
 
-You can view your current credit balance as a percentage, the next refresh time, and the 10 most recent usage records, including time used, feature, and consumption percentage.
+You can view your current credit balance as a percentage, the next refresh time, and the 1,000 most recent usage records, including time used, feature, and consumption percentage.
 
 <Callout type="tip">
 Usage record data may have a short delay. Please refer to the currently displayed credit balance.
@@ -128,7 +128,7 @@ Yes. Granted credits, such as trial gifts or campaign rewards, usually have a va
 
 ### Can I use all my credits on one feature?
 
-Yes. Membership benefits include two credit pools: Kimi Code uses a separate pool, while other membership features, such as Agent, PPT, and Deep Research, share one pool. You can use them as you choose.
+Yes. Membership benefits share a single credit pool: Agent, Kimi Code, PPT, Deep Research, and other features all draw from the same pool. You can use them as you choose.
 
 ## Related Agreements
 

@@ -14,7 +14,7 @@ preview_content: "Comparez les cinq niveaux d'abonnement de Kimi, le système de
 
 # Présentation des formules d'abonnement
 
-Kimi propose cinq niveaux d'abonnement — dont une formule gratuite — conçus pour évoluer selon vos besoins, de la productivité quotidienne aux usages les plus intensifs. Toutes les formules comprennent **deux pools de crédits** : Kimi Code dispose d'un pool de crédits distinct ; les autres fonctionnalités d'abonnement partagent un même pool de crédits.
+Kimi propose cinq niveaux d'abonnement — dont une formule gratuite — conçus pour évoluer selon vos besoins, de la productivité quotidienne aux usages les plus intensifs. Toutes les formules partagent **un pool de crédits unique** : la série Agent, Kimi Code et les autres fonctionnalités d'abonnement puisent toutes dans le même pool de crédits, décompté selon l'usage réel de tokens.
 
 ## Comparatif des formules
 
@@ -38,7 +38,7 @@ Utilisez l'intégralité de votre plafond de crédits pour une même fonction
 
 ## Fonctionnement de la facturation
 
-- **Deux pools de crédits** — Kimi Code dispose d'un pool de crédits distinct ; les autres fonctionnalités d'abonnement partagent un même pool de crédits, décompté selon l'usage de tokens.
+- **Un pool de crédits unique** — La série Agent, Kimi Code et les autres fonctionnalités d'abonnement partagent un même pool de crédits, décompté selon l'usage de tokens.
 - **Renouvellement mensuel** — Les crédits sont réinitialisés au début de chaque cycle de facturation.
 - **Ordre de priorité** — Les crédits bonus sont consommés en premier, puis les crédits de la formule.
 

@@ -42,4 +42,4 @@ Kimi offers five membership tiers — including a free plan — each available a
 
 ## Credit allocation
 
-All plans include two credit pools: Kimi Code uses a separate credit pool; other membership features share one credit pool. Higher tiers include a proportionally larger credit pool, supporting more frequent and complex workflows. See [Credit Update & Usage Rules](/membership/update-rules) for details.
+All plans share a single credit pool: Agent features, Kimi Code, and other membership features are all metered from the same credit pool. Higher tiers include a proportionally larger credit pool, supporting more frequent and complex workflows. See [Credit Update & Usage Rules](/membership/update-rules) for details.

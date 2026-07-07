@@ -8,17 +8,17 @@ preview: false
 
 <SeoMeta
   title="Credit-Aktualisierung und Nutzungsregeln - Kimi Hilfecenter"
-  description="Zu den Kimi-Mitgliedsvorteilen gehören zwei Credit-Pools. Kimi Code nutzt einen eigenen Credits-Pool; die übrigen Mitgliedsfunktionen teilen sich einen Credit-Pool, wobei Credits nach tatsächlicher Nutzung verbraucht werden."
+  description="Die Kimi-Mitgliedsfunktionen (Agent-Serie, Kimi Code usw.) teilen sich einen einzigen gemeinsamen Credit-Pool, wobei Credits nach tatsächlicher Nutzung verbraucht werden."
 />
 
 # Credit-Aktualisierung und Nutzungsregeln
 
 <Callout type="info">
-Zu den Kimi-Mitgliedsvorteilen gehören zwei Credit-Pools. Kimi Code nutzt einen eigenen Credits-Pool; die übrigen Mitgliedsfunktionen teilen sich einen Credit-Pool, wobei Credits nach tatsächlicher Nutzung verbraucht werden.
+Die Kimi-Mitgliedsfunktionen (Agent-Serie, Kimi Code usw.) teilen sich einen einzigen gemeinsamen Credit-Pool, wobei Credits nach tatsächlicher Nutzung verbraucht werden.
 </Callout>
 
-## Was sind die zwei Credit-Pools?
-Statt eigener Credits für jede einzelne Funktion erhalten Sie mit Ihrer Mitgliedschaft zwei Credit-Pools. Kimi Code nutzt einen eigenen Credits-Pool; die übrigen Mitgliedsfunktionen teilen sich einen Credits-Pool, der überall greift:
+## Wie funktioniert der gemeinsame Credit-Pool?
+Statt eigener Credits für jede einzelne Funktion erhalten Sie mit Ihrer Mitgliedschaft einen einzigen gemeinsamen Credit-Pool. Die Agent-Serie, Kimi Code und die übrigen Mitgliedsfunktionen teilen sich denselben Credits-Pool, der überall greift:
 | Funktion | Beschreibung |
 |---------|-------------|
 | **Agent-Aufgaben** | Websites, Dokumente, Folien, Tabellen, Deep Research |
@@ -26,10 +26,9 @@ Statt eigener Credits für jede einzelne Funktion erhalten Sie mit Ihrer Mitglie
 | **Weitere Funktionen** | Bildgenerierung und mehr |
 
 > **Kimi Chat**: Unterhaltungen mit den neuesten Modellen (kein Credit-Verbrauch)
-> **Kimi Code**: KI-gestützter Coding-Assistent (eigener Credits-Pool)
 
 <Callout type="tip">
-Das bedeutet: Sie können Ihre Credits aus dem gemeinsamen Pool ganz nach Belieben verteilen – in einem Monat mehr für Recherche, im nächsten mehr für Dokumente. Kimi Chat verbraucht keine Credits, und Kimi Code greift auf seinen eigenen, separaten Credits-Pool zu.
+Das bedeutet: Sie können Ihre Credits aus dem gemeinsamen Pool ganz nach Belieben verteilen – in einem Monat mehr für Recherche, im nächsten mehr für Dokumente. Kimi Chat verbraucht keine Credits.
 </Callout>
 
 ## Wie werden Credits berechnet?

@@ -1,9 +1,9 @@
 {
-  "title": "Webサイト",
-  "description": "AgentでWebページを作成し、デプロイ・共有、反復編集",
+  "title": "ウェブサイト",
+  "description": "Agentでウェブページを作成し、デプロイ・共有、反復編集",
   "seo": {
-    "title": "Webサイト",
-    "description": "AgentでWebページを作成し、デプロイ・共有、反復編集"
+    "title": "ウェブサイト",
+    "description": "Agentでウェブページを作成し、デプロイ・共有、反復編集"
   },
   "icon": "websites",
   "order": 8,

@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "1.0.0",
-    "last_updated": "2026-07-02",
+    "last_updated": "2026-07-07",
     "description": "Kimi Help Center 多语言专有名词对照表",
     "source_repo": "git@dev.msh.team:search-engine/kimi-helpcenter-doc.git",
     "total_terms": 169,
@@ -1767,7 +1767,11 @@
       "region_note": "global",
       "context_example": "统一额度（Unified Credits）",
       "source_article": "zh-CN/membership/update-rules.md",
-      "status": "confirmed"
+      "status": "confirmed",
+      "localized_forms": {
+        "ja-JP": "クレジット"
+      },
+      "ja_note": "日本語は片仮名「クレジット」を主表記とし、英語 credit と併存。初出のみ「クレジット（credit）」の注記形も可。ja-JP ドキュメントでは裸の英語 credit を使わない。"
     },
     {
       "id": "M2-003",

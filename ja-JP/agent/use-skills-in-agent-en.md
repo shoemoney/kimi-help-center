@@ -1,5 +1,5 @@
 ---
-title: "Agent Modeでスキルを使う"
+title: "エージェントモードでスキルを使う"
 slug: "use-skills-in-agent"
 order: 6
 extract_headings: false
@@ -7,12 +7,12 @@ preview: false
 ---
 
 <SeoMeta
-  title="Agent Modeでスキルを使う - Kimi ヘルプセンター"
+  title="エージェントモードでスキルを使う - Kimi ヘルプセンター"
   description="Agent Modeでスキルを呼び出す方法、カスタムスキルの作成、おすすめスキルの見つけ方、Kimiの機能拡張について説明します。"
   ogType="article"
 />
 
-# Agent Modeでスキルを使う
+# エージェントモードでスキルを使う
 
 ## スキルを呼び出すには
 
@@ -37,7 +37,7 @@ Kimi Agent Modeの入力欄では、次の3つの方法でスキルを呼び出�
 
 ### 例：スキルでSEO分析レポートを作成する
 
-WebサイトのSEOパフォーマンスを分析したいコンテンツマネージャーだとします：
+ウェブサイトのSEOパフォーマンスを分析したいコンテンツマネージャーだとします：
 
 1. 入力欄に `/` と入力し、`seo-analyzer` スキルを見つけて選択します。
 2. 続けて入力します：`Please analyze https://help.com/zh-cn/help's SEO performance, list the main issues and optimization suggestions.`

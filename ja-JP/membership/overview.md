@@ -4,12 +4,12 @@ slug: "membership-overview"
 order: 1
 extract_headings: true
 preview: true
-preview_content: "Kimiの5つのメンバーシップランク、creditシステム、お支払い方法を比較できます。"
+preview_content: "Kimiの5つのメンバーシップランク、クレジットシステム、お支払い方法を比較できます。"
 ---
 
 <SeoMeta
   title="Kimiメンバーシップ概要 - Kimi ヘルプセンター"
-  description="Kimiの5つのメンバーシップランク、creditシステム、お支払い方法を比較できます。"
+  description="Kimiの5つのメンバーシップランク、クレジットシステム、お支払い方法を比較できます。"
 />
 
 # メンバーシッププラン概要
@@ -30,10 +30,10 @@ Kimiには、無料プランを含む5つのメンバーシップランクがあ
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
 | プロフェッショナルデータベース | 200回 | 2,000回 | 5,000回 | 12,000回 | 24,000回 |
 
-\* 一般的なタスクのtoken消費量に基づく概算値です。月間creditを、同じ機能で実行できるタスク数の目安に換算したもので、参考値としてご覧ください。
+\* 一般的なタスクのtoken消費量に基づく概算値です。月間クレジットを、同じ機能で実行できるタスク数の目安に換算したもので、参考値としてご覧ください。
 
 <Callout type="tip">
-同じ機能でcredit上限をすべて利用できます
+同じ機能でクレジット上限をすべて利用できます
 </Callout>
 
 ## 請求の仕組み
@@ -48,8 +48,8 @@ Kimiには、無料プランを含む5つのメンバーシップランクがあ
 <ColumnsContent
   columns={[
     {
-      title: "creditルール",
-      description: "creditの仕組みと更新タイミング",
+      title: "クレジットルール",
+      description: "クレジットの仕組みと更新タイミング",
       pageUrl: "/membership/update-rules",
       type: "document",
     },

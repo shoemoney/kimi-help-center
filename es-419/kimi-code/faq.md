@@ -164,4 +164,4 @@ Ciertos errores impiden enviar mensajes en VS Code, como que no se encuentre el 
 
 Si lo anterior no resolvió tu problema, no dudes en escribirnos por correo: [code@moonshot.ai](mailto:code@moonshot.ai). En el correo, describe el problema que tuviste, los pasos que seguiste y cualquier información de registro relevante, y te responderemos lo antes posible.
 
-Si tienes algún problema o sugerencia, también puedes dejarnos tus comentarios en [GitHub Issues](https://www.github.com/MoonshotAI/kimi-cli/issues).
+Si tienes algún problema o sugerencia, también puedes dejarnos tus comentarios en [GitHub Issues](https://github.com/MoonshotAI/kimi-cli/issues).

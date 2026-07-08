@@ -25,7 +25,7 @@ This guide shows how to configure Claude Code and Roo Code.
 
 ## Use in Claude Code
 
-[Claude Code](https://docs.anthropic.com/en/docs/claude-code) is a command-line coding assistant from Anthropic. For installation instructions, see the [official Claude Code documentation](https://docs.anthropic.com/en/docs/claude-code/getting-started).
+[Claude Code](https://code.claude.com/docs) is a command-line coding assistant from Anthropic. For installation instructions, see the [official Claude Code documentation](https://code.claude.com/docs/en/getting-started).
 
 <Callout type="info">
   After installation, skip Anthropic’s default login flow. Run the following command in your terminal:

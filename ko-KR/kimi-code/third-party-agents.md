@@ -22,7 +22,7 @@ Kimi Code 혜택은 Claude Code 및 Roo Code와 함께 사용할 수 있어, 즐
 
 ## Claude Code와 함께 사용하기
 
-[Claude Code](https://www.docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)는 Anthropic이 제공하는 명령줄 코딩 도우미입니다.
+[Claude Code](https://code.claude.com/docs/en/overview)는 Anthropic이 제공하는 명령줄 코딩 도우미입니다.
 
 ### 구성 단계
 
@@ -56,7 +56,7 @@ Kimi Code 혜택은 Claude Code 및 Roo Code와 함께 사용할 수 있어, 즐
 
 ## Roo Code와 함께 사용하기
 
-[Roo Code](https://www.github.com/RooCodeInc/Roo-Code)는 VS Code용 AI 코딩 확장 프로그램입니다.
+[Roo Code](https://github.com/RooCodeInc/Roo-Code)는 VS Code용 AI 코딩 확장 프로그램입니다.
 
 ### Roo Code 설치
 

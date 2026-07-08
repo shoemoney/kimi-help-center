@@ -164,4 +164,4 @@ Error tertentu mencegah pengiriman pesan di VS Code, seperti Kimi Code CLI tidak
 
 Jika hal-hal di atas tidak menyelesaikan masalah Anda, jangan ragu untuk menghubungi kami melalui email: [code@moonshot.ai](mailto:code@moonshot.ai). Mohon jelaskan masalah yang Anda alami, langkah-langkah yang telah Anda lakukan, dan informasi log yang relevan dalam email tersebut, dan kami akan merespons sesegera mungkin.
 
-Jika Anda memiliki masalah atau saran, Anda juga dapat memberikan masukan di [GitHub Issues](https://www.github.com/MoonshotAI/kimi-cli/issues).
+Jika Anda memiliki masalah atau saran, Anda juga dapat memberikan masukan di [GitHub Issues](https://github.com/MoonshotAI/kimi-cli/issues).

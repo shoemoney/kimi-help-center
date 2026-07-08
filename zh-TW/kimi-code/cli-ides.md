@@ -15,7 +15,7 @@ preview_content: "透過 ACP 將 Kimi Code CLI 整合到你的 IDE。"
 # 在 IDE 中使用 Kimi Code CLI
 
 <Callout type="info">
-Kimi Code CLI 可透過 [Agent Client Protocol（ACP）](https://agentclientprotocol.com/) 整合至 IDE，讓你直接在編輯器中使用 AI 輔助撰寫程式。
+Kimi Code CLI 可透過 [Agent Client Protocol（ACP）](https://agentclientprotocol.com/get-started/introduction) 整合至 IDE，讓你直接在編輯器中使用 AI 輔助撰寫程式。
 </Callout>
 
 ## 前置條件

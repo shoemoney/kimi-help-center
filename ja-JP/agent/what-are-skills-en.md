@@ -85,7 +85,7 @@ preview: false
 |----------|-----|-------------|
 | SkillsMP | https://skillsmp.com | GitHubからSKILL.mdパッケージを取り込むAIエージェント向けスキルマーケットプレイス。Claude CodeおよびOpenAI Codex CLIに対応 |
 | SkillsLLM | https://skillsllm.com | Claude Code、Codex CLI、ChatGPT向けに、セキュリティ審査済みの1,600以上のスキルを提供するオープンソースのAIエージェント向けスキルマーケットプレイス |
-| LobeHub Skills | https://lobehub.com/skills | Claude Code、Codex CLI、ChatGPTに対応したSKILL.mdパッケージを閲覧・配布できます |
+| LobeHub Skills | https://market.lobehub.com/s/skills | Claude Code、Codex CLI、ChatGPTに対応したSKILL.mdパッケージを閲覧・配布できます |
 
 ### (3) スキルをカスタマイズする
 

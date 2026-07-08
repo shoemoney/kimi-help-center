@@ -15,7 +15,7 @@ preview_content: "ผสานรวม Kimi Code CLI เข้ากับ IDE 
 # การใช้ Kimi Code CLI ใน IDE
 
 <Callout type="info">
-Kimi Code CLI รองรับการผสานรวมเข้ากับ IDE ผ่าน [Agent Client Protocol (ACP)](https://agentclientprotocol.com/) ช่วยให้คุณใช้การเขียนโค้ดด้วยความช่วยเหลือจาก AI ได้โดยตรงภายในเอดิเตอร์ของคุณ
+Kimi Code CLI รองรับการผสานรวมเข้ากับ IDE ผ่าน [Agent Client Protocol (ACP)](https://agentclientprotocol.com/get-started/introduction) ช่วยให้คุณใช้การเขียนโค้ดด้วยความช่วยเหลือจาก AI ได้โดยตรงภายในเอดิเตอร์ของคุณ
 </Callout>
 
 ## สิ่งที่ต้องเตรียม

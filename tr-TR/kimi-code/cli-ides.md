@@ -15,7 +15,7 @@ preview_content: "ACP üzerinden Kimi Code CLI'yi IDE'nize entegre edin."
 # Kimi Code CLI'yi IDE'lerde Kullanma
 
 <Callout type="info">
-Kimi Code CLI, [Agent Client Protocol (ACP)](https://agentclientprotocol.com/) aracılığıyla IDE'lere entegrasyonu destekler ve yapay zeka destekli kodlamayı doğrudan editörünüzün içinde kullanmanıza olanak tanır.
+Kimi Code CLI, [Agent Client Protocol (ACP)](https://agentclientprotocol.com/get-started/introduction) aracılığıyla IDE'lere entegrasyonu destekler ve yapay zeka destekli kodlamayı doğrudan editörünüzün içinde kullanmanıza olanak tanır.
 </Callout>
 
 ## Ön koşullar

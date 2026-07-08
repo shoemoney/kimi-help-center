@@ -19,7 +19,7 @@ preview: false
 
 ## Плагин Zsh
 
-[zsh-kimi-cli](https://www.github.com/MoonshotAI/zsh-kimi-cli) — плагин Zsh, с которым можно быстро переключаться из командной оболочки на Kimi Code CLI.
+[zsh-kimi-cli](https://github.com/MoonshotAI/zsh-kimi-cli) — плагин Zsh, с которым можно быстро переключаться из командной оболочки на Kimi Code CLI.
 
 ### Установка в Oh My Zsh
 

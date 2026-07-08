@@ -22,7 +22,7 @@ Quyền lợi Kimi Code có thể dùng được với Claude Code và Roo Code,
 
 ## Sử dụng cùng Claude Code
 
-[Claude Code](https://www.docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) là trợ lý lập trình dòng lệnh do Anthropic phát triển.
+[Claude Code](https://code.claude.com/docs/en/overview) là trợ lý lập trình dòng lệnh do Anthropic phát triển.
 
 ### Các bước cấu hình
 
@@ -56,7 +56,7 @@ Quyền lợi Kimi Code có thể dùng được với Claude Code và Roo Code,
 
 ## Sử dụng cùng Roo Code
 
-[Roo Code](https://www.github.com/RooCodeInc/Roo-Code) là một tiện ích lập trình AI dành cho VS Code.
+[Roo Code](https://github.com/RooCodeInc/Roo-Code) là một tiện ích lập trình AI dành cho VS Code.
 
 ### Cài đặt Roo Code
 

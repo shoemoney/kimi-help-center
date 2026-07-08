@@ -312,7 +312,7 @@ Kimi Code 命令行界面（CLI）会规划步骤、修改代码、运行测试�
 
 在远程服务器或无头环境中，`/login` 会显示一个 URL。请手动复制到浏览器中完成授权。
 
-如有任何问题或建议，请在 [GitHub Issues](https://www.github.com/MoonshotAI/kimi-cli/issues) 反馈。
+如有任何问题或建议，请在 [GitHub Issues](https://github.com/MoonshotAI/kimi-cli/issues) 反馈。
 
 ## 下一步
 

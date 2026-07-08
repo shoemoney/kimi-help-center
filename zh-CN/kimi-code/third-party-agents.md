@@ -25,7 +25,7 @@ Kimi Code 权益支持在主流 Coding Agent 中使用——例如 Claude Code�
 
 ## 在 Claude Code 中使用
 
-[Claude Code](https://docs.anthropic.com/en/docs/claude-code) 是 Anthropic 推出的命令行编程助手。安装方式请参考 [Claude Code 官方文档](https://docs.anthropic.com/en/docs/claude-code/getting-started)。
+[Claude Code](https://code.claude.com/docs) 是 Anthropic 推出的命令行编程助手。安装方式请参考 [Claude Code 官方文档](https://code.claude.com/docs/en/getting-started)。
 
 <Callout type="info">
   安装完成后，需要跳过 Anthropic 默认的登录流程。在终端中执行以下命令：

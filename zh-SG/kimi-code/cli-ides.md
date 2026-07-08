@@ -15,7 +15,7 @@ preview_content: "通过 ACP 将 Kimi Code 命令行界面（CLI）集成到你�
 # 在 IDE 中使用 Kimi Code 命令行界面（CLI）
 
 <Callout type="info">
-Kimi Code 命令行界面（CLI）支持通过 [智能体客户端协议（Agent Client Protocol，ACP）](https://agentclientprotocol.com/) 集成到 IDE 中，让你可以直接在编辑器内使用 AI 辅助编码。
+Kimi Code 命令行界面（CLI）支持通过 [智能体客户端协议（Agent Client Protocol，ACP）](https://agentclientprotocol.com/get-started/introduction) 集成到 IDE 中，让你可以直接在编辑器内使用 AI 辅助编码。
 </Callout>
 
 ## 前提条件

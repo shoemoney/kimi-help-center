@@ -22,7 +22,7 @@ Kimi Code avantajları Claude Code ve Roo Code ile kullanılabilir; böylece ter
 
 ## Claude Code ile kullanım
 
-[Claude Code](https://www.docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview), Anthropic tarafından geliştirilen komut satırı tabanlı bir kodlama asistanıdır.
+[Claude Code](https://code.claude.com/docs/en/overview), Anthropic tarafından geliştirilen komut satırı tabanlı bir kodlama asistanıdır.
 
 ### Yapılandırma adımları
 
@@ -56,7 +56,7 @@ Kimi Code avantajları Claude Code ve Roo Code ile kullanılabilir; böylece ter
 
 ## Roo Code ile kullanım
 
-[Roo Code](https://www.github.com/RooCodeInc/Roo-Code), VS Code için bir yapay zeka kodlama eklentisidir.
+[Roo Code](https://github.com/RooCodeInc/Roo-Code), VS Code için bir yapay zeka kodlama eklentisidir.
 
 ### Roo Code'u yükleyin
 

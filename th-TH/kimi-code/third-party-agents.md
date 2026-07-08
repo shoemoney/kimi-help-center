@@ -22,7 +22,7 @@ preview: false
 
 ## การใช้งานร่วมกับ Claude Code
 
-[Claude Code](https://www.docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) คือผู้ช่วยเขียนโค้ดแบบบรรทัดคำสั่งจาก Anthropic
+[Claude Code](https://code.claude.com/docs/en/overview) คือผู้ช่วยเขียนโค้ดแบบบรรทัดคำสั่งจาก Anthropic
 
 ### ขั้นตอนการตั้งค่า
 
@@ -56,7 +56,7 @@ preview: false
 
 ## การใช้งานร่วมกับ Roo Code
 
-[Roo Code](https://www.github.com/RooCodeInc/Roo-Code) คือส่วนขยายเขียนโค้ดด้วย AI สำหรับ VS Code
+[Roo Code](https://github.com/RooCodeInc/Roo-Code) คือส่วนขยายเขียนโค้ดด้วย AI สำหรับ VS Code
 
 ### ติดตั้ง Roo Code
 

@@ -19,7 +19,7 @@ preview: false
 
 ## Zsh 外掛
 
-[zsh-kimi-cli](https://www.github.com/MoonshotAI/zsh-kimi-cli) 是一個 Zsh 外掛，可讓你從 shell 快速切換到 Kimi Code CLI。
+[zsh-kimi-cli](https://github.com/MoonshotAI/zsh-kimi-cli) 是一個 Zsh 外掛，可讓你從 shell 快速切換到 Kimi Code CLI。
 
 ### Oh My Zsh 安裝
 

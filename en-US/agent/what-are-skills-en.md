@@ -85,7 +85,7 @@ Download or install suitable Skills from open-source communities, combined with 
 |----------|-----|-------------|
 | SkillsMP | https://skillsmp.com | An AI agent skill marketplace sourcing SKILL.md packages from GitHub, compatible with Claude Code and OpenAI Codex CLI |
 | SkillsLLM | https://skillsllm.com | An open-source AI agent skill marketplace with 1,600+ security-vetted skills for Claude Code, Codex CLI, and ChatGPT |
-| LobeHub Skills | https://lobehub.com/skills | Browse and distribute SKILL.md packages compatible with Claude Code, Codex CLI, and ChatGPT |
+| LobeHub Skills | https://market.lobehub.com/s/skills | Browse and distribute SKILL.md packages compatible with Claude Code, Codex CLI, and ChatGPT |
 
 ### (3) Customize skills
 

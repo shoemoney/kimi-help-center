@@ -15,7 +15,7 @@ preview_content: "Integrate Kimi Code CLI into Zed, JetBrains IDE, and Paseo via
 # Use in IDEs
 
 <Callout type="info">
-Kimi Code CLI can be integrated into IDEs through [Agent Client Protocol (ACP)](https://agentclientprotocol.com/), so you can use AI-assisted coding directly inside your editor.
+Kimi Code CLI can be integrated into IDEs through [Agent Client Protocol (ACP)](https://agentclientprotocol.com/get-started/introduction), so you can use AI-assisted coding directly inside your editor.
 </Callout>
 
 ## Prerequisites

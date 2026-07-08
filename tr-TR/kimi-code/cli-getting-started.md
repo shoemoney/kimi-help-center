@@ -312,7 +312,7 @@ Kurulum betiği `kimi`'yi PATH'inize ekler, ancak bunun etkili olması için ter
 
 Uzak bir sunucuda veya başsız (headless) bir ortamda `/login` bir URL görüntüler. Yetkilendirmeyi tamamlamak için bunu el ile tarayıcınıza kopyalayın.
 
-Herhangi bir sorununuz veya öneriniz varsa, [GitHub Issues](https://www.github.com/MoonshotAI/kimi-cli/issues) üzerinden geri bildirim gönderin.
+Herhangi bir sorununuz veya öneriniz varsa, [GitHub Issues](https://github.com/MoonshotAI/kimi-cli/issues) üzerinden geri bildirim gönderin.
 
 ## Sonraki adımlar
 

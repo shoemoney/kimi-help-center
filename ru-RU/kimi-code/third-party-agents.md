@@ -22,7 +22,7 @@ preview: false
 
 ## Использование с Claude Code
 
-[Claude Code](https://www.docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) — это ассистент Anthropic для написания кода в командной строке.
+[Claude Code](https://code.claude.com/docs/en/overview) — это ассистент Anthropic для написания кода в командной строке.
 
 ### Настройка
 
@@ -56,7 +56,7 @@ preview: false
 
 ## Использование с Roo Code
 
-[Roo Code](https://www.github.com/RooCodeInc/Roo-Code) — это расширение для написания кода с ИИ в VS Code.
+[Roo Code](https://github.com/RooCodeInc/Roo-Code) — это расширение для написания кода с ИИ в VS Code.
 
 ### Установка Roo Code
 

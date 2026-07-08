@@ -15,7 +15,7 @@ preview_content: "ACPを介してKimi Code CLIをIDEに統合します。"
 # IDEでKimi Code CLIを使う
 
 <Callout type="info">
-Kimi Code CLI は [Agent Client Protocol (ACP)](https://agentclientprotocol.com/) による IDE 連携に対応しており、エディタ内でそのまま AI 支援コーディングを利用できます。
+Kimi Code CLI は [Agent Client Protocol (ACP)](https://agentclientprotocol.com/get-started/introduction) による IDE 連携に対応しており、エディタ内でそのまま AI 支援コーディングを利用できます。
 </Callout>
 
 ## 前提条件

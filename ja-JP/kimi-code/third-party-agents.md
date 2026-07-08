@@ -22,7 +22,7 @@ Kimi Code の特典は Claude Code や Roo Code でも利用でき、普段お�
 
 ## Claude Code で利用する
 
-[Claude Code](https://www.docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) は、Anthropic が提供するコマンドライン型のコーディングアシスタントです。
+[Claude Code](https://code.claude.com/docs/en/overview) は、Anthropic が提供するコマンドライン型のコーディングアシスタントです。
 
 ### 設定手順
 
@@ -56,7 +56,7 @@ Kimi Code の特典は Claude Code や Roo Code でも利用でき、普段お�
 
 ## Roo Code で利用する
 
-[Roo Code](https://www.github.com/RooCodeInc/Roo-Code) は、VS Code 向けの AI コーディング拡張機能です。
+[Roo Code](https://github.com/RooCodeInc/Roo-Code) は、VS Code 向けの AI コーディング拡張機能です。
 
 ### Roo Code をインストールする
 

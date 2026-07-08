@@ -19,7 +19,7 @@ IDE entegrasyonunun yanı sıra Kimi Code CLI, terminal iş akışınızı güç
 
 ## Zsh eklentisi
 
-[zsh-kimi-cli](https://www.github.com/MoonshotAI/zsh-kimi-cli), kabuğunuzdan hızlıca Kimi Code CLI'ye geçmenizi sağlayan bir Zsh eklentisidir.
+[zsh-kimi-cli](https://github.com/MoonshotAI/zsh-kimi-cli), kabuğunuzdan hızlıca Kimi Code CLI'ye geçmenizi sağlayan bir Zsh eklentisidir.
 
 ### Oh My Zsh kurulumu
 

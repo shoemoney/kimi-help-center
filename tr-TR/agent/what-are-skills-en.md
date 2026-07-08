@@ -85,7 +85,7 @@ Uygun Skill'leri açık kaynaklı topluluklardan indirin veya yükleyin; bunlar�
 |----------|-----|-------------|
 | SkillsMP | https://skillsmp.com | GitHub'dan SKILL.md paketlerini derleyen, Claude Code ve OpenAI Codex CLI ile uyumlu bir yapay zeka aracısı skill pazarı |
 | SkillsLLM | https://skillsllm.com | Claude Code, Codex CLI ve ChatGPT için 1.600'den fazla güvenlik denetiminden geçmiş skill içeren açık kaynaklı bir yapay zeka aracısı skill pazarı |
-| LobeHub Skills | https://lobehub.com/skills | Claude Code, Codex CLI ve ChatGPT ile uyumlu SKILL.md paketlerine göz atın ve bunları dağıtın |
+| LobeHub Skills | https://market.lobehub.com/s/skills | Claude Code, Codex CLI ve ChatGPT ile uyumlu SKILL.md paketlerine göz atın ve bunları dağıtın |
 
 ### (3) Skill'leri özelleştirin
 

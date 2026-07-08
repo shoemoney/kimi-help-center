@@ -312,7 +312,7 @@ Kimi Code CLIはデフォルトで、設定ファイル、セッション記録�
 
 リモートサーバーやヘッドレス環境では、`/login`がURLを表示します。そのURLを手動でブラウザにコピーして、認可を完了してください。
 
-問題や提案がある場合は、[GitHub Issues](https://www.github.com/MoonshotAI/kimi-cli/issues)でフィードバックをお寄せください。
+問題や提案がある場合は、[GitHub Issues](https://github.com/MoonshotAI/kimi-cli/issues)でフィードバックをお寄せください。
 
 ## 次のステップ
 

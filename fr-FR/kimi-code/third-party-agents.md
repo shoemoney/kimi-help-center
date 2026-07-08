@@ -22,7 +22,7 @@ Les avantages Kimi Code peuvent être utilisés avec Claude Code et Roo Code, ce
 
 ## Utilisation avec Claude Code
 
-[Claude Code](https://www.docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) est un assistant de codage en ligne de commande proposé par Anthropic.
+[Claude Code](https://code.claude.com/docs/en/overview) est un assistant de codage en ligne de commande proposé par Anthropic.
 
 ### Étapes de configuration
 
@@ -56,7 +56,7 @@ Les avantages Kimi Code peuvent être utilisés avec Claude Code et Roo Code, ce
 
 ## Utilisation avec Roo Code
 
-[Roo Code](https://www.github.com/RooCodeInc/Roo-Code) est une extension de codage par IA pour VS Code.
+[Roo Code](https://github.com/RooCodeInc/Roo-Code) est une extension de codage par IA pour VS Code.
 
 ### Installer Roo Code
 

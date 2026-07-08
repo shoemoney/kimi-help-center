@@ -8,13 +8,13 @@ preview: false
 
 <SeoMeta
   title="クレジットの更新と利用ルール - Kimi ヘルプセンター"
-  description="Kimiのメンバーシップ特典では、各機能（Agent 系列、Kimi Code など）が1つのクレジットプールを共有します。creditは実際の利用量に応じて消費されます。"
+  description="Kimiのメンバーシップ特典では、各機能（Agent 系列、Kimi Code など）が1つのクレジットプールを共有します。クレジットは実際の利用量に応じて消費されます。"
 />
 
 # クレジットの更新と利用ルール
 
 <Callout type="info">
-Kimiのメンバーシップ特典では、各機能（Agent 系列、Kimi Code など）が1つのクレジットプールを共有します。creditは実際の利用量に応じて消費されます。
+Kimiのメンバーシップ特典では、各機能（Agent 系列、Kimi Code など）が1つのクレジットプールを共有します。クレジットは実際の利用量に応じて消費されます。
 </Callout>
 
 ## 共有クレジットプールの仕組み

@@ -8,13 +8,13 @@ preview: false
 
 <SeoMeta
   title="Kimi WebBridgeの紹介 - Kimi ヘルプセンター"
-  description="Kimi WebBridgeは、AI Agent向けに設計されたブラウザ拡張機能です。ChromeまたはEdgeブラウザ上で直接動作し、既存のログインセッションを活用して、Agentが人間のようにウェブページを操作できるようにします。"
+  description="Kimi WebBridgeは、AI エージェント向けに設計されたブラウザ拡張機能です。ChromeまたはEdgeブラウザ上で直接動作し、既存のログインセッションを活用して、エージェントが人間のようにウェブページを操作できるようにします。"
   ogType="article"
 />
 
 # Kimi WebBridgeの紹介
 
-Kimi WebBridgeは、AI Agent向けに設計されたブラウザ拡張機能です。クラウド型のブラウザ自動化ソリューションとは異なり、Kimi WebBridgeはお使いのChromeまたはEdgeブラウザ上で直接動作します。既存のログインセッションを自動的に活用し、Agentが人間のようにウェブページを操作できるようにします。
+Kimi WebBridgeは、AI エージェント向けに設計されたブラウザ拡張機能です。クラウド型のブラウザ自動化ソリューションとは異なり、Kimi WebBridgeはお使いのChromeまたはEdgeブラウザ上で直接動作します。既存のログインセッションを自動的に活用し、エージェントが人間のようにウェブページを操作できるようにします。
 
 <VideoList
   column={1}
@@ -103,11 +103,11 @@ Webストアにアクセスできない場合は、手動インストールを�
   ]}
 />
 
-### 方法2：ローカルAgentと連携する
+### 方法2：ローカルエージェントと連携する
 
 Claude Code、Codex、Cursor、Kimi Code、Hermes Clawなどに対応しています。
 
-1. Agent内で以下のコマンドを直接送信すると、WebBridgeが自動的にインストールされます。Agentはお使いのOSに応じて適切なセットアップを実行します。
+1. エージェント内で以下のコマンドを直接送信すると、WebBridgeが自動的にインストールされます。エージェントはお使いのOSに応じて適切なセットアップを実行します。
 
 macOSユーザーは、以下のコマンドを使用してください。
 

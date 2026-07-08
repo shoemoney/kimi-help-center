@@ -160,7 +160,7 @@ Kimi Code CLI はコーディングだけにとどまりません。調査、デ
     {
       name: "prompt.txt",
       language: "text",
-      content: "data/ ディレクトリ内のすべての CSV ファイルを 1 つに結合し、重複行を削除してください",
+      content: "data/ ディレクトリ内のすべての CSV ファイルを1つに結合し、重複行を削除してください",
     },
   ]}
 />

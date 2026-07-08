@@ -44,7 +44,7 @@ Kimi Code for VS Code は Visual Studio Code に統合される拡張機能で�
 
 ## 認証
 
-Kimi Code は 2 つの認証モードに対応しています。**歯車アイコン**からいつでも切り替えられます。
+Kimi Code は2つの認証モードに対応しています。**歯車アイコン**からいつでも切り替えられます。
 
 <Frames
   src="./images/vscode/kimi-code-gear-icon.png"

@@ -35,7 +35,7 @@ Kimi Code CLI では、スラッシュコマンドで Skill を呼び出せま�
   ]}
 />
 
-たとえば `/skill:git-commits` と入力すると、Kimi Code は対応する `SKILL.md` の内容を読み取り、Agent への指示として送信します。
+たとえば `/skill:git-commits` と入力すると、Kimi Code は対応する `SKILL.md` の内容を読み取り、エージェントへの指示として送信します。
 
 スラッシュコマンドの後ろに追加の説明を書くこともできます。その説明は Skill の指示の末尾に追加されます。
 
@@ -49,7 +49,7 @@ Kimi Code CLI では、スラッシュコマンドで Skill を呼び出せま�
   ]}
 />
 
-通常の会話では手動で呼び出す必要はありません。Agent が文脈に応じて、Skill の内容を読むべきかどうかを自動的に判断します。
+通常の会話では手動で呼び出す必要はありません。エージェントが文脈に応じて、Skill の内容を読むべきかどうかを自動的に判断します。
 
 ## 最初の Skill を作成する
 
@@ -74,7 +74,7 @@ Skill の作成は 2 ステップだけです。Skills ディレクトリ内に�
     {
       name: "SKILL.md",
       language: "markdown",
-      content: "---\nname: code-style\ndescription: 自分のプロジェクトのコードスタイル標準\n---\n\n## コードスタイル\n\n- インデントはスペース 4 つにする\n- 変数名には camelCase を使う\n- 関数名には snake_case を使う\n- すべての関数に docstring を付ける\n- 1 行は 100 文字以内にする",
+      content: "---\nname: code-style\ndescription: 自分のプロジェクトのコードスタイル標準\n---\n\n## コードスタイル\n\n- インデントはスペース4つにする\n- 変数名には camelCase を使う\n- 関数名には snake_case を使う\n- すべての関数に docstring を付ける\n- 1 行は 100 文字以内にする",
     },
   ]}
 />
@@ -83,7 +83,7 @@ Frontmatter の `name` と `description` はどちらも任意項目です。省
 
 ### 例
 
-チームでコミットメッセージを Conventional Commits 形式にそろえる必要があるものの、毎回説明するのは手間がかかります。これを Skill として書いておけば、以後は 1 つのコマンドで呼び出せます。
+チームでコミットメッセージを Conventional Commits 形式にそろえる必要があるものの、毎回説明するのは手間がかかります。これを Skill として書いておけば、以後は1つのコマンドで呼び出せます。
 
 **ステップ 1: Skill ファイルを作成する**
 
@@ -127,7 +127,7 @@ Frontmatter で `type: flow` を設定し、Mermaid または D2 形式のフロ
   ]}
 />
 
-`/flow:<name>` コマンドで実行します。Agent は `BEGIN` ノードから開始し、`END` に到達するまで各ステップを順番に自動実行します。
+`/flow:<name>` コマンドで実行します。エージェントは `BEGIN` ノードから開始し、`END` に到達するまで各ステップを順番に自動実行します。
 
 ## Skill の読み込みのしくみ
 
@@ -150,7 +150,7 @@ Kimi Code CLI は、次の優先順位で Skill を検索して読み込みま�
 />
 
 <Callout type="info">
-Kimi Code CLI には便利な内蔵 Skill が 2 つあります。`kimi-cli-help`（CLI の使い方に関する質問に回答）と `skill-creator`（新しい Skill の作成をガイド）です。始めるには `/skill:skill-creator` と入力してください。
+Kimi Code CLI には便利な内蔵 Skill が2つあります。`kimi-cli-help`（CLI の使い方に関する質問に回答）と `skill-creator`（新しい Skill の作成をガイド）です。始めるには `/skill:skill-creator` と入力してください。
 </Callout>
 
 設定オプションとパラメータの詳しい説明については、[Kimi Code CLI Skills ドキュメント](https://www.kimi.com/code/docs/en/kimi-code-cli/customization/skills.html)を参照してください。

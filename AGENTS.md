@@ -315,6 +315,16 @@ Rules:
   prefix.
 - Resolve relative article links to their actual `/<category>/<slug>` route.
 - Preserve external URLs as-is.
+- **Checking external links (dead-link sweeps)**: verify with a real browser
+  `User-Agent`, not bare `curl`/bots. Some sites content-negotiate by UA and
+  serve agent-facing markdown (or a 302) to non-browsers while returning the
+  normal HTML page to browsers — a bot check can misread a live page as dead.
+  Judge a link by what a browser sees, and prefer the site's own canonical
+  human-facing URL (e.g. links listed in its `llms.txt`), never a redirect
+  target. Example: `https://lobehub.com/skills` is the correct page (200 HTML
+  in a browser); it only 302s to the markdown endpoint
+  `https://market.lobehub.com/s/skills` for bots — do **not** "fix" it to that
+  markdown URL.
 
 ## Setup Script
 

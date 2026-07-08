@@ -1746,13 +1746,17 @@
       "zh_form": "token",
       "en_form": "token",
       "alias": [],
-      "translation_strategy": "keep_original",
+      "translation_strategy": "keep_original_with_note",
       "case_sensitive": true,
       "region_note": "global",
       "context_example": "token 消耗量",
       "source_article": "zh-CN/kimi-api/pricing.md",
-      "notes": "计费基本单位，绝对不可译",
-      "status": "confirmed"
+      "notes": "计费基本单位。多数语言保留英文 token；日语按当地惯例（新闻/学界/业界/官方厂商文档均用片假名）以片假名「トークン」为主表记，详见 ja_note。其他语言的标准译法待调研后补充。",
+      "status": "confirmed",
+      "localized_forms": {
+        "ja-JP": "トークン"
+      },
+      "ja_note": "日本語の主表記は片仮名「トークン」（入力トークン／出力トークン／トークン数／トークン消費量）。新聞・学界（言語処理学会等）・業界・公式ベンダー文書（Microsoft Learn、Google Cloud 等）で標準表記。ただし API パラメータ名・環境変数・コード識別子（max_tokens、KIMI_MAX_TOKENS、TPM、tiktoken 等）、固有名（Token Estimation、token bucket）、認証・bot 用の token（bot token 等）は英語のまま。"
     },
     {
       "id": "M2-002",

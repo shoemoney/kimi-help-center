@@ -32,7 +32,7 @@ Kimi API では、アカウント残高と使用状況の詳細を確認する�
 
 ## Token Estimation API
 
-リクエストを送信する前に Token Estimation API を使うと、その呼び出しで消費される token 数を見積もれます。コスト管理に便利です。
+リクエストを送信する前に Token Estimation API を使うと、その呼び出しで消費されるトークン数を見積もれます。コスト管理に便利です。
 
 <CodePreview
   files={[
@@ -44,7 +44,7 @@ Kimi API では、アカウント残高と使用状況の詳細を確認する�
   ]}
 />
 
-Chat Completion リクエストと同じ `messages` 形式を渡すと、API が推定 token 数を返します。
+Chat Completion リクエストと同じ `messages` 形式を渡すと、API が推定トークン数を返します。
 
 ## 残高照会 API
 

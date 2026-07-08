@@ -65,7 +65,7 @@ Kimi Code CLI は環境変数による設定にも対応しており、CI/CD パ
 | `KIMI_API_KEY` | API キー |
 | `KIMI_BASE_URL` | カスタム API エンドポイント |
 | `KIMI_MODEL` | デフォルトモデル名 |
-| `KIMI_MAX_TOKENS` | 最大出力 token 数 |
+| `KIMI_MAX_TOKENS` | 出力トークン数の上限 |
 
 環境変数は、設定ファイル内の設定よりも優先されます。
 

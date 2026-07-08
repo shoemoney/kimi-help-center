@@ -8,13 +8,13 @@ preview: false
 
 <SeoMeta
   title="Deep Research のコンテキスト長はどれくらいですか？ - Kimi ヘルプセンター"
-  description="Deep Research は、約20万語に相当する 128K token のコンテキスト長を使用します。"
+  description="Deep Research は、約20万語に相当する 128K トークンのコンテキスト長を使用します。"
 />
 
 # コンテキスト長
 
 <Callout type="info">
-Deep Research は、**128K token**（約20万語）のコンテキスト長を使用します。
+Deep Research は、**128K トークン**（約20万語）のコンテキスト長を使用します。
 </Callout>
 
 つまり Kimi-Researcher は、1回のリサーチタスクで大量のテキストを処理し、参照できます。複雑で詳細なレポート作成にも十分対応できます。

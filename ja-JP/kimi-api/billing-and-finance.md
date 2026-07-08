@@ -18,7 +18,7 @@ Kimi API の請求、料金、お支払いに関するよくある質問です�
 </Callout>
 
 ## 料金体系はどうなっていますか？
-Kimi API は、消費した token 数に応じて課金されます。入力 token と出力 token は別々に料金が設定されています。料金はモデルによって異なり、Web Search には呼び出し 1 回あたり $0.004 の追加料金がかかります。
+Kimi API は、消費したトークン数に応じて課金されます。入力トークンと出力トークンは別々に料金が設定されています。料金はモデルによって異なり、Web Search には呼び出し 1 回あたり $0.004 の追加料金がかかります。
 
 <Callout type="tip">
 詳しい料金については、[platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat) をご覧ください。

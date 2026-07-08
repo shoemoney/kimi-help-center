@@ -1,5 +1,5 @@
 ---
-title: "Deep Research のユースケースとプロンプト集"
+title: "Deep Research のユースケースとプロンプト例"
 slug: "deep-research-use-cases"
 order: 2
 extract_headings: false
@@ -7,11 +7,11 @@ preview: false
 ---
 
 <SeoMeta
-  title="Deep Research のユースケースとプロンプト集 - Kimi ヘルプセンター"
+  title="Deep Research のユースケースとプロンプト例 - Kimi ヘルプセンター"
   description="業界分析、競合調査、市場トレンド、学術文献レビューなど、Kimi Deep Research の代表的なユースケースを紹介します。実践的なプロンプト例も掲載しているので、すぐに使い始められます。"
 />
 
-# Deep Research のユースケースとプロンプト集
+# Deep Research のユースケースとプロンプト例
 
 ## ユースケース概要
 

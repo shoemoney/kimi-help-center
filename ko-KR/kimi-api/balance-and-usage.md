@@ -32,7 +32,7 @@ Kimi API는 계정 잔액과 사용량 세부 정보를 확인할 수 있는 여
 
 ## Token Estimation API
 
-요청을 보내기 전에 Token Estimation API를 사용해 해당 호출이 소비할 token 수를 예상할 수 있습니다. 비용 관리에 유용합니다.
+요청을 보내기 전에 Token Estimation API를 사용해 해당 호출이 소비할 토큰 수를 예상할 수 있습니다. 비용 관리에 유용합니다.
 
 <CodePreview
   files={[
@@ -44,7 +44,7 @@ Kimi API는 계정 잔액과 사용량 세부 정보를 확인할 수 있는 여
   ]}
 />
 
-Chat Completion 요청과 동일한 `messages` 형식을 전달하면, API가 예상 token 수를 반환합니다.
+Chat Completion 요청과 동일한 `messages` 형식을 전달하면, API가 예상 토큰 수를 반환합니다.
 
 ## 잔액 조회 API
 

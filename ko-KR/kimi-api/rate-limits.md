@@ -17,7 +17,7 @@ Kimi API는 플랫폼 안정성과 공정한 사용을 위해 요청 빈도와 c
 
 ## Rate limit 등급
 
-API rate limit은 계정의 **누적 충전 금액**에 따라 등급이 나뉩니다. 충전 금액이 많을수록 더 높은 rate limit을 사용할 수 있습니다. 구체적인 등급 기준과 해당 RPM(분당 요청 수), TPM(분당 token 수) 한도는 [platform.kimi.ai](https://platform.kimi.ai) 콘솔에서 확인하세요.
+API rate limit은 계정의 **누적 충전 금액**에 따라 등급이 나뉩니다. 충전 금액이 많을수록 더 높은 rate limit을 사용할 수 있습니다. 구체적인 등급 기준과 해당 RPM(분당 요청 수), TPM(분당 토큰 수) 한도는 [platform.kimi.ai](https://platform.kimi.ai) 콘솔에서 확인하세요.
 
 ## 현재 한도 확인 방법
 

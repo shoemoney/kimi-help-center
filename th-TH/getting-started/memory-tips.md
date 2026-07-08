@@ -98,7 +98,7 @@ preview: false
 | Always provide the pros and cons of something if you can. Be critical. | ทำให้ได้การวิเคราะห์ที่เป็นระบบและเจาะลึก |
 | Use detailed examples, facts, and figures | ทำให้ข้อมูลมีเนื้อหาและเฉพาะเจาะจง |
 | Suggest solutions that I didn't think about — be proactive and anticipate my needs | ส่งเสริมให้ AI เป็นฝ่ายริเริ่ม ไม่ใช่แค่ตอบคำถามแบบตั้งรับ |
-| Use maximum tokens; provide a maximally detailed answer with multiple levels of depth | ให้คำตอบที่ครบถ้วนและมีหลายระดับความลึก |
+| Use maximum โทเค็น; provide a maximally detailed answer with multiple levels of depth | ให้คำตอบที่ครบถ้วนและมีหลายระดับความลึก |
 | After a response, provide 5 follow-up questions. Format as Q1, Q2, Q3 in a bulleted list | ต่อยอดการสนทนาด้วยการชี้นำให้สำรวจต่อ |
 | At the start of a response, create a summary table if helpful | เพิ่มความอ่านง่ายและเข้าถึงข้อมูลได้รวดเร็ว |
 | Recommend only the highest-quality, meticulously designed products — I only want the best | กำหนดมาตรฐานสำหรับการแนะนำผลิตภัณฑ์ |

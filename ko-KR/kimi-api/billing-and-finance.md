@@ -18,7 +18,7 @@ Kimi API 청구, 가격, 결제에 관한 자주 묻는 질문입니다.
 </Callout>
 
 ## 가격 체계는 어떻게 되나요?
-Kimi API는 사용한 token 수를 기준으로 과금되며, 입력 token과 출력 token의 가격이 별도로 책정됩니다. 가격은 모델에 따라 달라지며, Web Search는 호출당 $0.004의 추가 요금이 발생합니다.
+Kimi API는 사용한 토큰 수를 기준으로 과금되며, 입력 토큰과 출력 토큰의 가격이 별도로 책정됩니다. 가격은 모델에 따라 달라지며, Web Search는 호출당 $0.004의 추가 요금이 발생합니다.
 
 <Callout type="tip">
 자세한 가격은 [platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat)을 참고하세요.

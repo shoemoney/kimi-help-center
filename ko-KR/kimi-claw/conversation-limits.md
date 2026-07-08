@@ -8,12 +8,12 @@ preview: false
 
 <SeoMeta
   title="대화 제한 - Kimi 헬프 센터"
-  description="대화 context가 너무 길어져 모델의 token 제한을 초과하면 Kimi Claw가 응답을 멈추거나 오류를 반환할 수 있습니다."
+  description="대화 context가 너무 길어져 모델의 토큰 제한을 초과하면 Kimi Claw가 응답을 멈추거나 오류를 반환할 수 있습니다."
 />
 
 # 대화 제한
 
-대화 context가 너무 길어져 모델의 token 제한을 초과하면 Kimi Claw가 응답을 멈추거나 오류를 반환할 수 있습니다.
+대화 context가 너무 길어져 모델의 토큰 제한을 초과하면 Kimi Claw가 응답을 멈추거나 오류를 반환할 수 있습니다.
 
 **해결 방법：**
 

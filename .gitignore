@@ -18,3 +18,15 @@ node_modules/
 # Vim swap files
 *.swp
 *.swo
+
+# Local l10n review reports (scratch QA, not published)
+_l10n-review/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# i18n review artifacts (logs / intermediate outputs)
+scripts/i18n-review-*.log
+scripts/i18n-review-*.json
+scripts/i18n-review-*.jsonl

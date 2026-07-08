@@ -164,4 +164,4 @@ macOS Gatekeeper 会在新程序首次运行时执行安全检查，因此启动
 
 如果以上内容没有解决你的问题，欢迎通过邮件联系我们：[code@moonshot.ai](mailto:code@moonshot.ai)。请在邮件中描述你遇到的问题、已尝试的步骤，以及相关日志信息，我们会尽快回复。
 
-如果你有任何问题或建议，也可以在 [GitHub Issues](https://www.github.com/MoonshotAI/kimi-cli/issues) 反馈。
+如果你有任何问题或建议，也可以在 [GitHub Issues](https://github.com/MoonshotAI/kimi-cli/issues) 反馈。

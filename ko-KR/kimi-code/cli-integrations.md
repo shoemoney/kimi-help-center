@@ -19,7 +19,7 @@ IDE 통합 외에도 Kimi Code CLI를 다른 도구와 통합하여 터미널 �
 
 ## Zsh 플러그인
 
-[zsh-kimi-cli](https://www.github.com/MoonshotAI/zsh-kimi-cli)는 셸에서 곧바로 Kimi Code CLI로 전환할 수 있게 해 주는 Zsh 플러그인입니다.
+[zsh-kimi-cli](https://github.com/MoonshotAI/zsh-kimi-cli)는 셸에서 곧바로 Kimi Code CLI로 전환할 수 있게 해 주는 Zsh 플러그인입니다.
 
 ### Oh My Zsh 설치
 

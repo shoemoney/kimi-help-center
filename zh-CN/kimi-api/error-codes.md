@@ -31,5 +31,5 @@ preview_content: "Kimi API 错误码一览表与排查建议。"
 
 1. **查看完整错误信息**：API 返回的 JSON 响应中通常包含 `error.message` 字段，提供更详细的错误描述。
 2. **检查 request_id**：每次请求返回的 `request_id` 可用于联系客服时快速定位问题。
-3. **参考官方文档**：确保调用方式与 [platform.kimi.com](https://platform.kimi.com/docs/overview) 文档一致。
+3. **参考官方文档**：确保调用方式与 [platform.kimi.com](https://platform.kimi.com/docs/guide/start-using-kimi-api) 文档一致。
 4. **使用重试机制**：对于 429 和 500 错误，建议实现自动重试并配合指数退避策略。

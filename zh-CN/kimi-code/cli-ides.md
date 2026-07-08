@@ -15,7 +15,7 @@ preview_content: "通过 ACP 将 Kimi Code CLI 集成到 Zed、JetBrains IDE 和
 # 在 IDE 中使用
 
 <Callout type="info">
-Kimi Code CLI 支持通过 [Agent Client Protocol (ACP)](https://agentclientprotocol.com/) 集成到 IDE 中，让你在编辑器内直接使用 AI 辅助编程。
+Kimi Code CLI 支持通过 [Agent Client Protocol (ACP)](https://agentclientprotocol.com/get-started/introduction) 集成到 IDE 中，让你在编辑器内直接使用 AI 辅助编程。
 </Callout>
 
 ## 前置准备

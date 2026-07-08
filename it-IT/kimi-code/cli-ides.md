@@ -15,7 +15,7 @@ preview_content: "Integra la CLI di Kimi Code nel tuo IDE tramite ACP."
 # Usare la CLI di Kimi Code negli IDE
 
 <Callout type="info">
-La CLI di Kimi Code supporta l'integrazione negli IDE tramite l'[Agent Client Protocol (ACP)](https://agentclientprotocol.com/), consentendoti di sfruttare la programmazione assistita dall'AI direttamente nel tuo editor.
+La CLI di Kimi Code supporta l'integrazione negli IDE tramite l'[Agent Client Protocol (ACP)](https://agentclientprotocol.com/get-started/introduction), consentendoti di sfruttare la programmazione assistita dall'AI direttamente nel tuo editor.
 </Callout>
 
 ## Prerequisiti

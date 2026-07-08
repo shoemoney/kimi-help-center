@@ -164,4 +164,4 @@ Một số lỗi khiến không thể gửi tin nhắn trong VS Code, chẳng h�
 
 Nếu những điều trên không giải quyết được vấn đề của bạn, hãy liên hệ với chúng tôi qua email: [code@moonshot.ai](mailto:code@moonshot.ai). Vui lòng mô tả vấn đề bạn gặp phải, các bước bạn đã thực hiện và mọi thông tin nhật ký liên quan trong email, chúng tôi sẽ phản hồi sớm nhất có thể.
 
-Nếu bạn có bất kỳ vấn đề hay góp ý nào, bạn cũng có thể gửi phản hồi trên [GitHub Issues](https://www.github.com/MoonshotAI/kimi-cli/issues).
+Nếu bạn có bất kỳ vấn đề hay góp ý nào, bạn cũng có thể gửi phản hồi trên [GitHub Issues](https://github.com/MoonshotAI/kimi-cli/issues).

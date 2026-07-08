@@ -164,4 +164,4 @@ Certaines erreurs empêchent l'envoi de messages dans VS Code, par exemple : CLI
 
 Si ce qui précède n'a pas résolu votre problème, n'hésitez pas à nous contacter par e-mail : [code@moonshot.ai](mailto:code@moonshot.ai). Veuillez décrire dans votre e-mail le problème rencontré, les étapes que vous avez suivies et toute information de journal pertinente ; nous vous répondrons dans les meilleurs délais.
 
-Si vous avez des questions ou des suggestions, vous pouvez aussi nous faire part de vos retours sur [GitHub Issues](https://www.github.com/MoonshotAI/kimi-cli/issues).
+Si vous avez des questions ou des suggestions, vous pouvez aussi nous faire part de vos retours sur [GitHub Issues](https://github.com/MoonshotAI/kimi-cli/issues).

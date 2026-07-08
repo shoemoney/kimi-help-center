@@ -85,7 +85,7 @@ Unduh atau instal Skills yang sesuai dari komunitas open-source, dipadukan denga
 |----------|-----|-------------|
 | SkillsMP | https://skillsmp.com | Marketplace skill agen AI yang mengambil paket SKILL.md dari GitHub, kompatibel dengan Claude Code dan OpenAI Codex CLI |
 | SkillsLLM | https://skillsllm.com | Marketplace skill agen AI open-source dengan 1.600+ skill yang telah lolos uji keamanan untuk Claude Code, Codex CLI, dan ChatGPT |
-| LobeHub Skills | https://lobehub.com/skills | Jelajahi dan distribusikan paket SKILL.md yang kompatibel dengan Claude Code, Codex CLI, dan ChatGPT |
+| LobeHub Skills | https://market.lobehub.com/s/skills | Jelajahi dan distribusikan paket SKILL.md yang kompatibel dengan Claude Code, Codex CLI, dan ChatGPT |
 
 ### (3) Skill kustom
 

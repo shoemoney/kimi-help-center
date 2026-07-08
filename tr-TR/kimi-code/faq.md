@@ -164,4 +164,4 @@ Belirli hatalar VS Code'da mesaj göndermeyi engeller; örneğin Kimi Code CLI'�
 
 Yukarıdakiler sorununuzu çözmediyse, e-posta yoluyla bizimle iletişime geçmekten çekinmeyin: [code@moonshot.ai](mailto:code@moonshot.ai). Lütfen e-postada karşılaştığınız sorunu, izlediğiniz adımları ve ilgili günlük bilgilerini açıklayın; en kısa sürede size yanıt vereceğiz.
 
-Herhangi bir sorunuz veya öneriniz varsa, [GitHub Issues](https://www.github.com/MoonshotAI/kimi-cli/issues) üzerinden de geri bildirimde bulunabilirsiniz.
+Herhangi bir sorunuz veya öneriniz varsa, [GitHub Issues](https://github.com/MoonshotAI/kimi-cli/issues) üzerinden de geri bildirimde bulunabilirsiniz.

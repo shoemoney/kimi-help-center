@@ -164,4 +164,4 @@ Kimi Code CLI를 찾을 수 없거나, 버전이 너무 낮거나, 로그인되�
 
 위 내용으로 문제가 해결되지 않았다면 이메일로 문의해 주세요: [code@moonshot.ai](mailto:code@moonshot.ai). 이메일에 겪으신 문제, 수행한 단계, 관련 로그 정보를 적어주시면 최대한 빨리 답변드리겠습니다.
 
-문제나 제안 사항이 있으시면 [GitHub Issues](https://www.github.com/MoonshotAI/kimi-cli/issues)에서도 피드백을 남기실 수 있습니다.
+문제나 제안 사항이 있으시면 [GitHub Issues](https://github.com/MoonshotAI/kimi-cli/issues)에서도 피드백을 남기실 수 있습니다.

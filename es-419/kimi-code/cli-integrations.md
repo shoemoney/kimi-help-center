@@ -19,7 +19,7 @@ Además de la integración con tu IDE, puedes integrar Kimi Code CLI en otras he
 
 ## Complemento de Zsh
 
-[zsh-kimi-cli](https://www.github.com/MoonshotAI/zsh-kimi-cli) es un complemento de Zsh que te permite cambiar rápidamente a Kimi Code CLI desde tu shell.
+[zsh-kimi-cli](https://github.com/MoonshotAI/zsh-kimi-cli) es un complemento de Zsh que te permite cambiar rápidamente a Kimi Code CLI desde tu shell.
 
 ### Instalación con Oh My Zsh
 

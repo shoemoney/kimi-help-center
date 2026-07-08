@@ -15,7 +15,7 @@ preview_content: "Integrasikan Kimi Code CLI ke dalam IDE Anda melalui ACP."
 # Menggunakan Kimi Code CLI di IDE
 
 <Callout type="info">
-Kimi Code CLI mendukung integrasi ke dalam IDE melalui [Agent Client Protocol (ACP)](https://agentclientprotocol.com/), sehingga Anda dapat memanfaatkan pemrograman berbantuan AI langsung di dalam editor Anda.
+Kimi Code CLI mendukung integrasi ke dalam IDE melalui [Agent Client Protocol (ACP)](https://agentclientprotocol.com/get-started/introduction), sehingga Anda dapat memanfaatkan pemrograman berbantuan AI langsung di dalam editor Anda.
 </Callout>
 
 ## Prasyarat

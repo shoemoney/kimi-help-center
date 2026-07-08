@@ -15,7 +15,7 @@ preview_content: "Интегрируйте Kimi Code CLI в вашу IDE чер�
 # Использование Kimi Code CLI в IDE
 
 <Callout type="info">
-Kimi Code CLI поддерживает интеграцию с IDE через [Agent Client Protocol (ACP)](https://agentclientprotocol.com/), позволяя писать код с помощью ИИ прямо в редакторе.
+Kimi Code CLI поддерживает интеграцию с IDE через [Agent Client Protocol (ACP)](https://agentclientprotocol.com/get-started/introduction), позволяя писать код с помощью ИИ прямо в редакторе.
 </Callout>
 
 ## Предварительные требования

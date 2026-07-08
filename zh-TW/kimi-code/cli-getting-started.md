@@ -312,7 +312,7 @@ Kimi Code CLI 預設會將本機資料儲存在 `~/.kimi-code/` 底下，包括�
 
 在遠端伺服器或 headless 環境中，`/login` 會顯示一個 URL。請手動複製到瀏覽器中完成授權。
 
-如果你有任何問題或建議，請在 [GitHub Issues](https://www.github.com/MoonshotAI/kimi-cli/issues) 提供回饋。
+如果你有任何問題或建議，請在 [GitHub Issues](https://github.com/MoonshotAI/kimi-cli/issues) 提供回饋。
 
 ## 下一步
 

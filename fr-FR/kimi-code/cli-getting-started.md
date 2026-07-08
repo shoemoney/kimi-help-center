@@ -312,7 +312,7 @@ Le script d'installation ajoute `kimi` à votre PATH, mais vous devez redémarre
 
 Dans un environnement de serveur distant ou sans interface graphique (headless), `/login` affichera une URL. Copiez-la manuellement dans votre navigateur pour terminer l'autorisation.
 
-Pour tout problème ou suggestion, faites part de vos retours sur [GitHub Issues](https://www.github.com/MoonshotAI/kimi-cli/issues).
+Pour tout problème ou suggestion, faites part de vos retours sur [GitHub Issues](https://github.com/MoonshotAI/kimi-cli/issues).
 
 ## Étapes suivantes
 

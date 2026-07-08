@@ -15,7 +15,7 @@ preview_content: "Tích hợp Kimi Code CLI vào IDE của bạn thông qua ACP.
 # Sử dụng Kimi Code CLI trong các IDE
 
 <Callout type="info">
-Kimi Code CLI hỗ trợ tích hợp vào các IDE thông qua [Agent Client Protocol (ACP)](https://agentclientprotocol.com/), cho phép bạn sử dụng tính năng lập trình có AI hỗ trợ ngay trong trình soạn thảo của mình.
+Kimi Code CLI hỗ trợ tích hợp vào các IDE thông qua [Agent Client Protocol (ACP)](https://agentclientprotocol.com/get-started/introduction), cho phép bạn sử dụng tính năng lập trình có AI hỗ trợ ngay trong trình soạn thảo của mình.
 </Callout>
 
 ## Điều kiện tiên quyết

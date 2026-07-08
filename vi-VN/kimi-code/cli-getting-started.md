@@ -312,7 +312,7 @@ Script cài đặt thêm `kimi` vào PATH của bạn, nhưng bạn cần khởi
 
 Trong môi trường máy chủ từ xa hoặc không có giao diện đồ họa, `/login` sẽ hiển thị một URL. Hãy sao chép thủ công vào trình duyệt của bạn để hoàn tất việc ủy quyền.
 
-Nếu bạn có bất kỳ vấn đề hay góp ý nào, hãy phản hồi tại [GitHub Issues](https://www.github.com/MoonshotAI/kimi-cli/issues).
+Nếu bạn có bất kỳ vấn đề hay góp ý nào, hãy phản hồi tại [GitHub Issues](https://github.com/MoonshotAI/kimi-cli/issues).
 
 ## Các bước tiếp theo
 

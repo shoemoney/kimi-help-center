@@ -312,7 +312,7 @@ The installation script adds `kimi` to your PATH, but you need to restart the te
 
 In a remote server or headless environment, `/login` will display a URL. Manually copy it into your browser to complete the authorization.
 
-If you have any issues or suggestions, provide feedback on [GitHub Issues](https://www.github.com/MoonshotAI/kimi-cli/issues).
+If you have any issues or suggestions, provide feedback on [GitHub Issues](https://github.com/MoonshotAI/kimi-cli/issues).
 
 ## Next steps
 

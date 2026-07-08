@@ -22,7 +22,7 @@ Kimi Code 权益可与 Claude Code 和 Roo Code 配合使用，让你在偏好�
 
 ## 与 Claude Code 配合使用
 
-[Claude Code](https://www.docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) 是 Anthropic 推出的命令行编程助手。
+[Claude Code](https://code.claude.com/docs/en/overview) 是 Anthropic 推出的命令行编程助手。
 
 ### 配置步骤
 
@@ -56,7 +56,7 @@ Kimi Code 权益可与 Claude Code 和 Roo Code 配合使用，让你在偏好�
 
 ## 与 Roo Code 配合使用
 
-[Roo Code](https://www.github.com/RooCodeInc/Roo-Code) 是一款适用于 VS Code 的 AI 编程扩展。
+[Roo Code](https://github.com/RooCodeInc/Roo-Code) 是一款适用于 VS Code 的 AI 编程扩展。
 
 ### 安装 Roo Code
 

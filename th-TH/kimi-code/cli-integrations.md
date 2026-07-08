@@ -19,7 +19,7 @@ preview: false
 
 ## ปลั๊กอิน Zsh
 
-[zsh-kimi-cli](https://www.github.com/MoonshotAI/zsh-kimi-cli) คือปลั๊กอิน Zsh ที่ช่วยให้คุณสลับไปยัง Kimi Code CLI ได้อย่างรวดเร็วจากเชลล์ของคุณ
+[zsh-kimi-cli](https://github.com/MoonshotAI/zsh-kimi-cli) คือปลั๊กอิน Zsh ที่ช่วยให้คุณสลับไปยัง Kimi Code CLI ได้อย่างรวดเร็วจากเชลล์ของคุณ
 
 ### การติดตั้งผ่าน Oh My Zsh
 

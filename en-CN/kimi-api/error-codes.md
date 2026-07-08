@@ -31,5 +31,5 @@ When calling the Kimi API, you may encounter the following error codes. Use the 
 
 1. **Check the full error message**: The JSON response returned by the API usually includes an `error.message` field with a more detailed error description.
 2. **Check request_id**: The `request_id` returned for each request can help customer support quickly locate the issue.
-3. **Refer to the official documentation**: Make sure your implementation matches the documentation at [platform.kimi.com](https://platform.kimi.com/docs/overview).
+3. **Refer to the official documentation**: Make sure your implementation matches the documentation at [platform.kimi.com](https://platform.kimi.com/docs/guide/start-using-kimi-api).
 4. **Use a retry mechanism**: For 429 and 500 errors, we recommend implementing automatic retries with an exponential backoff strategy.

@@ -312,7 +312,7 @@ Kimi Code CLI планирует шаги, изменяет код, запуск
 
 На удалённом сервере или в headless-среде `/login` покажет URL. Скопируйте его в браузер вручную, чтобы завершить авторизацию.
 
-Если у вас возникли проблемы или есть предложения, оставьте отзыв в [GitHub Issues](https://www.github.com/MoonshotAI/kimi-cli/issues).
+Если у вас возникли проблемы или есть предложения, оставьте отзыв в [GitHub Issues](https://github.com/MoonshotAI/kimi-cli/issues).
 
 ## Что дальше
 

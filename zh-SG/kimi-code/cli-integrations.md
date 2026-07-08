@@ -19,7 +19,7 @@ preview: false
 
 ## Zsh 插件
 
-[zsh-kimi-cli](https://www.github.com/MoonshotAI/zsh-kimi-cli) 是一个 Zsh 插件，可让你从 shell 快速切换到 Kimi Code 命令行界面（CLI）。
+[zsh-kimi-cli](https://github.com/MoonshotAI/zsh-kimi-cli) 是一个 Zsh 插件，可让你从 shell 快速切换到 Kimi Code 命令行界面（CLI）。
 
 ### Oh My Zsh 安装
 

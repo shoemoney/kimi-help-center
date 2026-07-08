@@ -164,4 +164,4 @@ Bestimmte Fehler verhindern das Senden von Nachrichten in VS Code, etwa wenn Kim
 
 Wenn das oben Beschriebene Ihr Problem nicht gelöst hat, können Sie uns gerne per E-Mail kontaktieren: [code@moonshot.ai](mailto:code@moonshot.ai). Bitte beschreiben Sie in der E-Mail das aufgetretene Problem, die durchgeführten Schritte sowie alle relevanten Protokollinformationen, und wir melden uns so schnell wie möglich bei Ihnen.
 
-Wenn Sie Fragen oder Vorschläge haben, können Sie uns auch über [GitHub Issues](https://www.github.com/MoonshotAI/kimi-cli/issues) Feedback geben.
+Wenn Sie Fragen oder Vorschläge haben, können Sie uns auch über [GitHub Issues](https://github.com/MoonshotAI/kimi-cli/issues) Feedback geben.

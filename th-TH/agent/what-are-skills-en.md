@@ -85,7 +85,7 @@ Skills ที่แนะนำที่พบบ่อย ได้แก่:
 |----------|-----|-------------|
 | SkillsMP | https://skillsmp.com | ตลาดกลาง skill สำหรับ AI agent ที่รวบรวมแพ็กเกจ SKILL.md จาก GitHub รองรับ Claude Code และ OpenAI Codex CLI |
 | SkillsLLM | https://skillsllm.com | ตลาดกลาง skill สำหรับ AI agent แบบโอเพนซอร์ส มี skill ที่ผ่านการตรวจสอบความปลอดภัยกว่า 1,600 รายการ สำหรับ Claude Code, Codex CLI และ ChatGPT |
-| LobeHub Skills | https://lobehub.com/skills | เรียกดูและเผยแพร่แพ็กเกจ SKILL.md ที่รองรับ Claude Code, Codex CLI และ ChatGPT |
+| LobeHub Skills | https://market.lobehub.com/s/skills | เรียกดูและเผยแพร่แพ็กเกจ SKILL.md ที่รองรับ Claude Code, Codex CLI และ ChatGPT |
 
 ### (3) ปรับแต่ง skills
 

@@ -312,7 +312,7 @@ Kimi Code CLI는 기본적으로 로컬 데이터를 `~/.kimi-code/` 아래에 �
 
 원격 서버나 헤드리스 환경에서는 `/login`이 URL을 표시합니다. 이 URL을 브라우저에 직접 복사해 붙여넣어 권한 부여를 완료하세요.
 
-문제나 제안이 있다면 [GitHub Issues](https://www.github.com/MoonshotAI/kimi-cli/issues)에서 피드백을 남겨 주세요.
+문제나 제안이 있다면 [GitHub Issues](https://github.com/MoonshotAI/kimi-cli/issues)에서 피드백을 남겨 주세요.
 
 ## 다음 단계
 

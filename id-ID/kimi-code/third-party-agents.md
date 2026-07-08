@@ -22,7 +22,7 @@ Benefit Kimi Code dapat digunakan bersama Claude Code dan Roo Code, sehingga And
 
 ## Menggunakan bersama Claude Code
 
-[Claude Code](https://www.docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) adalah asisten coding berbasis command-line dari Anthropic.
+[Claude Code](https://code.claude.com/docs/en/overview) adalah asisten coding berbasis command-line dari Anthropic.
 
 ### Langkah konfigurasi
 
@@ -56,7 +56,7 @@ Benefit Kimi Code dapat digunakan bersama Claude Code dan Roo Code, sehingga And
 
 ## Menggunakan bersama Roo Code
 
-[Roo Code](https://www.github.com/RooCodeInc/Roo-Code) adalah ekstensi coding AI untuk VS Code.
+[Roo Code](https://github.com/RooCodeInc/Roo-Code) adalah ekstensi coding AI untuk VS Code.
 
 ### Instal Roo Code
 

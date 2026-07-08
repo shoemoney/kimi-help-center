@@ -312,7 +312,7 @@ Skrip instalasi menambahkan `kimi` ke PATH Anda, tetapi Anda perlu memulai ulang
 
 Pada lingkungan server jarak jauh atau headless, `/login` akan menampilkan sebuah URL. Salin secara manual ke browser Anda untuk menyelesaikan otorisasi.
 
-Jika Anda mengalami masalah atau punya saran, sampaikan umpan balik di [GitHub Issues](https://www.github.com/MoonshotAI/kimi-cli/issues).
+Jika Anda mengalami masalah atau punya saran, sampaikan umpan balik di [GitHub Issues](https://github.com/MoonshotAI/kimi-cli/issues).
 
 ## Langkah berikutnya
 

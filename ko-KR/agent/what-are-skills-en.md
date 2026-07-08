@@ -85,7 +85,7 @@ Skills는 AI 에이전트의 역량 범위를 넓히도록 설계된 재사용 �
 |----------|-----|-------------|
 | SkillsMP | https://skillsmp.com | GitHub에서 SKILL.md 패키지를 가져오는 AI 에이전트 스킬 마켓플레이스입니다. Claude Code 및 OpenAI Codex CLI와 호환됩니다 |
 | SkillsLLM | https://skillsllm.com | Claude Code, Codex CLI, ChatGPT를 위한 1,600개 이상의 보안 검증 스킬을 제공하는 오픈 소스 AI 에이전트 스킬 마켓플레이스입니다 |
-| LobeHub Skills | https://lobehub.com/skills | Claude Code, Codex CLI, ChatGPT와 호환되는 SKILL.md 패키지를 탐색하고 배포할 수 있습니다 |
+| LobeHub Skills | https://market.lobehub.com/s/skills | Claude Code, Codex CLI, ChatGPT와 호환되는 SKILL.md 패키지를 탐색하고 배포할 수 있습니다 |
 
 ### (3) 맞춤 스킬
 

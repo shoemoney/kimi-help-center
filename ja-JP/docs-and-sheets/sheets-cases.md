@@ -1,5 +1,5 @@
 ---
-title: "Kimi Sheets活用例・プロンプト集"
+title: "Kimi Sheetsの活用例とプロンプト例"
 slug: "sheets-cases"
 order: 3
 extract_headings: false
@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi Sheets活用例・プロンプト集 - Kimi ヘルプセンター"
+  title="Kimi Sheetsの活用例とプロンプト例 - Kimi ヘルプセンター"
   description="財務バリュエーションからストーリーボード作成まで、Kimi Sheetsの活用例とプロンプト例を紹介します。"
 />
 

@@ -1,5 +1,5 @@
 ---
-title: "Kimi Docsのユースケース＆プロンプト集"
+title: "Kimi Docsのユースケースとプロンプト例"
 slug: "docs-cases"
 order: 2
 extract_headings: false
@@ -7,11 +7,11 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi Docsのユースケース＆プロンプト集 - Kimi ヘルプセンター"
+  title="Kimi Docsのユースケースとプロンプト例 - Kimi ヘルプセンター"
   description="原稿レビューから専門翻訳、PDFデザインまで、Kimi Docsで使えるユースケースとプロンプト例。"
 />
 
-# Kimi Docsのユースケース＆プロンプト集
+# Kimi Docsのユースケースとプロンプト例
 
 <Callout type="info">
 原稿レビューから専門翻訳、PDFデザインまで、Kimi Docsで使えるユースケースとプロンプト例。

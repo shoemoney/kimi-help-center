@@ -45,6 +45,10 @@ deploy:production:
   stage: deploy_production
   needs:
     - deploy:test
+  rules:
+    - if: $CI_COMMIT_BRANCH == "master"
+      when: manual
+    - when: never
   script:
     - test -n "$DATABASE_URL"
     - test -n "$TOS_ACCESS_KEY_ID"
@@ -56,5 +60,4 @@ deploy:production:
     - pnpm exec node scripts/setup-docs.js --upload-assets .
   environment:
     name: production
-  when: manual
   allow_failure: false

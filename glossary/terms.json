@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "1.0.0",
-    "last_updated": "2026-07-07",
+    "last_updated": "2026-07-08",
     "description": "Kimi Help Center 多语言专有名词对照表",
     "source_repo": "git@dev.msh.team:search-engine/kimi-helpcenter-doc.git",
     "total_terms": 169,

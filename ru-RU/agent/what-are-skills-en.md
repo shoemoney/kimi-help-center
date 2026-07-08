@@ -85,7 +85,7 @@ preview: false
 |----------|-----|-------------|
 | SkillsMP | https://skillsmp.com | Маркетплейс навыков для AI agent, который берет пакеты SKILL.md из GitHub и совместим с Claude Code и OpenAI Codex CLI |
 | SkillsLLM | https://skillsllm.com | Open-source маркетплейс навыков для AI agent с более чем 1 600 навыками, прошедшими проверку безопасности, для Claude Code, Codex CLI и ChatGPT |
-| LobeHub Skills | https://market.lobehub.com/s/skills | Просмотр и распространение пакетов SKILL.md, совместимых с Claude Code, Codex CLI и ChatGPT |
+| LobeHub Skills | https://lobehub.com/skills | Просмотр и распространение пакетов SKILL.md, совместимых с Claude Code, Codex CLI и ChatGPT |
 
 ### (3) Пользовательские навыки
 

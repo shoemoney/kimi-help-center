@@ -85,7 +85,7 @@ Skills 只會在與任務相關時載入，確保不會干擾其他對話的脈�
 |----------|-----|-------------|
 | SkillsMP | https://skillsmp.com | AI Agent skill 市集，從 GitHub 匯集 SKILL.md 套件，相容於 Claude Code 與 OpenAI Codex CLI |
 | SkillsLLM | https://skillsllm.com | 開源 AI Agent skill 市集，提供 1,600+ 個經安全審核的 skills，適用於 Claude Code、Codex CLI 與 ChatGPT |
-| LobeHub Skills | https://market.lobehub.com/s/skills | 瀏覽與發布相容於 Claude Code、Codex CLI 和 ChatGPT 的 SKILL.md 套件 |
+| LobeHub Skills | https://lobehub.com/skills | 瀏覽與發布相容於 Claude Code、Codex CLI 和 ChatGPT 的 SKILL.md 套件 |
 
 ### (3) 自訂 skills
 

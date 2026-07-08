@@ -85,7 +85,7 @@ Tải xuống hoặc cài đặt các Skill phù hợp từ các cộng đồng 
 |----------|-----|-------------|
 | SkillsMP | https://skillsmp.com | Một chợ skill cho AI agent, lấy nguồn các gói SKILL.md từ GitHub, tương thích với Claude Code và OpenAI Codex CLI |
 | SkillsLLM | https://skillsllm.com | Một chợ skill mã nguồn mở cho AI agent với hơn 1.600 skill đã được kiểm duyệt bảo mật dành cho Claude Code, Codex CLI và ChatGPT |
-| LobeHub Skills | https://market.lobehub.com/s/skills | Duyệt và phân phối các gói SKILL.md tương thích với Claude Code, Codex CLI và ChatGPT |
+| LobeHub Skills | https://lobehub.com/skills | Duyệt và phân phối các gói SKILL.md tương thích với Claude Code, Codex CLI và ChatGPT |
 
 ### (3) Skill tùy chỉnh
 

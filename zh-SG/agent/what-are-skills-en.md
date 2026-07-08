@@ -85,7 +85,7 @@ preview: false
 |----------|-----|-------------|
 | SkillsMP | https://skillsmp.com | AI agent 技能市场，从 GitHub 收集 SKILL.md 包，兼容 Claude Code 和 OpenAI Codex CLI |
 | SkillsLLM | https://skillsllm.com | 开源 AI agent 技能市场，提供 1,600+ 个经过安全审核的技能，适用于 Claude Code、Codex CLI 和 ChatGPT |
-| LobeHub Skills | https://market.lobehub.com/s/skills | 浏览和分发兼容 Claude Code、Codex CLI 与 ChatGPT 的 SKILL.md 包 |
+| LobeHub Skills | https://lobehub.com/skills | 浏览和分发兼容 Claude Code、Codex CLI 与 ChatGPT 的 SKILL.md 包 |
 
 ### (3) 自定义技能
 

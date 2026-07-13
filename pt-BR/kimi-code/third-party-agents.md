@@ -38,14 +38,14 @@ O [Claude Code](https://code.claude.com/docs/en/overview) é um assistente de co
   ]}
 />
 
-2. Inicie o Claude Code com o modelo `kimi-k2.5`:
+2. Inicie o Claude Code com o modelo `kimi-for-coding`:
 
 <CodePreview
   files={[
     {
       name: "command.sh",
       language: "bash",
-      content: "claude --model kimi-k2.5",
+      content: "claude --model kimi-for-coding",
     },
   ]}
 />
@@ -53,6 +53,13 @@ O [Claude Code](https://code.claude.com/docs/en/overview) é um assistente de co
 > No Claude Code, você pode pressionar **Tab** para alternar para o modelo Kimi K2 Thinking.
 
 > Se você encontrar um erro 400 causado por chamadas `tool_search`, pode resolvê-lo temporariamente definindo a variável de ambiente `ENABLE_TOOL_SEARCH=false`.
+
+### Alternar para o HighSpeed
+
+O HighSpeed oferece velocidade de saída cerca de 5–6× a do Standard com um **consumo de créditos cerca de 3×**, e requer um plano [Allegretto](https://www.kimi.com/membership/pricing) ou superior. Há duas formas de ativá-lo no Claude Code:
+
+- **Opção 1: o comando `/fast on`** — após iniciar o Claude Code, digite `/fast on`; a saída `⚡ Fast mode ON` confirma a ativação.
+- **Opção 2: o comando `/config`** — digite `/config` para abrir o painel de configuração e ative o **Fast mode** (e o **Thinking mode**) na aba **Config**.
 
 ## Usando com o Roo Code
 
@@ -72,7 +79,7 @@ O [Roo Code](https://github.com/RooCodeInc/Roo-Code) é uma extensão de codific
    | --- | --- |
    | Entrypoint | `https://api.kimi.com/coding/v1` |
    | API Key | Sua API Key |
-   | Modelo | `kimi-k2.5` |
+   | Modelo | `kimi-for-coding` / `kimi-for-coding-highspeed` (Standard / HighSpeed) |
 
 3. Salve a configuração e tudo estará pronto.
 

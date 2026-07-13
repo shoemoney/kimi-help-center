@@ -38,14 +38,14 @@ preview: false
   ]}
 />
 
-2. Запустите Claude Code с моделью `kimi-k2.5`:
+2. Запустите Claude Code с моделью `kimi-for-coding`:
 
 <CodePreview
   files={[
     {
       name: "command.sh",
       language: "bash",
-      content: "claude --model kimi-k2.5",
+      content: "claude --model kimi-for-coding",
     },
   ]}
 />
@@ -53,6 +53,13 @@ preview: false
 > В Claude Code можно нажать **Tab**, чтобы переключиться на модель Kimi K2 Thinking.
 
 > Если вы столкнулись с ошибкой 400, вызванной вызовами `tool_search`, временно устранить её можно, задав переменную окружения `ENABLE_TOOL_SEARCH=false`.
+
+### Переключение на HighSpeed
+
+HighSpeed выдаёт примерно в 5–6 раз более высокую скорость вывода, чем Standard, при **расходе кредитов примерно в 3 раза больше**, и требует тарифа [Allegretto](https://www.kimi.com/membership/pricing) или выше. Включить его в Claude Code можно двумя способами:
+
+- **Способ 1: команда `/fast on`** — после запуска Claude Code введите `/fast on`; вывод `⚡ Fast mode ON` подтверждает включение.
+- **Способ 2: команда `/config`** — введите `/config`, чтобы открыть панель конфигурации, затем включите **Fast mode** (и **Thinking mode**) на вкладке **Config**.
 
 ## Использование с Roo Code
 
@@ -72,7 +79,7 @@ preview: false
    | --- | --- |
    | Точка входа | `https://api.kimi.com/coding/v1` |
    | Ключ API | Ваш ключ API |
-   | Модель | `kimi-k2.5` |
+   | Модель | `kimi-for-coding` / `kimi-for-coding-highspeed` (Standard / HighSpeed) |
 
 3. Сохраните конфигурацию — всё готово к работе.
 

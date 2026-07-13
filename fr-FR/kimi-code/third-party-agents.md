@@ -79,7 +79,7 @@ HighSpeed offre une vitesse de sortie environ 5 à 6× supérieure à Standard p
    | --- | --- |
    | Entrypoint | `https://api.kimi.com/coding/v1` |
    | Clé API | Votre clé API |
-   | Modèle | `kimi-for-coding` |
+   | Modèle | `kimi-for-coding` / `kimi-for-coding-highspeed` (Standard / HighSpeed) |
 
 3. Enregistrez la configuration, et le tour est joué.
 

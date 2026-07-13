@@ -38,14 +38,14 @@ Kimi Code の特典は Claude Code や Roo Code でも利用でき、普段お�
   ]}
 />
 
-2. `kimi-k2.5` モデルで Claude Code を起動します。
+2. `kimi-for-coding` モデルで Claude Code を起動します。
 
 <CodePreview
   files={[
     {
       name: "command.sh",
       language: "bash",
-      content: "claude --model kimi-k2.5",
+      content: "claude --model kimi-for-coding",
     },
   ]}
 />
@@ -53,6 +53,13 @@ Kimi Code の特典は Claude Code や Roo Code でも利用でき、普段お�
 > Claude Code では、**Tab** を押すと Kimi K2 Thinkingモデルに切り替えられます。
 
 > `tool_search` 呼び出しが原因で 400 エラーが発生した場合は、環境変数 `ENABLE_TOOL_SEARCH=false` を設定することで一時的に解消できます。
+
+### HighSpeed への切り替え
+
+HighSpeed は Standard の約 5〜6 倍の出力速度を、**クレジット消費は約 3 倍**で提供し、[Allegretto](https://www.kimi.com/membership/pricing) 以上のプランが必要です。Claude Code では2つの方法で有効化できます：
+
+- **方法1：`/fast on` コマンド** — Claude Code を起動後、`/fast on` と入力します。`⚡ Fast mode ON` と表示されれば有効化成功です。
+- **方法2：`/config` コマンド** — `/config` と入力して設定パネルを開き、**Config** タブで **Fast mode**（および **Thinking mode**）を有効にします。
 
 ## Roo Code で利用する
 
@@ -72,7 +79,7 @@ Kimi Code の特典は Claude Code や Roo Code でも利用でき、普段お�
    | --- | --- |
    | エントリーポイント | `https://api.kimi.com/coding/v1` |
    | APIキー | お使いの APIキー |
-   | モデル | `kimi-k2.5` |
+   | モデル | `kimi-for-coding` / `kimi-for-coding-highspeed` (Standard / HighSpeed) |
 
 3. 設定を保存すれば、利用を開始できます。
 

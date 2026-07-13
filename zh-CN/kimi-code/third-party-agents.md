@@ -77,6 +77,13 @@ Kimi Code 权益支持在主流 Coding Agent 中使用——例如 Claude Code�
   `Option+T`，Windows 和 Linux 为 `Alt+T`。
 </Callout>
 
+### 切换到高速版
+
+高速版输出速度约为普通版的 5–6 倍、**额度消耗约为普通版的 3 倍**，需订阅 [Allegretto](https://www.kimi.com/membership/pricing) 及以上档位会员。在 Claude Code 中有两种开启方式：
+
+- **方式一：`/fast on` 命令**——启动 Claude Code 后输入 `/fast on`，出现 `⚡ Fast mode ON` 提示即为开启成功。
+- **方式二：`/config` 命令**——输入 `/config` 打开配置面板，在 **Config** 标签下开启 **Fast mode**（以及 **Thinking mode**）即可。
+
 ## 在 Roo Code 中使用
 
 [Roo Code](https://github.com/RooCodeInc/Roo-Code) 是一款 VS Code 中的 AI 编程插件。
@@ -95,7 +102,7 @@ Kimi Code 权益支持在主流 Coding Agent 中使用——例如 Claude Code�
    | ---------- | -------------------------------- |
    | Entrypoint | `https://api.kimi.com/coding/v1` |
    | API Key    | 你的 API Key                     |
-   | Model      | `kimi-k2.5`                      |
+   | Model      | `kimi-for-coding` / `kimi-for-coding-highspeed`（普通版 / 高速版） |
 
 3. 保存配置后即可开始使用。
 

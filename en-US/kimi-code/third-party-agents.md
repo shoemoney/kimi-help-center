@@ -38,14 +38,14 @@ Kimi Code benefits can be used with Claude Code and Roo Code, allowing you to en
   ]}
 />
 
-2. Launch Claude Code with the `kimi-k2.5` model:
+2. Launch Claude Code with the `kimi-for-coding` model:
 
 <CodePreview
   files={[
     {
       name: "command.sh",
       language: "bash",
-      content: "claude --model kimi-k2.5",
+      content: "claude --model kimi-for-coding",
     },
   ]}
 />
@@ -72,7 +72,7 @@ Kimi Code benefits can be used with Claude Code and Roo Code, allowing you to en
    | --- | --- |
    | Entrypoint | `https://api.kimi.com/coding/v1` |
    | API Key | Your API Key |
-   | Model | `kimi-k2.5` |
+   | Model | `kimi-for-coding` |
 
 3. Save the configuration and you're ready to go.
 

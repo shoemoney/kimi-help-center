@@ -77,6 +77,13 @@ Set the environment variables, then start Claude Code:
   use `Option+T`; on Windows and Linux, use `Alt+T`.
 </Callout>
 
+### Switching to HighSpeed
+
+HighSpeed delivers roughly 5–6× the output speed of Standard at about **3× the credit usage**, and requires an [Allegretto](https://www.kimi.com/membership/pricing) plan or above. There are two ways to enable it in Claude Code:
+
+- **Option 1: the `/fast on` command** — after starting Claude Code, type `/fast on`; the `⚡ Fast mode ON` output confirms it's enabled.
+- **Option 2: the `/config` command** — type `/config` to open the config panel, then enable **Fast mode** (and **Thinking mode**) under the **Config** tab.
+
 ## Use in Roo Code
 
 [Roo Code](https://github.com/RooCodeInc/Roo-Code) is an AI coding extension for VS Code.
@@ -95,7 +102,7 @@ Set the environment variables, then start Claude Code:
    | ------------------ | -------------------------------- |
    | Entrypoint         | `https://api.kimi.com/coding/v1` |
    | API Key            | Your API Key                     |
-   | Model              | `kimi-k2.5`                      |
+   | Model              | `kimi-for-coding` / `kimi-for-coding-highspeed` (Standard / HighSpeed) |
 
 3. Save the configuration to start using it.
 

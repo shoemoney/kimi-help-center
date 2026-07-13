@@ -22,6 +22,7 @@ Kimi Code adalah benefit yang dirancang untuk developer dalam paket keanggotaan 
 | Keunggulan | Deskripsi |
 |-----------|-------------|
 | **Kompatibilitas Luas** | Bekerja dengan Kimi Code CLI, Claude Code, Roo Code, dan coding agent mainstream lainnya |
+| **Tingkat Standard / HighSpeed** | Model yang sama pada dua kecepatan — HighSpeed memberikan kecepatan keluaran sekitar 5–6× Standard dan beralih sesuai kebutuhan |
 | **Respons Sangat Cepat** | Kecepatan generasi hingga 100 token/s, meningkatkan efisiensi coding secara signifikan |
 | **Concurrency Frekuensi Tinggi** | Sekitar 300–1.200 permintaan per jendela 5 jam (tergantung paket Anda), dengan hingga 30 stream bersamaan |
 
@@ -64,3 +65,32 @@ Sistem akan otomatis menyelesaikan otorisasi perangkat dan pengikatan akun — s
 - Setiap akun dapat digunakan di beberapa perangkat sekaligus.
 - Otorisasi perangkat yang **tidak aktif selama 30 hari** akan otomatis kedaluwarsa; Anda perlu menjalankan `/login` lagi untuk melakukan otorisasi ulang.
 - Anda dapat melihat dan mengelola perangkat yang diotorisasi melalui konsol.
+
+## Cara beralih model
+
+**Model HighSpeed kini tersedia.** Kimi Code menawarkan dua tingkat — **Standard** dan **HighSpeed** — dibangun di atas model yang sama dengan kemampuan coding identik, serta berbagi Base URL, API Key, dan manfaat keanggotaan yang sama. HighSpeed memberikan kecepatan keluaran sekitar **5–6× Standard**, jadi saat Anda menginginkan respons instan dan iterasi cepat, satu klik memberi pengalaman coding yang lebih mulus. Perbedaan utama:
+
+| Item | Standard | HighSpeed |
+| --- | --- | --- |
+| ID model | `kimi-for-coding` | `kimi-for-coding-highspeed` |
+| Kecepatan keluaran | Dasar | ~5–6× lebih cepat dari Standard |
+| Konsumsi kredit | Dasar | ~3× dari Standard |
+| Kemampuan coding | Penuh | Sama seperti Standard |
+| Ideal untuk | Tugas coding sehari-hari | Respons instan, iterasi cepat |
+| Keanggotaan | Tersedia untuk semua anggota Kimi Code | Memerlukan paket [Allegretto](https://www.kimi.com/membership/pricing) atau lebih tinggi |
+
+Cara beralih ke model yang diinginkan:
+
+- **CLI resmi Kimi Code**: ketik `/model` dalam sesi untuk beralih langsung antara Standard dan HighSpeed — tanpa perubahan konfigurasi.
+- **Kimi Code untuk VS Code**: pilih model yang diinginkan dari menu dropdown di bilah input; jika HighSpeed belum muncul, mulai ulang VS Code atau instal ulang ekstensi.
+- **Tool pihak ketiga**: atur Model ID tool ke model yang diinginkan; semua pengaturan lain tetap sama. Untuk lokasinya di tiap tool, lihat [Penggunaan di Coding Agent pihak ketiga](/kimi-code/third-party-agents).
+
+<Callout type="info">
+- **ID model stabil**: kedua ID adalah pengidentifikasi stabil; backend memperbarui model terkait seiring peningkatan, tanpa perubahan konfigurasi klien.
+- **Masukkan dengan tepat**: ID HighSpeed harus `kimi-for-coding-highspeed`. Jika salah ketik atau diatur ke nilai lain, permintaan diam-diam kembali ke `kimi-for-coding` standar — tanpa error, tetapi juga tanpa percepatan.
+- **401 tanpa akses**: jika paket Anda tidak mencakup akses HighSpeed, panggilan mengembalikan `401`; tingkatkan ke Allegretto atau lebih tinggi.
+</Callout>
+
+<Callout type="tip">
+**Mengapa keseluruhan tugas tidak terasa 5–6× lebih cepat?** «5–6×» mengacu pada **kecepatan keluaran model** (seberapa cepat teks/kode dihasilkan). Total waktu tugas coding terdiri dari «keluaran model + panggilan tool (baca/tulis file, jalankan perintah, pencarian web, dll.) + eksekusi skrip»: lama panggilan tool dan eksekusi skrip bergantung pada proyek dan perintah Anda, dan HighSpeed tidak mengubah bagian ini. Jadi jika keseluruhan tidak terasa 5–6× lebih cepat, biasanya karena panggilan tool / eksekusi skrip memakan sebagian besar giliran itu, bukan karena generasi model melambat.
+</Callout>

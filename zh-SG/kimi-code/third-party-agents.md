@@ -38,14 +38,14 @@ Kimi Code 权益可与 Claude Code 和 Roo Code 配合使用，让你在偏好�
   ]}
 />
 
-2. 使用 `kimi-k2.5` 模型启动 Claude Code：
+2. 使用 `kimi-for-coding` 模型启动 Claude Code：
 
 <CodePreview
   files={[
     {
       name: "command.sh",
       language: "bash",
-      content: "claude --model kimi-k2.5",
+      content: "claude --model kimi-for-coding",
     },
   ]}
 />
@@ -53,6 +53,13 @@ Kimi Code 权益可与 Claude Code 和 Roo Code 配合使用，让你在偏好�
 > 在 Claude Code 中，你可以按 **Tab** 切换到 Kimi K2 Thinking 模型。
 
 > 如果遇到由 `tool_search` 调用导致的 400 错误，可通过设置环境变量 `ENABLE_TOOL_SEARCH=false` 临时解决。
+
+### 切换到高速版
+
+高速版输出速度约为标准版的 5–6 倍，**额度消耗约为标准版的 3 倍**，需 [Allegretto](https://www.kimi.com/membership/pricing) 及以上套餐。在 Claude Code 中有两种开启方式：
+
+- **方式一：`/fast on` 命令**——启动 Claude Code 后输入 `/fast on`，出现 `⚡ Fast mode ON` 即为开启成功。
+- **方式二：`/config` 命令**——输入 `/config` 打开配置面板，在 **Config** 标签下开启 **Fast mode**（以及 **Thinking mode**）即可。
 
 ## 与 Roo Code 配合使用
 
@@ -72,7 +79,7 @@ Kimi Code 权益可与 Claude Code 和 Roo Code 配合使用，让你在偏好�
    | --- | --- |
    | 入口地址 | `https://api.kimi.com/coding/v1` |
    | API 密钥 | 你的 API 密钥 |
-   | 模型 | `kimi-k2.5` |
+   | 模型 | `kimi-for-coding` / `kimi-for-coding-highspeed` (Standard / HighSpeed) |
 
 3. 保存配置后即可开始使用。
 

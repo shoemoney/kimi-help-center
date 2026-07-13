@@ -29,6 +29,10 @@ Log in to the [Kimi Code Console](https://www.kimi.com/code/console) at any time
 
 > Kimi Code shares the same credits as your Kimi membership plan — requests from the CLI, VS Code, and third-party tools all count toward them. If your Kimi membership's monthly total is reached, Kimi Code credits are frozen until the monthly credits reset or you upgrade; monthly usage can be viewed on the [Subscription](https://www.kimi.com/membership/subscription) page.
 
+<Callout type="warning">
+**A new membership system is coming soon.** Kimi membership benefits and Kimi Code benefits will be split so you can purchase each separately, as needed — more flexible. **Current subscribers are unaffected.** If you'd like to keep using the merged benefits, purchase your current plan before the new system launches.
+</Callout>
+
 <Frames
   src="./images/benefits/benefits-02.png"
   alt="Console credit details"

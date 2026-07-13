@@ -29,6 +29,10 @@ Kimi Code 的额度以订阅日为起点**每 7 天自动刷新**，未用完不
 
 > Kimi Code 与 Kimi 会员计划**共享同一套额度**——无论从 CLI、VS Code 还是第三方工具发起请求，均计入该额度。如 Kimi 会员月总额度达到上限，Kimi Code 额度会冻结，需等待月额度重置或升级订阅；月额度消耗可在 [订阅页](https://www.kimi.com/membership/subscription) 查看。
 
+<Callout type="warning">
+**新会员体系即将上线。** 届时 Kimi 会员权益将与 Kimi Code 权益拆分，可按需分别购买、更加灵活。**订阅中的用户不受影响**；如需继续使用合并权益，可在新会员体系上线前购买当前套餐。
+</Callout>
+
 <Frames
   src="./images/benefits/benefits-02.png"
   alt="控制台额度明细示意图"

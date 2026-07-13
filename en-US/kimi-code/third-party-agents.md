@@ -54,6 +54,13 @@ Kimi Code benefits can be used with Claude Code and Roo Code, allowing you to en
 
 > If you encounter a 400 error caused by `tool_search` calls, you can temporarily resolve it by setting the environment variable `ENABLE_TOOL_SEARCH=false`.
 
+### Switching to HighSpeed
+
+HighSpeed delivers roughly 5–6× the output speed of Standard at about **3× the credit usage**, and requires an [Allegretto](https://www.kimi.com/membership/pricing) plan or above. There are two ways to enable it in Claude Code:
+
+- **Option 1: the `/fast on` command** — after starting Claude Code, type `/fast on`; the `⚡ Fast mode ON` output confirms it's enabled.
+- **Option 2: the `/config` command** — type `/config` to open the config panel, then enable **Fast mode** (and **Thinking mode**) under the **Config** tab.
+
 ## Using with Roo Code
 
 [Roo Code](https://github.com/RooCodeInc/Roo-Code) is an AI coding extension for VS Code.
@@ -72,7 +79,7 @@ Kimi Code benefits can be used with Claude Code and Roo Code, allowing you to en
    | --- | --- |
    | Entrypoint | `https://api.kimi.com/coding/v1` |
    | API Key | Your API Key |
-   | Model | `kimi-for-coding` |
+   | Model | `kimi-for-coding` / `kimi-for-coding-highspeed` (Standard / HighSpeed) |
 
 3. Save the configuration and you're ready to go.
 

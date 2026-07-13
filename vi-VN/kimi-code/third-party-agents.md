@@ -38,14 +38,14 @@ Quyền lợi Kimi Code có thể dùng được với Claude Code và Roo Code,
   ]}
 />
 
-2. Khởi chạy Claude Code với mô hình `kimi-k2.5`:
+2. Khởi chạy Claude Code với mô hình `kimi-for-coding`:
 
 <CodePreview
   files={[
     {
       name: "command.sh",
       language: "bash",
-      content: "claude --model kimi-k2.5",
+      content: "claude --model kimi-for-coding",
     },
   ]}
 />
@@ -53,6 +53,13 @@ Quyền lợi Kimi Code có thể dùng được với Claude Code và Roo Code,
 > Trong Claude Code, bạn có thể nhấn **Tab** để chuyển sang mô hình Kimi K2 Thinking.
 
 > Nếu gặp lỗi 400 do các lệnh gọi `tool_search` gây ra, bạn có thể tạm thời khắc phục bằng cách đặt biến môi trường `ENABLE_TOOL_SEARCH=false`.
+
+### Chuyển sang HighSpeed
+
+HighSpeed cho tốc độ đầu ra khoảng 5–6× so với Standard với **mức tiêu thụ tín dụng khoảng 3×**, và cần gói [Allegretto](https://www.kimi.com/membership/pricing) trở lên. Có hai cách bật trong Claude Code:
+
+- **Cách 1: lệnh `/fast on`** — sau khi khởi động Claude Code, gõ `/fast on`; kết quả `⚡ Fast mode ON` xác nhận đã bật.
+- **Cách 2: lệnh `/config`** — gõ `/config` để mở bảng cấu hình, rồi bật **Fast mode** (và **Thinking mode**) trong tab **Config**.
 
 ## Sử dụng cùng Roo Code
 
@@ -72,7 +79,7 @@ Quyền lợi Kimi Code có thể dùng được với Claude Code và Roo Code,
    | --- | --- |
    | Entrypoint | `https://api.kimi.com/coding/v1` |
    | API Key | API Key của bạn |
-   | Model | `kimi-k2.5` |
+   | Model | `kimi-for-coding` / `kimi-for-coding-highspeed` (Standard / HighSpeed) |
 
 3. Lưu cấu hình là bạn đã sẵn sàng.
 

@@ -38,14 +38,14 @@ Kimi Code avantajları Claude Code ve Roo Code ile kullanılabilir; böylece ter
   ]}
 />
 
-2. Claude Code'u `kimi-k2.5` modeliyle başlatın:
+2. Claude Code'u `kimi-for-coding` modeliyle başlatın:
 
 <CodePreview
   files={[
     {
       name: "command.sh",
       language: "bash",
-      content: "claude --model kimi-k2.5",
+      content: "claude --model kimi-for-coding",
     },
   ]}
 />
@@ -53,6 +53,13 @@ Kimi Code avantajları Claude Code ve Roo Code ile kullanılabilir; böylece ter
 > Claude Code'da **Tab** tuşuna basarak Kimi K2 Thinking modeline geçebilirsiniz.
 
 > `tool_search` çağrılarından kaynaklanan bir 400 hatasıyla karşılaşırsanız, `ENABLE_TOOL_SEARCH=false` ortam değişkenini ayarlayarak sorunu geçici olarak çözebilirsiniz.
+
+### HighSpeed'e geçiş
+
+HighSpeed, Standard'ın yaklaşık 5–6 katı çıktı hızını **yaklaşık 3 kat kredi tüketimiyle** sunar ve [Allegretto](https://www.kimi.com/membership/pricing) veya üzeri plan gerektirir. Claude Code'da etkinleştirmenin iki yolu vardır:
+
+- **Seçenek 1: `/fast on` komutu** — Claude Code'u başlattıktan sonra `/fast on` yazın; `⚡ Fast mode ON` çıktısı etkinleştirmeyi doğrular.
+- **Seçenek 2: `/config` komutu** — yapılandırma panelini açmak için `/config` yazın, ardından **Config** sekmesinde **Fast mode**'u (ve **Thinking mode**'u) etkinleştirin.
 
 ## Roo Code ile kullanım
 
@@ -72,7 +79,7 @@ Kimi Code avantajları Claude Code ve Roo Code ile kullanılabilir; böylece ter
    | --- | --- |
    | Entrypoint | `https://api.kimi.com/coding/v1` |
    | API Anahtarı | API Anahtarınız |
-   | Model | `kimi-k2.5` |
+   | Model | `kimi-for-coding` / `kimi-for-coding-highspeed` (Standard / HighSpeed) |
 
 3. Yapılandırmayı kaydedin; kullanıma hazırsınız.
 

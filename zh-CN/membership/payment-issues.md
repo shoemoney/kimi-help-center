@@ -1,7 +1,7 @@
 ---
 title: "支付相关问题"
 slug: "membership-payment-issues"
-order: 8
+order: 9
 extract_headings: true
 preview: true
 preview_content: "会员支付失败、签约未生效、误扣款等常见问题的解决方案。"

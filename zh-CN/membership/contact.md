@@ -1,7 +1,7 @@
 ---
 title: "会员问题联系方式"
 slug: "membership-contact"
-order: 10
+order: 11
 extract_headings: false
 preview: true
 preview_content: "会员专属问题的联系方式与反馈渠道。"

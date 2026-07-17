@@ -15,7 +15,7 @@ preview_content: "Tạo và triển khai website từ mô tả ngôn ngữ tự 
 # Kimi Websites
 
 <Callout type="info">
-**Kimi Websites** là một tính năng sản phẩm của Kimi Agent, được vận hành bởi mô hình AI tác tử thị giác đa phương thức Kimi K2.6 mới nhất. Năng lực cốt lõi của nó là **Vibe Coding** — tạo website từ ngôn ngữ tự nhiên và triển khai trực tuyến.
+**Kimi Websites** là một tính năng sản phẩm của Kimi Agent, được vận hành bởi mô hình AI tác tử thị giác đa phương thức Kimi K3 mới nhất. Năng lực cốt lõi của nó là **Vibe Coding** — tạo website từ ngôn ngữ tự nhiên và triển khai trực tuyến.
 </Callout>
 
 Bằng cách hiểu các đầu vào trực quan (bản thiết kế UI, ảnh chụp màn hình, video tương tác) cùng hướng dẫn bằng ngôn ngữ tự nhiên, Kimi chuyển hóa đầu vào của người dùng thành mã frontend hoàn chỉnh, có thể chạy được — bao quát không chỉ giao diện tĩnh mà cả hành vi tương tác động.
@@ -61,11 +61,11 @@ Bằng cách hiểu các đầu vào trực quan (bản thiết kế UI, ảnh c
 
 ### Cách 2: ứng dụng di động
 
-iOS, Android và HarmonyOS đều có ứng dụng Kimi chính thức. Trong vùng nhập liệu, chạm vào **Thanh tác vụ** → chuyển sang **chế độ Websites Agent**, bao gồm các công cụ tạo nội dung đa phương thức và năng lực Agent.
+iOS, Android và HarmonyOS đều có ứng dụng Kimi chính thức. Trong vùng nhập liệu, chạm vào **Thanh tác vụ** → chuyển sang **chế độ Websites**, bao gồm các công cụ tạo nội dung đa phương thức và năng lực Agent.
 
-### Cách 3: dùng chế độ K2.6 Agent
+### Cách 3: chế độ Agent chung
 
-Chuyển sang chế độ K2.6 Agent và nhập tác vụ xây dựng website. Kimi sẽ kích hoạt năng lực lập trình thị giác và các công cụ thực thi mã.
+Chọn mô hình K3 và nhập tác vụ xây dựng website. Kimi sẽ kích hoạt năng lực lập trình thị giác và các công cụ thực thi mã.
 
 ## Kimi Websites hoạt động như thế nào?
 

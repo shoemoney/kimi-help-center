@@ -69,9 +69,9 @@ Kimi Docs는 문서 성격에 맞춰 텍스트를 다듬는 능력이 뛰어나�
 </Callout>
 
 ### 방법 2: 모바일 앱
-Kimi 앱은 iOS와 Android에서 사용할 수 있습니다. Taskbar를 탭한 뒤 Docs Agent 모드로 전환하세요.
+Kimi 앱은 iOS와 Android에서 사용할 수 있습니다. Taskbar를 탭한 뒤 Docs 모드로 전환하세요.
 #### 방법 3: 일반 Agent 모드
-K2.6 Agent 모드로 전환한 뒤 문서 관련 작업을 입력하세요. Kimi가 읽기 및 쓰기 도구를 호출합니다.
+K3 모델을 선택한 뒤 문서 관련 작업을 입력하세요. Kimi가 읽기 및 쓰기 도구를 호출합니다.
 ## Kimi Sheets
 Kimi Sheets는 셀 간 관계와 시트 간 연결 로직을 이해하며, 브라우저에서 .xlsx 파일을 바로 생성합니다.
 ### 주요 기능

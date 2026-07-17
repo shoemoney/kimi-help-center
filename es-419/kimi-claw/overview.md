@@ -33,7 +33,7 @@ preview_content: "Implementa y administra tu propio asistente de IA Kimi Claw en
 
 </Callout>
 
-- Kimi aprovisiona automáticamente el modelo K2.6 Thinking, conecta tus créditos de Kimi Code y habilita Kimi Web Search, sin necesidad de configurar una API por separado.
+- Kimi aprovisiona automáticamente el modelo K3, conecta tus créditos de Kimi Code y habilita Kimi Web Search, sin necesidad de configurar una API por separado.
 - Kimi Claw se puede implementar directamente en Telegram y otras plataformas de chat.
 
 ## Primeros pasos

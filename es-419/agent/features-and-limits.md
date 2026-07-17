@@ -25,7 +25,7 @@ Indica con claridad la información de contexto y las restricciones —el contex
 
 **(2) Durante la ejecución**
 
-Kimi Agent se ejecuta de forma asíncrona en segundo plano. Si la página web parece congelada o detenida, **no hagas clic en «Detener»**, ya que eso interrumpirá la ejecución de la tarea. Puedes salir de la página; la tarea seguirá ejecutándose en segundo plano y recibirás una notificación cuando termine. Para tareas que se espera que tomen mucho tiempo (por ejemplo, K2.6 Agent Swarm [Beta]), ten paciencia.
+Kimi Agent se ejecuta de forma asíncrona en segundo plano. Si la página web parece congelada o detenida, **no hagas clic en «Detener»**, ya que eso interrumpirá la ejecución de la tarea. Puedes salir de la página; la tarea seguirá ejecutándose en segundo plano y recibirás una notificación cuando termine. Para tareas que se espera que tomen mucho tiempo (por ejemplo, Agent Swarm), ten paciencia.
 
 **(3) Escenarios de sitios web**
 
@@ -39,10 +39,10 @@ Agent puede generar contenido full-stack, incluidas interfaces de frontend, serv
 A lo largo de varias rondas de diálogo y revisiones, el Agent puede «olvidar» algunos detalles iniciales. Lo mejor es establecer primero el marco de la tarea y los puntos clave, y luego hacer ajustes incrementales.
 
 **(5) Descomposición de tareas grandes**
-Para tareas grandes y complejas, divídelas en 2 o 3 fases y envíalas a Kimi por lotes, o usa K2.6 Agent Swarm [Beta].
+Para tareas grandes y complejas, divídelas en 2 o 3 fases y envíalas a Kimi por lotes, o usa Agent Swarm.
 
 **(6) Limitaciones de salida de archivos**
-En el modo Agent estándar, normalmente solo se puede generar un archivo por tarea (por ejemplo, un documento o una hoja de cálculo). Para varios archivos (por ejemplo, un documento de Word y un PPT a la vez), usa K2.6 Agent Swarm [Beta].
+En el modo Agent estándar, normalmente solo se puede generar un archivo por tarea (por ejemplo, un documento o una hoja de cálculo). Para varios archivos (por ejemplo, un documento de Word y un PPT a la vez), usa Agent Swarm.
 
 **(7) Límites de contexto y equilibrio de salida**
 Debido al límite de contexto de 256K caracteres de los grandes modelos de lenguaje (aproximadamente 40,000 a 50,000 caracteres chinos / ~100,000 palabras en inglés), procesar grandes volúmenes de archivos requiere equilibrar el volumen de entrada y de salida.
@@ -60,7 +60,7 @@ Debido al límite de contexto de 256K caracteres de los grandes modelos de lengu
 - Niveles de pago: de 60 a 720 tareas de Agent al mes según tu plan
 </Callout>
 
-- **Tiempo de ejecución**: En el modo Agent, una sola tarea suele tomar de 5 a 20 minutos. Las tareas de K2.6 Agent Swarm [Beta] pueden tardar más. Puedes salir de la página, solo no hagas clic en Detener para no interrumpir la tarea.
+- **Tiempo de ejecución**: En el modo Agent, una sola tarea suele tomar de 5 a 20 minutos. Las tareas de Agent Swarm pueden tardar más. Puedes salir de la página, solo no hagas clic en Detener para no interrumpir la tarea.
 - **Uso de créditos**: Las tareas de Agent consumen créditos del paquete de créditos compartido. Kimi Code usa un paquete de créditos independiente. 
 - **Tareas simples**: Para preguntas y respuestas sencillas, se recomienda el modo de chat estándar para obtener respuestas más rápidas.
 
@@ -94,4 +94,4 @@ Agent utiliza una longitud de contexto de **256K caracteres** (aproximadamente 4
 
 **P: ¿Cómo se calculan los créditos de Agent?**
 
-Agent, PPT y otras funciones de membresía comparten un mismo paquete de créditos. Kimi Code usa un paquete de créditos independiente. Cada tarea de Agent suele contar como una unidad de créditos. Consulta tus créditos y uso actuales en [Créditos de membresía](https://www.kimi.com/membership-credits).
+Agent, PPT y otras funciones de membresía comparten un mismo paquete de créditos. Kimi Code usa un paquete de créditos independiente. Cada tarea de Agent suele contar como una unidad de créditos.

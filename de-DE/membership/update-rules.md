@@ -8,27 +8,28 @@ preview: false
 
 <SeoMeta
   title="Credit-Aktualisierung und Nutzungsregeln - Kimi Hilfecenter"
-  description="Die Kimi-Mitgliedsfunktionen (Agent-Serie, Kimi Code usw.) teilen sich einen einzigen gemeinsamen Credit-Pool, wobei Credits nach tatsächlicher Nutzung verbraucht werden."
+  description="Agent-Funktionen und weitere Kimi-Mitgliedschaftsfunktionen teilen sich einen einzigen Credit-Pool; Kimi Code verfügt über einen eigenen, separaten Credit-Pool. Credits werden nach tatsächlicher Nutzung verbraucht."
 />
 
 # Credit-Aktualisierung und Nutzungsregeln
 
 <Callout type="info">
-Die Kimi-Mitgliedsfunktionen (Agent-Serie, Kimi Code usw.) teilen sich einen einzigen gemeinsamen Credit-Pool, wobei Credits nach tatsächlicher Nutzung verbraucht werden.
+Agent-Funktionen und weitere Kimi-Mitgliedschaftsfunktionen teilen sich einen einzigen Credit-Pool; Kimi Code verfügt über einen eigenen, separaten Credit-Pool. Credits werden nach tatsächlicher Nutzung verbraucht.
 </Callout>
 
 ## Wie funktioniert der gemeinsame Credit-Pool?
-Statt eigener Credits für jede einzelne Funktion erhalten Sie mit Ihrer Mitgliedschaft einen einzigen gemeinsamen Credit-Pool. Die Agent-Serie, Kimi Code und die übrigen Mitgliedsfunktionen teilen sich denselben Credits-Pool, der überall greift:
+Die Kimi-Mitgliedschaftsfunktionen teilen sich einen einzigen Credit-Pool, der überall greift. Agent-Funktionen und weitere Kimi-Funktionen greifen alle darauf zu:
 | Funktion | Beschreibung |
 |---------|-------------|
 | **Agent-Aufgaben** | Websites, Dokumente, Folien, Tabellen, Deep Research |
 | **Kimi Claw** | Ihr persönlicher, in der Cloud bereitgestellter KI-Assistent |
 | **Weitere Funktionen** | Bildgenerierung und mehr |
 
-> **Kimi Chat**: Unterhaltungen mit den neuesten Modellen (kein Credit-Verbrauch)
+> **K2.6**: Unterhaltungen mit dem K2.6-Modell verbrauchen keine Credits
+> **Kimi Code**: KI-gestützter Programmierassistent (separater Credit-Pool)
 
 <Callout type="tip">
-Das bedeutet: Sie können Ihre Credits aus dem gemeinsamen Pool ganz nach Belieben verteilen – in einem Monat mehr für Recherche, im nächsten mehr für Dokumente. Kimi Chat verbraucht keine Credits.
+Das bedeutet: Sie können Ihre Credits aus dem gemeinsamen Pool ganz nach Belieben verteilen – in einem Monat mehr für Recherche, im nächsten mehr für Dokumente. K2.6 verbraucht keine Credits.
 </Callout>
 
 ## Wie werden Credits berechnet?

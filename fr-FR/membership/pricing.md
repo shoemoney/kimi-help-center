@@ -42,4 +42,4 @@ Kimi propose cinq formules d'abonnement — dont une formule gratuite — chacun
 
 ## Répartition des crédits
 
-Toutes les formules partagent une réserve de crédits unique : la série Agent, Kimi Code et les autres fonctionnalités de l'abonnement puisent toutes dans la même réserve de crédits, décomptée selon l'usage réel de tokens. Les formules supérieures incluent une réserve de crédits proportionnellement plus importante, permettant des flux de travail plus fréquents et plus complexes. Consultez [Mise à jour des crédits et règles d'utilisation](/membership/update-rules) pour plus de détails.
+La série Agent et les autres fonctionnalités d'abonnement Kimi partagent une réserve de crédits unique ; Kimi Code dispose de sa propre réserve de crédits distincte. Les formules supérieures incluent une réserve de crédits proportionnellement plus importante, permettant des flux de travail plus fréquents et plus complexes. Consultez [Mise à jour des crédits et règles d'utilisation](/membership/update-rules) pour plus de détails.

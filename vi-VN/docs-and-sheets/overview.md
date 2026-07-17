@@ -69,9 +69,9 @@ Mô tả nhu cầu của bạn một cách trực tiếp, ví dụ: "Hãy tạo 
 </Callout>
 
 ### Cách 2: ứng dụng di động
-Ứng dụng Kimi có sẵn trên iOS và Android. Chạm vào Thanh tác vụ → chuyển sang chế độ Docs Agent.
+Ứng dụng Kimi có sẵn trên iOS và Android. Chạm vào Thanh tác vụ → chuyển sang chế độ Docs.
 #### Cách 3: chế độ Agent chung
-Chuyển sang chế độ K2.6 Agent và nhập một tác vụ liên quan đến tài liệu. Kimi sẽ gọi các công cụ đọc và viết.
+Chọn mô hình K3 và nhập một tác vụ liên quan đến tài liệu. Kimi sẽ gọi các công cụ đọc và viết.
 ## Kimi Sheets
 Kimi Sheets hiểu quan hệ giữa các ô, logic liên kết giữa các trang tính và tạo trực tiếp tệp .xlsx ngay trên trình duyệt.
 ### Các năng lực chính

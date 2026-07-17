@@ -1,5 +1,5 @@
 ---
-title: "K2.6 Agent Swarm [Beta]"
+title: "Agent Swarm"
 slug: "agent-swarm"
 order: 2
 extract_headings: false
@@ -7,20 +7,22 @@ preview: false
 ---
 
 <SeoMeta
-  title="K2.6 Agent Swarm [Beta] - Centro assistenza Kimi"
-  description="K2.6 Agent Swarm Beta è un'architettura di &quot;scalabilità orizzontale&quot; che coordina fino a 300 sub-agent in parallelo — senza ruoli predefiniti né workflow..."
+  title="Agent Swarm - Centro assistenza Kimi"
+  description="Agent Swarm è un'architettura di &quot;scalabilità orizzontale&quot; che coordina fino a 300 sub-agent in parallelo — senza ruoli predefiniti né workflow..."
 />
 
-# K2.6 Agent Swarm [Beta]
+# Agent Swarm
 
 <Callout type="info">
-**K2.6 Agent Swarm [Beta]** è un'architettura di "scalabilità orizzontale" che coordina fino a 300 sub-agent in parallelo — senza bisogno di ruoli predefiniti o workflow costruiti a mano. Porta a termine le attività circa **4,5 volte più velocemente** rispetto all'esecuzione con un singolo agente.
+**Agent Swarm** è un'architettura di "scalabilità orizzontale" che coordina fino a 300 sub-agent in parallelo — senza bisogno di ruoli predefiniti o workflow costruiti a mano. Porta a termine le attività circa **4,5 volte più velocemente** rispetto all'esecuzione con un singolo agente.
 </Callout>
 
-Il 27 gennaio 2026 Moonshot AI ha rilasciato Kimi K2.5, introducendo Agent Swarm [Beta]. Il 20 aprile 2026 Moonshot AI ha rilasciato e reso open source Kimi K2.6, con importanti miglioramenti all'architettura Agent Swarm:
+Il 27 gennaio 2026 Moonshot AI ha rilasciato Kimi K2.5, introducendo Agent Swarm. Il 20 aprile 2026 Moonshot AI ha rilasciato e reso open source Kimi K2.6, con importanti miglioramenti all'architettura Agent Swarm:
 - Fino a **300 sub-agent** che lavorano simultaneamente
 - Oltre **4.000 chiamate a strumenti** per ciascuna attività
 - **4,5 volte più veloce** rispetto all'esecuzione sequenziale con un singolo agente
+
+Agent Swarm è attualmente basato su Kimi K3 (K3 Swarm), che migliora ulteriormente la ricerca in parallelo su larga scala e l'elaborazione in batch.
 
 ## Come è nato
 
@@ -35,7 +37,7 @@ Agent Swarm è una struttura organizzativa autoprogettata — concepita dall'AI,
   alt="swarm"
 />
 
-K2.6 Agent Swarm [Beta] adotta il metodo di addestramento PARL (Parallel-Agent Reinforcement Learning). Rispetto agli approcci a singolo agente, riduce i passaggi critici di 3–4,5 volte negli scenari di ricerca su larga scala.
+Agent Swarm adotta il metodo di addestramento PARL (Parallel-Agent Reinforcement Learning). Rispetto agli approcci a singolo agente, riduce i passaggi critici di 3–4,5 volte negli scenari di ricerca su larga scala.
 
 ## Come si usa?
 
@@ -46,18 +48,20 @@ K2.6 Agent Swarm [Beta] adotta il metodo di addestramento PARL (Parallel-Agent R
 
 **Punti di accesso:**
 - **Web**: [kimi.com/agent-swarm](https://www.kimi.com/agent-swarm)
-- **Mobile**: app Kimi → Cambia modalità → Seleziona K2.6 Agent Swarm [Beta]
+- **Mobile**: apri l'app Kimi e seleziona il modello K3 Swarm nel pulsante di selezione del modello
 
-<Callout type="warning">
-**Accesso Beta**: K2.6 Agent Swarm [Beta] è attualmente disponibile per gli abbonati Moderato, Allegretto, Allegro e Vivace. Le attività consumano molti più crediti rispetto alle normali attività dell'Agent.
+<Callout type="info">
+Informazioni sul tag [Beta]: [Beta] indica un contrassegno di prova per un prodotto inizialmente aperto solo a un numero ristretto di utenti per una validazione e un affinamento su piccola scala; man mano che la funzionalità matura, il tag viene gradualmente rimosso e il prodotto viene esteso a tutti.
 </Callout>
+
+Agent Swarm è disponibile per gli abbonati Moderato, Allegretto, Allegro e Vivace. Le attività consumano molti più credit rispetto alle normali attività dell'Agent.
 
 **Passaggi:**
 1. Descrivi la tua attività e inviala (ad esempio, "Raccogli oltre 200 articoli di Paul Graham")
 2. Osserva l'avanzamento in tempo reale: creazione dell'elenco delle attività, generazione dei sub-agent, esecuzione in parallelo
 3. Ricevi i risultati: progetti di codice, cartelle di file, analisi dei dati, documenti Office
 4. Visualizza l'anteprima, scarica o condividi i risultati
-5. Passa al singolo Agent K2.6 per proseguire nei turni successivi
+5. Nei turni successivi, Kimi passa automaticamente da chat ad Agent in base all'attività — senza bisogno di alcun cambio manuale
 
 ## Casi d'uso
 
@@ -65,7 +69,7 @@ K2.6 Agent Swarm [Beta] adotta il metodo di addestramento PARL (Parallel-Agent R
 
 **Caso 1: i 3 migliori creator in 100 nicchie YouTube**
 
-K2.6 Agent Swarm [Beta] ha creato 300 sub-agent per la ricerca in parallelo, generando tabelle strutturate con nomi dei canali, numero di iscritti e descrizioni.
+Agent Swarm ha creato 300 sub-agent per la ricerca in parallelo, generando tabelle strutturate con nomi dei canali, numero di iscritti e descrizioni.
 
 <Frames
   src="./images/swarm/youtube.png"
@@ -84,7 +88,7 @@ Agent Swarm ha distribuito i sub-agent per cercare, scaricare, categorizzare e r
 
 **Caso: rassegna bibliografica di 100 pagine a partire da 40 PDF**
 
-K2.6 Agent Swarm [Beta] ha distribuito più sub-agent dedicati alla scrittura, ciascuno responsabile di un capitolo. Risultato finale: un documento accademico di 100 pagine con citazioni, grafici metodologici e analisi della rete di citazioni.
+Agent Swarm ha distribuito più sub-agent dedicati alla scrittura, ciascuno responsabile di un capitolo. Risultato finale: un documento accademico di 100 pagine con citazioni, grafici metodologici e analisi della rete di citazioni.
 
 <Frames
   src="./images/swarm/literature-review.png"
@@ -144,7 +148,7 @@ Nel benchmark BrowseComp:
 
 ## Scenari di applicazione
 
-K2.6 Agent Swarm [Beta] è particolarmente adatto a:
+Agent Swarm è particolarmente adatto a:
 1. **Recupero di informazioni su larga scala**: raccolta massiva di dati da internet
 2. **Download in blocco**: raccolta su larga scala di file e risorse
 3. **Lettura ad ampio raggio**: elaborazione di oltre 100 documenti
@@ -156,3 +160,4 @@ K2.6 Agent Swarm [Beta] è particolarmente adatto a:
 - [Kimi Agent Swarm: 100 sub-agent su larga scala](https://www.kimi.com/blog/agent-swarm)
 - [Kimi K2.5: Visual Agentic Intelligence​](https://www.kimi.com/blog/kimi-k2-5)
 - [Kimi K2.6: l'avanzamento del coding open source](https://www.kimi.com/blog/kimi-k2-6)
+- [Kimi K3](https://www.kimi.com/blog/kimi-k3)

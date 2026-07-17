@@ -15,7 +15,7 @@ preview_content: "Doğal dille yazılmış açıklamalardan, tasarım taslaklar�
 # Kimi Websites
 
 <Callout type="info">
-**Kimi Websites**, en yeni Kimi K2.6 çok kipli görsel ajan yapay zekâ modeliyle güçlendirilmiş bir Kimi Agent ürün özelliğidir. Temel yeteneği **Vibe Coding**'dir; yani doğal dilden web siteleri üretip bunları çevrimiçi dağıtmaktır.
+**Kimi Websites**, en yeni Kimi K3 çok kipli görsel ajan yapay zekâ modeliyle güçlendirilmiş bir Kimi Agent ürün özelliğidir. Temel yeteneği **Vibe Coding**'dir; yani doğal dilden web siteleri üretip bunları çevrimiçi dağıtmaktır.
 </Callout>
 
 Kimi, görsel girdileri (arayüz taslakları, ekran görüntüleri, etkileşim videoları) ve doğal dil yönergelerini anlayarak kullanıcı girdisini eksiksiz ve çalıştırılabilir ön uç koduna dönüştürür; bu yalnızca statik arayüzü değil, dinamik etkileşimli davranışı da kapsar.
@@ -61,11 +61,11 @@ Kimi, görsel girdileri (arayüz taslakları, ekran görüntüleri, etkileşim v
 
 ### 2. Yöntem: mobil uygulama
 
-iOS, Android ve HarmonyOS'un tamamında resmi Kimi uygulaması mevcuttur. Giriş alanında **Görev çubuğu**'na dokunup **Websites Agent moduna** geçin; bu mod çok kipli üretim araçları ile Agent yeteneklerini içerir.
+iOS, Android ve HarmonyOS'un tamamında resmi Kimi uygulaması mevcuttur. Giriş alanında **Görev çubuğu**'na dokunup **Websites moduna** geçin; bu mod çok kipli üretim araçları ile Agent yeteneklerini içerir.
 
-### 3. Yöntem: K2.6 Agent modunu kullanın
+### 3. Yöntem: genel Agent modu
 
-K2.6 Agent moduna geçip bir site oluşturma görevi girin. Kimi, görsel kodlama yeteneklerini ve kod çalıştırma araçlarını devreye sokar.
+K3 modelini seçip bir site oluşturma görevi girin. Kimi, görsel kodlama yeteneklerini ve kod çalıştırma araçlarını devreye sokar.
 
 ## Kimi Websites nasıl çalışır?
 

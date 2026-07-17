@@ -69,9 +69,9 @@ Kimi Docs, güçlü metin uyarlama yetenekleri ve Office iş akışlarına dair 
 </Callout>
 
 ### 2. Yöntem: mobil uygulama
-Kimi uygulaması iOS ve Android'de mevcuttur. Görev çubuğuna dokunun → Docs Agent moduna geçin.
+Kimi uygulaması iOS ve Android'de mevcuttur. Görev çubuğuna dokunun → Docs moduna geçin.
 #### 3. Yöntem: genel Agent modu
-K2.6 Agent moduna geçin ve belgeyle ilgili bir görev girin. Kimi, okuma ve yazma araçlarını çağıracaktır.
+K3 modelini seçin ve belgeyle ilgili bir görev girin. Kimi, okuma ve yazma araçlarını çağıracaktır.
 ## Kimi Sheets
 Kimi Sheets; hücre ilişkilerini ve sayfalar arası bağlantı mantığını kavrar ve doğrudan tarayıcıda .xlsx dosyaları üretir.
 ### Temel yetenekler

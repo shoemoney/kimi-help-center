@@ -33,7 +33,7 @@ Henüz bir OpenClaw'unuz yok mu? Bir tane oluşturmak için [kimi.com/bot](https
 
 </Callout>
 
-- Kimi, K2.6 Thinking modelini otomatik olarak sağlar, Kimi Code kredilerinizi bağlar ve Kimi Web Search'ü etkinleştirir — ayrıca API yapılandırması gerekmez.
+- Kimi, K3 modelini otomatik olarak sağlar, Kimi Code kredilerinizi bağlar ve Kimi Web Search'ü etkinleştirir — ayrıca API yapılandırması gerekmez.
 - Kimi Claw, doğrudan Telegram ve diğer sohbet platformlarına dağıtılabilir.
 
 ## Başlarken

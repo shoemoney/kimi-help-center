@@ -14,7 +14,7 @@ preview_content: "Erstellen Sie mit dem KI-gestützten Slides-Tool von Kimi aus 
 
 # Kimi Slides
 
-Kimi Slides ist ein intelligentes Tool zur Präsentationserstellung von Kimi, das auf dem großen Modell K2.6 basiert. Es optimiert Layout und Design automatisch und sorgt so für eine professionellere visuelle Darstellung. Geben Sie einfach ein Thema in einem Satz ein, fügen Sie einen Textabschnitt ein oder laden Sie ein Dokument hoch – Kimi Slides wählt anhand des Inhaltstyps die am besten geeignete Form des visuellen Storytellings und erstellt innerhalb weniger Minuten automatisch eine vollständige Präsentation mit klarer Struktur und professionellem Design.
+Kimi Slides ist ein intelligentes Tool zur Präsentationserstellung von Kimi, das auf dem großen Modell K3 basiert. Es optimiert Layout und Design automatisch und sorgt so für eine professionellere visuelle Darstellung. Geben Sie einfach ein Thema in einem Satz ein, fügen Sie einen Textabschnitt ein oder laden Sie ein Dokument hoch – Kimi Slides wählt anhand des Inhaltstyps die am besten geeignete Form des visuellen Storytellings und erstellt innerhalb weniger Minuten automatisch eine vollständige Präsentation mit klarer Struktur und professionellem Design.
 
 Kimi Slides unterstützt Eingaben in verschiedenen Formaten, darunter PDF, Word, PPTX, Excel, TXT und Bilder. Außerdem wurden die Funktionen zum Nachbilden von Bildern und für benutzerdefinierte Vorlagen deutlich erweitert: Referenzbilder lassen sich per Klick wiederherstellen, und die Erstellung auf Basis selbst hochgeladener Vorlagen wird unterstützt – so entsprechen die Ergebnisse noch besser individuellen Anforderungen.
 

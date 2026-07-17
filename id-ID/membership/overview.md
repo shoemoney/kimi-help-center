@@ -4,42 +4,42 @@ slug: "membership-overview"
 order: 1
 extract_headings: true
 preview: true
-preview_content: "Bandingkan lima tingkat keanggotaan Kimi, sistem kredit, dan opsi penagihan."
+preview_content: "Bandingkan lima tingkat keanggotaan Kimi, sistem credit, dan opsi penagihan."
 ---
 
 <SeoMeta
   title="Ikhtisar keanggotaan Kimi - Pusat Bantuan Kimi"
-  description="Bandingkan lima tingkat keanggotaan Kimi, sistem kredit, dan opsi penagihan."
+  description="Bandingkan lima tingkat keanggotaan Kimi, sistem credit, dan opsi penagihan."
 />
 
 # Ikhtisar paket keanggotaan
 
-Kimi menawarkan lima tingkat keanggotaan — termasuk paket gratis — yang dirancang untuk menyesuaikan kebutuhan Anda, mulai dari produktivitas sehari-hari hingga alur kerja pengguna tingkat lanjut. Semua paket mencakup **satu kumpulan kredit bersama**: seri Agent, Kimi Code, dan fitur keanggotaan lainnya semuanya menggunakan kumpulan kredit yang sama, diukur berdasarkan penggunaan token.
+Kimi menawarkan lima tingkat keanggotaan — termasuk paket gratis — yang dirancang untuk menyesuaikan kebutuhan Anda, mulai dari produktivitas sehari-hari hingga alur kerja pengguna tingkat lanjut. Fitur Agent dan fitur keanggotaan Kimi lainnya berbagi satu kumpulan credit; Kimi Code memiliki kumpulan credit terpisahnya sendiri. K2.6 tidak mengonsumsi credit.
 
 ## Perbandingan paket
 
 | Fitur | Adagio (Gratis) | Moderato $19/bln | Allegretto $39/bln | Allegro $99/bln | Vivace $199/bln |
 | --- | --- | --- | --- | --- | --- |
-| Kredit Agent* | 6 | 60 | 150 | 360 | 720 |
+| credit Agent* | 6 | 60 | 150 | 360 | 720 |
 | Tugas bersamaan Agent | 1 | 2 | 2 | 4 | 4 |
 | Prioritas kecepatan Agent | — | 4× | 4× | 4× | 4× |
 | Agent Swarm (beta) | — | 25 penggunaan | 50 penggunaan | 120 penggunaan | 240 penggunaan |
 | Subtugas bersamaan Agent Swarm | — | 2 | 4 | 4 | 8 |
-| kredit Kimi Code | — | 1× | 5× | 15× | 30× |
+| credit Kimi Code | — | 1× | 5× | 15× | 30× |
 | Kimi Claw | — | — | ✅ | ✅ | ✅ |
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
 | Basis data profesional | 200 panggilan | 2.000 panggilan | 5.000 panggilan | 12.000 panggilan | 24.000 panggilan |
 
-\* Nilai perkiraan berdasarkan konsumsi token tugas pada umumnya. Kredit bulanan dikonversi menjadi jumlah tugas yang setara untuk fitur yang sama; hanya sebagai referensi.
+\* Nilai perkiraan berdasarkan konsumsi token tugas pada umumnya. Credit bulanan dikonversi menjadi jumlah tugas yang setara untuk fitur yang sama; hanya sebagai referensi.
 
 <Callout type="tip">
-Gunakan seluruh batas kredit untuk fungsi yang sama
+Gunakan seluruh batas credit untuk fungsi yang sama
 </Callout>
 
 ## Cara kerja penagihan
 
-- **Satu kumpulan kredit bersama** — Seri Agent, Kimi Code, dan fitur keanggotaan lainnya semuanya menggunakan satu kumpulan kredit yang sama, diukur berdasarkan penggunaan token.
-- **Pembaruan bulanan** — Kredit diatur ulang pada awal setiap siklus penagihan.
+- **Kumpulan credit** — Fitur Agent dan fitur keanggotaan Kimi lainnya berbagi satu kumpulan credit; Kimi Code memiliki kumpulan credit terpisahnya sendiri, diukur berdasarkan penggunaan token.
+- **Pembaruan bulanan** — Credit diatur ulang pada awal setiap siklus penagihan.
 
 ## Hemat dengan penagihan tahunan
 
@@ -48,8 +48,8 @@ Beralih ke penagihan tahunan dan hemat hingga **$480/tahun**. Lihat [Detail Harg
 <ColumnsContent
   columns={[
     {
-      title: "Aturan Kredit",
-      description: "Cara kerja dan pembaruan kredit",
+      title: "Aturan Credit",
+      description: "Cara kerja dan pembaruan credit",
       pageUrl: "/membership/update-rules",
       type: "document",
     },

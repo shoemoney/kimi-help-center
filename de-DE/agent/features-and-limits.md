@@ -25,7 +25,7 @@ Nennen Sie Hintergrundinformationen und Rahmenbedingungen klar – etwa den Proj
 
 **(2) Während der Ausführung**
 
-Kimi Agent läuft asynchron im Hintergrund. Wenn die Webseite eingefroren oder blockiert wirkt, **klicken Sie nicht auf „Stopp“** – dadurch wird die Aufgabenausführung abgebrochen. Sie können die Seite verlassen; die Aufgabe läuft im Hintergrund weiter, und Sie erhalten nach Abschluss eine Benachrichtigung. Bei Aufgaben, die voraussichtlich länger dauern (z. B. K2.6 Agent Swarm [Beta]), haben Sie bitte etwas Geduld.
+Kimi Agent läuft asynchron im Hintergrund. Wenn die Webseite eingefroren oder blockiert wirkt, **klicken Sie nicht auf „Stopp“** – dadurch wird die Aufgabenausführung abgebrochen. Sie können die Seite verlassen; die Aufgabe läuft im Hintergrund weiter, und Sie erhalten nach Abschluss eine Benachrichtigung. Bei Aufgaben, die voraussichtlich länger dauern (z. B. Agent Swarm), haben Sie bitte etwas Geduld.
 
 **(3) Website-Szenarien**
 
@@ -39,10 +39,10 @@ Agent kann vollständige Full-Stack-Inhalte erzeugen, einschließlich Frontend-O
 Über mehrere Dialogrunden und Überarbeitungen hinweg kann der Agent manche frühen Details „vergessen“. Am besten legen Sie zunächst das Aufgabengerüst und die Kernpunkte fest und nehmen anschließend schrittweise Anpassungen vor.
 
 **(5) Aufteilung großer Aufgaben**
-Große, komplexe Aufgaben unterteilen Sie am besten in 2–3 Phasen und reichen sie Kimi nach und nach ein – oder Sie nutzen K2.6 Agent Swarm [Beta].
+Große, komplexe Aufgaben unterteilen Sie am besten in 2–3 Phasen und reichen sie Kimi nach und nach ein – oder Sie nutzen Agent Swarm.
 
 **(6) Einschränkungen bei der Dateiausgabe**
-Im Standard-Agent-Modus kann pro Aufgabe in der Regel nur eine Datei ausgegeben werden (z. B. ein Dokument oder eine Tabelle). Für mehrere Dateien (z. B. ein Word-Dokument und eine PPT) verwenden Sie K2.6 Agent Swarm [Beta].
+Im Standard-Agent-Modus kann pro Aufgabe in der Regel nur eine Datei ausgegeben werden (z. B. ein Dokument oder eine Tabelle). Für mehrere Dateien (z. B. ein Word-Dokument und eine PPT) verwenden Sie Agent Swarm.
 
 **(7) Kontextgrenzen und Ausgewogenheit der Ausgabe**
 Aufgrund der Kontextgrenze großer Sprachmodelle von 256K Zeichen (etwa 40.000–50.000 chinesische Zeichen / ca. 100.000 englische Wörter) erfordert die Verarbeitung großer Dateimengen ein ausgewogenes Verhältnis zwischen Ein- und Ausgabevolumen.
@@ -60,7 +60,7 @@ Aufgrund der Kontextgrenze großer Sprachmodelle von 256K Zeichen (etwa 40.000�
 - Kostenpflichtige Stufen: 60–720 Agent-Aufgaben/Monat je nach Tarif
 </Callout>
 
-- **Ausführungsdauer**: Im Agent-Modus dauert eine einzelne Aufgabe in der Regel 5–20 Minuten. Aufgaben mit K2.6 Agent Swarm [Beta] können länger dauern. Sie können die Seite verlassen – klicken Sie nur nicht auf „Stopp“, um die Aufgabe nicht abzubrechen.
+- **Ausführungsdauer**: Im Agent-Modus dauert eine einzelne Aufgabe in der Regel 5–20 Minuten. Aufgaben mit Agent Swarm können länger dauern. Sie können die Seite verlassen – klicken Sie nur nicht auf „Stopp“, um die Aufgabe nicht abzubrechen.
 - **Credit-Nutzung**: Agent-Aufgaben verbrauchen Credits aus dem gemeinsamen Kontingent. Kimi Code nutzt ein separates Credits-Kontingent.
 - **Einfache Aufgaben**: Für einfache Fragen und Antworten empfiehlt sich der Standard-Chat-Modus, da er schneller antwortet.
 
@@ -94,4 +94,4 @@ Agent nutzt eine Kontextlänge von **256K Zeichen** (etwa 40.000–50.000 chines
 
 **F: Wie wird das Credits von Agent berechnet?**
 
-Agent, PPT und weitere Mitgliedschaftsfunktionen teilen sich ein Credits-Kontingent. Kimi Code nutzt ein separates Credits-Kontingent. Jede Agent-Aufgabe zählt in der Regel als eine Credit-Einheit. Ihr aktuelles Credits und Ihren Verbrauch sehen Sie unter [Membership Credits](https://www.kimi.com/membership-credits).
+Agent, PPT und weitere Mitgliedschaftsfunktionen teilen sich ein Credits-Kontingent. Kimi Code nutzt ein separates Credits-Kontingent. Jede Agent-Aufgabe zählt in der Regel als eine Credit-Einheit.

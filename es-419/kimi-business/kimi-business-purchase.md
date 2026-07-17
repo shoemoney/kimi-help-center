@@ -1,0 +1,31 @@
+---
+title: "Canales de compra"
+slug: "kimi-business-purchase"
+order: 3
+extract_headings: false
+preview: false
+---
+
+<SeoMeta
+  title="Cómo comprar Kimi Business Enterprise - Centro de ayuda de Kimi"
+  description="Aprende a comprar Kimi Business Enterprise: abre el plan empresarial desde la página de Planes de membresía y elige la cantidad de puestos, o escanea el código QR para contactar al soporte."
+/>
+
+# Cómo comprar Kimi Business Enterprise
+
+## Compra en línea
+
+En tu página principal personal, haz clic en «Plan de membresía» y selecciona «Obtener Enterprise» para elegir la cantidad de puestos y completar tu compra.
+
+<Callout type="tip">
+Kimi Business comienza con 5 puestos y una suscripción anual, y puedes agregar más puestos durante el periodo de la suscripción.
+</Callout>
+
+## Contactar al soporte
+
+Para protección de la privacidad de los datos de nivel empresarial, servicios exclusivos para empresas (incluida la firma de contratos empresariales fuera de línea), soporte técnico dedicado y otras necesidades, escanea el código QR para contactar directamente a nuestro soporte oficial.
+
+<Frames
+  src="./images/kimi-business-purchase/customer-service-qrcode.png"
+  alt="Código QR del soporte oficial de Kimi Business"
+/>

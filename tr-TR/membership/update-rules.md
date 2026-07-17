@@ -8,27 +8,28 @@ preview: false
 
 <SeoMeta
   title="Kredi güncelleme ve kullanım kuralları - Kimi Yardım Merkezi"
-  description="Kimi üyelik ayrıcalıkları tek bir ortak kredi havuzu içerir. Agent serisi, Kimi Code ve diğer üyelik özelliklerinin tümü aynı kredi havuzunu paylaşır ve krediler gerçek kullanıma göre tüketilir."
+  description="Agent özellikleri ve diğer Kimi üyelik özellikleri tek bir ortak kredi havuzunu paylaşır; Kimi Code kendi ayrı kredi havuzuna sahiptir. Krediler gerçek kullanıma göre tüketilir."
 />
 
 # Kredi güncelleme ve kullanım kuralları
 
 <Callout type="info">
-Kimi üyelik ayrıcalıkları tek bir ortak kredi havuzu içerir. Agent serisi, Kimi Code ve diğer üyelik özelliklerinin tümü aynı kredi havuzunu paylaşır ve krediler gerçek kullanıma göre tüketilir.
+Agent özellikleri ve diğer Kimi üyelik özellikleri tek bir ortak kredi havuzunu paylaşır; Kimi Code kendi ayrı kredi havuzuna sahiptir. Krediler gerçek kullanıma göre tüketilir.
 </Callout>
 
 ## Ortak kredi havuzu nasıl işler?
-Üyeliğiniz her özellik için ayrı krediler yerine size tek bir ortak kredi havuzu sunar. Agent serisi, Kimi Code ve diğer üyelik özelliklerinin tümü, her yerde geçerli olan bu tek kredi havuzunu paylaşır:
+Kimi üyelik özellikleri, her yerde geçerli olan tek bir ortak kredi havuzunu paylaşır. Agent özellikleri ve diğer Kimi özelliklerinin tümü bu havuzdan yararlanır:
 | Özellik | Açıklama |
 |---------|-------------|
 | **Agent görevleri** | Web siteleri, belgeler, slaytlar, elektronik tablolar, deep research |
 | **Kimi Claw** | Buluta dağıtılmış kişisel yapay zekâ asistanınız |
 | **Diğer özellikler** | Görsel oluşturma ve daha fazlası |
 
-> **Kimi Chat**: En güncel modellerle sohbetler (kredi tüketmez)
+> **K2.6**: K2.6 modeliyle yapılan sohbetler kredi tüketmez
+> **Kimi Code**: Yapay zeka destekli kodlama asistanı (ayrı kredi havuzu)
 
 <Callout type="tip">
-Bu, kredilerinizi paylaşılan havuz içinde dilediğiniz gibi dağıtabileceğiniz anlamına gelir — bir ay araştırmaya, bir sonraki ay belgelere daha fazla harcayın. Kimi Chat kredi tüketmez.
+Bu, kredilerinizi paylaşılan havuz içinde dilediğiniz gibi dağıtabileceğiniz anlamına gelir — bir ay araştırmaya, bir sonraki ay belgelere daha fazla harcayın. K2.6 kredi tüketmez.
 </Callout>
 
 ## Krediler nasıl hesaplanır?

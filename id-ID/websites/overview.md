@@ -15,7 +15,7 @@ preview_content: "Bangun dan terapkan situs web dari deskripsi bahasa alami, moc
 # Kimi Websites
 
 <Callout type="info">
-**Kimi Websites** adalah fitur produk Kimi Agent yang didukung oleh model AI agen visual multimodal Kimi K2.6 terbaru. Kemampuan intinya adalah **Vibe Coding** — menghasilkan situs web dari bahasa alami dan menerapkannya secara online.
+**Kimi Websites** adalah fitur produk Kimi Agent yang didukung oleh model AI agen visual multimodal Kimi K3 terbaru. Kemampuan intinya adalah **Vibe Coding** — menghasilkan situs web dari bahasa alami dan menerapkannya secara online.
 </Callout>
 
 Dengan memahami masukan visual (mockup UI, tangkapan layar, video interaksi) dan instruksi bahasa alami, Kimi menerjemahkan masukan pengguna menjadi kode frontend lengkap yang siap dijalankan — tidak hanya mencakup UI statis, tetapi juga perilaku interaktif yang dinamis.
@@ -61,11 +61,11 @@ Dengan memahami masukan visual (mockup UI, tangkapan layar, video interaksi) dan
 
 ### Cara 2: aplikasi seluler
 
-Tersedia aplikasi resmi Kimi untuk iOS, Android, dan HarmonyOS. Di area masukan, ketuk **Taskbar** → beralih ke **mode Websites Agent**, yang mencakup alat pembuatan multimodal dan kemampuan Agent.
+Tersedia aplikasi resmi Kimi untuk iOS, Android, dan HarmonyOS. Di area masukan, ketuk **Taskbar** → beralih ke **mode Websites**, yang mencakup alat pembuatan multimodal dan kemampuan Agent.
 
-### Cara 3: gunakan mode K2.6 Agent
+### Cara 3: mode Agent umum
 
-Beralih ke mode K2.6 Agent dan masukkan tugas pembuatan situs web. Kimi akan memanfaatkan kemampuan visual coding dan alat eksekusi kodenya.
+Pilih model K3 dan masukkan tugas pembuatan situs web. Kimi akan memanfaatkan kemampuan visual coding dan alat eksekusi kodenya.
 
 ## Bagaimana Kimi Websites bekerja?
 

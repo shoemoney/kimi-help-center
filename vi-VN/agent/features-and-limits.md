@@ -25,7 +25,7 @@ Hãy nêu rõ thông tin nền tảng và các ràng buộc — bối cảnh d�
 
 **(2) Trong quá trình thực thi**
 
-Kimi Agent chạy bất đồng bộ ở chế độ nền. Nếu trang web trông như bị treo hoặc đứng yên, **đừng nhấn "Dừng"** — thao tác này sẽ gián đoạn việc thực thi tác vụ. Bạn có thể rời khỏi trang; tác vụ vẫn tiếp tục chạy ở nền và bạn sẽ nhận được thông báo khi nó hoàn tất. Với những tác vụ dự kiến mất nhiều thời gian (ví dụ K2.6 Agent Swarm [Beta]), vui lòng kiên nhẫn chờ đợi.
+Kimi Agent chạy bất đồng bộ ở chế độ nền. Nếu trang web trông như bị treo hoặc đứng yên, **đừng nhấn "Dừng"** — thao tác này sẽ gián đoạn việc thực thi tác vụ. Bạn có thể rời khỏi trang; tác vụ vẫn tiếp tục chạy ở nền và bạn sẽ nhận được thông báo khi nó hoàn tất. Với những tác vụ dự kiến mất nhiều thời gian (ví dụ Agent Swarm), vui lòng kiên nhẫn chờ đợi.
 
 **(3) Tình huống xây dựng website**
 
@@ -39,10 +39,10 @@ Agent có thể tạo nội dung full-stack, bao gồm giao diện frontend, d�
 Qua nhiều lượt trao đổi và chỉnh sửa, Agent có thể "quên" một số chi tiết ban đầu. Tốt nhất là bạn nên thiết lập khung tác vụ cùng các điểm cốt lõi trước, rồi mới điều chỉnh dần.
 
 **(5) Phân rã tác vụ lớn**
-Với những tác vụ lớn và phức tạp, hãy chia thành 2–3 giai đoạn rồi gửi cho Kimi theo từng đợt, hoặc dùng K2.6 Agent Swarm [Beta].
+Với những tác vụ lớn và phức tạp, hãy chia thành 2–3 giai đoạn rồi gửi cho Kimi theo từng đợt, hoặc dùng Agent Swarm.
 
 **(6) Giới hạn về tệp đầu ra**
-Ở chế độ Agent tiêu chuẩn, thông thường mỗi tác vụ chỉ xuất được một tệp (ví dụ một tài liệu hoặc một bảng tính). Để tạo nhiều tệp (chẳng hạn vừa tài liệu Word vừa PPT), hãy dùng K2.6 Agent Swarm [Beta].
+Ở chế độ Agent tiêu chuẩn, thông thường mỗi tác vụ chỉ xuất được một tệp (ví dụ một tài liệu hoặc một bảng tính). Để tạo nhiều tệp (chẳng hạn vừa tài liệu Word vừa PPT), hãy dùng Agent Swarm.
 
 **(7) Giới hạn ngữ cảnh và cân đối đầu ra**
 Do các mô hình ngôn ngữ lớn có giới hạn ngữ cảnh 256K ký tự (khoảng 40.000–50.000 ký tự tiếng Trung / khoảng 100.000 từ tiếng Anh), việc xử lý lượng tệp lớn đòi hỏi phải cân đối giữa khối lượng đầu vào và đầu ra.
@@ -60,7 +60,7 @@ Do các mô hình ngôn ngữ lớn có giới hạn ngữ cảnh 256K ký tự 
 - Gói trả phí: 60–720 tác vụ Agent/tháng tùy theo gói của bạn
 </Callout>
 
-- **Thời gian thực thi**: Ở chế độ Agent, một tác vụ thường mất 5–20 phút. Các tác vụ K2.6 Agent Swarm [Beta] có thể lâu hơn. Bạn có thể rời khỏi trang — chỉ cần đừng nhấn Dừng để gián đoạn tác vụ.
+- **Thời gian thực thi**: Ở chế độ Agent, một tác vụ thường mất 5–20 phút. Các tác vụ Agent Swarm có thể lâu hơn. Bạn có thể rời khỏi trang — chỉ cần đừng nhấn Dừng để gián đoạn tác vụ.
 - **Mức sử dụng tín dụng**: Các tác vụ Agent tiêu thụ tín dụng từ kho dùng chung. Kimi Code dùng một kho tín dụng riêng. 
 - **Tác vụ đơn giản**: Với các câu hỏi đáp đơn giản, nên dùng chế độ trò chuyện tiêu chuẩn để được phản hồi nhanh hơn.
 
@@ -94,4 +94,4 @@ Agent sử dụng độ dài ngữ cảnh **256K ký tự** (khoảng 40.000–5
 
 **Q: tín dụng của Agent được tính như thế nào?**
 
-Agent, PPT và các tính năng thành viên khác dùng chung một kho tín dụng. Kimi Code dùng một kho tín dụng riêng. Mỗi tác vụ Agent thường được tính là một đơn vị tín dụng. Xem tín dụng hiện tại và mức sử dụng của bạn tại [Membership Credits](https://www.kimi.com/membership-credits).
+Agent, PPT và các tính năng thành viên khác dùng chung một kho tín dụng. Kimi Code dùng một kho tín dụng riêng. Mỗi tác vụ Agent thường được tính là một đơn vị tín dụng.

@@ -69,9 +69,9 @@ Kimi Docs 具備出色的文字適配能力，並能系統性理解 Office 工�
 </Callout>
 
 ### 方法 2：行動 App
-Kimi App 可在 iOS 與 Android 使用。點一下工作列 → 切換至 Docs Agent 模式。
+Kimi App 可在 iOS 與 Android 使用。點一下工作列 → 切換至 Docs 模式。
 #### 方法 3：一般 Agent 模式
-切換至 K2.6 Agent 模式，並輸入與文件相關的任務。Kimi 會呼叫讀寫工具。
+選擇 K3 模型，並輸入與文件相關的任務。Kimi 會呼叫讀寫工具。
 ## Kimi Sheets
 Kimi Sheets 能理解儲存格關係與跨工作表連結邏輯，並可直接在瀏覽器中產生 .xlsx 檔案。
 ### 核心能力

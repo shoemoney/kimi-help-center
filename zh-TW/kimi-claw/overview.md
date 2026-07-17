@@ -33,7 +33,7 @@ preview_content: "一鍵完成設定，在雲端部署並管理你自己的 Kimi
 
 </Callout>
 
-- Kimi 會自動配置 K2.6 Thinking 模型、連接你的 Kimi Code額度，並啟用 Kimi Web Search——無需另外設定 API。
+- Kimi 會自動配置 K3 模型、連接你的 Kimi Code額度，並啟用 Kimi Web Search——無需另外設定 API。
 - Kimi Claw 可直接部署到 Telegram 及其他聊天平台。
 
 ## 開始使用

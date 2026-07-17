@@ -1,5 +1,5 @@
 ---
-title: "K2.6 Agent Swarm [测试版]"
+title: "Agent Swarm"
 slug: "agent-swarm"
 order: 2
 extract_headings: false
@@ -7,20 +7,22 @@ preview: false
 ---
 
 <SeoMeta
-  title="K2.6 Agent Swarm [测试版] - Kimi 帮助中心"
-  description="K2.6 Agent Swarm 测试版采用一种“横向扩展”架构，可协调最多 300 个子 Agent 并行工作——无需预设角色或手工编排工作流..."
+  title="Agent Swarm - Kimi 帮助中心"
+  description="Agent Swarm 采用一种“横向扩展”架构，可协调最多 300 个子 Agent 并行工作——无需预设角色或手工编排工作流..."
 />
 
-# K2.6 Agent Swarm [测试版]
+# Agent Swarm
 
 <Callout type="info">
-**K2.6 Agent Swarm [测试版]** 采用一种“横向扩展”架构，可协调最多 300 个子 Agent 并行工作——无需预设角色，也不必手工编排工作流。相比单 Agent 执行，任务完成速度约提升 **4.5 倍**。
+**Agent Swarm** 采用一种“横向扩展”架构，可协调最多 300 个子 Agent 并行工作——无需预设角色，也不必手工编排工作流。相比单 Agent 执行，任务完成速度约提升 **4.5 倍**。
 </Callout>
 
-2026 年 1 月 27 日，Moonshot AI 发布 Kimi K2.5，并推出 Agent Swarm [测试版]。2026 年 4 月 20 日，Moonshot AI 发布并开源 Kimi K2.6，对 Agent Swarm 架构进行了重大升级：
+2026 年 1 月 27 日，Moonshot AI 发布 Kimi K2.5，并推出 Agent Swarm。2026 年 4 月 20 日，Moonshot AI 发布并开源 Kimi K2.6，对 Agent Swarm 架构进行了重大升级：
 - 最多 **300 个子 Agent** 同时工作
 - 单个任务可完成超过 **4,000 次工具调用**
 - 相比单 Agent 顺序执行，速度提升 **4.5 倍**
+
+Agent Swarm 目前由 Kimi K3（K3 Swarm）驱动，进一步提升了大规模并行搜索与批量处理能力。
 
 ## 背后的故事
 
@@ -35,7 +37,7 @@ Agent Swarm 是一种自设计的组织结构——由 AI 设计，而不是由�
   alt="群体"
 />
 
-K2.6 Agent Swarm [测试版] 采用 PARL（Parallel-Agent Reinforcement Learning）训练方法。在大规模搜索场景中，相比单 Agent 方案，它可将关键步骤减少 3–4.5 倍。
+Agent Swarm 采用 PARL（Parallel-Agent Reinforcement Learning）训练方法。在大规模搜索场景中，相比单 Agent 方案，它可将关键步骤减少 3–4.5 倍。
 
 ## 如何使用？
 
@@ -46,18 +48,20 @@ K2.6 Agent Swarm [测试版] 采用 PARL（Parallel-Agent Reinforcement Learning
 
 **入口：**
 - **Web**：[kimi.com/agent-swarm](https://www.kimi.com/agent-swarm)
-- **移动端**：Kimi app → 切换模式 → 选择 K2.6 Agent Swarm [测试版]
+- **移动端**：打开 Kimi 应用，在模型切换按钮中选择 K3 Swarm 模型
 
-<Callout type="warning">
-**测试版权限**：K2.6 Agent Swarm [测试版] 目前面向 Moderato、Allegretto、Allegro 和 Vivace 会员开放。相比标准 Agent 任务，此类任务会消耗显著更多额度。
+<Callout type="info">
+关于 [Beta] 标记：[Beta] 表示试用标记，代表产品初期仅面向少量用户开放，用于小范围验证和打磨；随着功能成熟，该标记会逐步移除，产品也会向所有用户全面开放。
 </Callout>
+
+Agent Swarm 目前面向 Moderato、Allegretto、Allegro 和 Vivace 会员开放。相比标准 Agent 任务，此类任务会消耗显著更多的 credits。
 
 **步骤：**
 1. 描述并发送你的任务（例如：“收集 200+ 篇 Paul Graham 文章”）
 2. 实时查看进展：任务列表创建、子 Agent 生成、并行执行
 3. 接收交付物：代码项目、文件夹、数据分析、Office 文档
 4. 预览、下载或分享结果
-5. 后续轮次可切换到单个 K2.6 Agent 继续处理
+5. 在后续轮次中，Kimi 会根据任务在对话与 Agent 之间自动调度——无需手动切换
 
 ## 使用场景
 
@@ -65,7 +69,7 @@ K2.6 Agent Swarm [测试版] 采用 PARL（Parallel-Agent Reinforcement Learning
 
 **案例 1：100 个 YouTube 细分领域中的 Top 3 创作者**
 
-K2.6 Agent Swarm [测试版] 创建了 300 个子 Agent 进行并行搜索，并生成包含频道名称、订阅者数量和简介的结构化表格。
+Agent Swarm 创建了 300 个子 Agent 进行并行搜索，并生成包含频道名称、订阅者数量和简介的结构化表格。
 
 <Frames
   src="./images/swarm/youtube.png"
@@ -84,7 +88,7 @@ Agent Swarm 调度子 Agent 对 200+ 篇文章进行搜索、下载、分类和�
 
 **案例：基于 40 份 PDF 生成 100 页文献综述**
 
-K2.6 Agent Swarm [测试版] 调度多个专注写作的子 Agent，每个子 Agent 负责一个章节。最终输出：一份 100 页的学术文档，包含引文、方法论图表和引文网络分析。
+Agent Swarm 调度多个专注写作的子 Agent，每个子 Agent 负责一个章节。最终输出：一份 100 页的学术文档，包含引文、方法论图表和引文网络分析。
 
 <Frames
   src="./images/swarm/literature-review.png"
@@ -144,7 +148,7 @@ Agent Swarm 会计算每个阶段中最慢子 Agent 的耗时。这会促使系�
 
 ## 应用场景
 
-K2.6 Agent Swarm [测试版] 尤其适合：
+Agent Swarm 尤其适合：
 1. **大规模信息检索**：海量互联网数据收集
 2. **批量下载**：大规模文件与资源收集
 3. **广范围阅读**：处理 100+ 份文档
@@ -156,3 +160,4 @@ K2.6 Agent Swarm [测试版] 尤其适合：
 - [Kimi Agent Swarm：100 个子 Agent 的规模化协作](https://www.kimi.com/blog/agent-swarm)
 - [Kimi K2.5：Visual Agentic Intelligence](https://www.kimi.com/blog/kimi-k2-5)
 - [Kimi K2.6：推进开源编程能力](https://www.kimi.com/blog/kimi-k2-6)
+- [Kimi K3](https://www.kimi.com/blog/kimi-k3)

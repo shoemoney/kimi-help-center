@@ -1,5 +1,5 @@
 ---
-title: "K2.6 Agent Swarm [베타]"
+title: "Agent Swarm"
 slug: "agent-swarm"
 order: 2
 extract_headings: false
@@ -7,20 +7,22 @@ preview: false
 ---
 
 <SeoMeta
-  title="K2.6 Agent Swarm [베타] - Kimi 헬프 센터"
-  description="K2.6 Agent Swarm 베타는 최대 300개의 하위 에이전트가 병렬로 작업하도록 조율하는 &quot;수평 확장&quot; 아키텍처입니다. 미리 정한 역할이나 손수 만든..."
+  title="Agent Swarm - Kimi 헬프 센터"
+  description="Agent Swarm은 최대 300개의 하위 에이전트가 병렬로 작업하도록 조율하는 &quot;수평 확장&quot; 아키텍처입니다. 미리 정한 역할이나 손수 만든..."
 />
 
-# K2.6 Agent Swarm [베타]
+# Agent Swarm
 
 <Callout type="info">
-**K2.6 Agent Swarm [베타]**는 최대 300개의 하위 에이전트가 병렬로 작업하도록 조율하는 "수평 확장" 아키텍처입니다. 미리 정한 역할이나 손수 만든 워크플로가 필요하지 않으며, 단일 에이전트 실행보다 약 **4.5배 빠르게** 작업을 완료합니다.
+**Agent Swarm**은 최대 300개의 하위 에이전트가 병렬로 작업하도록 조율하는 "수평 확장" 아키텍처입니다. 미리 정한 역할이나 손수 만든 워크플로가 필요하지 않으며, 단일 에이전트 실행보다 약 **4.5배 빠르게** 작업을 완료합니다.
 </Callout>
 
-2026년 1월 27일, Moonshot AI는 Kimi K2.5를 출시하며 Agent Swarm [베타]를 선보였습니다. 2026년 4월 20일에는 Kimi K2.6을 공개하고 오픈소스로 배포하면서 Agent Swarm 아키텍처를 크게 업그레이드했습니다.
+2026년 1월 27일, Moonshot AI는 Kimi K2.5를 출시하며 Agent Swarm을 선보였습니다. 2026년 4월 20일에는 Kimi K2.6을 공개하고 오픈소스로 배포하면서 Agent Swarm 아키텍처를 크게 업그레이드했습니다.
 - 최대 **300개의 하위 에이전트** 동시 작업
 - 작업당 **4,000회 이상의 도구 호출**
 - 단일 에이전트의 순차 실행보다 **4.5배 빠른** 속도
+
+Agent Swarm은 현재 Kimi K3(K3 Swarm)을 기반으로 하며, 대규모 병렬 검색과 일괄 처리 성능을 한층 개선했습니다.
 
 ## 탄생 배경
 
@@ -35,7 +37,7 @@ Agent Swarm은 사람이 아니라 AI가 직접 설계한 조직 구조입니다
   alt="스웜"
 />
 
-K2.6 Agent Swarm [베타]는 PARL(Parallel-Agent Reinforcement Learning) 학습 방법을 사용합니다. 단일 에이전트 방식과 비교하면, 대규모 검색 시나리오에서 핵심 단계를 3배~4.5배 줄입니다.
+Agent Swarm은 PARL(Parallel-Agent Reinforcement Learning) 학습 방법을 사용합니다. 단일 에이전트 방식과 비교하면, 대규모 검색 시나리오에서 핵심 단계를 3배~4.5배 줄입니다.
 
 ## 사용 방법
 
@@ -46,18 +48,20 @@ K2.6 Agent Swarm [베타]는 PARL(Parallel-Agent Reinforcement Learning) 학습 
 
 **접속 경로:**
 - **Web**: [kimi.com/agent-swarm](https://www.kimi.com/agent-swarm)
-- **Mobile**: Kimi app → 모드 전환 → K2.6 Agent Swarm [베타] 선택
+- **Mobile**: Kimi 앱을 열고 모델 전환 버튼에서 K3 Swarm 모델을 선택하세요
 
-<Callout type="warning">
-**베타 이용 권한**: K2.6 Agent Swarm [베타]는 현재 Moderato, Allegretto, Allegro, Vivace 회원에게 제공됩니다. 작업은 일반 Agent 작업보다 훨씬 많은 quota를 사용합니다.
+<Callout type="info">
+[Beta] 태그에 대하여: [Beta]는 제품 출시 초기에 소수의 사용자에게만 공개되어 소규모 검증과 개선을 거치는 시험용 표시입니다. 기능이 성숙해지면 태그가 점차 제거되고 제품이 모든 사용자에게 제공됩니다.
 </Callout>
+
+Agent Swarm은 Moderato, Allegretto, Allegro, Vivace 회원에게 제공됩니다. 작업은 일반 Agent 작업보다 훨씬 많은 credit을 소비합니다.
 
 **단계:**
 1. 작업을 설명하고 전송합니다. 예: "Paul Graham 글 200편 이상 수집해 줘"
 2. 작업 목록 생성, 하위 에이전트 생성, 병렬 실행 과정을 실시간으로 확인합니다.
 3. 코드 프로젝트, 파일 폴더, 데이터 분석, Office 문서 등 결과물을 받습니다.
 4. 결과를 미리 보거나 다운로드 또는 공유합니다.
-5. 이후 대화를 이어갈 때는 단일 K2.6 Agent로 전환합니다.
+5. 이후 대화에서는 작업에 따라 Kimi가 채팅과 Agent를 자동으로 조율하며, 수동 전환이 필요하지 않습니다.
 
 ## 활용 사례
 
@@ -65,7 +69,7 @@ K2.6 Agent Swarm [베타]는 PARL(Parallel-Agent Reinforcement Learning) 학습 
 
 **사례 1: 100개 YouTube 니치별 상위 크리에이터 3명**
 
-K2.6 Agent Swarm [베타]는 병렬 검색을 위해 300개의 하위 에이전트를 생성하고, 채널명, 구독자 수, 설명이 포함된 구조화된 표를 만들었습니다.
+Agent Swarm은 병렬 검색을 위해 300개의 하위 에이전트를 생성하고, 채널명, 구독자 수, 설명이 포함된 구조화된 표를 만들었습니다.
 
 <Frames
   src="./images/swarm/youtube.png"
@@ -84,7 +88,7 @@ Agent Swarm은 하위 에이전트를 배치해 200편 이상의 글을 검색, 
 
 **사례: 40개 PDF로 100페이지 분량의 문헌 고찰 작성**
 
-K2.6 Agent Swarm [베타]는 글쓰기에 특화된 여러 하위 에이전트를 배치하고, 각 에이전트가 한 장씩 맡도록 했습니다. 최종 결과물은 인용, 방법론 차트, 인용 네트워크 분석을 포함한 100페이지 분량의 학술 문서였습니다.
+Agent Swarm은 글쓰기에 특화된 여러 하위 에이전트를 배치하고, 각 에이전트가 한 장씩 맡도록 했습니다. 최종 결과물은 인용, 방법론 차트, 인용 네트워크 분석을 포함한 100페이지 분량의 학술 문서였습니다.
 
 <Frames
   src="./images/swarm/literature-review.png"
@@ -144,7 +148,7 @@ BrowseComp 벤치마크 기준:
 
 ## 적용 시나리오
 
-K2.6 Agent Swarm [베타]는 특히 다음에 적합합니다.
+Agent Swarm은 특히 다음에 적합합니다.
 1. **대규모 정보 검색**: 방대한 인터넷 데이터 수집
 2. **일괄 다운로드**: 대규모 파일 및 리소스 수집
 3. **광범위한 문서 읽기**: 100개 이상의 문서 처리
@@ -156,3 +160,4 @@ K2.6 Agent Swarm [베타]는 특히 다음에 적합합니다.
 - [Kimi Agent Swarm: 100개의 하위 에이전트를 대규모로 운용하기](https://www.kimi.com/blog/agent-swarm)
 - [Kimi K2.5: Visual Agentic Intelligence](https://www.kimi.com/blog/kimi-k2-5)
 - [Kimi K2.6: 오픈소스 코딩의 진전](https://www.kimi.com/blog/kimi-k2-6)
+- [Kimi K3](https://www.kimi.com/blog/kimi-k3)

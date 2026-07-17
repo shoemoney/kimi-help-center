@@ -14,7 +14,7 @@ preview_content: "Créez des présentations soignées à partir d'un texte ou d'
 
 # Kimi Slides
 
-Kimi Slides est un outil intelligent de génération de présentations lancé par Kimi et propulsé par le grand modèle K2.6. Il optimise automatiquement la mise en page et le design pour offrir un rendu visuel plus professionnel. Il vous suffit de saisir un sujet en une phrase, de coller un texte ou de téléverser un document : Kimi Slides choisit alors l'approche narrative visuelle la mieux adaptée au type de contenu et génère automatiquement, en quelques minutes, une présentation complète à la structure claire et au design soigné.
+Kimi Slides est un outil intelligent de génération de présentations lancé par Kimi et propulsé par le grand modèle K3. Il optimise automatiquement la mise en page et le design pour offrir un rendu visuel plus professionnel. Il vous suffit de saisir un sujet en une phrase, de coller un texte ou de téléverser un document : Kimi Slides choisit alors l'approche narrative visuelle la mieux adaptée au type de contenu et génère automatiquement, en quelques minutes, une présentation complète à la structure claire et au design soigné.
 
 Kimi Slides prend en charge des formats d'entrée variés, notamment PDF, Word, PPTX, Excel, TXT et images. Ses capacités de reproduction d'images et de personnalisation des modèles ont également été nettement renforcées : il restitue une image de référence en un clic et crée des présentations à partir de modèles téléversés par l'utilisateur, pour un résultat qui colle au plus près de vos besoins.
 

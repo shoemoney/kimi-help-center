@@ -15,7 +15,7 @@ preview_content: "Créez et déployez des sites web à partir de descriptions en
 # Kimi Websites
 
 <Callout type="info">
-**Kimi Websites** est une fonctionnalité du produit Kimi Agent, propulsée par le tout dernier modèle d'IA agentique visuel multimodal Kimi K2.6. Sa capacité phare est le **Vibe Coding** — générer des sites web à partir du langage naturel et les déployer en ligne.
+**Kimi Websites** est une fonctionnalité du produit Kimi Agent, propulsée par le tout dernier modèle d'IA agentique visuel multimodal Kimi K3. Sa capacité phare est le **Vibe Coding** — générer des sites web à partir du langage naturel et les déployer en ligne.
 </Callout>
 
 En comprenant les entrées visuelles (maquettes d'interface, captures d'écran, vidéos d'interaction) et les instructions en langage naturel, Kimi traduit les indications de l'utilisateur en code frontend complet et exécutable — couvrant non seulement l'interface statique, mais aussi les comportements interactifs dynamiques.
@@ -61,11 +61,11 @@ En comprenant les entrées visuelles (maquettes d'interface, captures d'écran, 
 
 ### Méthode 2 : application mobile
 
-iOS, Android et HarmonyOS disposent tous de l'application officielle Kimi. Dans la zone de saisie, appuyez sur la **barre de tâches** → passez au **mode Websites Agent**, qui inclut des outils de génération multimodale et les capacités de l'Agent.
+iOS, Android et HarmonyOS disposent tous de l'application officielle Kimi. Dans la zone de saisie, appuyez sur la **barre de tâches** → passez au **mode Websites**, qui inclut des outils de génération multimodale et les capacités de l'Agent.
 
-### Méthode 3 : utiliser le mode K2.6 Agent
+### Méthode 3 : mode Agent général
 
-Passez au mode K2.6 Agent et saisissez une tâche de création de site. Kimi mobilisera ses capacités de codage visuel et ses outils d'exécution de code.
+Sélectionnez le modèle K3 et saisissez une tâche de création de site. Kimi mobilisera ses capacités de codage visuel et ses outils d'exécution de code.
 
 ## Comment fonctionne Kimi Websites ?
 

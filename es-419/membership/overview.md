@@ -14,7 +14,7 @@ preview_content: "Compara los cinco niveles de membresía de Kimi, el sistema de
 
 # Resumen de los planes de membresía
 
-Kimi ofrece cinco niveles de membresía —incluido un plan gratuito— diseñados para crecer junto con tus necesidades, desde la productividad diaria hasta los flujos de trabajo más exigentes. Todos los planes incluyen **un único paquete de créditos compartido**: la serie Agent, Kimi Code y las demás funciones de la membresía comparten el mismo paquete de créditos, medido por el uso real de tokens.
+Kimi ofrece cinco niveles de membresía —incluido un plan gratuito— diseñados para crecer junto con tus necesidades, desde la productividad diaria hasta los flujos de trabajo más exigentes. Las funciones de Agent y las demás funciones de la membresía de Kimi comparten un único paquete de créditos; Kimi Code tiene su propio paquete de créditos independiente. K2.6 no consume créditos.
 
 ## Comparación de planes
 
@@ -38,7 +38,7 @@ Usa todo el límite de créditos para la misma función
 
 ## Cómo funciona la facturación
 
-- **Un único paquete de créditos compartido**: la serie Agent, Kimi Code y las demás funciones de la membresía comparten el mismo paquete de créditos, medido por el uso real de tokens.
+- **Paquete de créditos**: las funciones de Agent y las demás funciones de la membresía de Kimi comparten un mismo paquete de créditos; Kimi Code tiene su propio paquete de créditos independiente, medido por el uso de tokens.
 - **Renovación mensual**: los créditos se reinician al inicio de cada ciclo de facturación.
 
 ## Ahorra con la facturación anual

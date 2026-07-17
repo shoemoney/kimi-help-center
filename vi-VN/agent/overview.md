@@ -1,26 +1,28 @@
 ---
-title: "Tổng quan về K2.6 Agent"
+title: "Tổng quan về Kimi Agent"
 slug: "agent-overview"
 order: 1
 extract_headings: false
 preview: true
-preview_content: "Tìm hiểu khả năng thực thi tác vụ tự động, hơn 20 công cụ và các tình huống sử dụng được hỗ trợ của K2.6 Agent."
+preview_content: "Tìm hiểu khả năng thực thi tác vụ tự động, hơn 20 công cụ và các tình huống sử dụng được hỗ trợ của Kimi Agent."
 ---
 
 <SeoMeta
-  title="Tổng quan về K2.6 Agent - Trung tâm trợ giúp Kimi"
-  description="Khám phá khả năng, quá trình phát triển và các tình huống sử dụng của Kimi K2.6 Agent."
+  title="Tổng quan về Kimi Agent - Trung tâm trợ giúp Kimi"
+  description="Khám phá khả năng, quá trình phát triển và các tình huống sử dụng của Kimi Agent."
 />
 
-# Tổng quan về K2.6 Agent
+# Tổng quan về Kimi Agent
 
-Kimi K2.6 Agent là trợ lý AI tự động, xử lý trọn vẹn các tác vụ phức tạp từ đầu đến cuối. Được vận hành bởi mô hình K2.6, công cụ này sử dụng hơn 20 công cụ để xây dựng website, tạo tài liệu, phân tích dữ liệu và nhiều việc khác.
+Kimi Agent là trợ lý AI tự động, xử lý trọn vẹn các tác vụ phức tạp từ đầu đến cuối. Được vận hành bởi Kimi K3, nó sử dụng hơn 20 công cụ để xây dựng website, tạo tài liệu, phân tích dữ liệu và nhiều việc khác.
 
 ## Quá trình phát triển sản phẩm
 - **Ngày 5 tháng 9 năm 2025**: Ra mắt Kimi K2 — 32B tham số kích hoạt / 1T tổng tham số
 - **Ngày 26 tháng 9 năm 2025**: Ra mắt chế độ Agent "OK Computer"
 - **Ngày 27 tháng 1 năm 2026**: Ra mắt Kimi K2.5 — cải thiện kỹ năng Office và khả năng Agent
 - **Tháng 2 năm 2026**: Ra mắt bản beta công khai của Kimi Claw
+- **Ngày 20 tháng 4 năm 2026**: Kimi K2.6 được phát hành và mã nguồn mở — dẫn đầu về lập trình, thực thi dài hơi và Agent Swarm
+- **Ngày 16 tháng 7 năm 2026**: Kimi K3 được phát hành — mô hình mã nguồn mở tầm 3T đầu tiên trên thế giới (2,8T tham số, thị giác gốc, ngữ cảnh 1 triệu token) và là mô hình mạnh mẽ nhất của Kimi, vận hành trò chuyện, Agent và Agent Swarm; có sẵn qua ứng dụng Kimi, kimi.com, Kimi Work, Kimi Code và Kimi API, với trọng số đầy đủ vào ngày 27 tháng 7 năm 2026
 
 ## Khả năng cốt lõi
 | Tính năng | Mô tả |
@@ -30,7 +32,7 @@ Kimi K2.6 Agent là trợ lý AI tự động, xử lý trọn vẹn các tác v
 | **Sheets** | Phân tích và trực quan hóa dữ liệu Excel/CSV |
 | **Slides** | Tạo PPT tự động |
 | **Deep Research** | Báo cáo nghiên cứu hơn 10.000 từ |
-| **K2.6 Agent Swarm** | Tối đa 300 sub-agent hoạt động song song |
+| **Agent Swarm** | Tối đa 300 sub-agent hoạt động song song |
 | **Kimi Claw** | Tự động hóa trên đám mây với hơn 5.000 kỹ năng |
 
 <Frames
@@ -47,7 +49,7 @@ Kimi K2.6 Agent là trợ lý AI tự động, xử lý trọn vẹn các tác v
 
 ## Bắt đầu
 - **Web**: [kimi.com/agent](https://www.kimi.com/agent)
-- **Di động**: Ứng dụng Kimi → Thanh tác vụ → Chế độ Agent
+- **Di động**: mở ứng dụng Kimi và chọn mô hình K3 hoặc K3 Swarm ở nút chuyển mô hình
 Mô tả tác vụ của bạn một cách rõ ràng, theo dõi tiến trình thực thi, sau đó tải xuống hoặc chia sẻ kết quả.
 
 ## Tình huống sử dụng
@@ -73,7 +75,7 @@ Mô tả tác vụ của bạn một cách rõ ràng, theo dõi tiến trình th
       type: "data",
     },
     {
-      title: "K2.6 Agent Swarm",
+      title: "Agent Swarm",
       description: "Cộng tác đa agent",
       pageUrl: "/agent/agent-swarm",
       type: "comment",

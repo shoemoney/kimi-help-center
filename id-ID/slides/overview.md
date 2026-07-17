@@ -14,7 +14,7 @@ preview_content: "Buat presentasi yang rapi dari teks atau dokumen dengan alat S
 
 # Kimi Slides
 
-Kimi Slides adalah alat pembuat presentasi cerdas dari Kimi yang ditenagai oleh model besar K2.6. Alat ini secara otomatis mengoptimalkan tata letak dan desain untuk menghasilkan tampilan visual yang lebih profesional. Cukup masukkan satu kalimat topik, tempel sepotong teks, atau unggah dokumen, lalu Kimi Slides akan memilih pendekatan penceritaan visual yang paling sesuai berdasarkan jenis konten, dan secara otomatis menghasilkan presentasi lengkap dengan struktur yang jelas dan desain profesional dalam hitungan menit.
+Kimi Slides adalah alat pembuat presentasi cerdas dari Kimi yang ditenagai oleh model besar K3. Alat ini secara otomatis mengoptimalkan tata letak dan desain untuk menghasilkan tampilan visual yang lebih profesional. Cukup masukkan satu kalimat topik, tempel sepotong teks, atau unggah dokumen, lalu Kimi Slides akan memilih pendekatan penceritaan visual yang paling sesuai berdasarkan jenis konten, dan secara otomatis menghasilkan presentasi lengkap dengan struktur yang jelas dan desain profesional dalam hitungan menit.
 
 Kimi Slides mendukung input multiformat, termasuk PDF, Word, PPTX, Excel, TXT, dan gambar. Kemampuan replikasi gambar dan template kustomnya juga telah ditingkatkan secara signifikan, mendukung pemulihan gambar referensi sekali klik serta pembuatan berdasarkan template yang Anda unggah, sehingga hasilnya lebih sesuai dengan kebutuhan personal.
 

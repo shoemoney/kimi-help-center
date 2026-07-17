@@ -94,4 +94,4 @@ Agent uses a context length of **256K characters** (approximately 40,000–50,00
 
 **Q: How are Agent credits calculated?**
 
-Agent, PPT, and other membership features share one credit pool. Kimi Code uses a separate credit pool. Each Agent task typically counts as one credit unit. View your current credits and usage at [Membership Credits](https://www.kimi.com/membership-credits).
+Agent, PPT, and other membership features share one credit pool. Kimi Code uses a separate credit pool. Each Agent task typically counts as one credit unit.

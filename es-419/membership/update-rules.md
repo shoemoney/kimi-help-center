@@ -8,27 +8,28 @@ preview: false
 
 <SeoMeta
   title="Reglas de actualización y uso de créditos - Centro de ayuda de Kimi"
-  description="Los beneficios de la membresía de Kimi comparten un único paquete de créditos: la serie Agent, Kimi Code y las demás funciones de la membresía se nutren del mismo paquete de créditos, y los créditos se consumen según el uso real."
+  description="Las funciones de Agent y las demás funciones de la membresía de Kimi comparten un único paquete de créditos; Kimi Code tiene su propio paquete de créditos independiente. Los créditos se consumen según el uso real."
 />
 
 # Reglas de actualización y uso de créditos
 
 <Callout type="info">
-Los beneficios de la membresía de Kimi comparten un único paquete de créditos: la serie Agent, Kimi Code y las demás funciones de la membresía se nutren del mismo paquete de créditos, y los créditos se consumen según el uso real.
+Las funciones de Agent y las demás funciones de la membresía de Kimi comparten un único paquete de créditos; Kimi Code tiene su propio paquete de créditos independiente. Los créditos se consumen según el uso real.
 </Callout>
 
 ## ¿Cómo funciona el paquete de créditos compartido?
-En lugar de tener un paquete de créditos distinto para cada función, tu membresía te ofrece un único paquete de créditos compartido. La serie Agent, Kimi Code y las demás funciones de la membresía se nutren del mismo paquete de créditos, que funciona en todas partes:
+Las funciones de la membresía de Kimi comparten un único paquete de créditos que funciona en todas partes. Las funciones de Agent y las demás funciones de Kimi se nutren de él:
 | Función | Descripción |
 |---------|-------------|
 | **Tareas de Agent** | Sitios web, documentos, presentaciones, hojas de cálculo, deep research |
 | **Kimi Claw** | Tu asistente de IA personal desplegado en la nube |
 | **Otras funciones** | Generación de imágenes y más |
 
-> **Kimi Chat**: Conversaciones con los modelos más recientes (no consume créditos)
+> **K2.6**: Las conversaciones con el modelo K2.6 no consumen créditos
+> **Kimi Code**: Asistente de programación impulsado por IA (paquete de créditos independiente)
 
 <Callout type="tip">
-Esto significa que puedes distribuir los créditos como prefieras dentro del paquete de créditos compartido: dedicar más a investigación un mes y más a documentos al siguiente. Kimi Chat no consume créditos.
+Esto significa que puedes distribuir los créditos como prefieras dentro del paquete de créditos compartido: dedicar más a investigación un mes y más a documentos al siguiente. K2.6 no consume créditos.
 </Callout>
 
 ## ¿Cómo se calculan los créditos?

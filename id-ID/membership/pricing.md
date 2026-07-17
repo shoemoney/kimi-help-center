@@ -19,17 +19,17 @@ Kimi menawarkan lima tingkat keanggotaan — termasuk paket gratis — masing-ma
 
 | Fitur | Adagio (Gratis) | Moderato ($19/bln) | Allegretto ($39/bln) | Allegro ($99/bln) | Vivace ($199/bln) |
 |---------|---------------|-------------------|---------------------|-------------------|-------------------|
-| Kredit Agent* | 6 | 60 | 150 | 360 | 720 |
+| credit Agent* | 6 | 60 | 150 | 360 | 720 |
 | Tugas serentak Agent | 1 | 2 | 2 | 4 | 4 |
 | Prioritas kecepatan Agent | — | 4× | 4× | 4× | 4× |
 | Agent Swarm (beta) | — | 25 penggunaan | 50 penggunaan | 120 penggunaan | 240 penggunaan |
 | Subtugas serentak Agent Swarm | — | 2 | 4 | 4 | 8 |
-| kredit Kimi Code | — | 1× | 5× | 15× | 30× |
+| credit Kimi Code | — | 1× | 5× | 15× | 30× |
 | Kimi Claw | — | — | ✅ | ✅ | ✅ |
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
 | Basis data profesional | 200 panggilan | 2.000 panggilan | 5.000 panggilan | 12.000 panggilan | 24.000 panggilan |
 
-\* Nilai perkiraan berdasarkan konsumsi token tugas pada umumnya. Kredit bulanan dikonversi menjadi jumlah tugas setara untuk fitur yang sama; hanya sebagai referensi.
+\* Nilai perkiraan berdasarkan konsumsi token tugas pada umumnya. Credit bulanan dikonversi menjadi jumlah tugas setara untuk fitur yang sama; hanya sebagai referensi.
 
 ## Harga bulanan vs. tahunan
 
@@ -40,6 +40,6 @@ Kimi menawarkan lima tingkat keanggotaan — termasuk paket gratis — masing-ma
 | Allegro | $99/bln | $79/bln | $948/thn | $240/thn |
 | Vivace | $199/bln | $159/bln | $1.908/thn | $480/thn |
 
-## Alokasi kredit
+## Alokasi credit
 
-Semua paket mencakup satu kumpulan kredit bersama: seri Agent, Kimi Code, dan fitur keanggotaan lainnya semuanya menggunakan kumpulan kredit yang sama. Tingkat yang lebih tinggi mencakup kumpulan kredit yang proporsional lebih besar, sehingga mendukung alur kerja yang lebih sering dan kompleks. Lihat [Aturan Pembaruan & Penggunaan Kredit](/membership/update-rules) untuk detailnya.
+Fitur Agent dan fitur keanggotaan Kimi lainnya berbagi satu kumpulan credit; Kimi Code memiliki kumpulan credit terpisahnya sendiri. Tingkat yang lebih tinggi mencakup kumpulan credit yang proporsional lebih besar, sehingga mendukung alur kerja yang lebih sering dan kompleks. Lihat [Aturan Pembaruan & Penggunaan Credit](/membership/update-rules) untuk detailnya.

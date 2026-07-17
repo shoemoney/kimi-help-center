@@ -42,4 +42,4 @@ Kimi cung cấp năm hạng thành viên — bao gồm cả gói miễn phí —
 
 ## Phân bổ tín dụng
 
-Tất cả các gói đều dùng chung một nhóm tín dụng duy nhất: chuỗi Agent, Kimi Code và các tính năng thành viên khác đều lấy từ cùng một nhóm tín dụng. Hạng càng cao càng có nhóm tín dụng lớn hơn theo tỷ lệ tương ứng, hỗ trợ các quy trình làm việc thường xuyên và phức tạp hơn. Xem [Quy tắc cập nhật và sử dụng tín dụng](/membership/update-rules) để biết chi tiết.
+Các tính năng Agent và các tính năng thành viên Kimi khác dùng chung một nguồn tín dụng; Kimi Code có nguồn tín dụng riêng biệt. Hạng càng cao càng có nguồn tín dụng lớn hơn theo tỷ lệ tương ứng, hỗ trợ các quy trình làm việc thường xuyên và phức tạp hơn. Xem [Quy tắc cập nhật và sử dụng tín dụng](/membership/update-rules) để biết chi tiết.

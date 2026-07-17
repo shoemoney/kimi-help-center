@@ -14,7 +14,7 @@ preview_content: "Tạo bài thuyết trình chỉn chu từ văn bản hoặc t
 
 # Kimi Slides
 
-Kimi Slides là công cụ tạo bài thuyết trình thông minh do Kimi ra mắt, được vận hành bởi mô hình lớn K2.6. Công cụ tự động tối ưu bố cục và thiết kế để mang lại trải nghiệm trực quan chuyên nghiệp hơn. Bạn chỉ cần nhập một chủ đề ngắn gọn, dán một đoạn văn bản hoặc tải lên tài liệu, Kimi Slides sẽ chọn cách kể chuyện trực quan phù hợp nhất với loại nội dung và tự động tạo ra một bài thuyết trình hoàn chỉnh, có cấu trúc rõ ràng cùng thiết kế chuyên nghiệp chỉ trong vài phút.
+Kimi Slides là công cụ tạo bài thuyết trình thông minh do Kimi ra mắt, được vận hành bởi mô hình lớn K3. Công cụ tự động tối ưu bố cục và thiết kế để mang lại trải nghiệm trực quan chuyên nghiệp hơn. Bạn chỉ cần nhập một chủ đề ngắn gọn, dán một đoạn văn bản hoặc tải lên tài liệu, Kimi Slides sẽ chọn cách kể chuyện trực quan phù hợp nhất với loại nội dung và tự động tạo ra một bài thuyết trình hoàn chỉnh, có cấu trúc rõ ràng cùng thiết kế chuyên nghiệp chỉ trong vài phút.
 
 Kimi Slides hỗ trợ nhiều định dạng đầu vào, bao gồm PDF, Word, PPTX, Excel, TXT và hình ảnh. Công cụ cũng cải thiện đáng kể khả năng tái tạo hình ảnh và tùy chỉnh mẫu, cho phép khôi phục ảnh tham chiếu chỉ với một cú nhấp và tạo nội dung dựa trên mẫu do bạn tải lên, giúp kết quả sát hơn với nhu cầu cá nhân.
 

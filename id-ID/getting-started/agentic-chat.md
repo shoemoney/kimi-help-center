@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Memulai dengan Kimi - Pusat Bantuan Kimi"
-  description="Anda dapat mengetik pertanyaan di kotak obrolan, mengunggah berkas, atau beralih antarmodel sesuai kebutuhan."
+  description="Pelajari tiga model Kimi (K2.6, K3, K3 Swarm), alat bawaan, dan kemampuan multimodal untuk memulai obrolan dan eksekusi tugas dengan cepat."
 />
 
 # Memulai dengan Kimi
@@ -26,22 +26,38 @@ Buka [kimi.com](https://www.kimi.com) dan coba kirim pesan — sapa Kimi:
   ]}
 />
 
-## Ditenagai oleh K2.6
-Kimi K2.6 adalah model sumber terbuka yang dibangun di atas K2.5 dengan peningkatan signifikan, berfokus pada coding mutakhir, eksekusi berjangka panjang, dan kemampuan agent swarm. Model ini meraih performa terdepan di berbagai tolok ukur tugas agen, coding, pemahaman gambar, pemahaman video, dan kecerdasan umum. K2.6 juga merupakan model **paling serbaguna** dari Kimi — arsitektur multimodal natifnya mendukung input visual maupun teks, mode thinking dan non-thinking, serta tugas percakapan dan agentik.
-Hasilnya, Kimi tidak hanya unggul dalam percakapan tanya jawab, tetapi juga dalam perencanaan tugas otonom, pemanggilan alat, dan penalaran multilangkah — mendukung pemikiran mendalam dan eksekusi untuk tugas-tugas kompleks.
+## Memilih model
+
+Kimi menyediakan beberapa model. Klik tombol beralih model di atas kotak input untuk berpindah.
+
+| Model | Kekuatan thinking | Paling cocok untuk |
+|-------|-------------------|--------------------|
+| **K2.6** | Standar / Tinggi | Percakapan dan tanya jawab cepat dengan respons lebih gesit |
+| **K3** | Rendah / Tinggi / Maks | Tugas obrolan dan Agent; paling andal secara keseluruhan |
+| **K3 Swarm** | Rendah / Tinggi / Maks | Pencarian skala besar dan pemrosesan batch, dituntaskan sekaligus |
+
+<Callout type="tip">
+K2.6 tidak mengonsumsi credit; K3 dan K3 Swarm ditagih berdasarkan credit. Lihat [manfaat keanggotaan](https://www.kimi.com/help/membership/membership-overview) untuk detailnya.
+</Callout>
+
+### Tentang Kimi K3
+
+Kimi K3 saat ini adalah model paling andal dari Kimi, dengan 2,8 triliun parameter, dibangun di atas Kimi Delta Attention (KDA) dan Attention Residuals, menghadirkan **visi natif** dan **jendela konteks 1 juta token**. Sebagai model kelas 3T terbuka pertama di dunia, K3 dirancang untuk kecerdasan mutakhir di seluruh coding berjangka panjang, pekerjaan berbasis pengetahuan, dan penalaran, mencapai performa terdepan dalam coding, eksekusi berjangka panjang, serta beragam tugas kecerdasan umum.
+
 ### Alat bawaan
+
 Langsung tersedia tanpa perlu konfigurasi:
+
 | Alat | Deskripsi |
 |------|------------|
 | **Web Search** | Pencarian web waktu nyata untuk berita dan informasi terbaru |
 | **Fetch Tool** | Akses langsung ke URL tertentu (halaman web, dokumen, gambar, dan sumber daya daring lainnya) |
-| **Data Source** | Terhubung ke basis data profesional; mencari daftar basis data dan mengambil data |
 | **Image Search** | Pencarian teks-ke-gambar dan gambar-ke-gambar untuk menemukan konten visual dengan cepat |
 | **IPython** | Menjalankan kode Python untuk analisis dan visualisasi data |
 | **Memory** | Memori cerdas yang mencatat preferensi dan kebiasaan pribadi Anda |
 
 ## Kemampuan visual & multimodal
-K2.6 mendukung pemahaman menyeluruh atas gambar, video, dan dokumen perkantoran (PDF/Word/Excel) menggunakan **arsitektur multimodal natif** (bukan OCR yang ditambahkan belakangan). Model ini dapat langsung mengurai isi dokumen dan menjalankan tugas perkantoran tingkat menengah hingga lanjutan (seperti menulis rumus Excel atau membuat kerangka PPT/kode VBA).
+Kimi K3 mendukung pemahaman menyeluruh atas gambar, video, dan dokumen perkantoran (PDF/Word/Excel) menggunakan **arsitektur multimodal natif** (bukan OCR yang ditambahkan belakangan). Model ini dapat langsung mengurai isi dokumen dan menjalankan tugas perkantoran tingkat menengah hingga lanjutan (seperti menulis rumus Excel atau membuat kerangka PPT/kode VBA). Dipadukan dengan visi natif dan jendela konteks 1 juta token, model ini dapat menangani materi multimodal yang lebih panjang dan lebih kompleks.
 ### Dukungan input multimodal
 - **Gambar**: PNG, JPEG, WebP, GIF, dll. (melalui URL, Base64, atau unggahan berkas lokal)
 - **Video**: MP4, dll. (melalui video_url atau urutan bingkai gambar + parameter fps)
@@ -63,10 +79,10 @@ K2.6 mendukung pemahaman menyeluruh atas gambar, video, dan dokumen perkantoran 
 
 ### Catatan penting
 
-<Callout type="warning">
-1. **Keterbatasan pembuatan gambar**: Mode obrolan standar hanya mendukung *pencarian* gambar, bukan *pembuatan* gambar (pembuatan gambar memerlukan mode K2.6 Agent).
-2. **Keterbatasan keluaran berkas**: Hanya konten teks yang didukung sebagai keluaran (mis. kerangka PPT, isi teks Word, kode). Keluaran berkas biner langsung (`.pptx`, `.docx`, `.xlsx`, `.pdf`) tidak didukung.
-3. Untuk pembuatan gambar atau keluaran dokumen kompleks yang dapat diedit, gunakan [K2.6 Agent](https://www.kimi.com/agent) atau alat eksekusi kode.
+1. **Keluaran berkas**: K3 dapat menghasilkan dokumen yang dapat diedit secara end-to-end (seperti `.pptx`, `.docx`, `.xlsx`, `.pdf`) serta hasil kerja kompleks lainnya; K2.6 berfokus pada tanya jawab cepat dan hanya menghasilkan teks (seperti kerangka PPT, isi teks Word, atau kode).
+
+<Callout type="tip">
+Tips: Untuk menghasilkan gambar, audio, atau video, klik "+" → Plugin, pilih fitur yang sesuai, dan gunakan bersama **K3**. Untuk membuat dokumen kompleks yang dapat diedit atau menjalankan tugas multilangkah, kami sarankan memilih **K3** atau **K3 Swarm** demi pengalaman penuh.
 </Callout>
 
 ## Sesi vs. giliran percakapan
@@ -106,7 +122,13 @@ Dalam satu sesi, setiap pertanyaan atau instruksi baru yang Anda kirim dijawab d
 ## Praktik terbaik
 
 <Callout type="tip">
-1. **Mulai sesi baru untuk setiap tugas**: Tugas-tugas independen — menulis esai, riset, debugging — sebaiknya masing-masing memiliki sesi tersendiri agar tidak terjadi gangguan konteks.
-2. **Buat ringkasan berkala dalam sesi panjang**: Setelah 20+ giliran, minta Kimi secara proaktif untuk meringkas informasi penting demi mencegah kehilangan data.
-3. **Bersihkan informasi sensitif dengan segera**: Riwayat obrolan tersimpan; hapus seluruh sesi setelah menangani konten pribadi.
+**Mulai sesi baru untuk setiap tugas**: Tugas-tugas independen — menulis esai, riset, debugging — sebaiknya masing-masing memiliki sesi tersendiri agar tidak terjadi gangguan konteks.
+</Callout>
+
+<Callout type="tip">
+**Buat ringkasan berkala dalam sesi panjang**: Setelah 20+ giliran, minta Kimi secara proaktif untuk meringkas informasi penting demi mencegah kehilangan data.
+</Callout>
+
+<Callout type="tip">
+**Bersihkan informasi sensitif dengan segera**: Riwayat obrolan tersimpan; hapus seluruh sesi setelah menangani konten pribadi.
 </Callout>

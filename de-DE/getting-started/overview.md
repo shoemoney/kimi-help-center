@@ -4,12 +4,12 @@ slug: "overview"
 order: 1
 extract_headings: false
 preview: true
-preview_content: "Entdecken Sie Kimis Chat-Modi, KI-Agenten, Dateiverarbeitung und die Oberfläche für einen gelungenen Einstieg."
+preview_content: "Entdecken Sie Kimis Modelle, KI-Agenten, Dateiverarbeitung und die Oberfläche für einen gelungenen Einstieg."
 ---
 
 <SeoMeta
   title="Kimi im Überblick - Kimi Hilfecenter"
-  description="Entdecken Sie Kimis Chat-Modi, KI-Agenten, Dateiverarbeitung und die Oberfläche für einen gelungenen Einstieg."
+  description="Entdecken Sie Kimis Modelle, KI-Agenten, Dateiverarbeitung und die Oberfläche für einen gelungenen Einstieg."
 />
 
 # Kimi im Überblick
@@ -19,25 +19,27 @@ Kimi ist ein KI-Assistent von Moonshot AI – mit integrierter Websuche, vertief
 </Callout>
 
 Besuchen Sie [Kimi.com](https://www.kimi.com/) oder laden Sie die Kimi-App herunter, um zu chatten, zu erstellen, zu recherchieren und zu entwickeln. Entwickler finden auf der [Kimi Offene Plattform](https://platform.kimi.ai/) APIs und Werkzeuge, um Kimis Fähigkeiten in ihre eigenen Anwendungen zu integrieren.
-## Chat-Modi
-| Modus | Beschreibung |
-|------|-------------|
-| **Web Search (Auto/Aus)** | Stellt eine Internetverbindung für aktuelle Informationen und Web-Suchergebnisse her |
-| **K2.6 Instant** | Schnelle Antworten auf allgemeine Fragen |
-| **K2.6 Thinking** | Vertieftes mehrstufiges Schlussfolgern und Suchen – ideal für Programmierung, Logik oder analytische Aufgaben |
+## Chat und Modelle
+Kimi bietet mehrere Modelle. Klicken Sie auf die Modellauswahl-Schaltfläche über dem Eingabefeld, um zu wechseln.
+| Modell | Denkstärke | Am besten geeignet für |
+|--------|------------|------------------------|
+| **K2.6** | Standard / High | Schnelle Unterhaltungen und Fragen mit zügigen Antworten |
+| **K3** | Low / High / Max | Chat- und Agent-Aufgaben; insgesamt am leistungsfähigsten |
+| **K3 Swarm** | Low / High / Max | Umfangreiche Suchen und Stapelverarbeitung, in einem Durchgang erledigt |
 
 <Callout type="tip">
-Für einfache dokumentenbasierte Fragen und Antworten können Sie sowohl Web Search als auch den Thinking mode deaktivieren.
+Ob eine Online-Suche durchgeführt wird, entscheidet Kimi automatisch anhand Ihrer Frage – ohne manuelles Umschalten.
 </Callout>
 
 ## KI-Agenten
 Kimi ist mehr als ein Chat-Assistent – es ist ein KI-Agent, der Aufgaben eigenständig planen und ausführen kann:
 | Agent | Beschreibung | Link |
 |-------|-------------|------|
-| **K2.6 Agent** | Plant und erledigt Aufgaben automatisch, darunter Website-Generierung, Foliengestaltung, Deep Research sowie die Verarbeitung von Dokumenten und Tabellen | [kimi.com/agent](https://www.kimi.com/agent) |
-| **K2.6 Agent Swarm [Beta]** | Unterstützt bis zu 4.000 parallele Tool-Aufrufe und koordiniert über 300 Subagents für groß angelegte Suchen, das Verfassen langer Texte und die Stapelverarbeitung | [kimi.com/agent-swarm](https://www.kimi.com/agent-swarm) |
+| **General Agent** | Plant und erledigt Aufgaben automatisch, darunter Website-Generierung, Foliengestaltung, Deep Research sowie die Verarbeitung von Dokumenten und Tabellen | [kimi.com/agent](https://www.kimi.com/agent) |
+| **Agent Swarm** | Unterstützt über 4.000 parallele Tool-Aufrufe und koordiniert bis zu 300 Subagents für groß angelegte Suchen, das Verfassen langer Texte und die Stapelverarbeitung | [kimi.com/agent-swarm](https://www.kimi.com/agent-swarm) |
 | **Kimi Code** | Auf Entwickler zugeschnittene Suite für Programmierhilfe, einschließlich CLI-Werkzeug und VS Code-Erweiterung | [kimi.com/code](https://www.kimi.com/code) |
 | **Kimi Claw** | Cloud-Automatisierungsplattform ganz ohne Deployment – starten Sie in unter 30 Sekunden einen dauerhaften KI-Agenten mit über 5.000 integrierten Skills (ClawHub) | [kimi.com/bot](https://www.kimi.com/bot) |
+| **Kimi Work** | Ein universeller lokaler Agent für Wissensarbeiter, aufbauend auf Kimi Code – bietet die Grundfunktionen eines lokalen Agenten (Skills, geplante Aufgaben) plus die Website-Erstellung, PPT-Funktionen und professionellen Datenbanken des Online-Kimi-Agenten | [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work) |
 
 ## Weitere Kernfunktionen
 - **Highlights**: Aufgabenlösung per Foto, Sprachanrufe, Übersetzung, Schreibunterstützung

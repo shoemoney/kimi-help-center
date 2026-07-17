@@ -69,9 +69,9 @@ Jelaskan kebutuhan Anda secara langsung, misalnya, "Buatkan saya laporan XX." At
 </Callout>
 
 ### Cara 2: aplikasi seluler
-Aplikasi Kimi tersedia di iOS dan Android. Ketuk Taskbar → beralih ke mode Docs Agent.
+Aplikasi Kimi tersedia di iOS dan Android. Ketuk Taskbar → beralih ke mode Docs.
 #### Cara 3: mode Agent umum
-Beralih ke mode K2.6 Agent dan masukkan tugas terkait dokumen. Kimi akan memanggil tool untuk membaca dan menulis.
+Pilih model K3 dan masukkan tugas terkait dokumen. Kimi akan memanggil tool untuk membaca dan menulis.
 ## Kimi Sheets
 Kimi Sheets memahami relasi antarsel, logika keterkaitan lintas-lembar, dan menghasilkan file .xlsx langsung di browser.
 ### Kemampuan utama

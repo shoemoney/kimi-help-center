@@ -25,7 +25,7 @@ Arka plan bilgilerini ve kısıtları net biçimde belirtin — proje bağlamı,
 
 **(2) Yürütme sırasında**
 
-Kimi Agent arka planda eşzamansız çalışır. Web sayfası donmuş ya da takılmış gibi görünüyorsa **"Durdur"a basmayın** — bu, görevin yürütülmesini keser. Sayfadan ayrılabilirsiniz; görev arka planda çalışmaya devam eder ve tamamlandığında bir bildirim alırsınız. Uzun sürmesi beklenen görevlerde (ör. K2.6 Agent Swarm [Beta]) lütfen sabırlı olun.
+Kimi Agent arka planda eşzamansız çalışır. Web sayfası donmuş ya da takılmış gibi görünüyorsa **"Durdur"a basmayın** — bu, görevin yürütülmesini keser. Sayfadan ayrılabilirsiniz; görev arka planda çalışmaya devam eder ve tamamlandığında bir bildirim alırsınız. Uzun sürmesi beklenen görevlerde (ör. Agent Swarm) lütfen sabırlı olun.
 
 **(3) Web sitesi senaryoları**
 
@@ -39,10 +39,10 @@ Agent; ön yüz arabirimleri, arka uç hizmetleri ve kalıcı depolama mantığ�
 Birden fazla diyalog ve revizyon turu boyunca Agent, ilk aşamadaki bazı ayrıntıları "unutabilir". En iyisi, önce görev çerçevesini ve ana noktaları oluşturmak, ardından kademeli düzenlemeler yapmaktır.
 
 **(5) Büyük görevlerin parçalara ayrılması**
-Büyük ve karmaşık görevleri 2–3 aşamaya bölerek Kimi'ye partiler hâlinde gönderin ya da K2.6 Agent Swarm [Beta] kullanın.
+Büyük ve karmaşık görevleri 2–3 aşamaya bölerek Kimi'ye partiler hâlinde gönderin ya da Agent Swarm kullanın.
 
 **(6) Dosya çıktısı kısıtlamaları**
-Standart Agent modunda genellikle her görev başına yalnızca tek bir dosya çıktısı alınabilir (ör. bir belge ya da elektronik tablo). Birden fazla dosya için (ör. hem bir Word belgesi hem de bir PPT) K2.6 Agent Swarm [Beta] kullanın.
+Standart Agent modunda genellikle her görev başına yalnızca tek bir dosya çıktısı alınabilir (ör. bir belge ya da elektronik tablo). Birden fazla dosya için (ör. hem bir Word belgesi hem de bir PPT) Agent Swarm kullanın.
 
 **(7) Bağlam sınırları ve çıktı dengesi**
 Büyük dil modellerinin 256K karakterlik bağlam sınırı (yaklaşık 40.000–50.000 Çince karakter / ~100.000 İngilizce sözcük) nedeniyle, büyük hacimli dosyaların işlenmesi giriş ve çıkış hacmi arasında bir denge gerektirir.
@@ -60,7 +60,7 @@ Büyük dil modellerinin 256K karakterlik bağlam sınırı (yaklaşık 40.000�
 - Ücretli kademeler: planınıza bağlı olarak ayda 60–720 Agent görevi
 </Callout>
 
-- **Yürütme süresi**: Agent modunda tek bir görev genellikle 5–20 dakika sürer. K2.6 Agent Swarm [Beta] görevleri daha uzun sürebilir. Sayfadan ayrılabilirsiniz — yalnızca görevi kesmek için Durdur'a basmayın.
+- **Yürütme süresi**: Agent modunda tek bir görev genellikle 5–20 dakika sürer. Agent Swarm görevleri daha uzun sürebilir. Sayfadan ayrılabilirsiniz — yalnızca görevi kesmek için Durdur'a basmayın.
 - **Kredi kullanımı**: Agent görevleri ortak havuzdaki krediyi tüketir. Kimi Code ayrı bir kredi havuzu kullanır. 
 - **Basit görevler**: Basit soru-yanıtlar için daha hızlı yanıt almak adına standart sohbet modu önerilir.
 
@@ -94,4 +94,4 @@ Agent, **256K karakterlik** (yaklaşık 40.000–50.000 Çince karakter / ~100.0
 
 **S: Agent kredisi nasıl hesaplanır?**
 
-Agent, PPT ve diğer üyelik özellikleri tek bir kredi havuzunu paylaşır. Kimi Code ayrı bir kredi havuzu kullanır. Her Agent görevi genellikle bir kredi birimi olarak sayılır. Mevcut kredinizi ve kullanımınızı [Üyelik Kredileri](https://www.kimi.com/membership-credits) sayfasından görüntüleyin.
+Agent, PPT ve diğer üyelik özellikleri tek bir kredi havuzunu paylaşır. Kimi Code ayrı bir kredi havuzu kullanır. Her Agent görevi genellikle bir kredi birimi olarak sayılır.

@@ -33,7 +33,7 @@ Ainda não tem um OpenClaw? Acesse [kimi.com/bot](https://kimi.com/bot) e crie o
 
 </Callout>
 
-- O Kimi provisiona automaticamente o modelo K2.6 Thinking, conecta seus créditos do Kimi Code e ativa o Kimi Web Search — sem necessidade de configuração de API separada.
+- O Kimi provisiona automaticamente o modelo K3, conecta seus créditos do Kimi Code e ativa o Kimi Web Search — sem necessidade de configuração de API separada.
 - O Kimi Claw pode ser implementado diretamente no Telegram e em outras plataformas de chat.
 
 ## Primeiros passos

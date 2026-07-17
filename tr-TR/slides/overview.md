@@ -14,7 +14,7 @@ preview_content: "Kimi'nin yapay zeka destekli Slides aracıyla metinlerden veya
 
 # Kimi Slides
 
-Kimi Slides, Kimi tarafından sunulan ve K2.6 büyük modelinden güç alan akıllı bir sunum oluşturma aracıdır. Düzeni ve tasarımı otomatik olarak optimize ederek daha profesyonel bir görsel sunum sunar. Tek cümlelik bir konu yazmanız, bir metin parçası yapıştırmanız ya da bir belge yüklemeniz yeterlidir; Kimi Slides, içerik türüne göre en uygun görsel anlatım yaklaşımını seçer ve dakikalar içinde net bir yapıya ve profesyonel bir tasarıma sahip eksiksiz bir sunumu otomatik olarak hazırlar.
+Kimi Slides, Kimi tarafından sunulan ve K3 büyük modelinden güç alan akıllı bir sunum oluşturma aracıdır. Düzeni ve tasarımı otomatik olarak optimize ederek daha profesyonel bir görsel sunum sunar. Tek cümlelik bir konu yazmanız, bir metin parçası yapıştırmanız ya da bir belge yüklemeniz yeterlidir; Kimi Slides, içerik türüne göre en uygun görsel anlatım yaklaşımını seçer ve dakikalar içinde net bir yapıya ve profesyonel bir tasarıma sahip eksiksiz bir sunumu otomatik olarak hazırlar.
 
 Kimi Slides; PDF, Word, PPTX, Excel, TXT ve görseller dahil olmak üzere çok biçimli girdileri destekler. Ayrıca görsel çoğaltma ve özel şablon yeteneklerini önemli ölçüde geliştirmiş; referans görsellerin tek tıkla yeniden oluşturulmasını ve kullanıcıların yüklediği şablonlara dayalı tasarımı destekleyerek çıktıların kişisel ihtiyaçlara daha uygun olmasını sağlamıştır.
 

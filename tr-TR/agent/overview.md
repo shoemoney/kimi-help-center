@@ -1,26 +1,28 @@
 ---
-title: "K2.6 Agent genel bakış"
+title: "Kimi Agent genel bakış"
 slug: "agent-overview"
 order: 1
 extract_headings: false
 preview: true
-preview_content: "K2.6 Agent'ın otonom görev yürütme yeteneklerini, 20'den fazla aracını ve desteklenen kullanım senaryolarını keşfedin."
+preview_content: "Kimi Agent'ın otonom görev yürütme yeteneklerini, 20'den fazla aracını ve desteklenen kullanım senaryolarını keşfedin."
 ---
 
 <SeoMeta
-  title="K2.6 Agent Genel Bakış - Kimi Yardım Merkezi"
-  description="Kimi K2.6 Agent'ın yeteneklerini, gelişimini ve kullanım senaryolarını keşfedin."
+  title="Kimi Agent Genel Bakış - Kimi Yardım Merkezi"
+  description="Kimi Agent'ın yeteneklerini, gelişimini ve kullanım senaryolarını keşfedin."
 />
 
-# K2.6 Agent genel bakış
+# Kimi Agent genel bakış
 
-Kimi K2.6 Agent, karmaşık görevleri baştan sona üstlenen otonom bir yapay zeka asistanıdır. K2.6 modelinden güç alan asistan; web siteleri oluşturmak, belge üretmek, veri analiz etmek ve çok daha fazlası için 20'den fazla araçtan yararlanır.
+Kimi Agent, karmaşık görevleri baştan sona üstlenen otonom bir yapay zeka asistanıdır. Kimi K3'ten güç alan asistan; web siteleri oluşturmak, belge üretmek, veri analiz etmek ve çok daha fazlası için 20'den fazla araçtan yararlanır.
 
 ## Ürünün gelişimi
 - **5 Eylül 2025**: Kimi K2 yayımlandı — 32B aktif / 1T toplam parametre
 - **26 Eylül 2025**: "OK Computer" Agent modu kullanıma sunuldu
 - **27 Ocak 2026**: Kimi K2.5 yayımlandı — geliştirilmiş Office becerileri ve Agent yetenekleri
 - **Şubat 2026**: Kimi Claw herkese açık beta sürümü kullanıma sunuldu
+- **20 Nisan 2026**: Kimi K2.6 yayımlandı ve açık kaynak olarak sunuldu — üst düzey kodlama, uzun vadeli görev yürütme ve Agent Swarm
+- **16 Temmuz 2026**: Kimi K3 yayımlandı — dünyanın ilk açık 3T sınıfı modeli (2,8T parametre, yerel görüş, 1M token bağlam) ve Kimi'nin en güçlü modeli; sohbeti, Agent'ı ve Agent Swarm'ı çalıştırır; Kimi App, kimi.com, Kimi Work, Kimi Code ve Kimi API üzerinden kullanılabilir, tam ağırlıklar 27 Temmuz 2026'da sunulacak
 
 ## Temel yetenekler
 | Özellik | Açıklama |
@@ -30,7 +32,7 @@ Kimi K2.6 Agent, karmaşık görevleri baştan sona üstlenen otonom bir yapay z
 | **Tablolar** | Excel/CSV veri analizi ve görselleştirme |
 | **Slaytlar** | Otomatik PPT oluşturma |
 | **Deep Research** | 10.000+ kelimelik araştırma raporları |
-| **K2.6 Agent Swarm** | Paralel çalışan 300'e kadar alt aracı |
+| **Agent Swarm** | Paralel çalışan 300'e kadar alt aracı |
 | **Kimi Claw** | 5.000+ beceriyle bulut otomasyonu |
 
 <Frames
@@ -47,7 +49,7 @@ Kimi K2.6 Agent, karmaşık görevleri baştan sona üstlenen otonom bir yapay z
 
 ## Başlarken
 - **Web**: [kimi.com/agent](https://www.kimi.com/agent)
-- **Mobil**: Kimi uygulaması → Görev çubuğu → Agent modu
+- **Mobil**: Kimi uygulamasını açın ve model değiştirme düğmesinden K3 veya K3 Swarm modelini seçin
 Görevinizi net biçimde anlatın, yürütme sürecini izleyin, ardından sonuçları indirin veya paylaşın.
 
 ## Kullanım senaryoları
@@ -73,7 +75,7 @@ Görevinizi net biçimde anlatın, yürütme sürecini izleyin, ardından sonuç
       type: "data",
     },
     {
-      title: "K2.6 Agent Swarm",
+      title: "Agent Swarm",
       description: "Çoklu aracı iş birliği",
       pageUrl: "/agent/agent-swarm",
       type: "comment",

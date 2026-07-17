@@ -19,25 +19,27 @@ Kimi adalah asisten AI yang dikembangkan oleh Moonshot AI, dilengkapi web search
 </Callout>
 
 Kunjungi [Kimi.com](https://www.kimi.com/) atau unduh aplikasi Kimi untuk mulai mengobrol, berkreasi, meneliti, dan membangun. Para developer dapat menuju [Platform Terbuka Kimi](https://platform.kimi.ai/) untuk mendapatkan API dan perangkat guna mengintegrasikan kemampuan Kimi ke dalam aplikasi mereka sendiri.
-## Mode obrolan
-| Mode | Deskripsi |
-|------|-------------|
-| **Web Search (Otomatis/Nonaktif)** | Terhubung ke internet untuk informasi real-time dan hasil web search |
-| **K2.6 Instant** | Respons cepat untuk pertanyaan umum |
-| **K2.6 Thinking** | Penalaran dan pencarian multi-langkah yang lebih mendalam — ideal untuk pemrograman, logika, atau tugas analitis |
+## Obrolan dan model
+Kimi menyediakan beberapa model. Klik tombol beralih model di atas kotak input untuk berpindah.
+| Model | Kekuatan thinking | Paling cocok untuk |
+|-------|-------------------|--------------------|
+| **K2.6** | Standar / Tinggi | Percakapan dan tanya jawab cepat dengan respons lebih gesit |
+| **K3** | Rendah / Tinggi / Maks | Tugas obrolan dan Agent; paling andal secara keseluruhan |
+| **K3 Swarm** | Rendah / Tinggi / Maks | Pencarian skala besar dan pemrosesan batch, dituntaskan sekaligus |
 
 <Callout type="tip">
-Untuk tanya jawab sederhana berbasis dokumen, Anda dapat menonaktifkan web search dan Thinking mode sekaligus.
+Perlu tidaknya mencari secara daring ditentukan Kimi secara otomatis berdasarkan pertanyaan Anda — tanpa perlu sakelar manual.
 </Callout>
 
 ## Agen AI
 Kimi bukan sekadar asisten obrolan — ia adalah agen AI yang mampu merencanakan dan menjalankan tugas secara mandiri:
 | Agen | Deskripsi | Tautan |
 |-------|-------------|------|
-| **K2.6 Agent** | Merencanakan dan menyelesaikan tugas secara otomatis, termasuk pembuatan situs web, penyusunan slide, Deep Research, serta pemrosesan dokumen dan spreadsheet | [kimi.com/agent](https://www.kimi.com/agent) |
-| **K2.6 Agent Swarm [Beta]** | Mendukung hingga 4.000 panggilan alat paralel, mengoordinasikan 300+ sub-agen untuk pencarian skala besar, penulisan panjang, dan pemrosesan batch | [kimi.com/agent-swarm](https://www.kimi.com/agent-swarm) |
+| **General Agent** | Merencanakan dan menyelesaikan tugas secara otomatis, termasuk pembuatan situs web, penyusunan slide, Deep Research, serta pemrosesan dokumen dan spreadsheet | [kimi.com/agent](https://www.kimi.com/agent) |
+| **Agent Swarm** | Mendukung lebih dari 4.000 panggilan alat paralel, mengoordinasikan hingga 300 sub-agen untuk pencarian skala besar, penulisan panjang, dan pemrosesan batch | [kimi.com/agent-swarm](https://www.kimi.com/agent-swarm) |
 | **Kimi Code** | Rangkaian asisten pemrograman yang berfokus pada developer, termasuk perangkat CLI dan ekstensi VS Code | [kimi.com/code](https://www.kimi.com/code) |
 | **Kimi Claw** | Platform otomatisasi cloud tanpa deployment — luncurkan agen AI persisten dalam kurang dari 30 detik dengan 5.000+ skill bawaan (ClawHub) | [kimi.com/bot](https://www.kimi.com/bot) |
+| **Kimi Work** | Agent lokal serbaguna untuk pekerja pengetahuan, dibangun di atas Kimi Code, menyediakan dasar Agent lokal (skill, tugas terjadwal) plus pembuatan situs web, PPT, dan basis data profesional dari Kimi Agent daring | [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work) |
 
 ## Fitur inti lainnya
 - **Sorotan**: Penyelesaian soal lewat foto, panggilan suara, terjemahan, bantuan menulis

@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Bắt đầu với Kimi - Trung tâm trợ giúp Kimi"
-  description="Bạn có thể nhập câu hỏi vào ô trò chuyện, tải tệp lên, hoặc chuyển đổi giữa các mô hình tùy theo nhu cầu."
+  description="Tìm hiểu ba mô hình của Kimi (K2.6, K3, K3 Swarm), các công cụ tích hợp sẵn và năng lực đa phương thức để nhanh chóng bắt đầu trò chuyện và thực thi tác vụ."
 />
 
 # Bắt đầu với Kimi
@@ -26,22 +26,38 @@ Hãy mở [kimi.com](https://www.kimi.com) và thử gửi một tin nhắn — 
   ]}
 />
 
-## Được hỗ trợ bởi K2.6
-Kimi K2.6 là một mô hình mã nguồn mở được xây dựng dựa trên K2.5 với những nâng cấp đáng kể, tập trung vào khả năng lập trình hàng đầu, thực thi tác vụ dài hơi và các năng lực agent swarm. Mô hình này đạt hiệu suất hàng đầu trong các tác vụ agent, lập trình, hiểu hình ảnh, hiểu video và các bài kiểm tra trí tuệ tổng quát. K2.6 cũng là mô hình **đa năng nhất** của Kimi — kiến trúc đa phương thức gốc của nó hỗ trợ cả đầu vào hình ảnh lẫn văn bản, chế độ thinking và non-thinking, cũng như các tác vụ hội thoại và agent.
-Nhờ đó, Kimi không chỉ xuất sắc trong các cuộc hội thoại hỏi-đáp mà còn ở việc tự lập kế hoạch tác vụ, gọi công cụ và suy luận nhiều bước — hỗ trợ tư duy sâu và thực thi cho các tác vụ phức tạp.
+## Chọn mô hình
+
+Kimi cung cấp nhiều mô hình. Nhấp vào nút chuyển mô hình phía trên ô nhập liệu để chuyển đổi.
+
+| Mô hình | Cường độ tư duy | Phù hợp nhất cho |
+|-------|-------------------|----------|
+| **K2.6** | Tiêu chuẩn / Cao | Trò chuyện và hỏi-đáp nhanh với phản hồi mau lẹ |
+| **K3** | Thấp / Cao / Tối đa | Các tác vụ trò chuyện và Agent; mạnh mẽ nhất về tổng thể |
+| **K3 Swarm** | Thấp / Cao / Tối đa | Tìm kiếm quy mô lớn và xử lý hàng loạt, hoàn thành trong một lần |
+
+<Callout type="tip">
+K2.6 không tiêu hao tín dụng; K3 và K3 Swarm được tính phí theo tín dụng. Xem [quyền lợi thành viên](https://www.kimi.com/help/membership/membership-overview) để biết chi tiết.
+</Callout>
+
+### Giới thiệu về Kimi K3
+
+Kimi K3 hiện là mô hình mạnh mẽ nhất của Kimi, với 2,8 nghìn tỷ tham số, được xây dựng trên Kimi Delta Attention (KDA) và Attention Residuals, sở hữu **thị giác gốc** cùng **cửa sổ ngữ cảnh 1 triệu token**. Là mô hình mã nguồn mở tầm 3T đầu tiên trên thế giới, K3 được thiết kế cho trí tuệ tiên phong trải rộng trên lập trình dài hơi, công việc tri thức và suy luận, đạt hiệu suất hàng đầu về lập trình, thực thi dài hơi và nhiều tác vụ trí tuệ tổng quát.
+
 ### Công cụ tích hợp sẵn
+
 Sẵn sàng sử dụng ngay, không cần cấu hình:
+
 | Công cụ | Mô tả |
 |------|------------|
 | **Web Search** | Tìm kiếm web theo thời gian thực để cập nhật tin tức và thông tin mới nhất |
 | **Fetch Tool** | Truy cập trực tiếp các URL cụ thể (trang web, tài liệu, hình ảnh và các tài nguyên trực tuyến khác) |
-| **Data Source** | Kết nối với các cơ sở dữ liệu chuyên nghiệp; truy vấn danh sách cơ sở dữ liệu và lấy dữ liệu |
 | **Image Search** | Tìm kiếm văn bản-sang-hình ảnh và hình ảnh-sang-hình ảnh để nhanh chóng khám phá nội dung trực quan |
 | **IPython** | Thực thi mã Python để phân tích và trực quan hóa dữ liệu |
 | **Memory** | Bộ nhớ thông minh ghi lại sở thích và thói quen cá nhân của bạn |
 
 ## Năng lực thị giác & đa phương thức
-K2.6 hỗ trợ hiểu toàn cảnh hình ảnh, video và tài liệu văn phòng (PDF/Word/Excel), sử dụng **kiến trúc đa phương thức gốc** (chứ không phải OCR gắn thêm). Nó có thể trực tiếp phân tích nội dung tài liệu và thực hiện các tác vụ văn phòng từ trung cấp đến nâng cao (chẳng hạn viết công thức Excel hoặc tạo dàn ý PPT/mã VBA).
+Kimi K3 hỗ trợ hiểu toàn cảnh hình ảnh, video và tài liệu văn phòng (PDF/Word/Excel), sử dụng **kiến trúc đa phương thức gốc** (chứ không phải OCR gắn thêm). Nó có thể trực tiếp phân tích nội dung tài liệu và thực hiện các tác vụ văn phòng từ trung cấp đến nâng cao (chẳng hạn viết công thức Excel hoặc tạo dàn ý PPT/mã VBA). Kết hợp với thị giác gốc và cửa sổ ngữ cảnh 1 triệu token, nó có thể xử lý các tài liệu đa phương thức dài hơn và phức tạp hơn.
 ### Hỗ trợ đầu vào đa phương thức
 - **Hình ảnh**: PNG, JPEG, WebP, GIF, v.v. (qua URL, Base64, hoặc tải tệp cục bộ lên)
 - **Video**: MP4, v.v. (qua video_url hoặc chuỗi khung hình ảnh + tham số fps)
@@ -63,10 +79,10 @@ K2.6 hỗ trợ hiểu toàn cảnh hình ảnh, video và tài liệu văn phò
 
 ### Lưu ý quan trọng
 
-<Callout type="warning">
-1. **Giới hạn về tạo hình ảnh**: Chế độ trò chuyện tiêu chuẩn chỉ hỗ trợ *tìm kiếm* hình ảnh, không hỗ trợ *tạo* hình ảnh (việc tạo hình ảnh cần đến chế độ K2.6 Agent).
-2. **Giới hạn về đầu ra tệp**: Chỉ hỗ trợ nội dung văn bản làm đầu ra (ví dụ: dàn ý PPT, phần thân Word, mã). Không hỗ trợ xuất trực tiếp tệp nhị phân (`.pptx`, `.docx`, `.xlsx`, `.pdf`).
-3. Để tạo hình ảnh hoặc xuất các tài liệu phức tạp có thể chỉnh sửa, hãy dùng [K2.6 Agent](https://www.kimi.com/agent) hoặc công cụ thực thi mã.
+1. **Đầu ra tệp**: K3 có thể tạo ra các tài liệu có thể chỉnh sửa một cách đầu cuối (chẳng hạn `.pptx`, `.docx`, `.xlsx`, `.pdf`) cùng các sản phẩm bàn giao phức tạp khác; K2.6 tập trung vào hỏi-đáp nhanh và chỉ xuất văn bản (chẳng hạn dàn ý PPT, phần thân Word hoặc mã).
+
+<Callout type="tip">
+Mẹo: Để tạo hình ảnh, âm thanh hoặc video, hãy nhấp "+" → Plugin, chọn tính năng tương ứng và dùng cùng **K3**. Để tạo các tài liệu phức tạp có thể chỉnh sửa hoặc chạy các tác vụ nhiều bước, chúng tôi khuyến nghị chọn **K3** hoặc **K3 Swarm** để có trải nghiệm trọn vẹn.
 </Callout>
 
 ## Phiên làm việc và lượt hội thoại
@@ -106,7 +122,13 @@ Trong cùng một phiên làm việc, mỗi câu hỏi hoặc chỉ thị mới 
 ## Thực hành tốt nhất
 
 <Callout type="tip">
-1. **Mở phiên mới cho mỗi tác vụ**: Các tác vụ độc lập — viết bài luận, nghiên cứu, gỡ lỗi — nên có phiên riêng để tránh nhiễu ngữ cảnh.
-2. **Tóm tắt định kỳ trong các phiên dài**: Sau hơn 20 lượt, hãy chủ động đề nghị Kimi tóm tắt các thông tin then chốt để tránh mất dữ liệu.
-3. **Dọn dẹp thông tin nhạy cảm kịp thời**: Lịch sử trò chuyện được lưu giữ; hãy xóa toàn bộ phiên sau khi xử lý nội dung riêng tư.
+**Mở phiên mới cho mỗi tác vụ**: Các tác vụ độc lập — viết bài luận, nghiên cứu, gỡ lỗi — nên có phiên riêng để tránh nhiễu ngữ cảnh.
+</Callout>
+
+<Callout type="tip">
+**Tóm tắt định kỳ trong các phiên dài**: Sau hơn 20 lượt, hãy chủ động đề nghị Kimi tóm tắt các thông tin then chốt để tránh mất dữ liệu.
+</Callout>
+
+<Callout type="tip">
+**Dọn dẹp thông tin nhạy cảm kịp thời**: Lịch sử trò chuyện được lưu giữ; hãy xóa toàn bộ phiên sau khi xử lý nội dung riêng tư.
 </Callout>

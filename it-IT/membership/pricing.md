@@ -42,4 +42,4 @@ Kimi offre cinque livelli di abbonamento — incluso un piano gratuito — ciasc
 
 ## Assegnazione dei crediti
 
-Tutti i piani includono un unico pool di crediti condiviso: la serie Agent, Kimi Code e le altre funzionalità dell'abbonamento attingono tutte allo stesso pool. I livelli superiori includono un pool di crediti proporzionalmente più ampio, a supporto di flussi di lavoro più frequenti e complessi. Per maggiori dettagli, consulta [Aggiornamento dei crediti e regole di utilizzo](/membership/update-rules).
+Le funzionalità Agent e le altre funzionalità dell'abbonamento Kimi condividono un unico pool di crediti; Kimi Code dispone di un proprio pool di crediti separato. I livelli superiori includono un pool di crediti proporzionalmente più ampio, a supporto di flussi di lavoro più frequenti e complessi. Per maggiori dettagli, consulta [Aggiornamento dei crediti e regole di utilizzo](/membership/update-rules).

@@ -8,27 +8,28 @@ preview: false
 
 <SeoMeta
   title="Regras de atualização e uso de créditos - Central de Ajuda Kimi"
-  description="Os benefícios da assinatura Kimi compartilham um único pool de créditos. A série Agent, o Kimi Code e os demais recursos da assinatura utilizam o mesmo pool de créditos, consumido conforme o uso real."
+  description="Os recursos do Agent e os demais recursos da assinatura do Kimi compartilham um único pool de créditos; o Kimi Code tem seu próprio pool de créditos separado. Os créditos são consumidos conforme o uso real."
 />
 
 # Regras de atualização e uso de créditos
 
 <Callout type="info">
-Os benefícios da assinatura Kimi compartilham um único pool de créditos. A série Agent, o Kimi Code e os demais recursos da assinatura utilizam o mesmo pool de créditos, consumido conforme o uso real.
+Os recursos do Agent e os demais recursos da assinatura do Kimi compartilham um único pool de créditos; o Kimi Code tem seu próprio pool de créditos separado. Os créditos são consumidos conforme o uso real.
 </Callout>
 
 ## Como funciona o pool de créditos compartilhado?
-Em vez de quotas separadas para cada recurso, sua assinatura oferece um único pool de créditos compartilhado. A série Agent, o Kimi Code e os demais recursos da assinatura utilizam o mesmo pool de créditos, que funciona em todos os lugares:
+Os recursos da assinatura do Kimi compartilham um único pool de créditos que funciona em todos os lugares. Os recursos do Agent e os demais recursos do Kimi utilizam esse pool:
 | Recurso | Descrição |
 |---------|-------------|
 | **Tarefas de agente** | Sites, documentos, slides, planilhas, pesquisa aprofundada |
 | **Kimi Claw** | Seu assistente de IA pessoal implantado na nuvem |
 | **Outros recursos** | Geração de imagens e muito mais |
 
-> **Kimi Chat**: conversas com os modelos mais recentes (sem consumo de créditos)
+> **K2.6**: conversas com o modelo K2.6 não consomem créditos
+> **Kimi Code**: assistente de programação com IA (pool de créditos separado)
 
 <Callout type="tip">
-Isso significa que você pode distribuir os créditos como quiser dentro do pool compartilhado — gastar mais em pesquisa em um mês e mais em documentos no seguinte. O Kimi Chat não consome créditos.
+Isso significa que você pode distribuir os créditos como quiser dentro do pool compartilhado — gastar mais em pesquisa em um mês e mais em documentos no seguinte. O K2.6 não consome créditos.
 </Callout>
 
 ## Como os créditos são calculados?

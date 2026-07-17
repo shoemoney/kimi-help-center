@@ -42,4 +42,4 @@ Kimi bietet fünf Mitgliedschaftsstufen – einschließlich eines kostenlosen Ta
 
 ## Credit-Verteilung
 
-Alle Tarife umfassen einen einzigen gemeinsamen Credit-Pool: Die Agent-Serie, Kimi Code und die übrigen Mitgliedschaftsfunktionen teilen sich denselben Kontingent-Pool. Höhere Stufen enthalten einen entsprechend größeren Credit-Pool und unterstützen häufigere und komplexere Workflows. Einzelheiten finden Sie unter [Credit Update & Usage Rules](/membership/update-rules).
+Agent-Funktionen und weitere Kimi-Mitgliedschaftsfunktionen teilen sich einen einzigen Credit-Pool; Kimi Code verfügt über einen eigenen, separaten Credit-Pool. Höhere Stufen enthalten einen entsprechend größeren Credit-Pool und unterstützen häufigere und komplexere Workflows. Einzelheiten finden Sie unter [Credit Update & Usage Rules](/membership/update-rules).

@@ -14,7 +14,7 @@ preview_content: "Confronta i cinque livelli di abbonamento di Kimi, il sistema 
 
 # Panoramica dei piani di abbonamento
 
-Kimi propone cinque livelli di abbonamento — incluso un piano gratuito — pensati per crescere insieme alle tue esigenze, dalla produttività quotidiana ai flussi di lavoro più avanzati. Tutti i piani includono **un unico pool di crediti condiviso**: la serie Agent, Kimi Code e le altre funzionalità dell'abbonamento attingono tutte allo stesso pool, conteggiato in base all'utilizzo dei token.
+Kimi propone cinque livelli di abbonamento — incluso un piano gratuito — pensati per crescere insieme alle tue esigenze, dalla produttività quotidiana ai flussi di lavoro più avanzati. Le funzionalità Agent e le altre funzionalità dell'abbonamento Kimi condividono un unico pool di crediti; Kimi Code dispone di un proprio pool di crediti separato. K2.6 non consuma crediti.
 
 ## Confronto tra i piani
 
@@ -38,7 +38,7 @@ Utilizza tutto il limite di crediti per la stessa funzionalità
 
 ## Come funziona la fatturazione
 
-- **Un unico pool di crediti condiviso** — la serie Agent, Kimi Code e le altre funzionalità dell'abbonamento attingono tutte allo stesso pool, conteggiato in base all'utilizzo dei token.
+- **Pool di crediti** — le funzionalità Agent e le altre funzionalità dell'abbonamento Kimi condividono un unico pool di crediti; Kimi Code dispone di un proprio pool di crediti separato, conteggiato in base all'utilizzo dei token.
 - **Rinnovo mensile** — I crediti si azzerano all'inizio di ogni ciclo di fatturazione.
 
 ## Risparmia con la fatturazione annuale

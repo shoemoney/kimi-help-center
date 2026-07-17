@@ -1,26 +1,28 @@
 ---
-title: "K2.6 Agent 概览"
+title: "Kimi Agent 概览"
 slug: "agent-overview"
 order: 1
 extract_headings: false
 preview: true
-preview_content: "了解 K2.6 Agent 的自主任务执行能力、20 多种工具以及支持的使用场景。"
+preview_content: "了解 Kimi Agent 的自主任务执行能力、20 多种工具以及支持的使用场景。"
 ---
 
 <SeoMeta
-  title="K2.6 Agent 概览 - Kimi 帮助中心"
-  description="了解 Kimi K2.6 Agent 的能力、演进历程和使用场景。"
+  title="Kimi Agent 概览 - Kimi 帮助中心"
+  description="了解 Kimi Agent 的能力、演进历程和使用场景。"
 />
 
-# K2.6 Agent 概览
+# Kimi Agent 概览
 
-Kimi K2.6 Agent 是一款可端到端处理复杂任务的自主 AI 助手。它由 K2.6 模型驱动，可调用 20 多种工具来构建网站、生成文档、分析数据等。
+Kimi Agent 是一款可端到端处理复杂任务的自主 AI 助手。它由 Kimi K3 驱动，可调用 20 多种工具来构建网站、生成文档、分析数据等。
 
 ## 产品演进
 - **2025 年 9 月 5 日**：Kimi K2 发布 — 32B 激活参数 / 1T 总参数
 - **2025 年 9 月 26 日**："OK Computer" Agent 模式上线
 - **2026 年 1 月 27 日**：Kimi K2.5 发布 — Office 技能与 Agent 能力进一步增强
 - **2026 年 2 月**：Kimi Claw 公开测试版上线
+- **2026 年 4 月 20 日**：Kimi K2.6 发布并开源 — 领先的代码能力、长程任务执行与 Agent Swarm
+- **2026 年 7 月 16 日**：Kimi K3 发布 — 全球首个开源的 3T 级模型（2.8T 参数、原生视觉、100 万 token 上下文），也是 Kimi 最强大的模型，为对话、Agent 和 Agent Swarm 提供支持；可通过 Kimi 应用、kimi.com、Kimi Work、Kimi Code 和 Kimi API 使用，完整权重将于 2026 年 7 月 27 日开放
 
 ## 核心能力
 | 功能 | 说明 |
@@ -30,7 +32,7 @@ Kimi K2.6 Agent 是一款可端到端处理复杂任务的自主 AI 助手。它
 | **表格** | Excel/CSV 数据分析与可视化 |
 | **幻灯片** | 自动生成 PPT |
 | **Deep Research** | 生成 10,000 字以上的研究报告 |
-| **K2.6 Agent Swarm** | 最多 300 个子 Agent 并行工作 |
+| **Agent Swarm** | 最多 300 个子 Agent 并行工作 |
 | **Kimi Claw** | 拥有 5,000 多项技能的云端自动化能力 |
 
 <Frames
@@ -47,7 +49,7 @@ Kimi K2.6 Agent 是一款可端到端处理复杂任务的自主 AI 助手。它
 
 ## 开始使用
 - **Web**：[kimi.com/agent](https://www.kimi.com/agent)
-- **移动端**：Kimi 应用 → 任务栏 → Agent 模式
+- **移动端**：打开 Kimi 应用，在模型切换按钮中选择 K3 或 K3 Swarm 模型
 清晰描述你的任务，查看执行进度，然后下载或分享结果。
 
 ## 使用场景
@@ -73,7 +75,7 @@ Kimi K2.6 Agent 是一款可端到端处理复杂任务的自主 AI 助手。它
       type: "data",
     },
     {
-      title: "K2.6 Agent Swarm",
+      title: "Agent Swarm",
       description: "多 Agent 协作",
       pageUrl: "/agent/agent-swarm",
       type: "comment",

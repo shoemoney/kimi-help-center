@@ -8,27 +8,28 @@ preview: false
 
 <SeoMeta
   title="Crédits : mise à jour et règles d'utilisation - Centre d'aide Kimi"
-  description="L'abonnement Kimi inclut une réserve de crédits unique. La série Agent, Kimi Code et les autres fonctionnalités de l'abonnement partagent une même réserve de crédits, consommés selon l'usage réel."
+  description="La série Agent et les autres fonctionnalités d'abonnement Kimi partagent une réserve de crédits unique ; Kimi Code dispose de sa propre réserve de crédits distincte. Les crédits sont consommés selon l'usage réel."
 />
 
 # Crédits : mise à jour et règles d'utilisation
 
 <Callout type="info">
-L'abonnement Kimi inclut une réserve de crédits unique. La série Agent, Kimi Code et les autres fonctionnalités de l'abonnement partagent une même réserve de crédits, consommés selon l'usage réel.
+La série Agent et les autres fonctionnalités d'abonnement Kimi partagent une réserve de crédits unique ; Kimi Code dispose de sa propre réserve de crédits distincte. Les crédits sont consommés selon l'usage réel.
 </Callout>
 
 ## Comment fonctionne la réserve de crédits partagée ?
-Plutôt que d'attribuer des crédits distincts à chaque fonctionnalité, votre abonnement vous donne accès à une réserve de crédits unique. La série Agent, Kimi Code et les autres fonctionnalités de l'abonnement partagent une même réserve, utilisable partout :
+Les fonctionnalités de l'abonnement Kimi partagent une réserve de crédits unique, utilisable partout. La série Agent et les autres fonctionnalités de Kimi y puisent toutes :
 | Fonctionnalité | Description |
 |---------|-------------|
 | **Tâches d'agent** | Sites web, documents, présentations, feuilles de calcul, recherche approfondie |
 | **Kimi Claw** | Votre assistant IA personnel déployé dans le cloud |
 | **Autres fonctionnalités** | Génération d'images et bien plus |
 
-> **Kimi Chat** : conversations avec les modèles les plus récents (sans consommation de crédits)
+> **K2.6** : les conversations avec le modèle K2.6 ne consomment aucun crédit
+> **Kimi Code** : assistant de codage propulsé par l'IA (réserve de crédits distincte)
 
 <Callout type="tip">
-Vous pouvez ainsi répartir vos crédits comme bon vous semble au sein de la réserve partagée — privilégier la recherche un mois, les documents le mois suivant. Kimi Chat ne consomme aucun crédit.
+Vous pouvez ainsi répartir vos crédits comme bon vous semble au sein de la réserve partagée — privilégier la recherche un mois, les documents le mois suivant. K2.6 ne consomme aucun crédit.
 </Callout>
 
 ## Comment les crédits sont-ils calculés ?

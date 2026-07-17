@@ -25,7 +25,7 @@ Indiquez clairement le contexte et les contraintes — contexte du projet, cas d
 
 **(2) Pendant l'exécution**
 
-Kimi Agent s'exécute de manière asynchrone en arrière-plan. Si la page web semble figée ou bloquée, **ne cliquez pas sur « Arrêter »** — cela interromprait l'exécution de la tâche. Vous pouvez quitter la page ; la tâche continuera de s'exécuter en arrière-plan et vous recevrez une notification dès qu'elle sera terminée. Pour les tâches dont la durée est susceptible d'être longue (par exemple K2.6 Agent Swarm [Beta]), faites preuve de patience.
+Kimi Agent s'exécute de manière asynchrone en arrière-plan. Si la page web semble figée ou bloquée, **ne cliquez pas sur « Arrêter »** — cela interromprait l'exécution de la tâche. Vous pouvez quitter la page ; la tâche continuera de s'exécuter en arrière-plan et vous recevrez une notification dès qu'elle sera terminée. Pour les tâches dont la durée est susceptible d'être longue (par exemple Agent Swarm), faites preuve de patience.
 
 **(3) Scénarios de sites web**
 
@@ -39,10 +39,10 @@ L'Agent peut générer du contenu full-stack, incluant les interfaces frontend, 
 Au fil de plusieurs échanges et révisions, l'Agent peut « oublier » certains détails évoqués au début. Il est préférable d'établir d'abord le cadre de la tâche et les points clés, puis d'apporter des ajustements progressifs.
 
 **(5) Décomposition des grandes tâches**
-Pour les tâches volumineuses et complexes, divisez-les en 2 à 3 phases et soumettez-les à Kimi par lots, ou utilisez K2.6 Agent Swarm [Beta].
+Pour les tâches volumineuses et complexes, divisez-les en 2 à 3 phases et soumettez-les à Kimi par lots, ou utilisez Agent Swarm.
 
 **(6) Limites de production de fichiers**
-En mode Agent standard, un seul fichier peut généralement être produit par tâche (par exemple, un document ou une feuille de calcul). Pour produire plusieurs fichiers (par exemple, à la fois un document Word et un PPT), utilisez K2.6 Agent Swarm [Beta].
+En mode Agent standard, un seul fichier peut généralement être produit par tâche (par exemple, un document ou une feuille de calcul). Pour produire plusieurs fichiers (par exemple, à la fois un document Word et un PPT), utilisez Agent Swarm.
 
 **(7) Limites de contexte et équilibre de la production**
 En raison de la limite de contexte de 256 K caractères des grands modèles de langage (environ 40 000 à 50 000 caractères chinois / ~100 000 mots anglais), le traitement de gros volumes de fichiers exige d'équilibrer le volume d'entrée et de sortie.
@@ -60,7 +60,7 @@ En raison de la limite de contexte de 256 K caractères des grands modèles de l
 - Niveaux payants : de 60 à 720 tâches Agent/mois selon votre formule
 </Callout>
 
-- **Durée d'exécution** : en mode Agent, une tâche unique prend généralement de 5 à 20 minutes. Les tâches K2.6 Agent Swarm [Beta] peuvent durer plus longtemps. Vous pouvez quitter la page — il suffit de ne pas cliquer sur Arrêter pour ne pas interrompre la tâche.
+- **Durée d'exécution** : en mode Agent, une tâche unique prend généralement de 5 à 20 minutes. Les tâches Agent Swarm peuvent durer plus longtemps. Vous pouvez quitter la page — il suffit de ne pas cliquer sur Arrêter pour ne pas interrompre la tâche.
 - **Consommation de crédits** : les tâches de l'Agent puisent dans le pool de crédits partagé. Kimi Code utilise un pool de crédits distinct.
 - **Tâches simples** : pour les questions-réponses simples, le mode de discussion standard est recommandé pour des réponses plus rapides.
 
@@ -94,4 +94,4 @@ L'Agent utilise une longueur de contexte de **256 K caractères** (environ 40 00
 
 **Q : Comment les crédits de l'Agent sont-ils calculés ?**
 
-L'Agent, les PPT et les autres fonctionnalités de l'abonnement partagent un même pool de crédits. Kimi Code utilise un pool de crédits distinct. Chaque tâche de l'Agent compte généralement pour une unité de crédits. Consultez vos crédits et votre consommation actuels sur [Crédits d'abonnement](https://www.kimi.com/membership-credits).
+L'Agent, les PPT et les autres fonctionnalités de l'abonnement partagent un même pool de crédits. Kimi Code utilise un pool de crédits distinct. Chaque tâche de l'Agent compte généralement pour une unité de crédits.

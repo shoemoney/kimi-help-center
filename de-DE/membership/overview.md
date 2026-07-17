@@ -14,7 +14,7 @@ preview_content: "Vergleichen Sie Kimis fünf Mitgliedschaftsstufen, das credit-
 
 # Übersicht der Mitgliedschaftspläne
 
-Kimi bietet fünf Mitgliedschaftsstufen – darunter einen kostenlosen Plan –, die mit Ihren Anforderungen mitwachsen: vom alltäglichen Arbeiten bis hin zu Workflows für Power-User. Alle Pläne umfassen **einen einzigen gemeinsamen credit-Pool**: Die Agent-Serie, Kimi Code und die übrigen Mitgliedschaftsfunktionen teilen sich denselben Credits-Pool, abgerechnet nach token-Verbrauch.
+Kimi bietet fünf Mitgliedschaftsstufen – darunter einen kostenlosen Plan –, die mit Ihren Anforderungen mitwachsen: vom alltäglichen Arbeiten bis hin zu Workflows für Power-User. Agent-Funktionen und weitere Kimi-Mitgliedschaftsfunktionen teilen sich einen einzigen credit-Pool; Kimi Code verfügt über einen eigenen, separaten credit-Pool. K2.6 verbraucht keine credits.
 
 ## Plan-Vergleich
 
@@ -38,7 +38,7 @@ Nutzen Sie das gesamte credit-Limit für dieselbe Funktion
 
 ## So funktioniert die Abrechnung
 
-- **Ein gemeinsamer credit-Pool** – Die Agent-Serie, Kimi Code und die übrigen Mitgliedschaftsfunktionen teilen sich einen einzigen Credits-Pool, abgerechnet nach token-Verbrauch.
+- **credit-Pool** – Agent-Funktionen und weitere Kimi-Mitgliedschaftsfunktionen teilen sich einen credit-Pool; Kimi Code verfügt über einen eigenen, separaten credit-Pool, abgerechnet nach token-Verbrauch.
 - **Monatliche Erneuerung** – Die credits werden zu Beginn jedes Abrechnungszeitraums zurückgesetzt.
 
 ## Mit jährlicher Abrechnung sparen

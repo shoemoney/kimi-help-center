@@ -15,7 +15,7 @@ preview_content: "Crea e pubblica siti web a partire da descrizioni in linguaggi
 # Kimi Websites
 
 <Callout type="info">
-**Kimi Websites** è una funzionalità di Kimi Agent basata sul nuovo modello AI multimodale e visivo Kimi K2.6. La sua capacità principale è il **Vibe Coding**: genera siti web a partire dal linguaggio naturale e li pubblica online.
+**Kimi Websites** è una funzionalità di Kimi Agent basata sul nuovo modello AI multimodale e visivo Kimi K3. La sua capacità principale è il **Vibe Coding**: genera siti web a partire dal linguaggio naturale e li pubblica online.
 </Callout>
 
 Comprendendo input visivi (mockup UI, screenshot, video di interazione) e istruzioni in linguaggio naturale, Kimi traduce ciò che fornisci in codice frontend completo e funzionante, che non si limita alla UI statica ma include anche il comportamento interattivo dinamico.
@@ -61,11 +61,11 @@ Comprendendo input visivi (mockup UI, screenshot, video di interazione) e istruz
 
 ### Metodo 2: app per dispositivi mobili
 
-L'app ufficiale di Kimi è disponibile per iOS, Android e HarmonyOS. Nell'area di input, tocca la **Barra delle attività** → passa alla **modalità Websites Agent**, che include strumenti di generazione multimodale e le funzionalità Agent.
+L'app ufficiale di Kimi è disponibile per iOS, Android e HarmonyOS. Nell'area di input, tocca la **Barra delle attività** → passa alla **modalità Websites**, che include strumenti di generazione multimodale e le funzionalità Agent.
 
-### Metodo 3: usa la modalità K2.6 Agent
+### Metodo 3: modalità Agent generale
 
-Passa alla modalità K2.6 Agent e inserisci un'attività di creazione di un sito web. Kimi attiverà le sue capacità di coding visivo e gli strumenti di esecuzione del codice.
+Seleziona il modello K3 e inserisci un'attività di creazione di un sito web. Kimi attiverà le sue capacità di coding visivo e gli strumenti di esecuzione del codice.
 
 ## Come funziona Kimi Websites?
 

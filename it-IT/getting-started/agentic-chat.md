@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Iniziare a usare Kimi - Centro assistenza Kimi"
-  description="Puoi digitare domande nella casella della chat, caricare file o passare da un modello all'altro a seconda delle tue esigenze."
+  description="Scopri i tre modelli di Kimi (K2.6, K3, K3 Swarm), gli strumenti integrati e le capacità multimodali per iniziare rapidamente con la chat e l'esecuzione delle attività."
 />
 
 # Iniziare a usare Kimi
@@ -26,22 +26,36 @@ Apri [kimi.com](https://www.kimi.com) e prova a inviare un messaggio: saluta Kim
   ]}
 />
 
-## Basato su K2.6
-Kimi K2.6 è un modello open source che si fonda su K2.5 con miglioramenti significativi, concentrandosi su coding all'avanguardia, esecuzione su orizzonti temporali estesi e capacità di agent swarm. Raggiunge prestazioni allo stato dell'arte nelle attività degli agenti, nel coding, nella comprensione di immagini e video e nei benchmark di intelligenza generale. K2.6 è inoltre il modello **più versatile** di Kimi: la sua architettura nativamente multimodale supporta input sia visivo che testuale, modalità thinking e non-thinking, oltre ad attività conversazionali e agentiche.
-Di conseguenza, Kimi non eccelle soltanto nelle conversazioni di domanda e risposta, ma anche nella pianificazione autonoma delle attività, nell'invocazione di strumenti e nel ragionamento in più passaggi, supportando il pensiero profondo e l'esecuzione di attività complesse.
+## Scegli un modello
+
+Kimi offre più modelli. Fai clic sul pulsante di selezione del modello sopra la casella di input per cambiare.
+
+| Modello | Intensità di ragionamento | Ideale per |
+|-------|-------------------|----------|
+| **K2.6** | Standard / Alta | Conversazioni e domande e risposte rapide con risposte più veloci |
+| **K3** | Bassa / Alta / Massima | Attività di chat e Agent; il più capace in assoluto |
+| **K3 Swarm** | Bassa / Alta / Massima | Ricerche su larga scala ed elaborazione in batch, completate in un'unica soluzione |
+
+<Callout type="tip">
+K2.6 non consuma credit; K3 e K3 Swarm sono fatturati in base ai credit. Consulta i [vantaggi dell'abbonamento](https://www.kimi.com/help/membership/membership-overview) per i dettagli.
+</Callout>
+
+### Informazioni su Kimi K3
+
+Kimi K3 è attualmente il modello più potente di Kimi, con 2,8 trilioni di parametri, costruito su Kimi Delta Attention (KDA) e Attention Residuals, con **visione nativa** e una **finestra di contesto da 1 milione di token**. Essendo il primo modello aperto di classe 3T al mondo, K3 è progettato per un'intelligenza di frontiera in coding su orizzonti temporali estesi, lavoro di conoscenza e ragionamento, raggiungendo prestazioni di primo livello nel coding, nell'esecuzione su orizzonti temporali estesi e in un'ampia gamma di attività di intelligenza generale.
+
 ### Strumenti integrati
 Disponibili da subito, senza alcuna configurazione:
 | Strumento | Descrizione |
 |------|------------|
 | **Web Search** | Ricerca web in tempo reale per notizie e informazioni aggiornate |
 | **Fetch Tool** | Accesso diretto a URL specifici (pagine web, documenti, immagini e altre risorse online) |
-| **Data Source** | Connessione a database professionali; consultazione degli elenchi di database e recupero dei dati |
 | **Image Search** | Ricerca da testo a immagine e da immagine a immagine per trovare rapidamente contenuti visivi |
 | **IPython** | Esecuzione di codice Python per analisi e visualizzazione dei dati |
 | **Memory** | Memoria intelligente che registra le tue preferenze e abitudini personali |
 
 ## Capacità visive e multimodali
-K2.6 supporta la comprensione completa di immagini, video e documenti d'ufficio (PDF/Word/Excel), grazie a un'**architettura nativamente multimodale** (non un OCR aggiunto in seguito). Può analizzare direttamente il contenuto dei documenti ed eseguire attività d'ufficio di livello intermedio-avanzato (come scrivere formule Excel o generare scalette PPT/codice VBA).
+Kimi K3 supporta la comprensione completa di immagini, video e documenti d'ufficio (PDF/Word/Excel), grazie a un'**architettura nativamente multimodale** (non un OCR aggiunto in seguito). Può analizzare direttamente il contenuto dei documenti ed eseguire attività d'ufficio di livello intermedio-avanzato (come scrivere formule Excel o generare scalette PPT/codice VBA). Grazie alla visione nativa e a una finestra di contesto da 1 milione di token, può gestire materiali multimodali più lunghi e complessi.
 ### Supporto per input multimodale
 - **Immagini**: PNG, JPEG, WebP, GIF, ecc. (tramite URL, Base64 o caricamento di file locali)
 - **Video**: MP4, ecc. (tramite video_url o sequenze di fotogrammi + parametro fps)
@@ -63,10 +77,10 @@ K2.6 supporta la comprensione completa di immagini, video e documenti d'ufficio 
 
 ### Note importanti
 
-<Callout type="warning">
-1. **Limitazione nella generazione di immagini**: la modalità chat standard supporta solo la *ricerca* di immagini, non la loro *generazione* (che richiede la modalità K2.6 Agent).
-2. **Limitazione nell'output di file**: è supportato solo il contenuto testuale come output (ad esempio scalette PPT, corpo del testo Word, codice). Non è supportato l'output diretto di file binari (`.pptx`, `.docx`, `.xlsx`, `.pdf`).
-3. Per generare immagini o produrre documenti modificabili complessi, usa [K2.6 Agent](https://www.kimi.com/agent) o lo strumento di esecuzione del codice.
+1. **Output di file**: K3 può produrre documenti modificabili end-to-end (come `.pptx`, `.docx`, `.xlsx`, `.pdf`) e altri deliverable complessi; K2.6 si concentra su domande e risposte rapide e restituisce solo testo (come scalette PPT, corpo del testo Word o codice).
+
+<Callout type="tip">
+Suggerimento: per generare immagini, audio o video, fai clic su "+" → Plugin, seleziona la funzione corrispondente e usala con **K3**. Per creare documenti modificabili complessi o eseguire attività in più passaggi, ti consigliamo di scegliere **K3** o **K3 Swarm** per un'esperienza completa.
 </Callout>
 
 ## Sessioni e turni di conversazione
@@ -106,7 +120,13 @@ All'interno di una singola sessione, ogni nuova domanda o istruzione che invii r
 ## Buone pratiche
 
 <Callout type="tip">
-1. **Avvia una nuova sessione per ogni attività**: attività indipendenti come scrivere un saggio, fare ricerca o eseguire il debug dovrebbero avere ciascuna la propria sessione, per evitare interferenze di contesto.
-2. **Riassumi periodicamente nelle sessioni lunghe**: dopo oltre 20 turni, chiedi proattivamente a Kimi di riassumere le informazioni chiave per evitare perdite di dati.
-3. **Elimina tempestivamente le informazioni sensibili**: la cronologia delle chat viene conservata; elimina l'intera sessione dopo aver trattato contenuti privati.
+**Avvia una nuova sessione per ogni attività**: attività indipendenti come scrivere un saggio, fare ricerca o eseguire il debug dovrebbero avere ciascuna la propria sessione, per evitare interferenze di contesto.
+</Callout>
+
+<Callout type="tip">
+**Riassumi periodicamente nelle sessioni lunghe**: dopo oltre 20 turni, chiedi proattivamente a Kimi di riassumere le informazioni chiave per evitare perdite di dati.
+</Callout>
+
+<Callout type="tip">
+**Elimina tempestivamente le informazioni sensibili**: la cronologia delle chat viene conservata; elimina l'intera sessione dopo aver trattato contenuti privati.
 </Callout>

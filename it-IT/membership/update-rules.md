@@ -8,27 +8,28 @@ preview: false
 
 <SeoMeta
   title="Aggiornamento dei crediti & regole di utilizzo - Centro assistenza Kimi"
-  description="I vantaggi dell'abbonamento Kimi condividono un unico pool di crediti: la serie Agent, Kimi Code e le altre funzionalità dell'abbonamento attingono tutte allo stesso pool, e i crediti vengono consumati in base all'utilizzo effettivo."
+  description="Le funzionalità Agent e le altre funzionalità dell'abbonamento Kimi condividono un unico pool di crediti; Kimi Code dispone di un proprio pool di crediti separato. I crediti vengono consumati in base all'utilizzo effettivo."
 />
 
 # Aggiornamento dei crediti e regole di utilizzo
 
 <Callout type="info">
-I vantaggi dell'abbonamento Kimi condividono un unico pool di crediti: la serie Agent, Kimi Code e le altre funzionalità dell'abbonamento attingono tutte allo stesso pool, e i crediti vengono consumati in base all'utilizzo effettivo.
+Le funzionalità Agent e le altre funzionalità dell'abbonamento Kimi condividono un unico pool di crediti; Kimi Code dispone di un proprio pool di crediti separato. I crediti vengono consumati in base all'utilizzo effettivo.
 </Callout>
 
 ## Come funziona il pool di crediti condiviso?
-Invece di assegnare crediti separati a ciascuna funzionalità, il tuo abbonamento ti offre un unico pool di crediti condiviso. La serie Agent, Kimi Code e le altre funzionalità dell'abbonamento attingono tutte allo stesso pool, valido ovunque:
+Le funzionalità dell'abbonamento Kimi condividono un unico pool di crediti valido ovunque. Le funzionalità Agent e le altre funzionalità di Kimi vi attingono tutte:
 | Funzionalità | Descrizione |
 |---------|-------------|
 | **Attività dell’Agent** | Siti web, documenti, presentazioni, fogli di calcolo, deep research |
 | **Kimi Claw** | Il tuo assistente AI personale distribuito nel cloud |
 | **Altre funzionalità** | Generazione di immagini e altro ancora |
 
-> **Kimi Chat**: Conversazioni con i modelli più recenti (nessun consumo di crediti)
+> **K2.6**: Le conversazioni con il modello K2.6 non consumano crediti
+> **Kimi Code**: Assistente di programmazione basato sull'AI (pool di crediti separato)
 
 <Callout type="tip">
-Questo significa che puoi distribuire i crediti del pool condiviso come preferisci — un mese investire di più nella ricerca, il mese successivo nei documenti. Kimi Chat non consuma crediti.
+Questo significa che puoi distribuire i crediti del pool condiviso come preferisci — un mese investire di più nella ricerca, il mese successivo nei documenti. K2.6 non consuma crediti.
 </Callout>
 
 ## Come vengono calcolati i crediti?

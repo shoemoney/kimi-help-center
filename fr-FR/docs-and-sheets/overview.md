@@ -69,9 +69,9 @@ Décrivez directement vos besoins, par exemple : « Crée-moi un rapport XX ». 
 </Callout>
 
 ### Méthode 2 : application mobile
-L'application Kimi est disponible sur iOS et Android. Touchez la barre des tâches → basculez en mode Docs Agent.
+L'application Kimi est disponible sur iOS et Android. Touchez la barre des tâches → basculez en mode Docs.
 #### Méthode 3 : mode Agent général
-Basculez en mode Agent K2.6 et saisissez une tâche liée à un document. Kimi fera appel aux outils de lecture et d'écriture.
+Sélectionnez le modèle K3 et saisissez une tâche liée à un document. Kimi fera appel aux outils de lecture et d'écriture.
 ## Kimi Sheets
 Kimi Sheets comprend les relations entre cellules ainsi que la logique de liaison entre feuilles, et produit directement des fichiers .xlsx dans le navigateur.
 ### Capacités clés

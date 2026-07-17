@@ -69,9 +69,9 @@ Kimi 文档具备出色的文本适配能力，并能系统理解 Office 工作�
 </Callout>
 
 ### 方法二：移动端应用
-Kimi app 支持 iOS 和 Android。点击任务栏 → 切换到 Docs Agent 模式。
+Kimi app 支持 iOS 和 Android。点击任务栏 → 切换到 Docs 模式。
 #### 方法三：通用 Agent 模式
-切换到 K2.6 Agent 模式，并输入与文档相关的任务。Kimi 会调用读写工具。
+选择 K3 模型，并输入与文档相关的任务。Kimi 会调用读写工具。
 ## Kimi 表格
 Kimi 表格能够理解单元格关系和跨表联动逻辑，并可直接在浏览器中生成 .xlsx 文件。
 ### 核心能力

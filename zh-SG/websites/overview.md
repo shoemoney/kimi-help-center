@@ -15,7 +15,7 @@ preview_content: "通过自然语言描述、设计稿或模板，构建并部�
 # Kimi 网页
 
 <Callout type="info">
-**Kimi 网页** 是由最新 Kimi K2.6 多模态视觉 Agent AI 模型驱动的 Kimi Agent 产品功能。它的核心能力是 **Vibe Coding（氛围编程）**——通过自然语言生成网站，并将其部署上线。
+**Kimi 网页** 是由最新 Kimi K3 多模态视觉 Agent AI 模型驱动的 Kimi Agent 产品功能。它的核心能力是 **Vibe Coding（氛围编程）**——通过自然语言生成网站，并将其部署上线。
 </Callout>
 
 Kimi 能理解视觉输入（UI 设计稿、截图、交互视频）和自然语言指令，将用户输入转化为完整、可运行的前端代码——不仅覆盖静态 UI，也能实现动态交互行为。
@@ -61,11 +61,11 @@ Kimi 能理解视觉输入（UI 设计稿、截图、交互视频）和自然语
 
 ### 方法二：移动端 App
 
-iOS、Android 和 HarmonyOS 均提供官方 Kimi App。在输入区域，点击 **任务栏** → 切换到 **网页 Agent 模式**，即可使用多模态生成工具和 Agent 能力。
+iOS、Android 和 HarmonyOS 均提供官方 Kimi App。在输入区域，点击 **任务栏** → 切换到 **网页模式**，即可使用多模态生成工具和 Agent 能力。
 
-### 方法三：使用 K2.6 Agent 模式
+### 方法三：使用通用 Agent 模式
 
-切换到 K2.6 Agent 模式并输入建站任务。Kimi 会调用其视觉编码能力和代码执行工具。
+选择 K3 模型并输入建站任务。Kimi 会调用其视觉编码能力和代码执行工具。
 
 ## Kimi 网页如何工作？
 

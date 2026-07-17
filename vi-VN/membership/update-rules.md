@@ -8,27 +8,28 @@ preview: false
 
 <SeoMeta
   title="Quy tắc cập nhật & sử dụng tín dụng - Trung tâm trợ giúp Kimi"
-  description="Quyền lợi thành viên Kimi dùng chung một nguồn tín dụng duy nhất. Chuỗi Agent, Kimi Code và các tính năng thành viên khác đều lấy từ cùng một nguồn tín dụng, và tín dụng được tính theo mức sử dụng thực tế."
+  description="Các tính năng Agent và các tính năng thành viên Kimi khác dùng chung một nguồn tín dụng; Kimi Code có nguồn tín dụng riêng biệt. Tín dụng được tiêu hao dựa trên mức sử dụng thực tế."
 />
 
 # Quy tắc cập nhật và sử dụng tín dụng
 
 <Callout type="info">
-Quyền lợi thành viên Kimi dùng chung một nguồn tín dụng duy nhất. Chuỗi Agent, Kimi Code và các tính năng thành viên khác đều lấy từ cùng một nguồn tín dụng, và tín dụng được tính theo mức sử dụng thực tế.
+Các tính năng Agent và các tính năng thành viên Kimi khác dùng chung một nguồn tín dụng; Kimi Code có nguồn tín dụng riêng biệt. Tín dụng được tiêu hao dựa trên mức sử dụng thực tế.
 </Callout>
 
 ## Nguồn tín dụng chung hoạt động như thế nào?
-Thay vì cấp tín dụng riêng cho từng tính năng, gói thành viên của bạn có một nguồn tín dụng duy nhất. Chuỗi Agent, Kimi Code và các tính năng thành viên khác đều chia sẻ chung một nguồn tín dụng dùng được ở mọi nơi:
+Thay vì cấp tín dụng riêng cho từng tính năng, gói thành viên của bạn có một nguồn tín dụng duy nhất. Các tính năng Agent và các tính năng Kimi khác đều lấy từ nguồn này:
 | Tính năng | Mô tả |
 |---------|-------------|
 | **Tác vụ Agent** | Website, tài liệu, slide, bảng tính, nghiên cứu chuyên sâu |
 | **Kimi Claw** | Trợ lý AI cá nhân triển khai trên đám mây của bạn |
 | **Tính năng khác** | Tạo ảnh và nhiều tính năng khác |
 
-> **Kimi Chat**: Trò chuyện với các mô hình mới nhất (không tiêu hao tín dụng)
+> **K2.6**: Trò chuyện với mô hình K2.6 không tiêu hao tín dụng
+> **Kimi Code**: Trợ lý lập trình hỗ trợ bởi AI (nguồn tín dụng riêng biệt)
 
 <Callout type="tip">
-Điều này nghĩa là bạn có thể phân bổ tín dụng tùy ý trong nguồn chung — tháng này dành nhiều cho nghiên cứu, tháng sau dồn cho tài liệu. Kimi Chat không tiêu hao tín dụng.
+Điều này nghĩa là bạn có thể phân bổ tín dụng tùy ý trong nguồn chung — tháng này dành nhiều cho nghiên cứu, tháng sau dồn cho tài liệu. K2.6 không tiêu hao tín dụng.
 </Callout>
 
 ## Tín dụng được tính như thế nào?

@@ -1,5 +1,5 @@
 ---
-title: "K2.6 Agent Swarm [Beta]"
+title: "Agent Swarm"
 slug: "agent-swarm"
 order: 2
 extract_headings: false
@@ -7,20 +7,22 @@ preview: false
 ---
 
 <SeoMeta
-  title="K2.6 Agent Swarm [Beta] - Trung tâm trợ giúp Kimi"
-  description="K2.6 Agent Swarm Beta là một kiến trúc &quot;mở rộng theo chiều ngang&quot; phối hợp tới 300 sub-agent chạy song song — không cần vai trò định sẵn hay quy trình thủ công..."
+  title="Agent Swarm - Trung tâm trợ giúp Kimi"
+  description="Agent Swarm là một kiến trúc &quot;mở rộng theo chiều ngang&quot; phối hợp tới 300 sub-agent chạy song song — không cần vai trò định sẵn hay quy trình thủ công..."
 />
 
-# K2.6 Agent Swarm [Beta]
+# Agent Swarm
 
 <Callout type="info">
-**K2.6 Agent Swarm [Beta]** là một kiến trúc "mở rộng theo chiều ngang" có khả năng phối hợp tới 300 sub-agent chạy song song — không cần định sẵn vai trò hay xây dựng quy trình thủ công. Nó hoàn thành tác vụ nhanh hơn khoảng **4,5 lần** so với cách chạy đơn agent.
+**Agent Swarm** là một kiến trúc "mở rộng theo chiều ngang" có khả năng phối hợp tới 300 sub-agent chạy song song — không cần định sẵn vai trò hay xây dựng quy trình thủ công. Nó hoàn thành tác vụ nhanh hơn khoảng **4,5 lần** so với cách chạy đơn agent.
 </Callout>
 
-Ngày 27 tháng 1 năm 2026, Moonshot AI ra mắt Kimi K2.5, giới thiệu Agent Swarm [Beta]. Ngày 20 tháng 4 năm 2026, Moonshot AI phát hành và mã nguồn mở Kimi K2.6, mang đến những nâng cấp lớn cho kiến trúc Agent Swarm:
+Ngày 27 tháng 1 năm 2026, Moonshot AI ra mắt Kimi K2.5, giới thiệu Agent Swarm. Ngày 20 tháng 4 năm 2026, Moonshot AI phát hành và mã nguồn mở Kimi K2.6, mang đến những nâng cấp lớn cho kiến trúc Agent Swarm:
 - Tối đa **300 sub-agent** hoạt động đồng thời
 - Hơn **4.000 lượt gọi công cụ** cho mỗi tác vụ
 - Nhanh hơn **4,5 lần** so với việc chạy tuần tự đơn agent
+
+Agent Swarm hiện được vận hành bởi Kimi K3 (K3 Swarm), tiếp tục cải thiện khả năng tìm kiếm song song quy mô lớn và xử lý hàng loạt.
 
 ## Câu chuyện đằng sau
 
@@ -35,7 +37,7 @@ Agent Swarm là một cấu trúc tổ chức tự thiết kế — do AI thiế
   alt="swarm"
 />
 
-K2.6 Agent Swarm [Beta] sử dụng phương pháp huấn luyện PARL (Parallel-Agent Reinforcement Learning). So với cách tiếp cận đơn agent, nó giảm số bước then chốt từ 3 đến 4,5 lần trong các tình huống tìm kiếm quy mô lớn.
+Agent Swarm sử dụng phương pháp huấn luyện PARL (Parallel-Agent Reinforcement Learning). So với cách tiếp cận đơn agent, nó giảm số bước then chốt từ 3 đến 4,5 lần trong các tình huống tìm kiếm quy mô lớn.
 
 ## Cách sử dụng?
 
@@ -46,18 +48,20 @@ K2.6 Agent Swarm [Beta] sử dụng phương pháp huấn luyện PARL (Parallel
 
 **Điểm truy cập:**
 - **Web**: [kimi.com/agent-swarm](https://www.kimi.com/agent-swarm)
-- **Di động**: ứng dụng Kimi → Chuyển chế độ → Chọn K2.6 Agent Swarm [Beta]
+- **Di động**: mở ứng dụng Kimi và chọn mô hình K3 Swarm ở nút chuyển mô hình
 
-<Callout type="warning">
-**Quyền truy cập Beta**: K2.6 Agent Swarm [Beta] hiện chỉ dành cho thành viên Moderato, Allegretto, Allegro và Vivace. Các tác vụ tiêu tốn tín dụng nhiều hơn đáng kể so với tác vụ Agent thông thường.
+<Callout type="info">
+Về nhãn [Beta]: [Beta] là dấu hiệu thử nghiệm cho một sản phẩm ban đầu chỉ mở cho một số ít người dùng nhằm kiểm chứng và tinh chỉnh ở quy mô nhỏ; khi tính năng dần hoàn thiện, nhãn này sẽ được gỡ bỏ và sản phẩm được triển khai cho tất cả mọi người.
 </Callout>
+
+Agent Swarm hiện dành cho thành viên Moderato, Allegretto, Allegro và Vivace. Các tác vụ tiêu tốn tín dụng nhiều hơn đáng kể so với tác vụ Agent thông thường.
 
 **Các bước:**
 1. Mô tả tác vụ của bạn và gửi đi (ví dụ: "Thu thập hơn 200 bài viết của Paul Graham")
 2. Theo dõi tiến trình theo thời gian thực: tạo danh sách tác vụ, sinh ra sub-agent, chạy song song
 3. Nhận sản phẩm bàn giao: dự án mã, thư mục tệp, phân tích dữ liệu, tài liệu Office
 4. Xem trước, tải về hoặc chia sẻ kết quả
-5. Chuyển sang K2.6 Agent đơn để tiếp tục ở những lượt sau
+5. Ở những lượt tiếp theo, Kimi tự động điều phối giữa trò chuyện và Agent dựa trên tác vụ — không cần chuyển đổi thủ công
 
 ## Trường hợp sử dụng
 
@@ -65,7 +69,7 @@ K2.6 Agent Swarm [Beta] sử dụng phương pháp huấn luyện PARL (Parallel
 
 **Trường hợp 1: Top 3 nhà sáng tạo trên 100 ngách YouTube**
 
-K2.6 Agent Swarm [Beta] tạo ra 300 sub-agent để tìm kiếm song song, sinh ra các bảng có cấu trúc gồm tên kênh, số lượng người đăng ký và mô tả.
+Agent Swarm tạo ra 300 sub-agent để tìm kiếm song song, sinh ra các bảng có cấu trúc gồm tên kênh, số lượng người đăng ký và mô tả.
 
 <Frames
   src="./images/swarm/youtube.png"
@@ -84,7 +88,7 @@ Agent Swarm triển khai các sub-agent để tìm kiếm, tải về, phân lo�
 
 **Trường hợp: Bài tổng quan tài liệu dài 100 trang từ 40 tệp PDF**
 
-K2.6 Agent Swarm [Beta] triển khai nhiều sub-agent chuyên về viết, mỗi sub-agent phụ trách một chương. Kết quả cuối cùng: một tài liệu học thuật dài 100 trang kèm trích dẫn, biểu đồ phương pháp luận và phân tích mạng lưới trích dẫn.
+Agent Swarm triển khai nhiều sub-agent chuyên về viết, mỗi sub-agent phụ trách một chương. Kết quả cuối cùng: một tài liệu học thuật dài 100 trang kèm trích dẫn, biểu đồ phương pháp luận và phân tích mạng lưới trích dẫn.
 
 <Frames
   src="./images/swarm/literature-review.png"
@@ -144,7 +148,7 @@ Trên benchmark BrowseComp:
 
 ## Các tình huống ứng dụng
 
-K2.6 Agent Swarm [Beta] đặc biệt phù hợp với:
+Agent Swarm đặc biệt phù hợp với:
 1. **Truy xuất thông tin quy mô lớn**: Thu thập dữ liệu internet khối lượng lớn
 2. **Tải về hàng loạt**: Thu thập tệp và tài nguyên quy mô lớn
 3. **Đọc trên phạm vi rộng**: Xử lý hơn 100 tài liệu
@@ -156,3 +160,4 @@ K2.6 Agent Swarm [Beta] đặc biệt phù hợp với:
 - [Kimi Agent Swarm: 100 sub-agent ở quy mô lớn](https://www.kimi.com/blog/agent-swarm)
 - [Kimi K2.5: Trí tuệ agentic thị giác​](https://www.kimi.com/blog/kimi-k2-5)
 - [Kimi K2.6: Đẩy mạnh lập trình mã nguồn mở](https://www.kimi.com/blog/kimi-k2-6)
+- [Kimi K3](https://www.kimi.com/blog/kimi-k3)

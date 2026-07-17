@@ -1,26 +1,28 @@
 ---
-title: "Panoramica di K2.6 Agent"
+title: "Panoramica di Kimi Agent"
 slug: "agent-overview"
 order: 1
 extract_headings: false
 preview: true
-preview_content: "Scopri l'esecuzione autonoma delle attività di K2.6 Agent, gli oltre 20 strumenti e i casi d'uso supportati."
+preview_content: "Scopri l'esecuzione autonoma delle attività di Kimi Agent, gli oltre 20 strumenti e i casi d'uso supportati."
 ---
 
 <SeoMeta
-  title="Panoramica di K2.6 Agent - Centro assistenza Kimi"
-  description="Scopri le capacità, l'evoluzione e i casi d'uso di Kimi K2.6 Agent."
+  title="Panoramica di Kimi Agent - Centro assistenza Kimi"
+  description="Scopri le capacità, l'evoluzione e i casi d'uso di Kimi Agent."
 />
 
-# Panoramica di K2.6 Agent
+# Panoramica di Kimi Agent
 
-Kimi K2.6 Agent è un assistente AI autonomo che gestisce attività complesse dall'inizio alla fine. Basato sul modello K2.6, sfrutta oltre 20 strumenti per creare siti web, generare documenti, analizzare dati e molto altro.
+Kimi Agent è un assistente AI autonomo che gestisce attività complesse dall'inizio alla fine. Basato su Kimi K3, sfrutta oltre 20 strumenti per creare siti web, generare documenti, analizzare dati e molto altro.
 
 ## Evoluzione del prodotto
 - **5 settembre 2025**: rilascio di Kimi K2 — 32B di parametri attivi / 1T di parametri totali
 - **26 settembre 2025**: lancio della modalità Agent "OK Computer"
 - **27 gennaio 2026**: rilascio di Kimi K2.5 — competenze Office e capacità Agent migliorate
 - **Febbraio 2026**: lancio della beta pubblica di Kimi Claw
+- **20 aprile 2026**: rilascio e apertura del codice di Kimi K2.6 — coding di primo livello, esecuzione su orizzonti temporali estesi e Agent Swarm
+- **16 luglio 2026**: rilascio di Kimi K3 — il primo modello aperto di classe 3T al mondo (2,8T di parametri, visione nativa, contesto da 1 milione di token) e il modello più potente di Kimi, che alimenta chat, Agent e Agent Swarm; disponibile tramite l'app Kimi, kimi.com, Kimi Work, Kimi Code e la Kimi API, con i pesi completi il 27 luglio 2026
 
 ## Capacità principali
 | Funzionalità | Descrizione |
@@ -30,7 +32,7 @@ Kimi K2.6 Agent è un assistente AI autonomo che gestisce attività complesse da
 | **Fogli di calcolo** | Analisi e visualizzazione di dati Excel/CSV |
 | **Presentazioni** | Generazione automatica di PPT |
 | **Deep Research** | Report di ricerca oltre 10.000 parole |
-| **K2.6 Agent Swarm** | Fino a 300 sub-agenti che lavorano in parallelo |
+| **Agent Swarm** | Fino a 300 sub-agenti che lavorano in parallelo |
 | **Kimi Claw** | Automazione nel cloud con oltre 5.000 skill |
 
 <Frames
@@ -47,7 +49,7 @@ Kimi K2.6 Agent è un assistente AI autonomo che gestisce attività complesse da
 
 ## Per iniziare
 - **Web**: [kimi.com/agent](https://www.kimi.com/agent)
-- **Mobile**: app Kimi → Barra delle attività → modalità Agent
+- **Mobile**: apri l'app Kimi e seleziona il modello K3 o K3 Swarm nel pulsante di selezione del modello
 Descrivi chiaramente la tua attività, segui l'avanzamento dell'esecuzione, poi scarica o condividi i risultati.
 
 ## Casi d'uso
@@ -73,7 +75,7 @@ Descrivi chiaramente la tua attività, segui l'avanzamento dell'esecuzione, poi 
       type: "data",
     },
     {
-      title: "K2.6 Agent Swarm",
+      title: "Agent Swarm",
       description: "Collaborazione multi-agente",
       pageUrl: "/agent/agent-swarm",
       type: "comment",

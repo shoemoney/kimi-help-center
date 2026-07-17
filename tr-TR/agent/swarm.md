@@ -1,5 +1,5 @@
 ---
-title: "K2.6 Agent Swarm [Beta]"
+title: "Agent Swarm"
 slug: "agent-swarm"
 order: 2
 extract_headings: false
@@ -7,20 +7,22 @@ preview: false
 ---
 
 <SeoMeta
-  title="K2.6 Agent Swarm [Beta] - Kimi Yardım Merkezi"
-  description="K2.6 Agent Swarm Beta, en fazla 300 alt ajanı paralel çalışacak şekilde koordine eden bir &quot;yatay ölçeklendirme&quot; mimarisidir — önceden tanımlanmış roller veya elle hazırlanmış..."
+  title="Agent Swarm - Kimi Yardım Merkezi"
+  description="Agent Swarm, en fazla 300 alt ajanı paralel çalışacak şekilde koordine eden bir &quot;yatay ölçeklendirme&quot; mimarisidir — önceden tanımlanmış roller veya elle hazırlanmış..."
 />
 
-# K2.6 Agent Swarm [Beta]
+# Agent Swarm
 
 <Callout type="info">
-**K2.6 Agent Swarm [Beta]**, en fazla 300 alt ajanı paralel çalışacak şekilde koordine eden bir "yatay ölçeklendirme" mimarisidir — önceden tanımlanmış rollere veya elle hazırlanmış iş akışlarına gerek duymaz. Görevleri tek ajanlı yürütmeye kıyasla yaklaşık **4,5 kat daha hızlı** tamamlar.
+**Agent Swarm**, en fazla 300 alt ajanı paralel çalışacak şekilde koordine eden bir "yatay ölçeklendirme" mimarisidir — önceden tanımlanmış rollere veya elle hazırlanmış iş akışlarına gerek duymaz. Görevleri tek ajanlı yürütmeye kıyasla yaklaşık **4,5 kat daha hızlı** tamamlar.
 </Callout>
 
-Moonshot AI, 27 Ocak 2026'da Kimi K2.5'i yayımlayarak Agent Swarm [Beta]'yı tanıttı. 20 Nisan 2026'da ise Kimi K2.6'yı yayımlayıp açık kaynak olarak sundu ve Agent Swarm mimarisine kapsamlı yenilikler getirdi:
+Moonshot AI, 27 Ocak 2026'da Kimi K2.5'i yayımlayarak Agent Swarm'ı tanıttı. 20 Nisan 2026'da ise Kimi K2.6'yı yayımlayıp açık kaynak olarak sundu ve Agent Swarm mimarisine kapsamlı yenilikler getirdi:
 - Aynı anda en fazla **300 alt ajan**
 - Görev başına **4.000'den fazla** araç çağrısı
 - Tek ajanlı sıralı yürütmeye göre **4,5 kat daha hızlı**
+
+Agent Swarm artık Kimi K3 (K3 Swarm) tarafından desteklenmektedir; bu da büyük ölçekli paralel arama ve toplu işlemeyi daha da geliştirir.
 
 ## Bunun arkasındaki hikâye
 
@@ -35,7 +37,7 @@ Agent Swarm, kendi kendini tasarlayan bir örgütsel yapıdır — insanlar tara
   alt="swarm"
 />
 
-K2.6 Agent Swarm [Beta], PARL (Parallel-Agent Reinforcement Learning) eğitim yöntemini kullanır. Tek ajanlı yaklaşımlarla karşılaştırıldığında, büyük ölçekli arama senaryolarında kritik adımları 3–4,5 kat azaltır.
+Agent Swarm, PARL (Parallel-Agent Reinforcement Learning) eğitim yöntemini kullanır. Tek ajanlı yaklaşımlarla karşılaştırıldığında, büyük ölçekli arama senaryolarında kritik adımları 3–4,5 kat azaltır.
 
 ## Nasıl kullanılır?
 
@@ -46,18 +48,20 @@ K2.6 Agent Swarm [Beta], PARL (Parallel-Agent Reinforcement Learning) eğitim y�
 
 **Erişim Noktaları:**
 - **Web**: [kimi.com/agent-swarm](https://www.kimi.com/agent-swarm)
-- **Mobil**: Kimi uygulaması → Modu değiştir → K2.6 Agent Swarm [Beta] seçin
+- **Mobil**: Kimi uygulamasını açın ve model değiştirme düğmesinden K3 Swarm modelini seçin
 
-<Callout type="warning">
-**Beta Erişimi**: K2.6 Agent Swarm [Beta] şu anda Moderato, Allegretto, Allegro ve Vivace üyelerine açıktır. Görevler, standart Agent görevlerine kıyasla çok daha fazla kredi tüketir.
+<Callout type="info">
+[Beta] etiketi hakkında: [Beta], başlangıçta yalnızca az sayıda kullanıcıya küçük ölçekli doğrulama ve iyileştirme için açılan bir ürünün deneme işaretidir; özellik olgunlaştıkça etiket kademeli olarak kaldırılır ve ürün herkese sunulur.
 </Callout>
+
+Agent Swarm; Moderato, Allegretto, Allegro ve Vivace üyelerine açıktır. Görevler, standart Agent görevlerine kıyasla çok daha fazla kredi tüketir.
 
 **Adımlar:**
 1. Görevinizi tanımlayıp gönderin (örneğin, "200'den fazla Paul Graham makalesini topla")
 2. Gerçek zamanlı ilerlemeyi izleyin: görev listesi oluşturma, alt ajan üretme, paralel yürütme
 3. Çıktıları alın: kod projeleri, dosya klasörleri, veri analizleri, Office belgeleri
 4. Sonuçları önizleyin, indirin veya paylaşın
-5. Sonraki turlarda devam etmek için tek K2.6 Agent moduna geçin
+5. Sonraki turlarda Kimi, göreve göre sohbet ve Agent arasında otomatik olarak zamanlama yapar — elle geçiş yapmaya gerek yoktur
 
 ## Kullanım senaryoları
 
@@ -65,7 +69,7 @@ K2.6 Agent Swarm [Beta], PARL (Parallel-Agent Reinforcement Learning) eğitim y�
 
 **Örnek 1: 100 YouTube Nişinde İlk 3 İçerik Üreticisi**
 
-K2.6 Agent Swarm [Beta], paralel arama için 300 alt ajan oluşturdu ve kanal adları, abone sayıları ve açıklamalarla yapılandırılmış tablolar üretti.
+Agent Swarm, paralel arama için 300 alt ajan oluşturdu ve kanal adları, abone sayıları ve açıklamalarla yapılandırılmış tablolar üretti.
 
 <Frames
   src="./images/swarm/youtube.png"
@@ -84,7 +88,7 @@ Agent Swarm, 200'den fazla makaleyi arayıp indirmek, sınıflandırmak ve özet
 
 **Örnek: 40 PDF'ten 100 Sayfalık Literatür Taraması**
 
-K2.6 Agent Swarm [Beta], her biri bir bölümden sorumlu olan birden çok yazma odaklı alt ajan görevlendirdi. Nihai çıktı: atıflar, metodoloji grafikleri ve atıf ağı analizi içeren 100 sayfalık akademik bir belge.
+Agent Swarm, her biri bir bölümden sorumlu olan birden çok yazma odaklı alt ajan görevlendirdi. Nihai çıktı: atıflar, metodoloji grafikleri ve atıf ağı analizi içeren 100 sayfalık akademik bir belge.
 
 <Frames
   src="./images/swarm/literature-review.png"
@@ -144,7 +148,7 @@ BrowseComp karşılaştırmasında:
 
 ## Uygulama senaryoları
 
-K2.6 Agent Swarm [Beta] özellikle şu durumlar için uygundur:
+Agent Swarm özellikle şu durumlar için uygundur:
 1. **Büyük ölçekli bilgi getirme**: Devasa internet verisi toplama
 2. **Toplu indirme**: Büyük ölçekli dosya ve kaynak toplama
 3. **Geniş kapsamlı okuma**: 100'den fazla belgeyi işleme
@@ -156,3 +160,4 @@ K2.6 Agent Swarm [Beta] özellikle şu durumlar için uygundur:
 - [Kimi Agent Swarm: Ölçekte 100 Alt Ajan](https://www.kimi.com/blog/agent-swarm)
 - [Kimi K2.5: Görsel Ajan Zekâsı​](https://www.kimi.com/blog/kimi-k2-5)
 - [Kimi K2.6: Açık Kaynak Kodlamada İlerleme](https://www.kimi.com/blog/kimi-k2-6)
+- [Kimi K3](https://www.kimi.com/blog/kimi-k3)

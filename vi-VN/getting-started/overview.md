@@ -4,12 +4,12 @@ slug: "overview"
 order: 1
 extract_headings: false
 preview: true
-preview_content: "Khám phá các chế độ trò chuyện, AI agent, khả năng xử lý tệp cùng hướng dẫn giao diện của Kimi để bắt đầu."
+preview_content: "Khám phá các mô hình, AI agent, khả năng xử lý tệp cùng hướng dẫn giao diện của Kimi để bắt đầu."
 ---
 
 <SeoMeta
   title="Tổng quan về Kimi - Trung tâm trợ giúp Kimi"
-  description="Khám phá các chế độ trò chuyện, AI agent, khả năng xử lý tệp cùng hướng dẫn giao diện của Kimi để bắt đầu."
+  description="Khám phá các mô hình, AI agent, khả năng xử lý tệp cùng hướng dẫn giao diện của Kimi để bắt đầu."
 />
 
 # Tổng quan về Kimi
@@ -19,25 +19,27 @@ Kimi là trợ lý AI do Moonshot AI phát triển, tích hợp sẵn khả năn
 </Callout>
 
 Truy cập [Kimi.com](https://www.kimi.com/) hoặc tải ứng dụng Kimi để bắt đầu trò chuyện, sáng tạo, nghiên cứu và xây dựng. Các nhà phát triển có thể truy cập [Nền tảng Mở Kimi](https://platform.kimi.ai/) để sử dụng API và công cụ tích hợp các năng lực của Kimi vào ứng dụng của riêng mình.
-## Các chế độ trò chuyện
-| Chế độ | Mô tả |
-|------|-------------|
-| **Web Search (Tự động/Tắt)** | Kết nối internet để lấy thông tin theo thời gian thực và kết quả tìm kiếm web |
-| **K2.6 Instant** | Phản hồi nhanh cho các câu hỏi thông thường |
-| **K2.6 Thinking** | Suy luận và tìm kiếm nhiều bước chuyên sâu — lý tưởng cho lập trình, logic hay các tác vụ phân tích |
+## Trò chuyện và các mô hình
+Kimi cung cấp nhiều mô hình. Nhấp vào nút chuyển mô hình phía trên ô nhập liệu để chuyển đổi.
+| Mô hình | Cường độ tư duy | Phù hợp nhất cho |
+|-------|-------------------|----------|
+| **K2.6** | Tiêu chuẩn / Cao | Trò chuyện và hỏi-đáp nhanh với phản hồi mau lẹ |
+| **K3** | Thấp / Cao / Tối đa | Các tác vụ trò chuyện và Agent; mạnh mẽ nhất về tổng thể |
+| **K3 Swarm** | Thấp / Cao / Tối đa | Tìm kiếm quy mô lớn và xử lý hàng loạt, hoàn thành trong một lần |
 
 <Callout type="tip">
-Với những câu hỏi đơn giản dựa trên tài liệu, bạn có thể tắt cả Web Search lẫn Thinking mode.
+Việc có tìm kiếm trực tuyến hay không do Kimi tự động quyết định dựa trên câu hỏi của bạn — không cần bật/tắt thủ công.
 </Callout>
 
 ## AI agent
 Kimi không chỉ là trợ lý trò chuyện — đó là một AI agent có thể tự động lên kế hoạch và thực thi tác vụ:
 | Agent | Mô tả | Liên kết |
 |-------|-------------|------|
-| **K2.6 Agent** | Tự động lập kế hoạch và hoàn thành tác vụ, bao gồm tạo website, tạo trang trình bày, Deep Research, xử lý tài liệu và bảng tính | [kimi.com/agent](https://www.kimi.com/agent) |
-| **K2.6 Agent Swarm [Beta]** | Hỗ trợ tối đa 4.000 lệnh gọi công cụ song song, điều phối hơn 300 subagent cho tìm kiếm quy mô lớn, viết nội dung dài và xử lý hàng loạt | [kimi.com/agent-swarm](https://www.kimi.com/agent-swarm) |
+| **General Agent** | Tự động lập kế hoạch và hoàn thành tác vụ, bao gồm tạo website, tạo trang trình bày, Deep Research, xử lý tài liệu và bảng tính | [kimi.com/agent](https://www.kimi.com/agent) |
+| **Agent Swarm** | Hỗ trợ hơn 4.000 lệnh gọi công cụ song song, điều phối tối đa 300 sub-agent cho tìm kiếm quy mô lớn, viết nội dung dài và xử lý hàng loạt | [kimi.com/agent-swarm](https://www.kimi.com/agent-swarm) |
 | **Kimi Code** | Bộ trợ lý lập trình dành cho nhà phát triển, gồm công cụ CLI và tiện ích mở rộng VS Code | [kimi.com/code](https://www.kimi.com/code) |
 | **Kimi Claw** | Nền tảng tự động hóa trên đám mây không cần triển khai — khởi chạy AI agent thường trực trong chưa đầy 30 giây với hơn 5.000 kỹ năng tích hợp sẵn (ClawHub) | [kimi.com/bot](https://www.kimi.com/bot) |
+| **Kimi Work** | Một Agent cục bộ đa năng dành cho người làm việc tri thức, được xây dựng trên Kimi Code, cung cấp các năng lực Agent cục bộ cơ bản (kỹ năng, tác vụ theo lịch) cùng khả năng xây dựng website, PPT và cơ sở dữ liệu chuyên nghiệp của Kimi Agent trực tuyến | [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work) |
 
 ## Các tính năng cốt lõi khác
 - **Điểm nổi bật**: Giải bài qua hình ảnh, gọi thoại, dịch thuật, hỗ trợ viết

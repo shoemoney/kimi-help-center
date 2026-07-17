@@ -25,7 +25,7 @@ Jelaskan informasi latar belakang dan batasan secara jelas — konteks proyek, k
 
 **(2) Selama eksekusi**
 
-Kimi Agent berjalan secara asinkron di latar belakang. Jika halaman web tampak membeku atau berhenti, **jangan klik "Stop"** — tindakan ini akan menghentikan eksekusi tugas. Anda boleh meninggalkan halaman; tugas akan terus berjalan di latar belakang dan Anda akan menerima notifikasi setelah selesai. Untuk tugas yang diperkirakan memakan waktu lama (mis. K2.6 Agent Swarm [Beta]), mohon bersabar.
+Kimi Agent berjalan secara asinkron di latar belakang. Jika halaman web tampak membeku atau berhenti, **jangan klik "Stop"** — tindakan ini akan menghentikan eksekusi tugas. Anda boleh meninggalkan halaman; tugas akan terus berjalan di latar belakang dan Anda akan menerima notifikasi setelah selesai. Untuk tugas yang diperkirakan memakan waktu lama (mis. Agent Swarm), mohon bersabar.
 
 **(3) Skenario website**
 
@@ -39,10 +39,10 @@ Agent dapat menghasilkan konten full-stack, termasuk antarmuka frontend, layanan
 Setelah beberapa putaran percakapan dan revisi, Agent mungkin "melupakan" sejumlah detail awal. Sebaiknya tetapkan dulu kerangka dan poin-poin utama tugas, lalu lakukan penyesuaian secara bertahap.
 
 **(5) Penguraian tugas besar**
-Untuk tugas yang besar dan kompleks, pecahlah menjadi 2–3 tahap dan kirimkan ke Kimi secara bertahap, atau gunakan K2.6 Agent Swarm [Beta].
+Untuk tugas yang besar dan kompleks, pecahlah menjadi 2–3 tahap dan kirimkan ke Kimi secara bertahap, atau gunakan Agent Swarm.
 
 **(6) Batasan output berkas**
-Dalam mode Agent standar, biasanya hanya satu berkas yang bisa dihasilkan per tugas (mis. dokumen atau spreadsheet). Untuk beberapa berkas sekaligus (mis. dokumen Word dan PPT), gunakan K2.6 Agent Swarm [Beta].
+Dalam mode Agent standar, biasanya hanya satu berkas yang bisa dihasilkan per tugas (mis. dokumen atau spreadsheet). Untuk beberapa berkas sekaligus (mis. dokumen Word dan PPT), gunakan Agent Swarm.
 
 **(7) Batas konteks dan keseimbangan output**
 Karena batas konteks model bahasa besar sebesar 256K karakter (kira-kira 40.000–50.000 karakter Mandarin / ~100.000 kata Inggris), pemrosesan berkas dalam jumlah besar membutuhkan keseimbangan antara volume input dan output.
@@ -60,7 +60,7 @@ Karena batas konteks model bahasa besar sebesar 256K karakter (kira-kira 40.000�
 - Tingkat berbayar: 60–720 tugas Agent/bulan tergantung paket Anda
 </Callout>
 
-- **Waktu eksekusi**: Dalam mode Agent, satu tugas biasanya memakan waktu 5–20 menit. Tugas K2.6 Agent Swarm [Beta] mungkin lebih lama. Anda boleh meninggalkan halaman — cukup jangan klik Stop agar tugas tidak terhenti.
+- **Waktu eksekusi**: Dalam mode Agent, satu tugas biasanya memakan waktu 5–20 menit. Tugas Agent Swarm mungkin lebih lama. Anda boleh meninggalkan halaman — cukup jangan klik Stop agar tugas tidak terhenti.
 - **Penggunaan kredit**: Tugas Agent mengonsumsi kredit dari kumpulan bersama. Kimi Code menggunakan kumpulan kredit terpisah. 
 - **Tugas sederhana**: Untuk tanya jawab sederhana, mode chat standar disarankan demi respons yang lebih cepat.
 
@@ -94,4 +94,4 @@ Agent menggunakan panjang konteks **256K karakter** (kira-kira 40.000–50.000 k
 
 **T: Bagaimana kredit Agent dihitung?**
 
-Agent, PPT, dan fitur keanggotaan lainnya berbagi satu kumpulan kredit. Kimi Code menggunakan kumpulan kredit terpisah. Setiap tugas Agent biasanya dihitung sebagai satu unit kredit. Lihat kredit dan penggunaan Anda saat ini di [Kredit Keanggotaan](https://www.kimi.com/membership-credits).
+Agent, PPT, dan fitur keanggotaan lainnya berbagi satu kumpulan kredit. Kimi Code menggunakan kumpulan kredit terpisah. Setiap tugas Agent biasanya dihitung sebagai satu unit kredit.

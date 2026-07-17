@@ -53,7 +53,6 @@ Available out of the box, no configuration needed:
 | **Web Search** | Real-time web search for the latest news and information |
 | **Fetch Tool** | Direct access to specific URLs (web pages, documents, images, and other online resources) |
 | **Image Search** | Text-to-image and image-to-image search for quick visual content discovery |
-| **Image Generation** | Generates images directly from a description (built into K3) |
 | **IPython** | Execute Python code for data analysis and visualization |
 | **Memory** | Smart memory that records your personal preferences and habits |
 
@@ -80,11 +79,10 @@ Kimi K3 supports full-scenario understanding of images, videos, and office docum
 
 ### Important notes
 
-1. **Image generation**: K3 and K3 Swarm have a built-in image generation tool and can generate images directly from a description; K2.6 only supports image search, not direct image generation.
-2. **File output**: K3 can produce editable documents end-to-end (such as `.pptx`, `.docx`, `.xlsx`, `.pdf`) and other complex deliverables; K2.6 focuses on fast Q&A and only outputs text (such as PPT outlines, Word body text, or code).
+1. **File output**: K3 can produce editable documents end-to-end (such as `.pptx`, `.docx`, `.xlsx`, `.pdf`) and other complex deliverables; K2.6 focuses on fast Q&A and only outputs text (such as PPT outlines, Word body text, or code).
 
 <Callout type="tip">
-Tip: To generate images, create complex editable documents, or run multi-step tasks, we recommend choosing **K3** or **K3 Swarm** for the full experience.
+Tip: To generate images, audio, or video, click "+" → Plugin, select the corresponding feature, and use it with **K3**. To create complex editable documents or run multi-step tasks, we recommend choosing **K3** or **K3 Swarm** for the full experience.
 </Callout>
 
 ## Sessions vs. conversation turns

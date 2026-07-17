@@ -23,9 +23,9 @@ Kunjungi [Kimi.com](https://www.kimi.com/) atau unduh aplikasi Kimi untuk mulai 
 Kimi menyediakan beberapa model. Klik tombol beralih model di atas kotak input untuk berpindah.
 | Model | Kekuatan thinking | Paling cocok untuk |
 |-------|-------------------|--------------------|
-| **K2.6** | Standar / Tinggi | Percakapan dan tanya jawab cepat dengan respons lebih gesit |
-| **K3** | Rendah / Tinggi / Maks | Tugas obrolan dan Agent; paling andal secara keseluruhan |
-| **K3 Swarm** | Rendah / Tinggi / Maks | Pencarian skala besar dan pemrosesan batch, dituntaskan sekaligus |
+| **K2.6** | Standard / High | Percakapan dan tanya jawab cepat dengan respons lebih gesit |
+| **K3** | Low / High / Max | Tugas obrolan dan Agent; paling andal secara keseluruhan |
+| **K3 Swarm** | Low / High / Max | Pencarian skala besar dan pemrosesan batch, dituntaskan sekaligus |
 
 <Callout type="tip">
 Perlu tidaknya mencari secara daring ditentukan Kimi secara otomatis berdasarkan pertanyaan Anda — tanpa perlu sakelar manual.

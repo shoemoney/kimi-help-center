@@ -29,5 +29,4 @@ Per una protezione della privacy dei dati di livello enterprise, servizi esclusi
   src="./images/kimi-business-purchase/customer-service-qrcode.png"
   alt="Codice QR dell'assistenza ufficiale di Kimi Business"
 />
-</content>
-</invoke>
+

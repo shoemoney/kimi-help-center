@@ -54,7 +54,7 @@ Agent Swarm s'appuie sur la méthode d'entraînement PARL (Parallel-Agent Reinfo
 À propos du tag [Beta] : [Beta] est un marqueur d'essai désignant un produit d'abord ouvert à un petit nombre d'utilisateurs pour une validation et un perfectionnement à petite échelle ; à mesure que la fonctionnalité gagne en maturité, le tag est progressivement retiré et le produit est déployé pour tout le monde.
 </Callout>
 
-Agent Swarm est réservé aux membres Moderato, Allegretto, Allegro et Vivace. Les tâches consomment nettement plus de crédits que les tâches Agent standard.
+Agent Swarm est réservé aux membres Moderato, Allegretto, Allegro et Vivace. Les tâches consomment nettement plus de crédits (credits) que les tâches Agent standard.
 
 **Étapes :**
 1. Décrivez votre tâche et envoyez-la (par exemple, « Rassembler plus de 200 articles de Paul Graham »)

@@ -21,7 +21,7 @@ Os recursos do Agent e os demais recursos da assinatura do Kimi compartilham um 
 Os recursos da assinatura do Kimi compartilham um único pool de créditos que funciona em todos os lugares. Os recursos do Agent e os demais recursos do Kimi utilizam esse pool:
 | Recurso | Descrição |
 |---------|-------------|
-| **Tarefas de agente** | Sites, documentos, slides, planilhas, pesquisa aprofundada |
+| **Tarefas do Agent** | Sites, documentos, slides, planilhas, pesquisa aprofundada |
 | **Kimi Claw** | Seu assistente de IA pessoal implantado na nuvem |
 | **Outros recursos** | Geração de imagens e muito mais |
 
@@ -48,7 +48,7 @@ Planos de níveis superiores incluem um pool de créditos proporcionalmente maio
 |------|-------------|
 | **Ciclo** | Assinantes mensais e anuais recebem créditos em ciclo **mensal** |
 | **Expiração** | Créditos não utilizados expiram ao final de cada ciclo — eles não acumulam nem são convertidos em dinheiro |
-| **Limites** | Tarefas individuais podem estar sujeitas a limites de concurrency de 5 horas e 7 dias, conforme exibido na interface |
+| **Limites** | Tarefas individuais podem estar sujeitas a limites de concorrência de 5 horas e 7 dias, conforme exibido na interface |
 
 ## Quando os créditos acabam
 - Qualquer tarefa já em andamento será concluída normalmente

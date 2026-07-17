@@ -48,10 +48,10 @@ I piani di livello superiore includono pool di crediti proporzionalmente più am
 |------|-------------|
 | **Ciclo** | Gli abbonati mensili e annuali ricevono entrambi i crediti con cadenza **mensile** |
 | **Scadenza** | I crediti non utilizzati scadono al termine di ogni ciclo — non vengono riportati né convertiti in denaro |
-| **Limiti** | le singole attività possono essere soggetti a limiti di concorrenza di 5 ore e 7 giorni, come indicato nell'interfaccia |
+| **Limiti** | Le singole attività possono essere soggette a limiti di concorrenza di 5 ore e 7 giorni, come indicato nell'interfaccia |
 
 ## Quando i crediti si esauriscono
-- Qualsiasi attività già in corso verrà completato normalmente
+- Qualsiasi attività già in corso verrà completata normalmente
 - Le nuove attività mostreranno l'avviso "crediti insufficienti"
 
 **Le tue opzioni**:

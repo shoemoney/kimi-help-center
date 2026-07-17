@@ -64,7 +64,7 @@ Describe tu tarea con claridad, observa el progreso de la ejecución y luego des
   columns={[
     {
       title: "Funciones y límites",
-      description: "Capacidades y quotas",
+      description: "Capacidades y cuotas",
       pageUrl: "/agent/agent-features-and-limits",
       type: "document",
     },

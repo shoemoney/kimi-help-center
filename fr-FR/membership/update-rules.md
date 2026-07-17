@@ -8,17 +8,17 @@ preview: false
 
 <SeoMeta
   title="Crédits : mise à jour et règles d'utilisation - Centre d'aide Kimi"
-  description="La série Agent et les autres fonctionnalités d'abonnement Kimi partagent une réserve de crédits unique ; Kimi Code dispose de sa propre réserve de crédits distincte. Les crédits sont consommés selon l'usage réel."
+  description="La série Agent et les autres fonctionnalités d'abonnement Kimi partagent un pool de crédits unique ; Kimi Code dispose de son propre pool de crédits distinct. Les crédits sont consommés selon l'usage réel."
 />
 
 # Crédits : mise à jour et règles d'utilisation
 
 <Callout type="info">
-La série Agent et les autres fonctionnalités d'abonnement Kimi partagent une réserve de crédits unique ; Kimi Code dispose de sa propre réserve de crédits distincte. Les crédits sont consommés selon l'usage réel.
+La série Agent et les autres fonctionnalités d'abonnement Kimi partagent un pool de crédits (credits) unique ; Kimi Code dispose de son propre pool de crédits distinct. Les crédits sont consommés selon l'usage réel.
 </Callout>
 
-## Comment fonctionne la réserve de crédits partagée ?
-Les fonctionnalités de l'abonnement Kimi partagent une réserve de crédits unique, utilisable partout. La série Agent et les autres fonctionnalités de Kimi y puisent toutes :
+## Comment fonctionne le pool de crédits partagé ?
+Les fonctionnalités de l'abonnement Kimi partagent un pool de crédits unique, utilisable partout. La série Agent et les autres fonctionnalités de Kimi y puisent toutes :
 | Fonctionnalité | Description |
 |---------|-------------|
 | **Tâches d'agent** | Sites web, documents, présentations, feuilles de calcul, recherche approfondie |
@@ -26,7 +26,7 @@ Les fonctionnalités de l'abonnement Kimi partagent une réserve de crédits uni
 | **Autres fonctionnalités** | Génération d'images et bien plus |
 
 > **K2.6** : les conversations avec le modèle K2.6 ne consomment aucun crédit
-> **Kimi Code** : assistant de codage propulsé par l'IA (réserve de crédits distincte)
+> **Kimi Code** : assistant de codage propulsé par l'IA (pool de crédits distinct)
 
 <Callout type="tip">
 Vous pouvez ainsi répartir vos crédits comme bon vous semble au sein de la réserve partagée — privilégier la recherche un mois, les documents le mois suivant. K2.6 ne consomme aucun crédit.
@@ -40,7 +40,7 @@ La consommation de crédits dépend du nombre de tokens traités par une tâche.
 - Générer une présentation simple ≈ 1 à 2 % de vos crédits
 - Lancer un rapport de recherche approfondie ≈ 5 à 10 %
 - Rédiger un extrait de code ≈ 0,5 à 2 %
-Les offres supérieures s'accompagnent de réserves de crédits proportionnellement plus importantes.
+Les offres supérieures s'accompagnent de pools de crédits proportionnellement plus importants.
 </Callout>
 
 ## Règles de renouvellement des crédits
@@ -48,7 +48,7 @@ Les offres supérieures s'accompagnent de réserves de crédits proportionnellem
 |------|-------------|
 | **Cycle** | Les abonnés mensuels comme annuels reçoivent leurs crédits selon un cycle **mensuel** |
 | **Expiration** | Les crédits non utilisés expirent à la fin de chaque cycle — ils ne sont ni reportés ni convertis en argent |
-| **Limites** | Certaines tâches peuvent être soumises à des limites de concurrency sur 5 heures et 7 jours, comme indiqué dans l'interface |
+| **Limites** | Certaines tâches peuvent être soumises à des limites de simultanéité sur 5 heures et 7 jours, comme indiqué dans l'interface |
 
 ## Lorsque vos crédits sont épuisés
 - Toute tâche déjà en cours se terminera normalement

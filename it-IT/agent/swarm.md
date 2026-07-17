@@ -28,7 +28,7 @@ Agent Swarm è attualmente basato su Kimi K3 (K3 Swarm), che migliora ulteriorme
 
 Nel 2025 la narrativa dominante del settore AI si concentrava sulla scalabilità verticale — modelli più grandi, più parametri. Ma questo approccio incontra un limite strutturale: il collo di bottiglia dell'esecuzione sequenziale singola.
 
-Agent Swarm è nato da uno scenario reale: quando un membro del team ha provato ad automatizzare la raccolta quotidiana di informazioni azionarie e si è ritrovata con 100 righe di codice if-else, ha capito: "Sto scrivendo a mano un sistema multi-agente". Se i modelli sanno usare gli strumenti, perché non possono progettare da soli la propria architettura?
+Agent Swarm è nato da uno scenario reale: quando una persona del team ha provato ad automatizzare la raccolta quotidiana di informazioni azionarie e si è ritrovata con 100 righe di codice if-else, ha capito: "Sto scrivendo a mano un sistema multi-agente". Se i modelli sanno usare gli strumenti, perché non possono progettare da soli la propria architettura?
 
 Agent Swarm è una struttura organizzativa autoprogettata — concepita dall'AI, non dagli esseri umani. L'Agent principale (orchestratore) dirige in autonomia fino a 300 sub-agent, eseguendo fino a 4.000 passaggi di workflow in parallelo.
 
@@ -54,7 +54,7 @@ Agent Swarm adotta il metodo di addestramento PARL (Parallel-Agent Reinforcement
 Informazioni sul tag [Beta]: [Beta] indica un contrassegno di prova per un prodotto inizialmente aperto solo a un numero ristretto di utenti per una validazione e un affinamento su piccola scala; man mano che la funzionalità matura, il tag viene gradualmente rimosso e il prodotto viene esteso a tutti.
 </Callout>
 
-Agent Swarm è disponibile per gli abbonati Moderato, Allegretto, Allegro e Vivace. Le attività consumano molti più credit rispetto alle normali attività dell'Agent.
+Agent Swarm è disponibile per gli abbonati Moderato, Allegretto, Allegro e Vivace. Le attività consumano molti più crediti rispetto alle normali attività dell'Agent.
 
 **Passaggi:**
 1. Descrivi la tua attività e inviala (ad esempio, "Raccogli oltre 200 articoli di Paul Graham")

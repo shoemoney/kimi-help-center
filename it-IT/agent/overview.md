@@ -32,7 +32,7 @@ Kimi Agent è un assistente AI autonomo che gestisce attività complesse dall'in
 | **Fogli di calcolo** | Analisi e visualizzazione di dati Excel/CSV |
 | **Presentazioni** | Generazione automatica di PPT |
 | **Deep Research** | Report di ricerca oltre 10.000 parole |
-| **Agent Swarm** | Fino a 300 sub-agenti che lavorano in parallelo |
+| **Agent Swarm** | Fino a 300 sub-agent che lavorano in parallelo |
 | **Kimi Claw** | Automazione nel cloud con oltre 5.000 skill |
 
 <Frames

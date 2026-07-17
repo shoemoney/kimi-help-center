@@ -24,12 +24,12 @@ Kimi propose cinq formules d'abonnement — dont une formule gratuite — chacun
 | Priorité de vitesse de l'Agent | — | 4× | 4× | 4× | 4× |
 | Agent Swarm (bêta) | — | 25 utilisations | 50 utilisations | 120 utilisations | 240 utilisations |
 | Sous-tâches simultanées d'Agent Swarm | — | 2 | 4 | 4 | 8 |
-| crédits Kimi Code | — | 1× | 5× | 15× | 30× |
+| Crédits Kimi Code | — | 1× | 5× | 15× | 30× |
 | Kimi Claw | — | — | ✅ | ✅ | ✅ |
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
 | Base de données professionnelle | 200 appels | 2 000 appels | 5 000 appels | 12 000 appels | 24 000 appels |
 
-\* Valeurs approximatives basées sur la consommation de token typique d'une tâche. Les crédits mensuels sont convertis en nombre équivalent de tâches pour une même fonctionnalité ; à titre indicatif uniquement.
+\* Valeurs approximatives basées sur la consommation de tokens d'une tâche type. Les crédits mensuels sont convertis en nombre équivalent de tâches pour une même fonctionnalité ; à titre indicatif uniquement.
 
 ## Tarification mensuelle ou annuelle
 
@@ -42,4 +42,4 @@ Kimi propose cinq formules d'abonnement — dont une formule gratuite — chacun
 
 ## Répartition des crédits
 
-La série Agent et les autres fonctionnalités d'abonnement Kimi partagent une réserve de crédits unique ; Kimi Code dispose de sa propre réserve de crédits distincte. Les formules supérieures incluent une réserve de crédits proportionnellement plus importante, permettant des flux de travail plus fréquents et plus complexes. Consultez [Mise à jour des crédits et règles d'utilisation](/membership/update-rules) pour plus de détails.
+La série Agent et les autres fonctionnalités d'abonnement Kimi partagent un pool de crédits (credits) unique ; Kimi Code dispose de son propre pool de crédits distinct. Les formules supérieures incluent un pool de crédits proportionnellement plus important, permettant des flux de travail plus fréquents et plus complexes. Consultez [Mise à jour des crédits et règles d'utilisation](/membership/update-rules) pour plus de détails.

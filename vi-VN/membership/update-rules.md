@@ -48,7 +48,7 @@ Các gói cao cấp hơn có nguồn tín dụng lớn hơn tương ứng.
 |------|-------------|
 | **Chu kỳ** | Cả người đăng ký theo tháng lẫn theo năm đều nhận tín dụng theo chu kỳ **hằng tháng** |
 | **Hết hạn** | Tín dụng chưa dùng sẽ hết hạn vào cuối mỗi chu kỳ — không chuyển sang kỳ sau hay quy đổi thành tiền mặt |
-| **Giới hạn** | Từng tác vụ có thể chịu giới hạn concurrency trong 5 giờ và 7 ngày như hiển thị trên giao diện |
+| **Giới hạn** | Từng tác vụ có thể chịu giới hạn số tác vụ đồng thời trong 5 giờ và 7 ngày như hiển thị trên giao diện |
 
 ## Khi hết tín dụng
 - Mọi tác vụ đang chạy sẽ hoàn tất bình thường

@@ -23,9 +23,9 @@ Truy cập [Kimi.com](https://www.kimi.com/) hoặc tải ứng dụng Kimi đ�
 Kimi cung cấp nhiều mô hình. Nhấp vào nút chuyển mô hình phía trên ô nhập liệu để chuyển đổi.
 | Mô hình | Cường độ tư duy | Phù hợp nhất cho |
 |-------|-------------------|----------|
-| **K2.6** | Tiêu chuẩn / Cao | Trò chuyện và hỏi-đáp nhanh với phản hồi mau lẹ |
-| **K3** | Thấp / Cao / Tối đa | Các tác vụ trò chuyện và Agent; mạnh mẽ nhất về tổng thể |
-| **K3 Swarm** | Thấp / Cao / Tối đa | Tìm kiếm quy mô lớn và xử lý hàng loạt, hoàn thành trong một lần |
+| **K2.6** | Standard / High | Trò chuyện và hỏi-đáp nhanh với phản hồi mau lẹ |
+| **K3** | Low / High / Max | Các tác vụ trò chuyện và Agent; mạnh mẽ nhất về tổng thể |
+| **K3 Swarm** | Low / High / Max | Tìm kiếm quy mô lớn và xử lý hàng loạt, hoàn thành trong một lần |
 
 <Callout type="tip">
 Việc có tìm kiếm trực tuyến hay không do Kimi tự động quyết định dựa trên câu hỏi của bạn — không cần bật/tắt thủ công.

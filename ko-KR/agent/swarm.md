@@ -54,7 +54,7 @@ Agent Swarm은 PARL(Parallel-Agent Reinforcement Learning) 학습 방법을 사�
 [Beta] 태그에 대하여: [Beta]는 제품 출시 초기에 소수의 사용자에게만 공개되어 소규모 검증과 개선을 거치는 시험용 표시입니다. 기능이 성숙해지면 태그가 점차 제거되고 제품이 모든 사용자에게 제공됩니다.
 </Callout>
 
-Agent Swarm은 Moderato, Allegretto, Allegro, Vivace 회원에게 제공됩니다. 작업은 일반 Agent 작업보다 훨씬 많은 credit을 소비합니다.
+Agent Swarm은 Moderato, Allegretto, Allegro, Vivace 회원에게 제공됩니다. 작업은 일반 Agent 작업보다 훨씬 많은 크레딧을 소비합니다.
 
 **단계:**
 1. 작업을 설명하고 전송합니다. 예: "Paul Graham 글 200편 이상 수집해 줘"

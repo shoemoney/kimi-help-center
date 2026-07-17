@@ -14,7 +14,7 @@ preview: false
 # Iniziare a usare Kimi
 
 Puoi digitare domande nella casella della chat, caricare file o passare da un modello all'altro a seconda delle tue esigenze.
-Apri [kimi.com](https://www.kimi.com) e prova a inviare un messaggio: saluta Kimi:
+Apri [kimi.com](https://www.kimi.com) e prova a inviare un messaggio per salutare Kimi:
 
 <CodePreview
   files={[
@@ -32,12 +32,12 @@ Kimi offre più modelli. Fai clic sul pulsante di selezione del modello sopra la
 
 | Modello | Intensità di ragionamento | Ideale per |
 |-------|-------------------|----------|
-| **K2.6** | Standard / Alta | Conversazioni e domande e risposte rapide con risposte più veloci |
-| **K3** | Bassa / Alta / Massima | Attività di chat e Agent; il più capace in assoluto |
-| **K3 Swarm** | Bassa / Alta / Massima | Ricerche su larga scala ed elaborazione in batch, completate in un'unica soluzione |
+| **K2.6** | Standard / High | Conversazioni e domande e risposte rapide con risposte più veloci |
+| **K3** | Low / High / Max | Attività di chat e Agent; il più capace in assoluto |
+| **K3 Swarm** | Low / High / Max | Ricerche su larga scala ed elaborazione in batch, completate in un'unica soluzione |
 
 <Callout type="tip">
-K2.6 non consuma credit; K3 e K3 Swarm sono fatturati in base ai credit. Consulta i [vantaggi dell'abbonamento](https://www.kimi.com/help/membership/membership-overview) per i dettagli.
+K2.6 non consuma crediti; K3 e K3 Swarm sono fatturati in base ai crediti. Consulta i [vantaggi dell'abbonamento](https://www.kimi.com/help/membership/membership-overview) per i dettagli.
 </Callout>
 
 ### Informazioni su Kimi K3

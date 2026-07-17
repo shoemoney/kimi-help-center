@@ -14,7 +14,7 @@ preview: false
 # Kredi güncelleme ve kullanım kuralları
 
 <Callout type="info">
-Agent özellikleri ve diğer Kimi üyelik özellikleri tek bir ortak kredi havuzunu paylaşır; Kimi Code kendi ayrı kredi havuzuna sahiptir. Krediler gerçek kullanıma göre tüketilir.
+Agent özellikleri ve diğer Kimi üyelik özellikleri tek bir ortak kredi (credits) havuzunu paylaşır; Kimi Code kendi ayrı kredi havuzuna sahiptir. Krediler gerçek kullanıma göre tüketilir.
 </Callout>
 
 ## Ortak kredi havuzu nasıl işler?
@@ -48,7 +48,7 @@ Daha üst katman planlar, orantılı olarak daha büyük kredi havuzlarıyla gel
 |------|-------------|
 | **Döngü** | Aylık ve yıllık aboneler kredilerini **aylık** döngüde alır |
 | **Sona erme** | Kullanılmayan krediler her döngünün sonunda sona erer — devredilmez veya nakde dönüştürülmez |
-| **Sınırlar** | Tekil görevler, arayüzde gösterildiği şekilde 5 saatlik ve 7 günlük concurrency sınırlarına tabi olabilir |
+| **Sınırlar** | Tekil görevler, arayüzde gösterildiği şekilde 5 saatlik ve 7 günlük eşzamanlılık sınırlarına tabi olabilir |
 
 ## Krediler bittiğinde
 - Halihazırda devam eden görevler normal şekilde tamamlanır

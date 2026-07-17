@@ -98,7 +98,7 @@ Descrivi le tue esigenze in linguaggio naturale. Sono supportate tre modalità d
   alt="screenshot 26"
 />
 
-Kimi website attiva la **SKILL di creazione di webapp**, un agente dedicato alla generazione di codice in più round:
+Kimi Websites attiva la **SKILL di creazione di webapp**, un agente dedicato alla generazione di codice in più round:
 1. **Analisi dei requisiti**: analizza i moduli del sito, lo stile visivo e la logica di interazione
 2. **Pianificazione delle attività**: scompone il lavoro in sotto-attività di design, sviluppo e preparazione delle risorse
 3. **Scelta dello stack tecnologico**: seleziona l'architettura più adatta (ad esempio React + Tailwind CSS)

@@ -54,7 +54,7 @@ Agent Swarm utiliza el método de entrenamiento PARL (Parallel-Agent Reinforceme
 Acerca de la etiqueta [Beta]: [Beta] indica un marcador de prueba para un producto que al inicio solo está disponible para un número reducido de usuarios, con el fin de validarlo y refinarlo a pequeña escala; a medida que la función madura, la etiqueta se retira gradualmente y el producto se pone a disposición de todos.
 </Callout>
 
-Agent Swarm está disponible para los miembros Moderato, Allegretto, Allegro y Vivace. Las tareas consumen muchos más credits que las tareas estándar de Agent.
+Agent Swarm está disponible para los miembros Moderato, Allegretto, Allegro y Vivace. Las tareas consumen muchos más créditos que las tareas estándar de Agent.
 
 **Pasos:**
 1. Describe tu tarea y envíala (por ejemplo, "Recopila más de 200 artículos de Paul Graham")

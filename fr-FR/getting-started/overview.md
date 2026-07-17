@@ -23,9 +23,9 @@ Rendez-vous sur [Kimi.com](https://www.kimi.com/) ou téléchargez l'application
 Kimi propose plusieurs modèles. Cliquez sur le bouton de changement de modèle au-dessus de la zone de saisie pour en changer.
 | Modèle | Puissance de réflexion | Idéal pour |
 |--------|------------------------|------------|
-| **K2.6** | Standard / Élevée | Conversation et questions-réponses rapides, avec des réponses plus véloces |
-| **K3** | Faible / Élevée / Max | Tâches de conversation et d'Agent ; le plus performant globalement |
-| **K3 Swarm** | Faible / Élevée / Max | Recherche à grande échelle et traitement par lots, réalisés en une seule fois |
+| **K2.6** | Standard / High | Conversation et questions-réponses rapides, avec des réponses plus véloces |
+| **K3** | Low / High / Max | Tâches de conversation et d'Agent ; le plus performant globalement |
+| **K3 Swarm** | Low / High / Max | Recherche à grande échelle et traitement par lots, réalisés en une seule fois |
 
 <Callout type="tip">
 C'est Kimi qui décide automatiquement s'il faut effectuer une recherche en ligne, en fonction de votre question — aucun bouton manuel n'est nécessaire.

@@ -25,7 +25,7 @@ Kimi cung cấp năm hạng thành viên — bao gồm cả gói miễn phí —
 | Ưu tiên tốc độ Agent | — | 4× | 4× | 4× | 4× |
 | Agent Swarm (beta) | — | 25 lượt | 50 lượt | 120 lượt | 240 lượt |
 | Tác vụ con đồng thời của Agent Swarm | — | 2 | 4 | 4 | 8 |
-| tín dụng Kimi Code | — | 1× | 5× | 15× | 30× |
+| Tín dụng Kimi Code | — | 1× | 5× | 15× | 30× |
 | Kimi Claw | — | — | ✅ | ✅ | ✅ |
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
 | Cơ sở dữ liệu chuyên nghiệp | 200 lượt gọi | 2.000 lượt gọi | 5.000 lượt gọi | 12.000 lượt gọi | 24.000 lượt gọi |

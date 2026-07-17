@@ -92,6 +92,6 @@ Một dự án hoàn chỉnh thường gồm ba phần: giao diện frontend, d�
 
 Agent sử dụng độ dài ngữ cảnh **256K ký tự** (khoảng 40.000–50.000 ký tự tiếng Trung / khoảng 100.000 từ tiếng Anh).
 
-**Q: tín dụng của Agent được tính như thế nào?**
+**Q: Tín dụng của Agent được tính như thế nào?**
 
 Agent, PPT và các tính năng thành viên khác dùng chung một kho tín dụng. Kimi Code dùng một kho tín dụng riêng. Mỗi tác vụ Agent thường được tính là một đơn vị tín dụng.

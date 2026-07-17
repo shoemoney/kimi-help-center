@@ -69,7 +69,7 @@ Mô tả tác vụ của bạn một cách rõ ràng, theo dõi tiến trình th
       type: "document",
     },
     {
-      title: "tín dụng & Thanh toán",
+      title: "Tín dụng & Thanh toán",
       description: "Chi tiết về giá và tư cách thành viên",
       pageUrl: "/agent/quota-and-billing",
       type: "data",

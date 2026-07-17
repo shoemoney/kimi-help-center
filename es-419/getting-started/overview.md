@@ -23,9 +23,9 @@ Visita [Kimi.com](https://www.kimi.com/) o descarga la app de Kimi para empezar 
 Kimi ofrece varios modelos. Haz clic en el botón de cambio de modelo, situado encima del cuadro de entrada, para cambiar.
 | Modelo | Fuerza de pensamiento | Ideal para |
 |-------|-------------------|----------|
-| **K2.6** | Estándar / Alta | Conversación rápida y preguntas y respuestas con respuestas más ágiles |
-| **K3** | Baja / Alta / Máxima | Tareas de chat y de Agent; el más capaz en general |
-| **K3 Swarm** | Baja / Alta / Máxima | Búsqueda a gran escala y procesamiento por lotes, completado de una sola vez |
+| **K2.6** | Standard / High | Conversación rápida y preguntas y respuestas con respuestas más ágiles |
+| **K3** | Low / High / Max | Tareas de chat y de Agent; el más capaz en general |
+| **K3 Swarm** | Low / High / Max | Búsqueda a gran escala y procesamiento por lotes, completado de una sola vez |
 
 <Callout type="tip">
 Kimi decide automáticamente si buscar en línea según tu pregunta, sin necesidad de un interruptor manual.

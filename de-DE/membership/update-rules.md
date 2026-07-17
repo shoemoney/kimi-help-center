@@ -33,7 +33,7 @@ Das bedeutet: Sie können Ihre Credits aus dem gemeinsamen Pool ganz nach Belieb
 </Callout>
 
 ## Wie werden Credits berechnet?
-Der Credit-Verbrauch richtet sich nach der Anzahl der token, die eine Aufgabe verarbeitet. Längere Eingaben und Ausgaben verbrauchen mehr token.
+Der Credit-Verbrauch richtet sich nach der Anzahl der Token, die eine Aufgabe verarbeitet. Längere Eingaben und Ausgaben verbrauchen mehr Token.
 
 <Callout type="info">
 **Grobe Orientierung für Nutzer im kostenlosen Tarif**:
@@ -48,7 +48,7 @@ Höhere Tarife enthalten entsprechend größere Credit-Pools.
 |------|-------------|
 | **Zyklus** | Sowohl Monats- als auch Jahresabonnenten erhalten Credits in einem **monatlichen** Zyklus |
 | **Ablauf** | Nicht genutzte Credits verfallen am Ende jedes Zyklus – sie werden weder übertragen noch in Guthaben umgewandelt |
-| **Limits** | Einzelne Aufgaben können den in der Benutzeroberfläche angezeigten concurrency-Limits von 5 Stunden und 7 Tagen unterliegen |
+| **Limits** | Einzelne Aufgaben können den in der Benutzeroberfläche angezeigten Concurrency-Limits von 5 Stunden und 7 Tagen unterliegen |
 
 ## Wenn die Credits aufgebraucht sind
 - Jede bereits laufende Aufgabe wird normal zu Ende geführt

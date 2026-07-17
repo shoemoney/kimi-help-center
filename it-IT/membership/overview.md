@@ -25,7 +25,7 @@ Kimi propone cinque livelli di abbonamento — incluso un piano gratuito — pen
 | Priorità di velocità Agent | — | 4× | 4× | 4× | 4× |
 | Agent Swarm (beta) | — | 25 utilizzi | 50 utilizzi | 120 utilizzi | 240 utilizzi |
 | Sottoattività Agent Swarm in contemporanea | — | 2 | 4 | 4 | 8 |
-| crediti Kimi Code | — | 1× | 5× | 15× | 30× |
+| Crediti Kimi Code | — | 1× | 5× | 15× | 30× |
 | Kimi Claw | — | — | ✅ | ✅ | ✅ |
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
 | Database professionale | 200 chiamate | 2.000 chiamate | 5.000 chiamate | 12.000 chiamate | 24.000 chiamate |

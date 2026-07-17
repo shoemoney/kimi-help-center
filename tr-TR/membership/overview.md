@@ -14,7 +14,7 @@ preview_content: "Kimi'nin beş üyelik kademesini, kredi sistemini ve faturalan
 
 # Üyelik planlarına genel bakış
 
-Kimi, günlük üretkenlikten ileri düzey kullanıcı iş akışlarına kadar ihtiyaçlarınızla birlikte ölçeklenecek şekilde tasarlanmış, biri ücretsiz olmak üzere beş üyelik kademesi sunar. Agent özellikleri ve diğer Kimi üyelik özellikleri tek bir ortak kredi havuzunu paylaşır; Kimi Code kendi ayrı kredi havuzuna sahiptir. K2.6 kredi tüketmez.
+Kimi, günlük üretkenlikten ileri düzey kullanıcı iş akışlarına kadar ihtiyaçlarınızla birlikte ölçeklenecek şekilde tasarlanmış, biri ücretsiz olmak üzere beş üyelik kademesi sunar. Agent özellikleri ve diğer Kimi üyelik özellikleri tek bir ortak kredi (credits) havuzunu paylaşır; Kimi Code kendi ayrı kredi havuzuna sahiptir. K2.6 kredi tüketmez.
 
 ## Plan karşılaştırması
 

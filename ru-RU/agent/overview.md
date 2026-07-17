@@ -69,8 +69,8 @@ Kimi Agent — автономный AI-помощник, который выпо
       type: "document",
     },
     {
-      title: "кредиты & биллинг",
-      description: "Цены и сведения о членстве",
+      title: "Кредиты & оплата",
+      description: "Цены и сведения о подписке",
       pageUrl: "/agent/quota-and-billing",
       type: "data",
     },

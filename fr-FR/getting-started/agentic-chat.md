@@ -32,12 +32,12 @@ Kimi propose plusieurs modèles. Cliquez sur le bouton de changement de modèle 
 
 | Modèle | Puissance de réflexion | Idéal pour |
 |--------|------------------------|------------|
-| **K2.6** | Standard / Élevée | Conversation et questions-réponses rapides, avec des réponses plus véloces |
-| **K3** | Faible / Élevée / Max | Tâches de conversation et d'Agent ; le plus performant globalement |
-| **K3 Swarm** | Faible / Élevée / Max | Recherche à grande échelle et traitement par lots, réalisés en une seule fois |
+| **K2.6** | Standard / High | Conversation et questions-réponses rapides, avec des réponses plus véloces |
+| **K3** | Low / High / Max | Tâches de conversation et d'Agent ; le plus performant globalement |
+| **K3 Swarm** | Low / High / Max | Recherche à grande échelle et traitement par lots, réalisés en une seule fois |
 
 <Callout type="tip">
-K2.6 ne consomme aucun crédit ; K3 et K3 Swarm sont facturés en crédits. Consultez les [avantages de l'abonnement](https://www.kimi.com/help/membership/membership-overview) pour plus de détails.
+K2.6 ne consomme aucun crédit (credit) ; K3 et K3 Swarm sont facturés en crédits. Consultez les [avantages de l'abonnement](https://www.kimi.com/help/membership/membership-overview) pour plus de détails.
 </Callout>
 
 ### À propos de Kimi K3

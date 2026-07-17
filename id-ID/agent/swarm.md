@@ -54,7 +54,7 @@ Agent Swarm menggunakan metode pelatihan PARL (Parallel-Agent Reinforcement Lear
 Tentang tag [Beta]: [Beta] menandakan penanda uji coba untuk produk yang pada awalnya hanya dibuka bagi sejumlah kecil pengguna untuk validasi dan penyempurnaan berskala kecil; seiring fitur matang, tag ini secara bertahap dihapus dan produk diluncurkan untuk semua orang.
 </Callout>
 
-Agent Swarm tersedia untuk anggota Moderato, Allegretto, Allegro, dan Vivace. Tugas-tugasnya menghabiskan credit jauh lebih banyak daripada tugas Agent standar.
+Agent Swarm tersedia untuk anggota Moderato, Allegretto, Allegro, dan Vivace. Tugas-tugasnya menghabiskan kredit jauh lebih banyak daripada tugas Agent standar.
 
 **Langkah-langkah:**
 1. Jelaskan tugas Anda lalu kirim (mis. "Kumpulkan 200+ artikel Paul Graham")

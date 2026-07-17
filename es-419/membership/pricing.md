@@ -19,12 +19,12 @@ Kimi ofrece cinco niveles de membresía, incluido un plan gratuito, cada uno dis
 
 | Función | Adagio (gratis) | Moderato ($19/mes) | Allegretto ($39/mes) | Allegro ($99/mes) | Vivace ($199/mes) |
 |---------|---------------|-------------------|---------------------|-------------------|-------------------|
-| Cuota de Agent* | 6 | 60 | 150 | 360 | 720 |
-| Tareas concurrentes de Agent | 1 | 2 | 2 | 4 | 4 |
+| Créditos de Agent* | 6 | 60 | 150 | 360 | 720 |
+| Tareas simultáneas de Agent | 1 | 2 | 2 | 4 | 4 |
 | Prioridad de velocidad de Agent | — | 4× | 4× | 4× | 4× |
 | Agent Swarm (beta) | — | 25 usos | 50 usos | 120 usos | 240 usos |
-| Subtareas concurrentes de Agent Swarm | — | 2 | 4 | 4 | 8 |
-| Cuota de Kimi Code | — | 1× | 5× | 15× | 30× |
+| Subtareas simultáneas de Agent Swarm | — | 2 | 4 | 4 | 8 |
+| Créditos de Kimi Code | — | 1× | 5× | 15× | 30× |
 | Kimi Claw | — | — | ✅ | ✅ | ✅ |
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
 | Base de datos profesional | 200 llamadas | 2,000 llamadas | 5,000 llamadas | 12,000 llamadas | 24,000 llamadas |

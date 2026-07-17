@@ -4,17 +4,17 @@ slug: "membership-overview"
 order: 1
 extract_headings: true
 preview: true
-preview_content: "Vergleichen Sie Kimis fünf Mitgliedschaftsstufen, das credit-System und die Abrechnungsoptionen."
+preview_content: "Vergleichen Sie Kimis fünf Mitgliedschaftsstufen, das Credit-System und die Abrechnungsoptionen."
 ---
 
 <SeoMeta
   title="Übersicht der Kimi-Mitgliedschaft - Kimi Hilfecenter"
-  description="Vergleichen Sie Kimis fünf Mitgliedschaftsstufen, das credit-System und die Abrechnungsoptionen."
+  description="Vergleichen Sie Kimis fünf Mitgliedschaftsstufen, das Credit-System und die Abrechnungsoptionen."
 />
 
 # Übersicht der Mitgliedschaftspläne
 
-Kimi bietet fünf Mitgliedschaftsstufen – darunter einen kostenlosen Plan –, die mit Ihren Anforderungen mitwachsen: vom alltäglichen Arbeiten bis hin zu Workflows für Power-User. Agent-Funktionen und weitere Kimi-Mitgliedschaftsfunktionen teilen sich einen einzigen credit-Pool; Kimi Code verfügt über einen eigenen, separaten credit-Pool. K2.6 verbraucht keine credits.
+Kimi bietet fünf Mitgliedschaftsstufen – darunter einen kostenlosen Plan –, die mit Ihren Anforderungen mitwachsen: vom alltäglichen Arbeiten bis hin zu Workflows für Power-User. Agent-Funktionen und weitere Kimi-Mitgliedschaftsfunktionen teilen sich einen einzigen Credit-Pool; Kimi Code verfügt über einen eigenen, separaten Credit-Pool. K2.6 verbraucht keine Credits.
 
 ## Plan-Vergleich
 
@@ -30,16 +30,16 @@ Kimi bietet fünf Mitgliedschaftsstufen – darunter einen kostenlosen Plan –,
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
 | Professionelle Datenbank | 200 Aufrufe | 2.000 Aufrufe | 5.000 Aufrufe | 12.000 Aufrufe | 24.000 Aufrufe |
 
-\* Näherungswerte auf Basis des typischen token-Verbrauchs pro Aufgabe. Die monatlichen credits werden zur entsprechenden Anzahl an Aufgaben für dieselbe Funktion umgerechnet; nur als Richtwert.
+\* Näherungswerte auf Basis des typischen Token-Verbrauchs pro Aufgabe. Die monatlichen Credits werden zur entsprechenden Anzahl an Aufgaben für dieselbe Funktion umgerechnet; nur als Richtwert.
 
 <Callout type="tip">
-Nutzen Sie das gesamte credit-Limit für dieselbe Funktion
+Nutzen Sie das gesamte Credit-Limit für dieselbe Funktion
 </Callout>
 
 ## So funktioniert die Abrechnung
 
-- **credit-Pool** – Agent-Funktionen und weitere Kimi-Mitgliedschaftsfunktionen teilen sich einen credit-Pool; Kimi Code verfügt über einen eigenen, separaten credit-Pool, abgerechnet nach token-Verbrauch.
-- **Monatliche Erneuerung** – Die credits werden zu Beginn jedes Abrechnungszeitraums zurückgesetzt.
+- **Credit-Pool** – Agent-Funktionen und weitere Kimi-Mitgliedschaftsfunktionen teilen sich einen Credit-Pool; Kimi Code verfügt über einen eigenen, separaten Credit-Pool, abgerechnet nach Token-Verbrauch.
+- **Monatliche Erneuerung** – Die Credits werden zu Beginn jedes Abrechnungszeitraums zurückgesetzt.
 
 ## Mit jährlicher Abrechnung sparen
 
@@ -49,7 +49,7 @@ Wechseln Sie zur jährlichen Abrechnung und sparen Sie bis zu **480 $/Jahr**. Di
   columns={[
     {
       title: "Credit-Regeln",
-      description: "So funktionieren credits und ihre Erneuerung",
+      description: "So funktionieren Credits und ihre Erneuerung",
       pageUrl: "/membership/update-rules",
       type: "document",
     },

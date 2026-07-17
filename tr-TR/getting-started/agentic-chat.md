@@ -32,9 +32,9 @@ Kimi, birden çok model sunar. Geçiş yapmak için giriş kutusunun üzerindeki
 
 | Model | Düşünme gücü | En uygun |
 |-------|-------------------|----------|
-| **K2.6** | Standart / Yüksek | Daha hızlı yanıtlarla hızlı sohbet ve soru-cevap |
-| **K3** | Düşük / Yüksek / Maksimum | Sohbet ve Agent görevleri; genel olarak en yetenekli model |
-| **K3 Swarm** | Düşük / Yüksek / Maksimum | Büyük ölçekli arama ve toplu işleme, tek seferde tamamlanır |
+| **K2.6** | Standard / High | Daha hızlı yanıtlarla hızlı sohbet ve soru-cevap |
+| **K3** | Low / High / Max | Sohbet ve Agent görevleri; genel olarak en yetenekli model |
+| **K3 Swarm** | Low / High / Max | Büyük ölçekli arama ve toplu işleme, tek seferde tamamlanır |
 
 <Callout type="tip">
 K2.6 kredi tüketmez; K3 ve K3 Swarm krediyle faturalandırılır. Ayrıntılar için [üyelik avantajlarına](https://www.kimi.com/help/membership/membership-overview) bakın.

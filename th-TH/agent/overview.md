@@ -64,12 +64,12 @@ Kimi Agent คือผู้ช่วย AI อัตโนมัติที�
   columns={[
     {
       title: "ฟีเจอร์และข้อจำกัด",
-      description: "ความสามารถและ เครดิต",
+      description: "ความสามารถและเครดิต",
       pageUrl: "/agent/agent-features-and-limits",
       type: "document",
     },
     {
-      title: "เครดิต และการเรียกเก็บเงิน",
+      title: "เครดิตและการเรียกเก็บเงิน",
       description: "รายละเอียดราคาและการเป็นสมาชิก",
       pageUrl: "/agent/quota-and-billing",
       type: "data",

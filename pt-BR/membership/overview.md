@@ -25,7 +25,7 @@ O Kimi oferece cinco níveis de assinatura — incluindo um plano gratuito — p
 | Prioridade de velocidade do Agent | — | 4× | 4× | 4× | 4× |
 | Agent Swarm (beta) | — | 25 usos | 50 usos | 120 usos | 240 usos |
 | Subtarefas simultâneas do Agent Swarm | — | 2 | 4 | 4 | 8 |
-| créditos do Kimi Code | — | 1× | 5× | 15× | 30× |
+| Créditos do Kimi Code | — | 1× | 5× | 15× | 30× |
 | Kimi Claw | — | — | ✅ | ✅ | ✅ |
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
 | Base de dados profissional | 200 chamadas | 2.000 chamadas | 5.000 chamadas | 12.000 chamadas | 24.000 chamadas |

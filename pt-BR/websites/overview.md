@@ -18,7 +18,7 @@ preview_content: "Crie e publique sites a partir de descrições em linguagem na
 O **Kimi Websites** é um recurso do produto Kimi Agent, impulsionado pelo mais recente modelo de IA agente visual multimodal Kimi K3. Sua capacidade central é o **Vibe Coding** — gerar sites a partir de linguagem natural e publicá-los online.
 </Callout>
 
-Ao compreender entradas visuais (mockups de UI, capturas de tela, vídeos de interação) e instruções em linguagem natural, a Kimi transforma o que o usuário fornece em código frontend completo e funcional — cobrindo não só a interface estática, mas também o comportamento interativo dinâmico.
+Ao compreender entradas visuais (mockups de UI, capturas de tela, vídeos de interação) e instruções em linguagem natural, o Kimi transforma o que o usuário fornece em código frontend completo e funcional — cobrindo não só a interface estática, mas também o comportamento interativo dinâmico.
 
 ## Visão geral do recurso
 
@@ -61,11 +61,11 @@ Ao compreender entradas visuais (mockups de UI, capturas de tela, vídeos de int
 
 ### Método 2: aplicativo móvel
 
-iOS, Android e HarmonyOS contam com o aplicativo oficial da Kimi. Na área de entrada, toque na **barra de tarefas** → alterne para o **modo Websites**, que reúne ferramentas de geração multimodal e recursos do Agent.
+iOS, Android e HarmonyOS contam com o aplicativo oficial do Kimi. Na área de entrada, toque na **barra de tarefas** → alterne para o **modo Websites**, que reúne ferramentas de geração multimodal e recursos do Agent.
 
 ### Método 3: modo Agent geral
 
-Selecione o modelo K3 e insira uma tarefa de criação de site. A Kimi acionará suas capacidades de programação visual e ferramentas de execução de código.
+Selecione o modelo K3 e insira uma tarefa de criação de site. O Kimi acionará suas capacidades de programação visual e ferramentas de execução de código.
 
 ## Como o Kimi Websites funciona?
 
@@ -112,7 +112,7 @@ O Kimi Websites ativa a **SKILL de criação de webapps** — um agente dedicado
 
 <Callout type="tip">
 **Exemplo**: *"As cores não ficaram boas — gostaria de abandonar a exigência de preto e branco e deixar o site com aparência mais comum."*
-A Kimi reorganizará a lista de tarefas e dará continuidade à criação.
+O Kimi reorganizará a lista de tarefas e dará continuidade à criação.
 </Callout>
 
 <Frames

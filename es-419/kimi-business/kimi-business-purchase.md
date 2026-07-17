@@ -23,7 +23,7 @@ Kimi Business comienza con 5 puestos y una suscripción anual, y puedes agregar 
 
 ## Contactar al soporte
 
-Para protección de la privacidad de los datos de nivel empresarial, servicios exclusivos para empresas (incluida la firma de contratos empresariales fuera de línea), soporte técnico dedicado y otras necesidades, escanea el código QR para contactar directamente a nuestro soporte oficial.
+Para la protección de la privacidad de datos de nivel empresarial, servicios exclusivos para empresas (incluida la firma de contratos empresariales fuera de línea), soporte técnico dedicado y otras necesidades, escanea el código QR para contactar directamente a nuestro soporte oficial.
 
 <Frames
   src="./images/kimi-business-purchase/customer-service-qrcode.png"

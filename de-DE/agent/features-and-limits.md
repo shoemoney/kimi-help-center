@@ -92,6 +92,6 @@ Ein vollständiges Projekt besteht in der Regel aus drei Teilen: Frontend-Oberfl
 
 Agent nutzt eine Kontextlänge von **256K Zeichen** (etwa 40.000–50.000 chinesische Zeichen / ca. 100.000 englische Wörter).
 
-**F: Wie wird das Credits von Agent berechnet?**
+**F: Wie werden die Credits von Agent berechnet?**
 
 Agent, PPT und weitere Mitgliedschaftsfunktionen teilen sich ein Credits-Kontingent. Kimi Code nutzt ein separates Credits-Kontingent. Jede Agent-Aufgabe zählt in der Regel als eine Credit-Einheit.

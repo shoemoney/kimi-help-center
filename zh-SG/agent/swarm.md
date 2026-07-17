@@ -54,7 +54,7 @@ Agent Swarm 采用 PARL（Parallel-Agent Reinforcement Learning）训练方法�
 关于 [Beta] 标记：[Beta] 表示试用标记，代表产品初期仅面向少量用户开放，用于小范围验证和打磨；随着功能成熟，该标记会逐步移除，产品也会向所有用户全面开放。
 </Callout>
 
-Agent Swarm 目前面向 Moderato、Allegretto、Allegro 和 Vivace 会员开放。相比标准 Agent 任务，此类任务会消耗显著更多的 credits。
+Agent Swarm 目前面向 Moderato、Allegretto、Allegro 和 Vivace 会员开放。相比标准 Agent 任务，此类任务会消耗明显更多的额度。
 
 **步骤：**
 1. 描述并发送你的任务（例如：“收集 200+ 篇 Paul Graham 文章”）

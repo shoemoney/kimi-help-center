@@ -32,9 +32,9 @@ O Kimi oferece vários modelos. Clique no botão de troca de modelo acima da cai
 
 | Modelo | Intensidade de raciocínio | Ideal para |
 |-------|-------------------|----------|
-| **K2.6** | Padrão / Alto | Conversa e perguntas e respostas rápidas, com respostas mais ágeis |
-| **K3** | Baixo / Alto / Máximo | Tarefas de chat e Agent; o mais capaz no geral |
-| **K3 Swarm** | Baixo / Alto / Máximo | Busca em larga escala e processamento em lote, concluídos de uma só vez |
+| **K2.6** | Standard / High | Conversa e perguntas e respostas rápidas, com respostas mais ágeis |
+| **K3** | Low / High / Max | Tarefas de chat e Agent; o mais capaz no geral |
+| **K3 Swarm** | Low / High / Max | Busca em larga escala e processamento em lote, concluídos de uma só vez |
 
 <Callout type="tip">
 O K2.6 não consome créditos; o K3 e o K3 Swarm são cobrados por créditos. Consulte os [benefícios de assinatura](https://www.kimi.com/help/membership/membership-overview) para saber mais.

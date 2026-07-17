@@ -14,7 +14,7 @@ preview: false
 # Primeros pasos con Kimi
 
 Puedes escribir preguntas en el cuadro de chat, subir archivos o cambiar entre modelos según lo que necesites.
-Abre [kimi.com](https://www.kimi.com) y prueba a enviar un mensaje: saluda a Kimi:
+Abre [kimi.com](https://www.kimi.com) y prueba a enviar un mensaje y saluda a Kimi:
 
 <CodePreview
   files={[
@@ -32,12 +32,12 @@ Kimi ofrece varios modelos. Haz clic en el botón de cambio de modelo, situado e
 
 | Modelo | Fuerza de pensamiento | Ideal para |
 |-------|-------------------|----------|
-| **K2.6** | Estándar / Alta | Conversación rápida y preguntas y respuestas con respuestas más ágiles |
-| **K3** | Baja / Alta / Máxima | Tareas de chat y de Agent; el más capaz en general |
-| **K3 Swarm** | Baja / Alta / Máxima | Búsqueda a gran escala y procesamiento por lotes, completado de una sola vez |
+| **K2.6** | Standard / High | Conversación rápida y preguntas y respuestas con respuestas más ágiles |
+| **K3** | Low / High / Max | Tareas de chat y de Agent; el más capaz en general |
+| **K3 Swarm** | Low / High / Max | Búsqueda a gran escala y procesamiento por lotes, completado de una sola vez |
 
 <Callout type="tip">
-K2.6 no consume credits; K3 y K3 Swarm se cobran por credits. Consulta los [beneficios de membresía](https://www.kimi.com/help/membership/membership-overview) para más detalles.
+K2.6 no consume créditos; K3 y K3 Swarm se cobran por créditos. Consulta los [beneficios de membresía](https://www.kimi.com/help/membership/membership-overview) para más detalles.
 </Callout>
 
 ### Acerca de Kimi K3

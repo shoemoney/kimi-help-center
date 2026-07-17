@@ -18,7 +18,7 @@ preview_content: "Entdecken Sie Kimis Modelle, KI-Agenten, Dateiverarbeitung und
 Kimi ist ein KI-Assistent von Moonshot AI – mit integrierter Websuche, vertieftem Denken, multimodalem Schlussfolgern und Unterhaltungen mit extrem langem Kontext.
 </Callout>
 
-Besuchen Sie [Kimi.com](https://www.kimi.com/) oder laden Sie die Kimi-App herunter, um zu chatten, zu erstellen, zu recherchieren und zu entwickeln. Entwickler finden auf der [Kimi Offene Plattform](https://platform.kimi.ai/) APIs und Werkzeuge, um Kimis Fähigkeiten in ihre eigenen Anwendungen zu integrieren.
+Besuchen Sie [Kimi.com](https://www.kimi.com/) oder laden Sie die Kimi-App herunter, um zu chatten, zu erstellen, zu recherchieren und zu entwickeln. Entwickler finden auf der [Kimi Open Platform](https://platform.kimi.ai/) APIs und Werkzeuge, um Kimis Fähigkeiten in ihre eigenen Anwendungen zu integrieren.
 ## Chat und Modelle
 Kimi bietet mehrere Modelle. Klicken Sie auf die Modellauswahl-Schaltfläche über dem Eingabefeld, um zu wechseln.
 | Modell | Denkstärke | Am besten geeignet für |

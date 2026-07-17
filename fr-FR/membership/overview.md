@@ -14,7 +14,7 @@ preview_content: "Comparez les cinq niveaux d'abonnement de Kimi, le système de
 
 # Présentation des formules d'abonnement
 
-Kimi propose cinq niveaux d'abonnement — dont une formule gratuite — conçus pour évoluer selon vos besoins, de la productivité quotidienne aux usages les plus intensifs. La série Agent et les autres fonctionnalités d'abonnement Kimi partagent un pool de crédits unique ; Kimi Code dispose de son propre pool de crédits distinct. K2.6 ne consomme aucun crédit.
+Kimi propose cinq niveaux d'abonnement — dont une formule gratuite — conçus pour évoluer selon vos besoins, de la productivité quotidienne aux usages les plus intensifs. La série Agent et les autres fonctionnalités d'abonnement Kimi partagent un pool de crédits (credits) unique ; Kimi Code dispose de son propre pool de crédits distinct. K2.6 ne consomme aucun crédit.
 
 ## Comparatif des formules
 
@@ -25,7 +25,7 @@ Kimi propose cinq niveaux d'abonnement — dont une formule gratuite — conçus
 | Priorité de vitesse Agent | — | 4× | 4× | 4× | 4× |
 | Agent Swarm (bêta) | — | 25 utilisations | 50 utilisations | 120 utilisations | 240 utilisations |
 | Sous-tâches simultanées Agent Swarm | — | 2 | 4 | 4 | 8 |
-| crédits Kimi Code | — | 1× | 5× | 15× | 30× |
+| Crédits Kimi Code | — | 1× | 5× | 15× | 30× |
 | Kimi Claw | — | — | ✅ | ✅ | ✅ |
 | Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
 | Base de données professionnelle | 200 appels | 2 000 appels | 5 000 appels | 12 000 appels | 24 000 appels |

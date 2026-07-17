@@ -37,7 +37,7 @@ Kimi bietet mehrere Modelle. Klicken Sie auf die Modellauswahl-Schaltfläche üb
 | **K3 Swarm** | Low / High / Max | Umfangreiche Suchen und Stapelverarbeitung, in einem Durchgang erledigt |
 
 <Callout type="tip">
-K2.6 verbraucht keine credits; K3 und K3 Swarm werden nach credits abgerechnet. Weitere Einzelheiten finden Sie unter [Mitgliedschaftsvorteile](https://www.kimi.com/help/membership/membership-overview).
+K2.6 verbraucht keine Credits; K3 und K3 Swarm werden nach Credits abgerechnet. Weitere Einzelheiten finden Sie unter [Mitgliedschaftsvorteile](https://www.kimi.com/help/membership/membership-overview).
 </Callout>
 
 ### Über Kimi K3

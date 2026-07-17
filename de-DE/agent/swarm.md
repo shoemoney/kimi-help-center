@@ -54,7 +54,7 @@ Agent Swarm nutzt die Trainingsmethode PARL (Parallel-Agent Reinforcement Learni
 Zum Hinweis [Beta]: [Beta] kennzeichnet ein Produkt in der Testphase, das zunächst nur einer kleinen Zahl von Nutzern für eine Validierung und Feinabstimmung im kleinen Rahmen zugänglich ist; sobald die Funktion ausgereift ist, wird der Hinweis nach und nach entfernt und das Produkt allen zur Verfügung gestellt.
 </Callout>
 
-Agent Swarm steht Mitgliedern der Tarife Moderato, Allegretto, Allegro und Vivace zur Verfügung. Aufgaben verbrauchen deutlich mehr credits als reguläre Agent-Aufgaben.
+Agent Swarm steht Mitgliedern der Tarife Moderato, Allegretto, Allegro und Vivace zur Verfügung. Aufgaben verbrauchen deutlich mehr Credits als reguläre Agent-Aufgaben.
 
 **Schritte:**
 1. Beschreibe deine Aufgabe und schicke sie ab (z. B. „Sammle über 200 Artikel von Paul Graham“)

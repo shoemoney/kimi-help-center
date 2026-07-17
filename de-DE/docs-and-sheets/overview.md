@@ -56,7 +56,7 @@ Kimi Docs verfügt über starke Textanpassungsfähigkeiten und ein systematische
 4. **Aufgabe eingeben**:
    - **Texteingabe**: Geben Sie eine Aufgabe in natürlicher Sprache ein
    - **Dokument hochladen** zur Bearbeitung
-   - **Beispiele durchstöbern**: Klicken Sie auf „So eines erstellen", passen Sie es an und senden Sie es
+   - **Beispiele durchstöbern**: Klicken Sie auf „So eines erstellen“, passen Sie es an und senden Sie es
 5. **Mit dem Erstellen beginnen**: Wählen Sie eine Vorlage oder erstellen Sie etwas im Dialog
 
 <Frames
@@ -65,7 +65,7 @@ Kimi Docs verfügt über starke Textanpassungsfähigkeiten und ein systematische
 />
 
 <Callout type="tip">
-Beschreiben Sie Ihren Bedarf direkt, z. B.: „Erstelle mir einen XX-Bericht." Oder laden Sie eine bestehende Word-/PDF-/Excel-Datei hoch und geben Sie an, was geschehen soll. Laden Sie die Datei im Originalformat (.docx / .xlsx / .pdf) herunter, um sie lokal weiterzubearbeiten.
+Beschreiben Sie Ihren Bedarf direkt, z. B.: „Erstelle mir einen XX-Bericht.“ Oder laden Sie eine bestehende Word-/PDF-/Excel-Datei hoch und geben Sie an, was geschehen soll. Laden Sie die Datei im Originalformat (.docx / .xlsx / .pdf) herunter, um sie lokal weiterzubearbeiten.
 </Callout>
 
 ### Methode 2: Mobile App
@@ -89,7 +89,7 @@ Klicken Sie auf die Schaltfläche „Agent“ unten im Chatfeld oder wählen Sie
   alt="screenshot 4"
 />
 
-Sie können sagen: *„Durchsuche das Web und stelle die neuesten Publikationen zum Thema XX in einem Excel-Dokument zusammen"* oder eine bestehende Excel-/CSV-Datei hochladen und angeben, was geschehen soll. Vorschau online ansehen und anschließend die .xlsx-Datei herunterladen.
+Sie können sagen: *„Durchsuche das Web und stelle die neuesten Publikationen zum Thema XX in einem Excel-Dokument zusammen“* oder eine bestehende Excel-/CSV-Datei hochladen und angeben, was geschehen soll. Vorschau online ansehen und anschließend die .xlsx-Datei herunterladen.
 ## Zielgruppe
 | Zielgruppe | Anwendungsfälle |
 |:---|:---|

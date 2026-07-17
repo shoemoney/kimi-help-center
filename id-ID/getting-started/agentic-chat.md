@@ -32,12 +32,12 @@ Kimi menyediakan beberapa model. Klik tombol beralih model di atas kotak input u
 
 | Model | Kekuatan thinking | Paling cocok untuk |
 |-------|-------------------|--------------------|
-| **K2.6** | Standar / Tinggi | Percakapan dan tanya jawab cepat dengan respons lebih gesit |
-| **K3** | Rendah / Tinggi / Maks | Tugas obrolan dan Agent; paling andal secara keseluruhan |
-| **K3 Swarm** | Rendah / Tinggi / Maks | Pencarian skala besar dan pemrosesan batch, dituntaskan sekaligus |
+| **K2.6** | Standard / High | Percakapan dan tanya jawab cepat dengan respons lebih gesit |
+| **K3** | Low / High / Max | Tugas obrolan dan Agent; paling andal secara keseluruhan |
+| **K3 Swarm** | Low / High / Max | Pencarian skala besar dan pemrosesan batch, dituntaskan sekaligus |
 
 <Callout type="tip">
-K2.6 tidak mengonsumsi credit; K3 dan K3 Swarm ditagih berdasarkan credit. Lihat [manfaat keanggotaan](https://www.kimi.com/help/membership/membership-overview) untuk detailnya.
+K2.6 tidak mengonsumsi kredit; K3 dan K3 Swarm ditagih berdasarkan kredit. Lihat [manfaat keanggotaan](https://www.kimi.com/help/membership/membership-overview) untuk detailnya.
 </Callout>
 
 ### Tentang Kimi K3

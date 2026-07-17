@@ -32,9 +32,9 @@ Kimi cung cấp nhiều mô hình. Nhấp vào nút chuyển mô hình phía tr�
 
 | Mô hình | Cường độ tư duy | Phù hợp nhất cho |
 |-------|-------------------|----------|
-| **K2.6** | Tiêu chuẩn / Cao | Trò chuyện và hỏi-đáp nhanh với phản hồi mau lẹ |
-| **K3** | Thấp / Cao / Tối đa | Các tác vụ trò chuyện và Agent; mạnh mẽ nhất về tổng thể |
-| **K3 Swarm** | Thấp / Cao / Tối đa | Tìm kiếm quy mô lớn và xử lý hàng loạt, hoàn thành trong một lần |
+| **K2.6** | Standard / High | Trò chuyện và hỏi-đáp nhanh với phản hồi mau lẹ |
+| **K3** | Low / High / Max | Các tác vụ trò chuyện và Agent; mạnh mẽ nhất về tổng thể |
+| **K3 Swarm** | Low / High / Max | Tìm kiếm quy mô lớn và xử lý hàng loạt, hoàn thành trong một lần |
 
 <Callout type="tip">
 K2.6 không tiêu hao tín dụng; K3 và K3 Swarm được tính phí theo tín dụng. Xem [quyền lợi thành viên](https://www.kimi.com/help/membership/membership-overview) để biết chi tiết.

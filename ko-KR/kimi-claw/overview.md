@@ -33,7 +33,7 @@ preview_content: "원클릭 설정으로 클라우드에서 나만의 Kimi Claw 
 
 </Callout>
 
-- Kimi가 K3 모델을 자동으로 프로비저닝하고, Kimi Code credit을 연결하며, Kimi Web Search를 활성화합니다. 별도의 API 설정은 필요하지 않습니다.
+- Kimi가 K3 모델을 자동으로 프로비저닝하고, Kimi Code 크레딧을 연결하며, Kimi Web Search를 활성화합니다. 별도의 API 설정은 필요하지 않습니다.
 - Kimi Claw는 Telegram을 비롯한 여러 채팅 플랫폼에 바로 배포할 수 있습니다.
 
 ## 시작하기

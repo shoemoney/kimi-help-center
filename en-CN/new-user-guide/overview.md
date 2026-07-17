@@ -18,24 +18,25 @@ Kimi is an AI assistant developed in-house by Moonshot. It supports web-connecte
 
 Visit [Kimi.com](https://www.kimi.com/) or download the Kimi App to start chatting, creating, researching, and building applications. Developers can go to the [Kimi Open Platform](https://platform.kimi.com/) to get APIs and tools, and integrate Kimi capabilities into their own applications.
 
-## Chat modes
+## Chat and models
 
-- **Search mode**: Connects to the web for real-time information and supports searching online information.
-- **Fast mode**: Quickly answers with relevant information.
-- **Thinking mode**: Supports deeper multi-round thinking and search—ideal for coding, logic, and analysis tasks.
+Kimi offers multiple models. Click the model switch button above the input box to switch.
 
-<Callout type="tip">
-**Tip**: For simple document-based Q&A, you can turn off both Search mode and Thinking mode.
-</Callout>
+- **K2.6**: Fast conversation and Q&A, with thinking strength options of Standard / High and quicker responses.
+- **K3**: Kimi's most powerful model, excelling at chat and Agent tasks.
+- **K3 Swarm**: Excels at large-scale search and batch processing, completing large tasks in one go.
+
+Whether to search online is decided by Kimi automatically based on your question—no manual toggle required.
 
 ## Agent
 
 Kimi is more than a chat assistant. It is also an AI Agent that can carry out tasks autonomously:
 
 - **[General Agent](https://www.kimi.com/agent)**: Automatically plans and completes tasks, including website generation, PPT creation, Deep Research, document and spreadsheet processing, and more.
-- **[Agent Swarm](https://www.kimi.com/agent-swarm)**: Supports up to 1,500 parallel tool calls and can autonomously orchestrate 100+ Sub-agents to process tasks in parallel. Suitable for large-scale search, long-form writing, and batch processing tasks.
+- **[Agent Swarm](https://www.kimi.com/agent-swarm)**: Supports over 4,000 parallel tool calls and can autonomously orchestrate up to 300 Sub-agents to process tasks in parallel. Suitable for large-scale search, long-form writing, and batch processing tasks.
 - **[Kimi Code](https://www.kimi.com/code)**: A coding assistant suite for developers, including a CLI tool and VS Code extension.
 - **[Kimi Claw](https://www.kimi.com/bot)**: A zero-deployment cloud automation platform. No server or Docker is required; you can launch a continuously running AI Agent within 30 seconds. It includes a built-in library of 5,000+ skills (ClawHub), supports chained composition and multi-step autonomous planning, and makes complex research and data analysis workflows easy to complete.
+- **[Kimi Work](https://www.kimi.com/products/kimi-work)**: A general-purpose local Agent for knowledge workers, launched with the latest Kimi beta desktop clients for Mac and Windows. Built on Kimi Code (the local coding Agent used daily by hundreds of thousands of developers) as its core, it provides fundamental local Agent capabilities such as installing and using skills (Skill) and running scheduled tasks. It also inherits the online Kimi Agent's professional skills such as website building and PPT, along with financial, research, and legal professional databases.
 
 ## Other core features
 
@@ -47,7 +48,7 @@ Kimi is more than a chat assistant. It is also an AI Agent that can carry out ta
   columns={[
     {
       title: "Basic chat",
-      description: "Chat is where everything starts. You can ask questions, upload files, and switch between models and Agent mode.",
+      description: "Chat is where everything starts. You can ask questions, upload files, and switch models.",
       pageUrl: "/new-user-guide/agentic-chat",
       type: "comment",
     },

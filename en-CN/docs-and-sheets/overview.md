@@ -48,7 +48,7 @@ Kimi can also work like a layout designer, helping you plan visual features, aut
 />
 
 #### Access the dedicated page
-**Dedicated entry point**: First switch to Agent Docs mode, then click the “Docs” button at the bottom of the dialog box to use document generation capabilities.
+**Dedicated entry point**: First switch to Docs mode, then click the “Docs” button at the bottom of the dialog box to use document generation capabilities.
 
 <Frames
   src="./images/overview/overview-02.png"
@@ -82,12 +82,12 @@ Select the dedicated Docs tool in the mobile App
   alt="image"
 />
 
-Official Apps are available for iOS/Android/HarmonyOS under the App name “Kimi”. Above the input box, click the toolbar (Taskbar) → switch to Docs Agent mode. It includes multimodal generation tools and Agent features, and can handle document generation requests.
+Official Apps are available for iOS/Android/HarmonyOS under the App name “Kimi”. Above the input box, click the toolbar (Taskbar) → switch to Docs mode. It includes multimodal generation tools and Agent features, and can handle document generation requests.
 
 #### General Agent Mode
 Enter a document task request in general Agent Mode
 
-On the official website or a mobile device, switch to K2.6 Agent mode and enter task instructions related to document generation. Kimi will call reading, writing, and execution tools as needed.
+On the official website or a mobile device, select the K3 model and enter task instructions related to document generation. Kimi will call reading, writing, and execution tools as needed.
 
 ## Kimi Sheets
 

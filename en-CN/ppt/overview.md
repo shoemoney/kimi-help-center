@@ -16,7 +16,7 @@ preview_content: "Kimi PPT generates PPTs with one click. Learn where to access 
 
 ## What is Kimi PPT
 
-Kimi PPT is a smart presentation generation tool from Kimi. Powered by the K2.6 LLM, it automatically optimizes layouts and design to deliver more professional visuals. Simply enter a one-line topic, paste a piece of text, or upload a document, and Kimi PPT will choose the most suitable visual storytelling approach for the content type, then generate a complete presentation with a clear structure and professional design within minutes.
+Kimi PPT is a smart presentation generation tool from Kimi. Powered by the K3 LLM, it automatically optimizes layouts and design to deliver more professional visuals. Simply enter a one-line topic, paste a piece of text, or upload a document, and Kimi PPT will choose the most suitable visual storytelling approach for the content type, then generate a complete presentation with a clear structure and professional design within minutes.
 Kimi PPT currently supports multi-format input, including PDF, Word, PPTX, Excel, TXT, and images. It has also significantly enhanced image remixing and custom template capabilities, supporting one-click recreation of reference images and creation based on user-uploaded templates, so the output better fits personalized needs.
 
 ## Compared with traditional PPT creation

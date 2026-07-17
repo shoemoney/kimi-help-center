@@ -1,18 +1,18 @@
 ---
-title: "Agent Mode Overview"
+title: "Kimi Agent Overview"
 slug: "agent-overview"
 order: 1
 extract_headings: false
 preview: true
-preview_content: "Learn how Kimi Agent mode works, where to find it, and when to use it."
+preview_content: "Learn how Kimi Agent works, where to find it, and when to use it."
 ---
 
 <SeoMeta
-  title="What Is Kimi Agent Mode? Features and Entry Points - Kimi Help Center"
-  description="Learn how Kimi Agent mode works, its core capabilities, and when to use it. Kimi Agent autonomously completes complex tasks through multi-step reasoning and more than 20 tools, supporting full-stack workflows such as document generation, code development, and data analysis."
+  title="What Is Kimi Agent? Features and Entry Points - Kimi Help Center"
+  description="Learn how Kimi Agent works, its core capabilities, and when to use it. Kimi Agent autonomously completes complex tasks through multi-step reasoning and more than 20 tools, supporting full-stack workflows such as document generation, code development, and data analysis."
 />
 
-# Introducing Kimi Agent Mode
+# Introducing Kimi Agent
 
 ## How Kimi Agent Has Evolved
 
@@ -48,6 +48,8 @@ In mid-February 2026, Moonshot AI released the public beta of Kimi Claw. It is a
 - It provides cloud storage, such as 40 GB, and always-online Agent capabilities, combining the model capabilities of Kimi K2.6 to execute a wide range of tasks and meet different user needs.
 With Kimi Claw, users can experience a more flexible, always-online Agent service, accelerating the adoption and application of intelligent automation.
 
+On July 16, 2026, Moonshot AI released Kimi K3—Kimi's most powerful model and the world's first open 3T-class model. Kimi K3 has 2.8 trillion parameters and is built on Kimi Delta Attention (KDA) and Attention Residuals, featuring native vision and a 1-million-token context window. It is designed for frontier intelligence across long-horizon coding, knowledge work, and reasoning. K3 greatly strengthens Agentic Coding and long-horizon task execution, and can understand large codebases, orchestrate terminal tools, and continuously adjust its approach based on feedback; the K3-powered Agent Swarm further improves large-scale parallel search and batch processing. Kimi K3 is available through the Kimi App, kimi.com, the Kimi Work desktop app, Kimi Code, and the Kimi API, with full model weights becoming available on July 27, 2026.
+
 Kimi Agent is designed to provide powerful intelligent support in real professional scenarios such as research, programming, and office work, improving efficiency and productivity while helping users automate and intelligently handle all kinds of complex tasks. Kimi already offers multiple AI product lines, including:
 - Website generation (Websites): automatically generate and optimize responsive websites, and build and deploy high-quality online websites and app applications;
 - Document processing (Docs): provide intelligent document editing, writing, and formatting, with output support for Word, PDF, Markdown, TxT, and other formats;
@@ -80,7 +82,7 @@ When you submit a request to the Agent, the general-purpose Agent goes through t
 />
 
 - Web: [https://www.kimi.com/agent](https://www.kimi.com/agent)
-- Phone/tablet: open the Kimi App → toolbar (Taskbar) → switch to Agent mode
+- Phone/tablet: open the Kimi App and select the K3 or K3 Swarm model in the model switch button above the chat box
 
 ## Steps
 1. Clearly describe your task requirements to the Agent and send them. For example: “Help me create the website code for an online voting tool” or “Analyze the competitive landscape of the AI chip industry in 2025.” The system enters the automatic execution stage, where you can view task progress in real time.

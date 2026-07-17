@@ -28,6 +28,8 @@ At its core, Kimi Agent Swarm delivers:
 - Execute more than 4,000 tool calls in a single task
 - Run 4.5× faster than sequential execution by a single Agent
 
+Agent Swarm is currently powered by Kimi K3 (K3 Swarm), further improving large-scale parallel search and batch processing.
+
 ## The Story Behind It
 
 In AI in 2025, the mainstream narrative long centered on Scaling Up—larger models, more parameters, and longer context windows. But this approach has a structural ceiling: it is still constrained by the bottleneck of single-threaded sequential execution. “It is like a carpenter having only two hands and only 24 hours in a day.”
@@ -57,9 +59,13 @@ When you submit a complex request—for example, analyzing 100 different YouTube
 />
 
 - Web: [https://www.kimi.com/agent-swarm](https://www.kimi.com/agent-swarm)
-- Mobile/tablet: Open the Kimi App → select mode switching → switch to K2.6 Agent Swarm mode
+- Mobile/tablet: Open the Kimi App and select the K3 Swarm model in the model switch button above the chat box
 
-Note: K2.6 Agent Swarm is currently in Beta (internal testing) and is available to Moderato, Allegretto, and Allegro members. Agent Swarm tasks consume relatively high credit (roughly several times that of a regular Agent task), depending on task complexity and the number of Subagent instances.
+<Callout type="info">
+About the [Beta] tag: [Beta] indicates a trial marker for a product that is initially open to only a small number of users for small-scale validation and refinement; as the feature matures, the tag is gradually removed and the product is rolled out to everyone.
+</Callout>
+
+Note: Agent Swarm tasks consume relatively high credit (roughly several times that of a regular Agent task), depending on task complexity and the number of Subagent instances. Available to Moderato, Allegretto, and Allegro members.
 
 ### Steps
 
@@ -90,14 +96,14 @@ Note: K2.6 Agent Swarm is currently in Beta (internal testing) and is available 
    - Data analysis: charts, trend analysis, and tables of key metrics
    - Office documents: Word documents, PDF documents, Markdown documents, PPT presentations, and more
 5. Preview, download, or share the outputs.
-6. For subsequent rounds, switch to K2.6 single-Agent mode to continue.
+6. For subsequent rounds, Kimi automatically schedules between chat and Agent based on the task—no manual switching required.
 
 ## Use Cases
 
 ### Exploration at Scale
 
 Case 1: Identifying the Top 3 creators in 100 niches
-The task asks the system to find the Top 3 creators in each of 100 YouTube niches. K2.6 Agent Swarm first researches and defines each niche, then autonomously creates 300 Subagent instances to search in parallel. It ultimately generates a structured table and visual charts containing channel names, subscriber counts, and descriptions.
+The task asks the system to find the Top 3 creators in each of 100 YouTube niches. Agent Swarm first researches and defines each niche, then autonomously creates 300 Subagent instances to search in parallel. It ultimately generates a structured table and visual charts containing channel names, subscriber counts, and descriptions.
 
 <Frames
   src="./images/swarm/swarm-04.png"
@@ -123,7 +129,7 @@ Task result: Collected 200+ Paul Graham essays
 ### Output at Scale
 
 Case: Generating a 100-page literature review from 40 PDFs
-K2.6 Agent Swarm breaks the task down across the document set and deploys multiple writing-focused Subagent instances, each responsible for specific sections. The final output is a 100-page, two-column academic document with fully formatted citations and references, along with visual content such as a method distribution pie chart and citation network analysis diagram.
+Agent Swarm breaks the task down across the document set and deploys multiple writing-focused Subagent instances, each responsible for specific sections. The final output is a 100-page, two-column academic document with fully formatted citations and references, along with visual content such as a method distribution pie chart and citation network analysis diagram.
 
 <Frames
   src="./images/swarm/swarm-06.png"
@@ -252,3 +258,4 @@ Agent Swarm is especially suitable for the following complex tasks:
 1. Kimi official blog - “Kimi Agent Swarm: 100 Sub-Agents at Scale” ([https://www.kimi.com/blog/agent-swarm](https://www.kimi.com/blog/agent-swarm))
 2. Kimi K2.5 technical blog - “Kimi K2.5: Visual Agentic Intelligence” ([https://www.kimi.com/blog/kimi-k2-5](https://www.kimi.com/blog/kimi-k2-5))
 3. Kimi K2.6 technical blog - “Kimi K2.6: Advancing Open-Source Coding” ([https://www.kimi.com/blog/kimi-k2-6](https://www.kimi.com/blog/kimi-k2-6))
+4. Kimi K3 technical blog - “Kimi K3” ([https://www.kimi.com/blog/kimi-k3](https://www.kimi.com/blog/kimi-k3))

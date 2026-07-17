@@ -9,12 +9,12 @@ preview_content: "了解 Kimi 各会员套餐的价格、权益详情与额度�
 
 <SeoMeta
   title="Kimi 会员套餐价格与权益对比 - Kimi 帮助中心"
-  description="查看 Kimi 五档会员套餐（Adagio 至 Allegro，含海外套餐 Vivace）的价格、权益对比与额度说明。会员权益的各项功能（含 Agent 系列、Kimi Code 等）共享一个额度池，连续包年最高省 1,680 元。"
+  description="查看 Kimi 五档会员套餐（Adagio 至 Allegro，含海外套餐 Vivace）的价格、权益对比与额度说明。Agent 系列等 Kimi 会员功能共享一个额度池，Kimi Code 单独享有额度池，连续包年最高省 1,680 元。"
 />
 
 # 会员收费与套餐介绍
 
-Kimi 提供五档会员计划（含免费 Adagio），均支持连续包月和连续包年两种订阅方式。所有套餐的会员权益共享一个额度池，Agent 系列、Kimi Code 等各项功能均从同一额度池扣除。额度可自由分配使用。
+Kimi 提供五档会员计划（含免费 Adagio），均支持连续包月和连续包年两种订阅方式。Agent 系列等 Kimi 会员功能共享一个额度池，Kimi Code 单独享有独立额度池。额度可自由分配使用。
 
 ## 订阅方式与价格
 
@@ -91,10 +91,10 @@ Kimi 提供五档会员计划（含免费 Adagio），均支持连续包月和�
 ## 额度说明
 
 <Callout type="info">
-所有套餐的会员权益共享一个额度池，按 token 消耗计算。Agent 系列、Kimi Code 等各项功能均从同一额度池扣除。Chat 不消耗额度。无需单独管理各功能用量。高档套餐提供更多额度，可支撑更频繁和更复杂的使用场景。
+Agent 系列等 Kimi 会员功能共享一个额度池，按 token 消耗计算；Kimi Code 单独享有独立额度池。K2.6 不消耗额度。无需单独管理各功能用量。高档套餐提供更多额度，可支撑更频繁和更复杂的使用场景。
 </Callout>
 
-- **共享额度池**：Agent 系列、Kimi Code 等各项会员功能共享一个额度池，按实际 token 消耗计算。
+- **额度池**：Agent 系列等 Kimi 会员功能共享一个额度池；Kimi Code 单独享有独立额度池，按实际 token 消耗计算。
 - **按月刷新**：额度在每个计费周期自动刷新，未使用的额度到期清零。
 - **频次限制** 5小时及周频控请以页面提示为准。
 
@@ -123,11 +123,10 @@ Kimi 提供五档会员计划（含免费 Adagio），均支持连续包月和�
 
 ### 可以把额度都用在一个功能上吗？
 
-可以。会员权益的各项功能（Agent、Kimi Code、PPT、深度研究等）共享一个额度池，你可以自由支配。
+可以。Agent、PPT、深度研究等 Kimi 会员功能共享一个额度池，Kimi Code 单独享有独立额度池，你可以自由支配。
 
 ## 相关协议
 
 - [Kimi 付费服务协议](https://www.kimi.com/user/agreement/paidServiceAgreement?version=v2)
-- [Kimi 会员权益计费方式升级说明](https://www.kimi.com/membership-credits)
 - [Kimi 用户服务协议](https://www.kimi.com/user/agreement/modelUse?version=v2)
 - [Kimi 隐私政策](https://www.kimi.com/user/agreement/userPrivacy?version=v2)

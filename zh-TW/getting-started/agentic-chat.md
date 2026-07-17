@@ -32,9 +32,9 @@ Kimi 提供多種模型。點擊輸入框上方的模型切換按鈕即可切換
 
 | 模型 | 思考強度 | 適用情境 |
 |------|----------|----------|
-| **K2.6** | Standard / High | 快速對話與問答，回應更迅速 |
-| **K3** | Low / High / Max | 對話與 Agent 任務；整體能力最強 |
-| **K3 Swarm** | Low / High / Max | 大規模搜尋與批次處理，一次完成 |
+| **K2.6** | 標準 / 進階 | 快速對話與問答，回應更迅速 |
+| **K3** | 標準 / 進階 / 極致 | 對話與 Agent 任務；整體能力最強 |
+| **K3 Swarm** | 標準 / 進階 / 極致 | 大規模搜尋與批次處理，一次完成 |
 
 <Callout type="tip">
 K2.6 不消耗額度；K3 與 K3 Swarm 依額度計費。詳情請參閱[會員權益](https://www.kimi.com/help/membership/membership-overview)。

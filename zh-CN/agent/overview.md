@@ -1,18 +1,18 @@
 ---
-title: "Agent 模式概述"
+title: "Kimi Agent 概述"
 slug: "agent-overview"
 order: 1
 extract_headings: false
 preview: true
-preview_content: "了解 Kimi Agent 模式的工作方式、使用入口与适用场景。"
+preview_content: "了解 Kimi Agent 的工作方式、使用入口与适用场景。"
 ---
 
 <SeoMeta
-  title="Kimi Agent 模式是什么？功能介绍与使用入口 - Kimi 帮助中心"
-  description="了解 Kimi Agent 模式的工作原理、核心能力与适用场景。Kimi Agent 通过多轮推理和 20 多种工具自主完成复杂任务，支持文档生成、代码开发、数据分析等全栈工作流。"
+  title="Kimi Agent 是什么？功能介绍与使用入口 - Kimi 帮助中心"
+  description="了解 Kimi Agent 的工作原理、核心能力与适用场景。Kimi Agent 通过多轮推理和 20 多种工具自主完成复杂任务，支持文档生成、代码开发、数据分析等全栈工作流。"
 />
 
-# Kimi Agent 模式介绍
+# Kimi Agent 介绍
 
 ## Kimi Agent 发展历程
 
@@ -48,6 +48,8 @@ Kimi K2.6 大幅增强了 Agent 自主化执行能力，帮助我们进一步扩
 - 提供云存储（如40GB）和长期在线的Agent能力，能够融合Kimi K2.6的模型能力执行各种任务，满足不同用户的需求。
 通过Kimi Claw，用户可以体验到更加灵活且持续在线的Agent服务，进一步推动智能自动化的普及与应用。
 
+2026年7月16日，Moonshot AI 发布 Kimi K3——Kimi 最强大的模型，也是全球首个开放式 3T 级模型。Kimi K3 拥有 2.8 万亿参数，基于 Kimi Delta Attention（KDA）与 Attention Residuals 构建，具备原生视觉功能和 100 万 token 上下文窗口，专为长程编码、知识工作与推理等前沿智能场景设计。K3 大幅强化了智能体编程（Agentic Coding）与长程任务执行能力，可理解大型代码库、编排终端工具并根据反馈持续调整方案；由 K3 驱动的 Agent 集群在大规模并行搜索与批量处理上进一步提升。用户可通过 Kimi App、kimi.com、Kimi Work 桌面端、Kimi Code 与 Kimi API 使用 Kimi K3，完整模型权重于 2026 年 7 月 27 日开放下载。
+
 Kimi Agent 致力于在调研、编程、办公等实际专业场景中提供强大的智能支持，提升用户的工作效率和生产力，帮助用户在各种复杂任务中实现自动化和智能化。Kimi已经拥有多个AI产品线，包括：
 - 网站生成（Websites）：自动生成并优化响应式网站，构建并部署高质量的在线网站与应用APP；
 - 文档处理（Docs）：提供智能文档编辑、撰写和格式化功能，支持输出Word、PDF、Markdown、TxT等多种格式；
@@ -80,7 +82,7 @@ Kimi Agent 采用了基于强化学习训练的自主决策系统，能够在没
 />
 
 - 网页版：[https://www.kimi.com/agent](https://www.kimi.com/agent)
-- 手机/平板：打开 Kimi App → 工具栏（Taskbar）→ 切换至 Agent 模式
+- 手机/平板：打开 Kimi App，在对话框上方的模型切换按钮中选择 K3 Max 或 K3 集群 Max 模型
 
 ## 操作步骤
 1. 向 Agent 清晰地描述你的任务需求并发送。例如：“帮我创建一个在线投票工具的网站代码”、“分析 2025 年 AI 芯片行业的竞争格局”等。系统进入自动执行阶段，实时查看任务执行进展

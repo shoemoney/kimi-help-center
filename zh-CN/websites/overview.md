@@ -16,7 +16,7 @@ preview_content: "Kimi Websites 全栈建站产品介绍，支持对话式生成
 
 ## Kimi Websites 网站是什么
 
-Kimi Websites 是 Kimi Agent 的全栈建站产品，由 Kimi K2.6 多模态视觉代理 AI 模型驱动。核心能力是可视化编程（Vibe Coding）——用自然语言、设计图或录屏即可生成完整的全栈网站，并支持在线预览与一键发布。
+Kimi Websites 是 Kimi Agent 的全栈建站产品，由 Kimi K3 多模态视觉代理 AI 模型驱动。核心能力是可视化编程（Vibe Coding）——用自然语言、设计图或录屏即可生成完整的全栈网站，并支持在线预览与一键发布。
 
 Kimi Websites 生成的网站涵盖：
 
@@ -67,7 +67,7 @@ Kimi Websites 生成的网站涵盖：
   alt="image"
 />
 
-iOS/Android/鸿蒙 均有官方 App（应用名“Kimi”），在输入框上方，点击工具栏（Taskbar）→ 切换至网站（Websites）Agent 模式，内含多模态生成工具与 Agent 功能，可进行视觉输入并生成前端代码。
+iOS/Android/鸿蒙 均有官方 App（应用名“Kimi”），在输入框上方，点击工具栏（Taskbar）→ 切换至网站（Websites）模式，内含多模态生成工具与 Agent 功能，可进行视觉输入并生成前端代码。
 
 ### 方法三：通用 Agent模式
 在通用 Agent 模式下，输入建站任务需求
@@ -77,7 +77,7 @@ iOS/Android/鸿蒙 均有官方 App（应用名“Kimi”），在输入框上�
   alt="image"
 />
 
-在官网或移动设备，切换到 K2.6 Agent 模式，并输入建立网站相关的任务指令，Kimi 会调用视觉编程能力和代码执行工具。
+在官网或移动设备，选择 K3 Max 模型，并输入建立网站相关的任务指令，Kimi 会调用视觉编程能力和代码执行工具。
 
 ## 操作步骤
 

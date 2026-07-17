@@ -14,7 +14,7 @@ preview_content: "A full comparison of Kimi’s five membership plans, including
 
 # Membership Subscription Benefits Overview
 
-Kimi offers four membership subscription plans to meet different needs, from everyday personal use to intensive professional workflows. Every plan shares a single credit pool: the Agent series, Kimi Code, and other membership features all draw from the same credit pool. Chat does not consume credits. Credits can be allocated freely.
+Kimi offers four membership subscription plans to meet different needs, from everyday personal use to intensive professional workflows. The Agent series, Deep Research, PPT, and other Kimi membership features share a single credit pool; Kimi Code has its own separate credit pool. K2.6 does not consume credits. Credits can be allocated freely.
 
 ## Plan comparison
 
@@ -82,7 +82,7 @@ Kimi offers four membership subscription plans to meet different needs, from eve
 
 ## Billing
 
-- **Shared credit pool**: the Agent series, Kimi Code, and other membership features share one credit pool and are billed based on actual token consumption.
+- **Credit pool**: the Agent series and other Kimi membership features share one credit pool; Kimi Code has its own separate credit pool, billed based on actual token consumption.
 - **Monthly refresh**: Credits are refreshed automatically in each billing cycle.
 - **Frequency limits**: For 5-hour and weekly frequency controls, please follow the page prompts.
 
@@ -106,10 +106,6 @@ The more complex the task and the longer the context, the more tokens it consume
 Choose a continuous annual subscription to save up to **¥1,680**. Ideal for long-term users.
 
 ## FAQs
-
-### Why are my benefits different from before?
-
-We have upgraded the benefit system and unified your benefit credits. Now, Agent, Kimi Code, PPT, and other membership features share one credit pool and are billed based on actual usage. For details, see [Membership Credit Explanation](https://www.kimi.com/membership-credits).
 
 ### How do I request an invoice?
 
@@ -155,7 +151,7 @@ Tasks already in progress can be completed normally, while new tasks will show a
 
 ### Can I use all my credits on one feature?
 
-Yes. Membership benefits share a single credit pool: Agent, Kimi Code, PPT, Deep Research, and other features all draw from the same pool. You can allocate them freely.
+Yes. Agent, PPT, Deep Research, and other Kimi membership features share a single credit pool; Kimi Code has its own separate credit pool. You can allocate them freely.
 
 ### Are paid services refundable?
 

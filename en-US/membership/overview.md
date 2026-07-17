@@ -14,7 +14,7 @@ preview_content: "Compare Kimi's five membership tiers, credit system, and billi
 
 # Membership plans overview
 
-Kimi offers five membership tiers — including a free plan — designed to scale with your needs, from everyday productivity to power-user workflows. All plans share a single credit pool: Agent features, Kimi Code, and other membership features are all metered from the same credit pool.
+Kimi offers five membership tiers — including a free plan — designed to scale with your needs, from everyday productivity to power-user workflows. Agent features and other Kimi membership features share a single credit pool; Kimi Code has its own separate credit pool. K2.6 does not consume credits.
 
 ## Plan comparison
 
@@ -38,7 +38,7 @@ Use all credit limit for the same function
 
 ## How billing works
 
-- **Shared credit pool** — Agent features, Kimi Code, and other membership features share one credit pool, metered by token usage.
+- **Credit pool** — Agent features and other Kimi membership features share one credit pool; Kimi Code has its own separate credit pool, metered by token usage.
 - **Monthly refresh** — Credits reset at the start of each billing cycle.
 
 ## Save with annual billing

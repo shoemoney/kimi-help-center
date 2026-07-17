@@ -8,28 +8,28 @@ preview: false
 
 <SeoMeta
   title="Credit update & usage rules - Kimi Help Center"
-  description="Kimi membership benefits share a single credit pool. Agent features, Kimi Code, and other membership features are all metered from the same credit pool, and credits are consumed based on actual usage."
+  description="Agent features and other Kimi membership features share a single credit pool; Kimi Code has its own separate credit pool. Credits are consumed based on actual usage."
 />
 
 # Credit update & usage rules
 
 <Callout type="info">
-Kimi membership benefits share a single credit pool. Agent features, Kimi Code, and other membership features are all metered from the same credit pool, and credits are consumed based on actual usage.
+Agent features and other Kimi membership features share a single credit pool; Kimi Code has its own separate credit pool. Credits are consumed based on actual usage.
 </Callout>
 
 ## How does the shared credit pool work?
-Instead of separate credits for each feature, your membership gives you a single shared credit pool. Agent features, Kimi Code, and other membership features all draw from the same credit pool that works everywhere:
+Kimi membership features share a single credit pool that works everywhere. Agent features and other Kimi features all draw from it:
 | Feature | Description |
 |---------|-------------|
 | **Agent tasks** | Websites, documents, slides, spreadsheets, deep research |
 | **Kimi Claw** | Your personal cloud-deployed AI assistant |
 | **Other features** | Image generation and more |
 
-> **Kimi Chat**: Conversations with the latest models (no credit consumption)
-> **Kimi Code**: AI-powered coding assistant
+> **K2.6**: Conversations with the K2.6 model do not consume credits
+> **Kimi Code**: AI-powered coding assistant (separate credit pool)
 
 <Callout type="tip">
-This means you can allocate credits however you like across the shared pool — spend more on research one month, more on documents the next. Kimi Chat does not consume credits.
+This means you can allocate credits however you like across the shared pool — spend more on research one month, more on documents the next. K2.6 does not consume credits.
 </Callout>
 
 ## How are credits calculated?

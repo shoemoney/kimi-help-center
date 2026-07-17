@@ -13,18 +13,19 @@ preview_content: "Learn about membership credit refresh cycles, usage priority, 
 />
 # Member Credit Updates and Usage Rules
 
-Kimi membership benefits share a single credit pool: the Agent series, Kimi Code, Deep Research, PPT, Docs, Sheets, Kimi Claw, and more all draw from the same credit pool. Credits are deducted based on actual token consumption.
+The Agent series, Deep Research, PPT, Docs, Sheets, Kimi Claw, and more share a single credit pool, with credits deducted based on actual token consumption; Kimi Code has its own separate credit pool.
 
 ## How does the shared credit pool work?
 
-Membership benefits for all plans share a single credit pool, and every membership feature draws from the same pool. You can use the shared pool flexibly across membership features:
+Kimi membership features share a single credit pool and draw from the same pool by token consumption. You can allocate it flexibly across features:
 
 - **Agent series**: website generation, document processing, PPT creation, spreadsheet processing, Deep Research, and more
-- **Kimi Code**: intelligent coding assistant
 - **Kimi Claw**: a dedicated assistant that can be deployed with one click
 - **Other membership benefits**: image generation and more
 
-> **Kimi Chat**: chat with the latest models (does not consume credits)
+**Kimi Code** has its own separate credit pool, not shared with the Kimi credits above.
+
+> **K2.6**: chatting with the K2.6 model does not consume credits
 
 ## How are credits calculated?
 

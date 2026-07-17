@@ -25,7 +25,7 @@ OpenClaw is an AI assistant with a distinct personality and long-term memory. In
 If you don’t have your own OpenClaw yet, go to [kimi.com/bot](https://kimi.com/bot) to create a dedicated OpenClaw. Kimi will deploy OpenClaw to the cloud for you in one click—no need to buy a server or configure anything from the command line.
 
 - One-click deployment is available only on **Allegretto and higher** plans. For details, see [Kimi membership plans](https://www.kimi.com/membership/pricing).
-- Kimi automatically configures the Kimi K2.6 Thinking model and links it to your Kimi Code membership credit, with no separate API setup required. It also automatically configures the Kimi Web Search service, giving your AI web search capabilities.
+- Kimi automatically configures the Kimi K3 model and links it to your Kimi Code membership credit, with no separate API setup required. It also automatically configures the Kimi Web Search service, giving your AI web search capabilities.
 - Kimi Claw can be deployed directly to Feishu, WeCom, Weibo, and other platforms.
 
 ## Creation flow

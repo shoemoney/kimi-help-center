@@ -70,6 +70,7 @@ Agent Swarm เปิดให้สมาชิก Moderato, Allegretto, Allegr
 **กรณีที่ 1: 3 ครีเอเตอร์อันดับต้นจาก 100 หมวดหมู่บน YouTube**
 
 Agent Swarm สร้างซับเอเจนต์ 300 ตัวเพื่อค้นหาแบบคู่ขนาน และสร้างตารางข้อมูลที่มีโครงสร้างพร้อมชื่อช่อง จำนวนผู้ติดตาม และคำอธิบาย
+
 <Frames
   src="./images/swarm/youtube.png"
   alt="YouTube"

@@ -28,7 +28,7 @@ Kimi Agent Swarm 核心实现了：
 - 单次任务执行超过 4,000 次工具调用
 - 相比单Agent顺序执行，速度提升 4.5 倍
 
-当前，Agent 集群由 Kimi K3 驱动（K3 集群 Max），在大规模并行搜索与批量处理上进一步提升。
+当前，Agent 集群由 Kimi K3 驱动（K3 集群），在大规模并行搜索与批量处理上进一步提升。
 
 ## 背后故事
 
@@ -59,7 +59,7 @@ Kimi Agent Swarm（智能体集群）通过PARL（Parallel-Agent Reinforcement L
 />
 
 - 网页版：[https://www.kimi.com/agent-swarm](https://www.kimi.com/agent-swarm)
-- 手机/平板：打开 Kimi App，在对话框上方的模型切换按钮中选择 K3 集群 Max 模型
+- 手机/平板：打开 Kimi App，在对话框上方的模型切换按钮中选择 K3 集群模型
 
 <Callout type="info">
 关于 [Beta] 标记：[Beta] 表示产品上线初期仅向少部分用户开放的试用标记，用于小范围验证与打磨；随着功能成熟会逐步移除并全量开放。

@@ -25,7 +25,7 @@ Kimi Business は 5 シートからの年額サブスクリプションでご利
 |---|---|---|---|
 | 1〜20 名 | 法人版を購入 | [オンラインで購入](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
 | 20 名以上 | オンラインで分けて注文 | [オンラインで購入](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
-| API / トークンの大規模利用 | オープンプラットフォームで API を購入 | [Kimi API Platform](https://platform.kimi.ai/) | [営業に問い合わせ（フォーム記入）](https://platform.kimi.ai/contact-sales) |
+| API Tokens の大規模利用 | オープンプラットフォームで API を購入 | [Kimi API Platform](https://platform.kimi.ai/) | [営業に問い合わせ（フォーム記入）](https://platform.kimi.ai/contact-sales) |
 
 ## 料金
 

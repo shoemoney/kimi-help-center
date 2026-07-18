@@ -25,7 +25,7 @@ Kimi Business 采用年度订阅制，5 座起售，适合有团队协作需求�
 |---|---|---|---|
 | 1～20 人 | 购买企业版 | [在线购买](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
 | 20 人以上 | 分笔购买 | [在线购买](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
-| 大规模使用 API / tokens | 到开放平台购买 API | [Kimi 开放平台](https://platform.kimi.com/) | [联系销售（填写表单）](https://platform.kimi.com/contact-sales) |
+| 大规模使用 API Tokens | 到开放平台购买 API | [Kimi 开放平台](https://platform.kimi.com/) | [联系销售（填写表单）](https://platform.kimi.com/contact-sales) |
 
 <Frames
   src="./images/kimi-business-purchase/customer-service-qrcode.png"

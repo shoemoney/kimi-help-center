@@ -25,7 +25,7 @@ Kimi Business is available as an annual subscription, starting from 5 seats. It 
 |---|---|---|---|
 | 1–20 | Buy the enterprise plan | [Buy online](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
 | 20+ | Place separate online orders | [Buy online](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
-| Large-scale API / tokens | Buy API on the open platform | [Kimi Open Platform](https://platform.kimi.com/) | [Contact sales (fill out form)](https://platform.kimi.com/contact-sales) |
+| Large-scale API Tokens | Buy API on the open platform | [Kimi Open Platform](https://platform.kimi.com/) | [Contact sales (fill out form)](https://platform.kimi.com/contact-sales) |
 
 <Frames
   src="./images/kimi-business-purchase/customer-service-qrcode.png"

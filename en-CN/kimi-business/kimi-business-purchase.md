@@ -15,7 +15,7 @@ preview: false
 
 ## Purchase online
 
-On your personal homepage, click "Membership Plan" and select "Get Enterprise" to choose the number of seats and complete your purchase.
+On your personal homepage, click "Membership Plan" and select "Get Enterprise" to choose the number of seats and complete your purchase. You can also go directly to the [enterprise purchase page](https://www.kimi.com/membership/pricing?from=help&open=business) to complete your purchase.
 
 <Frames
   src="./images/kimi-business-purchase/subscription-page.png"

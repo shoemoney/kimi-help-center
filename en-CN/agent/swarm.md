@@ -22,12 +22,6 @@ On April 20, 2026, Moonshot AI released and open-sourced Kimi K2.6. Powered by t
 - Execute more than 4,000 tool calls in a single task
 - Run 4.5× faster than sequential execution by a single Agent
 
-At its core, Kimi Agent Swarm delivers:
-
-- Deploy up to 300 Subagent instances simultaneously
-- Execute more than 4,000 tool calls in a single task
-- Run 4.5× faster than sequential execution by a single Agent
-
 Agent Swarm is currently powered by Kimi K3 (K3 Swarm), further improving large-scale parallel search and batch processing.
 
 ## The Story Behind It

@@ -17,6 +17,8 @@ preview: false
 
 Kişisel ana sayfanızda "Üyelik Planı"na tıklayın ve "Kurumsalı Edin" seçeneğini seçerek koltuk sayısını belirleyip satın alma işlemini tamamlayın.
 
+Satın alımı doğrudan [kurumsal satın alma sayfasından](https://www.kimi.com/membership/pricing?from=help&open=business) da tamamlayabilirsiniz.
+
 <Callout type="tip">
 Kimi Business, yıllık abonelikle en az 5 koltuktan başlar ve abonelik süresi boyunca koltuk ekleyebilirsiniz.
 </Callout>

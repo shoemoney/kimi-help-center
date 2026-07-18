@@ -17,6 +17,8 @@ preview: false
 
 Di beranda pribadi Anda, klik "Paket Keanggotaan" dan pilih "Dapatkan Enterprise" untuk menentukan jumlah kursi dan menyelesaikan pembelian.
 
+Anda juga dapat langsung membuka [halaman pembelian enterprise](https://www.kimi.com/membership/pricing?from=help&open=business) untuk menyelesaikan pembelian.
+
 <Callout type="tip">
 Kimi Business dimulai dari 5 kursi dengan langganan tahunan, dan Anda dapat menambahkan kursi lagi selama masa langganan.
 </Callout>

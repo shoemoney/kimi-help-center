@@ -17,6 +17,8 @@ preview: false
 
 Sur votre page d'accueil personnelle, cliquez sur « Formule d'abonnement » et sélectionnez « Obtenir Enterprise » pour choisir le nombre de sièges et finaliser votre achat.
 
+Vous pouvez aussi accéder directement à la [page d'achat entreprise](https://www.kimi.com/membership/pricing?from=help&open=business) pour finaliser votre achat.
+
 <Callout type="tip">
 Kimi Business démarre à 5 sièges avec un abonnement annuel, et vous pouvez ajouter d'autres sièges pendant la durée de l'abonnement.
 </Callout>

@@ -23,7 +23,7 @@ Kimi Business предлагает годовую подписку от 5 мес
 
 | Размер компании | Рекомендуемый путь | Как купить | Контакт отдела продаж |
 |---|---|---|---|
-| 1–20 | Купить корпоративный план | [Купить онлайн](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
+| 1–20 | Купить план Business | [Купить онлайн](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
 | 20+ | Оформить отдельные онлайн-заказы | [Купить онлайн](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
 | Масштабное использование API Tokens | Купить API на открытой платформе | [Kimi API Platform](https://platform.kimi.ai/) | [Связаться с отделом продаж (форма)](https://platform.kimi.ai/contact-sales) |
 

@@ -23,7 +23,7 @@ Kimi Business는 5개 시트부터 연간 구독을 제공하며, 팀 협업이 
 
 | 기업 규모 | 권장 경로 | 구매 방법 | 영업 문의 |
 |---|---|---|---|
-| 1~20명 | 기업용 플랜 구매 | [온라인 구매](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
+| 1~20명 | Business 플랜 구매 | [온라인 구매](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
 | 20명 이상 | 온라인에서 분할 주문 | [온라인 구매](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
 | 대규모 API Tokens 사용 | 오픈 플랫폼에서 API 구매 | [Kimi API Platform](https://platform.kimi.ai/) | [영업 문의 (양식 작성)](https://platform.kimi.ai/contact-sales) |
 

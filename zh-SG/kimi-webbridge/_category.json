@@ -6,6 +6,6 @@
     "description": "面向 AI 智能体的浏览器扩展"
   },
   "icon": "kimi-webbridge",
-  "order": 4,
+  "order": 5,
   "note": "每个 md front matter 中的 extract_headings: true/false 控制 ## 标题是否在列表页显示为子项"
 }

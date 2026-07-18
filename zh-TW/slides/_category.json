@@ -6,6 +6,6 @@
     "description": "使用自適應或視覺模式建立簡報"
   },
   "icon": "slides",
-  "order": 5,
+  "order": 6,
   "note": "每個 md front matter 中的 extract_headings 會控制 ## 標題是否在列表頁面上顯示為可展開項目"
 }

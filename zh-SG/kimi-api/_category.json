@@ -6,6 +6,6 @@
     "description": "Kimi API 使用、认证、错误排查与定价"
   },
   "icon": "api",
-  "order": 11,
+  "order": 12,
   "note": "每个 md front matter 中的 extract_headings 控制 ## 标题是否在列表页显示为可展开项"
 }

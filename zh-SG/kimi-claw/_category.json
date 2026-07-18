@@ -6,6 +6,6 @@
     "description": "您的个人 AI 助手——设置、聊天平台、记忆与故障排查"
   },
   "icon": "kimi-claw",
-  "order": 3,
+  "order": 4,
   "note": "每个 md front matter 中的 extract_headings: true/false 控制 ## 标题是否在列表页显示为子项"
 }

@@ -1,0 +1,10 @@
+{
+  "title": "功能",
+  "description": "搜索、记忆、定时任务、Plugin、Project、目标、技能等通用功能，K3 在线与 Kimi Work 桌面端均可使用。",
+  "seo": {
+    "title": "功能",
+    "description": "搜索、记忆、定时任务、Plugin、Project、目标、技能等通用功能，K3 在线与 Kimi Work 桌面端均可使用。"
+  },
+  "icon": "getting-started",
+  "order": 2
+}

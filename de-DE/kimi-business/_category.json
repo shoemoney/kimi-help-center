@@ -6,6 +6,6 @@
     "description": "Vorteile, Preise, Teamverwaltung, Arbeitsbereiche und häufige Fragen zum Unternehmenstarif"
   },
   "icon": "okcomputer",
-  "order": 12,
+  "order": 13,
   "note": "extract_headings: true/false in each md front matter controls whether ## headings are shown as sub-items on list pages"
 }

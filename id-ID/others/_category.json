@@ -6,6 +6,6 @@
     "description": "Keamanan akun, masukan, kebijakan privasi, dan pengaturan lainnya"
   },
   "icon": "others",
-  "order": 13,
+  "order": 14,
   "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
 }

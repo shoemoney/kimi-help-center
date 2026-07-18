@@ -6,6 +6,6 @@
     "description": "Benefícios do plano empresarial, preços, gestão de equipes, espaços de trabalho e perguntas frequentes"
   },
   "icon": "okcomputer",
-  "order": 12,
+  "order": 13,
   "note": "extract_headings: true/false in each md front matter controls whether ## headings are shown as sub-items on list pages"
 }

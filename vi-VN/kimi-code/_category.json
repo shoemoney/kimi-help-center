@@ -6,6 +6,6 @@
     "description": "Agent CLI, tiện ích mở rộng VS Code, tích hợp IDE, agent của bên thứ ba"
   },
   "icon": "kimi-code",
-  "order": 10,
+  "order": 11,
   "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
 }

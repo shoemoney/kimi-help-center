@@ -6,6 +6,6 @@
     "description": "Crea páginas web con Agent, publícalas, compártelas y edítalas de forma iterativa"
   },
   "icon": "websites",
-  "order": 8,
+  "order": 9,
   "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
 }

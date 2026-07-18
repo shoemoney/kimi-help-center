@@ -6,6 +6,6 @@
     "description": "エンタープライズプランの特典、料金、チーム管理、ワークスペース、よくある質問"
   },
   "icon": "okcomputer",
-  "order": 12,
+  "order": 13,
   "note": "各 md front matter の extract_headings: true/false で、リストページに ## 見出しをサブ項目として表示するかどうかを制御します"
 }

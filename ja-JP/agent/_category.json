@@ -6,6 +6,6 @@
     "description": "エージェントモードの概要、Agent Swarm、機能と制限事項"
   },
   "icon": "agent",
-  "order": 2,
+  "order": 3,
   "note": "各 md のフロントマターにある extract_headings は、一覧ページで ## 見出しを展開可能な項目として表示するかどうかを制御します"
 }

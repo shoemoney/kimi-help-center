@@ -6,6 +6,6 @@
     "description": "企業方案權益、定價、團隊管理、工作區與常見問題"
   },
   "icon": "okcomputer",
-  "order": 12,
+  "order": 13,
   "note": "每個 md front matter 中的 extract_headings: true/false 會控制列表頁是否將 ## 標題顯示為子項目"
 }

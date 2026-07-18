@@ -6,6 +6,6 @@
     "description": "Ricerca approfondita, suggerimenti di ricerca, generazione, download e salvataggio dei report"
   },
   "icon": "deep-research",
-  "order": 7,
+  "order": 8,
   "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
 }

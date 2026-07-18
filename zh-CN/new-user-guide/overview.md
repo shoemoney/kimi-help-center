@@ -55,13 +55,13 @@ Kimi 不仅是对话助手，更是能自主执行任务的 AI Agent：
     {
       title: "搜索",
       description: "搜索是模型的实时知识库，用于获取即时、可信、可溯源信息。",
-      pageUrl: "/new-user-guide/search",
+      pageUrl: "/features/search",
       type: "browser",
     },
     {
       title: "记忆空间",
       description: "长期保存你的偏好，并在后续对话中参考过往聊天记录。",
-      pageUrl: "/new-user-guide/memory-space",
+      pageUrl: "/features/memory-space",
       type: "setting",
     },
     {

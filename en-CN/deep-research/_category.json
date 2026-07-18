@@ -6,6 +6,6 @@
     "description": "Product introduction and issue feedback"
   },
   "icon": "deep-research",
-  "order": 7,
+  "order": 8,
   "note": "In each md file's front matter, extract_headings: true/false controls whether ## headings are expanded on the list page"
 }

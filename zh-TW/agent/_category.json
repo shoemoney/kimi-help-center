@@ -6,6 +6,6 @@
     "description": "Agent 模式概覽、Agent Swarm、功能與限制"
   },
   "icon": "agent",
-  "order": 2,
+  "order": 3,
   "note": "每個 md front matter 中的 extract_headings 會控制 ## 標題是否在列表頁顯示為可展開項目"
 }

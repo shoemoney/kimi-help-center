@@ -6,6 +6,6 @@
     "description": "สร้างงานนำเสนอด้วยโหมด Adaptive หรือ Visual"
   },
   "icon": "slides",
-  "order": 5,
+  "order": 6,
   "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
 }

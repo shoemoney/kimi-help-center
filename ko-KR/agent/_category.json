@@ -6,6 +6,6 @@
     "description": "에이전트 모드 개요, Agent Swarm, 기능과 한계"
   },
   "icon": "agent",
-  "order": 2,
+  "order": 3,
   "note": "각 md front matter의 extract_headings는 목록 페이지에서 ## 제목이 펼칠 수 있는 항목으로 표시될지 여부를 제어합니다."
 }

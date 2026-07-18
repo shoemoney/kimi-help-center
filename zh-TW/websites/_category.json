@@ -6,6 +6,6 @@
     "description": "使用 Agent 建置網頁、部署並分享，並可反覆編修"
   },
   "icon": "websites",
-  "order": 8,
+  "order": 9,
   "note": "每個 md front matter 中的 extract_headings 控制 ## 標題是否會在列表頁顯示為可展開項目"
 }

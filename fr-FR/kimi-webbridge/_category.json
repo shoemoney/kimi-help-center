@@ -6,6 +6,6 @@
     "description": "Une extension de navigateur pour agents IA"
   },
   "icon": "kimi-webbridge",
-  "order": 4,
+  "order": 5,
   "note": "extract_headings: true/false in each md front matter controls whether ## headings are shown as sub-items on list pages"
 }

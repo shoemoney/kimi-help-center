@@ -6,6 +6,6 @@
     "description": "套餐、账单、额度、升级、发票及常见问题"
   },
   "icon": "membership",
-  "order": 9,
+  "order": 10,
   "note": "extract_headings: true/false in each md front matter controls whether ## headings are shown as sub-items on list pages"
 }

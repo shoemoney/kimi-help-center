@@ -6,6 +6,6 @@
     "description": "CLI 代理、VS Code 扩展、IDE 集成、第三方代理"
   },
   "icon": "kimi-code",
-  "order": 10,
+  "order": 11,
   "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
 }

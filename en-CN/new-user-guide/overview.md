@@ -55,13 +55,13 @@ Kimi is more than a chat assistant. It is also an AI Agent that can carry out ta
     {
       title: "Search",
       description: "Search serves as the model’s real-time knowledge base, used to obtain timely, reliable, and traceable information.",
-      pageUrl: "/new-user-guide/search",
+      pageUrl: "/features/search",
       type: "browser",
     },
     {
       title: "Memory Space",
       description: "Saves your preferences over the long term and refers to past chats in future conversations.",
-      pageUrl: "/new-user-guide/memory-space",
+      pageUrl: "/features/memory-space",
       type: "setting",
     },
     {

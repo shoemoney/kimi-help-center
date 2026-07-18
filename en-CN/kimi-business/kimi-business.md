@@ -19,6 +19,20 @@ Kimi Business is an intelligent office solution built for enterprise teams. It d
 Kimi Business is available as an annual subscription, starting from 5 seats. It is suitable for small and medium-sized enterprises with team collaboration needs.
 </Callout>
 
+## How to purchase
+
+| Company size | Recommended path | How to purchase | Sales contact |
+|---|---|---|---|
+| 1–20 | Buy the enterprise plan | [Buy online](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
+| 20+ | Place separate online orders | [Buy online](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
+| Large-scale API / tokens | Buy API on the open platform | [Kimi Open Platform](https://platform.kimi.com/) | [Contact sales (fill out form)](https://platform.kimi.com/contact-sales) |
+
+<Frames
+  src="./images/kimi-business-purchase/customer-service-qrcode.png"
+  alt="Enterprise sales contact QR code"
+  caption="Scan to contact enterprise sales"
+/>
+
 ## Pricing
 
 | Item | Details |

@@ -19,6 +19,20 @@ Kimi Business 是专为企业团队打造的智能办公解决方案，在提供
 Kimi Business 采用年度订阅制，5 座起售，适合有团队协作需求的中小型企业。
 </Callout>
 
+## 如何购买
+
+| 企业规模 | 建议路径 | 购买方式 | 销售联系方式 |
+|---|---|---|---|
+| 1～20 人 | 购买企业版 | [在线购买](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
+| 20 人以上 | 分笔购买 | [在线购买](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
+| 大规模使用 API / tokens | 到开放平台购买 API | [Kimi 开放平台](https://platform.kimi.com/) | [联系销售（填写表单）](https://platform.kimi.com/contact-sales) |
+
+<Frames
+  src="./images/kimi-business-purchase/customer-service-qrcode.png"
+  alt="企业版销售联系二维码"
+  caption="扫码联系企业版销售"
+/>
+
 ## 定价
 
 | 项目 | 内容 |

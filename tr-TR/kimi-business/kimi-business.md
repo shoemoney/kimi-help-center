@@ -19,6 +19,14 @@ Kimi Business, kurumsal ekipler için tasarlanmış akıllı bir çalışma alan
 Kimi Business, en az 5 koltuktan başlayan yıllık abonelikler sunar; ekip iş birliği ihtiyacı olan küçük ve orta ölçekli işletmeler için idealdir.
 </Callout>
 
+## Nasıl satın alınır
+
+| Şirket büyüklüğü | Önerilen yol | Nasıl satın alınır | Satış iletişimi |
+|---|---|---|---|
+| 1–20 | Kurumsal planı satın alın | [Çevrimiçi satın al](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
+| 20+ | Ayrı çevrimiçi siparişler verin | [Çevrimiçi satın al](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
+| Büyük ölçekli API / token kullanımı | API'yi açık platformdan satın alın | [Kimi API Platform](https://platform.kimi.ai/) | [Satışla iletişime geçin (form doldurun)](https://platform.kimi.ai/contact-sales) |
+
 ## Fiyatlandırma
 
 | Öğe | Ayrıntılar |

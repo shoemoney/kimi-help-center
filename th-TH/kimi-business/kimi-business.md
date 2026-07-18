@@ -19,6 +19,14 @@ Kimi Business คือโซลูชันพื้นที่ทำงาน
 Kimi Business เปิดให้สมัครสมาชิกรายปี เริ่มต้นที่ 5 ที่นั่ง เหมาะสำหรับธุรกิจขนาดเล็กและขนาดกลางที่ต้องการทำงานร่วมกันเป็นทีม
 </Callout>
 
+## วิธีซื้อ
+
+| ขนาดองค์กร | เส้นทางที่แนะนำ | วิธีซื้อ | ติดต่อฝ่ายขาย |
+|---|---|---|---|
+| 1–20 | ซื้อแพ็กเกจสำหรับองค์กร | [ซื้อออนไลน์](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
+| 20+ | สั่งซื้อออนไลน์แยกรายการ | [ซื้อออนไลน์](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
+| การใช้ API / โทเค็นปริมาณมาก | ซื้อ API บนแพลตฟอร์มเปิด | [Kimi API Platform](https://platform.kimi.ai/) | [ติดต่อฝ่ายขาย (กรอกแบบฟอร์ม)](https://platform.kimi.ai/contact-sales) |
+
 ## ราคา
 
 | รายการ | รายละเอียด |

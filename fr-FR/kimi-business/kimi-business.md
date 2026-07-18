@@ -19,6 +19,14 @@ Kimi Business est une solution d'espace de travail intelligent conçue pour les 
 Kimi Business propose des abonnements annuels à partir de 5 sièges, parfaitement adaptés aux petites et moyennes entreprises ayant des besoins de collaboration en équipe.
 </Callout>
 
+## Comment acheter
+
+| Taille de l'entreprise | Parcours recommandé | Comment acheter | Contact commercial |
+|---|---|---|---|
+| 1–20 | Acheter le plan entreprise | [Acheter en ligne](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
+| 20+ | Passer des commandes en ligne séparées | [Acheter en ligne](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
+| Utilisation à grande échelle d'API / tokens | Acheter l'API sur la plateforme ouverte | [Kimi API Platform](https://platform.kimi.ai/) | [Contacter le service commercial (formulaire)](https://platform.kimi.ai/contact-sales) |
+
 ## Tarification
 
 | Élément | Détails |

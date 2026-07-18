@@ -19,6 +19,14 @@ Kimi Business là giải pháp không gian làm việc thông minh dành cho cá
 Kimi Business cung cấp gói đăng ký theo năm với số lượng tối thiểu 5 chỗ, lý tưởng cho các doanh nghiệp vừa và nhỏ có nhu cầu cộng tác nhóm.
 </Callout>
 
+## Cách mua
+
+| Quy mô doanh nghiệp | Lộ trình đề xuất | Cách mua | Liên hệ kinh doanh |
+|---|---|---|---|
+| 1–20 | Mua gói doanh nghiệp | [Mua trực tuyến](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
+| 20+ | Đặt các đơn hàng trực tuyến riêng | [Mua trực tuyến](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
+| Sử dụng API / token quy mô lớn | Mua API trên nền tảng mở | [Kimi API Platform](https://platform.kimi.ai/) | [Liên hệ kinh doanh (điền biểu mẫu)](https://platform.kimi.ai/contact-sales) |
+
 ## Giá cả
 
 | Mục | Chi tiết |

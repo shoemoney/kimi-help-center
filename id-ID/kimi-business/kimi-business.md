@@ -19,6 +19,14 @@ Kimi Business adalah solusi ruang kerja cerdas yang dirancang untuk tim enterpri
 Kimi Business menawarkan langganan tahunan mulai dari 5 seat, cocok untuk usaha kecil dan menengah yang membutuhkan kolaborasi tim.
 </Callout>
 
+## Cara membeli
+
+| Ukuran perusahaan | Jalur yang disarankan | Cara membeli | Kontak penjualan |
+|---|---|---|---|
+| 1–20 | Beli paket enterprise | [Beli online](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
+| 20+ | Lakukan pemesanan online terpisah | [Beli online](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
+| Penggunaan API / token skala besar | Beli API di platform terbuka | [Kimi API Platform](https://platform.kimi.ai/) | [Hubungi penjualan (isi formulir)](https://platform.kimi.ai/contact-sales) |
+
 ## Harga
 
 | Item | Detail |

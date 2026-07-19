@@ -2,7 +2,7 @@
 title: "Thông báo về những thay đổi gần đây đối với các gói dịch vụ"
 slug: "membership-plan-adjustment-notice"
 order: 1
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Cập nhật về những thay đổi gần đây đối với các gói dịch vụ: quyền lợi của tất cả người dùng trả phí hoàn toàn không bị ảnh hưởng; các gói hiện có vẫn khả dụng và có thể gia hạn; người dùng hiện tại có thể nâng cấp; các gói mới hiện chưa mở bán."
 ---

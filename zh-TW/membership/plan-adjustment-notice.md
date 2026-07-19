@@ -2,7 +2,7 @@
 title: "關於方案調整的說明"
 slug: "membership-plan-adjustment-notice"
 order: 1
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "關於近期方案調整的統一說明：所有已付費使用者的權益不受影響，舊方案可繼續使用與續訂，舊使用者可升級，新方案尚未開放。"
 ---

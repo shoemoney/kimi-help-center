@@ -2,7 +2,7 @@
 title: "최근 요금제 변경 안내"
 slug: "membership-plan-adjustment-notice"
 order: 1
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "최근 요금제 변경에 대해 안내드립니다. 모든 유료 사용자의 혜택은 전혀 영향을 받지 않으며, 기존 요금제는 계속 이용 및 갱신할 수 있습니다. 현재 사용자는 요금제를 업그레이드할 수 있고, 신규 요금제는 아직 구매할 수 없습니다."
 ---

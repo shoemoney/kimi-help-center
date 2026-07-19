@@ -2,7 +2,7 @@
 title: "Hinweis zu den jüngsten Tarifänderungen"
 slug: "membership-plan-adjustment-notice"
 order: 1
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Aktuelles zu unseren jüngsten Tarifänderungen: Die Leistungen aller zahlenden Nutzer bleiben vollständig unverändert; bestehende Tarife stehen weiterhin zur Verfügung und können verlängert werden; bestehende Nutzer können upgraden; neue Tarife können derzeit noch nicht gebucht werden."
 ---

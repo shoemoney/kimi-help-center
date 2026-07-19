@@ -2,7 +2,7 @@
 title: "Son Plan Değişiklikleri Hakkında Bir Not"
 slug: "membership-plan-adjustment-notice"
 order: 1
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Son plan değişikliklerimizle ilgili bir güncelleme: Ücretli kullanıcıların tüm avantajları hiçbir şekilde etkilenmedi; mevcut planlar kullanılmaya ve yenilenmeye devam ediyor; mevcut kullanıcılar planlarını yükseltebilir; yeni planlar ise henüz satın alıma açılmadı."
 ---

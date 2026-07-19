@@ -2,7 +2,7 @@
 title: "Nota sulle recenti modifiche ai piani"
 slug: "membership-plan-adjustment-notice"
 order: 1
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Aggiornamento sulle recenti modifiche ai piani: i vantaggi di tutti gli utenti paganti restano invariati, i piani esistenti sono ancora disponibili e rinnovabili, gli utenti attuali possono effettuare l’upgrade e i nuovi piani non sono ancora acquistabili."
 ---

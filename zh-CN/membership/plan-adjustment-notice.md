@@ -2,7 +2,7 @@
 title: "关于套餐调整的说明"
 slug: "membership-plan-adjustment-notice"
 order: 1
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "关于近期套餐调整的统一说明：所有已付费用户权益不受影响，老套餐可继续使用与续费，老用户可升级，新套餐暂未开放。"
 ---

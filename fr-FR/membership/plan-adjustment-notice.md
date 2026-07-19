@@ -2,7 +2,7 @@
 title: "À propos des récents changements d’abonnement"
 slug: "membership-plan-adjustment-notice"
 order: 1
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Point sur les récents changements apportés à nos abonnements : les avantages de tous les utilisateurs payants restent intégralement inchangés, les abonnements existants demeurent disponibles et renouvelables, les utilisateurs actuels peuvent passer à une offre supérieure, et les nouvelles offres ne sont pas encore ouvertes à l’achat."
 ---

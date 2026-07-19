@@ -2,7 +2,7 @@
 title: "Catatan tentang Perubahan Paket Terbaru"
 slug: "membership-plan-adjustment-notice"
 order: 1
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Pembaruan terkait perubahan paket terbaru kami: manfaat semua pengguna berbayar sama sekali tidak terdampak, paket yang sudah ada tetap tersedia dan dapat diperpanjang, pengguna saat ini dapat melakukan upgrade, dan paket baru belum dibuka untuk pembelian."
 ---

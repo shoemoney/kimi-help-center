@@ -2,7 +2,7 @@
 title: "最近のプラン変更に関するお知らせ"
 slug: "membership-plan-adjustment-notice"
 order: 1
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "最近のプラン変更についてお知らせします。有料ユーザーの皆さまの特典に影響は一切ありません。既存プランは引き続きご利用・更新いただけます。現在ご利用中のユーザーはアップグレード可能です。新プランはまだ購入受付を開始していません。"
 ---

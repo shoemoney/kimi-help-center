@@ -2,7 +2,7 @@
 title: "A Note on Recent Plan Changes"
 slug: "membership-plan-adjustment-notice"
 order: 1
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "An update on our recent plan changes: all paid users' benefits are fully unaffected, existing plans remain available and renewable, current users can upgrade, and new plans aren't open for purchase yet."
 ---

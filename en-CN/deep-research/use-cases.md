@@ -2,7 +2,7 @@
 title: "Deep Research Use Cases and Prompt Library"
 slug: "deep-research-use-cases"
 order: 2
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Use cases and prompt templates for Deep Research, covering a wide range of research scenarios."
 ---

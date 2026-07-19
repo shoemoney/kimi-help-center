@@ -2,7 +2,7 @@
 title: "Deep Research의 컨텍스트 길이는 얼마인가요?"
 slug: "deep-research-context-length"
 order: 5
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

@@ -2,7 +2,7 @@
 title: "Deep Research ค้างหรือไม่แสดงผลลัพธ์ใช่ไหม?"
 slug: "deep-research-stuck"
 order: 3
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

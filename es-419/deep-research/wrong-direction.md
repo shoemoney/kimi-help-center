@@ -2,7 +2,7 @@
 title: "¿La dirección de la búsqueda o el razonamiento se desvió?"
 slug: "deep-research-wrong-direction"
 order: 4
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

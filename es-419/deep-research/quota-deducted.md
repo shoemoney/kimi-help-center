@@ -2,7 +2,7 @@
 title: "¿Se descontaron tus créditos antes de completar la tarea?"
 slug: "deep-research-quota-deducted"
 order: 6
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

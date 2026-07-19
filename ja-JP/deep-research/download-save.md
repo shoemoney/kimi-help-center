@@ -2,7 +2,7 @@
 title: "ダウンロードまたは保存"
 slug: "deep-research-download-save"
 order: 8
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

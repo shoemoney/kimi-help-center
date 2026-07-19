@@ -2,7 +2,7 @@
 title: "搜索或思考方向出现了错误？"
 slug: "deep-research-wrong-direction"
 order: 4
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "深度研究搜索方向偏差的反馈方法与减少偏差技巧。"
 ---

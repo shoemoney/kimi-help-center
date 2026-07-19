@@ -2,7 +2,7 @@
 title: "Deep Research 활용 사례 및 프롬프트 라이브러리"
 slug: "deep-research-use-cases"
 order: 2
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

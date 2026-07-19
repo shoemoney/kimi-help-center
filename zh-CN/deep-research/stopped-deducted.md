@@ -2,7 +2,7 @@
 title: "我主动停止了任务，却被扣除了额度？"
 slug: "deep-research-stopped-deducted"
 order: 7
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "主动停止深度研究任务后的额度扣除规则与建议。"
 ---

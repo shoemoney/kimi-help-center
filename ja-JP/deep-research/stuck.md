@@ -2,7 +2,7 @@
 title: "Deep Research が止まったまま、または結果が返ってこない場合"
 slug: "deep-research-stuck"
 order: 3
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

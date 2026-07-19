@@ -2,7 +2,7 @@
 title: "¿Cuál es la longitud de contexto de Deep Research?"
 slug: "deep-research-context-length"
 order: 5
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

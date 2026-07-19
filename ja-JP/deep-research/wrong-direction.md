@@ -2,7 +2,7 @@
 title: "検索や推論の方向性がずれてしまった場合"
 slug: "deep-research-wrong-direction"
 order: 4
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

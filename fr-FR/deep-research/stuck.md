@@ -2,7 +2,7 @@
 title: "Deep Research est bloqué ou ne renvoie aucun résultat ?"
 slug: "deep-research-stuck"
 order: 3
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

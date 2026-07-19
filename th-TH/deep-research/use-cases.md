@@ -2,7 +2,7 @@
 title: "กรณีการใช้งานและคลังพรอมต์ Deep Research"
 slug: "deep-research-use-cases"
 order: 2
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

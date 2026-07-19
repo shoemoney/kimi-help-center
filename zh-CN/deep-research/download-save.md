@@ -2,7 +2,7 @@
 title: "深度研究报告无法下载和保存？"
 slug: "deep-research-download-save"
 order: 8
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "深度研究报告无法下载或保存的解决方法。"
 ---

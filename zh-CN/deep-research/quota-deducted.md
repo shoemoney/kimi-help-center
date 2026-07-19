@@ -2,7 +2,7 @@
 title: "没有完成任务就扣除了额度？"
 slug: "deep-research-quota-deducted"
 order: 6
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "深度研究任务未完成但已扣除额度的计费说明。"
 ---

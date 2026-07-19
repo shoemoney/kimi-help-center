@@ -2,7 +2,7 @@
 title: "Can’t download or save a Deep Research report?"
 slug: "deep-research-download-save"
 order: 8
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Solutions for when a Deep Research report can’t be downloaded or saved."
 ---

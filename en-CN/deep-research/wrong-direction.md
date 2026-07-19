@@ -2,7 +2,7 @@
 title: "Search or reasoning went off track?"
 slug: "deep-research-wrong-direction"
 order: 4
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "How to report Deep Research direction deviations and reduce off-track results."
 ---

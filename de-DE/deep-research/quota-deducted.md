@@ -2,7 +2,7 @@
 title: "Credits vor Abschluss der Aufgabe abgezogen?"
 slug: "deep-research-quota-deducted"
 order: 6
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

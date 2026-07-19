@@ -2,7 +2,7 @@
 title: "Deep Research（深度研究）用例与提示词库"
 slug: "deep-research-use-cases"
 order: 2
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

@@ -2,7 +2,7 @@
 title: "Сценарии Deep Research и библиотека промптов"
 slug: "deep-research-use-cases"
 order: 2
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

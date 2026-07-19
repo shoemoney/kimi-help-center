@@ -2,7 +2,7 @@
 title: "What should I do if Deep Research gets stuck or never returns a result?"
 slug: "deep-research-stuck"
 order: 3
-extract_headings: false
+extract_headings: true
 preview: false
 preview_content: "How to handle Deep Research when it gets stuck or takes a long time to return results."
 ---

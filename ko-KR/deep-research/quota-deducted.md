@@ -2,7 +2,7 @@
 title: "작업 완료 전에 credit이 차감되었나요?"
 slug: "deep-research-quota-deducted"
 order: 6
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

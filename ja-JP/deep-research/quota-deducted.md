@@ -2,7 +2,7 @@
 title: "タスク完了前にクレジットが差し引かれましたか？"
 slug: "deep-research-quota-deducted"
 order: 6
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

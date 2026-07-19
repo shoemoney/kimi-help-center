@@ -2,7 +2,7 @@
 title: "深度研究卡住了/一直没出结果怎么办？"
 slug: "deep-research-stuck"
 order: 3
-extract_headings: false
+extract_headings: true
 preview: false
 preview_content: "深度研究卡住或长时间无结果的处理方法。"
 ---

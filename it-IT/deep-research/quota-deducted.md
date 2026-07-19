@@ -2,7 +2,7 @@
 title: "I crediti sono stati detratti prima del completamento dell'attività?"
 slug: "deep-research-quota-deducted"
 order: 6
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

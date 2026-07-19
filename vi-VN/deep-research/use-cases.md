@@ -2,7 +2,7 @@
 title: "Tình huống sử dụng Deep Research & thư viện prompt"
 slug: "deep-research-use-cases"
 order: 2
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

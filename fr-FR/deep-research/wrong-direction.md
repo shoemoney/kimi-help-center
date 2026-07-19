@@ -2,7 +2,7 @@
 title: "La recherche ou le raisonnement a pris la mauvaise direction ?"
 slug: "deep-research-wrong-direction"
 order: 4
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

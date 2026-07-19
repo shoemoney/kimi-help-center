@@ -2,7 +2,7 @@
 title: "Deep Research（深度研究）卡住或没有返回结果？"
 slug: "deep-research-stuck"
 order: 3
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

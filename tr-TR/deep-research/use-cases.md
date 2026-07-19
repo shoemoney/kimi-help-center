@@ -2,7 +2,7 @@
 title: "Deep Research kullanım senaryoları ve istem kütüphanesi"
 slug: "deep-research-use-cases"
 order: 2
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

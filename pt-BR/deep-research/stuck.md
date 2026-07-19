@@ -2,7 +2,7 @@
 title: "O Deep Research travou ou não retorna resultados?"
 slug: "deep-research-stuck"
 order: 3
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

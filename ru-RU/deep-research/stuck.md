@@ -2,7 +2,7 @@
 title: "Deep Research завис или не возвращает результаты?"
 slug: "deep-research-stuck"
 order: 3
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

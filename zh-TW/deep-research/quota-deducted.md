@@ -2,7 +2,7 @@
 title: "任務完成前就扣除額度？"
 slug: "deep-research-quota-deducted"
 order: 6
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

@@ -2,7 +2,7 @@
 title: "Direzione di ricerca o ragionamento errata?"
 slug: "deep-research-wrong-direction"
 order: 4
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

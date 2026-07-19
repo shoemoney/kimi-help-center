@@ -2,7 +2,7 @@
 title: "Casos de uso e biblioteca de prompts do Deep Research"
 slug: "deep-research-use-cases"
 order: 2
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

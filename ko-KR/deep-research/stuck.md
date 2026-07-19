@@ -2,7 +2,7 @@
 title: "Deep Research가 멈춘 것 같거나 결과가 나오지 않나요?"
 slug: "deep-research-stuck"
 order: 3
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

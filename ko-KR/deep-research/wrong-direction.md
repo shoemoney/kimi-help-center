@@ -2,7 +2,7 @@
 title: "검색 또는 추론 방향이 잘못되었나요?"
 slug: "deep-research-wrong-direction"
 order: 4
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

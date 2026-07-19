@@ -2,7 +2,7 @@
 title: "I stopped the task myself—why were credits deducted?"
 slug: "deep-research-stopped-deducted"
 order: 7
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Credit deduction rules and recommendations after manually stopping a Deep Research task."
 ---

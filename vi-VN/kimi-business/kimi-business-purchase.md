@@ -8,19 +8,19 @@ preview: false
 
 <SeoMeta
   title="Cách mua Kimi Business Enterprise - Trung tâm trợ giúp Kimi"
-  description="Tìm hiểu cách mua Kimi Business Enterprise: mở gói doanh nghiệp từ trang Gói thành viên và chọn số chỗ ngồi, hoặc quét mã QR để liên hệ hỗ trợ."
+  description="Tìm hiểu cách mua Kimi Business Enterprise: mở gói doanh nghiệp từ trang Gói thành viên và chọn số suất người dùng, hoặc quét mã QR để liên hệ hỗ trợ."
 />
 
 # Cách mua Kimi Business Enterprise
 
 ## Mua trực tuyến
 
-Trên trang chủ cá nhân của bạn, nhấp vào "Gói thành viên" và chọn "Nhận gói Doanh nghiệp" để chọn số chỗ ngồi và hoàn tất việc mua hàng.
+Trên trang chủ cá nhân của bạn, nhấp vào "Gói thành viên" và chọn "Nhận gói Doanh nghiệp" để chọn số suất người dùng và hoàn tất việc mua hàng.
 
 Bạn cũng có thể truy cập trực tiếp [trang mua bản doanh nghiệp](https://www.kimi.com/membership/pricing?from=help&open=business) để hoàn tất việc mua.
 
 <Callout type="tip">
-Kimi Business bắt đầu từ 5 chỗ ngồi với đăng ký theo năm, và bạn có thể thêm chỗ ngồi trong suốt thời gian đăng ký.
+Kimi Business bắt đầu từ 5 suất người dùng với đăng ký theo năm, và bạn có thể thêm suất người dùng trong suốt thời gian đăng ký.
 </Callout>
 
 ## Liên hệ hỗ trợ

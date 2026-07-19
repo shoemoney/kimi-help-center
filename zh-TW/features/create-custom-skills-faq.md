@@ -1,7 +1,7 @@
 ---
 title: "建立技能常見問題"
 slug: "create-custom-skills-faq"
-order: 9
+order: 12
 extract_headings: true
 preview: false
 ---

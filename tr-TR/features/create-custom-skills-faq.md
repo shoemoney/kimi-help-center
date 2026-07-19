@@ -1,7 +1,7 @@
 ---
 title: "Beceri oluşturma SSS"
 slug: "create-custom-skills-faq"
-order: 9
+order: 12
 extract_headings: true
 preview: false
 ---

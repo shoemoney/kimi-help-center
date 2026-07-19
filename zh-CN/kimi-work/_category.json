@@ -1,0 +1,11 @@
+{
+  "title": "Kimi Work",
+  "description": "面向知识工作者的通用型本地 Agent：本地文件处理、专业 Skills、插件与专业数据库、WebBridge 浏览器自动化、Agent 集群与目标模式。",
+  "seo": {
+    "title": "Kimi Work",
+    "description": "面向知识工作者的通用型本地 Agent：本地文件处理、专业 Skills、插件与专业数据库、WebBridge 浏览器自动化、Agent 集群与目标模式。"
+  },
+  "icon": "code",
+  "order": 4,
+  "note": "每篇 md 的 front matter 中 extract_headings: true/false 控制是否在列表页展开 ## 标题"
+}

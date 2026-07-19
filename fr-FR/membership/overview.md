@@ -1,7 +1,7 @@
 ---
 title: "Présentation des formules d'abonnement"
 slug: "membership-overview"
-order: 1
+order: 2
 extract_headings: true
 preview: true
 preview_content: "Comparez les cinq niveaux d'abonnement de Kimi, le système de crédits et les options de facturation."

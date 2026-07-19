@@ -1,7 +1,7 @@
 ---
 title: "會員方案總覽"
 slug: "membership-overview"
-order: 1
+order: 2
 extract_headings: true
 preview: true
 preview_content: "比較 Kimi 的五種會員等級、額度系統與計費選項。"

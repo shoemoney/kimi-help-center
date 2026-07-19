@@ -1,7 +1,7 @@
 ---
 title: "会员订阅服务权益介绍"
 slug: "membership-overview"
-order: 1
+order: 2
 extract_headings: false
 preview: true
 preview_content: "Kimi 会员五档套餐全面对比，了解权益、计费与常见问题。"

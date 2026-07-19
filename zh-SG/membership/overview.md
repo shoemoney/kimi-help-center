@@ -1,7 +1,7 @@
 ---
 title: "会员套餐概览"
 slug: "membership-overview"
-order: 1
+order: 2
 extract_headings: true
 preview: true
 preview_content: "对比 Kimi 的五档会员套餐、额度体系与计费选项。"

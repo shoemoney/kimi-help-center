@@ -1,7 +1,7 @@
 ---
 title: "メンバーシッププラン概要"
 slug: "membership-overview"
-order: 1
+order: 2
 extract_headings: true
 preview: true
 preview_content: "Kimiの5つのメンバーシップランク、クレジットシステム、お支払い方法を比較できます。"

@@ -1,7 +1,7 @@
 ---
 title: "Обзор подписок"
 slug: "membership-overview"
-order: 1
+order: 2
 extract_headings: true
 preview: true
 preview_content: "Сравните пять уровней подписки Kimi, систему кредитов и варианты оплаты."

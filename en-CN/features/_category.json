@@ -1,6 +1,10 @@
 {
   "title": "Features",
   "description": "Search, memory, scheduled tasks, Skills, and other cross-cutting features",
+  "seo": {
+    "title": "Features",
+    "description": "Search, memory, scheduled tasks, Skills, and other cross-cutting features"
+  },
   "icon": "getting-started",
   "order": 2
 }

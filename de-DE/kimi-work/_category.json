@@ -1,0 +1,11 @@
+{
+  "title": "Kimi Work",
+  "description": "Ein lokaler Agent für Wissensarbeiter – Überblick, Zielmodus, Plugins und Anwendungsfälle",
+  "seo": {
+    "title": "Kimi Work",
+    "description": "Ein lokaler Agent für Wissensarbeiter – Überblick, Zielmodus, Plugins und Anwendungsfälle"
+  },
+  "icon": "code",
+  "order": 4,
+  "note": "extract_headings: true/false in each md front matter controls whether ## headings expand on the list page"
+}

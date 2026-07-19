@@ -1,0 +1,11 @@
+{
+  "title": "Kimi Work",
+  "description": "Um agente local para profissionais do conhecimento — visão geral, modo Objetivo, plugins e casos de uso",
+  "seo": {
+    "title": "Kimi Work",
+    "description": "Um agente local para profissionais do conhecimento — visão geral, modo Objetivo, plugins e casos de uso"
+  },
+  "icon": "code",
+  "order": 4,
+  "note": "extract_headings: true/false no front matter de cada md controla se os títulos ## se expandem na página de listagem"
+}

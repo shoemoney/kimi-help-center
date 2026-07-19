@@ -1,0 +1,11 @@
+{
+  "title": "Kimi Work",
+  "description": "面向知识工作者的本地 Agent——概览、目标模式、插件与使用场景",
+  "seo": {
+    "title": "Kimi Work",
+    "description": "面向知识工作者的本地 Agent——概览、目标模式、插件与使用场景"
+  },
+  "icon": "code",
+  "order": 4,
+  "note": "每个 md front matter 中的 extract_headings: true/false 用于控制列表页是否展开 ## 标题"
+}

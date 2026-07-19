@@ -1,0 +1,11 @@
+{
+  "title": "Kimi Work",
+  "description": "ナレッジワーカーのためのローカル Agent — 概要、Goal mode、プラグイン、ユースケース",
+  "seo": {
+    "title": "Kimi Work",
+    "description": "ナレッジワーカーのためのローカル Agent — 概要、Goal mode、プラグイン、ユースケース"
+  },
+  "icon": "code",
+  "order": 4,
+  "note": "各 md の front matter にある extract_headings: true/false は、一覧ページで ## 見出しを展開するかどうかを制御します"
+}

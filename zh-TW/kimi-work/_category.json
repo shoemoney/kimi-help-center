@@ -1,0 +1,11 @@
+{
+  "title": "Kimi Work",
+  "description": "面向知識工作者的本機智能體——概覽、目標模式、外掛與使用情境",
+  "seo": {
+    "title": "Kimi Work",
+    "description": "面向知識工作者的本機智能體——概覽、目標模式、外掛與使用情境"
+  },
+  "icon": "code",
+  "order": 4,
+  "note": "每個 md front matter 中的 extract_headings: true/false 會控制 ## 標題是否在列表頁展開"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Kimi Work",
+  "description": "Một Agent cục bộ dành cho người làm tri thức — tổng quan, chế độ Mục tiêu, plugin và các trường hợp sử dụng",
+  "seo": {
+    "title": "Kimi Work",
+    "description": "Một Agent cục bộ dành cho người làm tri thức — tổng quan, chế độ Mục tiêu, plugin và các trường hợp sử dụng"
+  },
+  "icon": "code",
+  "order": 4,
+  "note": "extract_headings: true/false trong front matter của từng md kiểm soát việc các tiêu đề ## có được mở rộng trên trang danh sách hay không"
+}

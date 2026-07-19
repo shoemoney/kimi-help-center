@@ -1,9 +1,9 @@
 {
   "title": "Kimi Work",
-  "description": "A general-purpose local Agent for knowledge workers: local file handling, professional Skills, plugins and professional databases, WebBridge browser automation, Agent Swarm, and Goal mode.",
+  "description": "A local Agent for knowledge workers — overview, Goal mode, plugins, and use cases",
   "seo": {
     "title": "Kimi Work",
-    "description": "A general-purpose local Agent for knowledge workers: local file handling, professional Skills, plugins and professional databases, WebBridge browser automation, Agent Swarm, and Goal mode."
+    "description": "A local Agent for knowledge workers — overview, Goal mode, plugins, and use cases"
   },
   "icon": "code",
   "order": 4,

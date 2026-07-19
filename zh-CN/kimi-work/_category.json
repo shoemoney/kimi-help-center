@@ -1,9 +1,9 @@
 {
   "title": "Kimi Work",
-  "description": "面向知识工作者的通用型本地 Agent：本地文件处理、专业 Skills、插件与专业数据库、WebBridge 浏览器自动化、Agent 集群与目标模式。",
+  "description": "产品介绍、目标模式、插件中心、典型应用场景与常见问题",
   "seo": {
     "title": "Kimi Work",
-    "description": "面向知识工作者的通用型本地 Agent：本地文件处理、专业 Skills、插件与专业数据库、WebBridge 浏览器自动化、Agent 集群与目标模式。"
+    "description": "产品介绍、目标模式、插件中心、典型应用场景与常见问题"
   },
   "icon": "code",
   "order": 4,

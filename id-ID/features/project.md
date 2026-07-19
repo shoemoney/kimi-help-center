@@ -40,7 +40,7 @@ Aplikasi desktop Kimi Work juga memiliki "Proyek", yang terpisah dari proyek Kim
 
 Halaman beranda proyek menggunakan tata letak tiga kolom:
 - **Kiri**: sidebar standar;
-- **Tengah**: area untuk memulai chat dan daftar chat proyek. Kotak input menampilkan "Mulai chat di '{project name}'…", dan mengirim pesan di sini akan membuat chat yang otomatis menjadi bagian dari proyek saat ini;
+- **Tengah**: area untuk memulai chat dan daftar chat proyek. Kotak input menampilkan "Mulai chat di 'project name'…", dan mengirim pesan di sini akan membuat chat yang otomatis menjadi bagian dari proyek saat ini;
 - **Panel Kanan**: dua blok — Instruksi dan File (dapat diciutkan).
 
 ## Yang dapat Anda lakukan dalam chat proyek

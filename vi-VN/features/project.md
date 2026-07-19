@@ -40,7 +40,7 @@ Dự án là một không gian làm việc lâu dài. Bạn có thể gom tệp 
 
 Trang chủ dự án dùng bố cục ba cột:
 - **Bên trái**: thanh bên tiêu chuẩn;
-- **Ở giữa**: khu vực bắt đầu trò chuyện và danh sách trò chuyện của dự án. Ô nhập hiển thị "Bắt đầu trò chuyện trong '{project name}'…"; khi bạn gửi tin nhắn tại đây, một cuộc trò chuyện tự động thuộc về dự án hiện tại sẽ được tạo;
+- **Ở giữa**: khu vực bắt đầu trò chuyện và danh sách trò chuyện của dự án. Ô nhập hiển thị "Bắt đầu trò chuyện trong 'project name'…"; khi bạn gửi tin nhắn tại đây, một cuộc trò chuyện tự động thuộc về dự án hiện tại sẽ được tạo;
 - **Bảng bên phải**: hai khối — Hướng dẫn và Tệp (có thể thu gọn).
 
 ## Bạn có thể làm gì trong cuộc trò chuyện thuộc dự án

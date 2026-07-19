@@ -40,7 +40,7 @@ O aplicativo desktop Kimi Work também tem "Projetos", que são separados dos pr
 
 A página inicial do projeto usa um layout de três colunas:
 - **Esquerda**: a barra lateral padrão;
-- **Centro**: uma área para iniciar conversas e a lista de conversas do projeto. A caixa de entrada mostra "Iniciar uma conversa em '{project name}'…", e enviar uma mensagem por ali cria uma conversa que pertence automaticamente ao projeto atual;
+- **Centro**: uma área para iniciar conversas e a lista de conversas do projeto. A caixa de entrada mostra "Iniciar uma conversa em 'project name'…", e enviar uma mensagem por ali cria uma conversa que pertence automaticamente ao projeto atual;
 - **Painel direito**: dois blocos — Instruções e Arquivos (recolhíveis).
 
 ## O que você pode fazer em uma conversa de projeto

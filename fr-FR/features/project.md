@@ -40,7 +40,7 @@ L’application de bureau Kimi Work comporte elle aussi des « Projects », qui 
 
 La page d’accueil du projet est organisée en trois colonnes :
 - **Gauche** : la barre latérale standard ;
-- **Centre** : une zone pour démarrer une discussion et la liste des discussions du projet. Le champ de saisie indique « Démarrer une discussion dans '{project name}'… » ; envoyer un message ici crée une discussion automatiquement rattachée au projet actuel ;
+- **Centre** : une zone pour démarrer une discussion et la liste des discussions du projet. Le champ de saisie indique « Démarrer une discussion dans 'project name'… » ; envoyer un message ici crée une discussion automatiquement rattachée au projet actuel ;
 - **Panneau de droite** : deux blocs — Instructions et Fichiers (repliables).
 
 ## Ce que vous pouvez faire dans une discussion de projet

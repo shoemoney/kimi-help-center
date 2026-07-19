@@ -40,7 +40,7 @@ Die Desktop-App Kimi Work hat ebenfalls „Projekte“. Diese sind jedoch von de
 
 Die Projektstartseite ist dreispaltig aufgebaut:
 - **Links**: die normale Seitenleiste;
-- **Mitte**: ein Bereich zum Starten von Chats und die Chatliste des Projekts. Im Eingabefeld steht „Chat in ‚{project name}‘ starten …“; wenn du hier eine Nachricht sendest, wird ein Chat erstellt, der automatisch zum aktuellen Projekt gehört;
+- **Mitte**: ein Bereich zum Starten von Chats und die Chatliste des Projekts. Im Eingabefeld steht „Chat in ‚project name‘ starten …“; wenn du hier eine Nachricht sendest, wird ein Chat erstellt, der automatisch zum aktuellen Projekt gehört;
 - **Rechter Bereich**: zwei Blöcke — Anweisungen und Dateien (einklappbar).
 
 ## Was du in einem Projektchat tun kannst

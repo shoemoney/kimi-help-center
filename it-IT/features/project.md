@@ -40,7 +40,7 @@ Anche l'app desktop Kimi Work include "Progetti", distinti dai progetti Kimi (Ch
 
 La home page del progetto usa un layout a tre colonne:
 - **Sinistra**: la barra laterale standard;
-- **Centro**: un'area per avviare una chat e l'elenco delle chat del progetto. La casella di input mostra "Avvia una chat in '{project name}'…"; inviando un messaggio da qui, viene creata una chat che appartiene automaticamente al progetto corrente;
+- **Centro**: un'area per avviare una chat e l'elenco delle chat del progetto. La casella di input mostra "Avvia una chat in 'project name'…"; inviando un messaggio da qui, viene creata una chat che appartiene automaticamente al progetto corrente;
 - **Pannello destro**: due blocchi — Istruzioni e File (comprimibili).
 
 ## Cosa puoi fare in una chat di progetto

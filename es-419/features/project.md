@@ -40,7 +40,7 @@ La app de escritorio Kimi Work también tiene "Proyectos", pero son distintos de
 
 La página de inicio del proyecto usa un diseño de tres columnas:
 - **Izquierda**: la barra lateral estándar;
-- **Centro**: un área para iniciar chats y la lista de chats del proyecto. El cuadro de entrada dice "Inicia un chat en '{project name}'…"; al enviar un mensaje aquí, se crea un chat que pertenece automáticamente al proyecto actual;
+- **Centro**: un área para iniciar chats y la lista de chats del proyecto. El cuadro de entrada dice "Inicia un chat en 'project name'…"; al enviar un mensaje aquí, se crea un chat que pertenece automáticamente al proyecto actual;
 - **Panel derecho**: dos bloques: Instrucciones y Archivos (plegables).
 
 ## Qué puedes hacer en un chat de proyecto

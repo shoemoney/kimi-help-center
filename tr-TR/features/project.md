@@ -40,7 +40,7 @@ Kimi Work masaüstü uygulamasında da "Projeler" bulunur; bunlar burada açıkl
 
 Proje ana sayfası üç sütunlu bir düzen kullanır:
 - **Sol**: standart kenar çubuğu;
-- **Orta**: sohbet başlatma alanı ve projenin sohbet listesi. Giriş kutusunda "'{project name}' içinde sohbet başlat…" yazar; buradan gönderdiğiniz mesaj, otomatik olarak mevcut projeye ait bir sohbet oluşturur;
+- **Orta**: sohbet başlatma alanı ve projenin sohbet listesi. Giriş kutusunda "'project name' içinde sohbet başlat…" yazar; buradan gönderdiğiniz mesaj, otomatik olarak mevcut projeye ait bir sohbet oluşturur;
 - **Sağ Panel**: iki blok — Talimatlar ve Dosyalar (daraltılabilir).
 
 ## Proje sohbetinde neler yapabilirsiniz?

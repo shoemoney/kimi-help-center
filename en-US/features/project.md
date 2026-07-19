@@ -40,7 +40,7 @@ The Kimi Work desktop app also has "Projects," which are separate from the Kimi 
 
 The project home page uses a three-column layout:
 - **Left**: the standard sidebar;
-- **Center**: a chat-starting area and the project's chat list. The input box reads "Start a chat in '{project name}'…", and sending a message here creates a chat that automatically belongs to the current project;
+- **Center**: a chat-starting area and the project's chat list. The input box reads "Start a chat in 'project name'…", and sending a message here creates a chat that automatically belongs to the current project;
 - **Right Panel**: two blocks — Instructions and Files (collapsible).
 
 ## What you can do in a project chat

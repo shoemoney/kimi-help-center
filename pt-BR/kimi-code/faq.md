@@ -2,7 +2,7 @@
 title: "Perguntas frequentes sobre o Kimi Code"
 slug: "faq"
 order: 4
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Perguntas frequentes sobre o Kimi Code."
 ---

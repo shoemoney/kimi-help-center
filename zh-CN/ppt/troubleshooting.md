@@ -2,7 +2,7 @@
 title: "PPT 常见问题与排查"
 slug: "ppt-troubleshooting"
 order: 3
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "PPT 功能找不到、打不开或预览异常的排查方法与反馈指引。"
 ---

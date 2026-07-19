@@ -2,7 +2,7 @@
 title: "Kimi Code 常见问题"
 slug: "faq"
 order: 4
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Kimi Code 常见问题。"
 ---

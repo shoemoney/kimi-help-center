@@ -2,7 +2,7 @@
 title: "Kimi Code SSS"
 slug: "faq"
 order: 4
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Kimi Code sıkça sorulan sorular."
 ---

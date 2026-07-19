@@ -2,7 +2,7 @@
 title: "PPT FAQs and Troubleshooting"
 slug: "ppt-troubleshooting"
 order: 3
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Troubleshooting steps and feedback guidance for when the PPT feature can’t be found, won’t open, or previews incorrectly."
 ---

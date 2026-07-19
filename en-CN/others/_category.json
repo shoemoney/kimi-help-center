@@ -6,6 +6,6 @@
     "description": "Account security, privacy terms, and personal settings"
   },
   "icon": "others",
-  "order": 14,
+  "order": 15,
   "note": "In each md file, extract_headings: true/false in the front matter controls whether ## headings are expanded on the list page"
 }

@@ -6,6 +6,6 @@
     "description": "Il tuo assistente AI personale — configurazione, piattaforme di chat, memoria, risoluzione dei problemi"
   },
   "icon": "kimi-claw",
-  "order": 4,
+  "order": 14,
   "note": "extract_headings: true/false in each md front matter controls whether ## headings are shown as sub-items on list pages"
 }

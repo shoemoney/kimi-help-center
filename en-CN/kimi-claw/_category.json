@@ -6,6 +6,6 @@
     "description": "Product overview, Feishu integration, usage tips, and important notes"
   },
   "icon": "kimi-claw",
-  "order": 4,
+  "order": 14,
   "note": "In each md file's front matter, extract_headings: true/false controls whether ## headings are expanded on the list page"
 }

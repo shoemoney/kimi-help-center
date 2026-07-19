@@ -8,32 +8,32 @@ preview: false
 
 <SeoMeta
   title="Kimi Work 外掛中心 - Kimi 說明中心"
-  description="了解 Kimi Work 外掛中心：內建涵蓋金融、法律與學術領域的專業資料庫外掛，以及精選外部應用外掛，如 Baidu Netdisk、DingTalk、Feishu、WPS、Canva、Notion 等，並學習如何安裝。"
+  description="了解 Kimi Work 外掛中心：內建金融、法律、學術等領域的專業資料庫外掛，以及百度網盤、釘釘、飛書、WPS、Canva、Notion 等精選外部應用外掛與安裝方式。"
 />
 
 # 外掛中心
 
 ## 內建專業資料庫外掛
 
-Kimi Work 內建涵蓋金融、法律與學術領域的專業資料庫外掛，為專業人士提供權威且可信的資料來源，涵蓋國內與全球資料：
+Kimi Work 內建金融、法律、學術等領域的專業資料庫外掛，為專業人士提供權威可信的來源，涵蓋國內與全球資料：
 
-- **金融資料**：Wind Financial Data Service、Hundsun Gildata 金融資料、S&P Global Market Intelligence、全球金融資料庫、IMF（國際貨幣基金組織）資料庫、同花順（Tonghuashun）等
-- **商業／法律**：天眼查、華宇元典等
+- **金融資料**：Wind 萬得金融數據服務、恆生聚源金融數據、標普全球市場財智、全球金融資料庫、IMF（國際貨幣基金組織）資料庫、同花順等
+- **工商 / 法律**：天眼查、華宇元典等
 
 ## 精選外部應用外掛
 
-外掛中心提供可選用、由官方精選的外掛，包括：
+外掛中心可選裝官方精選外掛，包括：
 
-- **辦公協作**：Baidu Netdisk、DingTalk、Feishu、WPS
-- **設計**：Canva
-- **筆記**：Notion
-- **網頁開發**：Cloudflare
-- **其他**：Kimi Computer Use（由 AI 控制桌面，執行系統層級操作）、GitHub、Neon（一個雲端 PostgreSQL 資料庫平台）、Supabase（一個開源後端與資料庫平台）等
+- **辦公協作類**：百度網盤、釘釘、飛書、WPS
+- **設計類**：Canva
+- **筆記類**：Notion
+- **網站開發類**：Cloudflare
+- **其他**：Kimi Computer Use（AI 控制桌面進行系統層級操作）、GitHub、Neon（雲端 PostgreSQL 資料庫平台）、Supabase（開源後端與資料庫平台）等
 
-安裝外掛後，Kimi Work 可以直接操作這些常見辦公工具，用一句自然語言指令取代重複操作。
+安裝外掛後，Kimi Work 可直接操作這些常用辦公軟體，以一句話指令取代重複操作。
 
-## 如何啟用
+## 啟用方式
 
-1. 開啟最新版 Kimi 桌面用戶端，在左側邊欄切換至「Work」模式，並點擊「外掛」進入外掛中心；
+1. 開啟最新版 Kimi 電腦用戶端，在左側邊欄切換至「Work」模式，點擊「外掛」進入外掛中心；
 2. 在「已安裝」與「精選外掛」中找到並安裝所需外掛；
-3. 在輸入框輸入斜線「/」，選擇要呼叫的外掛。
+3. 在對話框輸入斜線「/」，選擇要呼叫的外掛即可使用。

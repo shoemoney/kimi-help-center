@@ -1,7 +1,7 @@
 ---
 title: "자주 묻는 질문"
 slug: "kimi-business-faq"
-order: 2
+order: 3
 extract_headings: true
 preview: false
 ---

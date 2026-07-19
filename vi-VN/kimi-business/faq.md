@@ -1,7 +1,7 @@
 ---
 title: "Câu hỏi thường gặp"
 slug: "kimi-business-faq"
-order: 2
+order: 3
 extract_headings: true
 preview: false
 ---

@@ -1,8 +1,8 @@
 ---
 title: "购买渠道"
 slug: "kimi-business-purchase"
-order: 3
-extract_headings: false
+order: 2
+extract_headings: true
 preview: false
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "Canaux d'achat"
 slug: "kimi-business-purchase"
-order: 3
-extract_headings: false
+order: 2
+extract_headings: true
 preview: false
 ---
 

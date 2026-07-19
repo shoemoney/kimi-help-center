@@ -2,7 +2,7 @@
 title: "Projets"
 slug: "project"
 order: 4
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Un projet est un espace de travail persistant qui réunit les fichiers de référence, les discussions et les instructions liés à une tâche de longue durée, afin que vous n’ayez pas à réexpliquer le contexte à chaque nouvelle conversation."
 ---

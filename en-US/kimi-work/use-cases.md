@@ -2,7 +2,7 @@
 title: "Use Cases"
 slug: "use-cases"
 order: 4
-extract_headings: true
+extract_headings: false
 preview: false
 ---
 

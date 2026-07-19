@@ -2,7 +2,7 @@
 title: "專案（Project）"
 slug: "project"
 order: 4
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "專案是一個可持續使用的工作區，能把長期任務所需的參考檔案、對話與專案指令集中管理，讓你不必在每次新對話時重新說明背景。"
 ---

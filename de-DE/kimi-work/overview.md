@@ -2,7 +2,7 @@
 title: "Kimi Work im Überblick"
 slug: "overview"
 order: 1
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Kimi Work ist ein lokaler Allzweck-Agent für Wissensarbeiter, der im „Work“-Modus des Kimi-Desktop-Clients (Mac / Windows) verwendet wird."
 ---

@@ -2,7 +2,7 @@
 title: "Attività pianificate"
 slug: "scheduled-tasks"
 order: 5
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Le attività pianificate permettono a Kimi di eseguire automaticamente un'attività ricorrente all'orario che imposti: ideali per briefing quotidiani, monitoraggi settimanali e pulizie periodiche. Disponibili in Kimi e nell'app desktop Kimi Work."
 ---

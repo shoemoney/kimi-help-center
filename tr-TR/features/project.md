@@ -2,7 +2,7 @@
 title: "Projeler"
 slug: "project"
 order: 4
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Proje, uzun soluklu bir görevin referans dosyalarını, sohbetlerini ve proje talimatlarını bir arada tutan kalıcı bir çalışma alanıdır; böylece her yeni sohbette arka planı yeniden anlatmanız gerekmez."
 ---

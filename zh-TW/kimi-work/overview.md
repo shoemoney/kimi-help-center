@@ -2,7 +2,7 @@
 title: "Kimi Work 產品介紹"
 slug: "overview"
 order: 1
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Kimi Work 是一款面向知識工作者的通用型本機 Agent，可在 Kimi 電腦用戶端（Mac / Windows）的「Work」模式中使用。"
 ---

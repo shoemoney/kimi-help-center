@@ -2,7 +2,7 @@
 title: "排程任務"
 slug: "scheduled-tasks"
 order: 5
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "排程任務可讓 Kimi 在你設定的時間自動執行固定任務，適合每日簡報、每週監測與定期清理等情境。可在 Kimi 與 Kimi Work 桌面應用程式中使用。"
 ---

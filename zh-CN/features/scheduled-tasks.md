@@ -2,7 +2,7 @@
 title: "定时任务（Scheduled Tasks）"
 slug: "scheduled-tasks"
 order: 5
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "定时任务让 Kimi 到设定的时间自动执行一段固定的任务，适合每日简报、每周监控、定期整理等重复性工作。可在 Kimi 与 Kimi Work 桌面端使用。"
 ---

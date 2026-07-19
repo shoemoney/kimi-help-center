@@ -2,7 +2,7 @@
 title: "Zamanlanmış Görevler"
 slug: "scheduled-tasks"
 order: 5
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Zamanlanmış görevler, belirlediğiniz zamanda Kimi'nin sabit bir görevi otomatik olarak çalıştırmasını sağlar — günlük özetler, haftalık izleme ve düzenli temizlikler için idealdir. Kimi ve Kimi Work masaüstü uygulamasında kullanılabilir."
 ---

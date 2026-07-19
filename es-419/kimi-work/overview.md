@@ -2,7 +2,7 @@
 title: "Descripción general de Kimi Work"
 slug: "overview"
 order: 1
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Kimi Work es un agente local de propósito general para trabajadores del conocimiento, disponible en el modo \"Trabajo\" del cliente de escritorio de Kimi (Mac / Windows)."
 ---

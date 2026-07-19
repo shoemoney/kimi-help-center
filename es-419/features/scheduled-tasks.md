@@ -2,7 +2,7 @@
 title: "Tareas programadas"
 slug: "scheduled-tasks"
 order: 5
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Las tareas programadas permiten que Kimi ejecute automáticamente una tarea fija en el horario que definas: ideales para informes diarios, seguimiento semanal y limpiezas periódicas. Disponibles en Kimi y en la app de escritorio Kimi Work."
 ---

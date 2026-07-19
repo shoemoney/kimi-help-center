@@ -2,7 +2,7 @@
 title: "Présentation de Kimi Work"
 slug: "overview"
 order: 1
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Kimi Work est un Agent local polyvalent pour les professionnels du savoir, utilisé dans le mode « Travail » du client de bureau Kimi (Mac / Windows)."
 ---

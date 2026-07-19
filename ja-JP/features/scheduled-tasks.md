@@ -2,7 +2,7 @@
 title: "スケジュールタスク"
 slug: "scheduled-tasks"
 order: 5
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "スケジュールタスクを使うと、指定した時刻に Kimi が決まったタスクを自動実行できます。毎日のブリーフィング、週次のモニタリング、定期的なクリーンアップに最適です。Kimi と Kimi Work デスクトップアプリで利用できます。"
 ---

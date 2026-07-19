@@ -2,7 +2,7 @@
 title: "Geplante Aufgaben"
 slug: "scheduled-tasks"
 order: 5
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Mit geplanten Aufgaben kann Kimi eine festgelegte Aufgabe automatisch zu einem von dir bestimmten Zeitpunkt ausführen — ideal für tägliche Briefings, wöchentliche Beobachtungen und regelmäßige Aufräumarbeiten. Verfügbar in Kimi und in der Kimi Work-Desktop-App."
 ---

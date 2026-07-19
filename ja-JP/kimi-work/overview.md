@@ -2,7 +2,7 @@
 title: "Kimi Work の概要"
 slug: "overview"
 order: 1
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Kimi Work は、ナレッジワーカーのための汎用ローカルエージェントです。Kimi デスクトップクライアント（Mac / Windows）の「Work」モードで利用できます。"
 ---

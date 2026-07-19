@@ -2,7 +2,7 @@
 title: "Dự án"
 slug: "project"
 order: 4
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Dự án là một không gian làm việc lâu dài, nơi gom các tệp tham khảo, cuộc trò chuyện và hướng dẫn dự án của một tác vụ kéo dài, nhờ đó bạn không phải giải thích lại bối cảnh trong mỗi cuộc trò chuyện mới."
 ---

@@ -2,7 +2,7 @@
 title: "Kimi Work Genel Bakış"
 slug: "overview"
 order: 1
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Kimi Work, bilgi çalışanları için geliştirilmiş, Kimi masaüstü istemcisinin (Mac / Windows) \"İş\" modunda kullanılan genel amaçlı yerel bir Agent’tır."
 ---

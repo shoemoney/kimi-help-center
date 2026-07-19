@@ -2,7 +2,7 @@
 title: "Kimi Work Overview"
 slug: "overview"
 order: 1
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Kimi Work is a general-purpose local Agent for knowledge workers, used in the \"Work\" mode of the Kimi desktop client (Mac / Windows)."
 ---

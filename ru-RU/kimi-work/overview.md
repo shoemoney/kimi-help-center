@@ -2,7 +2,7 @@
 title: "Обзор Kimi Work"
 slug: "overview"
 order: 1
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Kimi Work — универсальный локальный агент для специалистов интеллектуального труда, доступный в режиме «Работа» настольного клиента Kimi (Mac / Windows)."
 ---

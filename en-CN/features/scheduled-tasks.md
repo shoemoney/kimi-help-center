@@ -2,7 +2,7 @@
 title: "Scheduled Tasks"
 slug: "scheduled-tasks"
 order: 5
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Scheduled tasks let Kimi automatically run a fixed task at a time you set — ideal for daily briefings, weekly monitoring, and regular clean-ups. Available in Kimi and the Kimi Work desktop app."
 ---

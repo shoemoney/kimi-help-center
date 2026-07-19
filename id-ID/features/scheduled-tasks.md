@@ -2,7 +2,7 @@
 title: "Tugas Terjadwal"
 slug: "scheduled-tasks"
 order: 5
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Tugas terjadwal memungkinkan Kimi menjalankan tugas tetap secara otomatis pada waktu yang Anda tentukan — ideal untuk ringkasan harian, pemantauan mingguan, dan pembersihan rutin. Tersedia di Kimi dan aplikasi desktop Kimi Work."
 ---

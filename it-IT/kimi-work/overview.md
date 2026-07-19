@@ -2,7 +2,7 @@
 title: "Panoramica di Kimi Work"
 slug: "overview"
 order: 1
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Kimi Work è un Agent locale per uso generale pensato per i professionisti della conoscenza, utilizzato nella modalità \"Work\" del client desktop Kimi (Mac / Windows)."
 ---

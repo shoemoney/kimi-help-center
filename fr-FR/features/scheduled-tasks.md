@@ -2,7 +2,7 @@
 title: "Tâches planifiées"
 slug: "scheduled-tasks"
 order: 5
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Les tâches planifiées permettent à Kimi d’exécuter automatiquement une tâche définie à l’heure que vous choisissez — idéal pour les briefings quotidiens, la veille hebdomadaire et les nettoyages réguliers. Disponible dans Kimi et l’application de bureau Kimi Work."
 ---

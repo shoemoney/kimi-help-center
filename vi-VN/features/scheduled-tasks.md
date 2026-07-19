@@ -2,7 +2,7 @@
 title: "Tác vụ đã lên lịch"
 slug: "scheduled-tasks"
 order: 5
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Tác vụ đã lên lịch cho phép Kimi tự động chạy một tác vụ cố định vào thời điểm bạn đặt — rất phù hợp cho bản tin hằng ngày, theo dõi hằng tuần và dọn dẹp định kỳ. Có trong Kimi và ứng dụng máy tính Kimi Work."
 ---

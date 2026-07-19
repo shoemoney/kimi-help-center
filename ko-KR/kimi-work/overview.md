@@ -2,7 +2,7 @@
 title: "Kimi Work 개요"
 slug: "overview"
 order: 1
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Kimi Work는 Kimi 데스크톱 클라이언트(Mac / Windows)의 \"Work\" 모드에서 사용할 수 있는 지식 근로자용 범용 로컬 Agent입니다."
 ---

@@ -2,7 +2,7 @@
 title: "Mode Objectif"
 slug: "goal-mode"
 order: 2
-extract_headings: true
+extract_headings: false
 preview: false
 ---
 

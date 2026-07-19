@@ -2,7 +2,7 @@
 title: "Progetti"
 slug: "project"
 order: 4
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Un progetto è uno spazio di lavoro persistente che riunisce file di riferimento, chat e istruzioni di progetto per un'attività di lunga durata, così non devi rispiegare il contesto in ogni nuova chat."
 ---

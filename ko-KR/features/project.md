@@ -2,7 +2,7 @@
 title: "프로젝트"
 slug: "project"
 order: 4
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "프로젝트는 장기간 이어지는 작업의 참고 파일, 대화, 프로젝트 지침을 한곳에 보관하는 지속형 작업 공간입니다. 새 대화를 시작할 때마다 배경을 다시 설명하지 않아도 됩니다."
 ---

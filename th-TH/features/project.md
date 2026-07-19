@@ -2,7 +2,7 @@
 title: "โปรเจกต์"
 slug: "project"
 order: 4
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "โปรเจกต์คือพื้นที่ทำงานแบบถาวรที่เก็บไฟล์อ้างอิง แชท และคำสั่งของโปรเจกต์สำหรับงานระยะยาวไว้ด้วยกัน คุณจึงไม่ต้องอธิบายบริบทเดิมซ้ำทุกครั้งที่เริ่มแชทใหม่"
 ---

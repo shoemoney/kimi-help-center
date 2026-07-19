@@ -2,7 +2,7 @@
 title: "Central de plugins"
 slug: "plugin-center"
 order: 3
-extract_headings: true
+extract_headings: false
 preview: false
 ---
 

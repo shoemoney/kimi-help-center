@@ -2,7 +2,7 @@
 title: "Tarefas agendadas"
 slug: "scheduled-tasks"
 order: 5
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "As tarefas agendadas permitem que Kimi execute automaticamente uma tarefa fixa no horário definido por você — ideal para briefings diários, monitoramento semanal e limpezas regulares. Disponível em Kimi e no aplicativo desktop Kimi Work."
 ---

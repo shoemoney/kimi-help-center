@@ -2,7 +2,7 @@
 title: "예약 작업"
 slug: "scheduled-tasks"
 order: 5
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "예약 작업을 사용하면 사용자가 설정한 시간에 Kimi가 정해진 작업을 자동으로 실행합니다. 일일 브리핑, 주간 모니터링, 정기 정리에 적합하며, Kimi와 Kimi Work 데스크톱 앱에서 사용할 수 있습니다."
 ---

@@ -2,7 +2,7 @@
 title: "Ikhtisar Kimi Work"
 slug: "overview"
 order: 1
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Kimi Work adalah Agent lokal serbaguna untuk pekerja berbasis pengetahuan, digunakan dalam mode \"Work\" di klien desktop Kimi (Mac / Windows)."
 ---

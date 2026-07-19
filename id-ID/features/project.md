@@ -2,7 +2,7 @@
 title: "Proyek"
 slug: "project"
 order: 4
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Proyek adalah ruang kerja persisten yang menyatukan file referensi, chat, dan instruksi proyek untuk tugas jangka panjang, sehingga Anda tidak perlu menjelaskan ulang konteksnya di setiap chat baru."
 ---

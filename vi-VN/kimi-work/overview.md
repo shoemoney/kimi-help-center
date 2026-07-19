@@ -2,7 +2,7 @@
 title: "Tổng quan về Kimi Work"
 slug: "overview"
 order: 1
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Kimi Work là một Agent cục bộ đa năng dành cho người làm tri thức, dùng trong chế độ \"Work\" của client Kimi dành cho máy tính để bàn (Mac / Windows)."
 ---

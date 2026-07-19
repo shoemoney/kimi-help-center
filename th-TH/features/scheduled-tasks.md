@@ -2,7 +2,7 @@
 title: "งานที่ตั้งเวลาไว้"
 slug: "scheduled-tasks"
 order: 5
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "งานที่ตั้งเวลาไว้ช่วยให้ Kimi ทำงานที่กำหนดไว้โดยอัตโนมัติตามเวลาที่คุณตั้ง เหมาะสำหรับสรุปประจำวัน ติดตามรายสัปดาห์ และจัดเก็บข้อมูลเป็นประจำ ใช้งานได้ใน Kimi และแอปเดสก์ท็อป Kimi Work"
 ---

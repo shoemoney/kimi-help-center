@@ -2,7 +2,7 @@
 title: "プロジェクト"
 slug: "project"
 order: 4
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "プロジェクトは、長期的なタスクの参照ファイル、チャット、プロジェクト指示をひとまとめに保持する継続的なワークスペースです。新しいチャットを始めるたびに背景を説明し直す必要がありません。"
 ---

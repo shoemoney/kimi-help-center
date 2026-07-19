@@ -2,7 +2,7 @@
 title: "Projects"
 slug: "project"
 order: 4
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "A Project is a persistent workspace that keeps a long-running task's reference files, chats, and project instructions together, so you don't have to re-explain the background in every new chat."
 ---

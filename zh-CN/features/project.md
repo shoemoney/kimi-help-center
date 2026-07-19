@@ -2,7 +2,7 @@
 title: "项目（Project）"
 slug: "project"
 order: 4
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "项目（Project）是一个持久化的工作空间，把长线任务的参考文件、会话与项目指令归总在一起，避免每次新会话都要重新交代背景。"
 ---

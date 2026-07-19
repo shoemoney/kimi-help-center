@@ -2,7 +2,7 @@
 title: "Projekte"
 slug: "project"
 order: 4
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Ein Projekt ist ein dauerhafter Arbeitsbereich, in dem Referenzdateien, Chats und Projektanweisungen für eine länger laufende Aufgabe zusammenbleiben, sodass du den Hintergrund nicht in jedem neuen Chat erneut erklären musst."
 ---

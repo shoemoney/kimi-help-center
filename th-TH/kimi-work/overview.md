@@ -2,7 +2,7 @@
 title: "ภาพรวม Kimi Work"
 slug: "overview"
 order: 1
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Kimi Work คือ Agent ภายในเครื่องแบบอเนกประสงค์สำหรับคนทำงานสายความรู้ ใช้ได้ในโหมด \"Work\" ของไคลเอนต์เดสก์ท็อป Kimi (Mac / Windows)"
 ---

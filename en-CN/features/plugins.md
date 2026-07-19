@@ -48,7 +48,7 @@ The plugin marketplace is organized into the categories below. The plugins you a
 - **Productivity**: Notion, Baidu Netdisk
 - **Development**: GitHub, Supabase, Neon, Cloudflare
 - **Creative**: Inspiration Pool, Image Generation, Video Generation, Audio Generation, Canva
-- **General**: Dynamic Report
+- **General**: Vivify
 
 ## Credits
 

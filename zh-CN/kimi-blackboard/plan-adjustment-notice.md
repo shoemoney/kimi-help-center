@@ -1,5 +1,5 @@
 ---
-title: "关于套餐调整的说明"
+title: "关于会员订阅套餐调整的说明 - 2026年7月20日"
 slug: "plan-adjustment-notice"
 order: 1
 extract_headings: true
@@ -8,11 +8,11 @@ preview_content: "关于近期套餐调整的统一说明：所有已付费用�
 ---
 
 <SeoMeta
-  title="关于套餐调整的说明 - Kimi 帮助中心"
+  title="关于会员订阅套餐调整的说明 - Kimi 帮助中心"
   description="关于 Kimi 近期套餐调整的统一说明：所有已付费用户权益完全不受影响；老套餐未移除、可继续使用与续费；老用户可升级档位；新套餐暂未开放购买。"
 />
 
-# 关于套餐调整的说明
+# 关于会员订阅套餐调整的说明 - 2026年7月20日
 
 尊敬的各位 Kimi 用户：
 

@@ -22,19 +22,17 @@ This may be caused by:
 
 ## Conversation exceeds 200,000 words?
 
-K2.6's single-conversation context limit is approximately 128K tokens (~200,000 words). Once this limit is reached, the model can no longer accept new input.
+K2.6's single-conversation context is approximately 128K tokens (~200,000 words). Once this limit is reached, the model can no longer read in new content. What to do depends on why you hit the limit:
 
-<Callout type="tip">
-**Recommended actions**:
-
-1. **Start a new conversation**: Copy the key conclusions or outline from the original conversation into a new one to continue.
-2. **Generate a handoff document**: Ask Kimi to "summarize and generate a handoff document," then paste it into a new conversation as the initial context — this saves tokens while preserving information.
-
-**Note**: Deleting messages within the same conversation does **not** free up the context window. Start a new conversation instead.
-</Callout>
+- **A single file you sent is too large and hits the limit on the first turn**: split the file into smaller parts and send them in batches.
+- **A multi-turn conversation gradually builds up to the limit**: first summarize the key conclusions so far (you can also ask Kimi to "summarize and generate a handoff document"), then paste that into a new conversation as the initial context to continue.
 
 <Callout type="info">
-Thinking models consume more tokens for reasoning, resulting in a smaller effective context limit. When working with long documents, prefer K2 over K2-Thinking.
+**Tips**:
+- More fundamentally, using [Memory](/features/memory-space) and [Projects](/features/project) helps you avoid hitting the limit — Memory automatically retains key information, and a Project keeps your reference files, instructions, and memory together so every new conversation carries the context.
+- Deleting earlier messages in the same conversation does not free up the context window — just start a new conversation instead.
+- Thinking consumes tokens; to save credits, set **Thinking strength** to **Standard**.
+- For very long documents, K3 offers a 1M-token context (available with the top-tier membership); when composing, select **Conversation length: Extra long**.
 </Callout>
 
 ## Seeing "let's talk about something else" ?

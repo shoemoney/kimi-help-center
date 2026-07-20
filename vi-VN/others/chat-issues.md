@@ -1,5 +1,5 @@
 ---
-title: "Các vấn đề thường gặp khi trò chuyện với Kimi"
+title: "Các sự cố thường gặp khi chat với Kimi"
 slug: "chat-issues"
 order: 4
 extract_headings: true
@@ -7,57 +7,55 @@ preview: false
 ---
 
 <SeoMeta
-  title="Các vấn đề thường gặp khi trò chuyện với Kimi - Trung tâm trợ giúp Kimi"
-  description="Gặp sự cố khi trò chuyện với Kimi? Bài viết này tổng hợp các bước xử lý những vấn đề thường gặp trong hội thoại, gồm phản hồi bị gián đoạn, nội dung bất thường và lỗi tải, giúp bạn khắc phục nhanh chóng."
+  title="Các sự cố thường gặp khi chat với Kimi - Kimi Help Center"
+  description="Bạn gặp trục trặc khi chat với Kimi? Bài viết này tổng hợp cách xử lý các sự cố chat thường gặp như câu trả lời bị ngắt quãng, nội dung bất thường và lỗi tải, giúp bạn khắc phục nhanh chóng."
 />
 
-# Các vấn đề thường gặp khi trò chuyện với Kimi
+# Các sự cố thường gặp khi chat với Kimi
 
 ## Không gửi được tin nhắn / xuất hiện vòng tròn đỏ?
 
-Nguyên nhân có thể đến từ:
+Nguyên nhân có thể là:
 
-- **Đã chạm rate limit**: Kimi giới hạn số lượng cuộc trò chuyện trong một khoảng thời gian nhất định. Gửi tin nhắn quá thường xuyên có thể khiến bạn tạm thời không thể tiếp tục tương tác. Hãy chờ khoảng 2–3 giờ rồi thử lại, đồng thời điều chỉnh tần suất trò chuyện hợp lý.
-- **Mạng kém**: Tín hiệu yếu hoặc kết nối không ổn định có thể khiến tin nhắn không gửi được. Hãy chuyển sang mạng khác và thử lại.
+- **Đã kích hoạt rate limit**: Kimi có giới hạn số lượt hội thoại trong một số khoảng thời gian nhất định. Nếu gửi tin nhắn quá dồn dập, bạn có thể tạm thời không tiếp tục tương tác được. Hãy chờ 2–3 giờ rồi thử lại, đồng thời điều chỉnh tần suất trò chuyện.
+- **Kết nối mạng kém**: Tín hiệu yếu hoặc kết nối không ổn định có thể khiến tin nhắn không gửi được. Hãy đổi sang mạng khác rồi thử lại.
 
 ## Cuộc trò chuyện vượt quá 200.000 từ?
 
-Giới hạn ngữ cảnh của K2.6 trong một cuộc trò chuyện vào khoảng 128K token (~200.000 từ). Khi đã chạm ngưỡng này, mô hình sẽ không thể tiếp nhận thêm nội dung mới.
+Ngữ cảnh cho một cuộc trò chuyện của K2.6 vào khoảng 128K token (~200.000 từ). Khi chạm ngưỡng này, mô hình sẽ không thể đọc thêm nội dung mới. Cách xử lý tùy thuộc vào lý do bạn đạt đến giới hạn:
 
-<Callout type="tip">
-**Cách xử lý gợi ý**:
-
-1. **Bắt đầu cuộc trò chuyện mới**: Sao chép các kết luận hoặc dàn ý quan trọng từ cuộc trò chuyện cũ sang cuộc mới để tiếp tục.
-2. **Tạo tài liệu bàn giao**: Yêu cầu Kimi "tóm tắt và tạo tài liệu bàn giao", sau đó dán vào cuộc trò chuyện mới làm ngữ cảnh khởi đầu — cách này vừa tiết kiệm token vừa giữ lại được thông tin.
-
-**Lưu ý**: Việc xóa tin nhắn trong cùng một cuộc trò chuyện **không** giải phóng cửa sổ ngữ cảnh. Thay vào đó, hãy bắt đầu một cuộc trò chuyện mới.
-</Callout>
+- **Một tệp bạn gửi quá lớn và chạm giới hạn ngay ở lượt đầu tiên**: hãy chia tệp thành các phần nhỏ hơn rồi gửi theo từng đợt.
+- **Cuộc trò chuyện nhiều lượt tích lũy dần đến giới hạn**: trước hết hãy tóm tắt các kết luận quan trọng đến thời điểm hiện tại (bạn cũng có thể yêu cầu Kimi "tóm tắt và tạo tài liệu bàn giao"), sau đó dán phần đó vào một cuộc trò chuyện mới làm ngữ cảnh ban đầu để tiếp tục.
 
 <Callout type="info">
-Các mô hình tư duy tiêu tốn nhiều token hơn cho quá trình suy luận, dẫn đến giới hạn ngữ cảnh hiệu dụng nhỏ hơn. Khi làm việc với tài liệu dài, hãy ưu tiên dùng K2 thay vì K2-Thinking.
+**Mẹo**:
+- Về lâu dài, dùng [Bộ nhớ](/features/memory-space) và [Dự án](/features/project) sẽ giúp bạn tránh chạm giới hạn — Bộ nhớ tự động lưu lại thông tin quan trọng, còn Dự án gom các tệp tham chiếu, chỉ dẫn và bộ nhớ của bạn vào cùng một nơi, để mỗi cuộc trò chuyện mới đều có sẵn ngữ cảnh.
+- Xóa các tin nhắn trước đó trong cùng một cuộc trò chuyện không giải phóng cửa sổ ngữ cảnh — thay vào đó, hãy bắt đầu một cuộc trò chuyện mới.
+- Thinking tiêu tốn token; để tiết kiệm credit, hãy đặt **Độ mạnh Thinking** thành **Tiêu chuẩn**.
+- Với tài liệu rất dài, K3 cung cấp ngữ cảnh 1M token (khả dụng với gói hội viên cao nhất); khi soạn, hãy chọn **Độ dài cuộc trò chuyện: Rất dài**.
 </Callout>
 
-## Gặp thông báo "hãy nói về chuyện khác nhé"?
+## Thấy thông báo "mình nói chuyện khác nhé"?
 
-Thông báo này cho biết nội dung hiện tại đã chạm chính sách an toàn nên chủ đề không thể tiếp tục. Bạn chỉ cần nhập một chủ đề mới để tiếp tục trò chuyện — không cần phải chờ đợi.
+Thông báo này cho biết nội dung hiện tại đã kích hoạt chính sách an toàn nên chủ đề không thể tiếp tục. Bạn chỉ cần nhập một chủ đề mới để tiếp tục trò chuyện — không cần chờ.
 
 <Callout type="info">
-Nếu bạn cho rằng nội dung không hề vi phạm, hãy nhấn "👎" để gửi phản hồi và giúp chúng tôi hoàn thiện chính sách an toàn.
+Nếu bạn cho rằng nội dung không vi phạm, hãy nhấp "👎" để gửi phản hồi và giúp chúng tôi cải thiện chính sách an toàn.
 </Callout>
 
-## Gặp thông báo "Kimi hơi mệt rồi"?
+## Thấy thông báo "Kimi hơi mệt rồi"?
 
-Điều này có nghĩa là có quá nhiều người dùng đang trực tuyến và tài nguyên tính toán đang chịu tải nặng — đây là rate limit trong giờ cao điểm. Hãy chờ 1–2 phút rồi thử lại.
+Điều này nghĩa là có quá nhiều người dùng đang online và tài nguyên tính toán đang chịu tải lớn — đây là rate limit trong giờ cao điểm. Hãy chờ 1–2 phút rồi thử lại.
 
 <Callout type="tip">
-Để giảm thời gian chờ, bạn có thể cân nhắc đăng ký gói thành viên để được ưu tiên truy cập tài nguyên tính toán riêng.
+Để giảm thời gian chờ, bạn có thể đăng ký gói hội viên để được ưu tiên truy cập tài nguyên tính toán riêng.
 </Callout>
 
 ## Không tải được PPT/Word/Excel?
 
-Bản thân cửa sổ trò chuyện của Kimi không tạo ra các tệp Office có thể tải xuống:
+Cửa sổ chat của Kimi không trực tiếp tạo tệp Office để tải xuống:
 
-| Loại tệp | Nơi tạo |
+| Loại tệp | Tạo ở đâu |
 |-----------|-------------------|
-| **Slide** | Truy cập [Kimi Slides](https://www.kimi.com/slides) — hỗ trợ tạo và tải xuống trực tuyến |
+| **Slides** | Truy cập [Kimi Slides](https://www.kimi.com/slides) — hỗ trợ tạo online và tải xuống |
 | **Word/Excel** | Dùng chế độ **Agent** |

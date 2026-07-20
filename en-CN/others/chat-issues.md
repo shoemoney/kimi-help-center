@@ -23,15 +23,17 @@ This may be caused by one of the following:
 
 ## What if a chat exceeds 200,000 Chinese characters?
 
-K2.6's single-turn context limit is about 128K token (roughly 50,000–60,000 Chinese characters). Once the limit is reached, the model can no longer read in new content. We recommend:
+K2.6's single-turn context is about 128K tokens (roughly 50,000–60,000 Chinese characters). Once this limit is reached, the model can no longer read in new content. What to do depends on why you hit the limit:
 
-1. **Start a new chat**: Copy the key conclusions or outline from the original chat into a new chat to continue.
-2. **Generate a handoff document**: Ask Kimi to “summarize and generate a handoff document,” then paste it into a new chat as the initial context. This reduces the word count while preserving the key information.
+- **A single file you sent is too large and hits the limit on the first turn**: split the file into smaller parts and send them in batches.
+- **A multi-turn chat gradually builds up to the limit**: first summarize the key conclusions so far (you can also ask Kimi to "summarize and generate a handoff document"), then paste that into a new chat as the initial context to continue.
 
 <Callout type="info">
-**Tip**:
-- Deleting earlier messages in the same chat will not free up the context window. Please start a new chat instead.
-- Because Thinking models use more token for reasoning, their context limit is smaller. When working with long documents, choose K2 instead of K2-Thinking.
+**Tips**:
+- More fundamentally, using [Memory](/features/memory-space) and [Projects](/features/project) helps you avoid hitting the limit — Memory automatically retains key information, and a Project keeps your reference files, instructions, and memory together so every new chat carries the context.
+- Deleting earlier messages in the same chat does not free up the context window — just start a new chat instead.
+- Thinking consumes tokens; to save credits, set **Thinking strength** to **Standard**.
+- For very long documents, K3 offers a 1M-token context (available with the top-tier membership); when composing, select **Conversation length: Extra long**.
 </Callout>
 
 ## Seeing the “Let’s switch topics” prompt?

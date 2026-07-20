@@ -1,5 +1,5 @@
 ---
-title: "Problemi comuni della chat di Kimi"
+title: "Problemi comuni nelle chat con Kimi"
 slug: "chat-issues"
 order: 4
 extract_headings: true
@@ -7,57 +7,55 @@ preview: false
 ---
 
 <SeoMeta
-  title="Problemi comuni della chat di Kimi - Centro assistenza Kimi"
-  description="Problemi con le chat di Kimi? Questo articolo raccoglie i passaggi per risolvere i problemi più comuni, tra cui risposte interrotte, contenuti anomali ed errori di caricamento, così da risolverli rapidamente."
+  title="Problemi comuni nelle chat con Kimi - Centro assistenza Kimi"
+  description="Hai problemi con le chat di Kimi? Questo articolo riepiloga le procedure di risoluzione per i problemi più comuni, tra cui risposte interrotte, contenuti anomali ed errori di caricamento, per aiutarti a risolverli rapidamente."
 />
 
-# Problemi comuni della chat di Kimi
+# Problemi comuni nelle chat con Kimi
 
 ## Non riesci a inviare messaggi / compare un cerchio rosso?
 
-Le cause possibili sono:
+Le cause potrebbero essere:
 
-- **rate limit raggiunto**: Kimi prevede un limite di conversazioni entro determinati intervalli di tempo. Inviare messaggi troppo di frequente può bloccare le interazioni successive. Attendi 2-3 ore prima di riprovare e gestisci con attenzione la frequenza delle conversazioni.
-- **Connessione di rete scadente**: un segnale debole o una connessione instabile possono impedire l'invio dei messaggi. Passa a un'altra rete e riprova.
+- **Rate limit attivato**: Kimi prevede un limite alle conversazioni in determinate finestre temporali. Se invii messaggi troppo spesso, potresti non riuscire a continuare l’interazione. Attendi 2–3 ore prima di riprovare e modera la frequenza delle conversazioni.
+- **Condizioni di rete scarse**: un segnale debole o una connessione instabile possono impedire l’invio dei messaggi. Passa a un’altra rete e riprova.
 
 ## La conversazione supera le 200.000 parole?
 
-Il limite di contesto di K2.6 per singola conversazione è di circa 128K token (~200.000 parole). Una volta raggiunto questo limite, il modello non può più accettare nuovo input.
+Il contesto di una singola conversazione in K2.6 è di circa 128K token (~200.000 parole). Una volta raggiunto questo limite, il modello non riesce più a leggere nuovi contenuti. Cosa fare dipende dal motivo per cui hai raggiunto il limite:
 
-<Callout type="tip">
-**Azioni consigliate**:
-
-1. **Avvia una nuova conversazione**: copia le conclusioni principali o lo schema della conversazione originale in una nuova per proseguire.
-2. **Genera un documento di passaggio**: chiedi a Kimi di "riassumere e generare un documento di passaggio", poi incollalo in una nuova conversazione come contesto iniziale: in questo modo risparmi token preservando le informazioni.
-
-**Nota**: eliminare i messaggi all'interno della stessa conversazione **non** libera la finestra di contesto. Avvia invece una nuova conversazione.
-</Callout>
+- **Un singolo file che hai inviato è troppo grande e raggiunge il limite già al primo turno**: suddividi il file in parti più piccole e inviale in più blocchi.
+- **Una conversazione a più turni arriva gradualmente al limite**: per prima cosa riassumi le conclusioni principali raggiunte finora (puoi anche chiedere a Kimi di "riassumere e generare un documento di passaggio"), quindi incollale in una nuova conversazione come contesto iniziale per continuare.
 
 <Callout type="info">
-I modelli di ragionamento consumano più token per ragionare, riducendo il limite di contesto effettivo. Quando lavori con documenti lunghi, preferisci K2 a K2-Thinking.
+**Suggerimenti**:
+- Più in generale, usare [Memoria](/features/memory-space) e [Progetti](/features/project) ti aiuta a evitare di raggiungere il limite: la Memoria conserva automaticamente le informazioni importanti, mentre un Progetto tiene insieme file di riferimento, istruzioni e memoria, così ogni nuova conversazione include già il contesto.
+- Eliminare i messaggi precedenti nella stessa conversazione non libera spazio nella finestra di contesto: è meglio avviare una nuova conversazione.
+- Il ragionamento consuma token; per risparmiare credit, imposta **Intensità di ragionamento** su **Standard**.
+- Per documenti molto lunghi, K3 offre un contesto da 1M token (disponibile con l’abbonamento di fascia più alta); durante la composizione, seleziona **Lunghezza conversazione: extra lunga**.
 </Callout>
 
-## Compare il messaggio "parliamo di qualcos'altro"?
+## Vedi "parliamo di qualcos’altro"?
 
-Questo messaggio indica che il contenuto attuale ha attivato una policy di sicurezza e l'argomento non può proseguire. Basta digitare un nuovo argomento per riprendere la conversazione, senza alcuna attesa.
+Questo messaggio indica che il contenuto corrente ha attivato una policy di sicurezza e che l’argomento non può proseguire. Ti basta digitare un nuovo argomento per riprendere la conversazione: non è necessario attendere.
 
 <Callout type="info">
-Se ritieni che il contenuto non costituisse una violazione, fai clic su "👎" per inviare un feedback e aiutarci a migliorare le nostre policy di sicurezza.
+Se ritieni che il contenuto non violasse le regole, fai clic su "👎" per inviare un feedback e aiutarci a migliorare le nostre policy di sicurezza.
 </Callout>
 
-## Compare il messaggio "Kimi è un po' stanco"?
+## Vedi "Kimi è un po’ stanco"?
 
-Significa che sono online troppi utenti e le risorse di calcolo sono sotto forte carico: un rate limit nelle ore di punta. Attendi 1-2 minuti e riprova.
+Significa che ci sono troppi utenti online e le risorse di calcolo sono sotto forte carico: è un rate limit nelle ore di punta. Attendi 1–2 minuti e riprova.
 
 <Callout type="tip">
-Per ridurre i tempi di attesa, valuta la sottoscrizione di un piano di abbonamento per un accesso prioritario a risorse di calcolo dedicate.
+Per ridurre i tempi di attesa, valuta la sottoscrizione di un piano in abbonamento con accesso prioritario a risorse di calcolo dedicate.
 </Callout>
 
 ## Non riesci a scaricare PPT/Word/Excel?
 
 La finestra di chat di Kimi non genera direttamente file Office scaricabili:
 
-| Tipo di file | Dove generarli |
+| Tipo di file | Dove generarlo |
 |-----------|-------------------|
-| **Presentazioni** | Vai su [Kimi Slides](https://www.kimi.com/slides): supporta la generazione e il download online |
+| **Slides** | Vai a [Kimi Slides](https://www.kimi.com/slides) — supporta la generazione online e il download |
 | **Word/Excel** | Usa la modalità **Agent** |

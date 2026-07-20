@@ -7,57 +7,55 @@ preview: false
 ---
 
 <SeoMeta
-  title="Häufige Probleme im Kimi-Chat - Kimi Hilfecenter"
-  description="Probleme mit Kimi-Chats? Dieser Artikel fasst Lösungsschritte für häufige Chat-Probleme zusammen, darunter abgebrochene Antworten, fehlerhafte Inhalte und Ladefehler, damit Sie sie schnell beheben können."
+  title="Häufige Probleme im Kimi-Chat - Kimi Help Center"
+  description="Probleme mit Kimi-Chats? Dieser Artikel fasst Schritte zur Fehlerbehebung bei häufigen Chat-Problemen zusammen, darunter abgebrochene Antworten, ungewöhnliche Inhalte und Ladefehler, damit Sie sie schnell beheben können."
 />
 
 # Häufige Probleme im Kimi-Chat
 
-## Nachrichten lassen sich nicht senden / ein roter Kreis erscheint?
+## Nachrichten lassen sich nicht senden / roter Kreis erscheint?
 
-Mögliche Ursachen:
+Das kann folgende Ursachen haben:
 
-- **Rate limit ausgelöst**: Kimi hat eine Begrenzung der Konversationen innerhalb bestimmter Zeitfenster. Wenn Sie zu häufig Nachrichten senden, kann eine weitere Interaktion blockiert werden. Warten Sie 2–3 Stunden, bevor Sie es erneut versuchen, und achten Sie auf Ihre Sendehäufigkeit.
-- **Schlechte Netzwerkbedingungen**: Ein schwaches Signal oder eine instabile Verbindung kann das Senden von Nachrichten verhindern. Wechseln Sie zu einem anderen Netzwerk und versuchen Sie es erneut.
+- **Rate limit ausgelöst**: Kimi begrenzt die Anzahl der Unterhaltungen innerhalb bestimmter Zeitfenster. Wenn Sie zu häufig Nachrichten senden, kann vorübergehend keine weitere Interaktion möglich sein. Warten Sie 2–3 Stunden, bevor Sie es erneut versuchen, und achten Sie auf eine angemessene Nachrichtenfrequenz.
+- **Schlechte Netzwerkverbindung**: Ein schwaches Signal oder eine instabile Verbindung kann verhindern, dass Nachrichten gesendet werden. Wechseln Sie in ein anderes Netzwerk und versuchen Sie es erneut.
 
-## Konversation überschreitet 200.000 Wörter?
+## Unterhaltung überschreitet 200.000 Wörter?
 
-Das Kontextlimit von K2.6 in einer einzelnen Konversation liegt bei etwa 128K token (~200.000 Wörter). Sobald dieses Limit erreicht ist, kann das Modell keine neuen Eingaben mehr annehmen.
+Der Kontext einer einzelnen Unterhaltung in K2.6 umfasst etwa 128K Token (~200.000 Wörter). Sobald diese Grenze erreicht ist, kann das Modell keine neuen Inhalte mehr erfassen. Was Sie tun können, hängt davon ab, warum die Grenze erreicht wurde:
 
-<Callout type="tip">
-**Empfohlene Maßnahmen**:
-
-1. **Eine neue Konversation starten**: Kopieren Sie die wichtigsten Schlussfolgerungen oder die Gliederung aus der ursprünglichen Konversation in eine neue, um fortzufahren.
-2. **Ein Übergabedokument erstellen**: Bitten Sie Kimi, „zusammenzufassen und ein Übergabedokument zu erstellen“, und fügen Sie es dann als Ausgangskontext in eine neue Konversation ein – so sparen Sie token und bewahren gleichzeitig die Informationen.
-
-**Hinweis**: Das Löschen von Nachrichten innerhalb derselben Konversation gibt das Kontextfenster **nicht** frei. Starten Sie stattdessen eine neue Konversation.
-</Callout>
+- **Eine einzelne von Ihnen gesendete Datei ist zu groß und erreicht die Grenze bereits in der ersten Runde**: Teilen Sie die Datei in kleinere Abschnitte auf und senden Sie sie stapelweise.
+- **Eine mehrstufige Unterhaltung wächst nach und nach bis zur Grenze an**: Fassen Sie zunächst die bisherigen wichtigsten Ergebnisse zusammen (Sie können Kimi auch bitten, „zusammenzufassen und ein Übergabedokument zu erstellen“), und fügen Sie diese Zusammenfassung dann als Anfangskontext in eine neue Unterhaltung ein.
 
 <Callout type="info">
-Thinking-Modelle verbrauchen für das Schlussfolgern mehr token, wodurch das effektive Kontextlimit kleiner ausfällt. Wenn Sie mit langen Dokumenten arbeiten, sollten Sie K2 dem K2-Thinking vorziehen.
+**Tipps**:
+- Grundsätzlich helfen Ihnen [Memory](/features/memory-space) und [Projekte](/features/project), diese Grenze zu vermeiden — Memory speichert wichtige Informationen automatisch, und ein Projekt hält Referenzdateien, Anweisungen und Memory zusammen, sodass jede neue Unterhaltung den Kontext übernimmt.
+- Das Löschen früherer Nachrichten in derselben Unterhaltung gibt das Kontextfenster nicht frei — starten Sie stattdessen einfach eine neue Unterhaltung.
+- Thinking verbraucht Token; um credits zu sparen, stellen Sie **Thinking-Stärke** auf **Standard**.
+- Für sehr lange Dokumente bietet K3 einen Kontext mit 1M Token (verfügbar mit der höchsten Mitgliedschaftsstufe); wählen Sie beim Verfassen **Unterhaltungslänge: Extra lang**.
 </Callout>
 
-## „Lass uns über etwas anderes reden“ wird angezeigt?
+## Wird „Lass uns über etwas anderes sprechen“ angezeigt?
 
-Diese Meldung weist darauf hin, dass der aktuelle Inhalt eine Sicherheitsrichtlinie ausgelöst hat und das Thema nicht fortgesetzt werden kann. Geben Sie einfach ein neues Thema ein, um die Konversation fortzusetzen – ohne Wartezeit.
+Dieser Hinweis bedeutet, dass der aktuelle Inhalt eine Sicherheitsrichtlinie ausgelöst hat und das Thema nicht fortgesetzt werden kann. Geben Sie einfach ein neues Thema ein, um die Unterhaltung fortzusetzen — ohne Wartezeit.
 
 <Callout type="info">
-Wenn Sie der Meinung sind, dass der Inhalt keinen Verstoß darstellt, klicken Sie auf „👎“, um Feedback zu geben und uns dabei zu helfen, unsere Sicherheitsrichtlinien zu verbessern.
+Wenn Sie der Meinung sind, dass der Inhalt nicht gegen die Richtlinien verstoßen hat, klicken Sie auf „👎“, um Feedback zu senden und uns bei der Verbesserung unserer Sicherheitsrichtlinien zu helfen.
 </Callout>
 
-## „Kimi ist etwas erschöpft“ wird angezeigt?
+## Wird „Kimi ist ein bisschen müde“ angezeigt?
 
-Das bedeutet, dass zu viele Nutzer gleichzeitig online sind und die Rechenressourcen stark ausgelastet sind – ein rate limit zu Stoßzeiten. Warten Sie 1–2 Minuten und versuchen Sie es erneut.
+Das bedeutet, dass zu viele Nutzer online sind und die Rechenressourcen stark ausgelastet sind — ein rate limit zu Spitzenzeiten. Warten Sie 1–2 Minuten und versuchen Sie es erneut.
 
 <Callout type="tip">
-Um Wartezeiten zu verkürzen, können Sie ein Mitgliedschaftsabo abschließen und erhalten so bevorzugten Zugang zu dedizierten Rechenressourcen.
+Um Wartezeiten zu verkürzen, können Sie ein Mitgliedschaftspaket abonnieren und bevorzugten Zugriff auf dedizierte Rechenressourcen erhalten.
 </Callout>
 
 ## PPT/Word/Excel lässt sich nicht herunterladen?
 
-Das Kimi-Chatfenster selbst erzeugt keine herunterladbaren Office-Dateien:
+Das Kimi-Chatfenster selbst erstellt keine herunterladbaren Office-Dateien:
 
 | Dateityp | Wo erstellen |
 |-----------|-------------------|
-| **Folien** | Gehen Sie zu [Kimi Slides](https://www.kimi.com/slides) – unterstützt Online-Erstellung und Download |
+| **Slides** | Gehen Sie zu [Kimi Slides](https://www.kimi.com/slides) — unterstützt Online-Erstellung und Download |
 | **Word/Excel** | Verwenden Sie den **Agent**-Modus |

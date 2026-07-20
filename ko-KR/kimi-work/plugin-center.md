@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi Work 플러그인 센터 - Kimi 도움말 센터"
+  title="Kimi Work 플러그인 센터 - Kimi 헬프 센터"
   description="Kimi Work 플러그인 센터를 알아보세요. 금융, 법률, 학술 분야를 위한 내장 전문 데이터베이스 플러그인부터 Baidu Netdisk, DingTalk, Feishu, WPS, Canva, Notion 같은 엄선된 외부 앱 플러그인과 설치 방법까지 안내합니다."
 />
 

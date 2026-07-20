@@ -8,7 +8,7 @@ preview_content: "Mit geplanten Aufgaben kann Kimi eine festgelegte Aufgabe auto
 ---
 
 <SeoMeta
-  title="Geplante Aufgaben in Kimi verwenden – Kimi Help Center"
+  title="Geplante Aufgaben in Kimi verwenden - Kimi Hilfecenter"
   description="Erfahre mehr über geplante Aufgaben in Kimi: Lass Kimi eine Aufgabe automatisch zu einem festgelegten Zeitpunkt ausführen — täglich, wöchentlich, monatlich oder einmalig, optional mit Ablaufdatum und kombinierbar mit Skills für anspruchsvollere Arbeiten. Ideal für tägliche Briefings, wöchentliche Branchenbeobachtung und regelmäßige Datenbereinigungen. Verfügbar in Kimi und in der Kimi Work-Desktop-App."
 />
 

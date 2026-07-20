@@ -8,7 +8,7 @@ preview_content: "Les tâches planifiées permettent à Kimi d’exécuter autom
 ---
 
 <SeoMeta
-  title="Utiliser les tâches planifiées Kimi - Centre d’aide Kimi"
+  title="Utiliser les tâches planifiées Kimi - Centre d'aide Kimi"
   description="Découvrez les tâches planifiées Kimi : demandez à Kimi d’exécuter automatiquement une tâche à une heure donnée, selon une fréquence quotidienne, hebdomadaire, mensuelle ou ponctuelle, avec une date d’expiration facultative et la possibilité de les combiner avec des Skills pour des travaux plus complexes. Idéal pour les briefings quotidiens, la veille sectorielle hebdomadaire et les nettoyages périodiques de données. Disponible dans Kimi et l’application de bureau Kimi Work."
 />
 

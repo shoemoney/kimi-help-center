@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Cas d’utilisation de Kimi Work - Centre d’aide Kimi"
+  title="Cas d’utilisation de Kimi Work - Centre d'aide Kimi"
   description="Exemples typiques d’utilisation de Kimi Work en finance, recherche et bureautique : analyse de stratégie d’investissement, traitement de données de recherche et aide à la rédaction d’articles, étude de marché et production de livrables."
 />
 

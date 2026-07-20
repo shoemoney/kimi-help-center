@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi Work Plugin-Center – Kimi Help Center"
+  title="Kimi Work Plugin-Center - Kimi Hilfecenter"
   description="Erfahren Sie mehr über das Kimi Work Plugin-Center: integrierte professionelle Datenbank-Plugins für Finanzen, Recht und Wissenschaft sowie kuratierte externe App-Plugins wie Baidu Netdisk, DingTalk, Feishu, WPS, Canva und Notion – und wie Sie sie installieren."
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Häufige Fragen zu Deep Research – Kimi-Hilfecenter"
+  title="Häufige Fragen zu Deep Research - Kimi Hilfecenter"
   description="Häufige Fragen zu Deep Research: Aufgaben, die hängen bleiben oder keine Ergebnisse liefern, Abdriften der Suchrichtung, Kontextlänge, Regeln für den Abzug von Credits, abgezogene Credits nach dem Stoppen einer Aufgabe sowie das Herunterladen oder Speichern von Berichten."
 />
 

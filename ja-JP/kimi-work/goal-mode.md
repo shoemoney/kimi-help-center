@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi Work ゴールモード - Kimiヘルプセンター"
+  title="Kimi Work ゴールモード - Kimi ヘルプセンター"
   description="Kimi Workのゴールモードについて説明します。エージェントが1つの目標に向けて最長24時間継続的に作業できるループ機構と、有効にする方法、適したタスクを紹介します。"
 />
 

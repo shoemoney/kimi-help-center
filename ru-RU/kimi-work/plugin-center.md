@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Центр плагинов Kimi Work — Справочный центр Kimi"
+  title="Центр плагинов Kimi Work - Справочный центр Kimi"
   description="Узнайте о Центре плагинов Kimi Work: встроенных профессиональных плагинах баз данных для финансов, права и науки, а также официально отобранных внешних плагинах приложений — Baidu Netdisk, DingTalk, Feishu, WPS, Canva, Notion — и о том, как их установить."
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi Work 목표 모드 - Kimi 도움말 센터"
+  title="Kimi Work 목표 모드 - Kimi 헬프 센터"
   description="Kimi Work의 목표 모드를 알아보세요. 에이전트가 하나의 목표를 향해 최대 24시간 동안 계속 작업할 수 있게 해 주는 루프 메커니즘, 활성화 방법, 적합한 작업을 안내합니다."
 />
 

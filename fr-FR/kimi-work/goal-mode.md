@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Mode Objectif de Kimi Work - Centre d’aide Kimi"
+  title="Mode Objectif de Kimi Work - Centre d'aide Kimi"
   description="Découvrez le mode Objectif dans Kimi Work : le mécanisme de boucle qui permet à un Agent de travailler en continu vers un objectif unique pendant jusqu’à 24 heures, ainsi que la façon de l’activer et les tâches auxquelles il convient."
 />
 

@@ -8,7 +8,7 @@ preview_content: "Un projet est un espace de travail persistant qui réunit les 
 ---
 
 <SeoMeta
-  title="Qu’est-ce qu’un projet Kimi ? Comment le créer et l’utiliser - Centre d’aide Kimi"
+  title="Qu’est-ce qu’un projet Kimi ? Comment le créer et l’utiliser - Centre d'aide Kimi"
   description="Découvrez les projets Kimi : un espace de travail persistant qui regroupe fichiers de référence, discussions et instructions de projet — idéal pour rédiger une série de documents, mener des recherches au long cours ou maintenir une base de code. Cet article couvre la création et la gestion des projets, les instructions de projet, les fichiers de projet et les quotas des formules."
 />
 

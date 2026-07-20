@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="FAQ Deep Research - Centre d’aide Kimi"
+  title="FAQ Deep Research - Centre d'aide Kimi"
   description="Questions fréquentes sur Deep Research : tâches bloquées ou sans résultat, dérive de la direction de recherche, longueur du contexte, règles de déduction des crédits, crédits déduits après l’arrêt d’une tâche, et téléchargement ou enregistrement des rapports."
 />
 

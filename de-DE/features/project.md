@@ -8,7 +8,7 @@ preview_content: "Ein Projekt ist ein dauerhafter Arbeitsbereich, in dem Referen
 ---
 
 <SeoMeta
-  title="Was ist ein Kimi-Projekt? So erstellst und nutzt du es - Kimi-Hilfecenter"
+  title="Was ist ein Kimi-Projekt? So erstellst und nutzt du es - Kimi Hilfecenter"
   description="Erfahre mehr über Kimi-Projekte: dauerhafte Arbeitsbereiche, die Referenzdateien, Chats und Projektanweisungen bündeln — ideal für das Schreiben einer Dokumentreihe, laufende Recherchen oder die Pflege einer Codebasis. Behandelt werden das Erstellen und Verwalten von Projekten, Projektanweisungen, Projektdateien und Kontingente je Tarif."
 />
 

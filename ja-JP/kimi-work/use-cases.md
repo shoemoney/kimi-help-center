@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi Work のユースケース - Kimi Help Center"
+  title="Kimi Work のユースケース - Kimi ヘルプセンター"
   description="金融、リサーチ、オフィス業務における Kimi Work の代表的なユースケース：投資戦略分析、研究データ処理と論文作成支援、市場調査から成果物の作成まで。"
 />
 

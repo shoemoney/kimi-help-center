@@ -8,7 +8,7 @@ preview_content: "Point sur les récents changements apportés à nos abonnement
 ---
 
 <SeoMeta
-  title="À propos des récents changements d’abonnement - Centre d’aide Kimi"
+  title="À propos des récents changements d’abonnement - Centre d'aide Kimi"
   description="Point sur les récents changements d’abonnement Kimi : les avantages de tous les utilisateurs payants restent totalement inchangés ; les abonnements existants n’ont pas été supprimés et peuvent toujours être utilisés et renouvelés ; les utilisateurs actuels peuvent passer à une offre supérieure ; les nouvelles offres ne sont pas encore ouvertes à l’achat."
 />
 

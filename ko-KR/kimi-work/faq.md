@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi Work 자주 묻는 질문 - Kimi 도움말 센터"
+  title="Kimi Work 자주 묻는 질문 - Kimi 헬프 센터"
   description="Kimi Work 자주 묻는 질문: 웹 버전과의 차이, 로컬 파일 접근 시 권한 제어, WebBridge 브라우저 자동화로 할 수 있는 일, 예약 작업 실행 방식."
 />
 

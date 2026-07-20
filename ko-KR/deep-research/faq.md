@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Deep Research 자주 묻는 질문 - Kimi Help Center"
+  title="Deep Research 자주 묻는 질문 - Kimi 헬프 센터"
   description="Deep Research에 관한 자주 묻는 질문: 작업이 멈춘 것 같거나 결과가 반환되지 않는 경우, 검색 방향 이탈, 컨텍스트 길이, credit(크레딧) 차감 규칙, 작업 중지 후 credit(크레딧) 차감, 보고서 다운로드 또는 저장."
 />
 

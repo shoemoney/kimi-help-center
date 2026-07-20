@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="FAQ zu Kimi Work – Kimi Help Center"
+  title="FAQ zu Kimi Work - Kimi Hilfecenter"
   description="FAQ zu Kimi Work: worin es sich von der Webversion unterscheidet, wie die Berechtigungssteuerung beim Zugriff auf lokale Dateien funktioniert, was die Browserautomatisierung mit WebBridge leisten kann und wie geplante Aufgaben ausgeführt werden."
 />
 

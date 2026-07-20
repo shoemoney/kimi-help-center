@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi Work-Zielmodus – Kimi-Hilfezentrum"
+  title="Kimi Work-Zielmodus - Kimi Hilfecenter"
   description="Erfahren Sie mehr über den Zielmodus in Kimi Work: den Loop-Mechanismus, mit dem ein Agent bis zu 24 Stunden lang kontinuierlich auf ein einzelnes Ziel hinarbeitet – einschließlich Aktivierung und geeigneter Aufgaben."
 />
 

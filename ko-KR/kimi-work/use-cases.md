@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi Work 사용 사례 - Kimi 도움말 센터"
+  title="Kimi Work 사용 사례 - Kimi 헬프 센터"
   description="금융, 연구, 오피스 환경에서 자주 활용되는 Kimi Work 사용 사례입니다. 투자 전략 분석, 연구 데이터 처리와 논문 작성 지원, 시장 조사 및 결과물 작성까지 다룹니다."
 />
 

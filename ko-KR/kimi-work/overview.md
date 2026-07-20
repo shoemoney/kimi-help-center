@@ -8,7 +8,7 @@ preview_content: "Kimi Work는 Kimi 데스크톱 클라이언트(Mac / Windows)�
 ---
 
 <SeoMeta
-  title="Kimi Work란? 지식 근로자를 위한 로컬 Agent - Kimi 도움말 센터"
+  title="Kimi Work란? 지식 근로자를 위한 로컬 Agent - Kimi 헬프 센터"
   description="Kimi Work(Beta)를 알아보세요. Kimi Code 기반의 지식 근로자용 범용 로컬 Agent로, Skills, 예약 작업, WebBridge, Agent Swarm, 장기 작업 실행을 지원하며 Mac / Windows 클라이언트에서 사용할 수 있습니다."
 />
 

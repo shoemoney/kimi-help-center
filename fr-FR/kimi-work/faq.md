@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="FAQ Kimi Work - Centre d’aide Kimi"
+  title="FAQ Kimi Work - Centre d'aide Kimi"
   description="FAQ Kimi Work : différences avec la version web, contrôle des autorisations lors de l’accès aux fichiers locaux, possibilités de l’automatisation du navigateur WebBridge et fonctionnement des tâches planifiées."
 />
 

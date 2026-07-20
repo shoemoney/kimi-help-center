@@ -8,7 +8,7 @@ preview_content: "Kimi Work est un Agent local polyvalent pour les professionnel
 ---
 
 <SeoMeta
-  title="Qu’est-ce que Kimi Work ? Un Agent local pour les professionnels du savoir - Centre d’aide Kimi"
+  title="Qu’est-ce que Kimi Work ? Un Agent local pour les professionnels du savoir - Centre d'aide Kimi"
   description="Découvrez Kimi Work (bêta) : un Agent local polyvalent pour les professionnels du savoir, propulsé par Kimi Code, avec Skills, tâches planifiées, WebBridge, Agent Swarm et exécution de tâches longues, disponible sur le client Mac / Windows."
 />
 

@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Deep Research よくある質問 - Kimi Help Center"
+  title="Deep Research よくある質問 - Kimi ヘルプセンター"
   description="Deep Research に関するよくある質問：タスクが止まる／結果が返ってこない、検索方向のずれ、コンテキスト長、credit（クレジット）の消費ルール、タスク停止後の credit 消費、レポートのダウンロードや保存について。"
 />
 

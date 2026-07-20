@@ -8,7 +8,7 @@ preview_content: "Kimi Work ist ein lokaler Allzweck-Agent für Wissensarbeiter,
 ---
 
 <SeoMeta
-  title="Was ist Kimi Work? Ein lokaler Agent für Wissensarbeiter – Kimi Help Center"
+  title="Was ist Kimi Work? Ein lokaler Agent für Wissensarbeiter - Kimi Hilfecenter"
   description="Erfahren Sie mehr über Kimi Work (Beta): einen lokalen Allzweck-Agenten für Wissensarbeiter, unterstützt von Kimi Code, mit Skills, geplanten Aufgaben, WebBridge, Agent Swarm und der Ausführung langfristiger Aufgaben; verfügbar im Mac- / Windows-Client."
 />
 

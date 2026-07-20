@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Anwendungsfälle für Kimi Work – Kimi Hilfe-Center"
+  title="Anwendungsfälle für Kimi Work - Kimi Hilfecenter"
   description="Typische Anwendungsfälle für Kimi Work in Finanz-, Forschungs- und Büro-Szenarien: Analyse von Anlagestrategien, Verarbeitung von Forschungsdaten und Unterstützung beim Verfassen wissenschaftlicher Arbeiten sowie Marktforschung mit ausgabefertigen Ergebnissen."
 />
 

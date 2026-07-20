@@ -8,7 +8,7 @@ preview_content: "Aktuelles zu unseren jüngsten Tarifänderungen: Die Leistunge
 ---
 
 <SeoMeta
-  title="Hinweis zu den jüngsten Tarifänderungen – Kimi-Hilfecenter"
+  title="Hinweis zu den jüngsten Tarifänderungen - Kimi Hilfecenter"
   description="Aktuelles zu den jüngsten Tarifänderungen bei Kimi: Die Leistungen aller zahlenden Nutzer bleiben vollständig unverändert; bestehende Tarife wurden nicht entfernt und können weiterhin genutzt und verlängert werden; bestehende Nutzer können upgraden; neue Tarife können derzeit noch nicht gebucht werden."
 />
 

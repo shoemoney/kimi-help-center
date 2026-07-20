@@ -7,7 +7,7 @@ preview: false
 ---
 
 <SeoMeta
-  title="Centre des plugins Kimi Work - Centre d’aide Kimi"
+  title="Centre des plugins Kimi Work - Centre d'aide Kimi"
   description="Découvrez le Centre des plugins Kimi Work : des plugins intégrés de bases de données professionnelles pour la finance, le droit et la recherche académique, ainsi qu’une sélection officielle de plugins d’applications externes comme Baidu Netdisk, DingTalk, Feishu, WPS, Canva et Notion, et la marche à suivre pour les installer."
 />
 

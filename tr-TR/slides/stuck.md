@@ -2,7 +2,7 @@
 title: "Slides oluşturma takılırsa ne yapmalı?"
 slug: "ppt-stuck"
 order: 3
-extract_headings: false
+extract_headings: true
 preview: false
 preview_content: "Slides için sorun giderme ve geri bildirim kılavuzu: Özellik Bulunamadı, Açılmıyor veya Önizleme Sorunları."
 ---

@@ -2,7 +2,7 @@
 title: "Que faire si la génération de Slides reste bloquée ?"
 slug: "ppt-stuck"
 order: 3
-extract_headings: false
+extract_headings: true
 preview: false
 preview_content: "Guide de dépannage et de retour d'expérience pour Slides : fonctionnalité introuvable, impossible d'ouvrir ou problèmes d'aperçu."
 ---

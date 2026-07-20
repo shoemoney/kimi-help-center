@@ -2,7 +2,7 @@
 title: "Что делать, если генерация Slides зависла?"
 slug: "ppt-stuck"
 order: 3
-extract_headings: false
+extract_headings: true
 preview: false
 preview_content: "Руководство по устранению неполадок и отправке отзывов о Slides: функция не найдена, файл не открывается или есть проблемы с предпросмотром."
 ---

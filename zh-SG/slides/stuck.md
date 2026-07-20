@@ -2,7 +2,7 @@
 title: "Slides 生成卡住怎么办？"
 slug: "ppt-stuck"
 order: 3
-extract_headings: false
+extract_headings: true
 preview: false
 preview_content: "Slides 故障排查与反馈指南：功能入口找不到、无法打开或预览异常。"
 ---

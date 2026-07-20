@@ -2,7 +2,7 @@
 title: "Cosa fare se la generazione delle Slides si blocca?"
 slug: "ppt-stuck"
 order: 3
-extract_headings: false
+extract_headings: true
 preview: false
 preview_content: "Guida alla risoluzione dei problemi e all'invio di feedback per le Slides: funzione non trovata, mancata apertura o problemi di anteprima."
 ---

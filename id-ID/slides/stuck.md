@@ -2,7 +2,7 @@
 title: "Apa yang harus dilakukan jika pembuatan Slides macet?"
 slug: "ppt-stuck"
 order: 3
-extract_headings: false
+extract_headings: true
 preview: false
 preview_content: "Panduan Pemecahan Masalah dan Umpan Balik untuk Slides: Fitur Tidak Ditemukan, Tidak Bisa Dibuka, atau Masalah Pratinjau."
 ---

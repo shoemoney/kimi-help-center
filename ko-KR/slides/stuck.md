@@ -2,7 +2,7 @@
 title: "Slides 생성이 멈췄을 때는 어떻게 하나요?"
 slug: "ppt-stuck"
 order: 3
-extract_headings: false
+extract_headings: true
 preview: false
 preview_content: "Slides 문제 해결 및 피드백 안내: 기능을 찾을 수 없거나, 열리지 않거나, 미리보기 문제가 발생한 경우."
 ---

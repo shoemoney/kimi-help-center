@@ -2,7 +2,7 @@
 title: "O que fazer se a geração do Slides travar?"
 slug: "ppt-stuck"
 order: 3
-extract_headings: false
+extract_headings: true
 preview: false
 preview_content: "Guia de solução de problemas e feedback do Slides: recurso não encontrado, não abre ou problemas de pré-visualização."
 ---

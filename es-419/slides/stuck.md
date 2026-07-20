@@ -2,7 +2,7 @@
 title: "¿Qué hacer si la generación de Slides se queda atascada?"
 slug: "ppt-stuck"
 order: 3
-extract_headings: false
+extract_headings: true
 preview: false
 preview_content: "Guía de solución de problemas y comentarios para Slides: la función no aparece, no abre o problemas de vista previa."
 ---

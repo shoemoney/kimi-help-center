@@ -2,7 +2,7 @@
 title: "Was tun, wenn die Slides-Erstellung hängen bleibt?"
 slug: "ppt-stuck"
 order: 3
-extract_headings: false
+extract_headings: true
 preview: false
 preview_content: "Leitfaden zur Fehlerbehebung und Rückmeldung für Slides: Funktion nicht auffindbar, lässt sich nicht öffnen oder Vorschauprobleme."
 ---

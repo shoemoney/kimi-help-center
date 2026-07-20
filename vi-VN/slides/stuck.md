@@ -2,7 +2,7 @@
 title: "Phải làm gì khi quá trình tạo Slides bị treo?"
 slug: "ppt-stuck"
 order: 3
-extract_headings: false
+extract_headings: true
 preview: false
 preview_content: "Hướng dẫn xử lý sự cố và gửi phản hồi cho Slides: Không tìm thấy tính năng, không mở được hoặc gặp lỗi xem trước."
 ---

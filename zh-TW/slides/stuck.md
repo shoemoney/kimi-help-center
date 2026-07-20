@@ -2,7 +2,7 @@
 title: "簡報生成卡住時該怎麼辦？"
 slug: "ppt-stuck"
 order: 3
-extract_headings: false
+extract_headings: true
 preview: false
 preview_content: "簡報疑難排解與回饋指南：找不到功能、無法開啟或預覽異常。"
 ---

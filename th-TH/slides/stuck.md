@@ -2,7 +2,7 @@
 title: "ทำอย่างไรเมื่อการสร้าง Slides ค้าง?"
 slug: "ppt-stuck"
 order: 3
-extract_headings: false
+extract_headings: true
 preview: false
 preview_content: "คู่มือแก้ปัญหาและส่งความคิดเห็นสำหรับ Slides: หาฟีเจอร์ไม่เจอ เปิดไม่ได้ หรือมีปัญหาในการแสดงตัวอย่าง"
 ---

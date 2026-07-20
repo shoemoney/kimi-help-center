@@ -2,7 +2,7 @@
 title: "スライド生成が途中で止まった場合の対処法"
 slug: "ppt-stuck"
 order: 3
-extract_headings: false
+extract_headings: true
 preview: false
 preview_content: "スライドで機能が見つからない、開けない、プレビューに問題がある場合のトラブルシューティングとフィードバックガイドです。"
 ---

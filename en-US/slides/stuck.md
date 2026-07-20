@@ -2,7 +2,7 @@
 title: "What to do if Slides generation gets stuck?"
 slug: "ppt-stuck"
 order: 3
-extract_headings: false
+extract_headings: true
 preview: false
 preview_content: "Troubleshooting and Feedback Guide for Slides: Feature Not Found, Won't Open, or Preview Issues."
 ---

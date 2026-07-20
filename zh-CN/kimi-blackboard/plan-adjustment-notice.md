@@ -1,6 +1,6 @@
 ---
 title: "关于套餐调整的说明"
-slug: "membership-plan-adjustment-notice"
+slug: "plan-adjustment-notice"
 order: 1
 extract_headings: true
 preview: true

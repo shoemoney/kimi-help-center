@@ -25,6 +25,11 @@ Kimi 登月同行计划是面向 Kimi 用户推出的好友邀请活动。邀请
 - Web 端或 PC 客户端：打开左侧边栏，点击底部的「邀请有奖」。
 - Kimi App：打开侧边栏，在「我的」区域点击「邀请有奖」。
 
+<Frames
+  src="./images/moon-companion-plan/invite-entry-01.png"
+  alt="在 Web / PC 客户端或 Kimi App 侧边栏点击「邀请有奖」进入活动页面"
+/>
+
 也可直接访问[「邀请有奖」活动页面](https://www.kimi.com/mykimi)参与。
 
 活动规则可在活动页面右上角查看。具体任务、奖品和活动周期均以活动页面的最新展示为准。

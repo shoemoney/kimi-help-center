@@ -22,7 +22,7 @@ Isso pode ser causado por:
 
 ## A conversa ultrapassou 200.000 palavras?
 
-O limite de contexto de uma única conversa é de aproximadamente 128K tokens (cerca de 200.000 palavras). Ao atingir esse limite, o modelo não consegue mais aceitar novas entradas.
+O limite de contexto do K2.6 em uma única conversa é de aproximadamente 128K tokens (cerca de 200.000 palavras). Ao atingir esse limite, o modelo não consegue mais aceitar novas entradas.
 
 <Callout type="tip">
 **Ações recomendadas**:

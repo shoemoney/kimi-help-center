@@ -22,7 +22,7 @@ Mögliche Ursachen:
 
 ## Konversation überschreitet 200.000 Wörter?
 
-Das Kontextlimit einer einzelnen Konversation liegt bei etwa 128K token (~200.000 Wörter). Sobald dieses Limit erreicht ist, kann das Modell keine neuen Eingaben mehr annehmen.
+Das Kontextlimit von K2.6 in einer einzelnen Konversation liegt bei etwa 128K token (~200.000 Wörter). Sobald dieses Limit erreicht ist, kann das Modell keine neuen Eingaben mehr annehmen.
 
 <Callout type="tip">
 **Empfohlene Maßnahmen**:

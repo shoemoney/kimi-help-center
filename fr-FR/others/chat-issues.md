@@ -22,7 +22,7 @@ Cela peut être dû à :
 
 ## La conversation dépasse 200 000 mots ?
 
-La limite de contexte d'une seule conversation est d'environ 128 K tokens (soit ~200 000 mots). Une fois cette limite atteinte, le modèle ne peut plus accepter de nouvelle saisie.
+La limite de contexte de K2.6 pour une seule conversation est d'environ 128 K tokens (soit ~200 000 mots). Une fois cette limite atteinte, le modèle ne peut plus accepter de nouvelle saisie.
 
 <Callout type="tip">
 **Actions recommandées** :

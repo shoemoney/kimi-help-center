@@ -23,7 +23,7 @@ This may be caused by one of the following:
 
 ## What if a chat exceeds 200,000 Chinese characters?
 
-The single-turn context limit is about 128K token (roughly 50,000–60,000 Chinese characters). Once the limit is reached, the model can no longer read in new content. We recommend:
+K2.6's single-turn context limit is about 128K token (roughly 50,000–60,000 Chinese characters). Once the limit is reached, the model can no longer read in new content. We recommend:
 
 1. **Start a new chat**: Copy the key conclusions or outline from the original chat into a new chat to continue.
 2. **Generate a handoff document**: Ask Kimi to “summarize and generate a handoff document,” then paste it into a new chat as the initial context. This reduces the word count while preserving the key information.

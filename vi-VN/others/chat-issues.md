@@ -22,7 +22,7 @@ Nguyên nhân có thể đến từ:
 
 ## Cuộc trò chuyện vượt quá 200.000 từ?
 
-Giới hạn ngữ cảnh của một cuộc trò chuyện vào khoảng 128K token (~200.000 từ). Khi đã chạm ngưỡng này, mô hình sẽ không thể tiếp nhận thêm nội dung mới.
+Giới hạn ngữ cảnh của K2.6 trong một cuộc trò chuyện vào khoảng 128K token (~200.000 từ). Khi đã chạm ngưỡng này, mô hình sẽ không thể tiếp nhận thêm nội dung mới.
 
 <Callout type="tip">
 **Cách xử lý gợi ý**:

@@ -22,7 +22,7 @@ Hal ini mungkin disebabkan oleh:
 
 ## Percakapan melebihi 200.000 kata?
 
-Batas konteks satu percakapan adalah sekitar 128K token (~200.000 kata). Setelah batas ini tercapai, model tidak lagi dapat menerima input baru.
+Batas konteks K2.6 untuk satu percakapan adalah sekitar 128K token (~200.000 kata). Setelah batas ini tercapai, model tidak lagi dapat menerima input baru.
 
 <Callout type="tip">
 **Tindakan yang disarankan**:

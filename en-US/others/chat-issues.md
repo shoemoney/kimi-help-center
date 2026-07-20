@@ -22,7 +22,7 @@ This may be caused by:
 
 ## Conversation exceeds 200,000 words?
 
-The single-conversation context limit is approximately 128K tokens (~200,000 words). Once this limit is reached, the model can no longer accept new input.
+K2.6's single-conversation context limit is approximately 128K tokens (~200,000 words). Once this limit is reached, the model can no longer accept new input.
 
 <Callout type="tip">
 **Recommended actions**:

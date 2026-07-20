@@ -22,7 +22,7 @@ Le cause possibili sono:
 
 ## La conversazione supera le 200.000 parole?
 
-Il limite di contesto per singola conversazione è di circa 128K token (~200.000 parole). Una volta raggiunto questo limite, il modello non può più accettare nuovo input.
+Il limite di contesto di K2.6 per singola conversazione è di circa 128K token (~200.000 parole). Una volta raggiunto questo limite, il modello non può più accettare nuovo input.
 
 <Callout type="tip">
 **Azioni consigliate**:

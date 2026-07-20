@@ -22,7 +22,7 @@ Bunun olası nedenleri şunlardır:
 
 ## Konuşma 200.000 kelimeyi mi aşıyor?
 
-Tek bir konuşmanın bağlam sınırı yaklaşık 128K token (~200.000 kelime) civarındadır. Bu sınıra ulaşıldığında model artık yeni girdi kabul edemez.
+K2.6'nın tek bir konuşmadaki bağlam sınırı yaklaşık 128K token (~200.000 kelime) civarındadır. Bu sınıra ulaşıldığında model artık yeni girdi kabul edemez.
 
 <Callout type="tip">
 **Önerilen adımlar**:

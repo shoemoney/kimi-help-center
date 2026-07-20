@@ -22,7 +22,7 @@ Esto puede deberse a:
 
 ## ¿La conversación supera las 200,000 palabras?
 
-El límite de contexto de una sola conversación es de aproximadamente 128K tokens (~200,000 palabras). Una vez alcanzado este límite, el modelo ya no puede aceptar nuevas entradas.
+El límite de contexto de K2.6 en una sola conversación es de aproximadamente 128K tokens (~200,000 palabras). Una vez alcanzado este límite, el modelo ya no puede aceptar nuevas entradas.
 
 <Callout type="tip">
 **Acciones recomendadas**:

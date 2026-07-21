@@ -1,0 +1,10 @@
+{
+  "title": "Buletin Kimi",
+  "description": "Berita produk Kimi, pembaruan fitur, acara, dan pengumuman resmi.",
+  "seo": {
+    "title": "Buletin Kimi",
+    "description": "Berita produk Kimi, pembaruan fitur, acara, dan pengumuman resmi—ikuti kabar terbaru dari Kimi."
+  },
+  "icon": "document",
+  "order": 15
+}

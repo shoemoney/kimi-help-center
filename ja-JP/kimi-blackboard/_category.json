@@ -1,0 +1,10 @@
+{
+  "title": "Kimi Bulletin",
+  "description": "Kimiのプロダクトニュース、機能アップデート、イベント、公式発表をお届けします。",
+  "seo": {
+    "title": "Kimi Bulletin",
+    "description": "Kimiのプロダクトニュース、機能アップデート、イベント、公式発表など、Kimiの最新情報をお届けします。"
+  },
+  "icon": "document",
+  "order": 15
+}

@@ -1,7 +1,7 @@
 ---
 title: "Übersicht der Mitgliedschaftspläne"
 slug: "membership-overview"
-order: 2
+order: 1
 extract_headings: true
 preview: true
 preview_content: "Vergleichen Sie Kimis fünf Mitgliedschaftsstufen, das Credit-System und die Abrechnungsoptionen."

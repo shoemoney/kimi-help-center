@@ -1,0 +1,10 @@
+{
+  "title": "Kimi 소식",
+  "description": "Kimi 제품 소식, 기능 업데이트, 이벤트, 공식 공지입니다.",
+  "seo": {
+    "title": "Kimi 소식",
+    "description": "Kimi 제품 소식, 기능 업데이트, 이벤트, 공식 공지—Kimi의 최신 소식을 놓치지 마세요."
+  },
+  "icon": "document",
+  "order": 15
+}

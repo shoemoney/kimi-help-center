@@ -1,7 +1,7 @@
 ---
 title: "Panoramica dei piani di abbonamento"
 slug: "membership-overview"
-order: 2
+order: 1
 extract_headings: true
 preview: true
 preview_content: "Confronta i cinque livelli di abbonamento di Kimi, il sistema di crediti e le opzioni di fatturazione."

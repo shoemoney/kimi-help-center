@@ -1,7 +1,7 @@
 ---
 title: "ภาพรวมแพ็กเกจสมาชิก"
 slug: "membership-overview"
-order: 2
+order: 1
 extract_headings: true
 preview: true
 preview_content: "เปรียบเทียบแพ็กเกจสมาชิกทั้ง 5 ระดับของ Kimi ระบบ เครดิต และตัวเลือกการชำระเงิน"

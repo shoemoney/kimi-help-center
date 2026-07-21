@@ -1,7 +1,7 @@
 ---
 title: "Membership plans overview"
 slug: "membership-overview"
-order: 2
+order: 1
 extract_headings: true
 preview: true
 preview_content: "Compare Kimi's five membership tiers, credit system, and billing options."

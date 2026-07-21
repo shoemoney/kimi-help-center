@@ -1,7 +1,7 @@
 ---
 title: "Membership Subscription Benefits Overview"
 slug: "membership-overview"
-order: 2
+order: 1
 extract_headings: false
 preview: true
 preview_content: "A full comparison of Kimi’s five membership plans, including benefits, billing, and FAQs."

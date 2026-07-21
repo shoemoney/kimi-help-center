@@ -6,6 +6,6 @@
     "description": "アカウントのセキュリティ、フィードバック、プライバシーポリシー、その他の設定"
   },
   "icon": "others",
-  "order": 15,
+  "order": 16,
   "note": "各 md の front matter にある extract_headings は、## 見出しをリストページで展開可能な項目として表示するかどうかを制御します"
 }

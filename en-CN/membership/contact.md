@@ -1,7 +1,7 @@
 ---
 title: "Membership Support Contacts"
 slug: "membership-contact"
-order: 10
+order: 11
 extract_headings: false
 preview: true
 preview_content: "Contact details and feedback channels for membership-related issues."

@@ -1,7 +1,7 @@
 ---
 title: "Kimi Membership Invoicing"
 slug: "membership-invoice"
-order: 9
+order: 10
 extract_headings: false
 preview: true
 preview_content: "Steps and notes for Kimi members to issue electronic invoices themselves."

@@ -1,7 +1,7 @@
 ---
 title: "Abonnement kündigen"
 slug: "membership-cancel-subscription"
-order: 7
+order: 8
 extract_headings: false
 preview: false
 ---

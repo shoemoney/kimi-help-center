@@ -1,7 +1,7 @@
 ---
 title: "Invoices"
 slug: "membership-invoice"
-order: 9
+order: 10
 extract_headings: true
 preview: false
 ---

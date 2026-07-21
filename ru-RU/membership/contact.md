@@ -1,7 +1,7 @@
 ---
 title: "Свяжитесь с нами"
 slug: "membership-contact"
-order: 10
+order: 11
 extract_headings: false
 preview: false
 ---

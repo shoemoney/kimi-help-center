@@ -1,7 +1,7 @@
 ---
 title: "Payment Issues"
 slug: "membership-payment-issues"
-order: 8
+order: 9
 extract_headings: true
 preview: true
 preview_content: "Solutions for common issues such as failed membership payments, inactive payment agreements, and mistaken charges."

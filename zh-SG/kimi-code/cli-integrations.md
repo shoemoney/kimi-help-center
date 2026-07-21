@@ -1,7 +1,7 @@
 ---
 title: "工具集成"
 slug: "cli-integrations"
-order: 10
+order: 8
 extract_headings: false
 preview: false
 ---

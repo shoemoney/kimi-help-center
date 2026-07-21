@@ -1,7 +1,7 @@
 ---
 title: "Cancel Auto-Renewal"
 slug: "membership-cancel-subscription"
-order: 7
+order: 8
 extract_headings: true
 preview: true
 preview_content: "Learn how to cancel auto-renewal for your Kimi membership, with instructions for multiple channels."

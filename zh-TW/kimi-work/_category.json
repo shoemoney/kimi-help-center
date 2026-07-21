@@ -5,7 +5,7 @@
     "title": "Kimi Work",
     "description": "產品介紹、目標模式、外掛中心、典型應用情境與常見問題"
   },
-  "icon": "code",
+  "icon": "kimi-work",
   "order": 4,
   "note": "每個 md front matter 中的 extract_headings: true/false 會控制 ## 標題是否在列表頁展開"
 }

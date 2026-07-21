@@ -5,7 +5,7 @@
     "title": "Kimi Work",
     "description": "Un Agent locale per professionisti della conoscenza — panoramica, modalità Goal, plugin e casi d’uso"
   },
-  "icon": "code",
+  "icon": "kimi-work",
   "order": 4,
   "note": "extract_headings: true/false in ogni front matter md controlla se le intestazioni ## vengono espanse nella pagina elenco"
 }

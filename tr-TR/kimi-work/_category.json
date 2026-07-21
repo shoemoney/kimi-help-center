@@ -5,7 +5,7 @@
     "title": "Kimi Work",
     "description": "Bilgi çalışanları için yerel bir Agent — genel bakış, Hedef modu, eklentiler ve kullanım senaryoları"
   },
-  "icon": "code",
+  "icon": "kimi-work",
   "order": 4,
   "note": "Her md front matter içindeki extract_headings: true/false, liste sayfasında ## başlıklarının genişletilip genişletilmeyeceğini kontrol eder"
 }

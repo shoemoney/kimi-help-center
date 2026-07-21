@@ -5,7 +5,7 @@
     "title": "Kimi Work",
     "description": "Agent lokal untuk pekerja pengetahuan — ringkasan, mode Goal, plugin, dan contoh penggunaan"
   },
-  "icon": "code",
+  "icon": "kimi-work",
   "order": 4,
   "note": "extract_headings: true/false di front matter setiap md mengatur apakah judul ## diperluas di halaman daftar"
 }

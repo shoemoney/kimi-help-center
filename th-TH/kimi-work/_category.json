@@ -5,7 +5,7 @@
     "title": "Kimi Work",
     "description": "Agent ภายในเครื่องสำหรับคนทำงานด้านความรู้ — ภาพรวม, Goal mode, ปลั๊กอิน และกรณีใช้งาน"
   },
-  "icon": "code",
+  "icon": "kimi-work",
   "order": 4,
   "note": "extract_headings: true/false ใน front matter ของ md แต่ละไฟล์ ใช้กำหนดว่าจะขยายหัวข้อ ## บนหน้ารายการหรือไม่"
 }

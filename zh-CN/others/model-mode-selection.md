@@ -1,7 +1,7 @@
 ---
 title: "怎么选：K2.6 / K3 / K3 集群、思考强度与 Agent"
 slug: "model-mode-selection"
-order: 8
+order: 4
 extract_headings: true
 preview: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "账号封禁与申诉"
 slug: "account-ban"
-order: 3
+order: 7
 extract_headings: true
 preview: true
 preview_content: "账号被封禁的常见原因与申诉流程。"

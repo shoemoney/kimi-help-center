@@ -8,28 +8,32 @@ preview: false
 
 <SeoMeta
   title="FAQ di Kimi Work - Centro assistenza Kimi"
-  description="FAQ di Kimi Work: in cosa si differenzia dalla versione web, controllo delle autorizzazioni nell’accesso ai file locali, cosa può fare l’automazione del browser WebBridge e come vengono eseguite le attività pianificate."
+  description="FAQ di Kimi Work: differenze rispetto alla versione web, controllo delle autorizzazioni per l'accesso ai file locali, cosa può fare l'automazione del browser con WebBridge e come vengono eseguite le attività pianificate."
 />
 
 # FAQ di Kimi Work
 
 ## Qual è la differenza tra Kimi Work e la versione web?
 
-L’app web di Kimi è perfetta per chat e domande rapide; Kimi Work, invece, è un Agent locale pensato per flussi di lavoro complessi. Legge e gestisce le tue cartelle locali, naviga autonomamente sul web tramite WebBridge, esegue codice Python in background ed esegue attività pianificate. È un collaboratore digitale a livello di sistema.
+L'app web di Kimi è perfetta per chat e domande rapide, mentre Kimi Work è un Agent locale progettato per flussi di lavoro approfonditi. Legge e gestisce le cartelle locali, naviga autonomamente sul web tramite WebBridge, esegue codice Python in background ed esegue attività pianificate. È un collaboratore digitale a livello di sistema.
 
-## In che modo Kimi Work protegge la mia privacy quando accede ai file locali?
+## In che modo Kimi Work tutela la mia privacy quando accede ai file locali?
 
-Hai il controllo totale sui tuoi file. Kimi Work offre il controllo delle autorizzazioni e sei tu a scegliere come concederle:
+Hai il pieno controllo sui tuoi file. Kimi Work offre il controllo delle autorizzazioni e sei tu a scegliere come concederle:
 
-- **Richiedi autorizzazione**: richiede l’autorizzazione prima di agire — Kimi ti chiede un consenso esplicito prima di modificare, sovrascrivere o eseguire codice all’interno dei tuoi file locali;
+- **Richiedi autorizzazione**: chiede l'autorizzazione prima di agire — Kimi ti richiede un'autorizzazione esplicita prima di modificare, sovrascrivere o eseguire codice all'interno dei tuoi file locali;
 - **Consenti tutto**: procede direttamente senza chiedere autorizzazione.
 
-Quando scegli "Richiedi autorizzazione", non succede nulla senza il tuo consenso.
+Quando scegli "Richiedi autorizzazione", non accade nulla senza il tuo consenso.
 
 ## Che cosa può fare esattamente WebBridge (automazione del browser) per me?
 
-WebBridge consente a Kimi di usare un browser come farebbe una persona. Puoi chiedergli di controllare le ultime notizie su un sito web e riassumerle, oppure di estrarre dati storici sui titoli e salvarli in un Excel locale. Fa clic, scorre le pagine ed estrae dati in autonomia, facendoti risparmiare ore di lavoro manuale.
+WebBridge consente a Kimi di usare un browser come farebbe una persona. Puoi chiedergli di controllare le ultime notizie su un sito e riassumerle, oppure di estrarre dati azionari storici e salvarli nel tuo Excel locale. Clicca, scorre le pagine ed estrae dati in autonomia, facendoti risparmiare ore di lavoro manuale.
 
-## Cosa posso fare con le attività pianificate? Vengono eseguite anche se il computer è in stato di sospensione?
+## Cosa posso fare con le attività pianificate? Vengono eseguite se il computer è in sospensione?
 
-Lo scheduler Cron integrato supporta chiamate ad Agent LLM, esecuzioni Python/Shell e altro ancora. Puoi avviare attività ogni giorno, ogni ora o in base a condizioni specifiche. Per assicurarti che le attività vengano eseguite senza interruzioni durante la notte, ti basta attivare l’opzione "Mantieni il computer attivo" nelle impostazioni.
+Le attività pianificate permettono a Kimi di eseguire automaticamente un'attività fissa a un orario stabilito — con frequenza giornaliera, settimanale, mensile oppure una sola volta (senza ripetizione) — e sono ideali per briefing quotidiani, monitoraggi settimanali e pulizie periodiche.
+
+Su Kimi Work desktop, le attività pianificate vengono eseguite **in locale** e partono solo mentre **l'app è aperta**. I trigger mancati mentre il computer è in sospensione o spento, oppure mentre l'app è chiusa, **non vengono recuperati retroattivamente** alla successiva apertura. Quindi, se hai bisogno che un'attività venga eseguita durante la notte, tieni accesi sia il computer sia l'app Kimi Work. (Al contrario, le attività create in Kimi vengono eseguite nel cloud e non richiedono che il client resti aperto.)
+
+Per maggiori dettagli, consulta [Attività pianificate](/features/scheduled-tasks).

@@ -15,21 +15,25 @@ preview: false
 
 ## Kimi Work ile web sürümü arasındaki fark nedir?
 
-Kimi web uygulaması hızlı sohbetler ve sorgular için idealdir; Kimi Work ise derin iş akışları için tasarlanmış yerel bir Agent'tır. Yerel klasörlerinizi okur ve işler, WebBridge aracılığıyla web'de otonom olarak gezinir, arka planda Python kodu çalıştırır ve zamanlanmış görevleri yürütür. Sistem düzeyinde bir dijital çalışandır.
+Kimi web uygulaması hızlı sohbetler ve sorgular için idealdir; Kimi Work ise derinlemesine iş akışları için tasarlanmış yerel bir Agent’tır. Yerel klasörlerinizi okur ve işler, WebBridge üzerinden web’de otonom gezinir, arka planda Python kodu çalıştırır ve zamanlanmış görevleri yürütür. Sistem düzeyinde bir dijital çalışandır.
 
-## Kimi Work, yerel dosyalara erişirken gizliliğimi nasıl korur?
+## Kimi Work yerel dosyalara erişirken gizliliğimi nasıl korur?
 
-Dosyalarınız üzerinde tam denetim sizdedir. Kimi Work izin denetimi sunar; nasıl yetki vereceğinizi siz seçersiniz:
+Dosyalarınız üzerinde tam denetim sizdedir. Kimi Work izin denetimi sunar; yetkilendirmeyi nasıl yapacağınızı siz seçersiniz:
 
-- **İzin iste**: işlem yapmadan önce yetki ister — Kimi, yerel dosyalarınızı değiştirmeden, üzerine yazmadan veya bu dosyalar içinde kod çalıştırmadan önce sizden açıkça yetki ister;
-- **Tümüne izin ver**: yetki istemeden doğrudan çalışır.
+- **İzin iste**: işlemden önce yetki ister — Kimi, yerel dosyalarınızda değişiklik yapmadan, dosyaların üzerine yazmadan veya kod çalıştırmadan önce sizden açık yetki ister;
+- **Tümüne izin ver**: yetki sormadan doğrudan çalışır.
 
-"İzin iste" seçeneğini belirlediğinizde, onayınız olmadan hiçbir şey yapılmaz.
+"İzin iste" seçeneğini belirlediğinizde, onayınız olmadan hiçbir işlem yapılmaz.
 
 ## WebBridge (tarayıcı otomasyonu) benim için tam olarak ne yapabilir?
 
-WebBridge, Kimi'ye bir tarayıcıyı insan gibi kullanma becerisi kazandırır. Ondan bir web sitesindeki son haberleri kontrol edip özetlemesini ya da geçmiş hisse senedi verilerini yerel Excel dosyanıza aktarmasını isteyebilirsiniz. Kendi başına tıklar, kaydırır ve veri çıkarır; böylece saatler süren manuel işten sizi kurtarır.
+WebBridge, Kimi’ye tarayıcıyı bir insan gibi kullanma yeteneği kazandırır. Ondan bir web sitesindeki son haberleri kontrol edip özetlemesini ya da geçmiş hisse senedi verilerini yerel Excel dosyanıza aktarmasını isteyebilirsiniz. Tıklar, kaydırır ve verileri otonom biçimde çıkarır; böylece saatler sürecek manuel işten tasarruf edersiniz.
 
-## Zamanlanmış görevlerle neler yapabilirim? Bilgisayarım uyku modundaysa çalışırlar mı?
+## Zamanlanmış görevlerle neler yapabilirim? Bilgisayarım uykudayken çalışırlar mı?
 
-Yerleşik Cron zamanlayıcısı LLM Agent çağrılarını, Python/Shell çalıştırmalarını ve daha fazlasını destekler. Görevleri günlük, saatlik ya da koşula bağlı olarak tetikleyebilirsiniz. Görevlerin gece boyunca sorunsuz çalışmasını sağlamak için ayarlarınızda "Bilgisayarı Uyanık Tut" seçeneğini etkinleştirmeniz yeterlidir.
+Zamanlanmış görevler, Kimi’nin belirli bir görevi belirlenen zamanda otomatik olarak çalıştırmasını sağlar — günlük, haftalık, aylık veya tek seferlik (tekrarsız) planlarla. Günlük özetler, haftalık izleme ve dönemsel temizlik işleri için idealdir.
+
+Kimi Work masaüstü uygulamasında zamanlanmış görevler **yerel olarak** çalışır ve yalnızca **uygulama açıkken** yürütülür. Bilgisayarınız uykudayken ya da kapalıyken veya uygulama kapalıyken kaçırılan tetiklemeler, uygulama bir sonraki açılışında **geriye dönük olarak çalıştırılmaz**. Bu nedenle bir görevin gece boyunca çalışmasını istiyorsanız bilgisayarınızı ve Kimi Work uygulamasını açık tutun. (Buna karşılık, Kimi içinde oluşturulan görevler bulutta çalışır ve istemcinin açık kalmasını gerektirmez.)
+
+Ayrıntılar için [Zamanlanmış Görevler](/features/scheduled-tasks) bölümüne bakın.

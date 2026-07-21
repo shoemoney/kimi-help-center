@@ -32,4 +32,8 @@ WebBridge gives Kimi the ability to use a browser like a human. You can tell it 
 
 ## What can I do with scheduled tasks? Do they run if my computer is asleep?
 
-The built-in Cron scheduler supports LLM Agent calls, Python/Shell executions, and more. You can trigger tasks daily, hourly, or conditionally. To ensure tasks run seamlessly overnight, simply toggle the "Keep Computer Awake" option in your settings.
+Scheduled tasks let Kimi automatically run a fixed task at a set time — on a daily, weekly, monthly, or one-time (never repeat) schedule — ideal for daily briefings, weekly monitoring, and periodic clean-ups.
+
+On Kimi Work desktop, scheduled tasks run **locally** and only execute while the **app is open**. Triggers missed while your computer is asleep or shut down, or while the app is closed, are **not run retroactively** the next time it opens. So if you need a task to run overnight, keep your computer and the Kimi Work app running. (By contrast, tasks created in Kimi run in the cloud and don't require the client to stay open.)
+
+See [Scheduled Tasks](/features/scheduled-tasks) for details.

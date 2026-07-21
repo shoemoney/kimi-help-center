@@ -1,7 +1,7 @@
 ---
 title: "账号注销与数据删除"
 slug: "account-deletion"
-order: 1
+order: 2
 extract_headings: true
 preview: true
 preview_content: "Kimi 账号注销的操作步骤与数据删除说明。"

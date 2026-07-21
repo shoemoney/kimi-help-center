@@ -1,7 +1,7 @@
 ---
 title: "Kimi 能做什么？常见问答-能力篇"
 slug: "capability"
-order: 5
+order: 6
 extract_headings: true
 preview: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "如何联系 Kimi 客服？"
 slug: "contact-support"
-order: 8
+order: 1
 extract_headings: true
 preview: false
 ---

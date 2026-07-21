@@ -1,7 +1,7 @@
 ---
 title: "Kimi 会话常见问题"
 slug: "chat-issues"
-order: 4
+order: 5
 extract_headings: true
 preview: true
 preview_content: "Kimi 会话常见问题：发送失败、上下文过长、安全提示与文件下载。"

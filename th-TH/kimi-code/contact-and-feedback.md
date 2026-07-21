@@ -38,11 +38,6 @@ preview_content: "ช่องทางติดต่อและส่งข�
 ### ทางเลือกที่ 4: เข้าร่วมกลุ่ม Feishu
 สแกนโค้ด QR เพื่อเข้าร่วมกลุ่ม Feishu
 
-<Frames
-  src="./images/contact-and-feedback/contact-and-feedback-01.png"
-  alt="โค้ด QR ของกลุ่ม Feishu"
-/>
-
 ## ตรวจสอบเบื้องต้นก่อนส่งข้อเสนอแนะ
 
 ก่อนส่งข้อเสนอแนะ เราแนะนำให้ตรวจสอบสิ่งต่อไปนี้:

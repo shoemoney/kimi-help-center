@@ -22,11 +22,6 @@ Sebelum menggunakan Kimi Code, ada beberapa konsep dasar yang perlu Anda pahami.
 
 Bayangkan terminal sebagai “pengelola file berbasis teks”: alih-alih mengeklik ikon dengan mouse, Anda mengetik perintah seperti `ls`, `cd`, dan `mkdir` untuk melihat isi folder, berpindah direktori, membuat file, dan sebagainya.
 
-<Frames
-  src="./images/preparation/preparation-01.png"
-  alt="Ilustrasi terminal"
-/>
-
 ### Cara membuka terminal
 
 | Sistem operasi | Cara membukanya |
@@ -42,11 +37,6 @@ Bayangkan terminal sebagai “pengelola file berbasis teks”: alih-alih mengekl
 - **Linux**: Jalankan `uname -a` atau `cat /etc/os-release` di terminal
 
 ## Apa itu PowerShell?
-
-<Frames
-  src="./images/preparation/preparation-02.png"
-  alt="Ilustrasi PowerShell"
-/>
 
 **PowerShell** adalah alat terminal yang umum digunakan di Windows. Dibanding Command Prompt (CMD) standar, PowerShell lebih andal. Di Windows, Kimi Code CLI harus dipasang dan digunakan melalui PowerShell.
 
@@ -76,11 +66,6 @@ Saat Kimi Code CLI dimulai, folder saat ini akan digunakan sebagai **direktori k
 
 ## Cara menjalankan perintah
 
-<Frames
-  src="./images/preparation/preparation-03.png"
-  alt="Ilustrasi eksekusi perintah"
-/>
-
 Menjalankan perintah di terminal atau PowerShell itu sederhana:
 
 1. **Salin perintah**: Salin teks perintah dari dokumentasi
@@ -95,11 +80,6 @@ Menjalankan perintah di terminal atau PowerShell itu sederhana:
 > **Tips**: Jika Anda diminta memasukkan kata sandi saat perintah sedang berjalan, terminal tidak akan menampilkan karakter apa pun. Ini adalah mekanisme keamanan yang normal. Cukup ketik kata sandi, lalu tekan Enter.
 
 ## Apa itu CLI?
-
-<Frames
-  src="./images/preparation/preparation-04.png"
-  alt="Ilustrasi terminal"
-/>
 
 **CLI** adalah singkatan dari **C**ommand-**L**ine **I**nterface. Artinya, Anda menggunakan alat dengan mengetikkan perintah teks, bukan mengeklik tombol di antarmuka grafis.
 

@@ -25,11 +25,6 @@ Tugas “Undang teman untuk berlangganan keanggotaan Kimi” saat ini dijeda. Tu
 - Klien Web atau PC: buka bilah sisi kiri, lalu klik “Undang & Dapatkan Hadiah” di bagian bawah.
 - Kimi App: buka bilah sisi, lalu klik “Undang & Dapatkan Hadiah” di bagian “Saya”.
 
-<Frames
-  src="./images/moon-companion-plan/invite-entry-01.png"
-  alt="Klik “Undang & Dapatkan Hadiah” di bilah sisi klien Web / PC atau Kimi App untuk masuk ke halaman kampanye"
-/>
-
 Anda juga dapat bergabung langsung dari [halaman kampanye “Undang & Dapatkan Hadiah”](https://www.kimi.com/mykimi).
 
 Aturan kampanye tersedia di pojok kanan atas halaman kampanye. Tugas, hadiah, dan periode kampanye terbaru yang ditampilkan di halaman kampanye akan berlaku sebagai acuan.

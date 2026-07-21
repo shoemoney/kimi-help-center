@@ -22,11 +22,6 @@ Kimi Codeを使う前に、いくつかの基本概念を理解しておきま�
 
 「文字で操作するファイルマネージャー」と考えると分かりやすいでしょう。ターミナルでは、マウスでアイコンをクリックする代わりに、`ls`、`cd`、`mkdir`などのコマンドを入力して、フォルダの中身を表示したり、ディレクトリを移動したり、ファイルを作成したりできます。
 
-<Frames
-  src="./images/preparation/preparation-01.png"
-  alt="ターミナルのイラスト"
-/>
-
 ### ターミナルを開く方法
 
 | オペレーティングシステム | 開き方 |
@@ -42,11 +37,6 @@ Kimi Codeを使う前に、いくつかの基本概念を理解しておきま�
 - **Linux**: ターミナルで`uname -a`または`cat /etc/os-release`を実行します
 
 ## PowerShellとは？
-
-<Frames
-  src="./images/preparation/preparation-02.png"
-  alt="PowerShellのイラスト"
-/>
 
 **PowerShell**は、Windowsでよく使われるターミナルツールです。標準のコマンドプロンプト（CMD）より高機能です。Windowsでは、Kimi Code CLIのインストールと利用はPowerShellで行う必要があります。
 
@@ -76,11 +66,6 @@ Kimi Code CLIを起動すると、現在開いているフォルダが**作業�
 
 ## コマンドの実行方法
 
-<Frames
-  src="./images/preparation/preparation-03.png"
-  alt="コマンド実行のイラスト"
-/>
-
 ターミナルやPowerShellでコマンドを実行する手順は簡単です。
 
 1. **コマンドをコピーする**: ドキュメントからコマンドのテキストをコピーします
@@ -95,11 +80,6 @@ Kimi Code CLIを起動すると、現在開いているフォルダが**作業�
 > **ヒント**: コマンドの実行中にパスワードの入力を求められた場合、ターミナルには何も表示されません。これは通常のセキュリティ機構です。そのままパスワードを入力し、Enterを押してください。
 
 ## CLIとは？
-
-<Frames
-  src="./images/preparation/preparation-04.png"
-  alt="ターミナルのイラスト"
-/>
 
 **CLI**は、**C**ommand-**L**ine **I**nterfaceの略です。グラフィカルな画面でボタンをクリックする代わりに、文字のコマンドを入力してツールを操作する方式を指します。
 

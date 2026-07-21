@@ -38,11 +38,6 @@ Você também pode enviar um e-mail para a equipe do Kimi Code em [code@moonshot
 ### Opção 4: entrar no grupo do Feishu
 Escaneie o QR code para entrar no grupo do Feishu
 
-<Frames
-  src="./images/contact-and-feedback/contact-and-feedback-01.png"
-  alt="QR code do grupo do Feishu"
-/>
-
 ## Solução de problemas antes de enviar feedback
 
 Antes de enviar feedback, recomendamos verificar o seguinte:

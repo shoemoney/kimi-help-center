@@ -22,11 +22,6 @@ Una **terminal** es una ventana desde la que controlas tu computadora escribiend
 
 Puedes verla como un “administrador de archivos basado en texto”: en una terminal, en lugar de hacer clic en íconos con el mouse, escribes comandos como `ls`, `cd` y `mkdir` para ver el contenido de carpetas, cambiar de directorio, crear archivos y más.
 
-<Frames
-  src="./images/preparation/preparation-01.png"
-  alt="Ilustración de una terminal"
-/>
-
 ### Cómo abrir una terminal
 
 | Sistema operativo | Cómo abrirla |
@@ -42,11 +37,6 @@ Puedes verla como un “administrador de archivos basado en texto”: en una ter
 - **Linux**: Ejecuta `uname -a` o `cat /etc/os-release` en la terminal
 
 ## ¿Qué es PowerShell?
-
-<Frames
-  src="./images/preparation/preparation-02.png"
-  alt="Ilustración de PowerShell"
-/>
 
 **PowerShell** es una herramienta de terminal de uso común en Windows. Es más potente que el símbolo del sistema estándar (CMD). En Windows, Kimi Code CLI debe instalarse y usarse en PowerShell.
 
@@ -76,11 +66,6 @@ Cuando Kimi Code CLI se inicia, usa tu carpeta actual como **directorio de traba
 
 ## Cómo ejecutar comandos
 
-<Frames
-  src="./images/preparation/preparation-03.png"
-  alt="Ilustración de ejecución de comandos"
-/>
-
 Ejecutar comandos en una terminal o en PowerShell es sencillo:
 
 1. **Copia el comando**: Copia el texto del comando desde la documentación
@@ -95,11 +80,6 @@ Ejecutar comandos en una terminal o en PowerShell es sencillo:
 > **Consejo**: Si se te pide ingresar una contraseña mientras se ejecuta un comando, la terminal no mostrará ningún carácter. Es un mecanismo de seguridad normal. Simplemente escribe la contraseña y presiona Enter.
 
 ## ¿Qué es CLI?
-
-<Frames
-  src="./images/preparation/preparation-04.png"
-  alt="Ilustración de una terminal"
-/>
 
 **CLI** significa **C**ommand-**L**ine **I**nterface. Consiste en usar una herramienta escribiendo comandos de texto en lugar de hacer clic en botones dentro de una interfaz gráfica.
 

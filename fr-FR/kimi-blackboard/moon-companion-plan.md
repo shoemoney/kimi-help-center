@@ -25,11 +25,6 @@ La tâche « Inviter des amis à souscrire un abonnement Kimi » est actuellemen
 - Web ou client PC : ouvrez la barre latérale gauche, puis cliquez sur « Inviter et gagner des récompenses » en bas.
 - Kimi App : ouvrez la barre latérale, puis cliquez sur « Inviter et gagner des récompenses » dans la section « Moi ».
 
-<Frames
-  src="./images/moon-companion-plan/invite-entry-01.png"
-  alt="Cliquez sur « Inviter et gagner des récompenses » dans la barre latérale du client Web / PC ou de Kimi App pour accéder à la page de la campagne"
-/>
-
 Vous pouvez également y accéder directement depuis la [page de campagne « Inviter et gagner des récompenses »](https://www.kimi.com/mykimi).
 
 Les règles de la campagne sont disponibles dans l’angle supérieur droit de la page. Les tâches, lots et dates de campagne les plus récents affichés sur la page de la campagne font foi.

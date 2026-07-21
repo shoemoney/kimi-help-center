@@ -38,11 +38,6 @@ Vous pouvez également écrire à l’équipe Kimi Code à l’adresse [code@moo
 ### Option 4 : Rejoindre le groupe Feishu
 Scannez le QR code pour rejoindre le groupe Feishu
 
-<Frames
-  src="./images/contact-and-feedback/contact-and-feedback-01.png"
-  alt="QR code du groupe Feishu"
-/>
-
 ## Vérifications avant d’envoyer un retour
 
 Avant d’envoyer votre retour, nous vous recommandons de vérifier les points suivants :

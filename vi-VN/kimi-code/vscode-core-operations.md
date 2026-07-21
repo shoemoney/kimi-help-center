@@ -22,11 +22,6 @@ Kimi Code cho VS Code hiện chỉ cho phép người dùng CLI Python cũ cài 
 
 ## Mở bảng điều khiển
 
-<Frames
-  src="./images/vscode-getting-started/kimi-code-command-palette.png"
-  alt="Bảng lệnh Kimi Code"
-/>
-
 Nhấp vào biểu tượng Kimi trên Thanh Hoạt động, hoặc chạy lệnh "Kimi Code" từ Bảng lệnh.
 
 ## Nhập liệu và điều khiển

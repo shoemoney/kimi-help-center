@@ -38,11 +38,6 @@ Anda juga dapat mengirim email kepada tim Kimi Code di [code@moonshot.ai](mailto
 ### Opsi 4: Bergabung dengan grup Feishu
 Pindai kode QR untuk bergabung dengan grup Feishu
 
-<Frames
-  src="./images/contact-and-feedback/contact-and-feedback-01.png"
-  alt="Kode QR grup Feishu"
-/>
-
 ## Pemecahan masalah sebelum mengirim umpan balik
 
 Sebelum mengirim umpan balik, sebaiknya periksa hal-hal berikut:

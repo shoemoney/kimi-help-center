@@ -22,11 +22,6 @@ Ein **Terminal** ist ein Fenster, in dem Sie Ihren Computer über Texteingaben s
 
 Sie können es sich wie einen „textbasierten Dateimanager“ vorstellen: Statt Symbole mit der Maus anzuklicken, geben Sie im Terminal Befehle wie `ls`, `cd` und `mkdir` ein, um Ordnerinhalte anzuzeigen, Verzeichnisse zu wechseln, Dateien zu erstellen und vieles mehr.
 
-<Frames
-  src="./images/preparation/preparation-01.png"
-  alt="Terminal-Abbildung"
-/>
-
 ### So öffnen Sie ein Terminal
 
 | Betriebssystem | So öffnen Sie es |
@@ -42,11 +37,6 @@ Sie können es sich wie einen „textbasierten Dateimanager“ vorstellen: Statt
 - **Linux**: Führen Sie im Terminal `uname -a` oder `cat /etc/os-release` aus
 
 ## Was ist PowerShell?
-
-<Frames
-  src="./images/preparation/preparation-02.png"
-  alt="PowerShell-Abbildung"
-/>
 
 **PowerShell** ist ein häufig verwendetes Terminal-Werkzeug unter Windows. Es ist leistungsfähiger als die klassische Eingabeaufforderung (CMD). Unter Windows muss Kimi Code CLI in PowerShell installiert und verwendet werden.
 
@@ -76,11 +66,6 @@ Wenn Kimi Code CLI startet, verwendet es Ihren aktuellen Ordner als **Arbeitsver
 
 ## Befehle ausführen
 
-<Frames
-  src="./images/preparation/preparation-03.png"
-  alt="Abbildung zur Befehlsausführung"
-/>
-
 Befehle im Terminal oder in PowerShell auszuführen ist einfach:
 
 1. **Befehl kopieren**: Kopieren Sie den Befehlstext aus der Dokumentation
@@ -95,11 +80,6 @@ Befehle im Terminal oder in PowerShell auszuführen ist einfach:
 > **Tipp**: Wenn Sie während der Ausführung eines Befehls aufgefordert werden, ein Passwort einzugeben, zeigt das Terminal keine Zeichen an. Das ist ein normaler Sicherheitsmechanismus. Geben Sie das Passwort einfach ein und drücken Sie die Eingabetaste.
 
 ## Was ist CLI?
-
-<Frames
-  src="./images/preparation/preparation-04.png"
-  alt="Terminal-Abbildung"
-/>
 
 **CLI** steht für **C**ommand-**L**ine **I**nterface. Gemeint ist die Bedienung eines Werkzeugs über Texteingaben statt über Schaltflächen in einer grafischen Oberfläche.
 

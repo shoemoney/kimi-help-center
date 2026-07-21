@@ -25,11 +25,6 @@ The “Invite friends to subscribe to Kimi membership” task is currently pause
 - Web or PC client: open the left sidebar and click “Invite & Earn Rewards” at the bottom.
 - Kimi App: open the sidebar and click “Invite & Earn Rewards” in the “My” section.
 
-<Frames
-  src="./images/moon-companion-plan/invite-entry-01.png"
-  alt="Click “Invite & Earn Rewards” in the sidebar of the Web / PC client or Kimi App to enter the campaign page"
-/>
-
 You can also join directly from the [“Invite & Earn Rewards” campaign page](https://www.kimi.com/mykimi).
 
 Campaign rules are available in the upper-right corner of the campaign page. The latest tasks, prizes, and campaign period shown on the campaign page shall prevail.

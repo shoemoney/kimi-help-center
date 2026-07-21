@@ -25,11 +25,6 @@ Kimi Moon Companion Plan, Kimi kullanıcılarına yönelik bir arkadaş daveti k
 - Web veya PC istemcisi: sol kenar çubuğunu açın ve alttaki “Davet Et ve Ödül Kazan” seçeneğine tıklayın.
 - Kimi App: kenar çubuğunu açın ve “Benim” bölümündeki “Davet Et ve Ödül Kazan” seçeneğine tıklayın.
 
-<Frames
-  src="./images/moon-companion-plan/invite-entry-01.png"
-  alt="Kampanya sayfasına girmek için Web / PC istemcisi veya Kimi App kenar çubuğunda “Davet Et ve Ödül Kazan” seçeneğine tıklayın"
-/>
-
 Ayrıca [“Davet Et ve Ödül Kazan” kampanya sayfasından](https://www.kimi.com/mykimi) doğrudan katılabilirsiniz.
 
 Kampanya kuralları, kampanya sayfasının sağ üst köşesinde yer alır. En güncel görevler, ödüller ve kampanya dönemi için kampanya sayfasında gösterilen bilgiler esas alınır.

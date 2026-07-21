@@ -25,11 +25,6 @@ Nhiệm vụ “Mời bạn bè đăng ký gói thành viên Kimi” hiện đan
 - Web hoặc ứng dụng PC: mở thanh bên trái và nhấp vào “Mời bạn bè & Nhận thưởng” ở phía dưới.
 - Kimi App: mở thanh bên và nhấp vào “Mời bạn bè & Nhận thưởng” trong mục “Của tôi”.
 
-<Frames
-  src="./images/moon-companion-plan/invite-entry-01.png"
-  alt="Nhấp vào “Mời bạn bè & Nhận thưởng” trong thanh bên của ứng dụng Web / PC hoặc Kimi App để vào trang chiến dịch"
-/>
-
 Bạn cũng có thể tham gia trực tiếp từ [trang chiến dịch “Mời bạn bè & Nhận thưởng”](https://www.kimi.com/mykimi).
 
 Quy tắc chiến dịch có ở góc trên bên phải của trang chiến dịch. Các nhiệm vụ, giải thưởng và thời gian diễn ra chiến dịch mới nhất hiển thị trên trang chiến dịch sẽ là căn cứ áp dụng.

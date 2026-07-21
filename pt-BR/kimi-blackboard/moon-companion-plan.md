@@ -25,11 +25,6 @@ A tarefa “Convide amigos para assinar a assinatura Kimi” está pausada no mo
 - Web ou cliente para PC: abra a barra lateral esquerda e clique em “Convide e ganhe recompensas” na parte inferior.
 - Kimi App: abra a barra lateral e clique em “Convide e ganhe recompensas” na seção “Meu”.
 
-<Frames
-  src="./images/moon-companion-plan/invite-entry-01.png"
-  alt="Clique em “Convide e ganhe recompensas” na barra lateral da Web / cliente para PC ou do Kimi App para entrar na página da campanha"
-/>
-
 Você também pode participar diretamente pela [página da campanha “Convide e ganhe recompensas”](https://www.kimi.com/mykimi).
 
 As regras da campanha ficam disponíveis no canto superior direito da página da campanha. As tarefas, os prêmios e o período da campanha exibidos na página da campanha em sua versão mais recente prevalecem.

@@ -38,11 +38,6 @@ You can also email the Kimi Code team at [code@moonshot.ai](mailto:code@moonshot
 ### Option 4: Join the Feishu group
 Scan the QR code to join the Feishu group
 
-<Frames
-  src="./images/contact-and-feedback/contact-and-feedback-01.png"
-  alt="Feishu group QR code"
-/>
-
 ## Troubleshooting before submitting feedback
 
 Before submitting feedback, we recommend checking the following:

@@ -38,11 +38,6 @@ Sorunları bildirmek için Kimi Code ekibine [code@moonshot.ai](mailto:code@moon
 ### Seçenek 4: Feishu grubuna katılın
 Feishu grubuna katılmak için QR kodunu tarayın
 
-<Frames
-  src="./images/contact-and-feedback/contact-and-feedback-01.png"
-  alt="Feishu grubu QR kodu"
-/>
-
 ## Geri bildirim göndermeden önce kontrol edilecekler
 
 Geri bildirim göndermeden önce şunları kontrol etmenizi öneririz:

@@ -22,11 +22,6 @@ VS Code 版 Kimi Code は現在、従来の Python CLI ユーザーに限り新�
 
 ## パネルを開く
 
-<Frames
-  src="./images/vscode-getting-started/kimi-code-command-palette.png"
-  alt="Kimi Code コマンドパレット"
-/>
-
 アクティビティバーの Kimi アイコンをクリックするか、コマンドパレットから「Kimi Code」コマンドを実行します。
 
 ## 入力と操作

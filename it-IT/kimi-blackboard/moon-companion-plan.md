@@ -25,11 +25,6 @@ L’attività “Invita amici ad abbonarsi a Kimi” è attualmente sospesa. L�
 - Web o client PC: apri la barra laterale sinistra e fai clic su “Invita e guadagna premi” in basso.
 - App Kimi: apri la barra laterale e fai clic su “Invita e guadagna premi” nella sezione “Il mio”.
 
-<Frames
-  src="./images/moon-companion-plan/invite-entry-01.png"
-  alt="Fai clic su “Invita e guadagna premi” nella barra laterale del client Web / PC o dell’app Kimi per accedere alla pagina della campagna"
-/>
-
 Puoi partecipare anche direttamente dalla [pagina della campagna “Invita e guadagna premi”](https://www.kimi.com/mykimi).
 
 Le regole della campagna sono disponibili nell’angolo in alto a destra della pagina. Fanno fede le attività, i premi e il periodo della campagna più recenti mostrati nella pagina della campagna.

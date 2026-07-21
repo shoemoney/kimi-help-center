@@ -38,11 +38,6 @@ Kimi Code CLI のインタラクティブモードで `/feedback` コマンド�
 ### 方法 4: Feishu グループに参加する
 QR コードをスキャンして Feishu グループに参加してください
 
-<Frames
-  src="./images/contact-and-feedback/contact-and-feedback-01.png"
-  alt="Feishu グループの QR コード"
-/>
-
 ## フィードバック送信前の確認事項
 
 フィードバックを送信する前に、以下をご確認ください。

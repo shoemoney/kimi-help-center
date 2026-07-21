@@ -22,11 +22,6 @@ Kimi Code'u kullanmadan önce birkaç temel kavramı bilmeniz gerekir. Bunlar, K
 
 Bunu “metin tabanlı dosya yöneticisi” gibi düşünebilirsiniz: terminalde klasör içeriklerini görüntülemek, dizin değiştirmek, dosya oluşturmak ve benzeri işlemler için fareyle simgelere tıklamak yerine `ls`, `cd`, `mkdir` gibi komutlar yazarsınız.
 
-<Frames
-  src="./images/preparation/preparation-01.png"
-  alt="Terminal görseli"
-/>
-
 ### Terminal nasıl açılır?
 
 | İşletim sistemi | Nasıl açılır? |
@@ -42,11 +37,6 @@ Bunu “metin tabanlı dosya yöneticisi” gibi düşünebilirsiniz: terminalde
 - **Linux**: Terminalde `uname -a` veya `cat /etc/os-release` komutunu çalıştırın
 
 ## PowerShell nedir?
-
-<Frames
-  src="./images/preparation/preparation-02.png"
-  alt="PowerShell görseli"
-/>
 
 **PowerShell**, Windows'ta yaygın kullanılan bir terminal aracıdır. Standart Komut İstemi'nden (CMD) daha güçlüdür. Windows'ta Kimi Code CLI, PowerShell içinde kurulmalı ve kullanılmalıdır.
 
@@ -76,11 +66,6 @@ Kimi Code CLI başladığında, o an bulunduğunuz klasörü **çalışma dizini
 
 ## Komutlar nasıl çalıştırılır?
 
-<Frames
-  src="./images/preparation/preparation-03.png"
-  alt="Komut çalıştırma görseli"
-/>
-
 Terminalde veya PowerShell'de komut çalıştırmak basittir:
 
 1. **Komutu kopyalayın**: Komut metnini dokümantasyondan kopyalayın
@@ -95,11 +80,6 @@ Terminalde veya PowerShell'de komut çalıştırmak basittir:
 > **İpucu**: Bir komut çalışırken parola girmeniz istenirse terminal hiçbir karakter göstermez. Bu normal bir güvenlik mekanizmasıdır. Parolayı yazıp Enter'a basmanız yeterlidir.
 
 ## CLI nedir?
-
-<Frames
-  src="./images/preparation/preparation-04.png"
-  alt="Terminal görseli"
-/>
 
 **CLI**, **C**ommand-**L**ine **I**nterface ifadesinin kısaltmasıdır. Grafik arayüzde düğmelere tıklamak yerine metin komutları yazarak bir aracı kullanmak anlamına gelir.
 

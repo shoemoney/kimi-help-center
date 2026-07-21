@@ -38,11 +38,6 @@ Puoi anche scrivere al team di Kimi Code all’indirizzo [code@moonshot.ai](mail
 ### Opzione 4: unisciti al gruppo Feishu
 Scansiona il codice QR per unirti al gruppo Feishu
 
-<Frames
-  src="./images/contact-and-feedback/contact-and-feedback-01.png"
-  alt="Codice QR del gruppo Feishu"
-/>
-
 ## Controlli preliminari prima di inviare feedback
 
 Prima di inviare un feedback, ti consigliamo di verificare quanto segue:

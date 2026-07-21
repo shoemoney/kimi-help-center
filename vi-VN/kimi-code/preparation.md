@@ -22,11 +22,6 @@ Trước khi dùng Kimi Code, bạn cần nắm một vài khái niệm cơ bả
 
 Bạn có thể hình dung terminal như một “trình quản lý tệp bằng văn bản”: thay vì nhấp chuột vào các biểu tượng, bạn nhập các lệnh như `ls`, `cd` và `mkdir` để xem nội dung thư mục, chuyển thư mục, tạo tệp, v.v.
 
-<Frames
-  src="./images/preparation/preparation-01.png"
-  alt="Minh họa terminal"
-/>
-
 ### Cách mở terminal
 
 | Hệ điều hành | Cách mở |
@@ -42,11 +37,6 @@ Bạn có thể hình dung terminal như một “trình quản lý tệp bằng
 - **Linux**: Chạy `uname -a` hoặc `cat /etc/os-release` trong terminal
 
 ## PowerShell là gì?
-
-<Frames
-  src="./images/preparation/preparation-02.png"
-  alt="Minh họa PowerShell"
-/>
 
 **PowerShell** là một công cụ terminal thường dùng trên Windows. Công cụ này mạnh hơn Command Prompt (CMD) tiêu chuẩn. Trên Windows, Kimi Code CLI phải được cài đặt và sử dụng trong PowerShell.
 
@@ -76,11 +66,6 @@ Khi Kimi Code CLI khởi động, công cụ sẽ dùng thư mục hiện tại 
 
 ## Cách chạy lệnh
 
-<Frames
-  src="./images/preparation/preparation-03.png"
-  alt="Minh họa thực thi lệnh"
-/>
-
 Chạy lệnh trong terminal hoặc PowerShell rất đơn giản:
 
 1. **Sao chép lệnh**: Sao chép nội dung lệnh từ tài liệu
@@ -95,11 +80,6 @@ Chạy lệnh trong terminal hoặc PowerShell rất đơn giản:
 > **Mẹo**: Nếu bạn được yêu cầu nhập mật khẩu trong lúc lệnh đang chạy, terminal sẽ không hiển thị bất kỳ ký tự nào. Đây là cơ chế bảo mật bình thường. Bạn chỉ cần nhập mật khẩu rồi nhấn Enter.
 
 ## CLI là gì?
-
-<Frames
-  src="./images/preparation/preparation-04.png"
-  alt="Minh họa terminal"
-/>
 
 **CLI** là viết tắt của **C**ommand-**L**ine **I**nterface. Thuật ngữ này chỉ cách sử dụng công cụ bằng cách nhập lệnh văn bản, thay vì nhấp vào các nút trong giao diện đồ họa.
 

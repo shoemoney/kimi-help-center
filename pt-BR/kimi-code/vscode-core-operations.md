@@ -22,11 +22,6 @@ No momento, o Kimi Code para VS Code está aberto para novas instalações apena
 
 ## Abrir o painel
 
-<Frames
-  src="./images/vscode-getting-started/kimi-code-command-palette.png"
-  alt="Paleta de Comandos do Kimi Code"
-/>
-
 Clique no ícone do Kimi na Barra de Atividades ou execute o comando "Kimi Code" pela Paleta de Comandos.
 
 ## Entrada e controles

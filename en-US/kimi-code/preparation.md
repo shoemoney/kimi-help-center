@@ -22,11 +22,6 @@ A **terminal** is a window where you operate your computer by typing text comman
 
 You can think of it as a “text-based file manager”: in a terminal, instead of clicking icons with your mouse, you type commands such as `ls`, `cd`, and `mkdir` to view folder contents, switch directories, create files, and more.
 
-<Frames
-  src="./images/preparation/preparation-01.png"
-  alt="Terminal illustration"
-/>
-
 ### How to open a terminal
 
 | Operating system | How to open it |
@@ -42,11 +37,6 @@ You can think of it as a “text-based file manager”: in a terminal, instead o
 - **Linux**: Run `uname -a` or `cat /etc/os-release` in the terminal
 
 ## What is PowerShell?
-
-<Frames
-  src="./images/preparation/preparation-02.png"
-  alt="PowerShell illustration"
-/>
 
 **PowerShell** is a commonly used terminal tool on Windows. It is more powerful than the standard Command Prompt (CMD). On Windows, Kimi Code CLI must be installed and used in PowerShell.
 
@@ -76,11 +66,6 @@ When Kimi Code CLI starts, it uses your current folder as the **working director
 
 ## How to run commands
 
-<Frames
-  src="./images/preparation/preparation-03.png"
-  alt="Command execution illustration"
-/>
-
 Running commands in a terminal or PowerShell is simple:
 
 1. **Copy the command**: Copy the command text from the documentation
@@ -95,11 +80,6 @@ Running commands in a terminal or PowerShell is simple:
 > **Tip**: If you are asked to enter a password while a command is running, the terminal will not display any characters. This is a normal security mechanism. Just type the password and press Enter.
 
 ## What is CLI?
-
-<Frames
-  src="./images/preparation/preparation-04.png"
-  alt="Terminal illustration"
-/>
 
 **CLI** stands for **C**ommand-**L**ine **I**nterface. It means using a tool by typing text commands instead of clicking buttons in a graphical interface.
 

@@ -22,11 +22,6 @@ description="เรียนรู้ฟีเจอร์หลักของ�
 
 ## เปิดแผง
 
-<Frames
-  src="./images/vscode-getting-started/kimi-code-command-palette.png"
-  alt="Command Palette ของ Kimi Code"
-/>
-
 คลิกไอคอน Kimi ใน Activity Bar หรือเรียกใช้คำสั่ง "Kimi Code" จาก Command Palette
 
 ## การป้อนข้อมูลและการควบคุม

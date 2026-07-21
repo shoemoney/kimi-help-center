@@ -38,11 +38,6 @@ Bạn cũng có thể gửi email cho đội ngũ Kimi Code qua [code@moonshot.a
 ### Cách 4: Tham gia nhóm Feishu
 Quét mã QR để tham gia nhóm Feishu
 
-<Frames
-  src="./images/contact-and-feedback/contact-and-feedback-01.png"
-  alt="Mã QR nhóm Feishu"
-/>
-
 ## Kiểm tra trước khi gửi phản hồi
 
 Trước khi gửi phản hồi, bạn nên kiểm tra các mục sau:

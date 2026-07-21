@@ -25,11 +25,6 @@ Die Aufgabe „Freunde einladen, eine Kimi-Mitgliedschaft zu abonnieren“ ist d
 - Web oder PC-Client: Öffne die linke Seitenleiste und klicke unten auf „Einladen & Prämien verdienen“.
 - Kimi App: Öffne die Seitenleiste und klicke im Bereich „Mein“ auf „Einladen & Prämien verdienen“.
 
-<Frames
-  src="./images/moon-companion-plan/invite-entry-01.png"
-  alt="Klicke in der Seitenleiste des Web-/PC-Clients oder der Kimi App auf „Einladen & Prämien verdienen“, um die Aktionsseite zu öffnen"
-/>
-
 Du kannst auch direkt über die Aktionsseite [„Einladen & Prämien verdienen“](https://www.kimi.com/mykimi) teilnehmen.
 
 Die Aktionsregeln findest du oben rechts auf der Aktionsseite. Maßgeblich sind die neuesten Aufgaben, Preise und der Aktionszeitraum, die auf der Aktionsseite angezeigt werden.

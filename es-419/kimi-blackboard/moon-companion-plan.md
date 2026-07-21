@@ -25,11 +25,6 @@ La tarea “Invitar amigos a suscribirse a la membresía de Kimi” está pausad
 - Web o cliente para PC: abre la barra lateral izquierda y haz clic en “Invita y gana recompensas” en la parte inferior.
 - Kimi App: abre la barra lateral y haz clic en “Invita y gana recompensas” en la sección “Mi”.
 
-<Frames
-  src="./images/moon-companion-plan/invite-entry-01.png"
-  alt="Haz clic en “Invita y gana recompensas” en la barra lateral del cliente Web / PC o de Kimi App para entrar a la página de la campaña"
-/>
-
 También puedes unirte directamente desde la [página de la campaña “Invita y gana recompensas”](https://www.kimi.com/mykimi).
 
 Las reglas de la campaña están disponibles en la esquina superior derecha de la página de la campaña. Prevalecerán las tareas, premios y periodo de campaña más recientes que se muestren en esa página.

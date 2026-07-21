@@ -22,11 +22,6 @@ Kimi Code untuk VS Code saat ini hanya terbuka untuk pemasangan baru bagi penggu
 
 ## Buka panel
 
-<Frames
-  src="./images/vscode-getting-started/kimi-code-command-palette.png"
-  alt="Palette Perintah Kimi Code"
-/>
-
 Klik ikon Kimi di Bilah Aktivitas, atau jalankan perintah "Kimi Code" dari Palette Perintah.
 
 ## Input dan kontrol

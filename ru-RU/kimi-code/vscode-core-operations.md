@@ -22,11 +22,6 @@ description="Освойте ключевые возможности расшир
 
 ## Открыть панель
 
-<Frames
-  src="./images/vscode-getting-started/kimi-code-command-palette.png"
-  alt="Палитра команд Kimi Code"
-/>
-
 Нажмите значок Kimi на панели активности или выполните команду "Kimi Code" из палитры команд.
 
 ## Ввод и элементы управления

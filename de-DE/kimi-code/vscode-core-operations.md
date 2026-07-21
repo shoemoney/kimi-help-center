@@ -22,11 +22,6 @@ Kimi Code für VS Code kann derzeit nur von Nutzern der bisherigen Python-CLI ne
 
 ## Bereich öffnen
 
-<Frames
-  src="./images/vscode-getting-started/kimi-code-command-palette.png"
-  alt="Kimi Code-Befehlspalette"
-/>
-
 Klicken Sie auf das Kimi-Symbol in der Activity Bar oder führen Sie den Befehl "Kimi Code" über die Befehlspalette aus.
 
 ## Eingabe und Steuerung

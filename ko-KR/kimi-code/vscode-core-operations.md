@@ -22,11 +22,6 @@ description="Kimi Code VS Code 확장의 핵심 기능을 익혀 보세요. @ �
 
 ## 패널 열기
 
-<Frames
-  src="./images/vscode-getting-started/kimi-code-command-palette.png"
-  alt="Kimi Code 명령 팔레트"
-/>
-
 Activity Bar에서 Kimi 아이콘을 클릭하거나 Command Palette에서 "Kimi Code" 명령을 실행하세요.
 
 ## 입력 및 컨트롤

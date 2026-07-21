@@ -22,11 +22,6 @@ Un **terminal** est une fenêtre qui vous permet de piloter votre ordinateur en 
 
 Vous pouvez l’imaginer comme un « gestionnaire de fichiers en mode texte » : dans un terminal, au lieu de cliquer sur des icônes avec la souris, vous tapez des commandes comme `ls`, `cd` ou `mkdir` pour afficher le contenu d’un dossier, changer de répertoire, créer des fichiers, etc.
 
-<Frames
-  src="./images/preparation/preparation-01.png"
-  alt="Illustration du terminal"
-/>
-
 ### Comment ouvrir un terminal
 
 | Système d’exploitation | Comment l’ouvrir |
@@ -42,11 +37,6 @@ Vous pouvez l’imaginer comme un « gestionnaire de fichiers en mode texte » :
 - **Linux** : exécutez `uname -a` ou `cat /etc/os-release` dans le terminal
 
 ## Qu’est-ce que PowerShell ?
-
-<Frames
-  src="./images/preparation/preparation-02.png"
-  alt="Illustration de PowerShell"
-/>
 
 **PowerShell** est un outil de terminal couramment utilisé sous Windows. Il est plus puissant que l’invite de commandes standard (CMD). Sous Windows, Kimi Code CLI doit être installé et utilisé dans PowerShell.
 
@@ -76,11 +66,6 @@ Au démarrage, Kimi Code CLI utilise votre dossier actuel comme **répertoire de
 
 ## Comment exécuter des commandes
 
-<Frames
-  src="./images/preparation/preparation-03.png"
-  alt="Illustration de l’exécution d’une commande"
-/>
-
 Exécuter des commandes dans un terminal ou dans PowerShell est simple :
 
 1. **Copiez la commande** : copiez le texte de la commande depuis la documentation
@@ -95,11 +80,6 @@ Exécuter des commandes dans un terminal ou dans PowerShell est simple :
 > **Conseil** : si un mot de passe vous est demandé pendant l’exécution d’une commande, le terminal n’affichera aucun caractère. C’est un mécanisme de sécurité normal. Saisissez simplement le mot de passe, puis appuyez sur Entrée.
 
 ## Qu’est-ce que la CLI ?
-
-<Frames
-  src="./images/preparation/preparation-04.png"
-  alt="Illustration du terminal"
-/>
 
 **CLI** signifie **C**ommand-**L**ine **I**nterface. Cela désigne l’utilisation d’un outil en saisissant des commandes textuelles, plutôt qu’en cliquant sur des boutons dans une interface graphique.
 

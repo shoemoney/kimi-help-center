@@ -22,11 +22,6 @@ Un **terminale** è una finestra in cui controlli il computer digitando comandi 
 
 Puoi immaginarlo come un “gestore di file testuale”: nel terminale, invece di fare clic sulle icone con il mouse, digiti comandi come `ls`, `cd` e `mkdir` per visualizzare il contenuto delle cartelle, spostarti tra le directory, creare file e altro ancora.
 
-<Frames
-  src="./images/preparation/preparation-01.png"
-  alt="Illustrazione del terminale"
-/>
-
 ### Come aprire un terminale
 
 | Sistema operativo | Come aprirlo |
@@ -42,11 +37,6 @@ Puoi immaginarlo come un “gestore di file testuale”: nel terminale, invece d
 - **Linux**: esegui `uname -a` o `cat /etc/os-release` nel terminale
 
 ## Che cos’è PowerShell?
-
-<Frames
-  src="./images/preparation/preparation-02.png"
-  alt="Illustrazione di PowerShell"
-/>
 
 **PowerShell** è uno strumento terminale molto usato su Windows. È più potente del Prompt dei comandi standard (CMD). Su Windows, Kimi Code CLI deve essere installato e utilizzato in PowerShell.
 
@@ -76,11 +66,6 @@ Quando Kimi Code CLI si avvia, usa la cartella corrente come **directory di lavo
 
 ## Come eseguire i comandi
 
-<Frames
-  src="./images/preparation/preparation-03.png"
-  alt="Illustrazione dell’esecuzione dei comandi"
-/>
-
 Eseguire comandi in un terminale o in PowerShell è semplice:
 
 1. **Copia il comando**: copia il testo del comando dalla documentazione
@@ -95,11 +80,6 @@ Eseguire comandi in un terminale o in PowerShell è semplice:
 > **Suggerimento**: se durante l’esecuzione di un comando ti viene chiesto di inserire una password, il terminale non mostrerà alcun carattere. È un normale meccanismo di sicurezza. Digita semplicemente la password e premi Enter.
 
 ## Che cos’è la CLI?
-
-<Frames
-  src="./images/preparation/preparation-04.png"
-  alt="Illustrazione del terminale"
-/>
 
 **CLI** sta per **C**ommand-**L**ine **I**nterface, cioè interfaccia a riga di comando. Significa usare uno strumento digitando comandi testuali invece di fare clic su pulsanti in un’interfaccia grafica.
 

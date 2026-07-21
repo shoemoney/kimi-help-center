@@ -22,11 +22,6 @@ VS Code için Kimi Code şu anda yalnızca eski Python CLI kullanıcılarının 
 
 ## Paneli açma
 
-<Frames
-  src="./images/vscode-getting-started/kimi-code-command-palette.png"
-  alt="Kimi Code Komut Paleti"
-/>
-
 Etkinlik Çubuğu’ndaki Kimi simgesine tıklayın veya Komut Paleti’nden "Kimi Code" komutunu çalıştırın.
 
 ## Giriş ve kontroller

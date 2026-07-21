@@ -118,6 +118,7 @@ Kimi Claw Android 需要以下權限，才能在背景穩定運作。請逐一�
 <Frames
   src="./images/kimi-claw-android-guide/img-33.png"
 />
+
 在 Dashboard 中，你可以管理所有通訊頻道：
 
 - 查看已連接頻道及其狀態（例如 Kimi - 已連線、Feishu - 已連線）
@@ -144,6 +145,7 @@ Kimi Claw Android 需要以下權限，才能在背景穩定運作。請逐一�
 <Frames
   src="./images/kimi-claw-android-guide/img-21.png"
 />
+
 點擊設定進入設定頁面：
 
 **功能層：**
@@ -156,6 +158,7 @@ Kimi Claw Android 需要以下權限，才能在背景穩定運作。請逐一�
 <Frames
   src="./images/kimi-claw-android-guide/backup.png"
 />
+
 - 備份與還原：備份目前 OpenClaw 設定與歷史紀錄，並支援還原過去的設定與紀錄
 - 無障礙服務：監控手機的無障礙服務權限
 - 背景執行權限：監控手機的背景執行權限
@@ -212,6 +215,7 @@ Kimi 是預設通訊頻道，在 Onboarding 流程中完成 Kimi 帳號設定後
 Kimi Claw Android 在 Bot 管理中僅支援編輯 Bot 名稱與刪除 Bot。
 
 ### Feishu
+
 <Frames
   src="./images/kimi-claw-android-guide/img-25.png"
 />
@@ -292,6 +296,7 @@ Kimi Claw Android 的核心能力之一，是控制手機上的應用程式來�
 <Frames
   src="./images/kimi-claw-android-guide/img-18.png"
 />
+
 Kimi Claw Android 內建 ClawHub 技能庫。你可以在設定中管理與安裝技能，為 Claw 擴充更多能力。
 
 適合使用技能的情境：

@@ -75,6 +75,7 @@ When Kimi Code CLI starts, it uses your current folder as the **working director
 > 3. Enter `kimi` to start
 
 ## How to run commands
+
 <Frames
   src="./images/preparation/preparation-03.png"
   alt="Command execution illustration"

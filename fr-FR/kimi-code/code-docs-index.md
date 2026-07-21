@@ -11,6 +11,7 @@ preview_content: "Index complet de la documentation pour Kimi Code CLI, l’exte
   title="Index de la documentation Kimi Code - Centre d’aide Kimi"
   description="Index complet de la documentation Kimi Code, avec des liens vers des tutoriels détaillés et des manuels de référence sur le site officiel de documentation."
 />
+
 # Index de la documentation Kimi Code
 
 Les liens ci-dessous mènent aux pages détaillées du [site officiel de documentation Kimi Code](https://www.kimi.com/code/docs/).

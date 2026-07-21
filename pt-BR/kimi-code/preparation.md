@@ -75,6 +75,7 @@ Quando o Kimi Code CLI é iniciado, ele usa a pasta atual como **diretório de t
 > 3. Digite `kimi` para iniciar
 
 ## Como executar comandos
+
 <Frames
   src="./images/preparation/preparation-03.png"
   alt="Ilustração da execução de comandos"

@@ -75,6 +75,7 @@ Quando Kimi Code CLI si avvia, usa la cartella corrente come **directory di lavo
 > 3. Inserisci `kimi` per avviare
 
 ## Come eseguire i comandi
+
 <Frames
   src="./images/preparation/preparation-03.png"
   alt="Illustrazione dell’esecuzione dei comandi"

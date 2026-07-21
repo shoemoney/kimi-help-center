@@ -75,6 +75,7 @@ Kimi Code CLI가 시작되면 현재 폴더를 **작업 디렉터리**로 사용
 > 3. `kimi`를 입력해 시작합니다
 
 ## 명령을 실행하는 방법
+
 <Frames
   src="./images/preparation/preparation-03.png"
   alt="명령 실행 그림"

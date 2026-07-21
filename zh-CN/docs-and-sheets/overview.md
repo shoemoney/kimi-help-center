@@ -11,6 +11,7 @@ preview_content: "Kimi Docs & Sheets 文档和表格的能力介绍与使用入�
   title="Kimi 文档与表格功能介绍 - Kimi 帮助中心"
   description="了解 Kimi 的智能文档和表格生成功能。AI 自动创建结构化文档、数据表格和分析报告，支持 Word、Excel 等多种格式导出。"
 />
+
 # Kimi Docs & Kimi Sheets：办公能力升级
 
 2026 年 1 月 27 日，Moonshot AI 正式发布了 Kimi K2.5，Kimi Agent 的办公能力迎来重要升级——开始“精通 Office”。

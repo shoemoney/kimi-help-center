@@ -11,6 +11,7 @@ preview_content: "Common Kimi Code use cases and sample prompts."
   title="Common Kimi Code CLI Use Cases - Kimi Help Center"
   description="Explore five typical Kimi Code CLI scenarios: building new features, fixing bugs, understanding project architecture, automating batch tasks, and general research and analysis, with practical sample prompts."
 />
+
 # Common Use Cases
 
 Below are several typical ways to use Kimi Code CLI in day-to-day development. Each scenario includes sample prompts for reference.

@@ -118,6 +118,7 @@ If a permission reminder appears at the top of the Dashboard, it indicates that 
 <Frames
   src="./images/kimi-claw-android-guide/img-33.png"
 />
+
 In the Dashboard, you can manage all communication channels:
 
 - View connected channels and their statuses (e.g., Kimi - Connected, Feishu - Connected)
@@ -144,6 +145,7 @@ Please keep at least one chat channel to ensure normal communication with Kimi C
 <Frames
   src="./images/kimi-claw-android-guide/img-21.png"
 />
+
 Click Settings to enter the settings page:
 
 **Functional Layer:**
@@ -156,6 +158,7 @@ Click Settings to enter the settings page:
 <Frames
   src="./images/kimi-claw-android-guide/backup.png"
 />
+
 - Backup & Restore: Back up the current OpenClaw configuration and history, and support restoring past configurations and records
 - Accessibility Service: Monitor the accessibility service permissions of the mobile phone
 - Background running permission: Monitor the background running permission of the mobile phone
@@ -212,6 +215,7 @@ After installation and configuration are completed, your Kimi Claw Android will 
 Kimi Claw Android only supports editing Bot name and deleting Bot in Bot management.
 
 ### Feishu
+
 <Frames
   src="./images/kimi-claw-android-guide/img-25.png"
 />
@@ -292,6 +296,7 @@ After the configuration is completed, you can send commands to Claw in Kimi, Fei
 <Frames
   src="./images/kimi-claw-android-guide/img-18.png"
 />
+
 Kimi Claw Android comes with ClawHub, a built-in skill library. You can manage and install skills in the settings to expand more capabilities for Claw.
 
 Scenarios suitable for using Skills:

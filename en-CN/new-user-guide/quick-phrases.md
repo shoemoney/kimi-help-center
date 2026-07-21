@@ -11,6 +11,7 @@ preview_content: "Set up common phrase shortcuts to send frequently used prompts
   title="Kimi Quick Commands Guide - Kimi Help Center"
   description="Learn how to use Kimi’s built-in quick commands to trigger common actions with one click, improve everyday efficiency, and streamline frequent interactions."
 />
+
 # Common Phrases
 
 Common Phrases is a quick prompting feature from Kimi. It lets you save prompts you use often and call them up with one click in any conversation, so you don’t have to type them again and again.

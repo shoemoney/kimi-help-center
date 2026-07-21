@@ -11,6 +11,7 @@ preview_content: "Indeks dokumentasi lengkap untuk Kimi Code CLI, ekstensi VS Co
   title="Indeks Dokumentasi Kimi Code - Pusat Bantuan Kimi"
   description="Indeks dokumentasi Kimi Code yang lengkap, berisi tautan ke tutorial terperinci dan manual referensi di situs dokumentasi resmi."
 />
+
 # Indeks Dokumentasi Kimi Code
 
 Tautan di bawah ini mengarah ke halaman terperinci di [situs dokumentasi resmi Kimi Code](https://www.kimi.com/code/docs/).

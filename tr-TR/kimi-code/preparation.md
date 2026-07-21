@@ -75,6 +75,7 @@ Kimi Code CLI başladığında, o an bulunduğunuz klasörü **çalışma dizini
 > 3. Başlatmak için `kimi` yazın
 
 ## Komutlar nasıl çalıştırılır?
+
 <Frames
   src="./images/preparation/preparation-03.png"
   alt="Komut çalıştırma görseli"

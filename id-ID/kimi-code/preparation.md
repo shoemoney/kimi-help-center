@@ -75,6 +75,7 @@ Saat Kimi Code CLI dimulai, folder saat ini akan digunakan sebagai **direktori k
 > 3. Ketik `kimi` untuk memulai
 
 ## Cara menjalankan perintah
+
 <Frames
   src="./images/preparation/preparation-03.png"
   alt="Ilustrasi eksekusi perintah"

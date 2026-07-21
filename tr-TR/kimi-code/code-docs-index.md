@@ -11,6 +11,7 @@ preview_content: "Kimi Code CLI, VS Code eklentisi ve üçüncü taraf araçlar 
   title="Kimi Code Dokümantasyon Dizini - Kimi Yardım Merkezi"
   description="Resmî dokümantasyon sitesindeki ayrıntılı eğitimlere ve başvuru kılavuzlarına bağlantılar içeren eksiksiz Kimi Code dokümantasyon dizini."
 />
+
 # Kimi Code Dokümantasyon Dizini
 
 Aşağıdaki bağlantılar, [resmî Kimi Code dokümantasyon sitesindeki](https://www.kimi.com/code/docs/) ayrıntılı sayfalara yönlendirir.

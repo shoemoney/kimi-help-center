@@ -118,6 +118,7 @@ Dashboard の上部に権限リマインダーが表示される場合、一部�
 <Frames
   src="./images/kimi-claw-android-guide/img-33.png"
 />
+
 Dashboard では、すべての通信チャネルを管理できます。
 
 - 接続済みチャネルとその状態を確認する（例: Kimi - 接続済み、Feishu - 接続済み）
@@ -144,6 +145,7 @@ Kimi Claw Android と正常に通信できるよう、少なくとも1つのチ�
 <Frames
   src="./images/kimi-claw-android-guide/img-21.png"
 />
+
 設定をクリックして設定ページに入ります。
 
 **機能レイヤー:**
@@ -156,6 +158,7 @@ Kimi Claw Android と正常に通信できるよう、少なくとも1つのチ�
 <Frames
   src="./images/kimi-claw-android-guide/backup.png"
 />
+
 - バックアップと復元: 現在の OpenClaw 設定と履歴をバックアップし、過去の設定や記録の復元に対応します
 - アクセシビリティサービス: スマートフォンのアクセシビリティサービス権限を監視します
 - バックグラウンド実行権限: スマートフォンのバックグラウンド実行権限を監視します
@@ -212,6 +215,7 @@ Kimi はデフォルトの通信チャネルです。Onboarding プロセスで 
 Kimi Claw Android は、Bot 管理で Bot 名の編集と Bot の削除のみをサポートしています。
 
 ### Feishu
+
 <Frames
   src="./images/kimi-claw-android-guide/img-25.png"
 />
@@ -292,6 +296,7 @@ WeChat、Rednote、Douyin などのプラットフォームで、メッセージ
 <Frames
   src="./images/kimi-claw-android-guide/img-18.png"
 />
+
 Kimi Claw Android には、内蔵スキルライブラリである ClawHub が用意されています。設定でスキルを管理・インストールし、Claw の機能をさらに拡張できます。
 
 Skills の利用に適したシーン:

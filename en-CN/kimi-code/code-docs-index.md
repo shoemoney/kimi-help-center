@@ -11,6 +11,7 @@ preview_content: "Complete documentation index for Kimi Code CLI, VS Code extens
   title="Kimi Code Documentation Index - Kimi Help Center"
   description="Complete Kimi Code documentation index, with links to detailed tutorials and reference manuals on the official docs site."
 />
+
 # Kimi Code Documentation Index
 
 The links below point to detailed pages on the [official Kimi Code documentation site](https://www.kimi.com/code/docs/).

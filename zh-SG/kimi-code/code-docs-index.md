@@ -11,6 +11,7 @@ preview_content: "Kimi Code CLI、VS Code 扩展和第三方工具的完整文�
   title="Kimi Code 文档索引 - Kimi 帮助中心"
   description="Kimi Code 完整文档索引，链接到官方文档站点的详细教程与参考手册。"
 />
+
 # Kimi Code 文档索引
 
 以下链接指向 [Kimi Code 官方文档站点](https://www.kimi.com/code/docs/) 的详细页面。

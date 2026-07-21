@@ -11,6 +11,7 @@ preview_content: "Agent credit billing rules, the two credit pools, and Kimi Cod
   title="Kimi Agent Credit and Billing Rules - Kimi Help Center"
   description="Learn how credits are consumed in Kimi Agent mode, how billing works, and the Agent usage included in each plan. Check your credit usage and allocate it wisely to avoid unexpectedly reaching your limit."
 />
+
 # Agent Credits and Billing
 
 Agent mode is billed using Kimi’s unified credits. Membership benefits for all plans include two credit pools: Kimi Code uses its own dedicated credit pool, while other membership features (Agent, Deep Research, PPT, Docs, Sheets, Kimi Claw, and more) share one credit pool. Credits are deducted based on actual token consumption.

@@ -11,6 +11,7 @@ preview_content: "Kimi Code CLI、VS Code 拡張機能、サードパーティ�
   title="Kimi Code ドキュメント索引 - Kimi ヘルプセンター"
   description="Kimi Code の完全なドキュメント索引です。公式ドキュメントサイトにある詳しいチュートリアルやリファレンスマニュアルへのリンクをまとめています。"
 />
+
 # Kimi Code ドキュメント索引
 
 以下のリンクから、[Kimi Code 公式ドキュメントサイト](https://www.kimi.com/code/docs/)の詳しいページをご覧いただけます。

@@ -75,6 +75,7 @@ Au démarrage, Kimi Code CLI utilise votre dossier actuel comme **répertoire de
 > 3. Saisissez `kimi` pour démarrer
 
 ## Comment exécuter des commandes
+
 <Frames
   src="./images/preparation/preparation-03.png"
   alt="Illustration de l’exécution d’une commande"

@@ -11,6 +11,7 @@ preview_content: "Kimi Claw usage tips: persona configuration, workspace, Skills
   title="Kimi Claw Usage Tips and Best Practices - Kimi Help Center"
   description="Learn efficient ways to use Kimi Claw, including prompt optimization, multi-turn conversation strategies, file handling methods, and more, so you can make the most of your AI Agent assistant."
 />
+
 #  Kimi Claw Usage Tips
 
 Many people think of Kimi Claw as “a tool that can answer questions,” but it is actually more like “a moldable assistant”: set clear rules, and it can take on a different personality and remember it; teach it a method, and it can build a habit; give it a schedule, and it can help move things forward on time.

@@ -118,6 +118,7 @@ Jika pengingat izin muncul di bagian atas Dashboard, itu berarti sebagian izin b
 <Frames
   src="./images/kimi-claw-android-guide/img-33.png"
 />
+
 Di Dashboard, Anda dapat mengelola semua saluran komunikasi:
 
 - Lihat saluran yang terhubung dan statusnya (misalnya, Kimi - Terhubung, Feishu - Terhubung)
@@ -144,6 +145,7 @@ Pertahankan setidaknya satu saluran chat untuk memastikan komunikasi normal deng
 <Frames
   src="./images/kimi-claw-android-guide/img-21.png"
 />
+
 Klik Pengaturan untuk masuk ke halaman pengaturan:
 
 **Lapisan Fungsional:**
@@ -156,6 +158,7 @@ Klik Pengaturan untuk masuk ke halaman pengaturan:
 <Frames
   src="./images/kimi-claw-android-guide/backup.png"
 />
+
 - Cadangkan & Pulihkan: Cadangkan konfigurasi dan riwayat OpenClaw saat ini, serta mendukung pemulihan konfigurasi dan catatan sebelumnya
 - Layanan Aksesibilitas: Pantau izin layanan aksesibilitas ponsel
 - Izin berjalan di latar belakang: Pantau izin berjalan di latar belakang pada ponsel
@@ -212,6 +215,7 @@ Setelah instalasi dan konfigurasi selesai, Kimi Claw Android Anda akan otomatis 
 Kimi Claw Android hanya mendukung pengeditan nama Bot dan penghapusan Bot di manajemen Bot.
 
 ### Feishu
+
 <Frames
   src="./images/kimi-claw-android-guide/img-25.png"
 />
@@ -292,6 +296,7 @@ Setelah konfigurasi selesai, Anda dapat mengirim perintah ke Claw di Kimi, Feish
 <Frames
   src="./images/kimi-claw-android-guide/img-18.png"
 />
+
 Kimi Claw Android dilengkapi ClawHub, pustaka skill bawaan. Anda dapat mengelola dan menginstal skill di pengaturan untuk memperluas lebih banyak kemampuan Claw.
 
 Skenario yang cocok untuk menggunakan Skills:

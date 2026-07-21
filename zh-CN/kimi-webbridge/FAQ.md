@@ -53,6 +53,7 @@ Kimi Claw Desktop 是部署在你本地电脑上的 Kimi Claw。打开 Kimi 桌�
 
 ### 在Windows中安装WebBridge，报错：安装失败
 Kimi WebBridge支持Windows操作系统，可以在Linux环境中运行安装命令：
+
 <CodePreview
   files={[
     {

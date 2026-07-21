@@ -75,6 +75,7 @@ Khi Kimi Code CLI khởi động, công cụ sẽ dùng thư mục hiện tại 
 > 3. Nhập `kimi` để bắt đầu
 
 ## Cách chạy lệnh
+
 <Frames
   src="./images/preparation/preparation-03.png"
   alt="Minh họa thực thi lệnh"

@@ -75,6 +75,7 @@ preview_content: "Главное, что стоит знать перед исп
 > 3. Введите `kimi`, чтобы запустить
 
 ## Как запускать команды
+
 <Frames
   src="./images/preparation/preparation-03.png"
   alt="Иллюстрация выполнения команды"

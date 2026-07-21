@@ -11,6 +11,7 @@ preview_content: "Agent 额度计费规则、两个额度池与 Kimi Code 权益
   title="Kimi Agent 额度与计费规则说明 - Kimi 帮助中心"
   description="了解 Kimi Agent 模式的额度消耗规则、计费方式与套餐包含的 Agent 用量。掌握额度查看方法，合理分配使用量，避免意外触顶。"
 />
+
 # Agent 额度与计费
 
 Agent 模式使用 Kimi 统一额度进行计费。所有套餐的会员权益包含两个额度池：Kimi Code 使用单独额度池，其他会员功能（Agent、深度研究、PPT、文档、表格、Kimi Claw 等）共享一个额度池，额度按实际 token 消耗扣除。

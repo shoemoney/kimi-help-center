@@ -75,6 +75,7 @@ Wenn Kimi Code CLI startet, verwendet es Ihren aktuellen Ordner als **Arbeitsver
 > 3. Geben Sie `kimi` ein, um zu starten
 
 ## Befehle ausführen
+
 <Frames
   src="./images/preparation/preparation-03.png"
   alt="Abbildung zur Befehlsausführung"

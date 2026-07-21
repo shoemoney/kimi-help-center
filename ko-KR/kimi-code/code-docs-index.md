@@ -11,6 +11,7 @@ preview_content: "Kimi Code CLI, VS Code 확장 프로그램, 서드파티 도�
   title="Kimi Code 문서 색인 - Kimi 도움말 센터"
   description="공식 문서 사이트의 자세한 튜토리얼과 참조 매뉴얼 링크를 모은 Kimi Code 전체 문서 색인입니다."
 />
+
 # Kimi Code 문서 색인
 
 아래 링크는 [공식 Kimi Code 문서 사이트](https://www.kimi.com/code/docs/)의 자세한 페이지로 연결됩니다.

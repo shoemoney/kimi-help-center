@@ -11,6 +11,7 @@ preview_content: "Troubleshooting and common configuration issues when the bot d
   title="What if Kimi Claw does not reply in Feishu? - Kimi Help Center"
   description="Not receiving replies from Kimi Claw through your Feishu bot? This article provides Feishu-specific troubleshooting steps, including permission settings and plugin status checks."
 />
+
 # Feishu Bot FAQ
 
 ## What should I do if the bot does not respond when @mentioned in a Feishu group?

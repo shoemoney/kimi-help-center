@@ -118,6 +118,7 @@ Se um lembrete de permissão aparecer na parte superior do Dashboard, isso indic
 <Frames
   src="./images/kimi-claw-android-guide/img-33.png"
 />
+
 No Dashboard, você pode gerenciar todos os canais de comunicação:
 
 - Visualizar canais conectados e seus status (por exemplo, Kimi - Conectado, Feishu - Conectado)
@@ -144,6 +145,7 @@ Mantenha pelo menos um canal de chat para garantir a comunicação normal com o 
 <Frames
   src="./images/kimi-claw-android-guide/img-21.png"
 />
+
 Clique em Configurações para entrar na página de configurações:
 
 **Camada funcional:**
@@ -156,6 +158,7 @@ Clique em Configurações para entrar na página de configurações:
 <Frames
   src="./images/kimi-claw-android-guide/backup.png"
 />
+
 - Backup e restauração: faça backup da configuração e do histórico atuais do OpenClaw, com suporte para restaurar configurações e registros anteriores
 - Serviço de acessibilidade: monitore as permissões do serviço de acessibilidade do telefone celular
 - Permissão para execução em segundo plano: monitore a permissão de execução em segundo plano do telefone celular
@@ -212,6 +215,7 @@ Depois que a instalação e a configuração forem concluídas, seu Kimi Claw An
 O Kimi Claw Android permite apenas editar o nome do bot e excluir o bot no gerenciamento de bot.
 
 ### Feishu
+
 <Frames
   src="./images/kimi-claw-android-guide/img-25.png"
 />
@@ -292,6 +296,7 @@ Depois que a configuração for concluída, você poderá enviar comandos ao Cla
 <Frames
   src="./images/kimi-claw-android-guide/img-18.png"
 />
+
 O Kimi Claw Android vem com ClawHub, uma biblioteca de skills integrada. Você pode gerenciar e instalar skills nas configurações para ampliar as capacidades do Claw.
 
 Cenários adequados para usar Skills:

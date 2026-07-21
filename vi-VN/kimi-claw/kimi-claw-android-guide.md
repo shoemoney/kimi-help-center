@@ -118,6 +118,7 @@ Nếu xuất hiện lời nhắc về quyền ở phía trên Bảng điều khi
 <Frames
   src="./images/kimi-claw-android-guide/img-33.png"
 />
+
 Trong Bảng điều khiển, bạn có thể quản lý tất cả các kênh giao tiếp:
 
 - Xem các kênh đã kết nối và trạng thái của chúng (ví dụ: Kimi - Đã kết nối, Feishu - Đã kết nối)
@@ -144,6 +145,7 @@ Vui lòng giữ ít nhất một kênh trò chuyện để đảm bảo giao ti�
 <Frames
   src="./images/kimi-claw-android-guide/img-21.png"
 />
+
 Nhấn Cài đặt để vào trang cài đặt:
 
 **Lớp chức năng:**
@@ -156,6 +158,7 @@ Nhấn Cài đặt để vào trang cài đặt:
 <Frames
   src="./images/kimi-claw-android-guide/backup.png"
 />
+
 - Sao lưu & Khôi phục: Sao lưu cấu hình và lịch sử OpenClaw hiện tại, đồng thời hỗ trợ khôi phục cấu hình và bản ghi trước đó
 - Dịch vụ trợ năng: Theo dõi quyền dịch vụ trợ năng của điện thoại
 - Quyền chạy nền: Theo dõi quyền chạy nền của điện thoại
@@ -212,6 +215,7 @@ Sau khi hoàn tất cài đặt và cấu hình, Kimi Claw Android của bạn s
 Kimi Claw Android chỉ hỗ trợ chỉnh sửa tên Bot và xóa Bot trong phần quản lý Bot.
 
 ### Feishu
+
 <Frames
   src="./images/kimi-claw-android-guide/img-25.png"
 />
@@ -292,6 +296,7 @@ Sau khi hoàn tất cấu hình, bạn có thể gửi lệnh cho Claw trên Kim
 <Frames
   src="./images/kimi-claw-android-guide/img-18.png"
 />
+
 Kimi Claw Android được tích hợp sẵn ClawHub, một thư viện kỹ năng. Bạn có thể quản lý và cài đặt các kỹ năng trong phần cài đặt để mở rộng thêm khả năng cho Claw.
 
 Các tình huống phù hợp để dùng Skills:

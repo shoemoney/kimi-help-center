@@ -75,6 +75,7 @@ Cuando Kimi Code CLI se inicia, usa tu carpeta actual como **directorio de traba
 > 3. Ingresa `kimi` para iniciar
 
 ## Cómo ejecutar comandos
+
 <Frames
   src="./images/preparation/preparation-03.png"
   alt="Ilustración de ejecución de comandos"

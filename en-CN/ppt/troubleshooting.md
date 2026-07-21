@@ -43,6 +43,7 @@ After the model finishes creating the PPT, the end of the conversation will say 
   src="./images/ppt/pptcard.png"
   alt="image"
 />
+
 If clicking the PPT card does not take you to the editing page, refresh the page and open it again. If it still won’t open, clear your browser cache and try again. 
 
 ### PPT Card Does Not Pop Up Properly

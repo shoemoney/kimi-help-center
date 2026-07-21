@@ -11,6 +11,7 @@ preview_content: "Kimi API billing logic, token pricing, and cost optimization t
   title="Kimi API Pricing and Billing Guide - Kimi Help Center"
   description="View call prices, token billing rules, and billing details for each Kimi API model. Learn input/output token pricing and estimate API usage costs more accurately."
 />
+
 # API Billing Guide
 
 Kimi API is billed by token usage. Prices vary by model and feature.

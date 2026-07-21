@@ -11,6 +11,7 @@ preview_content: "Learn about membership credit refresh cycles, usage priority, 
   title="Kimi Membership Benefit Update Rules - Kimi Help Center"
   description="Learn how Kimi membership benefits are updated, including credit refresh cycles and historical changes, so you can stay up to date with the latest membership policy."
 />
+
 # Member Credit Updates and Usage Rules
 
 The Agent series, Deep Research, PPT, Docs, Sheets, Kimi Claw, and more share a single credit pool, with credits deducted based on actual token consumption; Kimi Code has its own separate credit pool.

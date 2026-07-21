@@ -75,6 +75,7 @@ Windows มีเครื่องมือ “บรรทัดคำสั�
 > 3. พิมพ์ `kimi` เพื่อเริ่มใช้งาน
 
 ## วิธีรันคำสั่ง
+
 <Frames
   src="./images/preparation/preparation-03.png"
   alt="ภาพประกอบการรันคำสั่ง"

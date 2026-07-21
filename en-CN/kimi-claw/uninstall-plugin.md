@@ -11,6 +11,7 @@ preview_content: "How to safely uninstall plugins in Kimi Claw."
   title="How do I uninstall the Kimi Claw plugin? - Kimi Help Center"
   description="Learn the exact steps for uninstalling the Kimi Claw plugin on different platforms, including complete removal methods and precautions for Feishu, browsers, and other environments."
 />
+
 # Uninstall the Kimi plugin
 
 <Callout type="warning">

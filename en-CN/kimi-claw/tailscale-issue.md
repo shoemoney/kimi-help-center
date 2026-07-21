@@ -11,6 +11,7 @@ preview_content: "A DNS fix for Kimi Claw issues caused by Tailscale disconnecti
   title="How to fix Kimi Claw disconnections caused by Tailscale? - Kimi Help Center"
   description="Does Kimi Claw disconnect frequently when you use Tailscale VPN? This article explains connection issues caused by Tailscale overriding DNS and shows how to fix them by adding public DNS servers and enabling Override."
 />
+
 # Tailscale Disconnection
 
 If Kimi Claw disconnects after you configure Tailscale, it is because Tailscale has overridden the system DNS configuration.

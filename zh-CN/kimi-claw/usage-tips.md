@@ -11,6 +11,7 @@ preview_content: "Kimi Claw 使用技巧：人设配置、工作空间、Skills 
   title="Kimi Claw 使用技巧与最佳实践 - Kimi 帮助中心"
   description="掌握 Kimi Claw 的高效使用技巧，包括提示词优化、多轮对话策略、文件处理方法等，充分发挥 AI Agent 助手的能力。"
 />
+
 #  Kimi Claw 使用技巧
 
 很多人把 Kimi Claw 当成“能回答问题的工具”，但实际上它更像一个“可塑的助手”：你说清规则，它就能换一种性格并记住；你教它方法，它就能形成习惯；你给它时间表，它就能按点帮你推进事务。

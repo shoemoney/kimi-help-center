@@ -11,6 +11,7 @@ preview_content: "Installation and configuration instructions for connecting Kim
   title="How to Connect Kimi Claw to Weibo: Configuration Tutorial - Kimi Help Center"
   description="Learn how to configure the Kimi Claw Weibo bot to bring Kimi AI capabilities into Weibo for intelligent interactions and content creation."
 />
+
 # Configure Weibo Claw Assistant
 
 Weibo supports chatting with Kimi Claw through Weibo Claw Assistant. For the official Weibo setup guide, see: [Weibo Claw Assistant Configuration Guide](https://weibo.com/6808810981/QvjZpiZVn).

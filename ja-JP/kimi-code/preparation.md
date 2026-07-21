@@ -75,6 +75,7 @@ Kimi Code CLIを起動すると、現在開いているフォルダが**作業�
 > 3. `kimi`と入力して起動する
 
 ## コマンドの実行方法
+
 <Frames
   src="./images/preparation/preparation-03.png"
   alt="コマンド実行のイラスト"

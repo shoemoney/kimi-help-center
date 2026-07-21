@@ -118,6 +118,7 @@ Kimi Claw Android 需要以下权限，才能在后台稳定运行。请逐项�
 <Frames
   src="./images/kimi-claw-android-guide/img-33.png"
 />
+
 在 Dashboard 中，你可以管理所有通信渠道：
 
 - 查看已连接渠道及其状态（例如：Kimi - 已连接、飞书 - 已连接）
@@ -144,6 +145,7 @@ Kimi Claw Android 需要以下权限，才能在后台稳定运行。请逐项�
 <Frames
   src="./images/kimi-claw-android-guide/img-21.png"
 />
+
 点击设置进入设置页：
 
 **功能层：**
@@ -156,6 +158,7 @@ Kimi Claw Android 需要以下权限，才能在后台稳定运行。请逐项�
 <Frames
   src="./images/kimi-claw-android-guide/backup.png"
 />
+
 - 备份与恢复：备份当前 OpenClaw 配置和历史记录，并支持恢复过去的配置与记录
 - 无障碍服务：监控手机的无障碍服务权限
 - 后台运行权限：监控手机的后台运行权限
@@ -212,6 +215,7 @@ Kimi 是默认通信渠道，在 Onboarding 流程中完成 Kimi 账号配置后
 Kimi Claw Android 在 Bot 管理中仅支持编辑 Bot 名称和删除 Bot。
 
 ### 飞书
+
 <Frames
   src="./images/kimi-claw-android-guide/img-25.png"
 />
@@ -292,6 +296,7 @@ Kimi Claw Android 的核心能力之一，是控制手机上的 App 完成各种
 <Frames
   src="./images/kimi-claw-android-guide/img-18.png"
 />
+
 Kimi Claw Android 内置 ClawHub 技能库。你可以在设置中管理和安装技能，为 Claw 扩展更多能力。
 
 适合使用 Skills 的场景：

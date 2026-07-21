@@ -118,6 +118,7 @@ Kimi Claw Android ต้องใช้สิทธิ์ต่อไปนี�
 <Frames
   src="./images/kimi-claw-android-guide/img-33.png"
 />
+
 ใน Dashboard คุณสามารถจัดการช่องทางสื่อสารทั้งหมดได้:
 
 - ดูช่องทางที่เชื่อมต่อและสถานะของแต่ละช่องทาง (เช่น Kimi - เชื่อมต่อแล้ว, Feishu - เชื่อมต่อแล้ว)
@@ -144,6 +145,7 @@ Kimi Claw Android ต้องใช้สิทธิ์ต่อไปนี�
 <Frames
   src="./images/kimi-claw-android-guide/img-21.png"
 />
+
 คลิกการตั้งค่าเพื่อเข้าสู่หน้าการตั้งค่า:
 
 **ชั้นฟังก์ชัน:**
@@ -156,6 +158,7 @@ Kimi Claw Android ต้องใช้สิทธิ์ต่อไปนี�
 <Frames
   src="./images/kimi-claw-android-guide/backup.png"
 />
+
 - สำรองและกู้คืน: สำรองการตั้งค่าและประวัติ OpenClaw ปัจจุบัน และรองรับการกู้คืนการตั้งค่าและบันทึกในอดีต
 - บริการการช่วยเหลือพิเศษ: ตรวจสอบสิทธิ์บริการการช่วยเหลือพิเศษของโทรศัพท์มือถือ
 - สิทธิ์การทำงานเบื้องหลัง: ตรวจสอบสิทธิ์การทำงานเบื้องหลังของโทรศัพท์มือถือ
@@ -212,6 +215,7 @@ Kimi เป็นช่องทางสื่อสารเริ่มต้
 Kimi Claw Android รองรับเฉพาะการแก้ไขชื่อ Bot และการลบ Bot ในการจัดการ Bot
 
 ### Feishu
+
 <Frames
   src="./images/kimi-claw-android-guide/img-25.png"
 />
@@ -292,6 +296,7 @@ Kimi Claw Android รองรับการเชื่อมต่อ Telegra
 <Frames
   src="./images/kimi-claw-android-guide/img-18.png"
 />
+
 Kimi Claw Android มาพร้อม ClawHub ซึ่งเป็นคลัง Skills ในตัว คุณสามารถจัดการและติดตั้ง Skills ได้ในการตั้งค่า เพื่อเพิ่มความสามารถให้ Claw มากขึ้น
 
 สถานการณ์ที่เหมาะกับการใช้ Skills:

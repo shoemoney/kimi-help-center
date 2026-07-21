@@ -11,6 +11,7 @@ preview_content: "An overview of Kimi Claw’s file transfer capabilities, inclu
   title="How does Kimi Claw transfer and process files? - Kimi Help Center"
   description="Learn about the file types, transfer methods, and size limits supported by Kimi Claw, and how to send files to Kimi Claw and retrieve processed results across platforms."
 />
+
 # Kimi Claw file transfer
 
 Kimi Claw supports sending and receiving files. You can transfer files through chats, Workspace, Feishu bots, and more.

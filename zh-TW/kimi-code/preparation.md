@@ -75,6 +75,7 @@ Kimi Code CLI 啟動時，會把你目前所在的資料夾作為**工作目錄*
 > 3. 輸入 `kimi` 啟動
 
 ## 如何執行指令
+
 <Frames
   src="./images/preparation/preparation-03.png"
   alt="指令執行示意圖"

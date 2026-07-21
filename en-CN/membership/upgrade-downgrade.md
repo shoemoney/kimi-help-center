@@ -11,6 +11,7 @@ preview_content: "How to upgrade or downgrade your membership plan, including pr
   title="How do I upgrade or downgrade my Kimi membership plan? - Kimi Help Center"
   description="Learn how to upgrade or downgrade a Kimi membership plan, how price differences are calculated, and when changes take effect, so you can adjust your subscription to fit your needs."
 />
+
 # Membership Plan Upgrades and Downgrades
 
 You can adjust your Kimi membership plan at any time as needed. Here’s how upgrades and downgrades work.

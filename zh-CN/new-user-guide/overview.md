@@ -88,12 +88,14 @@ Kimi 不仅是对话助手，更是能自主执行任务的 AI Agent：
   src="./images/overview/overview-02.png"
   alt="image"
 />
+
 - **[网页版](https://www.kimi.com/)**：点击「+」，可以选择上传文件、图片，选择插件（Plugin）、技能（Skill）、目标。
 
 <Frames
   src="./images/overview/overview-02-1.png"
   alt="image"
 />
+
 - **[网页版](https://www.kimi.com/)**：左下角，点击个人头像，可以进入「设置页」，可以再次找到更多关于Kimi的信息：
   - 点击会员计划：可以进入会员页面，你可以在里面找到不同会员订阅档位的价格、权益，并在「我的订阅」中找到会员权益使用明细、对已经支付订单进行开票；
   - 关于我们：在关于我们，可以找到Kimi已经发布的模型信息，最新研究，以及博客；
@@ -109,6 +111,7 @@ Kimi 不仅是对话助手，更是能自主执行任务的 AI Agent：
   src="./images/overview/overview-03.png"
   alt="image"
 />
+
 - 在移动商店下载APP后，打开APP，点击上方的模型切换按钮可切换模型（K2.6 / K3 / K3 集群）。
 
 #### 输入框
@@ -117,6 +120,7 @@ Kimi 不仅是对话助手，更是能自主执行任务的 AI Agent：
   src="./images/overview/overview-03-01.png"
   alt="image"
 />
+
 - 在手机端下方，为输入框，点击「+」，可以选择上传文件、照片、本地文件、微信文件，点击语音符号，可以选择语音输入。
 
 #### 个人设置页
@@ -125,6 +129,7 @@ Kimi 不仅是对话助手，更是能自主执行任务的 AI Agent：
   src="./images/overview/overview-04.png"
   alt="image"
 />
+
 - 在手机端上方，点击侧边栏，进入个人设置页与查看历史对话。
 
 #### doodle
@@ -133,4 +138,5 @@ Kimi 不仅是对话助手，更是能自主执行任务的 AI Agent：
   src="./images/overview/overview-04-01.png"
   alt="image"
 />
+
 - 在节假日、大事件、纪念日，Kimi会随机上新doodle。

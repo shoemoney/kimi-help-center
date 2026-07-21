@@ -11,6 +11,7 @@ preview_content: "了解会员额度刷新周期、使用优先级与额度共�
   title="Kimi 会员权益更新规则说明 - Kimi 帮助中心"
   description="了解 Kimi 会员权益的更新机制、额度刷新周期和历史变更记录，掌握最新的会员权益政策。"
 />
+
 # 会员额度更新与使用规则
 
 Kimi 会员权益的各项功能（Agent 系列、深度研究、PPT、文档、表格、Kimi Claw 等）共享一个额度池，按实际 token 消耗扣除；Kimi Code 单独享有独立额度池。

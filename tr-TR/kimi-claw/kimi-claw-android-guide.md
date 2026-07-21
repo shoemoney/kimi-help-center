@@ -118,6 +118,7 @@ Dashboard'un üst kısmında bir izin hatırlatması görünüyorsa, bu bazı iz
 <Frames
   src="./images/kimi-claw-android-guide/img-33.png"
 />
+
 Dashboard'da tüm iletişim kanallarını yönetebilirsiniz:
 
 - Bağlı kanalları ve durumlarını görüntüleyin (ör. Kimi - Bağlandı, Feishu - Bağlandı)
@@ -144,6 +145,7 @@ Kimi Claw Android ile normal iletişimi sağlamak için lütfen en az bir sohbet
 <Frames
   src="./images/kimi-claw-android-guide/img-21.png"
 />
+
 Ayarlar sayfasına girmek için Ayarlar'a dokunun:
 
 **İşlevsel Katman:**
@@ -156,6 +158,7 @@ Ayarlar sayfasına girmek için Ayarlar'a dokunun:
 <Frames
   src="./images/kimi-claw-android-guide/backup.png"
 />
+
 - Yedekleme ve Geri Yükleme: Mevcut OpenClaw yapılandırmasını ve geçmişini yedekleyin; geçmiş yapılandırmaların ve kayıtların geri yüklenmesini destekler
 - Erişilebilirlik Hizmeti: Telefonun erişilebilirlik hizmeti izinlerini izler
 - Arka planda çalışma izni: Telefonun arka planda çalışma iznini izler
@@ -212,6 +215,7 @@ Kurulum ve yapılandırma tamamlandıktan sonra, Kimi Claw Android'iniz Web iste
 Kimi Claw Android, Bot yönetiminde yalnızca Bot adını düzenlemeyi ve Bot'u silmeyi destekler.
 
 ### Feishu
+
 <Frames
   src="./images/kimi-claw-android-guide/img-25.png"
 />
@@ -292,6 +296,7 @@ Yapılandırma tamamlandıktan sonra, Android telefonlardaki uygulamaları uzakt
 <Frames
   src="./images/kimi-claw-android-guide/img-18.png"
 />
+
 Kimi Claw Android, yerleşik bir beceri kitaplığı olan ClawHub ile birlikte gelir. Claw için daha fazla yetenek kazandırmak amacıyla ayarlardan becerileri yönetebilir ve kurabilirsiniz.
 
 Skills kullanmaya uygun senaryolar:

@@ -11,6 +11,7 @@ preview_content: "Steps to connect Kimi Claw to a WeCom bot."
   title="How to Connect Kimi Claw to WeCom: Configuration Guide - Kimi Help Center"
   description="Learn how to configure a Kimi Claw WeCom bot and integrate an AI Agent into your WeCom workflow to improve team collaboration."
 />
+
 # Configure a WeCom Bot
 
 Kimi Claw can be deployed to WeCom.

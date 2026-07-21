@@ -118,6 +118,7 @@ Dashboard 상단에 권한 알림이 표시되면 일부 권한이 부여되지 
 <Frames
   src="./images/kimi-claw-android-guide/img-33.png"
 />
+
 Dashboard에서 모든 커뮤니케이션 채널을 관리할 수 있습니다.
 
 - 연결된 채널과 상태 확인(예: Kimi - 연결됨, Feishu - 연결됨)
@@ -144,6 +145,7 @@ Kimi Claw Android와 정상적으로 소통할 수 있도록 최소 하나의 �
 <Frames
   src="./images/kimi-claw-android-guide/img-21.png"
 />
+
 설정을 클릭해 설정 페이지로 들어갑니다.
 
 **기능 레이어:**
@@ -156,6 +158,7 @@ Kimi Claw Android와 정상적으로 소통할 수 있도록 최소 하나의 �
 <Frames
   src="./images/kimi-claw-android-guide/backup.png"
 />
+
 - 백업 및 복원: 현재 OpenClaw 구성과 기록을 백업하고, 이전 구성과 기록 복원을 지원합니다.
 - 접근성 서비스: 휴대폰의 접근성 서비스 권한을 모니터링합니다.
 - 백그라운드 실행 권한: 휴대폰의 백그라운드 실행 권한을 모니터링합니다.
@@ -212,6 +215,7 @@ Kimi는 기본 커뮤니케이션 채널이며, Onboarding 과정에서 Kimi 계
 Kimi Claw Android는 Bot 관리에서 Bot 이름 편집과 Bot 삭제만 지원합니다.
 
 ### Feishu
+
 <Frames
   src="./images/kimi-claw-android-guide/img-25.png"
 />
@@ -292,6 +296,7 @@ WeChat, Rednote, Douyin 같은 플랫폼에서 메시지 확인, 콘텐츠 탐�
 <Frames
   src="./images/kimi-claw-android-guide/img-18.png"
 />
+
 Kimi Claw Android에는 내장 스킬 라이브러리인 ClawHub가 포함되어 있습니다. 설정에서 Skills를 관리하고 설치해 Claw에 더 많은 기능을 확장할 수 있습니다.
 
 Skills 사용에 적합한 시나리오:

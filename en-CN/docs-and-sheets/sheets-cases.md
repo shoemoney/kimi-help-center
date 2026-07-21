@@ -11,6 +11,7 @@ preview_content: "Use cases and prompt templates for working with spreadsheets i
   title="Kimi Sheets Generation Use Cases and Tips - Kimi Help Center"
   description="Explore practical Kimi Sheets generation use cases, from data organization and financial analysis to project scheduling, and learn how to create professional spreadsheets quickly with natural language."
 />
+
 # Kimi Sheets Use Cases
 
 ## Financial Valuation

@@ -1,7 +1,7 @@
 ---
 title: "Tạm khóa tài khoản & khiếu nại"
 slug: "account-ban"
-order: 2
+order: 7
 extract_headings: true
 preview: false
 ---

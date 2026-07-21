@@ -1,7 +1,7 @@
 ---
 title: "アカウントとプロフィール設定"
 slug: "phone-profile"
-order: 3
+order: 6
 extract_headings: true
 preview: false
 ---

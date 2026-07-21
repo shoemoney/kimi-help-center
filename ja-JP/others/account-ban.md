@@ -1,7 +1,7 @@
 ---
 title: "アカウント停止と異議申し立て"
 slug: "account-ban"
-order: 2
+order: 7
 extract_headings: true
 preview: false
 ---

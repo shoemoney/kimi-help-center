@@ -1,7 +1,7 @@
 ---
 title: "Problemas comunes del chat de Kimi"
 slug: "chat-issues"
-order: 4
+order: 5
 extract_headings: true
 preview: false
 ---

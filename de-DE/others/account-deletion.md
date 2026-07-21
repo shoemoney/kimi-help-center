@@ -1,7 +1,7 @@
 ---
 title: "Konto löschen & Daten entfernen"
 slug: "account-deletion"
-order: 1
+order: 8
 extract_headings: false
 preview: true
 preview_content: "Hier finden Sie Antworten auf häufige Fragen zu Konto, Profil und Datenverwaltung."

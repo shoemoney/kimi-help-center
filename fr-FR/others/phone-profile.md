@@ -1,7 +1,7 @@
 ---
 title: "Paramètres du compte et du profil"
 slug: "phone-profile"
-order: 3
+order: 6
 extract_headings: true
 preview: false
 ---

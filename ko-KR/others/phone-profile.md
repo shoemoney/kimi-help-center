@@ -1,7 +1,7 @@
 ---
 title: "계정 및 프로필 설정"
 slug: "phone-profile"
-order: 3
+order: 6
 extract_headings: true
 preview: false
 ---

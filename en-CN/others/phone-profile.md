@@ -1,7 +1,7 @@
 ---
 title: "Mobile Number and Profile"
 slug: "phone-profile"
-order: 3
+order: 6
 extract_headings: true
 preview: true
 preview_content: "Guidance on changing your bound mobile number, troubleshooting missing verification codes, and updating your profile."

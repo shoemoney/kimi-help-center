@@ -1,7 +1,7 @@
 ---
 title: "Hesap silme ve veri kaldırma"
 slug: "account-deletion"
-order: 1
+order: 8
 extract_headings: false
 preview: true
 preview_content: "Hesap, profil ve veri yönetimiyle ilgili sık sorulan soruların yanıtlarını bulun."

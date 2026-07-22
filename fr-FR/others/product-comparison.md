@@ -8,35 +8,35 @@ preview: false
 
 <SeoMeta
   title="Quelle est la différence entre Kimi, Kimi Work, Kimi Code et Kimi Claw ? Lequel choisir ? - Centre d’aide Kimi"
-  description="Comprenez en un seul article les différences entre Kimi (web/application), Kimi Work, Kimi Code et Kimi Claw, ainsi que leurs cas d’usage les plus adaptés, afin de déterminer rapidement quel produit utiliser et à quel abonnement souscrire."
+  description="Comprenez en un seul article les différences entre Kimi (web/application), Kimi Work, Kimi Code et Kimi Claw, ainsi que leurs usages les plus adaptés, afin de choisir rapidement le produit à utiliser et l’abonnement à souscrire."
 />
 
 # Quelle est la différence entre Kimi, Kimi Work, Kimi Code et Kimi Claw ? Lequel choisir ?
 
-Kimi comprend un assistant en ligne prêt à l’emploi, ainsi que plusieurs produits conçus pour différents utilisateurs et cas d’usage. Ils reposent tous sur les capacités fondamentales de Kimi ; les principales différences tiennent à **l’endroit où vous les utilisez, aux utilisateurs auxquels ils s’adressent et à ce qu’ils font le mieux**.
+Kimi comprend un assistant en ligne prêt à l’emploi, ainsi que plusieurs produits pensés pour différents profils et usages. Tous s’appuient sur les capacités fondamentales de Kimi ; leurs principales différences tiennent à **l’endroit où vous les utilisez, au public auquel ils s’adressent et à ce qu’ils font le mieux**.
 
-## En bref
+## Vue d’ensemble
 
-| Produit | Description | Idéal pour / cas d’usage | Où l’utiliser |
+| Produit | Ce que c’est | Usages recommandés / scénarios | Où l’utiliser |
 |---|---|---|---|
-| **Kimi** (web / application) | Un assistant IA en ligne qui associe chat et Agent | Questions-réponses du quotidien, rédaction, recherche, création de sites web / PPT / documents et feuilles de calcul, Deep Research, et plus encore | Web, application mobile |
-| **Kimi Work** | Un **Agent local** pour les professionnels du savoir (ordinateur) | Travailler avec des fichiers locaux sur votre ordinateur, automatiser des tâches dans plusieurs applications de bureau, mener à bien des tâches longues | Client Mac / Windows |
+| **Kimi** (web / application) | Un assistant IA en ligne qui associe discussion et agent | Questions-réponses du quotidien, rédaction, recherche, création de sites web / PPT / documents et feuilles de calcul, Deep Research, et plus encore | Web, application mobile |
+| **Kimi Work** | Un **agent local** pour les travailleurs du savoir (ordinateur) | Travailler avec des fichiers locaux sur votre ordinateur, automatiser des tâches entre applications de bureau, mener à bien des tâches longues | Client Mac / Windows |
 | **Kimi Code** | Une suite d’assistance au codage pour les **développeurs** | Écrire du code et maintenir des bases de code | CLI, extension VS Code |
-| **Kimi Claw** | Une plateforme d’**automatisation cloud sans déploiement** | Automatisation cloud 24 h/24, 7 j/7, bots intégrés à Feishu / WeChat, etc. | Cloud (aucun serveur requis) |
+| **Kimi Claw** | Une plateforme d’**automatisation cloud sans déploiement** | Automatisation cloud 7×24 toujours active, bots intégrés à Feishu / WeChat et plus encore | Cloud (aucun serveur requis) |
 
 ## Lequel choisir ?
 
-- **Pour discuter au quotidien, rédiger, rechercher, ou demander à Kimi de créer des sites web, des PPT et des feuilles de calcul, ou d’effectuer une Deep Research** → utilisez **Kimi** (web / application).
-- **Si vous voulez que Kimi lise et écrive des fichiers locaux sur votre ordinateur, automatise plusieurs applications de bureau ou exécute des tâches longues** → utilisez **Kimi Work** (ordinateur).
-- **Si vous êtes développeur et que vous avez surtout besoin d’aide pour écrire du code ou maintenir des projets** → utilisez **Kimi Code**.
-- **Si vous voulez un bot cloud toujours actif, qui s’exécute automatiquement et peut se connecter à Feishu / WeChat ainsi qu’à d’autres plateformes** → utilisez **Kimi Claw**.
+- **Pour discuter au quotidien, rédiger, rechercher, ou demander à Kimi de créer des sites web, des PPT et des feuilles de calcul, ou encore de réaliser un Deep Research** → utilisez **Kimi** (web / application).
+- **Si vous avez besoin que Kimi lise et écrive des fichiers locaux sur votre ordinateur, automatise des actions dans plusieurs applications de bureau ou exécute des tâches longues** → utilisez **Kimi Work** (application de bureau).
+- **Si vous êtes développeur et cherchez surtout de l’aide pour écrire du code ou maintenir des projets** → utilisez **Kimi Code**.
+- **Si vous voulez un bot cloud toujours actif, capable de s’exécuter automatiquement et de se connecter à Feishu / WeChat ainsi qu’à d’autres plateformes** → utilisez **Kimi Claw**.
 
 <Callout type="tip">
-L’expérience en ligne de Kimi réunit déjà le « chat » et l’« Agent » : inutile de passer de l’un à l’autre. Dans l’application de bureau Kimi Work, deux modes sont disponibles : « Travail » (un mode Agent axé sur les livrables) et « Chat » (conversations rapides).
+Dans l’expérience en ligne de Kimi, la « discussion » et l’« agent » sont déjà réunis : vous n’avez pas à passer de l’un à l’autre. Dans l’application de bureau Kimi Work, deux modes sont disponibles : « Travail » (un mode agent centré sur les livrables) et « Discussion » (pour les échanges rapides).
 </Callout>
 
-## Quel abonnement choisir ?
+## Quelle formule d’abonnement choisir ?
 
-Les avantages de l’abonnement sont associés à votre compte Kimi. **Kimi Code utilise une réserve de credit distincte**, tandis que les autres fonctionnalités incluses dans l’abonnement (chat, Agent, Deep Research, etc.) partagent la même réserve de credit. Pour le détail des offres et des tarifs, consultez la [page d’abonnement](/membership/membership-pricing).
+Les avantages d’abonnement sont liés à votre compte Kimi. Toutes les fonctionnalités incluses dans l’abonnement (discussion, agent, Deep Research, Kimi Code, etc.) **partagent la même réserve de credit** ; Kimi Code dispose également de son propre rate limit hebdomadaire de 5 heures, applicable uniquement à Kimi Code. Pour le détail des formules et des tarifs, consultez la [page d’abonnement](/membership/membership-pricing).
 
-Si votre utilisation porte surtout sur le **travail quotidien + des tâches ponctuelles**, un abonnement Kimi adapté couvrira la plupart des cas d’usage sur le web / l’application / Kimi Work. Les développeurs qui **écrivent souvent du code** auront aussi intérêt à examiner attentivement les avantages de Kimi Code.
+Si votre usage concerne surtout **le travail du quotidien + des tâches ponctuelles**, une formule Kimi adaptée couvrira la plupart des scénarios sur le web, dans l’application et avec Kimi Work. Les développeurs qui **écrivent souvent du code** auront également intérêt à examiner attentivement les avantages liés à Kimi Code.

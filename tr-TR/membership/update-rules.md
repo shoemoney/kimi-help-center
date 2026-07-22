@@ -1,5 +1,5 @@
 ---
-title: "Kredi güncelleme ve kullanım kuralları"
+title: "Credit güncelleme ve kullanım kuralları"
 slug: "update-rules"
 order: 3
 extract_headings: true
@@ -7,62 +7,64 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kredi güncelleme ve kullanım kuralları - Kimi Yardım Merkezi"
-  description="Agent özellikleri ve diğer Kimi üyelik özellikleri tek bir ortak kredi havuzunu paylaşır; Kimi Code kendi ayrı kredi havuzuna sahiptir. Krediler gerçek kullanıma göre tüketilir."
+  title="Credit güncelleme ve kullanım kuralları - Kimi Yardım Merkezi"
+  description="Tüm Kimi üyelik özellikleri tek bir ortak credit havuzunu kullanır. Credit, gerçek kullanıma göre harcanır."
 />
 
-# Kredi güncelleme ve kullanım kuralları
+# Credit güncelleme ve kullanım kuralları
 
 <Callout type="info">
-Agent özellikleri ve diğer Kimi üyelik özellikleri tek bir ortak kredi (credits) havuzunu paylaşır; Kimi Code kendi ayrı kredi havuzuna sahiptir. Krediler gerçek kullanıma göre tüketilir.
+Tüm Kimi üyelik özellikleri (Agent, Deep Research, Slides, Docs, Sheets, Kimi Code, Kimi Work, Kimi Claw vb.) tek bir ortak credit havuzunu kullanır. Credit, gerçek kullanıma göre harcanır.
 </Callout>
 
-## Ortak kredi havuzu nasıl işler?
-Kimi üyelik özellikleri, her yerde geçerli olan tek bir ortak kredi havuzunu paylaşır. Agent özellikleri ve diğer Kimi özelliklerinin tümü bu havuzdan yararlanır:
+## Ortak credit havuzu nasıl çalışır?
+Kimi üyelik özellikleri, her yerde geçerli tek bir ortak credit havuzunu kullanır. Agent özellikleri ve diğer Kimi özellikleri bu havuzdan harcama yapar:
 | Özellik | Açıklama |
 |---------|-------------|
-| **Agent görevleri** | Web siteleri, belgeler, slaytlar, elektronik tablolar, deep research |
-| **Kimi Claw** | Buluta dağıtılmış kişisel yapay zekâ asistanınız |
+| **Agent görevleri** | Web siteleri, belgeler, sunumlar, elektronik tablolar, deep research |
+| **Kimi Code** | Geliştiriciler için AI destekli kodlama asistanı |
+| **Kimi Work** | Kimi masaüstü uygulaması |
+| **Kimi Claw** | Bulutta dağıtılan kişisel AI asistanınız |
 | **Diğer özellikler** | Görsel oluşturma ve daha fazlası |
 
-> **K2.6**: K2.6 modeliyle yapılan sohbetler kredi tüketmez
-> **Kimi Code**: Yapay zeka destekli kodlama asistanı (ayrı kredi havuzu)
+> **K2.6**: Chat içinde K2.6 tüm kullanıcılar için ücretsizdir ve credit tüketmez; Kimi Work içinde K2.6 Agent olarak kullanıldığında ise üyelik credit hakkını tüketmeye devam eder.
+> **Kimi Code**: Aynı ortak credit havuzundan kullanır; ancak yalnızca Kimi Code için geçerli olan kendine ait 5 saatlik / haftalık rate limit sınırı vardır.
 
 <Callout type="tip">
-Bu, kredilerinizi paylaşılan havuz içinde dilediğiniz gibi dağıtabileceğiniz anlamına gelir — bir ay araştırmaya, bir sonraki ay belgelere daha fazla harcayın. K2.6 kredi tüketmez.
+Bu, ortak havuzdaki credit hakkınızı dilediğiniz gibi dağıtabileceğiniz anlamına gelir — bir ay araştırmaya, sonraki ay belgelere daha fazla ayırabilirsiniz. Chat içinde K2.6 credit tüketmez.
 </Callout>
 
-## Krediler nasıl hesaplanır?
-Krediler, bir görevin işlediği token sayısına göre tüketilir. Daha uzun girdiler ve çıktılar daha fazla token kullanır.
+## Credit nasıl hesaplanır?
+Credit, bir görevin işlediği token sayısına göre harcanır. Daha uzun girdiler ve çıktılar daha fazla token kullanır.
 
 <Callout type="info">
-**Ücretsiz katman kullanıcıları için kaba bir rehber**:
-- Basit bir slayt destesi oluşturmak ≈ kredilerinizin %1–2'si
-- Bir deep research raporu çalıştırmak ≈ %5–10
-- Bir kod parçacığı yazmak ≈ %0,5–2
-Daha üst katman planlar, orantılı olarak daha büyük kredi havuzlarıyla gelir.
+**Ücretsiz plan kullanıcıları için yaklaşık kılavuz**:
+- Basit bir sunum destesi oluşturma ≈ credit hakkınızın %1–2’si
+- Bir deep research raporu çalıştırma ≈ %5–10
+- Bir kod parçacığı yazma ≈ %0,5–2
+Daha yüksek planlarda, orantılı olarak daha büyük credit havuzları bulunur.
 </Callout>
 
-## Kredi yenileme kuralları
+## Credit yenileme kuralları
 | Kural | Açıklama |
 |------|-------------|
-| **Döngü** | Aylık ve yıllık aboneler kredilerini **aylık** döngüde alır |
-| **Sona erme** | Kullanılmayan krediler her döngünün sonunda sona erer — devredilmez veya nakde dönüştürülmez |
-| **Sınırlar** | Tekil görevler, arayüzde gösterildiği şekilde 5 saatlik ve 7 günlük eşzamanlılık sınırlarına tabi olabilir |
+| **Döngü** | Aylık ve yıllık abonelerin ikisine de credit **aylık** döngüyle verilir |
+| **Sona erme** | Kullanılmayan credit her döngünün sonunda sona erer — devretmez veya nakde çevrilmez |
+| **Sınırlar** | Tekil görevler, UI’da gösterildiği gibi 5 saatlik ve 7 günlük concurrency sınırlarına tabi olabilir |
 
-## Krediler bittiğinde
-- Halihazırda devam eden görevler normal şekilde tamamlanır
-- Yeni görevler "yetersiz kredi" uyarısı gösterir
+## Credit bittiğinde
+- Hâlihazırda devam eden görevler normal şekilde tamamlanır
+- Yeni görevlerde "yetersiz credit" uyarısı gösterilir
 
 **Seçenekleriniz**:
 
-- Bir sonraki faturalandırma döngüsünde kredilerinizin yenilenmesini bekleyin
-- Daha büyük bir aylık tahsisat için daha üst katman bir plana yükseltin
-## Krediler tam olarak nasıl yenilenir?
-1. **Döngü tabanlı** — Krediler, takvim ayında değil, abonelik yıl dönümü tarihinizde yenilenir
-2. **Devir yok** — Kalan krediler sıfırlanır, ardından tam tahsisatınız yeniden verilir
-3. **Örnek** — 1 Aralık saat 15.00'te abone olduysanız, kredileriniz 1 Ocak saat 15.00'te yenilenir
+- Bir sonraki faturalama döngüsünde credit hakkınızın yenilenmesini bekleyin
+- Daha yüksek aylık hak için üst seviye bir plana geçin
+## Credit tam olarak nasıl yenilenir?
+1. **Döngüye bağlı** — Credit, takvim ayına göre değil abonelik yıl dönümü tarihinizde yenilenir
+2. **Devir yok** — Kalan credit sıfırlanır, ardından hakkınızın tamamı yeniden tanımlanır
+3. **Örnek** — 1 Aralık saat 15:00’te abone olduysanız, credit hakkınız 1 Ocak saat 15:00’te yenilenir
 
 <Callout type="info">
-**Sistem hataları**: Bir görev sistemsel bir sorun nedeniyle başarısız olursa, bildirmek ve kredi iadesi talep etmek için 👎 düğmesini kullanın.
+**Sistem hataları**: Bir görev sistem kaynaklı bir sorun nedeniyle başarısız olursa, durumu bildirmek ve credit iadesi talep etmek için 👎 düğmesini kullanın.
 </Callout>

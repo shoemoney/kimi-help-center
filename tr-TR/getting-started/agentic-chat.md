@@ -1,5 +1,5 @@
 ---
-title: "Kimi ile başlarken"
+title: "Kimi’ye başlarken"
 slug: "agentic-chat"
 order: 2
 extract_headings: false
@@ -7,128 +7,128 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi ile başlarken - Kimi Yardım Merkezi"
-  description="Kimi'nin üç modelini (K2.6, K3, K3 Swarm), yerleşik araçlarını ve çok modlu yeteneklerini öğrenerek sohbet ve görev yürütmeye hızlıca başlayın."
+  title="Kimi’ye başlarken - Kimi Help Center"
+  description="Kimi’nin üç modelini (K2.6, K3, K3 Swarm), yerleşik araçlarını ve çok modlu yeteneklerini öğrenerek sohbet ve görev yürütmeye hızlıca başlayın."
 />
 
-# Kimi ile başlarken
+# Kimi’ye başlarken
 
-Sohbet kutusuna sorularınızı yazabilir, dosya yükleyebilir veya ihtiyacınıza göre modeller arasında geçiş yapabilirsiniz.
-[kimi.com](https://www.kimi.com) adresini açın ve bir mesaj göndermeyi deneyin — Kimi'ye merhaba deyin:
+Sohbet kutusuna sorular yazabilir, dosya yükleyebilir veya ihtiyacınıza göre modeller arasında geçiş yapabilirsiniz.
+[kimi.com](https://www.kimi.com) adresini açın ve bir mesaj göndermeyi deneyin — Kimi’ye merhaba deyin:
 
 <CodePreview
   files={[
     {
       name: "prompt.txt",
       language: "text",
-      content: "Selam Kimi!",
+      content: "Merhaba, Kimi!",
     },
   ]}
 />
 
-## Bir model seçin
+## Model seçin
 
-Kimi, birden çok model sunar. Geçiş yapmak için giriş kutusunun üzerindeki model değiştirme düğmesine tıklayın.
+Kimi birden fazla model sunar. Geçiş yapmak için giriş kutusunun üzerindeki model değiştirme düğmesine tıklayın.
 
-| Model | Düşünme gücü | En uygun |
+| Model | Düşünme gücü | En uygun kullanım |
 |-------|-------------------|----------|
-| **K2.6** | Standard / High | Daha hızlı yanıtlarla hızlı sohbet ve soru-cevap |
-| **K3** | Low / High / Max | Sohbet ve Agent görevleri; genel olarak en yetenekli model |
-| **K3 Swarm** | Low / High / Max | Büyük ölçekli arama ve toplu işleme, tek seferde tamamlanır |
+| **K2.6** | Standart / Yüksek | Daha hızlı yanıtlarla hızlı sohbet ve soru-cevap |
+| **K3** | Düşük / Yüksek / Maksimum | Sohbet ve Agent görevleri; genel olarak en yetenekli model |
+| **K3 Swarm** | Düşük / Yüksek / Maksimum | Büyük ölçekli arama ve toplu işlem; tek seferde tamamlanır |
 
 <Callout type="tip">
-K2.6 kredi tüketmez; K3 ve K3 Swarm krediyle faturalandırılır. Ayrıntılar için [üyelik avantajlarına](https://www.kimi.com/help/membership/membership-overview) bakın.
+K2.6, Chat içinde credit tüketmez (Kimi Work içinde K2.6 Agent olarak kullanıldığında yine üyelik credit’leri tüketir); K3 ve K3 Swarm credit ile ücretlendirilir. Ayrıntılar için [üyelik avantajlarına](https://www.kimi.com/help/membership/membership-overview) bakın.
 </Callout>
 
 ### Kimi K3 hakkında
 
-Kimi K3, şu anda Kimi'nin en güçlü modelidir; 2,8 trilyon parametreye sahiptir, Kimi Delta Attention (KDA) ve Attention Residuals üzerine inşa edilmiştir ve **yerel görüş** ile **1 milyon token'lık bağlam penceresi** sunar. Dünyanın ilk açık 3T sınıfı modeli olan K3; uzun vadeli kodlama, bilgi işi ve akıl yürütme genelinde en ileri düzey zeka için tasarlanmıştır ve kodlamada, uzun vadeli yürütmede ve çok çeşitli genel zeka görevlerinde sektör lideri performansa ulaşır.
+Kimi K3, şu anda Kimi’nin en güçlü modelidir. 2,8 trilyon parametreye sahiptir; Kimi Delta Attention (KDA) ve Attention Residuals üzerine inşa edilmiştir, **yerel görme** ve **1 milyon token’lık bağlam penceresi** sunar. Dünyanın ilk açık 3T sınıfı modeli olan K3; uzun soluklu kodlama, bilgi odaklı işler ve akıl yürütme alanlarında öncü zekâ için tasarlanmıştır. Kodlama, uzun vadeli yürütme ve çok çeşitli genel zekâ görevlerinde lider düzeyde performansa ulaşır.
 
 ### Yerleşik araçlar
 
-Hiçbir yapılandırmaya gerek kalmadan hemen kullanılabilir:
+Hiçbir yapılandırma gerekmeden kullanıma hazırdır:
 
 | Araç | Açıklama |
 |------|------------|
 | **Web Search** | En güncel haberler ve bilgiler için gerçek zamanlı web araması |
-| **Fetch Tool** | Belirli URL'lere doğrudan erişim (web sayfaları, belgeler, görseller ve diğer çevrimiçi kaynaklar) |
-| **Image Search** | Hızlı görsel içerik keşfi için metinden görsele ve görselden görsele arama |
-| **IPython** | Veri analizi ve görselleştirme için Python kodu çalıştırın |
-| **Memory** | Kişisel tercihlerinizi ve alışkanlıklarınızı kaydeden akıllı hafıza |
+| **Fetch Tool** | Belirli URL’lere doğrudan erişim (web sayfaları, belgeler, görseller ve diğer çevrimiçi kaynaklar) |
+| **Image Search** | Görsel içerikleri hızla keşfetmek için metinden görsele ve görselden görsele arama |
+| **IPython** | Veri analizi ve görselleştirme için Python kodu çalıştırma |
+| **Memory** | Kişisel tercihlerinizi ve alışkanlıklarınızı kaydeden akıllı bellek |
 
 ## Görsel ve çok modlu yetenekler
-Kimi K3; görselleri, videoları ve ofis belgelerini (PDF/Word/Excel) tam kapsamlı anlamayı destekler ve bunu **yerel çok modlu mimari** kullanarak yapar (sonradan eklenen OCR değil). Belge içeriğini doğrudan ayrıştırabilir ve orta-ileri düzey ofis görevlerini gerçekleştirebilir (örneğin Excel formülleri yazma veya PPT ana hatları/VBA kodu oluşturma gibi). Yerel görüş ve 1 milyon token'lık bağlam penceresiyle birleştiğinde, daha uzun ve daha karmaşık çok modlu materyalleri işleyebilir.
-### Çok modlu girdi desteği
+Kimi K3; görselleri, videoları ve ofis belgelerini (PDF/Word/Excel) her senaryoda anlayabilir. Bunu sonradan eklenmiş OCR ile değil, **yerel çok modlu mimari** ile yapar. Belge içeriğini doğrudan ayrıştırabilir ve orta-ileri düzey ofis görevlerini yerine getirebilir (örneğin Excel formülleri yazma veya PPT taslakları/VBA kodu üretme). Yerel görme ve 1 milyon token’lık bağlam penceresiyle birlikte, daha uzun ve karmaşık çok modlu materyalleri işleyebilir.
+### Çok modlu giriş desteği
 - **Görseller**: PNG, JPEG, WebP, GIF vb. (URL, Base64 veya yerel dosya yükleme yoluyla)
-- **Video**: MP4 vb. (video_url veya görüntü kare dizileri + fps parametresi yoluyla)
+- **Video**: MP4 vb. (video_url veya görsel kare dizileri + fps parametresi yoluyla)
 - **Belgeler**: PDF, Word, Excel, TXT, Markdown vb.
-- **Çevrimiçi kaynaklar**: URL'ler, makale bağlantıları
+- **Çevrimiçi kaynaklar**: URL’ler, makale bağlantıları
 - **Görsel arama**: İlgili veya benzer görselleri aramak için bir görsel yükleyin
-- **Video anlama**: Video anlamayı destekler — ekran kayıtlarını analiz edebilir ve etkileşim mantığını yeniden oluşturabilir
-- **Görsel kodlama**: Frontend kodu oluşturmak için ekran görüntüleri veya ekran kayıtları yükleyin (HTML/Vue/React vb.); tasarım maketlerinden web sayfalarını otomatik olarak yeniden üretebilir
+- **Video anlama**: Video anlama desteği sunar — ekran kayıtlarını analiz edip etkileşim mantığını yeniden oluşturabilir
+- **Görsel kodlama**: Frontend kodu (HTML/Vue/React vb.) üretmek için ekran görüntüleri veya ekran kayıtları yükleyin; tasarım maketlerinden web sayfalarını otomatik olarak yeniden oluşturabilir
 
-### Çıktı formatları
-- Düz metin / metin ve görsel karışık: Standart sohbet yanıtları
-- Markdown: Başlıklar, listeler, tablolar ve bağlantılarla zengin metin
+### Çıktı biçimleri
+- Düz metin / metin-görsel karışık: Standart sohbet yanıtları
+- Markdown: Başlıklar, listeler, tablolar ve bağlantılar içeren zengin metin
 - Kod blokları: HTML/Vue/React/Python/JSON/Mermaid vb. (dil tanımlayıcılarıyla)
 - JSON yapılandırılmış veri: Zorunlu JSON modu çıktısı
-- Mermaid diyagramları: Akış şemaları, sıralı diyagramlar, zihin haritaları vb.
+- Mermaid diyagramları: Akış şemaları, sıralama diyagramları, zihin haritaları vb.
 - LaTeX matematik formülleri: Satır içi ve blok düzeyinde matematiksel ifadeler
 - Çift modlu çıktı (Thinking): Hem `reasoning_content` (düşünme süreci) hem de `content` (nihai yanıt) döndürür
-- Araç çağrısı formatı: Function Calling standart formatı (geliştiriciler için)
+- Araç çağrısı biçimi: Function Calling standart biçimi (geliştiriciler için)
 
 ### Önemli notlar
 
-1. **Dosya çıktısı**: K3, düzenlenebilir belgeleri (örneğin `.pptx`, `.docx`, `.xlsx`, `.pdf`) ve diğer karmaşık çıktıları uçtan uca üretebilir; K2.6 ise hızlı soru-cevaba odaklanır ve yalnızca metin çıktısı verir (örneğin PPT ana hatları, Word gövde metni veya kod).
+1. **Dosya çıktısı**: K3, uçtan uca düzenlenebilir belgeler (`.pptx`, `.docx`, `.xlsx`, `.pdf` gibi) ve diğer karmaşık çıktılar üretebilir; K2.6 ise hızlı soru-cevaba odaklanır ve yalnızca metin çıktısı verir (PPT taslakları, Word gövde metni veya kod gibi).
 
 <Callout type="tip">
-İpucu: Görsel, ses veya video oluşturmak için "+" → Plugin'e tıklayın, ilgili özelliği seçin ve bunu **K3** ile kullanın. Karmaşık düzenlenebilir belgeler oluşturmak veya çok adımlı görevler yürütmek için tam deneyim adına **K3** ya da **K3 Swarm** seçmenizi öneririz.
+İpucu: Görsel, ses veya video üretmek için "+" → Eklenti’ye tıklayın, ilgili özelliği seçin ve **K3** ile kullanın. Karmaşık düzenlenebilir belgeler oluşturmak veya çok adımlı görevler çalıştırmak için eksiksiz deneyim adına **K3** ya da **K3 Swarm** seçmenizi öneririz.
 </Callout>
 
 ## Oturumlar ve konuşma turları
-"Yeni Sohbet"e tıkladığınızda, bunu Kimi ile uzun bir konuşma başlatmak olarak düşünün.
+"Yeni Sohbet"e tıkladığınızda bunu Kimi ile uzun bir konuşmaya başlamak gibi düşünebilirsiniz.
 | Kavram | Benzetme | Teknik Tanım |
 |---------|---------|---------------------|
-| **Oturum** | Baştan sona tüm bir toplantı | Net bir başlangıç ve sonu olan eksiksiz bir sohbet süreci |
-| **Tur** | Bir alışveriş (siz konuşursunuz, Kimi yanıt verir) | Sizin girdiniz ve Kimi'nin yanıtı bir gidiş-geliş oluşturur |
+| **Oturum** | Baştan sona tüm toplantı | Net bir başlangıcı ve sonu olan eksiksiz sohbet süreci |
+| **Tur** | Tek bir karşılıklı konuşma (siz konuşursunuz, Kimi yanıtlar) | Girdiniz ve Kimi’nin yanıtı bir gidiş-dönüş oluşturur |
 
 ### Temel farklar
 **Oturum**
-- **Sürekli hafıza**: Kimi, mevcut sohbetteki tüm bağlamı hatırlar
-- **Turlar arası bağlam**: Her yanıt, bir sonraki tur için bağlam olarak önceki konuşma içeriğine başvurur
-- **Tanımlı sınırlar**: "Yeni Sohbet"e tıklamak = temiz bir başlangıç; önceki bağlam temizlenir
+- **Sürekli bellek**: Kimi, mevcut sohbet içindeki tüm bağlamı hatırlar
+- **Turlar arası bağlam**: Her yanıt, sonraki tur için önceki konuşma içeriğini bağlam olarak kullanır
+- **Belirli sınırlar**: "Yeni Sohbet"e tıklamak = temiz başlangıç; önceki bağlam silinir
 **Tur**
-- **Kümülatif sayı**: Tur 1, Tur 2, … artımlı olarak eklenir
-- **Sınırlı hafıza**: Çok fazla tur (örneğin 50+), özellikle uzun metin yazımı veya katı gereksinimleri olan görevlerde Kimi'nin önceki içeriği "unutmasına" neden olabilir
-- **Bağlam uzunluğu kısıtlaması**: Token sayısıyla sınırlıdır; turlar biriktiğinde en eski içerik sıkıştırılabilir
+- **Kümülatif sayı**: Tur 1, Tur 2, … kademeli olarak eklenir
+- **Sınırlı bellek**: Çok fazla tur (ör. 50+) Kimi’nin önceki içerikleri “unutmasına” yol açabilir; bu durum özellikle uzun metin yazımında veya katı gereksinimleri olan görevlerde görülür
+- **Bağlam uzunluğu kısıtı**: token sayısıyla sınırlıdır; turlar biriktikçe en eski içerikler sıkıştırılabilir
 
 <Callout type="tip">
-**Uç durum**: Tek bir soru-cevap konuşmayı sonlandırıyorsa, o zaman 1 tur = 1 oturum demektir.
+**Sınır durum**: Tek bir soru-cevap konuşmayı sonlandırıyorsa 1 tur = 1 oturumdur.
 </Callout>
 
-## Bu ayrım neden önemli
-Tek bir oturum içinde gönderdiğiniz her yeni soru veya talimat, önceki tüm turlara başvurularak yanıtlanır. Turlar biriktikçe ve içerik uzadıkça yanıt kalitesi giderek düşebilir.
+## Bu ayrım neden önemli?
+Tek bir oturum içinde gönderdiğiniz her yeni soru veya talimat, önceki tüm turlar dikkate alınarak yanıtlanır. Turlar biriktikçe ve içerik uzadıkça yanıt kalitesi zamanla düşebilir.
 
 ### Yaygın senaryolar
 **Senaryo 1: Konu değiştirme**
-- Yanlış: 30.000 kelimelik bir roman yazdığınız bir oturumda "vergilerimi hesaplamama yardım et" diye sormak
-- Doğru: Vergi sorusu için yeni bir oturum başlatın — Kimi'nin roman karakterlerini vergi kavramlarıyla karıştırmasını önleyin
+- Yanlış: 30.000 kelimelik bir roman yazdığınız oturumda "vergilerimi hesaplamama yardım et" diye sormak
+- Doğru: Vergi sorusu için yeni bir oturum başlatın — Kimi’nin roman karakterleriyle vergi kavramlarını karıştırmasını önleyin
 **Senaryo 2: Uzun belge işleme**
-- Onlarca turdan sonra Kimi, başlangıçta belirlenen kuralları veya dosya özetlerini "unutabilir"
-- Çözüm: Görevin ortasında proaktif olarak özetleyin ("Şimdiye kadarki planımızı özetle") veya yeni bir oturum başlatın
-**Senaryo 3: Ürün sınırlarını anlamak**
-- Bağlam uzunluğu sınırları token cinsinden ölçülür, ancak günlük dilde bunu "tur" olarak düşünün
-- "Yeni bir sohbet başlat" uyarısı görürseniz, bu mevcut oturumda çok fazla tur olduğu anlamına gelir
+- Onlarca turdan sonra Kimi, başta belirlenen kuralları veya dosya özetlerini “unutabilir”
+- Çözüm: Görev ortasında proaktif olarak özet isteyin ("Şimdiye kadarki planımızı özetle") veya yeni bir oturum başlatın
+**Senaryo 3: Ürün sınırlarını anlama**
+- Bağlam uzunluğu sınırları token ile ölçülür; ancak gündelik kullanımda bunu “turlar” olarak düşünebilirsiniz
+- "Yeni bir sohbet başlat" istemini görüyorsanız mevcut oturumda çok fazla tur var demektir
 ## En iyi uygulamalar
 
 <Callout type="tip">
-**Her görev için yeni bir oturum başlatın**: Bağımsız görevler — makale yazma, araştırma, hata ayıklama — bağlam karışmasını önlemek için her biri kendi oturumuna sahip olmalıdır.
+**Her görev için yeni bir oturum başlatın**: Makale yazma, araştırma, hata ayıklama gibi bağımsız görevlerin her biri kendi oturumunda yürütülmelidir; böylece bağlamlar birbirine karışmaz.
 </Callout>
 
 <Callout type="tip">
-**Uzun oturumlarda periyodik olarak özetleyin**: 20+ turdan sonra, veri kaybını önlemek için Kimi'den önemli bilgileri özetlemesini proaktif olarak isteyin.
+**Uzun oturumlarda düzenli özet alın**: 20’den fazla turdan sonra veri kaybını önlemek için Kimi’den önemli bilgileri özetlemesini proaktif olarak isteyin.
 </Callout>
 
 <Callout type="tip">
-**Hassas bilgileri zamanında temizleyin**: Sohbet geçmişi saklanır; özel içerik işlendikten sonra tüm oturumu silin.
+**Hassas bilgileri vakit kaybetmeden temizleyin**: Sohbet geçmişi saklanır; özel içerikleri işledikten sonra tüm oturumu silin.
 </Callout>

@@ -54,14 +54,13 @@ Due to the 256K character context limit of large language models (approximately 
 ## Important notes
 
 <Callout type="warning">
-**credit usage**: Agent tasks consume credits from the shared pool (other membership features). Kimi Code uses a separate credit pool. Each Agent task typically consumes 1 credit unit. For detailed credit information by membership tier, see [Credits & Billing](/agent/quota-and-billing).
+**credit usage**: Agent tasks consume credits from the shared pool. Kimi Code also draws from this shared pool but has its own 5-hour / weekly rate limit that applies only to Kimi Code. Each Agent task typically consumes 1 credit unit. For detailed credit information by membership tier, see [Credits & Billing](/agent/quota-and-billing).
 
-- Free tier: 6 Agent tasks/month
-- Paid tiers: 60–720 Agent tasks/month depending on your plan
+- 60–720 Agent tasks/month depending on your plan
 </Callout>
 
 - **Execution time**: In Agent mode, a single task typically takes 5–20 minutes. Agent Swarm tasks may take longer. You can leave the page — just don't click Stop to interrupt the task.
-- **credit usage**: Agent tasks consume credits from the shared pool. Kimi Code uses a separate credit pool. 
+- **credit usage**: Agent tasks consume credits from the shared pool, which Kimi Code also draws from (Kimi Code has its own 5-hour / weekly rate limit).
 - **Simple tasks**: For simple Q&A, standard chat mode is recommended for faster responses.
 
 <Callout type="warning">
@@ -94,4 +93,4 @@ Agent uses a context length of **256K characters** (approximately 40,000–50,00
 
 **Q: How are Agent credits calculated?**
 
-Agent, PPT, and other membership features share one credit pool. Kimi Code uses a separate credit pool. Each Agent task typically counts as one credit unit.
+All membership features, including Kimi Code, share one credit pool. Each Agent task typically counts as one credit unit.

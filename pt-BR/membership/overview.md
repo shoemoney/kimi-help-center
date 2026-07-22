@@ -4,46 +4,49 @@ slug: "membership-overview"
 order: 1
 extract_headings: true
 preview: true
-preview_content: "Compare os cinco níveis de assinatura do Kimi, o sistema de créditos e as opções de cobrança."
+preview_content: "Compare os quatro níveis de assinatura da Kimi, o sistema de créditos e as opções de cobrança."
 ---
 
 <SeoMeta
-  title="Visão geral da assinatura do Kimi - Central de Ajuda Kimi"
-  description="Compare os cinco níveis de assinatura do Kimi, o sistema de créditos e as opções de cobrança."
+  title="Visão geral da assinatura Kimi - Central de Ajuda Kimi"
+  description="Compare os quatro níveis de assinatura da Kimi, o sistema de créditos e as opções de cobrança."
 />
 
 # Visão geral dos planos de assinatura
 
-O Kimi oferece cinco níveis de assinatura — incluindo um plano gratuito — projetados para acompanhar suas necessidades, da produtividade do dia a dia aos fluxos de trabalho mais avançados. Os recursos do Agent e os demais recursos da assinatura do Kimi compartilham um único pool de créditos; o Kimi Code tem seu próprio pool de créditos separado. O K2.6 não consome créditos.
+A Kimi oferece quatro níveis de assinatura — pensados para acompanhar suas necessidades, da produtividade do dia a dia aos fluxos de trabalho de usuários avançados.
 
-## Comparação de planos
+Todos os recursos da assinatura Kimi compartilham um único pool de créditos. Implantação de sites, Deep Research, Slides, Kimi Code, Kimi Work, Kimi Claw e outros recursos da assinatura consomem os créditos da assinatura. No Chat, o K2.6 é gratuito para todos os usuários e não consome créditos.
 
-| Recurso | Adagio (Gratuito) | Moderato US$ 19/mês | Allegretto US$ 39/mês | Allegro US$ 99/mês | Vivace US$ 199/mês |
-| --- | --- | --- | --- | --- | --- |
-| Créditos do Agent* | 6 | 60 | 150 | 360 | 720 |
-| Tarefas simultâneas do Agent | 1 | 2 | 2 | 4 | 4 |
-| Prioridade de velocidade do Agent | — | 4× | 4× | 4× | 4× |
-| Agent Swarm (beta) | — | 25 usos | 50 usos | 120 usos | 240 usos |
-| Subtarefas simultâneas do Agent Swarm | — | 2 | 4 | 4 | 8 |
-| Créditos do Kimi Code | — | 1× | 5× | 15× | 30× |
-| Kimi Claw | — | — | ✅ | ✅ | ✅ |
-| Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
-| Base de dados profissional | 200 chamadas | 2.000 chamadas | 5.000 chamadas | 12.000 chamadas | 24.000 chamadas |
+## Comparação dos planos
 
-\* Valores aproximados, com base no consumo típico de tokens por tarefa. Os créditos mensais são convertidos no número equivalente de tarefas para o mesmo recurso; apenas para referência.
+| Recurso | Moderato US$ 19/mês | Allegretto US$ 39/mês | Allegro US$ 99/mês | Vivace US$ 199/mês |
+| --- | --- | --- | --- | --- |
+| Créditos do Agent* | 60 | 150 | 360 | 720 |
+| Tarefas simultâneas do Agent | 2 | 2 | 4 | 4 |
+| Prioridade de velocidade do Agent | 4× | 4× | 4× | 4× |
+| Agent Swarm (beta) | 25 usos | 50 usos | 120 usos | 240 usos |
+| Subtarefas simultâneas do Agent Swarm | 2 | 4 | 4 | 8 |
+| Créditos do Kimi Code | 1× | 5× | 15× | 30× |
+| Kimi Claw | — | ✅ | ✅ | ✅ |
+| Kimi Claw Android | — | ✅ | ✅ | ✅ |
+| Banco de dados profissional | 2.000 chamadas | 5.000 chamadas | 12.000 chamadas | 24.000 chamadas |
+
+\* Valores aproximados com base no consumo típico de tokens por tarefa. Os créditos mensais são convertidos no número equivalente de tarefas para o mesmo recurso; apenas para referência.
 
 <Callout type="tip">
-Aproveite todo o seu limite de créditos dentro de um mesmo recurso
+Use todo o limite de créditos na mesma função
 </Callout>
 
 ## Como funciona a cobrança
 
-- **Pool de créditos** — os recursos do Agent e os demais recursos da assinatura do Kimi compartilham um único pool de créditos; o Kimi Code tem seu próprio pool de créditos separado, medido pelo uso de tokens.
-- **Renovação mensal** — os créditos são zerados no início de cada ciclo de cobrança.
+- **Pool de créditos** — Todos os recursos da assinatura (implantação de sites, Deep Research, Slides, Kimi Code, Kimi Work, Kimi Claw, K3 e K3 Swarm) compartilham um único pool de créditos, medido pelo uso de tokens. Consumir créditos em qualquer recurso afeta os demais.
+- **Rate limit do Kimi Code** — O Kimi Code também tem um rate limit de 5 horas / semanal que se aplica apenas ao Kimi Code e não afeta os outros recursos da assinatura.
+- **Renovação mensal** — Os créditos são redefinidos no início de cada ciclo de cobrança.
 
 ## Economize com a cobrança anual
 
-Mude para a cobrança anual e economize até **US$ 480/ano**. Consulte os [Detalhes de preços](/membership/membership-pricing) para ver o detalhamento completo.
+Mude para a cobrança anual e economize até **US$ 480/ano**. Consulte os [Detalhes de preços](/membership/membership-pricing) para ver a discriminação completa.
 
 <ColumnsContent
   columns={[
@@ -67,7 +70,7 @@ Mude para a cobrança anual e economize até **US$ 480/ano**. Consulte os [Detal
     },
     {
       title: "Fale conosco",
-      description: "Obtenha ajuda com questões de cobrança",
+      description: "Receba ajuda com problemas de cobrança",
       pageUrl: "/membership/membership-contact",
       type: "comment",
     },

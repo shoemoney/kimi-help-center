@@ -1,5 +1,5 @@
 ---
-title: "Aturan pembaruan & penggunaan kredit"
+title: "Aturan pembaruan dan penggunaan credit"
 slug: "update-rules"
 order: 3
 extract_headings: true
@@ -7,62 +7,64 @@ preview: false
 ---
 
 <SeoMeta
-  title="Aturan pembaruan & penggunaan kredit - Pusat Bantuan Kimi"
-  description="Fitur Agent dan fitur keanggotaan Kimi lainnya berbagi satu kumpulan kredit; Kimi Code memiliki kumpulan kredit terpisahnya sendiri. Kredit dipakai sesuai penggunaan sebenarnya."
+  title="Aturan pembaruan dan penggunaan credit - Pusat Bantuan Kimi"
+  description="Semua fitur keanggotaan Kimi menggunakan satu kumpulan credit bersama. Credit dipakai sesuai penggunaan aktual."
 />
 
-# Aturan pembaruan & penggunaan kredit
+# Aturan pembaruan dan penggunaan credit
 
 <Callout type="info">
-Fitur Agent dan fitur keanggotaan Kimi lainnya berbagi satu kumpulan kredit; Kimi Code memiliki kumpulan kredit terpisahnya sendiri. Kredit dipakai sesuai penggunaan sebenarnya.
+Semua fitur keanggotaan Kimi (Agent, Deep Research, Slides, Docs, Sheets, Kimi Code, Kimi Work, Kimi Claw, dll.) menggunakan satu kumpulan credit bersama. Credit dipakai sesuai penggunaan aktual.
 </Callout>
 
-## Bagaimana cara kerja kumpulan kredit bersama?
-Fitur keanggotaan Kimi berbagi satu kumpulan kredit yang berlaku di mana saja. Fitur Agent dan fitur Kimi lainnya semuanya menariknya dari sana:
+## Bagaimana cara kerja kumpulan credit bersama?
+Fitur keanggotaan Kimi menggunakan satu kumpulan credit bersama yang berlaku di mana saja. Fitur Agent dan fitur Kimi lainnya sama-sama mengambil credit dari kumpulan ini:
 | Fitur | Deskripsi |
 |---------|-------------|
-| **Tugas Agent** | Website, dokumen, slide, spreadsheet, deep research |
-| **Kimi Claw** | Asisten AI pribadi Anda yang berbasis cloud |
+| **Tugas Agent** | Situs web, dokumen, slide, spreadsheet, Deep Research |
+| **Kimi Code** | Asisten coding berbasis AI untuk developer |
+| **Kimi Work** | Aplikasi desktop Kimi |
+| **Kimi Claw** | Asisten AI pribadi Anda yang diterapkan di cloud |
 | **Fitur lainnya** | Pembuatan gambar dan lainnya |
 
-> **K2.6**: Percakapan dengan model K2.6 tidak memakai kredit
-> **Kimi Code**: Asisten koding bertenaga AI (kumpulan kredit terpisah)
+> **K2.6**: Di Chat, K2.6 gratis untuk semua pengguna dan tidak memakai credit; jika digunakan sebagai Agent K2.6 di dalam Kimi Work, credit keanggotaan tetap dipakai.
+> **Kimi Code**: Mengambil credit dari kumpulan credit bersama yang sama, tetapi memiliki rate limit tersendiri per 5 jam / mingguan yang hanya berlaku untuk Kimi Code.
 
 <Callout type="tip">
-Ini berarti Anda bebas mengalokasikan kredit sesuka hati di seluruh kumpulan bersama — pakai lebih banyak untuk riset di satu bulan, lebih banyak untuk dokumen di bulan berikutnya. K2.6 tidak memakai kredit.
+Artinya, Anda bebas mengalokasikan credit di seluruh kumpulan bersama ini — misalnya lebih banyak untuk riset bulan ini, lalu lebih banyak untuk dokumen bulan berikutnya. Di Chat, K2.6 tidak memakai credit.
 </Callout>
 
-## Bagaimana kredit dihitung?
-Kredit dipakai berdasarkan jumlah token yang diproses sebuah tugas. Input dan output yang lebih panjang memakai lebih banyak token.
+## Bagaimana credit dihitung?
+Credit dipakai berdasarkan jumlah token yang diproses oleh sebuah tugas. Input dan output yang lebih panjang menggunakan lebih banyak token.
 
 <Callout type="info">
-**Panduan kasar untuk pengguna tier gratis**:
-- Membuat deck slide sederhana ≈ 1–2% dari kredit Anda
-- Menjalankan laporan deep research ≈ 5–10%
+**Perkiraan kasar untuk pengguna paket gratis**:
+- Membuat deck slide sederhana ≈ 1–2% dari credit Anda
+- Menjalankan laporan Deep Research ≈ 5–10%
 - Menulis cuplikan kode ≈ 0,5–2%
-Paket tier lebih tinggi disertai kumpulan kredit yang proporsional lebih besar.
+Paket tingkat lebih tinggi menyediakan kumpulan credit yang lebih besar secara proporsional.
 </Callout>
 
-## Aturan penyegaran kredit
+## Aturan refresh credit
 | Aturan | Deskripsi |
 |------|-------------|
-| **Siklus** | Pelanggan bulanan maupun tahunan sama-sama menerima kredit dengan siklus **bulanan** |
-| **Kedaluwarsa** | Kredit yang tak terpakai kedaluwarsa di akhir setiap siklus — tidak dibawa ke periode berikutnya atau dikonversi menjadi uang tunai |
-| **Batasan** | Setiap tugas dapat dikenai batas concurrency 5 jam dan 7 hari sebagaimana ditampilkan di UI |
+| **Siklus** | Pelanggan bulanan maupun tahunan menerima credit dalam siklus **bulanan** |
+| **Kedaluwarsa** | Credit yang tidak digunakan akan kedaluwarsa pada akhir setiap siklus — tidak diakumulasikan ke siklus berikutnya dan tidak dapat dikonversi menjadi uang tunai |
+| **Batas** | Tugas individual dapat dikenai batas concurrency 5 jam dan 7 hari seperti yang ditampilkan di UI |
 
-## Saat kredit habis
+## Saat credit habis
 - Tugas yang sudah berjalan akan tetap selesai seperti biasa
-- Tugas baru akan memunculkan pesan "kredit tidak mencukupi"
+- Tugas baru akan menampilkan pesan "credit tidak mencukupi"
 
 **Pilihan Anda**:
 
-- Tunggu kredit Anda disegarkan pada siklus penagihan berikutnya
-- Tingkatkan ke paket tier lebih tinggi untuk jatah bulanan yang lebih besar
-## Bagaimana persisnya kredit disegarkan?
-1. **Berbasis siklus** — Kredit disegarkan pada tanggal ulang langganan Anda, bukan bulan kalender
-2. **Tanpa carry-over** — Sisa kredit direset menjadi nol, lalu jatah penuh Anda diterbitkan ulang
-3. **Contoh** — Jika Anda berlangganan pada 1 Desember pukul 15.00, kredit Anda disegarkan pada 1 Januari pukul 15.00
+- Tunggu hingga credit Anda di-refresh pada siklus penagihan berikutnya
+- Upgrade ke paket tingkat lebih tinggi untuk mendapatkan jatah bulanan yang lebih besar
+## Bagaimana tepatnya credit di-refresh?
+1. **Berbasis siklus** — Credit di-refresh pada tanggal ulang tahun langganan Anda, bukan berdasarkan bulan kalender
+2. **Tidak diakumulasikan** — Sisa credit direset menjadi nol, lalu jatah penuh Anda diterbitkan kembali
+3. **Contoh** — Jika Anda berlangganan pada 1 Desember pukul 15.00, credit Anda di-refresh pada 1 Januari pukul 15.00
 
 <Callout type="info">
-**Kesalahan sistem**: Jika sebuah tugas gagal akibat masalah sistem, gunakan tombol 👎 untuk melaporkannya dan meminta pengembalian kredit.
+**Kesalahan sistem**: Jika tugas gagal karena masalah sistem, gunakan tombol 👎 untuk melaporkannya dan meminta pengembalian credit.
 </Callout>

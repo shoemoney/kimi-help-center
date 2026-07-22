@@ -8,73 +8,77 @@ preview: false
 
 <SeoMeta
   title="Deep Research FAQ - Kimi Help Center"
-  description="Frequently asked questions about Deep Research: tasks stuck or not returning results, search direction drift, context length, credit deduction rules, credits deducted after stopping a task, and downloading or saving reports."
+  description="Answers to common Deep Research questions: tasks getting stuck or producing no result, incorrect search direction, context length, credit deduction rules, credits deducted after stopping manually, and downloading or saving research reports."
 />
 
 # Deep Research FAQ
 
-## Deep Research is stuck or not returning results?
+## What should I do if Deep Research is stuck or has not produced a result?
+
+Deep Research performs extensive web retrieval, source verification, and reasoning. If the page does not refresh promptly, it does not necessarily mean the task has stopped. You can try the following:
+
+1. Refresh the browser page;
+2. Temporarily leave the current conversation (this will not affect task execution);
+3. Return later to check the result. The task will continue running in the background.
+
+If there is still no result after refreshing, check that your network connection is stable, then wait a little longer.
 
 <Callout type="info">
-Deep Research performs extensive web searches, source verification, and reasoning. A page that hasn't visually updated does not mean the task has been interrupted.
+Deep Research usually takes 10–25 minutes. You may leave the page while it is running. The task will run asynchronously in the background, and you will receive a notification when it is complete. If the page looks abnormal, refresh it. Do not click “Stop generating”.
 </Callout>
 
-What you can do:
+## What if the search or reasoning goes in the wrong direction?
 
-1. **Refresh the browser page**
-2. **Temporarily leave the current conversation** (this does not affect task execution)
-3. **Check back later** — the task continues running in the background
+In very rare cases, we have found that Deep Research may search in a direction that deviates from the research topic.
 
-If no results appear after refreshing, verify that your network connection is stable and wait a few more minutes.
+If Deep Research’s search direction or reasoning conclusion is clearly off track, click the “👎” button at the bottom of the page right away. In the pop-up window, briefly describe the “issue type + specific deviation” (for example: search deviated from the topic / conclusion is inconsistent with the facts). The platform will complete the review within 1–3 business days. If the issue is confirmed, the credits consumed by this task will be automatically refunded.
 
-<Callout type="warning">
-**Execution time**: Deep Research typically takes 10–25 minutes. You can leave the page during execution — the task runs asynchronously and you'll be notified upon completion. If the page appears unresponsive, **refresh** — do **not** click "Stop output."
-</Callout>
+**How to reduce directional deviations**:
 
-## Search or reasoning direction went wrong?
+- **Narrow the scope**: Specify the time range, geographic scope, and source types to avoid an overly broad question;
+- **Make good use of Clarification**: After you submit a question, Kimi will ask for Clarification. Use this step to clearly state what you do not want covered and add the dimensions that need special attention;
+- **Keep your input concise**: If your input during Clarification is too long, unclear, or drifts away from the original question, the research direction may go off track.
 
-If Deep Research's search direction or reasoning has significantly deviated from expectations, click the "👎" button at the bottom of the page and briefly describe the issue — e.g., "search drifted off-topic" or "conclusions contradict known facts." Our team will review within 1–3 business days. If confirmed, credits for that task will be automatically refunded.
+## What is the context length for Deep Research?
 
-**How to reduce direction drift** — when submitting your question:
+Kimi-Researcher has a context length of **128K tokens** (about 60,000–100,000 Chinese characters). This refers to the maximum number of tokens the model can process in a single run, including both input and output. This means it can **refer to** a large amount of text in one research task, enough to support complex and in-depth research analysis. Note, however, that **the maximum length of generated content is usually much smaller than the context window**.
 
-| Tip | Description |
-| --- | --- |
-| **Focus the scope** | Define time range, geographic scope, and source types to avoid overly broad questions |
-| **Leverage clarification** | Use the clarification prompt to state directions you don't want covered and add focus dimensions |
-| **Keep input concise** | Overly long or unclear input during clarification may cause drift |
-
-## What is Deep Research's context length?
+| Concept | Meaning | Notes |
+|------|------|------|
+| **Context window** | The maximum token limit supported by the model | 128K tokens, including input and output |
+| **Input limit** | The length of reference materials + instructions that can be sent at one time | Recommended to keep it within 100K tokens |
+| **Output limit** | The maximum length the model can generate in one response | Usually about 8K–16K tokens, far smaller than the context window |
 
 <Callout type="info">
-Deep Research uses a context length of **128K tokens** (approximately 200,000 words).
+**Common misconception**: a 128K context does not mean the model can output 128K of content in one go. Output length is usually 1/8 to 1/16 of the context window.
 </Callout>
 
-This means Kimi-Researcher can process and reference a substantial volume of text in a single research task — more than enough to support complex, in-depth report generation.
+**Why does the output sometimes stop before it is finished?** When a research report is too long, the model may truncate the response on its own (stop after reaching the single-output limit), suggest continuing, or output it in sections. This is not a malfunction; it is the normal behavior of the output limit. If the report is not complete, simply reply “continue” or “please finish the remaining sections”. For complex research, we recommend asking it to generate the report chapter by chapter.
 
-<Callout type="tip">
-**Tip**: If your research question is too broad, consider breaking it into multiple sub-questions and researching them separately. This improves the depth and accuracy of each individual task.
+**Usage tips**: Place key information at both the beginning and the end of your prompt to avoid the “Lost in the Middle” effect; summarize very long reference materials first instead of pasting the full text; start a new conversation or summarize the current one in a timely manner during multi-turn conversations; if the topic is too broad, split it into multiple sub-questions and research them separately.
+
+## Why were credits deducted even though the task was not completed?
+
+Deep Research also distinguishes between “regular chat” and “task execution”. Once you select the “Deep Research” task, billing is based on the task type.
+
+- **Billing method**: Credits are deducted based on the actual tokens consumed by the task. Deep Research shares one credit pool with other membership features, including Kimi Code.
+- **Refund for task failure**: If task execution fails and no valid result is returned, no token consumption will be deducted.
+
+You can view the token credit usage of your current membership account under “Me → Manage → Subscription”.
+
+<Callout type="info">
+If you need further assistance, contact our staff through the in-product “👎” feedback channel, or email [support@moonshot.cn](mailto:support@moonshot.cn).
 </Callout>
 
-## Credits were deducted before the task finished?
+## Why were credits deducted after I stopped the task manually?
 
-Deep Research distinguishes between "standard conversations" and "task execution." Once you select a Deep Research task, billing is applied based on the task type.
+Once Deep Research starts, the system calls compute resources for retrieval, verification, and reasoning. These resources have already been reserved, so clicking “Stop” manually or closing the page is considered credit consumption.
 
-- **Billing method**: Credits are deducted from the shared pool (other membership features). Kimi Code uses a separate credit pool.
-- **Refund on failure**: If a task fails (no valid results returned), click the "👎" feedback button. Our team will verify the issue and refund the corresponding credits.
+If the page has not updated for a long time, we recommend refreshing the browser first or checking again later, so you do not interrupt the task because you mistakenly think it is stuck. Deep Research usually takes 10–25 minutes. You may leave the page while it is running. The task will run asynchronously in the background, and you will receive a notification when it is complete.
 
-To check remaining credits, hover over the Deep Research mode button to view your current free and paid remaining credits.
+## Why can’t I download or save a Deep Research report?
 
-> For further assistance, use the in-product "👎" feedback button to contact our team, or email [support@moonshot.ai](mailto:support@moonshot.ai).
-
-## I stopped the task myself — why were credits still deducted?
-
-Once Deep Research begins, the system immediately allocates compute resources for retrieval, verification, and reasoning. Since resources are already reserved, manually clicking "Stop" or closing the page is treated as consumed credits.
-
-If the page hasn't updated for an extended period, try refreshing the browser or checking back later — avoid terminating the task based on a false assumption that it's stuck. Deep Research typically takes 10–25 minutes; you can leave the page during execution — the task runs asynchronously in the background and you'll be notified upon completion.
-
-## Can't download or save a Deep Research report?
-
-Deep Research produces two types of reports, both of which can be saved.
+Deep Research generates two types of reports, both of which can be saved.
 
 **Text research report**
 
@@ -83,15 +87,12 @@ Deep Research produces two types of reports, both of which can be saved.
   alt="Download entry"
 />
 
-Click the **"Download"** or **"Copy"** button in the upper-right corner. The report can be saved locally or pasted for use. Export formats: PDF and Word.
+Click the “Download” or “Copy” button in the upper-right corner to save the report locally or paste it elsewhere. Reports can be exported in PDF or Word format.
 
 **Visual report**
 
-Click **"Preview" → "Share" → "Copy link" → open in a browser → right-click "Save as"** to save as HTML, PDF, or other formats.
+Click “Preview” → “Share” → “Copy link” → open it in your browser → right-click and choose “Save as” to save it in formats such as HTML or PDF. Visual reports also support:
 
-<Callout type="tip">
-**Visual report features**:
-- **Preview**: Click "Preview" to switch between desktop and mobile views
-- **HTML source code**: Click Preview → switch to "Code mode" to copy the source code
-- **Public sharing**: Click Share to generate a public sharing link
-</Callout>
+- **Preview**: Click “Preview” to switch between web and mobile views;
+- **Copy HTML source code**: Click preview, switch to “Code mode”, and copy and paste the source code of the visual report;
+- **Public sharing**: Click share to obtain a public sharing link.

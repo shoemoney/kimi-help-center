@@ -1,97 +1,96 @@
 ---
-title: "Agent: Funktionen und Einschränkungen"
+title: "Agent-Funktionen und -Einschränkungen"
 slug: "agent-features-and-limits"
 order: 3
 extract_headings: false
 preview: false
 ---
 
-# Agent: Funktionen und Einschränkungen
+# Agent-Funktionen und -Einschränkungen
 
 <SeoMeta
-  title="Agent: Funktionen & Einschränkungen - Kimi Hilfecenter"
-  description="Erfahren Sie mehr über die Fähigkeiten von Kimi Agent, nützliche Tipps, Einschränkungen und bewährte Methoden für optimale Ergebnisse."
+  title="Agent-Funktionen und -Einschränkungen – Kimi Help Center"
+  description="Erfahren Sie mehr über die Fähigkeiten von Kimi Agent, Tipps zur Nutzung, Einschränkungen und Best Practices für optimale Ergebnisse."
 />
 
 <Callout type="info">
-**Kimi Agent** ist ein KI-gestützter Assistent, der komplexe Aufgaben eigenständig durch mehrstufiges Denken und die Einbindung von Werkzeugen erledigt. Dieser Leitfaden behandelt bewährte Methoden, Einschränkungen und häufige Fragen, damit Sie den Agent-Modus optimal nutzen können.
+**Kimi Agent** ist ein KI-gestützter Assistent, der komplexe Aufgaben mithilfe mehrstufiger Schlussfolgerungen und integrierter Tools eigenständig ausführt. Dieser Leitfaden erklärt Best Practices, Einschränkungen und häufige Fragen, damit Sie den Agent-Modus optimal nutzen können.
 </Callout>
 
-## Nützliche Tipps
+## Tipps zur Nutzung
 
-**(1) Vor dem Absenden einer Aufgabe**
+**(1) Vor dem Einreichen einer Aufgabe**
 
-Nennen Sie Hintergrundinformationen und Rahmenbedingungen klar – etwa den Projektkontext, den Anwendungsfall und besondere Anforderungen –, damit Kimi Ihre Absicht genauer erfassen kann.
+Formulieren Sie Hintergrundinformationen und Rahmenbedingungen klar — etwa Projektkontext, Anwendungsfall und besondere Anforderungen — damit Kimi Ihre Absicht genauer versteht.
 
 **(2) Während der Ausführung**
 
-Kimi Agent läuft asynchron im Hintergrund. Wenn die Webseite eingefroren oder blockiert wirkt, **klicken Sie nicht auf „Stopp“** – dadurch wird die Aufgabenausführung abgebrochen. Sie können die Seite verlassen; die Aufgabe läuft im Hintergrund weiter, und Sie erhalten nach Abschluss eine Benachrichtigung. Bei Aufgaben, die voraussichtlich länger dauern (z. B. Agent Swarm), haben Sie bitte etwas Geduld.
+Kimi Agent arbeitet asynchron im Hintergrund. Wenn die Webseite eingefroren oder blockiert wirkt, **klicken Sie nicht auf „Stopp“** — dadurch wird die Ausführung der Aufgabe unterbrochen. Sie können die Seite verlassen; die Aufgabe läuft im Hintergrund weiter, und Sie erhalten eine Benachrichtigung, sobald sie abgeschlossen ist. Bei Aufgaben, die voraussichtlich länger dauern (z. B. Agent Swarm), haben Sie bitte etwas Geduld.
 
 **(3) Website-Szenarien**
 
-Agent kann vollständige Full-Stack-Inhalte erzeugen, einschließlich Frontend-Oberflächen, Backend-Diensten und Logik zur dauerhaften Datenspeicherung. Läuft ein Projekt nicht wie erwartet, liegt das meist am Sandbox-Start, an der Datenbankinitialisierung, an der Authentifizierungskonfiguration oder an fehlenden Veröffentlichungsschritten. Der Standard-Agent läuft in der Cloud und kann nicht direkt auf lokale Dateien oder Intranetsysteme von Unternehmen zugreifen. Für den Zugriff auf lokale Dateien oder das Intranet verwenden Sie Kimi Claw.
+Agent kann Full-Stack-Inhalte erzeugen, einschließlich Frontend-Oberflächen, Backend-Services und Logik für persistente Speicherung. Wenn ein Projekt nicht wie erwartet läuft, liegt die Ursache meist beim Start der Sandbox, der Datenbankinitialisierung, der Auth-Konfiguration oder fehlenden Veröffentlichungsaktionen. Der Standard-Agent läuft in der Cloud und kann nicht direkt auf lokale Dateien oder Enterprise-Intranetsysteme zugreifen. Für den Zugriff auf lokale Dateien oder Intranets verwenden Sie Kimi Claw.
 
 <Callout type="tip">
-**Müssen Sie auf lokale Dateien zugreifen?** Nutzen Sie Kimi Claw für den sicheren Zugriff auf lokale Dateien und Intranetsysteme von Unternehmen. Mehr dazu finden Sie in der [Dokumentation zu Kimi Claw](/kimi-claw/overview).
+**Müssen Sie auf lokale Dateien zugreifen?** Verwenden Sie Kimi Claw für sicheren Zugriff auf lokale Dateien und Enterprise-Intranetsysteme. Weitere Informationen finden Sie in der [Kimi Claw-Dokumentation](/kimi-claw/overview).
 </Callout>
 
-**(4) Dialoge über mehrere Runden und Aufgabenanpassungen**
-Über mehrere Dialogrunden und Überarbeitungen hinweg kann der Agent manche frühen Details „vergessen“. Am besten legen Sie zunächst das Aufgabengerüst und die Kernpunkte fest und nehmen anschließend schrittweise Anpassungen vor.
+**(4) Mehrstufige Gespräche und Aufgabenanpassungen**
+Bei mehreren Dialog- und Überarbeitungsrunden kann der Agent einige frühere Details „vergessen“. Am besten legen Sie zuerst den Aufgabenrahmen und die wichtigsten Punkte fest und nehmen danach schrittweise Anpassungen vor.
 
-**(5) Aufteilung großer Aufgaben**
-Große, komplexe Aufgaben unterteilen Sie am besten in 2–3 Phasen und reichen sie Kimi nach und nach ein – oder Sie nutzen Agent Swarm.
+**(5) Große Aufgaben aufteilen**
+Teilen Sie große, komplexe Aufgaben in 2–3 Phasen auf und reichen Sie diese stapelweise bei Kimi ein, oder verwenden Sie Agent Swarm.
 
-**(6) Einschränkungen bei der Dateiausgabe**
-Im Standard-Agent-Modus kann pro Aufgabe in der Regel nur eine Datei ausgegeben werden (z. B. ein Dokument oder eine Tabelle). Für mehrere Dateien (z. B. ein Word-Dokument und eine PPT) verwenden Sie Agent Swarm.
+**(6) Einschränkungen bei Dateiausgaben**
+Im Standard-Agent-Modus kann pro Aufgabe in der Regel nur eine Datei ausgegeben werden (z. B. ein Dokument oder eine Tabelle). Für mehrere Dateien (z. B. sowohl ein Word-Dokument als auch eine PPT) verwenden Sie Agent Swarm.
 
-**(7) Kontextgrenzen und Ausgewogenheit der Ausgabe**
-Aufgrund der Kontextgrenze großer Sprachmodelle von 256K Zeichen (etwa 40.000–50.000 chinesische Zeichen / ca. 100.000 englische Wörter) erfordert die Verarbeitung großer Dateimengen ein ausgewogenes Verhältnis zwischen Ein- und Ausgabevolumen.
+**(7) Kontextgrenzen und ausgewogene Ausgabe**
+Wegen der Kontextgrenze großer Sprachmodelle von 256K Zeichen (ungefähr 40.000–50.000 chinesische Zeichen / ca. 100.000 englische Wörter) müssen beim Verarbeiten großer Dateimengen Eingabe- und Ausgabeumfang sorgfältig austariert werden.
 
 <Callout type="warning">
-**Hinweis zur Kontextgrenze**: Agent nutzt ein Kontextfenster von 256K Zeichen. Für optimale Ergebnisse geben Sie einen knappen Kontext an und überlasten Sie ihn nicht mit unnötigen Dateien.
+**Hinweis zur Kontextgrenze**: Agent verwendet ein Kontextfenster von 256K Zeichen. Für optimale Ergebnisse sollten Sie den Kontext knapp halten und unnötige Dateien vermeiden.
 </Callout>
 
 ## Wichtige Hinweise
 
 <Callout type="warning">
-**Credit-Nutzung**: Agent-Aufgaben verbrauchen Credits aus dem gemeinsamen Kontingent (weitere Mitgliedschaftsfunktionen). Kimi Code nutzt ein separates Credits-Kontingent. Jede Agent-Aufgabe verbraucht in der Regel 1 Credit-Einheit. Ausführliche Informationen zu den Credits nach Mitgliedschaftsstufe finden Sie unter [Credits & Abrechnung](/agent/quota-and-billing).
+**credit-Nutzung**: Agent-Aufgaben verbrauchen credits aus dem gemeinsamen Pool. Auch Kimi Code greift auf diesen gemeinsamen Pool zu, hat jedoch ein eigenes 5-Stunden-/wöchentliches rate limit, das nur für Kimi Code gilt. Jede Agent-Aufgabe verbraucht in der Regel 1 credit-Einheit. Ausführliche Informationen zu credits je Mitgliedschaftsstufe finden Sie unter [Credits & Abrechnung](/agent/quota-and-billing).
 
-- Kostenlose Stufe: 6 Agent-Aufgaben/Monat
-- Kostenpflichtige Stufen: 60–720 Agent-Aufgaben/Monat je nach Tarif
+- 60–720 Agent-Aufgaben/Monat, abhängig von Ihrem Tarif
 </Callout>
 
-- **Ausführungsdauer**: Im Agent-Modus dauert eine einzelne Aufgabe in der Regel 5–20 Minuten. Aufgaben mit Agent Swarm können länger dauern. Sie können die Seite verlassen – klicken Sie nur nicht auf „Stopp“, um die Aufgabe nicht abzubrechen.
-- **Credit-Nutzung**: Agent-Aufgaben verbrauchen Credits aus dem gemeinsamen Kontingent. Kimi Code nutzt ein separates Credits-Kontingent.
-- **Einfache Aufgaben**: Für einfache Fragen und Antworten empfiehlt sich der Standard-Chat-Modus, da er schneller antwortet.
+- **Ausführungszeit**: Im Agent-Modus dauert eine einzelne Aufgabe normalerweise 5–20 Minuten. Agent Swarm-Aufgaben können länger dauern. Sie können die Seite verlassen — klicken Sie nur nicht auf Stopp, da Sie sonst die Aufgabe unterbrechen.
+- **credit-Nutzung**: Agent-Aufgaben verbrauchen credits aus dem gemeinsamen Pool, auf den auch Kimi Code zugreift (Kimi Code hat ein eigenes 5-Stunden-/wöchentliches rate limit).
+- **Einfache Aufgaben**: Für einfache Fragen und Antworten empfiehlt sich der normale Chatmodus, da er schneller reagiert.
 
 <Callout type="warning">
-**Inhaltliche Konformität**: Die Agent-Funktionen unterliegen dem [Kimi Nutzungsvereinbarung](https://www.kimi.com/user/agreement/modelUse?version=v2). Das Erzeugen unzulässiger Inhalte wird nicht unterstützt; das Einreichen unzulässiger Inhalte kann zur Sperrung des Dienstes führen.
+**Inhaltskonformität**: Agent-Funktionen unterliegen dem [Kimi User Service Agreement](https://www.kimi.com/user/agreement/modelUse?version=v2). Das Erzeugen verbotener Inhalte wird nicht unterstützt; das Einreichen verbotener Inhalte kann zur Sperrung des Dienstes führen.
 </Callout>
 
-## Häufige Fragen
+## FAQ
 
 **F: Was kann Agent?**
 
-Agent erfüllt die folgenden Anforderungen durch mehrere Werkzeugaufrufe:
+Agent deckt die folgenden Anforderungen durch mehrere Tool-Aufrufe ab:
 - **Texterstellung und -bearbeitung**: Erstellen von Artikeln, Berichten, Dokumenten usw. mit Unterstützung verschiedener Schreibstile und Formate.
-- **Webentwicklung**: Aufbau von Full-Stack-Projektoberflächen und -diensten, einschließlich App-Oberflächendesign, Backend-Integration, dauerhafter Datenspeicherung und Datenvisualisierung.
-- **Folienerstellung**: Spezielles webbasiertes PPT-Werkzeug zum Erstellen vollständiger Präsentationen.
-- **Programmierhilfe**: Schreiben und Debuggen von Code in mehreren Programmiersprachen.
+- **Webentwicklung**: Aufbau von Full-Stack-Projektoberflächen und -Services, einschließlich App-Oberflächendesign, Backend-Integration, Datenpersistenz und Datenvisualisierung.
+- **Folienerstellung**: Spezielles webbasiertes PPT-Tool zum Erstellen vollständiger Präsentationen.
+- **Programmierunterstützung**: Code schreiben und debuggen in mehreren Programmiersprachen.
 
-**F: Warum funktioniert die von Agent erstellte Website nicht?**
+**F: Warum funktioniert die mit Agent erstellte Website nicht?**
 
-Ein vollständiges Projekt besteht in der Regel aus drei Teilen: Frontend-Oberfläche, Backend-Dienste und Datenspeicherung. Agent kann Full-Stack-Inhalte über alle drei Ebenen hinweg erzeugen. Läuft Ihr Projekt nicht wie erwartet, liegt das meist am Sandbox-Start, an der Datenbankinitialisierung, an der Authentifizierungskonfiguration oder an fehlenden Veröffentlichungsschritten.
+Ein vollständiges Projekt besteht typischerweise aus drei Teilen: Frontend-Oberfläche, Backend-Services und Datenspeicherung. Agent kann Full-Stack-Projektinhalte über alle drei Ebenen hinweg erzeugen. Wenn Ihr Projekt nicht wie erwartet läuft, liegt die Ursache meist beim Start der Sandbox, der Datenbankinitialisierung, der Auth-Konfiguration oder fehlenden Veröffentlichungsaktionen.
 
-**F: Was sind die Ergebnisse von Agent?**
+**F: Was liefert Agent als Ergebnis?**
 
-- Vollständige Dateien der Aufgabenausführung
+- Vollständige Dateien zur Aufgabenausführung
 - Bereitgestellte Projektvorschau und veröffentlichte Versionen
-- Herunterladbares Zip-Archiv (zu finden unter `/mnt/okcomputer/output/`)
+- Herunterladbares ZIP-Archiv (unter `/mnt/okcomputer/output/`)
 
-**F: Wie groß ist die Kontextlänge von Agent?**
+**F: Wie lang ist der Kontext von Agent?**
 
-Agent nutzt eine Kontextlänge von **256K Zeichen** (etwa 40.000–50.000 chinesische Zeichen / ca. 100.000 englische Wörter).
+Agent verwendet eine Kontextlänge von **256K Zeichen** (ungefähr 40.000–50.000 chinesische Zeichen / ca. 100.000 englische Wörter).
 
-**F: Wie werden die Credits von Agent berechnet?**
+**F: Wie werden Agent-credits berechnet?**
 
-Agent, PPT und weitere Mitgliedschaftsfunktionen teilen sich ein Credits-Kontingent. Kimi Code nutzt ein separates Credits-Kontingent. Jede Agent-Aufgabe zählt in der Regel als eine Credit-Einheit.
+Alle Mitgliedschaftsfunktionen, einschließlich Kimi Code, nutzen einen gemeinsamen credit-Pool. Jede Agent-Aufgabe zählt in der Regel als eine credit-Einheit.

@@ -8,40 +8,40 @@ preview: false
 
 <SeoMeta
   title="Preguntas frecuentes sobre Deep Research - Centro de ayuda de Kimi"
-  description="Preguntas frecuentes sobre Deep Research: tareas bloqueadas o sin resultados, desviaciones en la dirección de búsqueda, longitud de contexto, reglas de deducción de créditos, créditos descontados después de detener una tarea, y descarga o guardado de informes."
+  description="Preguntas frecuentes sobre Deep Research: tareas bloqueadas o sin resultados, desviaciones en la dirección de búsqueda, longitud del contexto, reglas de deducción de créditos, créditos descontados después de detener una tarea y descarga o guardado de informes."
 />
 
 # Preguntas frecuentes sobre Deep Research
 
-## ¿Deep Research se quedó bloqueado o no devuelve resultados?
+## ¿Deep Research está bloqueado o no devuelve resultados?
 
 <Callout type="info">
-Deep Research realiza búsquedas web extensas, verifica fuentes y lleva a cabo razonamientos. Que la página no muestre cambios visuales no significa que la tarea se haya interrumpido.
+Deep Research realiza búsquedas web exhaustivas, verifica fuentes y aplica razonamiento. Que una página no muestre cambios visuales no significa que la tarea se haya interrumpido.
 </Callout>
 
 Qué puedes hacer:
 
 1. **Actualiza la página del navegador**
 2. **Sal temporalmente de la conversación actual** (esto no afecta la ejecución de la tarea)
-3. **Vuelve a revisar más tarde** — la tarea sigue ejecutándose en segundo plano
+3. **Vuelve más tarde**: la tarea seguirá ejecutándose en segundo plano
 
 Si después de actualizar no aparecen resultados, verifica que tu conexión de red sea estable y espera unos minutos más.
 
 <Callout type="warning">
-**Tiempo de ejecución**: Deep Research suele tardar entre 10 y 25 minutos. Puedes salir de la página durante la ejecución: la tarea se procesa de forma asíncrona y recibirás una notificación al finalizar. Si la página parece no responder, **actualízala**; **no** hagas clic en "Detener salida".
+**Tiempo de ejecución**: Deep Research suele tardar entre 10 y 25 minutos. Puedes salir de la página durante la ejecución: la tarea se procesa de forma asíncrona y recibirás una notificación cuando termine. Si la página parece no responder, **actualízala**; **no** hagas clic en "Detener salida".
 </Callout>
 
-## ¿La búsqueda o el razonamiento tomó una dirección equivocada?
+## ¿La búsqueda o el razonamiento tomó una dirección incorrecta?
 
-Si la dirección de búsqueda o el razonamiento de Deep Research se alejó considerablemente de lo esperado, haz clic en el botón "👎" al final de la página y describe brevemente el problema; por ejemplo, "la búsqueda se desvió del tema" o "las conclusiones contradicen hechos conocidos". Nuestro equipo lo revisará en un plazo de 1 a 3 días hábiles. Si se confirma el problema, los créditos de esa tarea se reembolsarán automáticamente.
+Si la dirección de búsqueda o el razonamiento de Deep Research se alejó considerablemente de lo esperado, haz clic en el botón "👎" al final de la página y describe brevemente el problema; por ejemplo, "la búsqueda se desvió del tema" o "las conclusiones contradicen hechos conocidos". Nuestro equipo revisará el caso en un plazo de 1 a 3 días hábiles. Si se confirma el problema, los créditos de esa tarea se reembolsarán automáticamente.
 
-**Cómo reducir la desviación del enfoque** — al enviar tu pregunta:
+**Cómo reducir desviaciones de dirección**: al enviar tu pregunta:
 
 | Consejo | Descripción |
 | --- | --- |
-| **Delimita el alcance** | Define el periodo, el ámbito geográfico y los tipos de fuentes para evitar preguntas demasiado amplias |
-| **Aprovecha la aclaración** | Usa la solicitud de aclaración para indicar qué direcciones no quieres cubrir y agregar dimensiones de enfoque |
-| **Sé conciso en la entrada** | Una entrada demasiado larga o poco clara durante la aclaración puede provocar desviaciones |
+| **Delimita el alcance** | Define el período, el alcance geográfico y los tipos de fuentes para evitar preguntas demasiado amplias |
+| **Aprovecha la aclaración** | Usa la solicitud de aclaración para indicar qué direcciones no quieres que se cubran y agregar dimensiones de enfoque |
+| **Mantén la entrada concisa** | Una entrada demasiado larga o poco clara durante la aclaración puede provocar desviaciones |
 
 ## ¿Cuál es la longitud de contexto de Deep Research?
 
@@ -49,7 +49,7 @@ Si la dirección de búsqueda o el razonamiento de Deep Research se alejó consi
 Deep Research usa una longitud de contexto de **128K tokens** (aproximadamente 200,000 palabras).
 </Callout>
 
-Esto significa que Kimi-Researcher puede procesar y consultar un volumen considerable de texto en una sola tarea de investigación, más que suficiente para generar informes complejos y profundos.
+Esto significa que Kimi-Researcher puede procesar y consultar un volumen considerable de texto en una sola tarea de investigación: más que suficiente para generar informes complejos y profundos.
 
 <Callout type="tip">
 **Consejo**: Si tu pregunta de investigación es demasiado amplia, considera dividirla en varias subpreguntas e investigarlas por separado. Esto mejora la profundidad y la precisión de cada tarea individual.
@@ -59,18 +59,18 @@ Esto significa que Kimi-Researcher puede procesar y consultar un volumen conside
 
 Deep Research distingue entre "conversaciones estándar" y "ejecución de tareas". Una vez que seleccionas una tarea de Deep Research, la facturación se aplica según el tipo de tarea.
 
-- **Método de facturación**: Los créditos se descuentan de la bolsa compartida (otras funciones de la membresía). Kimi Code usa una bolsa de créditos independiente.
-- **Reembolso por fallo**: Si una tarea falla (no devuelve resultados válidos), haz clic en el botón de comentarios "👎". Nuestro equipo verificará el problema y reembolsará los créditos correspondientes.
+- **Método de facturación**: Los créditos se descuentan del fondo compartido que usan todas las funciones de la membresía, incluido Kimi Code.
+- **Reembolso por falla**: Si una tarea falla (no devuelve resultados válidos), haz clic en el botón de comentarios "👎". Nuestro equipo verificará el problema y reembolsará los créditos correspondientes.
 
 Para consultar los créditos restantes, coloca el cursor sobre el botón del modo Deep Research y verás tus créditos gratuitos y de pago disponibles actualmente.
 
-> Para obtener más ayuda, usa el botón de comentarios "👎" dentro del producto para contactar a nuestro equipo, o escribe a [support@moonshot.ai](mailto:support@moonshot.ai).
+> Si necesitas más ayuda, usa el botón de comentarios "👎" dentro del producto para comunicarte con nuestro equipo, o escribe a [support@moonshot.ai](mailto:support@moonshot.ai).
 
-## Detuve la tarea manualmente: ¿por qué aun así se descontaron créditos?
+## Detuve la tarea manualmente: ¿por qué se descontaron créditos de todos modos?
 
-Cuando Deep Research comienza, el sistema asigna de inmediato recursos de cómputo para la recuperación, la verificación y el razonamiento. Como los recursos ya quedaron reservados, hacer clic manualmente en "Detener" o cerrar la página se considera consumo de créditos.
+Cuando Deep Research comienza, el sistema asigna de inmediato recursos de cómputo para recuperación, verificación y razonamiento. Como esos recursos ya quedaron reservados, hacer clic manualmente en "Detener" o cerrar la página se considera consumo de créditos.
 
-Si la página no se ha actualizado durante un periodo prolongado, intenta actualizar el navegador o vuelve a revisar más tarde. Evita terminar la tarea por suponer erróneamente que está bloqueada. Deep Research suele tardar entre 10 y 25 minutos; puedes salir de la página durante la ejecución: la tarea se procesa de forma asíncrona en segundo plano y recibirás una notificación al finalizar.
+Si la página no se ha actualizado durante un período prolongado, intenta actualizar el navegador o vuelve más tarde; evita finalizar la tarea por la falsa suposición de que está bloqueada. Deep Research suele tardar entre 10 y 25 minutos; puedes salir de la página durante la ejecución: la tarea se procesa de forma asíncrona en segundo plano y recibirás una notificación cuando termine.
 
 ## ¿No puedes descargar o guardar un informe de Deep Research?
 
@@ -87,6 +87,6 @@ Haz clic en **"Vista previa" → "Compartir" → "Copiar enlace" → abrir en un
 <Callout type="tip">
 **Funciones del informe visual**:
 - **Vista previa**: Haz clic en "Vista previa" para alternar entre las vistas de escritorio y móvil
-- **Código fuente HTML**: Haz clic en "Vista previa" → cambia a "modo Código" para copiar el código fuente
-- **Compartir públicamente**: Haz clic en "Compartir" para generar un enlace público para compartir
+- **Código fuente HTML**: Haz clic en Vista previa → cambia a "Modo código" para copiar el código fuente
+- **Uso compartido público**: Haz clic en Compartir para generar un enlace público para compartir
 </Callout>

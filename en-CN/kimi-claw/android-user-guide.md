@@ -1,5 +1,5 @@
 ---
-title: "Kimi Claw Android Product Introduction"
+title: "Kimi Claw Android Product Overview"
 slug: "android-user-guide"
 order: 3
 extract_headings: true
@@ -9,27 +9,27 @@ preview_content: "Deploy OpenClaw on an Android phone and turn an idle device in
 
 <SeoMeta
   title="Kimi Claw Android User Guide - Kimi Help Center"
-  description="This article explains how to deploy OpenClaw on an Android phone and turn an idle device into your 24/7 online AI remote assistant."
+  description="This guide shows you how to deploy OpenClaw on an Android phone and turn an idle device into your 24/7 online AI remote assistant."
   ogType="article"
 />
 
-Welcome to Kimi Claw Android. This article explains how to deploy OpenClaw on an Android phone and turn an idle device into your 24/7 online AI remote assistant. You can remotely control the phone, use apps, connect smart home devices, and build a personalized assistant of your own through Kimi, Feishu, WeChat, and other chat apps.
+Welcome to Kimi Claw Android. This guide shows you how to deploy OpenClaw on an Android phone and turn an idle device into your 24/7 online AI remote assistant. You can remotely control the phone, use apps, connect smart home devices, and build a personalized assistant of your own through chat apps such as Kimi, Feishu, and WeChat.
 
 <Callout type="warning">
-• We recommend deploying Kimi Claw Android on an idle phone to avoid conflicts with everyday use.
+• We recommend deploying Kimi Claw Android on an idle phone to avoid conflicts with your daily use.
 </Callout>
 
 <Callout type="warning">
-• Do not manually upgrade OpenClaw. The official team will push adapted new versions through version updates.
+• Do not manually upgrade OpenClaw. Official adapted versions will be delivered through version update pushes.
 </Callout>
 
 <Callout type="info">
-Use Control (Command) + F to quickly find error messages/keywords.
+Use Control (Command) + F to quickly find error messages or keywords.
 </Callout>
 
-# Introduction to Kimi Claw Android
+# About Kimi Claw Android
 
-Kimi Claw Android is an app that deploys OpenClaw on an Android phone. Unlike the cloud-based Kimi Claw, OpenClaw in Kimi Claw Android does not run on a cloud virtual machine. It runs on your own phone as a dedicated machine inside your device.
+Kimi Claw Android is an app that deploys OpenClaw on an Android phone. Unlike cloud-based Kimi Claw, OpenClaw in Kimi Claw Android does not run on a cloud virtual machine. It runs on your own phone as a dedicated machine inside your terminal.
 
 <Frames
   src="./images/android-user-guide/screenshot-01.png"
@@ -57,7 +57,7 @@ You can download it in the following ways:
 
 **Method 1: Scan the QR code on the website**
 
-Log in to the Kimi official website, find the “Download Kimi Claw Android” entry, and use your Android phone to scan the QR code on the page.
+Log in to the Kimi official website, find the entry for “Download Kimi Claw Android,” and scan the QR code on the page with your Android phone to download it.
 
 <Frames
   src="./images/android-user-guide/screenshot-02.png"
@@ -73,7 +73,7 @@ Search for "Kimi Claw" in your phone’s app store and complete the download.
 
 <Frames
   src="./images/android-user-guide/screenshot-04.png"
-  alt="Search and download in the app store"
+  alt="Search and download from app store"
   width={1080}
   height={2392}
 />
@@ -92,11 +92,11 @@ Open the Kimi App and tap Kimi Claw Android to download it.
 
 ### Initial setup
 
-When you open Kimi Claw Android for the first time, you will see a welcome page. After reviewing the following important information, tap “Start setup” to enter the setup flow.
+When you open Kimi Claw Android for the first time, you will see the welcome page. After reading the following important information, tap “Start setup” to enter the setup flow.
 
-- Quick deployment of OpenClaw — Deploy OpenClaw to your local phone and communicate through Kimi, Feishu, and more
-- Use an idle phone — Kimi Claw Android requires a stable network to run, so an idle phone is recommended
-- Use it safely — OpenClaw may present privacy and security risks; use it with caution
+- quickly deploy OpenClaw — Deploy OpenClaw to your local phone and communicate through Kimi, Feishu, and other channels
+- Use an idle phone — Kimi Claw Android requires a stable network to run; an idle phone is recommended
+- Use it safely — OpenClaw may involve privacy and security risks, so use it with caution
 
 Select the checkbox to agree to the Privacy Agreement and User Agreement, then continue.
 
@@ -106,18 +106,18 @@ Kimi Claw Android needs the following permissions to run stably in the backgroun
 
 | Permission | Description | Action |
 |------|------|------|
-| System notifications | Show gateway status and reminders | Authorize |
+| System notifications | Display gateway status and reminders | Authorize |
 | Storage permission | At least 5GB of available space is required | Clean up when space is insufficient |
 | Background running permission | Keep the gateway running when switched to the background | Grant background running permission |
 
-Auto-start permission setup guide:
+Auto-start permission guide:
 
-Because settings paths vary by phone brand, the general steps are as follows:
+Because settings paths vary by phone brand, here are the general steps:
 
-1. Tap “Open settings” to go to your phone’s settings page
+1. Tap “Open settings” to go to the phone settings page
 2. Enter the app management list and select Kimi Claw Android
-3. Turn on the auto-start switch
-4. In power consumption management, select “Fully allow background activity”
+3. Turn on auto-start
+4. In power consumption management, select “Allow background behavior completely”
 5. Return to Kimi Claw Android and tap “I’m done” to continue installation
 
 <Frames
@@ -139,7 +139,7 @@ Tap “Configure” to go to the Kimi App for authorization. After authorization
 />
 
 
-If you are a free user, you need to activate membership benefits first. Tap “Upgrade subscription” to subscribe. Kimi Claw Android requires the Allegretto tier to activate.
+If you are not subscribed, you need to activate membership benefits first. Tap “Upgrade subscription” to subscribe. Kimi Claw Android requires Allegretto level to activate.
 
 
 
@@ -153,7 +153,7 @@ If you are a free user, you need to activate membership benefits first. Tap “U
 />
 
 
-If installation fails, tap “Reinstall” to try again. If it fails repeatedly, tap “Having issues? Give feedback” to submit the issue.
+If installation fails, tap “Reinstall” to try again. If it fails multiple times, tap “Having issues? Send feedback” to submit the issue.
 
 ## Dashboard guide
 
@@ -161,17 +161,17 @@ If installation fails, tap “Reinstall” to try again. If it fails repeatedly,
 
 After setup is complete, you will enter the Dashboard main screen, where you can see the following information:
 
-- **OpenClaw gateway status** — Starting / Connected / Stopped, plus runtime
+- **OpenClaw Gateway status** — Starting / Connected / Stopped, and runtime
 - **Chat channels** — List of currently connected communication channels
-- **OpenClaw logs** — Raw logs from OpenClaw
-- **Chat with Kimi** — Open the Kimi App, go to the conversation for the corresponding Kimi Claw Android, and automatically switch to the corresponding Claw
+- **OpenClaw logs** — Raw logs generated while OpenClaw is running
+- **Chat with Kimi** — Open the Kimi App, open the conversation page for the corresponding Kimi Claw Android, and automatically switch to the corresponding Claw
 
-If a permission reminder appears at the top of the Dashboard, it means a permission has not been granted or has expired. Follow the prompts to complete each authorization and ensure Kimi Claw Android runs properly.
+If a permission reminder appears at the top of the Dashboard, it means some permissions have not been granted or have expired. Follow the prompts to grant them one by one to ensure Kimi Claw Android runs properly.
 
 
 <Frames
   src="./images/android-user-guide/screenshot-16.png"
-  alt="Dashboard status after startup"
+  alt="Dashboard startup complete status"
   width={1080}
   height={2392}
 />
@@ -193,7 +193,7 @@ In the Dashboard, you can manage all communication channels:
 
 
 <Callout type="warning">
-Keep at least one chat channel so you can communicate with Kimi Claw Android properly.
+Keep at least one chat channel so that you can communicate with Kimi Claw Android properly.
 </Callout>
 
 ### Real-time logs
@@ -214,16 +214,16 @@ Real-time logs help you check OpenClaw’s running status and troubleshoot issue
 
 ### Settings
 
-Tap “Settings” to open the settings page:
+Tap “Settings” to enter the settings page:
 
 **Feature layer:**
 
 - **SkillHub Skills**: Automatically link to the SkillHub official website and manage skills available to Kimi Claw Android
-- **OpenClaw workspace**: Open the local OpenClaw configuration directory and edit your personal preferences
+- **OpenClaw workspace**: Enter the local OpenClaw configuration file directory and edit your personal preferences
 
 **System layer:**
 
-- **Backup and restore**: Back up the current OpenClaw configuration and history, and restore previous configurations and records
+- **Backup and restore**: Back up current OpenClaw configurations and history, with support for restoring previous configurations and records
 - **Accessibility service**: Monitor the phone’s accessibility service permission
 - **Background running permission**: Monitor the phone’s background running permission
 - **Version upgrade**: Check the version and tap to upgrade automatically
@@ -244,7 +244,7 @@ Tap “Settings” to open the settings page:
 
 #### SkillHub Skills
 
-After opening it, you will be redirected to SkillHub, where you can download a Skill to Kimi Claw Android with one tap. Pull down to select the Skill you want, open its page, and tap Install to import the Skill.
+After opening it, you will be automatically redirected to SkillHub, where you can download a Skill to Kimi Claw Android with one tap. Select the Skill you want to download from the dropdown, open its page, and tap Install to import the Skill.
 
 <Frames
   src="./images/android-user-guide/screenshot-21.png"
@@ -275,15 +275,15 @@ Open it to enter the local OpenClaw runtime directory, where you can define your
 
 #### Backup and restore
 
-Kimi Claw Android provides automatic and manual backup features to ensure your OpenClaw history and configuration are not lost.
+Kimi Claw Android provides automatic and manual backup features to ensure your OpenClaw history and configurations are not lost.
 
 **Automatic backup**
 
-Each time OpenClaw Gateway starts successfully, Kimi Claw Android automatically backs up the current OpenClaw history and configuration, packages them into a compressed file, and saves it. No manual action is needed; the system completes the process in the background.
+After each successful OpenClaw Gateway startup, Kimi Claw Android automatically backs up the current OpenClaw history and configurations, packages them as a compressed file, and saves it. No manual action is required; the system completes this automatically in the background.
 
 **Manual backup**
 
-If you want to record the state at a specific moment, you can also tap Backup to manually save a snapshot of the current history and configuration. Tap Backup to export all current configuration backups.
+If you want to save the state at a specific moment, you can also tap Backup to manually save a snapshot of the current history and configurations. Tap Backup to export all current configuration backups.
 
 <Frames
   src="./images/android-user-guide/screenshot-26.png"
@@ -293,21 +293,21 @@ If you want to record the state at a specific moment, you can also tap Backup to
 />
 
 
-**Restore configuration**
+**Restore configurations**
 
-Kimi Claw Android supports restoring to a previous configuration state, including both automatic backup states and manually backed-up states from Kimi Claw Android.
+Kimi Claw Android supports restoring to a previous configuration state. Both automatic backup states and manually backed-up states from Kimi Claw Android are supported.
 
-You can use Restore to revert to a previous state in the following scenarios:
+You can use restore to return to an earlier state in the following scenarios:
 
 - If history is lost after uninstalling or reinstalling the App, you can restore previous records
-- If you need to switch Claw configurations, you can restore a previously saved configuration state
-- When redeploying on a new phone, import the backup file to restore everything
+- If you need to switch Claw configurations, you can restore to a previously saved configuration state
+- When deploying again on a new phone, import the backup file to restore
 
-Tap the corresponding backup file in the backup list to automatically restore the history and configuration from that point in time, ensuring previous records are not erased.
+Tap the corresponding backup file in the backup list to automatically restore the history and configurations from that point in time, ensuring previous records are not erased.
 
 <Frames
   src="./images/android-user-guide/screenshot-28.png"
-  alt="Backup restoration page"
+  alt="Backup restore page"
   width={1080}
   height={2392}
 />
@@ -318,9 +318,9 @@ Tap the corresponding backup file in the backup list to automatically restore th
 
 ### Kimi
 
-Kimi is the default communication channel. After you finish configuring your Kimi account in the Onboarding flow, it connects automatically with no extra steps required.
+Kimi is the default communication channel. After you configure your Kimi account in the Onboarding flow, it connects automatically and requires no additional action.
 
-After installation and setup are complete, your Kimi Claw Android will automatically appear on the Bot switching page on both Web and App. After you tap to switch, the avatar and chat Thread will switch accordingly.
+After installation and setup are complete, your Kimi Claw Android will automatically appear on the Bot switching page on both Web and App. After you switch to it, the avatar and chat Thread will switch accordingly.
 
 <Frames
   src="./images/android-user-guide/screenshot-31.png"
@@ -337,28 +337,28 @@ After installation and setup are complete, your Kimi Claw Android will automatic
 />
 
 <Callout type="info">
-In Bot management, Kimi Claw Android only supports editing the Bot name and deleting the Bot.
+In Bot management, Kimi Claw Android supports only two actions: editing the Bot name and deleting the Bot.
 </Callout>
 
 ### Feishu
 
-#### Create by scanning a QR code (recommended)
+#### Create by scanning QR code (recommended)
 
-1. Tap “Create by QR code”
+1. Tap “Create by QR scan”
 2. Scan the QR code with Feishu
 3. Complete Feishu app creation in the browser
 4. Wait for the status to update automatically
 
 <Frames
   src="./images/android-user-guide/screenshot-33.png"
-  alt="Create with Feishu QR code"
+  alt="Create Feishu by QR scan"
   width={1080}
   height={2392}
 />
 
 #### Open Feishu to create
 
-Tap “Open Feishu to create” and follow the prompts in Feishu to complete app creation. The status will automatically update to “Connected”.
+Tap “Open Feishu to create,” follow the prompts in Feishu to complete app creation, and the status will automatically update to “Connected.”
 
 <Frames
   src="./images/android-user-guide/screenshot-34.png"
@@ -382,9 +382,9 @@ Tap “Open Feishu to create” and follow the prompts in Feishu to complete app
   height={534}
 />
 
-#### Delete a Feishu channel
+#### Delete the Feishu channel
 
-Tap the connected Feishu channel and select Delete. After deletion, you will no longer communicate with OpenClaw through that Feishu bot.
+Tap the connected Feishu channel and select Delete. After deletion, this Feishu bot will no longer be used to communicate with OpenClaw.
 
 <Frames
   src="./images/android-user-guide/screenshot-38.png"
@@ -395,9 +395,9 @@ Tap the connected Feishu channel and select Delete. After deletion, you will no 
 
 ### WeChat
 
-To use the WeChat channel, you first need to install WeChat Claw on WeChat. Kimi Claw Android will communicate through the WeChat Claw terminal.
+For the WeChat channel, you must first install WeChat Claw on the WeChat side. Kimi Claw Android will communicate through the WeChat Claw terminal.
 
-First complete the Claw installation by following the official WeChat instructions. When WeChat ClawBot appears on the chat page, installation is complete.
+Complete the Claw installation according to the official WeChat guide. When WeChat ClawBot appears on the chat page, installation is complete.
 
 <Frames
   src="./images/android-user-guide/screenshot-39.png"
@@ -407,58 +407,58 @@ First complete the Claw installation by following the official WeChat instructio
 />
 
 
-Enter Kimi Claw Android, connect the WeChat channel, and complete it by scanning the QR code with WeChat.
+Go to Kimi Claw Android, connect the WeChat channel, and scan the QR code with WeChat to complete the process.
 
 
 
 <Frames
   src="./images/android-user-guide/screenshot-43.png"
-  alt="Waiting for WeChat QR code connection"
+  alt="Waiting for WeChat QR scan connection"
   width={1080}
   height={2392}
 />
 
 ## Automation
 
-One of Kimi Claw Android’s core capabilities is operating apps on the phone to complete different tasks. After you send an instruction to Claw through Kimi, Feishu, WeChat, or another chat channel, Claw automatically opens the corresponding app on the phone and performs a series of actions like a real person, ultimately completing the task you specified.
+One of Kimi Claw Android’s core capabilities is controlling apps on the phone to complete various tasks. After you send instructions to Claw through chat channels such as Kimi, Feishu, or WeChat, Claw will automatically open the corresponding App on the phone and perform a series of actions like a real user, ultimately completing the task you specify.
 
 ### How it works
 
 When you send a task instruction to Claw through a chat channel, Claw will:
 
 1. Understand your task requirements
-2. Automatically open the corresponding app on the phone
-3. Complete the task step by step by simulating user actions such as taps, swipes, and text input
+2. Automatically open the corresponding App on the phone
+3. Complete the task step by step by simulating user actions, such as tapping, swiping, and typing
 4. Take screenshots during execution so you can review the process
-5. Report the result to you after the task is complete
+5. Report the execution result to you after completing the task
 
 <Callout type="warning">
-Automation runs relatively slowly, so an idle phone is recommended.
+Automation runs relatively slowly. We recommend using an idle phone.
 </Callout>
 
-### Typical use cases
+### Common use cases
 
 #### Shopping and consumption
 
-Search for products, add items to the cart, view orders, claim coupons, and more on platforms such as Taobao, Tmall, and Meituan.
+Search for products, add items to cart, check orders, claim coupons, and more on platforms such as Taobao, Tmall, and Meituan.
 
 #### Travel and navigation
 
-Check ride-hailing prices, view metro schedules, search nearby hotels, book trips, and more in Amap.
+Check ride-hailing prices on Amap, view metro timetables, search for nearby hotels, book trips, and more.
 
 #### Social and content
 
-Check messages, browse content, search products, interact, and more on platforms such as Xiaohongshu and Douyin.
+View messages, browse content, search for products, and interact on platforms such as Xiaohongshu and Douyin.
 
-## Usage tips
+## Tips
 
 ### Control your phone through chat apps
 
-After setup is complete, you can send instructions to Claw in Kimi, Feishu, and WeChat to remotely control apps on the Android phone. For example:
+After setup is complete, you can send instructions to Claw in Kimi, Feishu, or WeChat to remotely control apps on your Android phone. For example:
 
 - "Open WeChat for me and check the latest messages"
-- "Open the map and search for nearby restaurants"
-- "Check my calendar and see what’s on today"
+- "Open the map and search for restaurants nearby"
+- "Check my calendar and see what I have scheduled today"
 
 ### Use SkillHub Skills
 
@@ -467,26 +467,26 @@ Kimi Claw Android includes the SkillHub skill library. You can manage and instal
 **Scenarios suitable for using Skills:**
 
 - **Information organization**: News summaries, competitor comparisons
-- **Data analysis**: Market summaries, data interpretation
-- **Workflow automation**: An end-to-end process from requirement breakdown to output
+- **Data analysis**: Market review, data interpretation
+- **Workflow automation**: End-to-end processes from requirement breakdown to final output
 
-### Multiple channels online at the same time
+### Stay online across multiple channels
 
-You can connect Kimi, Feishu, WeChat, and other channels at the same time, and chat with Claw in different chat apps. In Dashboard channel management, tap “+ Connect” to add one.
+You can connect multiple channels such as Kimi, Feishu, and WeChat at the same time, so you can chat with Claw in different chat apps. In Dashboard channel management, tap “+ Connect” to add one.
 
-## Security and restricted apps
+## Safety and restricted apps
 
-### Security notes
+### Safety notes
 
-Before using Kimi Claw Android, note the following safety points:
+Before using Kimi Claw Android, please note the following safety points:
 
-1. **Use an idle phone** — Kimi Claw Android occupies phone operation permissions and may affect daily use. An idle phone is recommended
-2. **Isolate sensitive data** — Kimi Claw Android reads local file data, so clean up or isolate sensitive information in advance
-3. **Protect financial apps** — The system automatically blocks access to banking, payment, securities, and insurance apps to protect your funds. We also strongly recommend not installing banking, payment, securities, insurance, or other financial apps on the current phone
+1. **Use an idle phone** — Kimi Claw Android uses phone operation permissions and may affect daily use. An idle phone is recommended
+2. **Isolate sensitive data** — Kimi Claw Android reads local file data. Please clean up or isolate sensitive information in advance
+3. **Protect financial apps** — The system automatically blocks access to banking, payment, securities, and insurance apps to protect your funds. We also strongly recommend that you do not install banking, payment, securities, insurance, or other financial apps on the current phone
 
 ### Restricted app list
 
-For the security of users’ funds and privacy, Kimi Claw Android automatically blocks access to the following categories of apps, which cannot be operated through remote instructions:
+For the security of user funds and privacy, Kimi Claw Android automatically blocks access to the following categories of apps. They cannot be operated through remote instructions:
 
 #### Social - 1 app
 
@@ -503,18 +503,18 @@ For the security of users’ funds and privacy, Kimi Claw Android automatically 
 | 3 | com.bjbk.im | Bank of Beijing | Bank of Beijing; supports transfers, wealth management, and other operations |
 | 4 | com.cebbank.im | China Everbright Bank | China Everbright Bank; supports transfers, wealth management, and other operations |
 | 5 | com.cgb.im | China Guangfa Bank | China Guangfa Bank; supports transfers, wealth management, and other operations |
-| 6 | com.chinamworld.bocmbci | boc, Bank of China | Bank of China, one of China’s four major banks |
-| 7 | com.chinamworld.main | ccb, China Construction Bank | China Construction Bank, one of China’s four major banks |
+| 6 | com.chinamworld.bocmbci | boc, Bank of China | Bank of China, one of China’s four major state-owned banks |
+| 7 | com.chinamworld.main | ccb, China Construction Bank | China Construction Bank, one of China’s four major state-owned banks |
 | 8 | com.cib.im | Industrial Bank | Industrial Bank; supports transfers, wealth management, and other operations |
 | 9 | com.citic.im | China CITIC Bank | China CITIC Bank; supports transfers, wealth management, and other operations |
 | 10 | com.cmbc.im | China Minsheng Bank | China Minsheng Bank; supports transfers, wealth management, and other operations |
 | 11 | com.cmbchina.ccd.pluto.customerView | cmb, China Merchants Bank | China Merchants Bank; supports transfers, wealth management, and other operations |
 | 12 | com.hxb.im | Huaxia Bank | Huaxia Bank; supports transfers, wealth management, and other operations |
 | 13 | com.hzbk.im | Bank of Hangzhou | Bank of Hangzhou; supports transfers, wealth management, and other operations |
-| 14 | com.icbc | icbc, Industrial and Commercial Bank of China | Industrial and Commercial Bank of China, one of China’s four major banks |
+| 14 | com.icbc | icbc, Industrial and Commercial Bank of China | Industrial and Commercial Bank of China, one of China’s four major state-owned banks |
 | 15 | com.jsbk.im | Bank of Jiangsu | Bank of Jiangsu; supports transfers, wealth management, and other operations |
 | 16 | com.nbbk.im | Bank of Ningbo | Bank of Ningbo; supports transfers, wealth management, and other operations |
-| 17 | com.pingan.paces.cloud | Ping An Pocket Bank | Ping An Bank mobile app |
+| 17 | com.pingan.paces.cloud | Ping An Pocket Bank | Ping An Bank mobile client |
 | 18 | com.psbc.im | Postal Savings Bank of China | Postal Savings Bank of China |
 | 19 | com.shbk.im | Bank of Shanghai | Bank of Shanghai; supports transfers, wealth management, and other operations |
 | 20 | com.spdb.im | Shanghai Pudong Development Bank | Shanghai Pudong Development Bank |
@@ -525,23 +525,23 @@ For the security of users’ funds and privacy, Kimi Claw Android automatically 
 |---|---------|------|---------|
 | 1 | com.eg.android.AlipayGphone | alipay, Alipay | Alipay, China’s largest third-party payment platform |
 | 2 | com.paypal.android.p2pmobile | paypal | PayPal, the world’s largest online payment platform |
-| 3 | com.unionpay | ysf, UnionPay QuickPass | UnionPay QuickPass by China UnionPay, a bank card payment tool |
-| 4 | com.squareup.cash | cashapp | Cash App, a U.S. mobile payment platform |
-| 5 | com.venmo | venmo | Venmo, a U.S. P2P payment platform |
+| 3 | com.unionpay | ysf, UnionPay QuickPass | China UnionPay QuickPass, a bank card payment tool |
+| 4 | com.squareup.cash | cashapp | Cash App, a US mobile payment platform |
+| 5 | com.venmo | venmo | Venmo, a US P2P payment platform |
 | 6 | com.google.android.apps.walletnfcrel | googlewallet, wallet | Google Wallet, Google’s payment wallet |
 
-#### Securities/Stocks - 17 apps
+#### Securities / stocks - 17 apps
 
 | # | Package | Alias | Risk description |
 |---|---------|------|---------|
-| 1 | com.citics.pbm | citic, Xinyi Investment | CITIC Securities trading client |
+| 1 | com.citics.pbm | citic, Xin e Tou | CITIC Securities trading client |
 | 2 | com.cmschina.stock | China Merchants Securities | China Merchants Securities trading client |
-| 3 | com.csc108.newpda | China Securities | China Securities trading client |
+| 3 | com.csc108.newpda | CSC Financial | China Securities trading client |
 | 4 | com.dfzq.stock | Orient Securities | Orient Securities trading client |
 | 5 | com.eastmoney.android.berlin | eastmoney, East Money | East Money, a stock/fund trading platform |
 | 6 | com.ebscn.stock | ebscn, Jinyangguang | Everbright Securities trading client |
 | 7 | com.foundersc.stock | founder, Xiaofang | Founder Securities trading client |
-| 8 | com.gf.gfstocks | GF Yitao Gold | GF Securities trading client |
+| 8 | com.gf.gfstocks | GF Yitaojin | GF Securities trading client |
 | 9 | com.guosen.stock | guosen, Jintaiyang | Guosen Securities trading client |
 | 10 | com.guotai.junan.guiyang | Guotai Junan | Guotai Junan Securities trading client |
 | 11 | com.hexin.plat.android | ths, Tonghuashun | Tonghuashun, a stock/fund trading and market data platform |
@@ -552,11 +552,11 @@ For the security of users’ funds and privacy, Kimi Claw Android automatically 
 | 16 | com.xueqiu.android | xueqiu, Xueqiu | Xueqiu, a stock community and trading platform |
 | 17 | com.xyzq.stock | Industrial Securities | Industrial Securities trading client |
 
-#### Insurance/Financial - 2 apps
+#### Insurance / financial - 2 apps
 
 | # | Package | Alias | Risk description |
 |---|---------|------|---------|
-| 1 | com.pingan.lifeinsurance | Ping An Gold Manager | Ping An Insurance; supports insurance purchase, claims, and other operations |
+| 1 | com.pingan.lifeinsurance | Ping An Gold Butler | Ping An Insurance; supports insurance purchase, claims, and other operations |
 | 2 | com.jd.jrapp | JD Finance | JD Finance, providing wealth management, lending, payment, and other financial services |
 
 ## Supported and unsupported features
@@ -565,11 +565,11 @@ For the security of users’ funds and privacy, Kimi Claw Android automatically 
 
 | Feature | Description |
 |------|------|
-| Remotely control phone apps | Remotely use apps on the phone through chat app instructions |
+| Remote control of phone apps | Remotely use apps on the phone through chat app instructions |
 | Multi-channel communication | Communicate with Claw through Kimi, Feishu, and WeChat |
-| Real-time log viewing | View OpenClaw gateway runtime logs, with search and level filtering |
-| Configuration backup and restore | Back up the current configuration and restore it after reinstalling or changing devices |
-| Gateway status monitoring | View OpenClaw gateway connection status and runtime in real time |
+| Real-time log viewing | View OpenClaw Gateway runtime logs, with search and level filtering |
+| Configuration backup and restore | Back up current configurations and restore them after reinstalling or changing devices |
+| Gateway status monitoring | View OpenClaw Gateway connection status and runtime in real time |
 | Channel management | Add, view, and delete communication channels |
 | OpenClaw Dashboard | Manage OpenClaw through the built-in Dashboard |
 
@@ -577,11 +577,11 @@ For the security of users’ funds and privacy, Kimi Claw Android automatically 
 
 | Limitation | Description |
 |--------|------|
-| iOS devices | Currently only Android devices are supported; iOS is not supported |
-| Membership requirement | Requires an Allegretto or higher Kimi membership |
-| Financial app operations | Banking, payment, securities, and insurance apps are blocked from access (see Chapter 7 for details) |
-| Bot management capabilities | The Bot for Kimi Claw Android only supports editing its name and deleting it; other Bot configurations are not supported |
-| Terminal/command line | Kimi Claw Android does not currently provide direct terminal operation capabilities |
+| iOS devices | Currently supports only Android devices; iOS is not supported |
+| Membership requirement | Requires Allegretto or higher Kimi membership |
+| Financial App operations | Access to banking, payment, securities, and insurance apps is blocked (see Chapter 7 for details) |
+| Bot management capabilities | The Kimi Claw Android Bot supports only name editing and deletion; other Bot configurations are not supported |
+| Terminal / command line | Kimi Claw Android does not currently provide direct terminal operation capabilities |
 
 ## FAQ
 
@@ -589,84 +589,84 @@ For the security of users’ funds and privacy, Kimi Claw Android automatically 
 
 **What should I do if OpenClaw installation fails?**
 
-- Make sure there is enough storage space (at least 5GB), and do not exit the app or lock the screen during installation
+- Make sure there is enough storage space (at least 5GB). Do not exit the app or lock the screen during installation
 - Tap “Reinstall” to try again
-- If it fails repeatedly, tap “Having issues? Give feedback” to submit the issue
+- If it fails multiple times, tap “Having issues? Send feedback” to submit the issue
 
-**Why didn’t the status update after I granted permissions?**
+**Why doesn’t the status update after I grant permissions?**
 
 - On some phone brands, newly granted permissions take effect only after restarting the app
 - Return to Kimi Claw Android. If the status has not updated, try closing and reopening the App
 
-**Can free users use it?**
+**Can unsubscribed users use it?**
 
-- Currently, Kimi Claw Android requires Allegretto or higher Kimi membership benefits
-- In the Configure Kimi account step, tap “Upgrade” to subscribe
+- Currently, you need to activate Allegretto or higher Kimi membership benefits to use Kimi Claw Android
+- In the Kimi account configuration step, tap “Upgrade” to subscribe
 
-**Why does restoring configuration show “Invalid configuration file”?**
+**Why does restore show “Invalid configuration file”?**
 
-- The backup file may be corrupted or from an incompatible version
-- Please use “One-tap setup with Kimi App” to configure it again
+- The backup file may be damaged or from an incompatible version
+- Use “One-tap configuration in Kimi App” to configure it again
 
 ### Connection and stability
 
-**Why does the gateway status stay at “Starting”?**
+**Why does the gateway status always show “Starting”?**
 
 - Gateway startup speed depends on phone performance. Please wait patiently for 2 minutes
-- Check whether the network connection is working
+- Check whether the network connection is working properly
 - Confirm that all required permissions have been granted, including notifications, battery optimization, storage, and auto-start
-- Try tapping “Backup and restart” in Settings to restart the gateway service
+- Try tapping “Backup and Restart” in Settings to restart the gateway service
 
-**Why did the gateway suddenly disconnect?**
+**Why does the gateway suddenly disconnect?**
 
-- Check whether the phone’s network is working
-- Check whether the phone has entered power-saving mode, causing background apps to be cleared
+- Check whether the phone’s network is working properly
+- Check whether the phone has entered power saving mode, causing background apps to be cleared
 - Confirm that “Ignore battery optimization” and “Auto-start permission” have been granted correctly
-- Check the gateway status in the Dashboard. If it shows “Stopped”, tap Restart
+- Check the gateway status in Dashboard. If it shows “Stopped,” tap Restart
 
-**Why does Kimi Claw Android go offline after the phone locks?**
+**Why does Kimi Claw Android go offline after the phone is locked?**
 
 - This is usually because the phone’s battery optimization policy kills background apps
 - Make sure you have completed the following settings:
   - Ignore battery optimization — Authorized
   - Auto-start permission — Enabled
-  - Power consumption management — Select “Fully allow background activity”
+  - Power consumption management — Select “Allow background behavior completely”
 
 ### Channels and communication
 
 **Can I connect multiple chat channels at the same time?**
 
-- Yes. You can connect Kimi, Feishu, WeChat, and other channels at the same time
+- Yes. You can connect multiple channels such as Kimi, Feishu, and WeChat at the same time
 - In Dashboard channel management, tap “+ Connect” to add one
 - Keep at least one channel to ensure normal communication
 
 **Why does Feishu keep waiting for status updates after I scan the QR code?**
 
-- Make sure you have completed the Feishu app creation process in the browser
+- Make sure you have completed the Feishu app creation flow in the browser
 - If it does not update for a long time, try connecting by manually entering Bot information
 
 **Why can’t I see Kimi Claw Android in the Kimi App?**
 
-- Confirm that the Onboarding flow has been fully completed (grant permissions → install OpenClaw → configure Kimi account)
-- Check whether the gateway status in the Dashboard is “Connected”
+- Confirm that the entire Onboarding flow has been completed (grant permissions → install OpenClaw → configure Kimi account)
+- Check whether the gateway status in Dashboard is “Connected”
 - Try refreshing the Bot list in the Kimi App
 
 ### Feature usage
 
 **Why can’t some apps be operated remotely?**
 
-- For security reasons, the system automatically blocks access to banking, payment, securities, insurance, and other financial apps
-- See Chapter 7 “Restricted app list” for the full list
+- For security reasons, banking, payment, securities, insurance, and other financial apps are automatically blocked by the system
+- See Chapter 7, “Restricted app list,” for the full list
 
-**Why do I need an idle phone?**
+**Why do I need to use an idle phone?**
 
 - Kimi Claw Android may affect your normal use when operating apps
 - Using an idle phone avoids permission conflicts and helps protect your private data
-- OpenClaw Gateway requires a stable network environment, so it is best to keep the phone plugged in and running on a Wi-Fi network
+- OpenClaw Gateway requires a stable network environment, so the phone should preferably be plugged in and run on a Wi-Fi network
 
-**How do I switch phones and redeploy?**
+**How do I change phones and deploy again?**
 
-- On the old phone, export the configuration file from Dashboard → Settings → “Backup and restart”
+- On the old phone, export the configuration file from Dashboard → Settings → “Backup and Restart”
 - Install Kimi Claw Android on the new phone
 - In Step 3, select “Restore configuration” and import the previous backup file
 
@@ -680,29 +680,29 @@ For the security of users’ funds and privacy, Kimi Claw Android automatically 
 
 **How do I upgrade Kimi Claw Android?**
 
-- In Dashboard → Settings → “Version upgrade”, check for and upgrade to the latest version
+- In Dashboard → Settings → “Version upgrade,” check and upgrade to the latest version
 - We recommend upgrading over Wi-Fi
 
-**Can I manually upgrade the OpenClaw version?**
+**Can I manually upgrade OpenClaw?**
 
 - Manual upgrades are not recommended. They may cause compatibility issues
-- The official team will push in-app upgrades after adaptation is complete
+- Official upgrades will be pushed in-app after adaptation is complete
 
 ## Feedback and help
 
-If you encounter issues or have suggestions while using Kimi Claw Android:
+If you encounter issues or have suggestions while using it:
 
 **In-app feedback**
 
 - Dashboard → Settings → User feedback
-- OpenClaw installation page → “Having issues? Give feedback”
+- OpenClaw installation page → “Having issues? Send feedback”
 
 **Please provide the following when sending feedback:**
 
-- Your Kimi Claw Android ID, which you can see when tapping the Kimi channel
+- Your Kimi Claw Android ID, which you can see by tapping the Kimi channel
 - Device model and Android version
 - Issue description and screenshots
 
 <Callout type="info">
-Providing your Kimi Claw Android ID helps technical staff locate the issue quickly. Please include it with your feedback.
+Providing your Kimi Claw Android ID helps technical staff quickly locate the issue. Please include it in your feedback.
 </Callout>

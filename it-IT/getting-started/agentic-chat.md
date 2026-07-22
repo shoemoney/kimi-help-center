@@ -1,5 +1,5 @@
 ---
-title: "Iniziare a usare Kimi"
+title: "Primi passi con Kimi"
 slug: "agentic-chat"
 order: 2
 extract_headings: false
@@ -7,14 +7,14 @@ preview: false
 ---
 
 <SeoMeta
-  title="Iniziare a usare Kimi - Centro assistenza Kimi"
-  description="Scopri i tre modelli di Kimi (K2.6, K3, K3 Swarm), gli strumenti integrati e le capacità multimodali per iniziare rapidamente con la chat e l'esecuzione delle attività."
+  title="Primi passi con Kimi - Centro assistenza Kimi"
+  description="Scopri i tre modelli di Kimi (K2.6, K3, K3 Swarm), gli strumenti integrati e le funzionalità multimodali per iniziare subito con chat ed esecuzione delle attività."
 />
 
-# Iniziare a usare Kimi
+# Primi passi con Kimi
 
-Puoi digitare domande nella casella della chat, caricare file o passare da un modello all'altro a seconda delle tue esigenze.
-Apri [kimi.com](https://www.kimi.com) e prova a inviare un messaggio per salutare Kimi:
+Puoi digitare domande nella casella di chat, caricare file o passare da un modello all'altro in base alle tue esigenze.
+Apri [kimi.com](https://www.kimi.com) e prova a inviare un messaggio: saluta Kimi:
 
 <CodePreview
   files={[
@@ -28,105 +28,107 @@ Apri [kimi.com](https://www.kimi.com) e prova a inviare un messaggio per salutar
 
 ## Scegli un modello
 
-Kimi offre più modelli. Fai clic sul pulsante di selezione del modello sopra la casella di input per cambiare.
+Kimi offre più modelli. Fai clic sul pulsante di selezione del modello sopra la casella di input per cambiarlo.
 
 | Modello | Intensità di ragionamento | Ideale per |
 |-------|-------------------|----------|
-| **K2.6** | Standard / High | Conversazioni e domande e risposte rapide con risposte più veloci |
-| **K3** | Low / High / Max | Attività di chat e Agent; il più capace in assoluto |
-| **K3 Swarm** | Low / High / Max | Ricerche su larga scala ed elaborazione in batch, completate in un'unica soluzione |
+| **K2.6** | Standard / Alta | Conversazioni rapide e domande e risposte con tempi di risposta più brevi |
+| **K3** | Bassa / Alta / Max | Chat e attività Agent; il più completo in assoluto |
+| **K3 Swarm** | Bassa / Alta / Max | Ricerche su larga scala ed elaborazioni in batch, completate in un'unica sessione |
 
 <Callout type="tip">
-K2.6 non consuma crediti; K3 e K3 Swarm sono fatturati in base ai crediti. Consulta i [vantaggi dell'abbonamento](https://www.kimi.com/help/membership/membership-overview) per i dettagli.
+K2.6 non consuma credit in Chat (quando viene usato come K2.6 Agent dentro Kimi Work, consuma comunque i credit dell'abbonamento); K3 e K3 Swarm sono addebitati in credit. Per i dettagli, consulta i [vantaggi dell'abbonamento](https://www.kimi.com/help/membership/membership-overview).
 </Callout>
 
 ### Informazioni su Kimi K3
 
-Kimi K3 è attualmente il modello più potente di Kimi, con 2,8 trilioni di parametri, costruito su Kimi Delta Attention (KDA) e Attention Residuals, con **visione nativa** e una **finestra di contesto da 1 milione di token**. Essendo il primo modello aperto di classe 3T al mondo, K3 è progettato per un'intelligenza di frontiera in coding su orizzonti temporali estesi, lavoro di conoscenza e ragionamento, raggiungendo prestazioni di primo livello nel coding, nell'esecuzione su orizzonti temporali estesi e in un'ampia gamma di attività di intelligenza generale.
+Kimi K3 è attualmente il modello più potente di Kimi: conta 2,8 trilioni di parametri, si basa su Kimi Delta Attention (KDA) e Attention Residuals e offre **visione nativa** e una **finestra di contesto da 1 milione di token**. Primo modello aperto al mondo di classe 3T, K3 è progettato per offrire intelligenza di frontiera in coding di lungo orizzonte, lavoro sulla conoscenza e ragionamento, con prestazioni di primo livello nel coding, nell'esecuzione di lungo orizzonte e in un'ampia gamma di attività di intelligenza generale.
 
 ### Strumenti integrati
-Disponibili da subito, senza alcuna configurazione:
+
+Disponibili subito, senza alcuna configurazione:
+
 | Strumento | Descrizione |
 |------|------------|
 | **Web Search** | Ricerca web in tempo reale per notizie e informazioni aggiornate |
-| **Fetch Tool** | Accesso diretto a URL specifici (pagine web, documenti, immagini e altre risorse online) |
-| **Image Search** | Ricerca da testo a immagine e da immagine a immagine per trovare rapidamente contenuti visivi |
+| **Strumento Fetch** | Accesso diretto a URL specifici (pagine web, documenti, immagini e altre risorse online) |
+| **Ricerca immagini** | Ricerca da testo a immagine e da immagine a immagine per trovare rapidamente contenuti visivi |
 | **IPython** | Esecuzione di codice Python per analisi e visualizzazione dei dati |
-| **Memory** | Memoria intelligente che registra le tue preferenze e abitudini personali |
+| **Memoria** | Memoria intelligente che registra preferenze e abitudini personali |
 
-## Capacità visive e multimodali
-Kimi K3 supporta la comprensione completa di immagini, video e documenti d'ufficio (PDF/Word/Excel), grazie a un'**architettura nativamente multimodale** (non un OCR aggiunto in seguito). Può analizzare direttamente il contenuto dei documenti ed eseguire attività d'ufficio di livello intermedio-avanzato (come scrivere formule Excel o generare scalette PPT/codice VBA). Grazie alla visione nativa e a una finestra di contesto da 1 milione di token, può gestire materiali multimodali più lunghi e complessi.
-### Supporto per input multimodale
-- **Immagini**: PNG, JPEG, WebP, GIF, ecc. (tramite URL, Base64 o caricamento di file locali)
-- **Video**: MP4, ecc. (tramite video_url o sequenze di fotogrammi + parametro fps)
+## Funzionalità visive e multimodali
+Kimi K3 comprende immagini, video e documenti d'ufficio (PDF/Word/Excel) in scenari completi grazie a un'**architettura multimodale nativa** (non un OCR aggiunto a posteriori). Può analizzare direttamente il contenuto dei documenti ed eseguire attività d'ufficio da intermedie ad avanzate, come scrivere formule Excel o generare scalette PPT/codice VBA. Insieme alla visione nativa e alla finestra di contesto da 1 milione di token, può gestire materiali multimodali più lunghi e complessi.
+### Supporto per input multimodali
+- **Immagini**: PNG, JPEG, WebP, GIF, ecc. (tramite URL, Base64 o caricamento di file locale)
+- **Video**: MP4, ecc. (tramite video_url o sequenze di frame immagine + parametro fps)
 - **Documenti**: PDF, Word, Excel, TXT, Markdown, ecc.
 - **Risorse online**: URL, link ad articoli
-- **Ricerca per immagini**: carica un'immagine per cercare immagini correlate o simili
-- **Comprensione dei video**: supporta la comprensione dei video, potendo analizzare registrazioni dello schermo e replicarne la logica di interazione
-- **Coding visivo**: carica screenshot o registrazioni dello schermo per generare codice frontend (HTML/Vue/React, ecc.); può riprodurre automaticamente pagine web a partire dai mockup di design
+- **Ricerca immagini**: Carica un'immagine per cercare immagini correlate o simili
+- **Comprensione video**: Supporta la comprensione dei video: può analizzare registrazioni dello schermo e replicare la logica di interazione
+- **Coding visivo**: Carica screenshot o registrazioni dello schermo per generare codice frontend (HTML/Vue/React, ecc.); può riprodurre automaticamente pagine web a partire da mockup di design
 
 ### Formati di output
-- Testo semplice / testo e immagini misti: risposte conversazionali standard
-- Markdown: testo formattato con titoli, elenchi, tabelle e link
+- Testo semplice / testo e immagini misti: Risposte conversazionali standard
+- Markdown: Testo ricco con titoli, elenchi, tabelle e link
 - Blocchi di codice: HTML/Vue/React/Python/JSON/Mermaid, ecc. (con identificatori di linguaggio)
-- Dati strutturati JSON: output in modalità JSON forzata
-- Diagrammi Mermaid: diagrammi di flusso, diagrammi di sequenza, mappe mentali, ecc.
-- Formule matematiche LaTeX: espressioni matematiche inline e a blocco
-- Output a doppia modalità (Thinking): restituisce sia `reasoning_content` (processo di pensiero) che `content` (risposta finale)
-- Formato delle chiamate agli strumenti: formato standard Function Calling (per gli sviluppatori)
+- Dati strutturati JSON: Output forzato in modalità JSON
+- Diagrammi Mermaid: Diagrammi di flusso, diagrammi di sequenza, mappe mentali, ecc.
+- Formule matematiche LaTeX: Espressioni matematiche inline e a blocchi
+- Output a doppia modalità (Thinking): Restituisce sia `reasoning_content` (processo di ragionamento) sia `content` (risposta finale)
+- Formato di chiamata degli strumenti: Formato standard Function Calling (per sviluppatori)
 
 ### Note importanti
 
-1. **Output di file**: K3 può produrre documenti modificabili end-to-end (come `.pptx`, `.docx`, `.xlsx`, `.pdf`) e altri deliverable complessi; K2.6 si concentra su domande e risposte rapide e restituisce solo testo (come scalette PPT, corpo del testo Word o codice).
+1. **Output su file**: K3 può produrre documenti modificabili end-to-end (come `.pptx`, `.docx`, `.xlsx`, `.pdf`) e altri deliverable complessi; K2.6 si concentra su domande e risposte rapide e produce solo testo (come scalette PPT, corpo di documenti Word o codice).
 
 <Callout type="tip">
-Suggerimento: per generare immagini, audio o video, fai clic su "+" → Plugin, seleziona la funzione corrispondente e usala con **K3**. Per creare documenti modificabili complessi o eseguire attività in più passaggi, ti consigliamo di scegliere **K3** o **K3 Swarm** per un'esperienza completa.
+Suggerimento: Per generare immagini, audio o video, fai clic su "+" → Plugin, seleziona la funzionalità corrispondente e usala con **K3**. Per creare documenti modificabili complessi o svolgere attività in più passaggi, consigliamo di scegliere **K3** o **K3 Swarm** per un'esperienza completa.
 </Callout>
 
 ## Sessioni e turni di conversazione
-Quando fai clic su "Nuova chat", pensalo come l'inizio di una lunga conversazione con Kimi.
+Quando fai clic su "Nuova chat", immaginalo come l'inizio di una lunga conversazione con Kimi.
 | Concetto | Analogia | Definizione tecnica |
 |---------|---------|---------------------|
-| **Sessione** | Un'intera riunione (dall'inizio alla fine) | Un processo di chat completo con un inizio e una fine ben definiti |
-| **Turno** | Uno scambio (tu parli, Kimi risponde) | Il tuo input e la risposta di Kimi formano uno scambio completo |
+| **Sessione** | Un'intera riunione (dall'inizio alla fine) | Un processo di chat completo, con un inizio e una fine chiari |
+| **Turno** | Uno scambio (tu parli, Kimi risponde) | Il tuo input e la risposta di Kimi formano un ciclo di andata e ritorno |
 
-### Differenze chiave
+### Differenze principali
 **Sessione**
-- **Memoria continua**: Kimi ricorda tutto il contesto della chat in corso
-- **Contesto tra i turni**: ogni risposta utilizza il contenuto della conversazione precedente come contesto per il turno successivo
-- **Confini ben definiti**: fare clic su "Nuova chat" = ripartire da zero; il contesto precedente viene azzerato
+- **Memoria continua**: Kimi ricorda tutto il contesto all'interno della chat corrente
+- **Contesto tra turni**: Ogni risposta usa i contenuti precedenti della conversazione come contesto per il turno successivo
+- **Confini definiti**: Fare clic su "Nuova chat" = nuovo inizio; il contesto precedente viene cancellato
 **Turno**
-- **Conteggio cumulativo**: Turno 1, Turno 2, … aggiunti progressivamente
-- **Memoria limitata**: troppi turni (ad esempio oltre 50) possono far sì che Kimi "dimentichi" i contenuti precedenti, soprattutto nella scrittura di testi lunghi o in attività con requisiti rigorosi
-- **Limite della lunghezza del contesto**: limitato dal numero di token; quando i turni si accumulano, i contenuti più vecchi possono essere compressi
+- **Conteggio cumulativo**: Turno 1, Turno 2, … vengono aggiunti progressivamente
+- **Memoria limitata**: Troppi turni (ad es. 50+) possono portare Kimi a "dimenticare" i contenuti iniziali, soprattutto nella scrittura lunga o in attività con requisiti rigidi
+- **Vincolo di lunghezza del contesto**: Limitato dal numero di token; quando i turni si accumulano, i contenuti più vecchi possono essere compressi
 
 <Callout type="tip">
-**Caso particolare**: se una singola domanda e risposta conclude la conversazione, allora 1 turno = 1 sessione.
+**Caso limite**: Se una singola domanda e risposta conclude la conversazione, allora 1 turno = 1 sessione.
 </Callout>
 
 ## Perché questa distinzione è importante
-All'interno di una singola sessione, ogni nuova domanda o istruzione che invii riceve risposta tenendo conto di tutti i turni precedenti. Man mano che i turni si accumulano e i contenuti si allungano, la qualità delle risposte può gradualmente diminuire.
+All'interno di una singola sessione, ogni nuova domanda o istruzione che invii riceve risposta tenendo conto di tutti i turni precedenti. Man mano che i turni si accumulano e il contenuto si allunga, la qualità delle risposte può diminuire gradualmente.
 
 ### Scenari comuni
-**Scenario 1: cambio di argomento**
-- Sbagliato: chiedere "aiutami a calcolare le tasse" in una sessione in cui stavi scrivendo un romanzo di 30.000 parole
-- Giusto: avviare una nuova sessione per la domanda sulle tasse, per evitare che Kimi confonda i personaggi del romanzo con i concetti fiscali
-**Scenario 2: elaborazione di documenti lunghi**
-- Dopo decine di turni, Kimi potrebbe "dimenticare" le regole o i riepiloghi dei file stabiliti all'inizio
-- Soluzione: riassumere proattivamente durante l'attività ("Riassumi il piano fin qui"), oppure avviare una nuova sessione
-**Scenario 3: comprendere i limiti del prodotto**
-- I limiti della lunghezza del contesto si misurano in token, ma nel linguaggio quotidiano puoi pensarli come "turni"
-- Se vedi il messaggio "Avvia una nuova chat", significa che la sessione corrente ha troppi turni
+**Scenario 1: Cambio di argomento**
+- Sbagliato: Chiedere "aiutami a calcolare le tasse" in una sessione in cui stai scrivendo un romanzo di 30.000 parole
+- Corretto: Avvia una nuova sessione per la domanda sulle tasse, evitando che Kimi confonda i personaggi del romanzo con concetti fiscali
+**Scenario 2: Elaborazione di documenti lunghi**
+- Dopo decine di turni, Kimi potrebbe "dimenticare" regole o riepiloghi di file stabiliti all'inizio
+- Soluzione: Riassumi proattivamente a metà attività ("Riassumi il nostro piano finora") oppure avvia una nuova sessione
+**Scenario 3: Comprendere i limiti del prodotto**
+- I limiti di lunghezza del contesto si misurano in token, ma nella pratica quotidiana puoi pensarli come "turni"
+- Se vedi il prompt "Avvia una nuova chat", significa che la sessione corrente ha troppi turni
 ## Buone pratiche
 
 <Callout type="tip">
-**Avvia una nuova sessione per ogni attività**: attività indipendenti come scrivere un saggio, fare ricerca o eseguire il debug dovrebbero avere ciascuna la propria sessione, per evitare interferenze di contesto.
+**Avvia una nuova sessione per ogni attività**: Le attività indipendenti — scrittura di saggi, ricerca, debugging — dovrebbero avere ciascuna la propria sessione per evitare interferenze di contesto.
 </Callout>
 
 <Callout type="tip">
-**Riassumi periodicamente nelle sessioni lunghe**: dopo oltre 20 turni, chiedi proattivamente a Kimi di riassumere le informazioni chiave per evitare perdite di dati.
+**Riassumi periodicamente nelle sessioni lunghe**: Dopo 20+ turni, chiedi proattivamente a Kimi di riassumere le informazioni chiave per prevenire perdite di dati.
 </Callout>
 
 <Callout type="tip">
-**Elimina tempestivamente le informazioni sensibili**: la cronologia delle chat viene conservata; elimina l'intera sessione dopo aver trattato contenuti privati.
+**Rimuovi subito le informazioni sensibili**: La cronologia chat viene conservata; elimina l'intera sessione dopo aver gestito contenuti privati.
 </Callout>

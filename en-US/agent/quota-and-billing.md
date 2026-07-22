@@ -8,17 +8,17 @@ preview: false
 
 <SeoMeta
   title="Agent credits & billing - Kimi Help Center"
-  description="Agent mode uses Kimi's credit system. All membership benefits include two credit pools: Kimi Code uses a separate credit pool; other membership features share a single credit pool, with credits deducted based on actual token consumption."
+  description="Agent mode uses Kimi's credit system. All membership features (Agent, Deep Research, Slides, Docs, Sheets, Kimi Code, Kimi Work, Kimi Claw, etc.) share a single credit pool, with credits deducted based on actual token consumption."
 />
 
 # Agent credits & billing
 
 <Callout type="info">
-Agent mode uses Kimi's credit system. All membership benefits include two credit pools: Kimi Code uses a separate credit pool; other membership features (Agent, Deep Research, Slides, Docs, Sheets, Kimi Claw, etc.) share a single credit pool, with credits deducted based on actual token consumption.
+Agent mode uses Kimi's credit system. All membership features (Agent, Deep Research, Slides, Docs, Sheets, Kimi Code, Kimi Work, Kimi Claw, etc.) share a single credit pool, with credits deducted based on actual token consumption.
 </Callout>
 
 ## Billing model
-- **Two credit pools**: All membership benefits include two credit pools. Kimi Code uses a separate credit pool; other membership features share one credit pool — allocate usage however you like
+- **Shared credit pool**: All membership features share a single credit pool — allocate usage however you like. Kimi Code also has its own 5-hour / weekly rate limit that applies only to Kimi Code and does not affect other features
 - **Pay-per-use**: credit consumption depends on task complexity and duration (i.e., token usage) — simple tasks cost less, complex tasks cost more
 - **Monthly refresh**: Credits reset monthly, aligned with your subscription cycle
 - **Usage priority**: Bonus credits (e.g., trial credits, promotional rewards) is consumed first, followed by plan credits

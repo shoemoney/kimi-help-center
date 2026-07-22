@@ -1,34 +1,36 @@
 ---
-title: "会员套餐概览"
+title: "会员方案概览"
 slug: "membership-overview"
 order: 1
 extract_headings: true
 preview: true
-preview_content: "对比 Kimi 的五档会员套餐、额度体系与计费选项。"
+preview_content: "对比 Kimi 的四档会员方案、额度体系与计费选项。"
 ---
 
 <SeoMeta
   title="Kimi 会员概览 - Kimi 帮助中心"
-  description="对比 Kimi 的五档会员套餐、额度体系与计费选项。"
+  description="对比 Kimi 的四档会员方案、额度体系与计费选项。"
 />
 
-# 会员套餐概览
+# 会员方案概览
 
-Kimi 提供五档会员套餐（含免费套餐），可满足从日常提效到高阶工作流的不同需求。Agent 系列功能与其他 Kimi 会员功能共享一个额度池；Kimi Code 单独享有独立额度池。K2.6 不消耗额度。
+Kimi 提供四档会员方案，可满足从日常效率提升到高强度工作流等不同需求。
 
-## 套餐对比
+所有 Kimi 会员功能共用同一个额度池。网站部署、Deep Research（深度研究）、幻灯片、Kimi Code、Kimi Work、Kimi Claw 及其他会员功能都会消耗会员额度。在聊天中，K2.6 对所有用户免费，且不消耗额度。
 
-| 功能 | Adagio（免费） | Moderato $19/月 | Allegretto $39/月 | Allegro $99/月 | Vivace $199/月 |
-| --- | --- | --- | --- | --- | --- |
-| Agent 额度* | 6 | 60 | 150 | 360 | 720 |
-| Agent 并发任务 | 1 | 2 | 2 | 4 | 4 |
-| Agent 速度优先级 | — | 4× | 4× | 4× | 4× |
-| Agent Swarm（测试版） | — | 25 次 | 50 次 | 120 次 | 240 次 |
-| Agent Swarm 并发子任务 | — | 2 | 4 | 4 | 8 |
-| Kimi Code 额度 | — | 1× | 5× | 15× | 30× |
-| Kimi Claw | — | — | ✅ | ✅ | ✅ |
-| Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
-| 专业数据库 | 200 次调用 | 2,000 次调用 | 5,000 次调用 | 12,000 次调用 | 24,000 次调用 |
+## 方案对比
+
+| 功能 | Moderato $19/月 | Allegretto $39/月 | Allegro $99/月 | Vivace $199/月 |
+| --- | --- | --- | --- | --- |
+| Agent 额度* | 60 | 150 | 360 | 720 |
+| Agent 并发任务数 | 2 | 2 | 4 | 4 |
+| Agent 速度优先级 | 4× | 4× | 4× | 4× |
+| Agent Swarm (beta) | 25 次 | 50 次 | 120 次 | 240 次 |
+| Agent Swarm 并发子任务数 | 2 | 4 | 4 | 8 |
+| Kimi Code 额度 | 1× | 5× | 15× | 30× |
+| Kimi Claw | — | ✅ | ✅ | ✅ |
+| Kimi Claw Android | — | ✅ | ✅ | ✅ |
+| 专业数据库 | 2,000 次调用 | 5,000 次调用 | 12,000 次调用 | 24,000 次调用 |
 
 \* 以上为基于典型任务 token 消耗估算的近似值。月度额度会按同一功能折算为等效任务次数，仅供参考。
 
@@ -38,18 +40,19 @@ Kimi 提供五档会员套餐（含免费套餐），可满足从日常提效到
 
 ## 计费方式
 
-- **额度池** — Agent 系列功能与其他 Kimi 会员功能共享一个额度池；Kimi Code 单独享有独立额度池，按 token 用量计量。
-- **按月刷新** — 每个计费周期开始时，额度会重置。
+- **额度池** — 所有会员功能（网站部署、Deep Research（深度研究）、幻灯片、Kimi Code、Kimi Work、Kimi Claw、K3 和 K3 Swarm）共用同一个额度池，并按 token 用量计量。任一功能用尽额度都会影响其他功能。
+- **Kimi Code 速率限制** — Kimi Code 另有 5 小时 / 每周的速率限制，仅适用于 Kimi Code，不影响其他会员功能。
+- **每月刷新** — 额度会在每个计费周期开始时重置。
 
 ## 年付更省
 
-切换为年付，最高可节省 **$480/年**。完整明细请参阅[价格详情](/membership/membership-pricing)。
+切换为年付，每年最多可省 **$480**。完整明细请参阅[价格详情](/membership/membership-pricing)。
 
 <ColumnsContent
   columns={[
     {
       title: "额度规则",
-      description: "了解额度的使用与刷新机制",
+      description: "了解额度的使用与刷新方式",
       pageUrl: "/membership/update-rules",
       type: "document",
     },
@@ -60,8 +63,8 @@ Kimi 提供五档会员套餐（含免费套餐），可满足从日常提效到
       type: "data",
     },
     {
-      title: "套餐变更",
-      description: "升级或降级你的套餐",
+      title: "方案变更",
+      description: "升级或降级你的方案",
       pageUrl: "/membership/membership-upgrade-downgrade",
       type: "setting",
     },

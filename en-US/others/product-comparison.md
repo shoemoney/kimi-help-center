@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="What’s the difference between Kimi, Kimi Work, Kimi Code, and Kimi Claw? Which one should I use? - Kimi Help Center"
-  description="Understand the differences and best-fit scenarios for Kimi (web/App), Kimi Work, Kimi Code, and Kimi Claw in one article, so you can 快速 decide which product to use and which membership to subscribe to."
+  description="Understand the differences and best-fit scenarios for Kimi (web/App), Kimi Work, Kimi Code, and Kimi Claw in one article, so you can quickly decide which product to use and which membership to subscribe to."
 />
 
 # What’s the difference between Kimi, Kimi Work, Kimi Code, and Kimi Claw? Which one should I use?
@@ -32,11 +32,11 @@ Kimi includes a ready-to-use online assistant, as well as several products desig
 - **If you want an always-on cloud bot that runs automatically and can connect to Feishu / WeChat and other platforms** → use **Kimi Claw**.
 
 <Callout type="tip">
-Kimi’s online experience already brings “chat” and “Agent” together—you don’t need to switch between them. In the Kimi Work desktop app, there are two modes: “Work” (an Agent mode focused on deliverables) and “Chat” (快速 conversations).
+Kimi’s online experience already brings “chat” and “Agent” together—you don’t need to switch between them. In the Kimi Work desktop app, there are two modes: “Work” (an Agent mode focused on deliverables) and “Chat” (fast conversations).
 </Callout>
 
 ## Which membership should I choose?
 
-Membership benefits are tied to your Kimi account. **Kimi Code uses a separate credit pool**, while other membership features (chat, Agent, Deep Research, and more) share the same credit pool. For plan details and pricing, see the [membership subscription page](/membership/membership-pricing).
+Membership benefits are tied to your Kimi account. All membership features (chat, Agent, Deep Research, Kimi Code, and more) **share the same credit pool**; Kimi Code also has its own 5-hour / weekly rate limit that applies only to Kimi Code. For plan details and pricing, see the [membership subscription page](/membership/membership-pricing).
 
 If your usage is mainly **everyday work + occasional tasks**, a suitable Kimi membership plan will cover most scenarios across web / App / Kimi Work. Developers who **write code frequently** may also want to pay special attention to Kimi Code benefits.

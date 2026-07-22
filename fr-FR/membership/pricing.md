@@ -1,5 +1,5 @@
 ---
-title: "Détails de tarification"
+title: "Détails des tarifs"
 slug: "membership-pricing"
 order: 4
 extract_headings: true
@@ -7,39 +7,39 @@ preview: false
 ---
 
 <SeoMeta
-  title="Détails de tarification - Centre d'aide Kimi"
-  description="Kimi propose cinq formules d'abonnement — dont une formule gratuite — chacune disponible en abonnement mensuel ou annuel. La facturation annuelle vous permet d'économiser jusqu'à 480 $/an."
+  title="Détails des tarifs - Centre d’aide Kimi"
+  description="Kimi propose quatre formules d’abonnement, chacune disponible au mois ou à l’année. La facturation annuelle vous fait économiser jusqu’à 480 $/an."
 />
 
-# Détails de tarification
+# Détails des tarifs
 
-Kimi propose cinq formules d'abonnement — dont une formule gratuite — chacune disponible en abonnement mensuel ou annuel. La facturation annuelle vous permet d'économiser jusqu'à **480 $/an**.
+Kimi propose quatre formules d’abonnement, chacune disponible au mois ou à l’année. La facturation annuelle vous fait économiser jusqu’à **480 $/an**.
 
-## Aperçu des formules
+## Les formules en un coup d’œil
 
-| Fonctionnalité | Adagio (Gratuit) | Moderato (19 $/mois) | Allegretto (39 $/mois) | Allegro (99 $/mois) | Vivace (199 $/mois) |
-|---------|---------------|-------------------|---------------------|-------------------|-------------------|
-| Crédits Agent* | 6 | 60 | 150 | 360 | 720 |
-| Tâches simultanées de l'Agent | 1 | 2 | 2 | 4 | 4 |
-| Priorité de vitesse de l'Agent | — | 4× | 4× | 4× | 4× |
-| Agent Swarm (bêta) | — | 25 utilisations | 50 utilisations | 120 utilisations | 240 utilisations |
-| Sous-tâches simultanées d'Agent Swarm | — | 2 | 4 | 4 | 8 |
-| Crédits Kimi Code | — | 1× | 5× | 15× | 30× |
-| Kimi Claw | — | — | ✅ | ✅ | ✅ |
-| Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
-| Base de données professionnelle | 200 appels | 2 000 appels | 5 000 appels | 12 000 appels | 24 000 appels |
+| Fonctionnalité | Moderato (19 $/mois) | Allegretto (39 $/mois) | Allegro (99 $/mois) | Vivace (199 $/mois) |
+|---------|-------------------|---------------------|-------------------|-------------------|
+| Credits Agent* | 60 | 150 | 360 | 720 |
+| Tâches Agent simultanées | 2 | 2 | 4 | 4 |
+| Priorité de vitesse Agent | 4× | 4× | 4× | 4× |
+| Agent Swarm (bêta) | 25 utilisations | 50 utilisations | 120 utilisations | 240 utilisations |
+| Sous-tâches Agent Swarm simultanées | 2 | 4 | 4 | 8 |
+| Credits Kimi Code | 1× | 5× | 15× | 30× |
+| Kimi Claw | — | ✅ | ✅ | ✅ |
+| Kimi Claw Android | — | ✅ | ✅ | ✅ |
+| Base de données professionnelle | 2 000 appels | 5 000 appels | 12 000 appels | 24 000 appels |
 
-\* Valeurs approximatives basées sur la consommation de tokens d'une tâche type. Les crédits mensuels sont convertis en nombre équivalent de tâches pour une même fonctionnalité ; à titre indicatif uniquement.
+\* Valeurs approximatives fondées sur la consommation habituelle de tokens par tâche. Les credits mensuels sont convertis en nombre équivalent de tâches pour une même fonctionnalité ; à titre indicatif uniquement.
 
-## Tarification mensuelle ou annuelle
+## Tarifs mensuels et annuels
 
-| Formule | Mensuel | Annuel (par mois) | Total annuel | Économies |
+| Formule | Mensuel | Annuel (par mois) | Total annuel | Économie |
 | --- | --- | --- | --- | --- |
 | Moderato | 19 $/mois | 15 $/mois | 180 $/an | 48 $/an |
 | Allegretto | 39 $/mois | 31 $/mois | 372 $/an | 96 $/an |
 | Allegro | 99 $/mois | 79 $/mois | 948 $/an | 240 $/an |
 | Vivace | 199 $/mois | 159 $/mois | 1 908 $/an | 480 $/an |
 
-## Répartition des crédits
+## Attribution des credits
 
-La série Agent et les autres fonctionnalités d'abonnement Kimi partagent un pool de crédits (credits) unique ; Kimi Code dispose de son propre pool de crédits distinct. Les formules supérieures incluent un pool de crédits proportionnellement plus important, permettant des flux de travail plus fréquents et plus complexes. Consultez [Mise à jour des crédits et règles d'utilisation](/membership/update-rules) pour plus de détails.
+Toutes les fonctionnalités incluses dans les abonnements Kimi partagent une même réserve de credits, décomptée selon l’utilisation de tokens. Kimi Code dispose également de son propre rate limit de 5 heures par semaine, qui s’applique uniquement à Kimi Code et n’affecte pas les autres fonctionnalités. Dans Chat, K2.6 est gratuit et ne consomme pas de credits. Les formules supérieures incluent une réserve de credits proportionnellement plus importante, pour des workflows plus fréquents et plus complexes. Consultez [Mise à jour des credits et règles d’utilisation](/membership/update-rules) pour en savoir plus.

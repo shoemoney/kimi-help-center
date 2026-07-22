@@ -4,46 +4,49 @@ slug: "membership-overview"
 order: 1
 extract_headings: true
 preview: true
-preview_content: "Confronta i cinque livelli di abbonamento di Kimi, il sistema di crediti e le opzioni di fatturazione."
+preview_content: "Confronta i quattro livelli di abbonamento Kimi, il sistema di crediti e le opzioni di fatturazione."
 ---
 
 <SeoMeta
   title="Panoramica degli abbonamenti Kimi - Centro assistenza Kimi"
-  description="Confronta i cinque livelli di abbonamento di Kimi, il sistema di crediti e le opzioni di fatturazione."
+  description="Confronta i quattro livelli di abbonamento Kimi, il sistema di crediti e le opzioni di fatturazione."
 />
 
 # Panoramica dei piani di abbonamento
 
-Kimi propone cinque livelli di abbonamento — incluso un piano gratuito — pensati per crescere insieme alle tue esigenze, dalla produttività quotidiana ai flussi di lavoro più avanzati. Le funzionalità Agent e le altre funzionalità dell'abbonamento Kimi condividono un unico pool di crediti; Kimi Code dispone di un proprio pool di crediti separato. K2.6 non consuma crediti.
+Kimi offre quattro livelli di abbonamento, pensati per crescere insieme alle tue esigenze: dalla produttività quotidiana ai flussi di lavoro più intensivi.
 
-## Confronto tra i piani
+Tutte le funzionalità incluse negli abbonamenti Kimi condividono un unico pool di crediti. Distribuzione di siti web, Deep Research, Slides, Kimi Code, Kimi Work, Kimi Claw e le altre funzionalità dell'abbonamento consumano tutte i crediti dell'abbonamento. In Chat, K2.6 è gratuito per tutti gli utenti e non consuma crediti.
 
-| Funzionalità | Adagio (gratuito) | Moderato 19 $/mese | Allegretto 39 $/mese | Allegro 99 $/mese | Vivace 199 $/mese |
-| --- | --- | --- | --- | --- | --- |
-| Crediti Agent* | 6 | 60 | 150 | 360 | 720 |
-| Attività Agent in contemporanea | 1 | 2 | 2 | 4 | 4 |
-| Priorità di velocità Agent | — | 4× | 4× | 4× | 4× |
-| Agent Swarm (beta) | — | 25 utilizzi | 50 utilizzi | 120 utilizzi | 240 utilizzi |
-| Sottoattività Agent Swarm in contemporanea | — | 2 | 4 | 4 | 8 |
-| Crediti Kimi Code | — | 1× | 5× | 15× | 30× |
-| Kimi Claw | — | — | ✅ | ✅ | ✅ |
-| Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
-| Database professionale | 200 chiamate | 2.000 chiamate | 5.000 chiamate | 12.000 chiamate | 24.000 chiamate |
+## Confronto dei piani
 
-\* Valori approssimativi basati sul consumo di token tipico di un'attività. I crediti mensili sono convertiti nel numero equivalente di attività per la stessa funzionalità; solo a titolo di riferimento.
+| Funzionalità | Moderato $19/mese | Allegretto $39/mese | Allegro $99/mese | Vivace $199/mese |
+| --- | --- | --- | --- | --- |
+| Crediti Agent* | 60 | 150 | 360 | 720 |
+| Attività Agent simultanee | 2 | 2 | 4 | 4 |
+| Priorità di velocità Agent | 4× | 4× | 4× | 4× |
+| Agent Swarm (beta) | 25 utilizzi | 50 utilizzi | 120 utilizzi | 240 utilizzi |
+| Sottoattività Agent Swarm simultanee | 2 | 4 | 4 | 8 |
+| Crediti Kimi Code | 1× | 5× | 15× | 30× |
+| Kimi Claw | — | ✅ | ✅ | ✅ |
+| Kimi Claw Android | — | ✅ | ✅ | ✅ |
+| Database professionale | 2.000 chiamate | 5.000 chiamate | 12.000 chiamate | 24.000 chiamate |
+
+\* Valori approssimativi basati sul consumo tipico di token per attività. I crediti mensili sono convertiti nel numero equivalente di attività per la stessa funzionalità; solo a titolo di riferimento.
 
 <Callout type="tip">
-Utilizza tutto il limite di crediti per la stessa funzionalità
+Usa l'intero limite di crediti per la stessa funzione
 </Callout>
 
 ## Come funziona la fatturazione
 
-- **Pool di crediti** — le funzionalità Agent e le altre funzionalità dell'abbonamento Kimi condividono un unico pool di crediti; Kimi Code dispone di un proprio pool di crediti separato, conteggiato in base all'utilizzo dei token.
+- **Pool di crediti** — Tutte le funzionalità dell'abbonamento (distribuzione di siti web, Deep Research, Slides, Kimi Code, Kimi Work, Kimi Claw, K3 e K3 Swarm) condividono un unico pool di crediti, calcolato in base all'utilizzo di token. Esaurire i crediti su una funzionalità incide anche sulle altre.
+- **Rate limit di Kimi Code** — Kimi Code prevede anche un rate limit di 5 ore / settimanale, valido solo per Kimi Code e senza effetti sulle altre funzionalità dell'abbonamento.
 - **Rinnovo mensile** — I crediti si azzerano all'inizio di ogni ciclo di fatturazione.
 
 ## Risparmia con la fatturazione annuale
 
-Passa alla fatturazione annuale e risparmia fino a **480 $/anno**. Consulta i [Dettagli sui prezzi](/membership/membership-pricing) per la ripartizione completa.
+Passa alla fatturazione annuale e risparmia fino a **$480/anno**. Consulta [Dettagli sui prezzi](/membership/membership-pricing) per il riepilogo completo.
 
 <ColumnsContent
   columns={[

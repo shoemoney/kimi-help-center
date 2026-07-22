@@ -1,5 +1,5 @@
 ---
-title: "Premiers pas avec Kimi"
+title: "Bien démarrer avec Kimi"
 slug: "agentic-chat"
 order: 2
 extract_headings: false
@@ -7,128 +7,128 @@ preview: false
 ---
 
 <SeoMeta
-  title="Premiers pas avec Kimi - Centre d'aide Kimi"
-  description="Découvrez les trois modèles de Kimi (K2.6, K3, K3 Swarm), les outils intégrés et les capacités multimodales pour bien démarrer avec la conversation et l'exécution de tâches."
+  title="Bien démarrer avec Kimi - Centre d’aide Kimi"
+  description="Découvrez les trois modèles de Kimi (K2.6, K3, K3 Swarm), ses outils intégrés et ses capacités multimodales pour prendre rapidement en main le chat et l’exécution de tâches."
 />
 
-# Premiers pas avec Kimi
+# Bien démarrer avec Kimi
 
-Vous pouvez saisir vos questions dans la zone de discussion, importer des fichiers ou changer de modèle selon vos besoins.
-Ouvrez [kimi.com](https://www.kimi.com) et envoyez un premier message — dites bonjour à Kimi :
+Vous pouvez saisir vos questions dans la zone de chat, téléverser des fichiers ou changer de modèle selon vos besoins.
+Ouvrez [kimi.com](https://www.kimi.com) et essayez d’envoyer un message — dites bonjour à Kimi :
 
 <CodePreview
   files={[
     {
       name: "prompt.txt",
       language: "text",
-      content: "Salut, Kimi !",
+      content: "Bonjour, Kimi !",
     },
   ]}
 />
 
 ## Choisir un modèle
 
-Kimi propose plusieurs modèles. Cliquez sur le bouton de changement de modèle au-dessus de la zone de saisie pour en changer.
+Kimi propose plusieurs modèles. Cliquez sur le bouton de changement de modèle au-dessus de la zone de saisie pour passer de l’un à l’autre.
 
 | Modèle | Puissance de réflexion | Idéal pour |
-|--------|------------------------|------------|
-| **K2.6** | Standard / High | Conversation et questions-réponses rapides, avec des réponses plus véloces |
-| **K3** | Low / High / Max | Tâches de conversation et d'Agent ; le plus performant globalement |
-| **K3 Swarm** | Low / High / Max | Recherche à grande échelle et traitement par lots, réalisés en une seule fois |
+|-------|-------------------|----------|
+| **K2.6** | Standard / Élevée | Conversations rapides et questions-réponses avec des réponses plus rapides |
+| **K3** | Faible / Élevée / Max | Chat et tâches Agent ; le plus performant dans l’ensemble |
+| **K3 Swarm** | Faible / Élevée / Max | Recherche à grande échelle et traitement par lots, réalisés en une seule fois |
 
 <Callout type="tip">
-K2.6 ne consomme aucun crédit (credit) ; K3 et K3 Swarm sont facturés en crédits. Consultez les [avantages de l'abonnement](https://www.kimi.com/help/membership/membership-overview) pour plus de détails.
+K2.6 ne consomme pas de credits dans Chat (lorsqu’il est utilisé comme Agent K2.6 dans Kimi Work, il consomme toutefois des credits d’abonnement) ; K3 et K3 Swarm sont facturés en credits. Consultez les [avantages de l’abonnement](https://www.kimi.com/help/membership/membership-overview) pour en savoir plus.
 </Callout>
 
 ### À propos de Kimi K3
 
-Kimi K3 est actuellement le modèle le plus puissant de Kimi, avec 2 800 milliards de paramètres, bâti sur Kimi Delta Attention (KDA) et Attention Residuals, doté d'une **vision native** et d'une **fenêtre de contexte d'un million de tokens**. Premier modèle ouvert de la classe 3T au monde, K3 est conçu pour une intelligence de pointe dans le codage sur le long terme, le travail du savoir et le raisonnement, atteignant des performances de premier plan en codage, en exécution sur le long terme et sur un large éventail de tâches d'intelligence générale.
+Kimi K3 est actuellement le modèle le plus puissant de Kimi. Doté de 2,8 billions de paramètres, il repose sur Kimi Delta Attention (KDA) et Attention Residuals, avec une **vision native** et une **fenêtre de contexte d’un million de tokens**. Premier modèle ouvert de classe 3T au monde, K3 est conçu pour offrir une intelligence de pointe en codage longue durée, travail de connaissance et raisonnement. Il atteint des performances de premier plan en codage, en exécution de longue haleine et dans un large éventail de tâches d’intelligence générale.
 
 ### Outils intégrés
 
-Disponibles d'emblée, sans aucune configuration :
+Disponibles immédiatement, sans configuration :
 
 | Outil | Description |
 |------|------------|
-| **Web Search** | Recherche web en temps réel pour obtenir les dernières actualités et informations |
-| **Fetch Tool** | Accès direct à des URL spécifiques (pages web, documents, images et autres ressources en ligne) |
-| **Image Search** | Recherche texte-vers-image et image-vers-image pour trouver rapidement du contenu visuel |
-| **IPython** | Exécution de code Python pour l'analyse et la visualisation de données |
-| **Memory** | Mémoire intelligente qui enregistre vos préférences et habitudes personnelles |
+| **Web Search** | Recherche web en temps réel pour accéder aux dernières actualités et informations |
+| **Outil de récupération** | Accès direct à des URLs précises (pages web, documents, images et autres ressources en ligne) |
+| **Recherche d’images** | Recherche texte-image et image-image pour trouver rapidement du contenu visuel |
+| **IPython** | Exécution de code Python pour l’analyse et la visualisation de données |
+| **Mémoire** | Mémoire intelligente qui enregistre vos préférences et habitudes personnelles |
 
 ## Capacités visuelles et multimodales
-Kimi K3 prend en charge la compréhension dans tous les contextes des images, vidéos et documents bureautiques (PDF/Word/Excel), grâce à une **architecture nativement multimodale** (et non un OCR rapporté). Il peut analyser directement le contenu des documents et accomplir des tâches bureautiques de niveau intermédiaire à avancé (comme écrire des formules Excel ou générer des plans de PPT / du code VBA). Combiné à sa vision native et à sa fenêtre de contexte d'un million de tokens, il peut traiter des contenus multimodaux plus longs et plus complexes.
-### Prise en charge des entrées multimodales
-- **Images** : PNG, JPEG, WebP, GIF, etc. (via URL, Base64 ou import de fichier local)
-- **Vidéo** : MP4, etc. (via video_url ou des séquences d'images + le paramètre fps)
+Kimi K3 comprend de bout en bout les images, les vidéos et les documents bureautiques (PDF/Word/Excel) grâce à une **architecture multimodale native** (et non à un OCR ajouté après coup). Il peut analyser directement le contenu des documents et réaliser des tâches bureautiques de niveau intermédiaire à avancé (comme rédiger des formules Excel ou générer des plans de PPT/du code VBA). Associé à sa vision native et à une fenêtre de contexte d’un million de tokens, il peut traiter des contenus multimodaux plus longs et plus complexes.
+### Entrées multimodales prises en charge
+- **Images** : PNG, JPEG, WebP, GIF, etc. (via URL, Base64 ou téléversement de fichier local)
+- **Vidéo** : MP4, etc. (via video_url ou séquences d’images + paramètre fps)
 - **Documents** : PDF, Word, Excel, TXT, Markdown, etc.
-- **Ressources en ligne** : URL, liens d'articles
-- **Recherche d'images** : importez une image pour rechercher des images apparentées ou similaires
-- **Compréhension vidéo** : prend en charge la compréhension vidéo — il peut analyser des enregistrements d'écran et reproduire la logique d'interaction
-- **Codage visuel** : importez des captures d'écran ou des enregistrements d'écran pour générer du code frontend (HTML/Vue/React, etc.) ; peut reproduire automatiquement des pages web à partir de maquettes
+- **Ressources en ligne** : URLs, liens d’articles
+- **Recherche d’images** : téléversez une image pour rechercher des images liées ou similaires
+- **Compréhension vidéo** : prend en charge la compréhension vidéo — il peut analyser des enregistrements d’écran et reproduire la logique d’interaction
+- **Codage visuel** : téléversez des captures d’écran ou des enregistrements d’écran pour générer du code frontend (HTML/Vue/React, etc.) ; il peut recréer automatiquement des pages web à partir de maquettes de design
 
 ### Formats de sortie
-- Texte brut / mélange texte-images : réponses conversationnelles standard
+- Texte brut / texte et image combinés : réponses conversationnelles standard
 - Markdown : texte enrichi avec titres, listes, tableaux et liens
 - Blocs de code : HTML/Vue/React/Python/JSON/Mermaid, etc. (avec identifiants de langage)
-- Données structurées JSON : sortie en mode JSON forcé
+- Données structurées JSON : sortie forcée en mode JSON
 - Diagrammes Mermaid : organigrammes, diagrammes de séquence, cartes mentales, etc.
 - Formules mathématiques LaTeX : expressions mathématiques en ligne et en bloc
-- Sortie en double mode (Thinking) : renvoie à la fois `reasoning_content` (processus de réflexion) et `content` (réponse finale)
-- Format d'appel d'outil : format standard Function Calling (pour les développeurs)
+- Sortie bimodale (Thinking) : renvoie à la fois `reasoning_content` (processus de réflexion) et `content` (réponse finale)
+- Format d’appel d’outil : format standard Function Calling (pour les développeurs)
 
-### Remarques importantes
+### Points importants
 
-1. **Sortie de fichiers** : K3 peut produire de bout en bout des documents modifiables (par ex. `.pptx`, `.docx`, `.xlsx`, `.pdf`) et d'autres livrables complexes ; K2.6 se concentre sur les questions-réponses rapides et ne produit que du texte (par ex. plans de PPT, corps de texte Word ou code).
+1. **Sortie de fichiers** : K3 peut produire de bout en bout des documents modifiables (comme `.pptx`, `.docx`, `.xlsx`, `.pdf`) et d’autres livrables complexes ; K2.6 privilégie les questions-réponses rapides et ne produit que du texte (comme des plans de PPT, du corps de texte Word ou du code).
 
 <Callout type="tip">
-Astuce : pour générer des images, de l'audio ou de la vidéo, cliquez sur « + » → Plugin, sélectionnez la fonctionnalité correspondante, et utilisez-la avec **K3**. Pour créer des documents modifiables complexes ou exécuter des tâches en plusieurs étapes, nous recommandons de choisir **K3** ou **K3 Swarm** pour profiter de l'expérience complète.
+Astuce : pour générer des images, de l’audio ou de la vidéo, cliquez sur "+" → Plugin, sélectionnez la fonctionnalité correspondante et utilisez-la avec **K3**. Pour créer des documents modifiables complexes ou exécuter des tâches en plusieurs étapes, nous vous recommandons de choisir **K3** ou **K3 Swarm** afin de profiter de l’expérience complète.
 </Callout>
 
 ## Sessions et tours de conversation
-Lorsque vous cliquez sur « Nouvelle discussion », voyez cela comme le début d'une longue conversation avec Kimi.
+Lorsque vous cliquez sur "Nouvelle conversation", considérez que vous entamez une longue conversation avec Kimi.
 | Concept | Analogie | Définition technique |
 |---------|---------|---------------------|
-| **Session** | Une réunion entière (du début à la fin) | Un processus de discussion complet avec un début et une fin clairs |
+| **Session** | Une réunion complète (du début à la fin) | Un processus de chat complet, avec un début et une fin clairement définis |
 | **Tour** | Un échange (vous parlez, Kimi répond) | Votre saisie et la réponse de Kimi forment un aller-retour |
 
-### Différences clés
+### Principales différences
 **Session**
-- **Mémoire continue** : Kimi se souvient de tout le contexte au sein de la discussion en cours
-- **Contexte entre les tours** : chaque réponse s'appuie sur le contenu de la conversation précédente comme contexte pour le tour suivant
-- **Limites définies** : cliquer sur « Nouvelle discussion » = repartir de zéro ; le contexte précédent est effacé
+- **Mémoire continue** : Kimi mémorise tout le contexte de la conversation en cours
+- **Contexte entre les tours** : chaque réponse s’appuie sur le contenu précédent de la conversation comme contexte pour le tour suivant
+- **Limites définies** : cliquer sur "Nouvelle conversation" = nouveau départ ; le contexte précédent est effacé
 **Tour**
-- **Comptage cumulatif** : Tour 1, Tour 2, … ajoutés progressivement
-- **Mémoire limitée** : un trop grand nombre de tours (par ex. 50+) peut amener Kimi à « oublier » le contenu antérieur, en particulier pour la rédaction de longs textes ou les tâches aux exigences strictes
-- **Contrainte de longueur de contexte** : limitée par le nombre de tokens ; lorsque les tours s'accumulent, le contenu le plus ancien peut être compressé
+- **Décompte cumulatif** : Tour 1, Tour 2, … s’ajoutent progressivement
+- **Mémoire limitée** : un trop grand nombre de tours (par exemple 50+) peut amener Kimi à "oublier" des éléments antérieurs, surtout pour les textes longs ou les tâches aux exigences strictes
+- **Contrainte de longueur du contexte** : limitée par le nombre de tokens ; lorsque les tours s’accumulent, le contenu le plus ancien peut être compressé
 
 <Callout type="tip">
-**Cas particulier** : si une seule question-réponse clôt la conversation, alors 1 tour = 1 session.
+**Cas limite** : si une seule question-réponse clôt la conversation, alors 1 tour = 1 session.
 </Callout>
 
 ## Pourquoi cette distinction est importante
-Au sein d'une même session, chaque nouvelle question ou instruction que vous envoyez reçoit une réponse tenant compte de tous les tours précédents. À mesure que les tours s'accumulent et que le contenu s'allonge, la qualité des réponses peut progressivement décliner.
+Au sein d’une même session, chaque nouvelle question ou instruction que vous envoyez reçoit une réponse qui tient compte de tous les tours précédents. À mesure que les tours s’accumulent et que le contenu s’allonge, la qualité des réponses peut diminuer progressivement.
 
-### Scénarios courants
-**Scénario 1 : changer de sujet**
-- À éviter : demander « aide-moi à calculer mes impôts » dans une session où vous rédigez un roman de 30 000 mots
-- Recommandé : ouvrir une nouvelle session pour la question fiscale — pour éviter que Kimi ne confonde les personnages du roman avec des notions fiscales
-**Scénario 2 : traitement de longs documents**
-- Après des dizaines de tours, Kimi peut « oublier » les règles ou les résumés de fichiers établis au début
-- Solution : résumer de façon proactive en cours de tâche (« Résume notre plan jusqu'ici »), ou ouvrir une nouvelle session
-**Scénario 3 : comprendre les limites du produit**
-- Les limites de longueur de contexte se mesurent en tokens, mais au quotidien, voyez-les en termes de « tours »
-- Si un message « Démarrez une nouvelle discussion » s'affiche, c'est que la session en cours compte trop de tours
+### Scénarios fréquents
+**Scénario 1 : Changer de sujet**
+- À éviter : demander "aide-moi à calculer mes impôts" dans une session où vous rédigez un roman de 30 000 mots
+- À faire : ouvrir une nouvelle session pour la question fiscale — vous éviterez que Kimi confonde les personnages du roman avec des notions fiscales
+**Scénario 2 : Traitement d’un long document**
+- Après des dizaines de tours, Kimi peut "oublier" des règles ou des résumés de fichiers établis au début
+- Solution : résumez proactivement en cours de tâche ("Résume notre plan jusqu’ici"), ou démarrez une nouvelle session
+**Scénario 3 : Comprendre les limites du produit**
+- Les limites de longueur de contexte se mesurent en tokens, mais au quotidien, vous pouvez les envisager comme des "tours"
+- Si vous voyez une invite "Commencer une nouvelle conversation", cela signifie que la session en cours comporte trop de tours
 ## Bonnes pratiques
 
 <Callout type="tip">
-**Ouvrez une nouvelle session pour chaque tâche** : les tâches indépendantes — rédaction, recherche, débogage — devraient chacune avoir leur propre session pour éviter les interférences de contexte.
+**Démarrez une nouvelle session pour chaque tâche** : les tâches indépendantes — rédaction d’essai, recherche, débogage — doivent chacune disposer de leur propre session afin d’éviter les interférences de contexte.
 </Callout>
 
 <Callout type="tip">
-**Résumez régulièrement dans les longues sessions** : après 20 tours et plus, demandez de façon proactive à Kimi de résumer les informations clés afin d'éviter toute perte de données.
+**Résumez régulièrement dans les longues sessions** : après 20 tours ou plus, demandez proactivement à Kimi de résumer les informations clés pour éviter toute perte de données.
 </Callout>
 
 <Callout type="tip">
-**Supprimez rapidement les informations sensibles** : l'historique des discussions est conservé ; supprimez l'intégralité de la session après avoir traité du contenu privé.
+**Supprimez rapidement les informations sensibles** : l’historique de chat est conservé ; supprimez toute la session après avoir traité du contenu privé.
 </Callout>

@@ -8,26 +8,26 @@ preview: false
 
 <SeoMeta
   title="Pricing details - Kimi Help Center"
-  description="Kimi offers five membership tiers — including a free plan — each available as a monthly or annual subscription. Annual billing saves you up to $480/year."
+  description="Kimi offers four membership tiers, each available as a monthly or annual subscription. Annual billing saves you up to $480/year."
 />
 
 # Pricing details
 
-Kimi offers five membership tiers — including a free plan — each available as a monthly or annual subscription. Annual billing saves you up to **$480/year**.
+Kimi offers four membership tiers, each available as a monthly or annual subscription. Annual billing saves you up to **$480/year**.
 
 ## Plans at a glance
 
-| Feature | Adagio (Free) | Moderato ($19/mo) | Allegretto ($39/mo) | Allegro ($99/mo) | Vivace ($199/mo) |
-|---------|---------------|-------------------|---------------------|-------------------|-------------------|
-| Agent credits* | 6 | 60 | 150 | 360 | 720 |
-| Agent concurrent tasks | 1 | 2 | 2 | 4 | 4 |
-| Agent speed priority | — | 4× | 4× | 4× | 4× |
-| Agent Swarm (beta) | — | 25 uses | 50 uses | 120 uses | 240 uses |
-| Agent Swarm concurrent subtasks | — | 2 | 4 | 4 | 8 |
-| Kimi Code credits | — | 1× | 5× | 15× | 30× |
-| Kimi Claw | — | — | ✅ | ✅ | ✅ |
-| Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
-| Professional database | 200 calls | 2,000 calls | 5,000 calls | 12,000 calls | 24,000 calls |
+| Feature | Moderato ($19/mo) | Allegretto ($39/mo) | Allegro ($99/mo) | Vivace ($199/mo) |
+|---------|-------------------|---------------------|-------------------|-------------------|
+| Agent credits* | 60 | 150 | 360 | 720 |
+| Agent concurrent tasks | 2 | 2 | 4 | 4 |
+| Agent speed priority | 4× | 4× | 4× | 4× |
+| Agent Swarm (beta) | 25 uses | 50 uses | 120 uses | 240 uses |
+| Agent Swarm concurrent subtasks | 2 | 4 | 4 | 8 |
+| Kimi Code credits | 1× | 5× | 15× | 30× |
+| Kimi Claw | — | ✅ | ✅ | ✅ |
+| Kimi Claw Android | — | ✅ | ✅ | ✅ |
+| Professional database | 2,000 calls | 5,000 calls | 12,000 calls | 24,000 calls |
 
 \* Approximate values based on typical task token consumption. Monthly credits are converted to the equivalent number of tasks for the same feature; for reference only.
 
@@ -42,4 +42,4 @@ Kimi offers five membership tiers — including a free plan — each available a
 
 ## Credit allocation
 
-Agent features and other Kimi membership features share a single credit pool; Kimi Code has its own separate credit pool. Higher tiers include a proportionally larger credit pool, supporting more frequent and complex workflows. See [Credit Update & Usage Rules](/membership/update-rules) for details.
+All Kimi membership features share a single credit pool, metered by token usage. Kimi Code also has its own 5-hour / weekly rate limit that applies only to Kimi Code and does not affect other features. In Chat, K2.6 is free and does not consume credits. Higher tiers include a proportionally larger credit pool, supporting more frequent and complex workflows. See [Credit Update & Usage Rules](/membership/update-rules) for details.

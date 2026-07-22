@@ -59,7 +59,7 @@ This means Kimi-Researcher can process and reference a substantial volume of tex
 
 Deep Research distinguishes between "standard conversations" and "task execution." Once you select a Deep Research task, billing is applied based on the task type.
 
-- **Billing method**: Credits are deducted from the shared pool (other membership features). Kimi Code uses a separate credit pool.
+- **Billing method**: Credits are deducted from the shared pool that all membership features, including Kimi Code, draw from.
 - **Refund on failure**: If a task fails (no valid results returned), click the "👎" feedback button. Our team will verify the issue and refund the corresponding credits.
 
 To check remaining credits, hover over the Deep Research mode button to view your current free and paid remaining credits.

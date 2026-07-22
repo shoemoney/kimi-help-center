@@ -4,52 +4,55 @@ slug: "membership-overview"
 order: 1
 extract_headings: true
 preview: true
-preview_content: "So sánh năm hạng thành viên của Kimi, hệ thống tín dụng và các phương thức thanh toán."
+preview_content: "So sánh bốn hạng thành viên của Kimi, hệ thống credit và các lựa chọn thanh toán."
 ---
 
 <SeoMeta
   title="Tổng quan thành viên Kimi - Trung tâm trợ giúp Kimi"
-  description="So sánh năm hạng thành viên của Kimi, hệ thống tín dụng và các phương thức thanh toán."
+  description="So sánh bốn hạng thành viên của Kimi, hệ thống credit và các lựa chọn thanh toán."
 />
 
 # Tổng quan các gói thành viên
 
-Kimi cung cấp năm hạng thành viên — bao gồm cả gói miễn phí — được thiết kế để mở rộng theo nhu cầu của bạn, từ công việc thường ngày đến quy trình dành cho người dùng chuyên sâu. Các tính năng Agent và các tính năng thành viên Kimi khác dùng chung một nguồn tín dụng; Kimi Code có nguồn tín dụng riêng biệt. K2.6 không tiêu hao tín dụng.
+Kimi cung cấp bốn hạng thành viên, được thiết kế để đáp ứng nhiều nhu cầu khác nhau, từ năng suất hằng ngày đến quy trình làm việc chuyên sâu của người dùng cao cấp.
 
-## So sánh các gói
+Tất cả tính năng thành viên của Kimi đều dùng chung một quỹ credit. Triển khai website, Deep Research, Slides, Kimi Code, Kimi Work, Kimi Claw và các tính năng thành viên khác đều tiêu hao credit thành viên. Trong Chat, K2.6 miễn phí cho mọi người dùng và không tiêu hao credit.
 
-| Tính năng | Adagio (Miễn phí) | Moderato $19/tháng | Allegretto $39/tháng | Allegro $99/tháng | Vivace $199/tháng |
-| --- | --- | --- | --- | --- | --- |
-| Tín dụng Agent* | 6 | 60 | 150 | 360 | 720 |
-| Tác vụ đồng thời của Agent | 1 | 2 | 2 | 4 | 4 |
-| Ưu tiên tốc độ Agent | — | 4× | 4× | 4× | 4× |
-| Agent Swarm (beta) | — | 25 lượt | 50 lượt | 120 lượt | 240 lượt |
-| Tác vụ con đồng thời của Agent Swarm | — | 2 | 4 | 4 | 8 |
-| Tín dụng Kimi Code | — | 1× | 5× | 15× | 30× |
-| Kimi Claw | — | — | ✅ | ✅ | ✅ |
-| Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
-| Cơ sở dữ liệu chuyên nghiệp | 200 lượt gọi | 2.000 lượt gọi | 5.000 lượt gọi | 12.000 lượt gọi | 24.000 lượt gọi |
+## So sánh gói
 
-\* Giá trị ước tính dựa trên mức tiêu thụ token điển hình của tác vụ. Tín dụng hàng tháng được quy đổi thành số tác vụ tương đương cho cùng một tính năng; chỉ mang tính tham khảo.
+| Tính năng | Moderato $19/tháng | Allegretto $39/tháng | Allegro $99/tháng | Vivace $199/tháng |
+| --- | --- | --- | --- | --- |
+| Credit Agent* | 60 | 150 | 360 | 720 |
+| Tác vụ Agent chạy đồng thời | 2 | 2 | 4 | 4 |
+| Ưu tiên tốc độ Agent | 4× | 4× | 4× | 4× |
+| Agent Swarm (beta) | 25 lượt dùng | 50 lượt dùng | 120 lượt dùng | 240 lượt dùng |
+| Tác vụ phụ Agent Swarm chạy đồng thời | 2 | 4 | 4 | 8 |
+| Credit Kimi Code | 1× | 5× | 15× | 30× |
+| Kimi Claw | — | ✅ | ✅ | ✅ |
+| Kimi Claw Android | — | ✅ | ✅ | ✅ |
+| Cơ sở dữ liệu chuyên nghiệp | 2,000 lượt gọi | 5,000 lượt gọi | 12,000 lượt gọi | 24,000 lượt gọi |
+
+\* Giá trị ước tính dựa trên mức tiêu thụ token điển hình của tác vụ. Credit hằng tháng được quy đổi thành số tác vụ tương đương cho cùng một tính năng; chỉ dùng để tham khảo.
 
 <Callout type="tip">
-Dùng toàn bộ hạn mức tín dụng cho cùng một chức năng
+Có thể dùng toàn bộ hạn mức credit cho cùng một chức năng
 </Callout>
 
-## Cách tính phí hoạt động
+## Cách tính phí
 
-- **Nguồn tín dụng** — Các tính năng Agent và các tính năng thành viên Kimi khác dùng chung một nguồn tín dụng; Kimi Code có nguồn tín dụng riêng biệt, tính theo mức sử dụng token.
-- **Làm mới hàng tháng** — Tín dụng được đặt lại vào đầu mỗi chu kỳ thanh toán.
+- **Quỹ credit** — Tất cả tính năng thành viên (triển khai website, Deep Research, Slides, Kimi Code, Kimi Work, Kimi Claw, K3 và K3 Swarm) dùng chung một quỹ credit, được đo theo mức sử dụng token. Khi credit bị dùng hết ở bất kỳ tính năng nào, các tính năng khác cũng bị ảnh hưởng.
+- **Rate limit của Kimi Code** — Kimi Code còn có rate limit theo chu kỳ 5 giờ / hằng tuần, chỉ áp dụng cho Kimi Code và không ảnh hưởng đến các tính năng thành viên khác.
+- **Làm mới hằng tháng** — Credit được đặt lại vào đầu mỗi chu kỳ thanh toán.
 
-## Tiết kiệm với thanh toán theo năm
+## Tiết kiệm với thanh toán hằng năm
 
-Chuyển sang thanh toán theo năm để tiết kiệm tới **$480/năm**. Xem [Chi tiết giá](/membership/membership-pricing) để biết bảng phân tích đầy đủ.
+Chuyển sang thanh toán hằng năm để tiết kiệm tới **$480/năm**. Xem [Chi tiết giá](/membership/membership-pricing) để biết đầy đủ thông tin.
 
 <ColumnsContent
   columns={[
     {
-      title: "Quy tắc tín dụng",
-      description: "Cách tín dụng hoạt động và làm mới",
+      title: "Quy tắc credit",
+      description: "Cách credit hoạt động và được làm mới",
       pageUrl: "/membership/update-rules",
       type: "document",
     },
@@ -67,7 +70,7 @@ Chuyển sang thanh toán theo năm để tiết kiệm tới **$480/năm**. Xem
     },
     {
       title: "Liên hệ với chúng tôi",
-      description: "Nhận trợ giúp về các vấn đề thanh toán",
+      description: "Nhận trợ giúp về vấn đề thanh toán",
       pageUrl: "/membership/membership-contact",
       type: "comment",
     },

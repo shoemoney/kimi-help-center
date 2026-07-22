@@ -1,55 +1,58 @@
 ---
-title: "Übersicht der Mitgliedschaftspläne"
+title: "Übersicht der Mitgliedschaftstarife"
 slug: "membership-overview"
 order: 1
 extract_headings: true
 preview: true
-preview_content: "Vergleichen Sie Kimis fünf Mitgliedschaftsstufen, das Credit-System und die Abrechnungsoptionen."
+preview_content: "Vergleiche die vier Kimi-Mitgliedschaftsstufen, das Credit-System und die Abrechnungsoptionen."
 ---
 
 <SeoMeta
-  title="Übersicht der Kimi-Mitgliedschaft - Kimi Hilfecenter"
-  description="Vergleichen Sie Kimis fünf Mitgliedschaftsstufen, das Credit-System und die Abrechnungsoptionen."
+  title="Übersicht der Kimi-Mitgliedschaft - Kimi Help Center"
+  description="Vergleiche die vier Kimi-Mitgliedschaftsstufen, das Credit-System und die Abrechnungsoptionen."
 />
 
-# Übersicht der Mitgliedschaftspläne
+# Übersicht der Mitgliedschaftstarife
 
-Kimi bietet fünf Mitgliedschaftsstufen – darunter einen kostenlosen Plan –, die mit Ihren Anforderungen mitwachsen: vom alltäglichen Arbeiten bis hin zu Workflows für Power-User. Agent-Funktionen und weitere Kimi-Mitgliedschaftsfunktionen teilen sich einen einzigen Credit-Pool; Kimi Code verfügt über einen eigenen, separaten Credit-Pool. K2.6 verbraucht keine Credits.
+Kimi bietet vier Mitgliedschaftsstufen, die mit deinen Anforderungen mitwachsen – von alltäglicher Produktivität bis hin zu Workflows für Power-User.
 
-## Plan-Vergleich
+Alle Funktionen der Kimi-Mitgliedschaft nutzen einen gemeinsamen Credit-Pool. Website-Bereitstellung, Deep Research, Slides, Kimi Code, Kimi Work, Kimi Claw und weitere Mitgliedschaftsfunktionen verbrauchen Mitgliedschafts-Credits. Im Chat ist K2.6 für alle Nutzer kostenlos und verbraucht keine Credits.
 
-| Funktion | Adagio (Kostenlos) | Moderato 19 $/Monat | Allegretto 39 $/Monat | Allegro 99 $/Monat | Vivace 199 $/Monat |
-| --- | --- | --- | --- | --- | --- |
-| Agent-Credits* | 6 | 60 | 150 | 360 | 720 |
-| Agent – gleichzeitige Aufgaben | 1 | 2 | 2 | 4 | 4 |
-| Agent – Geschwindigkeitspriorität | — | 4× | 4× | 4× | 4× |
-| Agent Swarm (Beta) | — | 25 Nutzungen | 50 Nutzungen | 120 Nutzungen | 240 Nutzungen |
-| Agent Swarm – gleichzeitige Teilaufgaben | — | 2 | 4 | 4 | 8 |
-| Kimi Code-Credits | — | 1× | 5× | 15× | 30× |
-| Kimi Claw | — | — | ✅ | ✅ | ✅ |
-| Kimi Claw Android | — | — | ✅ | ✅ | ✅ |
-| Professionelle Datenbank | 200 Aufrufe | 2.000 Aufrufe | 5.000 Aufrufe | 12.000 Aufrufe | 24.000 Aufrufe |
+## Tarifvergleich
 
-\* Näherungswerte auf Basis des typischen Token-Verbrauchs pro Aufgabe. Die monatlichen Credits werden zur entsprechenden Anzahl an Aufgaben für dieselbe Funktion umgerechnet; nur als Richtwert.
+| Funktion | Moderato $19/Monat | Allegretto $39/Monat | Allegro $99/Monat | Vivace $199/Monat |
+| --- | --- | --- | --- | --- |
+| Agent-Credits* | 60 | 150 | 360 | 720 |
+| Gleichzeitige Agent-Aufgaben | 2 | 2 | 4 | 4 |
+| Priorisierte Agent-Geschwindigkeit | 4× | 4× | 4× | 4× |
+| Agent Swarm (Beta) | 25 Nutzungen | 50 Nutzungen | 120 Nutzungen | 240 Nutzungen |
+| Gleichzeitige Teilaufgaben in Agent Swarm | 2 | 4 | 4 | 8 |
+| Kimi Code-Credits | 1× | 5× | 15× | 30× |
+| Kimi Claw | — | ✅ | ✅ | ✅ |
+| Kimi Claw Android | — | ✅ | ✅ | ✅ |
+| Professionelle Datenbank | 2.000 Aufrufe | 5.000 Aufrufe | 12.000 Aufrufe | 24.000 Aufrufe |
+
+\* Ungefähre Werte auf Basis des typischen token-Verbrauchs pro Aufgabe. Monatliche Credits werden für dieselbe Funktion in die entsprechende Anzahl von Aufgaben umgerechnet; nur zur Orientierung.
 
 <Callout type="tip">
-Nutzen Sie das gesamte Credit-Limit für dieselbe Funktion
+Nutze das gesamte Credit-Limit für dieselbe Funktion
 </Callout>
 
 ## So funktioniert die Abrechnung
 
-- **Credit-Pool** – Agent-Funktionen und weitere Kimi-Mitgliedschaftsfunktionen teilen sich einen Credit-Pool; Kimi Code verfügt über einen eigenen, separaten Credit-Pool, abgerechnet nach Token-Verbrauch.
-- **Monatliche Erneuerung** – Die Credits werden zu Beginn jedes Abrechnungszeitraums zurückgesetzt.
+- **Credit-Pool** — Alle Mitgliedschaftsfunktionen (Website-Bereitstellung, Deep Research, Slides, Kimi Code, Kimi Work, Kimi Claw, K3 und K3 Swarm) nutzen einen gemeinsamen Credit-Pool, der anhand der token-Nutzung gemessen wird. Wenn du Credits für eine Funktion aufbrauchst, wirkt sich das auch auf die anderen aus.
+- **Kimi Code rate limit** — Kimi Code hat zusätzlich ein 5-Stunden-/wöchentliches rate limit, das nur für Kimi Code gilt und andere Mitgliedschaftsfunktionen nicht beeinflusst.
+- **Monatliche Aktualisierung** — Credits werden zu Beginn jedes Abrechnungszeitraums zurückgesetzt.
 
 ## Mit jährlicher Abrechnung sparen
 
-Wechseln Sie zur jährlichen Abrechnung und sparen Sie bis zu **480 $/Jahr**. Die vollständige Aufschlüsselung finden Sie unter [Preisdetails](/membership/membership-pricing).
+Wechsle zur jährlichen Abrechnung und spare bis zu **$480/Jahr**. Die vollständige Aufschlüsselung findest du unter [Preisdetails](/membership/membership-pricing).
 
 <ColumnsContent
   columns={[
     {
       title: "Credit-Regeln",
-      description: "So funktionieren Credits und ihre Erneuerung",
+      description: "So funktionieren Credits und ihre Aktualisierung",
       pageUrl: "/membership/update-rules",
       type: "document",
     },
@@ -60,14 +63,14 @@ Wechseln Sie zur jährlichen Abrechnung und sparen Sie bis zu **480 $/Jahr**. Di
       type: "data",
     },
     {
-      title: "Plan-Änderungen",
-      description: "Plan hochstufen oder herabstufen",
+      title: "Tarifwechsel",
+      description: "Tarif upgraden oder downgraden",
       pageUrl: "/membership/membership-upgrade-downgrade",
       type: "setting",
     },
     {
       title: "Kontakt",
-      description: "Hilfe bei Abrechnungsfragen erhalten",
+      description: "Hilfe bei Abrechnungsproblemen erhalten",
       pageUrl: "/membership/membership-contact",
       type: "comment",
     },

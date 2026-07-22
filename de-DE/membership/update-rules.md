@@ -1,5 +1,5 @@
 ---
-title: "Credit-Aktualisierung und Nutzungsregeln"
+title: "Credits: Aktualisierung und Nutzungsregeln"
 slug: "update-rules"
 order: 3
 extract_headings: true
@@ -7,62 +7,64 @@ preview: false
 ---
 
 <SeoMeta
-  title="Credit-Aktualisierung und Nutzungsregeln - Kimi Hilfecenter"
-  description="Agent-Funktionen und weitere Kimi-Mitgliedschaftsfunktionen teilen sich einen einzigen Credit-Pool; Kimi Code verfügt über einen eigenen, separaten Credit-Pool. Credits werden nach tatsächlicher Nutzung verbraucht."
+  title="Credits: Aktualisierung und Nutzungsregeln - Kimi Help Center"
+  description="Alle Funktionen der Kimi-Mitgliedschaft greifen auf einen gemeinsamen Credit-Pool zu. Credits werden nach tatsächlicher Nutzung verbraucht."
 />
 
-# Credit-Aktualisierung und Nutzungsregeln
+# Credits: Aktualisierung und Nutzungsregeln
 
 <Callout type="info">
-Agent-Funktionen und weitere Kimi-Mitgliedschaftsfunktionen teilen sich einen einzigen Credit-Pool; Kimi Code verfügt über einen eigenen, separaten Credit-Pool. Credits werden nach tatsächlicher Nutzung verbraucht.
+Alle Funktionen der Kimi-Mitgliedschaft (Agent, Deep Research, Slides, Docs, Sheets, Kimi Code, Kimi Work, Kimi Claw usw.) greifen auf einen gemeinsamen Credit-Pool zu. Credits werden nach tatsächlicher Nutzung verbraucht.
 </Callout>
 
 ## Wie funktioniert der gemeinsame Credit-Pool?
-Die Kimi-Mitgliedschaftsfunktionen teilen sich einen einzigen Credit-Pool, der überall greift. Agent-Funktionen und weitere Kimi-Funktionen greifen alle darauf zu:
+Die Funktionen der Kimi-Mitgliedschaft nutzen einen gemeinsamen Credit-Pool, der überall gilt. Agent-Funktionen und andere Kimi-Funktionen greifen gleichermaßen darauf zu:
 | Funktion | Beschreibung |
 |---------|-------------|
-| **Agent-Aufgaben** | Websites, Dokumente, Folien, Tabellen, Deep Research |
-| **Kimi Claw** | Ihr persönlicher, in der Cloud bereitgestellter KI-Assistent |
-| **Weitere Funktionen** | Bildgenerierung und mehr |
+| **Agent-Aufgaben** | Websites, Dokumente, Präsentationen, Tabellen, Deep Research |
+| **Kimi Code** | KI-gestützter Programmierassistent für Entwickler |
+| **Kimi Work** | Kimi-Desktop-App |
+| **Kimi Claw** | Dein persönlicher, in der Cloud bereitgestellter KI-Assistent |
+| **Weitere Funktionen** | Bilderzeugung und mehr |
 
-> **K2.6**: Unterhaltungen mit dem K2.6-Modell verbrauchen keine Credits
-> **Kimi Code**: KI-gestützter Programmierassistent (separater Credit-Pool)
+> **K2.6**: Im Chat ist K2.6 für alle Nutzer kostenlos und verbraucht keine Credits; wenn es als K2.6 Agent in Kimi Work verwendet wird, verbraucht es weiterhin Credits der Mitgliedschaft.
+> **Kimi Code**: Greift auf denselben gemeinsamen Credit-Pool zu, hat aber ein eigenes rate limit (5 Stunden / wöchentlich), das nur für Kimi Code gilt.
 
 <Callout type="tip">
-Das bedeutet: Sie können Ihre Credits aus dem gemeinsamen Pool ganz nach Belieben verteilen – in einem Monat mehr für Recherche, im nächsten mehr für Dokumente. K2.6 verbraucht keine Credits.
+Das bedeutet: Du kannst deine Credits im gemeinsamen Pool frei verteilen — in einem Monat mehr für Recherche ausgeben, im nächsten mehr für Dokumente. Im Chat verbraucht K2.6 keine Credits.
 </Callout>
 
 ## Wie werden Credits berechnet?
-Der Credit-Verbrauch richtet sich nach der Anzahl der Token, die eine Aufgabe verarbeitet. Längere Eingaben und Ausgaben verbrauchen mehr Token.
+Credits werden anhand der Anzahl der Tokens verbraucht, die eine Aufgabe verarbeitet. Längere Eingaben und Ausgaben benötigen mehr Tokens.
 
 <Callout type="info">
 **Grobe Orientierung für Nutzer im kostenlosen Tarif**:
-- Erstellen einer einfachen Foliensammlung ≈ 1–2 % Ihrer Credits
-- Erstellen eines Deep-Research-Berichts ≈ 5–10 %
-- Schreiben eines Code-Snippets ≈ 0,5–2 %
-Höhere Tarife enthalten entsprechend größere Credit-Pools.
+- Eine einfache Präsentation erstellen ≈ 1–2 % deiner Credits
+- Einen Deep Research-Bericht ausführen ≈ 5–10 %
+- Ein Code-Snippet schreiben ≈ 0,5–2 %
+Tarife höherer Stufen enthalten entsprechend größere Credit-Pools.
 </Callout>
 
-## Regeln zur Credit-Auffrischung
+## Regeln für die Erneuerung von Credits
 | Regel | Beschreibung |
 |------|-------------|
-| **Zyklus** | Sowohl Monats- als auch Jahresabonnenten erhalten Credits in einem **monatlichen** Zyklus |
-| **Ablauf** | Nicht genutzte Credits verfallen am Ende jedes Zyklus – sie werden weder übertragen noch in Guthaben umgewandelt |
-| **Limits** | Einzelne Aufgaben können den in der Benutzeroberfläche angezeigten Concurrency-Limits von 5 Stunden und 7 Tagen unterliegen |
+| **Zyklus** | Bei Monats- und Jahresabos werden Credits in einem **monatlichen** Zyklus gutgeschrieben |
+| **Ablauf** | Ungenutzte Credits verfallen am Ende jedes Zyklus — sie werden nicht übertragen und nicht in Geld umgewandelt |
+| **Limits** | Einzelne Aufgaben können concurrency-Limits für 5 Stunden und 7 Tage unterliegen, wie in der UI angezeigt |
 
-## Wenn die Credits aufgebraucht sind
-- Jede bereits laufende Aufgabe wird normal zu Ende geführt
-- Bei neuen Aufgaben erscheint der Hinweis „Nicht genügend Credits“
+## Wenn Credits aufgebraucht sind
+- Bereits laufende Aufgaben werden normal abgeschlossen
+- Bei neuen Aufgaben erscheint ein Hinweis auf „unzureichende Credits“
 
-**Ihre Möglichkeiten**:
+**Deine Optionen**:
 
-- Warten Sie auf die Auffrischung Ihrer Credits im nächsten Abrechnungszyklus
-- Wechseln Sie zu einem höheren Tarif mit einem größeren monatlichen Kontingent
-## Wie genau werden Credits aufgefrischt?
-1. **Zyklusbasiert** – Credits werden zum Jahrestag Ihres Abonnements aufgefrischt, nicht zum Kalendermonat
-2. **Keine Übertragung** – Verbleibende Credits werden auf null zurückgesetzt und Ihr volles Kontingent neu vergeben
-3. **Beispiel** – Wenn Sie am 1. Dezember um 15:00 Uhr abonniert haben, werden Ihre Credits am 1. Januar um 15:00 Uhr aufgefrischt
+- Warten, bis deine Credits im nächsten Abrechnungszyklus erneuert werden
+- Auf einen höheren Tarif upgraden, um ein größeres monatliches Kontingent zu erhalten
+## Wie genau werden Credits erneuert?
+1. **Zyklusbasiert** — Credits werden am Stichtag deines Abos erneuert, nicht zum Kalendermonat
+2. **Keine Übertragung** — Verbleibende Credits werden auf null gesetzt; anschließend wird dir dein volles Kontingent neu gutgeschrieben
+3. **Beispiel** — Wenn du am 1. Dezember um 15:00 Uhr abonniert hast, werden deine Credits am 1. Januar um 15:00 Uhr erneuert
 
 <Callout type="info">
-**Systemfehler**: Schlägt eine Aufgabe aufgrund eines Systemproblems fehl, melden Sie dies über die Schaltfläche 👎 und fordern Sie eine Credit-Rückerstattung an.
+**Systemfehler**: Wenn eine Aufgabe aufgrund eines Systemproblems fehlschlägt, nutze die Schaltfläche 👎, um dies zu melden und eine Erstattung der Credits anzufordern.
 </Callout>

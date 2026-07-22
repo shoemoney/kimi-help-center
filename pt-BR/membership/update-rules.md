@@ -8,61 +8,63 @@ preview: false
 
 <SeoMeta
   title="Regras de atualização e uso de créditos - Central de Ajuda Kimi"
-  description="Os recursos do Agent e os demais recursos da assinatura do Kimi compartilham um único pool de créditos; o Kimi Code tem seu próprio pool de créditos separado. Os créditos são consumidos conforme o uso real."
+  description="Todos os recursos da assinatura Kimi compartilham um único saldo de créditos. Os créditos são consumidos conforme o uso real."
 />
 
 # Regras de atualização e uso de créditos
 
 <Callout type="info">
-Os recursos do Agent e os demais recursos da assinatura do Kimi compartilham um único pool de créditos; o Kimi Code tem seu próprio pool de créditos separado. Os créditos são consumidos conforme o uso real.
+Todos os recursos da assinatura Kimi (Agent, Deep Research, Slides, Docs, Sheets, Kimi Code, Kimi Work, Kimi Claw etc.) compartilham um único saldo de créditos. Os créditos são consumidos conforme o uso real.
 </Callout>
 
-## Como funciona o pool de créditos compartilhado?
-Os recursos da assinatura do Kimi compartilham um único pool de créditos que funciona em todos os lugares. Os recursos do Agent e os demais recursos do Kimi utilizam esse pool:
+## Como funciona o saldo compartilhado de créditos?
+Os recursos da assinatura Kimi compartilham um único saldo de créditos, válido em todos os lugares. Recursos de Agent e outros recursos da Kimi usam esse mesmo saldo:
 | Recurso | Descrição |
 |---------|-------------|
-| **Tarefas do Agent** | Sites, documentos, slides, planilhas, pesquisa aprofundada |
-| **Kimi Claw** | Seu assistente de IA pessoal implantado na nuvem |
+| **Tarefas do Agent** | sites, documentos, slides, planilhas, Deep Research |
+| **Kimi Code** | Assistente de programação com IA para desenvolvedores |
+| **Kimi Work** | App da Kimi para desktop |
+| **Kimi Claw** | Seu assistente pessoal de IA implantado na nuvem |
 | **Outros recursos** | Geração de imagens e muito mais |
 
-> **K2.6**: conversas com o modelo K2.6 não consomem créditos
-> **Kimi Code**: assistente de programação com IA (pool de créditos separado)
+> **K2.6**: No Chat, o K2.6 é gratuito para todos os usuários e não consome créditos; quando usado como K2.6 Agent dentro do Kimi Work, ele ainda consome créditos da assinatura.
+> **Kimi Code**: Usa o mesmo saldo compartilhado de créditos, mas tem seu próprio rate limit (limite de frequência) de 5 horas / semanal, que se aplica apenas ao Kimi Code.
 
 <Callout type="tip">
-Isso significa que você pode distribuir os créditos como quiser dentro do pool compartilhado — gastar mais em pesquisa em um mês e mais em documentos no seguinte. O K2.6 não consome créditos.
+Isso significa que você pode distribuir seus créditos como quiser dentro do saldo compartilhado — gastar mais com pesquisa em um mês, mais com documentos no seguinte. No Chat, o K2.6 não consome créditos.
 </Callout>
 
 ## Como os créditos são calculados?
-Os créditos são consumidos com base na quantidade de tokens que uma tarefa processa. Entradas e saídas mais longas usam mais tokens.
+Os créditos são consumidos de acordo com a quantidade de tokens que uma tarefa processa. Entradas e saídas mais longas usam mais tokens.
 
 <Callout type="info">
-**Guia aproximado para usuários do plano gratuito**:
-- Gerar uma apresentação de slides simples ≈ 1–2% dos seus créditos
-- Executar um relatório de pesquisa aprofundada ≈ 5–10%
+**Referência aproximada para usuários do plano gratuito**:
+- Gerar uma apresentação simples ≈ 1–2% dos seus créditos
+- Executar um relatório de Deep Research ≈ 5–10%
 - Escrever um trecho de código ≈ 0,5–2%
-Planos de níveis superiores incluem um pool de créditos proporcionalmente maior.
+Planos superiores incluem saldos de créditos proporcionalmente maiores.
 </Callout>
 
-## Regras de renovação de créditos
+## Regras de renovação dos créditos
 | Regra | Descrição |
 |------|-------------|
-| **Ciclo** | Assinantes mensais e anuais recebem créditos em ciclo **mensal** |
-| **Expiração** | Créditos não utilizados expiram ao final de cada ciclo — eles não acumulam nem são convertidos em dinheiro |
-| **Limites** | Tarefas individuais podem estar sujeitas a limites de concorrência de 5 horas e 7 dias, conforme exibido na interface |
+| **Ciclo** | Assinantes mensais e anuais recebem créditos em um ciclo **mensal** |
+| **Expiração** | Créditos não utilizados expiram ao final de cada ciclo — eles não acumulam para o ciclo seguinte nem são convertidos em dinheiro |
+| **Limites** | Tarefas individuais podem estar sujeitas a limites de concurrency (simultaneidade) de 5 horas e 7 dias, conforme exibido na interface |
 
 ## Quando os créditos acabam
 - Qualquer tarefa já em andamento será concluída normalmente
-- Novas tarefas exibirão uma mensagem de "créditos insuficientes"
+- Novas tarefas exibirão um aviso de "créditos insuficientes"
 
 **Suas opções**:
 
-- Aguardar a renovação dos seus créditos no próximo ciclo de cobrança
-- Fazer upgrade para um plano de nível superior e ter uma franquia mensal maior
+- Aguardar a renovação dos créditos no próximo ciclo de cobrança
+- Fazer upgrade para um plano superior, com uma franquia mensal maior
 ## Como exatamente os créditos são renovados?
-1. **Com base no ciclo** — os créditos são renovados na data de aniversário da sua assinatura, e não no mês do calendário
-2. **Sem acúmulo** — os créditos restantes são zerados e, em seguida, sua franquia total é reemitida
-3. **Exemplo** — se você assinou em 1º de dezembro às 15h, seus créditos são renovados em 1º de janeiro às 15h
+1. **Com base no ciclo** — Os créditos são renovados na data de aniversário da sua assinatura, não no mês-calendário
+2. **Sem acúmulo** — Os créditos restantes são zerados e, em seguida, sua franquia integral é emitida novamente
+3. **Exemplo** — Se você assinou em 1º de dezembro às 15h, seus créditos serão renovados em 1º de janeiro às 15h
 
 <Callout type="info">
-**Erros do sistema**: se uma tarefa falhar devido a um problema do sistema, use o botão 👎 para reportá-lo e solicitar o reembolso dos créditos.
+**Erros do sistema**: Se uma tarefa falhar por um problema do sistema, use o botão 👎 para reportar a falha e solicitar o estorno dos créditos.
 </Callout>

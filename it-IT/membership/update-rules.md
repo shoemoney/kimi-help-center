@@ -1,5 +1,5 @@
 ---
-title: "Aggiornamento dei crediti e regole di utilizzo"
+title: "Regole di aggiornamento e utilizzo dei credit"
 slug: "update-rules"
 order: 3
 extract_headings: true
@@ -7,62 +7,64 @@ preview: false
 ---
 
 <SeoMeta
-  title="Aggiornamento dei crediti & regole di utilizzo - Centro assistenza Kimi"
-  description="Le funzionalità Agent e le altre funzionalità dell'abbonamento Kimi condividono un unico pool di crediti; Kimi Code dispone di un proprio pool di crediti separato. I crediti vengono consumati in base all'utilizzo effettivo."
+  title="Regole di aggiornamento e utilizzo dei credit - Centro assistenza Kimi"
+  description="Tutte le funzionalità dell’abbonamento Kimi condividono un unico pool di credit. I credit vengono consumati in base all’utilizzo effettivo."
 />
 
-# Aggiornamento dei crediti e regole di utilizzo
+# Regole di aggiornamento e utilizzo dei credit
 
 <Callout type="info">
-Le funzionalità Agent e le altre funzionalità dell'abbonamento Kimi condividono un unico pool di crediti; Kimi Code dispone di un proprio pool di crediti separato. I crediti vengono consumati in base all'utilizzo effettivo.
+Tutte le funzionalità dell’abbonamento Kimi (Agent, Deep Research, Slides, Docs, Sheets, Kimi Code, Kimi Work, Kimi Claw, ecc.) condividono un unico pool di credit. I credit vengono consumati in base all’utilizzo effettivo.
 </Callout>
 
-## Come funziona il pool di crediti condiviso?
-Le funzionalità dell'abbonamento Kimi condividono un unico pool di crediti valido ovunque. Le funzionalità Agent e le altre funzionalità di Kimi vi attingono tutte:
+## Come funziona il pool di credit condiviso?
+Le funzionalità dell’abbonamento Kimi condividono un unico pool di credit utilizzabile ovunque. Le funzionalità Agent e le altre funzionalità Kimi attingono tutte da lì:
 | Funzionalità | Descrizione |
 |---------|-------------|
-| **Attività dell’Agent** | Siti web, documenti, presentazioni, fogli di calcolo, deep research |
+| **Attività Agent** | Siti web, documenti, presentazioni, fogli di calcolo, Deep Research |
+| **Kimi Code** | Assistente di programmazione basato su AI per sviluppatori |
+| **Kimi Work** | App desktop Kimi |
 | **Kimi Claw** | Il tuo assistente AI personale distribuito nel cloud |
-| **Altre funzionalità** | Generazione di immagini e altro ancora |
+| **Altre funzionalità** | Generazione di immagini e altro |
 
-> **K2.6**: Le conversazioni con il modello K2.6 non consumano crediti
-> **Kimi Code**: Assistente di programmazione basato sull'AI (pool di crediti separato)
+> **K2.6**: In Chat, K2.6 è gratuito per tutti gli utenti e non consuma credit; quando viene usato come Agent K2.6 all’interno di Kimi Work, continua invece a consumare i credit dell’abbonamento.
+> **Kimi Code**: Attinge allo stesso pool di credit condiviso, ma ha un proprio rate limit di 5 ore / settimanale valido solo per Kimi Code.
 
 <Callout type="tip">
-Questo significa che puoi distribuire i crediti del pool condiviso come preferisci — un mese investire di più nella ricerca, il mese successivo nei documenti. K2.6 non consuma crediti.
+Questo significa che puoi distribuire i credit come preferisci all’interno del pool condiviso: un mese puoi spenderne di più per la ricerca, quello successivo per i documenti. In Chat, K2.6 non consuma credit.
 </Callout>
 
-## Come vengono calcolati i crediti?
-I crediti vengono consumati in base al numero di token elaborati da un'attività. Input e output più lunghi consumano più token.
+## Come vengono calcolati i credit?
+I credit vengono consumati in base al numero di token elaborati da un’attività. Input e output più lunghi usano più token.
 
 <Callout type="info">
-**Guida indicativa per gli utenti del piano gratuito**:
-- Generare una semplice presentazione ≈ 1–2% dei tuoi crediti
-- Eseguire un report di deep research ≈ 5–10%
+**Indicazione orientativa per gli utenti del piano gratuito**:
+- Generare una semplice presentazione ≈ 1–2% dei tuoi credit
+- Eseguire un report di Deep Research ≈ 5–10%
 - Scrivere uno snippet di codice ≈ 0,5–2%
-I piani di livello superiore includono pool di crediti proporzionalmente più ampi.
+I piani di livello superiore includono pool di credit proporzionalmente più ampi.
 </Callout>
 
-## Regole di rinnovo dei crediti
+## Regole di rinnovo dei credit
 | Regola | Descrizione |
 |------|-------------|
-| **Ciclo** | Gli abbonati mensili e annuali ricevono entrambi i crediti con cadenza **mensile** |
-| **Scadenza** | I crediti non utilizzati scadono al termine di ogni ciclo — non vengono riportati né convertiti in denaro |
-| **Limiti** | Le singole attività possono essere soggette a limiti di concorrenza di 5 ore e 7 giorni, come indicato nell'interfaccia |
+| **Ciclo** | Gli abbonati mensili e annuali ricevono entrambi i credit su base **mensile** |
+| **Scadenza** | I credit non utilizzati scadono alla fine di ogni ciclo: non vengono riportati al ciclo successivo né convertiti in denaro |
+| **Limiti** | Le singole attività possono essere soggette a limiti di concurrency su 5 ore e 7 giorni, come indicato nell’interfaccia |
 
-## Quando i crediti si esauriscono
+## Quando i credit finiscono
 - Qualsiasi attività già in corso verrà completata normalmente
-- Le nuove attività mostreranno l'avviso "crediti insufficienti"
+- Le nuove attività mostreranno un avviso di "credit insufficienti"
 
 **Le tue opzioni**:
 
-- Attendere il rinnovo dei crediti nel ciclo di fatturazione successivo
-- Passare a un piano di livello superiore per ottenere un'allocazione mensile maggiore
-## Come avviene esattamente il rinnovo dei crediti?
-1. **Basato sul ciclo** — I crediti si rinnovano alla data di anniversario del tuo abbonamento, non al mese di calendario
-2. **Nessun riporto** — I crediti residui vengono azzerati e poi viene riemessa l'intera allocazione
-3. **Esempio** — Se ti sei abbonato il 1° dicembre alle 15:00, i tuoi crediti si rinnovano il 1° gennaio alle 15:00
+- Attendere il rinnovo dei credit al ciclo di fatturazione successivo
+- Passare a un piano di livello superiore per ottenere una disponibilità mensile più ampia
+## Come si rinnovano esattamente i credit?
+1. **In base al ciclo** — I credit si rinnovano nella data di anniversario dell’abbonamento, non all’inizio del mese di calendario
+2. **Nessun riporto** — I credit rimanenti vengono azzerati, poi viene assegnata di nuovo l’intera dotazione
+3. **Esempio** — Se ti sei abbonato il 1° dicembre alle 15:00, i credit si rinnovano il 1° gennaio alle 15:00
 
 <Callout type="info">
-**Errori di sistema**: Se un'attività fallisce a causa di un problema di sistema, usa il pulsante 👎 per segnalarlo e richiedere un rimborso dei crediti.
+**Errori di sistema**: Se un’attività non va a buon fine a causa di un problema di sistema, usa il pulsante 👎 per segnalarlo e richiedere il rimborso dei credit.
 </Callout>

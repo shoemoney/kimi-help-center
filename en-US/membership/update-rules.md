@@ -8,13 +8,13 @@ preview: false
 
 <SeoMeta
   title="Credit update & usage rules - Kimi Help Center"
-  description="Agent features and other Kimi membership features share a single credit pool; Kimi Code has its own separate credit pool. Credits are consumed based on actual usage."
+  description="All Kimi membership features share a single credit pool. Credits are consumed based on actual usage."
 />
 
 # Credit update & usage rules
 
 <Callout type="info">
-Agent features and other Kimi membership features share a single credit pool; Kimi Code has its own separate credit pool. Credits are consumed based on actual usage.
+All Kimi membership features (Agent, Deep Research, Slides, Docs, Sheets, Kimi Code, Kimi Work, Kimi Claw, etc.) share a single credit pool. Credits are consumed based on actual usage.
 </Callout>
 
 ## How does the shared credit pool work?
@@ -22,14 +22,16 @@ Kimi membership features share a single credit pool that works everywhere. Agent
 | Feature | Description |
 |---------|-------------|
 | **Agent tasks** | Websites, documents, slides, spreadsheets, deep research |
+| **Kimi Code** | AI-powered coding assistant for developers |
+| **Kimi Work** | Kimi desktop app |
 | **Kimi Claw** | Your personal cloud-deployed AI assistant |
 | **Other features** | Image generation and more |
 
-> **K2.6**: Conversations with the K2.6 model do not consume credits
-> **Kimi Code**: AI-powered coding assistant (separate credit pool)
+> **K2.6**: In Chat, K2.6 is free for all users and does not consume credits; when used as a K2.6 Agent inside Kimi Work, it still consumes membership credits.
+> **Kimi Code**: Draws from the same shared credit pool, but has its own 5-hour / weekly rate limit that applies only to Kimi Code.
 
 <Callout type="tip">
-This means you can allocate credits however you like across the shared pool — spend more on research one month, more on documents the next. K2.6 does not consume credits.
+This means you can allocate credits however you like across the shared pool — spend more on research one month, more on documents the next. In Chat, K2.6 does not consume credits.
 </Callout>
 
 ## How are credits calculated?

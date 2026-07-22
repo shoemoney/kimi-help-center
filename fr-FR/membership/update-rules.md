@@ -1,5 +1,5 @@
 ---
-title: "Crédits : mise à jour et règles d'utilisation"
+title: "Actualisation des credits et règles d’utilisation"
 slug: "update-rules"
 order: 3
 extract_headings: true
@@ -7,62 +7,64 @@ preview: false
 ---
 
 <SeoMeta
-  title="Crédits : mise à jour et règles d'utilisation - Centre d'aide Kimi"
-  description="La série Agent et les autres fonctionnalités d'abonnement Kimi partagent un pool de crédits unique ; Kimi Code dispose de son propre pool de crédits distinct. Les crédits sont consommés selon l'usage réel."
+  title="Actualisation des credits et règles d’utilisation - Centre d’aide Kimi"
+  description="Toutes les fonctionnalités de l’abonnement Kimi partagent une réserve unique de credits. Les credits sont consommés en fonction de l’utilisation réelle."
 />
 
-# Crédits : mise à jour et règles d'utilisation
+# Actualisation des credits et règles d’utilisation
 
 <Callout type="info">
-La série Agent et les autres fonctionnalités d'abonnement Kimi partagent un pool de crédits (credits) unique ; Kimi Code dispose de son propre pool de crédits distinct. Les crédits sont consommés selon l'usage réel.
+Toutes les fonctionnalités de l’abonnement Kimi (Agent, Deep Research, Slides, Docs, Sheets, Kimi Code, Kimi Work, Kimi Claw, etc.) partagent une réserve unique de credits. Les credits sont consommés en fonction de l’utilisation réelle.
 </Callout>
 
-## Comment fonctionne le pool de crédits partagé ?
-Les fonctionnalités de l'abonnement Kimi partagent un pool de crédits unique, utilisable partout. La série Agent et les autres fonctionnalités de Kimi y puisent toutes :
+## Comment fonctionne la réserve de credits commune ?
+Les fonctionnalités de l’abonnement Kimi partagent une réserve unique de credits, utilisable partout. Les fonctionnalités Agent et les autres fonctionnalités Kimi y puisent toutes :
 | Fonctionnalité | Description |
 |---------|-------------|
-| **Tâches d'agent** | Sites web, documents, présentations, feuilles de calcul, recherche approfondie |
+| **Tâches Agent** | Sites web, documents, présentations, feuilles de calcul, Deep Research |
+| **Kimi Code** | Assistant de programmation propulsé par l’IA pour les développeurs |
+| **Kimi Work** | Application de bureau Kimi |
 | **Kimi Claw** | Votre assistant IA personnel déployé dans le cloud |
-| **Autres fonctionnalités** | Génération d'images et bien plus |
+| **Autres fonctionnalités** | Génération d’images, et plus encore |
 
-> **K2.6** : les conversations avec le modèle K2.6 ne consomment aucun crédit
-> **Kimi Code** : assistant de codage propulsé par l'IA (pool de crédits distinct)
+> **K2.6** : dans Chat, K2.6 est gratuit pour tous les utilisateurs et ne consomme pas de credits ; utilisé comme Agent K2.6 dans Kimi Work, il consomme toutefois les credits de l’abonnement.
+> **Kimi Code** : puise dans la même réserve de credits commune, mais dispose de son propre rate limit de 5 heures / hebdomadaire, applicable uniquement à Kimi Code.
 
 <Callout type="tip">
-Vous pouvez ainsi répartir vos crédits comme bon vous semble au sein de la réserve partagée — privilégier la recherche un mois, les documents le mois suivant. K2.6 ne consomme aucun crédit.
+Vous pouvez donc répartir vos credits comme vous le souhaitez dans la réserve commune : davantage pour la recherche un mois, davantage pour les documents le mois suivant. Dans Chat, K2.6 ne consomme pas de credits.
 </Callout>
 
-## Comment les crédits sont-ils calculés ?
-La consommation de crédits dépend du nombre de tokens traités par une tâche. Plus les entrées et les sorties sont longues, plus elles consomment de tokens.
+## Comment les credits sont-ils calculés ?
+Les credits sont consommés selon le nombre de tokens qu’une tâche traite. Les entrées et sorties plus longues utilisent davantage de tokens.
 
 <Callout type="info">
-**Repère approximatif pour les utilisateurs de l'offre gratuite** :
-- Générer une présentation simple ≈ 1 à 2 % de vos crédits
-- Lancer un rapport de recherche approfondie ≈ 5 à 10 %
+**Repères approximatifs pour les utilisateurs de l’offre gratuite** :
+- Générer un simple diaporama ≈ 1 à 2 % de vos credits
+- Lancer un rapport Deep Research ≈ 5 à 10 %
 - Rédiger un extrait de code ≈ 0,5 à 2 %
-Les offres supérieures s'accompagnent de pools de crédits proportionnellement plus importants.
+Les formules supérieures disposent de réserves de credits proportionnellement plus importantes.
 </Callout>
 
-## Règles de renouvellement des crédits
+## Règles d’actualisation des credits
 | Règle | Description |
 |------|-------------|
-| **Cycle** | Les abonnés mensuels comme annuels reçoivent leurs crédits selon un cycle **mensuel** |
-| **Expiration** | Les crédits non utilisés expirent à la fin de chaque cycle — ils ne sont ni reportés ni convertis en argent |
-| **Limites** | Certaines tâches peuvent être soumises à des limites de simultanéité sur 5 heures et 7 jours, comme indiqué dans l'interface |
+| **Cycle** | Les abonnés mensuels comme annuels reçoivent des credits selon un cycle **mensuel** |
+| **Expiration** | Les credits inutilisés expirent à la fin de chaque cycle : ils ne sont ni reportés ni convertis en espèces |
+| **Limites** | Certaines tâches peuvent être soumises à des limites de concurrency de 5 heures et de 7 jours, comme indiqué dans l’interface |
 
-## Lorsque vos crédits sont épuisés
+## Lorsque les credits sont épuisés
 - Toute tâche déjà en cours se terminera normalement
-- Les nouvelles tâches afficheront un message « crédits insuffisants »
+- Les nouvelles tâches afficheront un message « credits insuffisants »
 
 **Vos options** :
 
-- Attendre le renouvellement de vos crédits au prochain cycle de facturation
-- Passer à une offre supérieure pour bénéficier d'une allocation mensuelle plus généreuse
-## Comment les crédits se renouvellent-ils exactement ?
-1. **Selon le cycle** — Les crédits se renouvellent à la date anniversaire de votre abonnement, et non au début du mois calendaire
-2. **Sans report** — Les crédits restants sont remis à zéro, puis votre allocation complète est attribuée à nouveau
-3. **Exemple** — Si vous vous êtes abonné le 1er décembre à 15 h 00, vos crédits se renouvelleront le 1er janvier à 15 h 00
+- Attendre l’actualisation de vos credits au prochain cycle de facturation
+- Passer à une formule supérieure pour bénéficier d’une enveloppe mensuelle plus importante
+## Comment les credits sont-ils actualisés, concrètement ?
+1. **Selon le cycle** — Les credits sont actualisés à la date anniversaire de votre abonnement, et non au début du mois calendaire
+2. **Aucun report** — Les credits restants sont remis à zéro, puis votre allocation complète est réattribuée
+3. **Exemple** — Si vous vous êtes abonné le 1er décembre à 15 h 00, vos credits sont actualisés le 1er janvier à 15 h 00
 
 <Callout type="info">
-**Erreurs système** : si une tâche échoue à cause d'un problème technique, utilisez le bouton 👎 pour le signaler et demander un remboursement de crédits.
+**Erreurs système** : si une tâche échoue en raison d’un problème système, utilisez le bouton 👎 pour le signaler et demander le remboursement des credits.
 </Callout>

@@ -4,29 +4,28 @@ slug: "membership-pricing"
 order: 4
 extract_headings: true
 preview: true
-preview_content: "Learn about Kimi membership plan pricing, benefits, and credit details."
+preview_content: "Learn about pricing, benefits, and credit details for each Kimi membership plan."
 ---
 
 <SeoMeta
   title="Kimi Membership Plan Pricing and Benefits Comparison - Kimi Help Center"
-  description="Compare pricing, benefits, and credit details for Kimi’s five membership plans, from Adagio to Allegro, including the overseas Vivace plan. The Agent series and other Kimi membership features share a single credit pool; Kimi Code has its own separate credit pool. Save up to ¥1,680 with an annual auto-renewal subscription."
+  description="Compare prices, benefits, and credits for Kimi’s four membership plans, from Andante to Allegro, including the overseas Vivace plan. All Kimi membership features share one credit pool. Save up to ¥1,680 with an auto-renewing annual subscription."
 />
 
 # Membership Pricing and Plan Overview
 
-Kimi offers five membership plans, including the free Adagio plan. All plans support monthly auto-renewal and annual auto-renewal subscriptions. The Agent series and other Kimi membership features share a single credit pool; Kimi Code has its own separate credit pool. Credits can be allocated freely.
+Kimi offers four membership plans, each available as an auto-renewing monthly or annual subscription. All Kimi membership features share one credit pool, and you can use your credits flexibly across features.
 
 ## Subscription Options and Pricing
 
-| Plan | Positioning | Monthly auto-renewal | Annual auto-renewal |
+| Plan | Best for | Auto-renewing monthly | Auto-renewing annual |
 | --- | --- | --- | --- |
-| Adagio | Free trial | ¥0/month | — |
-| Andante | Everyday use | ¥49/month | Better value with annual billing |
-| Moderato | Productivity upgrade | ¥99/month | Better value with annual billing |
-| Allegretto | Professional choice | ¥199/month | Better value with annual billing |
-| Allegro | All-in-one premium | ¥699/month | Better value with annual billing |
+| Andante | Everyday use | ¥49/month | Better value annually |
+| Moderato | Productivity upgrade | ¥99/month | Better value annually |
+| Allegretto | Professional choice | ¥199/month | Better value annually |
+| Allegro | All-in-one premium | ¥699/month | Better value annually |
 
-Choose annual auto-renewal for a larger discount and save up to ¥1,680.
+Choose an auto-renewing annual subscription for a larger discount and save up to ¥1,680.
 
 ## Plan Benefits
 
@@ -37,93 +36,88 @@ Choose annual auto-renewal for a larger discount and save up to ¥1,680.
 
 <Frames
   src="./images/membership/overview-03.png"
-  alt="Membership subscription page - benefits details"
+  alt="Membership subscription page - benefit details"
 />
-
-### Adagio — Free
-
-- About 6 Agent uses
-- 1 concurrent Agent task
-- 200 professional database calls
 
 ### Andante — ¥49/month
 
 - About 30 Agent uses
-- Agent priority generation queue (4x speed)
-- Office file processing, Deep Research, and website deployment
+- Priority Agent generation queue, 4x faster
+- Office file processing, Deep Research, website deployment
 - 1x Kimi Code credit
 - 1,000 professional database calls
 
 ### Moderato — ¥99/month
 
-Includes everything in Andante, plus:
+Everything in Andante, plus:
 
 - About 60 Agent uses
-- 2 concurrent Agent tasks
-- 25 Agent Swarm uses available (2 subtasks concurrently)
+- 2 parallel Agent tasks
+- 25 Agent Swarm uses, with 2 subtasks running in parallel
 - 4x Kimi Code credit
 - 2,000 professional database calls
 
 ### Allegretto — ¥199/month
 
-Includes everything in Moderato, plus:
+Everything in Moderato, plus:
 
 - About 150 Agent uses
 - 20x Kimi Code credit
-- One-click deployment of Kimi Claw / Kimi Claw Android
-- 50 Agent Swarm uses available (4 subtasks concurrently)
+- One-click deployment for Kimi Claw / Kimi Claw Android
+- 50 Agent Swarm uses, with 4 subtasks running in parallel
 - 5,000 professional database calls
 
 ### Allegro — ¥699/month
 
-Includes everything in Allegretto, plus:
+Everything in Allegretto, plus:
 
 - About 360 Agent uses
-- 4 concurrent Agent tasks
+- 4 parallel Agent tasks
 - 60x Kimi Code credit
-- 120 Agent Swarm uses available (4 subtasks concurrently)
+- 120 Agent Swarm uses, with 4 subtasks running in parallel
 - 12,000 professional database calls
 
 <Callout type="tip">
-The Agent usage figures above are estimates based on typical task token consumption, assuming your monthly credits are used for the same feature. Agent credits can be used for Agent features such as Office file processing, Deep Research, and website deployment.
+The Agent usage figures above are estimates based on typical task token consumption, assuming your monthly credits are used on a single feature. Agent credits can be used for Agent features such as Office file processing, Deep Research, and website deployment.
 </Callout>
 
 ## Credit Details
 
 <Callout type="info">
-The Agent series and other Kimi membership features share a single credit pool, calculated by token consumption; Kimi Code has its own separate credit pool. K2.6 does not consume credits. You do not need to manage usage for each feature separately. Higher-tier plans provide more credits, supporting more frequent and more complex use cases.
+All Kimi membership features share one credit pool and are calculated based on actual token consumption, so you do not need to manage usage for each feature separately. K2.6 used from the chat entry point is free and does not consume credits. Kimi Code also has a separate limit of 5 hours per week, which applies only to Kimi Code and does not affect other membership features. Higher-tier plans provide more credits for more frequent and complex use cases.
 </Callout>
 
-- **Credit pool**: the Agent series and other Kimi membership features share one pool; Kimi Code has its own separate credit pool. Usage is calculated based on actual token consumption.
-- **Monthly refresh**: Credits are automatically refreshed in each billing cycle. Unused credits expire at the end of the cycle and are cleared.
-- **Frequency limits**: For 5-hour and weekly frequency controls, refer to the prompts shown on the page.
+- **Credit pool**: All membership features, including website deployment, Deep Research, PPT, Kimi Code, Kimi Work, Kimi Claw, K3, and K3 Agent Swarm, share one credit pool. Credits are deducted based on actual token consumption. If any feature uses up the credits, other features will also be affected.
+- **Kimi Code limit**: Kimi Code also has a separate limit of 5 hours per week, which applies only to Kimi Code and does not affect other membership features.
+- **Monthly refresh**: Credits refresh automatically in each billing cycle. Unused credits expire at the end of the cycle.
+- **Frequency limits**: For the 5-hour cap and weekly frequency controls, please refer to the prompts shown on the page.
 
-For more benefit details and plan comparisons, see [Membership Subscription Benefits Overview](/membership/membership-overview).
+For more benefit details and plan comparisons, see [Membership Subscription Service Benefits](/membership/membership-overview).
 
 ## Credit FAQ
 
-### How can I check my credit usage?
+### How do I check my credit usage?
 
 - **Web**: Click your avatar in the lower-left corner → Settings → Subscription
-- **APP**: Me → Membership Plan → Subscription
+- **App**: Me → Membership Plan → Subscription
 
-You can view your current credit balance as a percentage, the next refresh time, and the 1,000 most recent usage records, including time used, feature, and consumption percentage.
+You can view your current credit balance as a percentage, the next refresh time, and your most recent 1,000 usage records, including usage time, feature, and consumption percentage.
 
 <Callout type="tip">
-Usage record data may have a short delay. Please refer to the currently displayed credit balance.
+Usage details may have a brief delay. Please refer to the current credit display.
 </Callout>
 
-### What happens when my credits run out?
+### What if I use up my credits?
 
-Tasks already in progress can still be completed normally, but new tasks will show an insufficient credit prompt. You can:
+Tasks already in progress can be completed normally. New tasks will show an insufficient credit prompt. You can:
 
-- Wait for credits to refresh automatically (5-hour / weekly / monthly refresh, subject to the prompts shown on the page)
+- Wait for credits to refresh automatically, based on the 5-hour, weekly, or monthly refresh prompts shown on the page
 - Upgrade to a higher-tier membership plan for more credits
-- Join official campaigns to receive granted credits
+- Join official campaigns to receive bonus credits
 
 ### Can I use all my credits on one feature?
 
-Yes. Agent, PPT, Deep Research, and other Kimi membership features share a single credit pool; Kimi Code has its own separate credit pool. You can use them as you choose.
+Yes. All membership features share one credit pool, and you can allocate your credits as you like. Please note that if one feature uses up all credits, other features will also be affected. Kimi Code also has a separate 5-hour-per-week limit, which applies only to Kimi Code.
 
 ## Related Agreements
 

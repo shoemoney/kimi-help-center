@@ -1,5 +1,5 @@
 ---
-title: "Agent額度與計費"
+title: "Agent credit 與計費"
 slug: "quota-and-billing"
 order: 4
 extract_headings: false
@@ -7,46 +7,46 @@ preview: false
 ---
 
 <SeoMeta
-  title="Agent額度與計費 - Kimi 說明中心"
-  description="Agent 模式採用 Kimi 的額度 系統。所有會員權益都包含兩個額度池：Kimi Code 使用獨立的額度池；其他會員功能共用同一個額度池，並依實際 token 消耗扣除額度。"
+  title="Agent credit 與計費 - Kimi 說明中心"
+  description="Agent 模式採用 Kimi 的 credit（點數）系統。所有會員功能（Agent、Deep Research、Slides、Docs、Sheets、Kimi Code、Kimi Work、Kimi Claw 等）共用同一個 credit 池，並依實際 token 消耗扣除 credit。"
 />
 
-# Agent額度與計費
+# Agent credit 與計費
 
 <Callout type="info">
-Agent 模式採用 Kimi 的額度 系統。所有會員權益都包含兩個額度池：Kimi Code 使用獨立的額度池；其他會員功能（Agent、Deep Research、簡報、Docs、Sheets、Kimi Claw 等）共用同一個額度池，並依實際 token 消耗扣除額度。
+Agent 模式採用 Kimi 的 credit（點數）系統。所有會員功能（Agent、Deep Research、Slides、Docs、Sheets、Kimi Code、Kimi Work、Kimi Claw 等）共用同一個 credit 池，並依實際 token 消耗扣除 credit。
 </Callout>
 
 ## 計費模式
-- **兩個額度池**：所有會員權益都包含兩個額度池。Kimi Code 使用獨立的額度池；其他會員功能共用同一個額度池——可依你的需求自由分配使用
-- **按量計費**：額度 消耗取決於任務複雜度與執行時間（也就是 token 用量）——簡單任務消耗較少，複雜任務消耗較多
-- **每月更新**：額度 會依你的訂閱週期每月重置
-- **使用優先順序**：獎勵額度（例如試用額度、促銷獎勵）會優先消耗，之後才會使用方案額度
+- **共用 credit 池**：所有會員功能共用同一個 credit 池，可依需求自由分配使用。Kimi Code 另有每週 5 小時的專屬 rate limit，僅適用於 Kimi Code，不影響其他功能
+- **按量付費**：credit 消耗取決於任務複雜度與執行時間（亦即 token 用量）；簡單任務消耗較少，複雜任務消耗較多
+- **每月刷新**：credit 會依你的訂閱週期每月重置
+- **使用優先順序**：贈送 credit（例如試用 credit、活動獎勵）會優先消耗，其次才是方案內 credit
 
 <Callout type="tip">
-**範例**：使用 Moderato 方案時，產生一份簡單的 PPT 可能消耗約 1–2% 的額度；而一次 Deep Research 可能消耗約 5–10%。
+**範例**：使用 Moderato 方案時，產生一份簡單 PPT 可能消耗約 1–2% 的 credit；一次 Deep Research 工作階段則可能使用約 5–10%。
 </Callout>
 
-## 額度用完時會怎樣？
-當你的額度 已用盡：
-- 目前正在進行的任務會正常完成
-- 新任務會顯示「額度 不足」提示
-- 你可以：
-  - 等待每月額度 自動更新
-  - 升級至更高階的會員方案，以取得更多額度
+## credit 用完會怎樣？
+當你的 credit 耗盡時：
+- 目前正在執行的任務會正常完成
+- 新任務會顯示「credit 不足」提示
+- 你可以選擇：
+  - 等待每月 credit 自動刷新
+  - 升級至更高級別的會員方案，以取得更多 credit
 
-## 如何查看額度 使用情況？
-- **網頁版**：個人資料 → 設定 → 訂閱
-- **App**：個人資料 → 會員方案 → 訂閱
-你可以查看：
-1. 目前額度 餘額（以百分比顯示）
-2. 下次更新日期
-3. 最近 10 筆使用記錄（時間戳記、使用功能、消耗百分比）
+## 如何查看 credit 使用量？
+- **網頁版**：個人檔案 → 設定 → 訂閱
+- **App**：個人檔案 → 會員方案 → 訂閱
+可查看項目：
+1. 目前 credit 餘額（以百分比顯示）
+2. 下次刷新日期
+3. 最近 10 筆使用記錄（時間戳、使用功能、消耗比例）
 
 <Callout type="info">
-使用記錄可能會有短暫延遲。最新資訊請以實際顯示的額度 為準。
+使用記錄可能會有短暫延遲。請以實際 credit 顯示為準，以取得最新資訊。
 </Callout>
 
-## 任務失敗仍會消耗額度 嗎？
-- 任務成功執行後，才會依實際消耗扣除額度
-- 如果任務因系統錯誤而失敗（未傳回有效結果），請點選 **👎** 按鈕回報。經核實後，將退還對應的額度
+## 任務失敗仍會消耗 credit 嗎？
+- 任務成功執行後，才會依實際消耗量扣除 credit
+- 如果任務因系統錯誤而失敗（未返回有效結果），請點擊 **👎** 按鈕回報。確認後，系統會退還相應 credit

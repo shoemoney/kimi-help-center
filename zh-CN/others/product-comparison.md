@@ -37,6 +37,6 @@ Kimi 的在线体验已经把「对话」和「Agent」合并——你无需在�
 
 ## 该开哪个会员
 
-会员权益按你的 Kimi 账号计算。其中 **Kimi Code 使用单独的额度池**，其它会员功能（对话、Agent、深度研究等）共享同一个额度池。具体套餐与价格请见[会员订阅页](/membership/membership-pricing)。
+会员权益按你的 Kimi 账号计算。所有会员功能（对话、Agent、深度研究、Kimi Code 等）**共享同一个额度池**；其中 Kimi Code 另有 5 小时 / 周限额，仅作用于 Kimi Code。具体套餐与价格请见[会员订阅页](/membership/membership-pricing)。
 
 如果你主要是**日常使用 + 偶尔做任务**，选择合适档位的 Kimi 会员即可覆盖网页 / App / Kimi Work 的大部分场景；**高频写代码**的开发者可额外关注 Kimi Code 的权益。

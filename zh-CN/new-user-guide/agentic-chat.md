@@ -39,7 +39,7 @@ Kimi提供多种模型选择，点击输入框上方的模型切换按钮，即�
 | **K3 集群** | 标准 / 进阶 / 极致 | 海量搜索、批量处理，一次性完成大规模任务 |
 
 <Callout type="tip">
-K2.6 不消耗会员额度；K3 与 K3 集群按额度计费，详见[会员权益说明](https://www.kimi.com/help/membership/membership-overview)。
+K2.6 在会话中不消耗会员额度（在 Kimi Work 中作为 K2.6 Agent 使用时仍会消耗）；K3 与 K3 集群按额度计费，详见[会员权益说明](https://www.kimi.com/help/membership/membership-overview)。
 </Callout>
 
 ### 关于 Kimi K3

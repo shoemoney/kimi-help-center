@@ -139,7 +139,7 @@ Kimi Claw Android 需要以下权限才能在后台稳定运行，请逐项点�
 />
 
 
-如果你是免费用户，需要先开通会员权益，点击「升级订阅」进行会员开通。Kimi Claw Android 需要 Allegretto 等级才可激活。
+如果你是未订阅用户，需要先开通会员权益，点击「升级订阅」进行会员开通。Kimi Claw Android 需要 Allegretto 等级才可激活。
 
 
 
@@ -598,7 +598,7 @@ Kimi Claw Android 内置了 SkillHub 技能库，你可以在设置中管理和�
 - 部分手机品牌的权限授予需要重启应用才能生效
 - 请返回 Kimi Claw Android，如果状态未更新，可以尝试关闭并重新打开 App
 
-**免费用户可以使用吗？**
+**未订阅用户可以使用吗？**
 
 - 目前需要开通 Allegretto 及以上 Kimi 会员权益才能使用 Kimi Claw Android
 - 在配置 Kimi 账号步骤中点击「去升级」即可开通

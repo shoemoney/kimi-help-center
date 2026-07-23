@@ -1,5 +1,5 @@
 ---
-title: "Kimi 登月同行计划使用说明"
+title: "Kimi 登月同行计划使用说明 - 常驻活动"
 slug: "moon-companion-plan"
 order: 2
 extract_headings: true
@@ -8,11 +8,11 @@ preview_content: "Kimi 登月同行计划是面向 Kimi 用户的好友邀请活
 ---
 
 <SeoMeta
-  title="Kimi 登月同行计划使用说明 - Kimi 帮助中心"
+  title="Kimi 登月同行计划使用说明 - 常驻活动 - Kimi 帮助中心"
   description="Kimi 登月同行计划是面向 Kimi 用户的好友邀请活动。了解如何进入活动、如何邀请好友、怎样算邀请成功、如何使用抽奖机会、奖品与额度查看等常见问题。"
 />
 
-# Kimi 登月同行计划使用说明
+# Kimi 登月同行计划使用说明 - 常驻活动
 
 Kimi 登月同行计划是面向 Kimi 用户推出的好友邀请活动。邀请好友完成指定任务后，邀请人和好友均可获得抽奖机会，抽取 Kimi 会员等值额度。
 

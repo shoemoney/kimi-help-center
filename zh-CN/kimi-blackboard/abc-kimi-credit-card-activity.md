@@ -14,13 +14,13 @@ preview_content: "2026年7月10日至9月30日，农业银行与 Kimi 联合推�
 
 # 农业银行 × Kimi 联名信用卡活动说明 - 2026年7月10日
 
-农业银行与 Kimi 联合推出两款联名信用卡活动，活动时间均为 **2026年7月10日至2026年9月30日**。两个活动面向不同客户群体，达标条件和奖励内容也有所区别，请仔细阅读后根据自身情况参与。
+农业银行与 Kimi 联合推出 KIMI 联名信用卡，包含两个卡产品，分别对应两个礼品活动。两个活动时间均为 **2026年7月10日至2026年9月30日**，但面向对象、达标条件和奖励内容不同，请根据你办理的卡产品查看对应活动规则。
 
-<Callout type="warning">
-**请注意区分以下两个活动：**
+<Callout type="info">
+**两个卡产品及对应活动：**
 
-- **活动一：KIMI 联名信用卡（高端白金卡）开卡礼活动**（[活动页面](https://www.abchina.com/cn/PersonalServices/ABCPromotion/National/bjkkl20260713.htm)）：面向首次办理 KIMI 联名信用卡（高端白金卡）主卡的客户，达标可领取 KIMI 联名 NFC 毛绒挂件 1 个与 **KIMI Allegretto 等级会员月卡 2 份**。
-- **活动二：KIMI 联名信用卡新客礼活动**（[活动页面](https://www.abchina.com/cn/PersonalServices/ABCPromotion/National/xkl20260713.htm)）：面向首次办理并成功核发建账农行信用卡的 KIMI 联名信用卡主卡新客户，达标可领取 KIMI 联名 NFC 毛绒挂件 1 个与 **KIMI Andante 等级会员月卡 3 份**。
+- **KIMI 联名信用卡（高端白金卡）+ 开卡礼活动**（[活动页面](https://www.abchina.com/cn/PersonalServices/ABCPromotion/National/bjkkl20260713.htm)）：首次办理该卡主卡的客户，核卡后次两个自然月内累计消费满 **5888 元**，可领取 KIMI 联名 NFC 毛绒挂件 1 个与 **KIMI Allegretto 等级会员月卡 2 份**。
+- **KIMI 联名信用卡 + 新客礼活动**（[活动页面](https://www.abchina.com/cn/PersonalServices/ABCPromotion/National/xkl20260713.htm)）：首次办理并成功核发建账农行信用卡的 KIMI 联名信用卡主卡新客户，核卡后次两个自然月内累计消费 **3 笔**且每笔满 **18 元**，可领取 KIMI 联名 NFC 毛绒挂件 1 个与 **KIMI Andante 等级会员月卡 3 份**。
 </Callout>
 
 ## 活动对比

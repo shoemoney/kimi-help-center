@@ -8,38 +8,38 @@ preview: false
 
 <SeoMeta
   title="Rate limits - Kimi Help Center"
-  description="Kimi API rate limit dimensions, calculation logic, 429 handling, and how to request higher limits."
+  description="How Kimi API rate limits work: concurrency, RPM, TPM, TPD, calculation logic, and how to handle 429 errors."
 />
 
 # Rate limits
 
 Kimi API enforces rate limits on request frequency and concurrency to ensure platform stability and fair usage. Rate limit tiers are based on your account's cumulative top-up amount.
 
-## Rate limit dimensions
+## How do these rate limits work?
 
-Rate limits are enforced across four dimensions:
+Rate limits are measured in four ways:
 
 - **Concurrency**: Number of requests processed at the same time.
-- **RPM** (Requests Per Minute): Number of requests per minute.
-- **TPM** (Tokens Per Minute): Number of tokens per minute.
-- **TPD** (Tokens Per Day): Number of tokens per day.
+- **RPM** (requests per minute): Number of requests per minute.
+- **TPM** (tokens per minute): Number of tokens per minute.
+- **TPD** (tokens per day): Number of tokens per day.
 
-A request may hit any of these limits depending on which threshold is reached first. For example, if you send 20 requests each containing only 100 tokens, you could reach the RPM limit (if RPM is 20) even though you have not consumed 200k tokens (if TPM is 200k).
+The rate limit can be reached in any of these categories, depending on which one is hit first. For example, you might send 20 requests to Chat Completions, each with only 100 Tokens, and you would hit the limit (if your RPM limit is 20), even if you haven't reached 200k Tokens in those 20 requests (assuming your TPM limit is 200k).
 
-## How rate limits are calculated
+## Rate limit calculation
 
-For gateway convenience, we calculate rate limits based on the `max_completion_tokens` parameter in the request:
+For the gateway, for convenience, we calculate rate limits based on the `max_completion_tokens` parameter in the request:
 
-- If your request includes `max_completion_tokens`, we use that value for rate-limit calculation.
-- If your request does not include `max_completion_tokens`, we use the default value for calculation.
+- If your request includes the `max_completion_tokens` parameter, we will use this parameter to calculate the rate limit.
+- If your request does not include the `max_completion_tokens` parameter, we will use the default `max_completion_tokens` parameter to calculate the rate limit.
 
-After you send a request, we determine whether you have hit a rate limit based on the request token count plus the `max_completion_tokens` value, regardless of the actual number of tokens generated.
+After you make a request, we will determine whether you have reached the rate limit based on the number of Tokens in your request plus the number of `max_completion_tokens` in your parameter, regardless of the actual number of Tokens generated.
 
-For billing, charges are based on the request token count plus the actual number of tokens generated.
+In the billing process, we calculate the cost based on the number of Tokens in your request plus the actual number of Tokens generated.
 
 <Callout type="info">
-- Rate limits are enforced at the user level, not the API key level.
-- Rate limits are currently shared across all models.
+- Rate limits are enforced at the user level, not the key level.
+- Currently, we share rate limits across all models.
 </Callout>
 
 ## Rate limit tiers

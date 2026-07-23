@@ -1,11 +1,11 @@
 {
   "title": "Kimi API",
-  "description": "Kimi API 사용법, 인증, 오류 문제 해결, 요금",
+  "description": "Kimi API usage, authentication, error troubleshooting, pricing",
   "seo": {
     "title": "Kimi API",
-    "description": "Kimi API 사용법, 인증, 오류 문제 해결, 요금"
+    "description": "Kimi API usage, authentication, error troubleshooting, pricing"
   },
   "icon": "api",
   "order": 12,
-  "note": "각 md front matter의 extract_headings는 ## 제목이 목록 페이지에서 펼칠 수 있는 항목으로 표시될지 여부를 제어합니다"
+  "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
 }

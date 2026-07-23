@@ -1,98 +1,80 @@
 ---
-title: "API 疑難排解"
+title: "API 呼叫常見問題"
 slug: "api-troubleshooting"
 order: 8
 extract_headings: true
-preview: false
+preview: true
+preview_content: "API 呼叫常見問題：429 rate limit、401 認證失敗、輸出遭截斷等。"
 ---
 
 <SeoMeta
-  title="API 疑難排解 - Kimi 說明中心"
-  description="開發者使用 Kimi API 時的常見問題與解法。"
+  title="Kimi API 常見問題與疑難排解 - Kimi 說明中心"
+  description="遇到 Kimi API 呼叫異常？本文彙整常見問題的排查步驟，涵蓋認證失敗、逾時、回傳異常等情境，幫你快速解決問題。"
 />
+# API 呼叫常見問題
 
-# API 疑難排解
+以下整理開發者使用 Kimi API 時最常遇到的問題與解法。
 
-<Callout type="info">
-開發者使用 Kimi API 時的常見問題與解法。
-</Callout>
+## 收到 429 rate limit 錯誤怎麼辦？
 
-## 如何處理 429 rate limit 錯誤？
+429 錯誤表示請求頻率已超過目前帳戶的 rate limit（速率限制）。處理方式：
 
-429 錯誤表示你的請求頻率已超過目前帳戶的 rate limit。可採取以下做法：
+- 採用指數退避重試策略（等待 1s、2s、4s… 後重試）。
+- 控制並發（concurrency）請求數量，並使用佇列機制。
+- 透過提高累計儲值金額，提升 rate limit 等級。
+- 如需更高 quota，請聯絡銷售團隊。
 
-- 實作指數退避重試策略（重試前依序等待 1s、2s、4s……）。
-- 使用佇列機制控制併發請求數量。
-- 提高累計儲值金額，以升級你的 rate limit 等級。
-- 如需更高額度，請聯絡銷售團隊。
+## 收到 401 認證失敗錯誤怎麼辦？
 
-## 如何處理 401 驗證錯誤？
+401 錯誤表示 API Key 認證失敗。請檢查：
 
-401 錯誤表示 API 金鑰驗證失敗。請檢查以下項目：
+- API Key 是否已正確複製（留意前後空白）。
+- 請求標頭格式是否為 `Authorization: Bearer <your-api-key>`。
+- API Key 是否已被刪除或停用，可至控制台確認。
+- 是否使用了其他平台的 Key（Kimi API Key 以 `sk-` 開頭）。
 
-- 確認 API 金鑰已正確複製（留意前後是否有空格）。
-- 確認請求標頭格式為 `Authorization: Bearer <your-api-key>`。
-- 確認 API 金鑰未被刪除或停用——請至控制台查看。
-- 確認你使用的不是其他平台的金鑰（Kimi API 金鑰以 `sk-` 開頭）。
+## 檔案上傳是否計費？
 
-<Callout type="warning">
-**API 金鑰格式**：Kimi API 金鑰以 `sk-` 開頭。請確認你使用的是正確的金鑰格式。
-</Callout>
+檔案上傳本身不會產生費用。但當你在對話中引用已上傳的檔案時，檔案內容會被解析成 token，並計入輸入 token 計費。檔案越大，解析產生的 token 越多。
 
-## 上傳檔案會產生費用嗎？
+## 收到 403 餘額不足（Insufficient Balance）錯誤怎麼辦？
 
-檔案上傳本身免費。不過，當你在對話中引用已上傳的檔案時，系統會將其內容解析為 token，並按輸入 token 計費。檔案越大，產生的 token 越多。
+403 錯誤通常表示帳戶餘額不足。請前往控制台儲值，儲值後即可立即繼續使用。也可透過餘額查詢介面確認目前餘額。
 
-## 如何處理 403 餘額不足錯誤？
+## 回傳內容遭截斷怎麼辦？
 
-403 錯誤通常表示帳戶餘額不足。請在控制台儲值，款項會立即可用。你也可以使用餘額查詢 API 檢查目前餘額。
+如果 API 回傳的內容不完整或遭截斷：
 
-## 回應被截斷怎麼辦？
+- 檢查 `max_tokens` 參數是否設定過小，並適度加大該值。
+- 查看回應中的 `finish_reason` 欄位：`length` 表示因 token 限制而截斷，`stop` 表示正常結束。
+- 若要產生長篇文字，可考慮分段請求。
 
-如果 API 回應不完整或遭截斷：
+## 檔案介面可以上傳圖片嗎？
 
-- 檢查 `max_tokens` 參數是否設定過低，並視需要調高。
-- 查看回應中的 `finish_reason` 欄位：`length` 表示輸出因 token 限制而被截斷；`stop` 表示已正常完成。
-- 若要生成長篇文字，建議將請求拆成多個段落處理。
+可以。檔案上傳介面支援上傳圖片檔案，上傳後可在對話中引用。若使用 Vision 模型，也可直接在訊息中透過 URL 或 Base64 傳入圖片。
 
-<Callout type="tip">
-**檢查 `finish_reason`**：`length` = 已截斷，`stop` = 正常完成。
-</Callout>
+## 連網搜尋的來源是什麼？
 
-## 可以透過檔案 API 上傳圖片嗎？
+Kimi API 的連網搜尋功能會即時檢索網際網路上的公開資訊，搜尋結果來自主流搜尋引擎索引的網頁內容。每次連網搜尋會額外收費 ¥0.03。
 
-可以。檔案上傳 API 支援圖片檔案。上傳後，圖片即可在對話中引用。使用視覺模型時，你也可以透過 URL 或 Base64 編碼，直接在訊息中傳入圖片。
+## Allegretto 會員與 API concurrency 有關係嗎？
 
-## 網頁搜尋的來源是什麼？
+Kimi 會員（Allegretto 等）與 API 採用彼此獨立的計費體系。會員方案的 Agent 並行能力僅適用於 Kimi 產品端，與 API 的 rate limit 無關。API 的 concurrency 限制取決於帳戶累計儲值金額的等級。
 
-Kimi API 的網頁搜尋功能會即時從網際網路擷取公開資訊。結果來源為主要搜尋引擎已索引的網頁。每次呼叫網頁搜尋會額外收取 $0.004。
+## API 和網頁版 Kimi 有什麼差異？
 
-## Kimi 會員與 API concurrency（併發）有關嗎？
+- **網頁版 Kimi**：提供給一般使用者的對話產品，可直接透過瀏覽器使用。
+- **Kimi API**：提供給開發者的介面服務，用於將 AI 能力整合到自有產品中。
+- 兩者採用獨立的計費體系，帳號可共用，但 credit 不互通。
 
-<Callout type="warning">
-**Kimi 會員方案**（例如 Allegretto）與 **API** 是彼此獨立的計費系統。會員方案包含的 agent 平行能力僅適用於 Kimi 的消費端產品，與 API rate limit 無關。API concurrency 上限由你的帳戶累計儲值等級決定。
-</Callout>
+## PPT 生成和深度研究（Deep Research）有 API 嗎？
 
-## API 與 Kimi 網頁版應用的差異
+目前 PPT 生成和深度研究（Deep Research）功能**暫未開放 API 介面**。這些功能僅可在 Kimi 產品端使用。請留意平台公告，以取得最新消息。
 
-| 面向 | Kimi 網頁版應用 | Kimi API |
-| --- | --- | --- |
-| **目標對象** | 面向一般使用者的對話產品 | 面向開發者的整合介面 |
-| **使用方式** | 透過瀏覽器使用 | 以程式呼叫 API |
-| **計費方式** | 會員與額度 制度 | 依 token 用量計費 |
-| **帳戶** | 共用登入 | 共用登入 |
-| **額度** | 不可跨系統轉移 | 不可跨系統轉移 |
+## 支援本地化部署嗎？
 
-## 可以透過 API 使用 PPT 生成與 Deep Research 嗎？
+Kimi API 目前僅提供雲端 API 服務，**暫不支援本地化私有部署**。如有私有化部署需求，請透過 [platform.kimi.com/contact-sales](https://platform.kimi.com/contact-sales) 聯絡銷售團隊諮詢。
 
-<Callout type="warning">
-**PPT 生成** 與 **Deep Research（深度研究）** 目前 **尚未透過 API 開放**。這些功能目前只能透過 Kimi 消費端產品使用。請留意平台公告以取得最新消息。
-</Callout>
+## 海外可以呼叫 Kimi API 嗎？
 
-## 支援本地部署嗎？
-
-Kimi API 目前僅提供雲端 API 服務，**不支援本地私有化部署**。如有私有化部署需求，請透過 [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) 聯絡銷售團隊。
-
-## 可以從中國境外呼叫 Kimi API 嗎？
-
-Kimi API 可透過 `api.moonshot.ai` 在國際範圍使用。若遇到連線問題，請聯絡銷售團隊，以討論最適合你所在地區的解決方案。
+Kimi API 主要為中國大陸使用者提供服務。海外地區的存取可能受到網路環境影響，穩定性無法完全保證。如有海外使用需求，建議聯絡銷售團隊了解可行方案。

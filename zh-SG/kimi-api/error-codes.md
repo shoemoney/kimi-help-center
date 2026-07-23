@@ -1,38 +1,35 @@
 ---
-title: "API 错误码"
+title: "API 调用报错（错误码说明）"
 slug: "api-error-codes"
 order: 2
 extract_headings: false
-preview: false
+preview: true
+preview_content: "Kimi API 错误码一览及排查建议。"
 ---
 
 <SeoMeta
-  title="API 错误码 - Kimi 帮助中心"
-  description="调用 Kimi API 时常见的错误码及解决方法。"
+  title="Kimi API 错误码参考 - Kimi 帮助中心"
+  description="查阅 Kimi API 常见错误码及含义，包括 400、401、403、429、500 等错误的原因、排查思路与解决方法，帮助你快速定位并修复问题。"
 />
 
-# API 错误码
+# API 错误码说明
 
-<Callout type="info">
-调用 Kimi API 时常见的错误码及解决方法。
-</Callout>
+调用 Kimi API 时，可能会遇到以下错误码。请结合错误码与说明排查问题。
 
-## 错误码参考
+## 错误码一览
 
-| 错误码 | 含义 | 解决方法 |
+| 错误码 | 含义 | 处理方式 |
 | --- | --- | --- |
-| 400 | 错误请求 | 检查请求体格式、参数名称和类型。常见原因包括：JSON 格式错误、缺少必填参数、取值超出范围。 |
-| 401 | 未授权 | 确认 API 密钥正确，且未过期或被禁用。检查请求头格式：`Authorization: Bearer <your-api-key>`。 |
-| 403 | 禁止访问（余额不足） | 账户余额已用尽——请在控制台充值。账户也可能受到限制；如有需要，请联系支持团队。 |
-| 404 | 未找到 | 检查请求 URL 路径和模型名称。确认端点为 `https://api.moonshot.ai/v1/...`。 |
-| 429 | 请求过多 | 已超出速率限制。请降低请求频率、实现指数退避，或联系支持团队申请更高限制。 |
-| 500 | 服务器内部错误 | 临时服务器问题——请稍后重试。如果问题持续存在，请携带 `request_id` 联系 support@moonshot.ai。 |
+| 400 | 请求参数错误（Bad Request） | 请检查请求体格式是否正确，参数名称和类型是否符合文档要求。常见原因包括：JSON 格式错误、缺少必填参数、参数值超出范围。 |
+| 401 | 认证失败（Unauthorized） | 请检查 API Key 是否正确、是否已过期或被禁用，并确认请求头中的 `Authorization: Bearer <your-api-key>` 格式正确。 |
+| 403 | 权限不足/余额不足（Forbidden） | 账户余额可能已用尽，请前往控制台充值。也可能是账号受到限制，请联系客服。 |
+| 404 | 资源不存在（Not Found） | 请检查请求的 URL 路径和模型名称是否正确，并确认接口地址为 `https://api.moonshot.cn/v1/...`。 |
+| 429 | 请求频率超限（Too Many Requests） | 当前请求已超出速率限制。请降低请求频率，采用指数退避重试策略，或联系客服申请提升速率限制。 |
+| 500 | 服务器内部错误（Internal Server Error） | 服务端可能出现临时异常，请稍后重试。如果问题持续发生，请联系 api-service@moonshot.ai，并附上 request_id。 |
 
 ## 通用排查建议
 
-<Callout type="tip">
-1. **查看完整错误信息**：响应 JSON 中的 `error.message` 会提供详细说明。
-2. **记录 request_id**：有助于支持团队快速定位问题。
-3. **参考官方文档**：确保调用方式与 [platform.kimi.ai](https://platform.kimi.ai) 上的文档一致。
-4. **实现重试逻辑**：对于 429 和 500 错误，请使用指数退避。
-</Callout>
+1. **查看完整错误信息**：API 返回的 JSON 响应通常包含 `error.message` 字段，可提供更详细的错误说明。
+2. **检查 request_id**：每次请求返回的 `request_id` 可帮助客服快速定位问题。
+3. **参考官方文档**：请确保调用方式与 [platform.kimi.com](https://platform.kimi.com/docs/guide/start-using-kimi-api) 文档一致。
+4. **使用重试机制**：对于 429 和 500 错误，建议实现自动重试，并配合指数退避策略。

@@ -1,38 +1,35 @@
 ---
-title: "API 錯誤碼"
+title: "呼叫 API 發生錯誤（錯誤碼說明）"
 slug: "api-error-codes"
 order: 2
 extract_headings: false
-preview: false
+preview: true
+preview_content: "Kimi API 錯誤碼一覽與疑難排解建議。"
 ---
 
 <SeoMeta
-  title="API 錯誤碼 - Kimi 說明中心"
-  description="呼叫 Kimi API 時常見的錯誤碼及處理方式。"
+  title="Kimi API 錯誤碼完整參考 - Kimi 說明中心"
+  description="查閱 Kimi API 常見錯誤碼及其含義，包括 400、401、403、429、500 等錯誤的原因分析與解決方案，協助你快速定位並修復問題。"
 />
 
-# API 錯誤碼
+# API 錯誤碼說明
 
-<Callout type="info">
-呼叫 Kimi API 時常見的錯誤碼及處理方式。
-</Callout>
+呼叫 Kimi API 時可能會遇到以下錯誤碼，請依照錯誤碼與描述排查問題。
 
-## 錯誤碼參考
+## 錯誤碼一覽
 
-| 錯誤碼 | 含義 | 解決方法 |
+| 錯誤碼 | 含義 | 處理方式 |
 | --- | --- | --- |
-| 400 | 請求錯誤 | 檢查請求 body 的格式、參數名稱與類型。常見原因包括：JSON 格式錯誤、缺少必要參數、數值超出允許範圍。 |
-| 401 | 未授權 | 確認 API Key 正確，且未過期或遭停用。請確認 header 格式為：`Authorization: Bearer <your-api-key>`。 |
-| 403 | 禁止存取（餘額不足） | 帳戶餘額已用完，請至 console 充值。帳戶也可能受到限制；如有需要，請聯絡支援團隊。 |
-| 404 | 找不到資源 | 檢查請求 URL 路徑與模型名稱。確認 endpoint 為 `https://api.moonshot.ai/v1/...`。 |
-| 429 | Too Many Requests（請求過多） | 已超過 rate limit（速率限制）。請降低請求頻率、實作指數退避，或聯絡支援團隊申請更高限制。 |
-| 500 | Internal Server Error（伺服器內部錯誤） | 暫時性的伺服器問題，請稍後重試。若問題持續發生，請附上 `request_id` 聯絡 support@moonshot.ai。 |
+| 400 | 請求參數錯誤（Bad Request） | 檢查請求本文格式是否正確，參數名稱與類型是否符合文件要求。常見原因包括：JSON 格式錯誤、缺少必填參數、參數值超出範圍。 |
+| 401 | 驗證失敗（Unauthorized） | 檢查 API Key 是否正確、是否已過期或遭停用。確認請求標頭中的 `Authorization: Bearer <your-api-key>` 格式正確。 |
+| 403 | 權限不足／餘額不足（Forbidden） | 帳戶餘額可能已用盡，請前往控制台儲值。也可能是帳號受到限制，請聯絡客服。 |
+| 404 | 資源不存在（Not Found） | 檢查請求的 URL 路徑與模型名稱是否正確。確認介面位址為 `https://api.moonshot.cn/v1/...`。 |
+| 429 | 請求頻率超限（Too Many Requests） | 已超出目前的速率限制。請降低請求頻率、實作指數退避重試策略，或聯絡客服申請提高速率限制。 |
+| 500 | 伺服器內部錯誤（Internal Server Error） | 服務端暫時異常，請稍後再試。若持續出現，請聯絡  api-service@moonshot.ai，並附上 request_id。 |
 
-## 一般疑難排解建議
+## 通用疑難排解建議
 
-<Callout type="tip">
-1. **檢查完整錯誤訊息**：回應 JSON 會在 `error.message` 中提供詳細說明。
-2. **記下 request_id**：可協助支援團隊快速找出問題。
-3. **參考官方文件**：請確認呼叫方式符合 [platform.kimi.ai](https://platform.kimi.ai) 上的文件說明。
-4. **實作重試邏輯**：針對 429 與 500 錯誤，請使用指數退避。
-</Callout>
+1. **查看完整錯誤資訊**：API 回傳的 JSON 回應中通常包含 `error.message` 欄位，提供更詳細的錯誤描述。
+2. **檢查 request_id**：每次請求回傳的 `request_id` 可協助客服快速定位問題。
+3. **參考官方文件**：請確認呼叫方式與 [platform.kimi.com](https://platform.kimi.com/docs/guide/start-using-kimi-api) 文件一致。
+4. **使用重試機制**：針對 429 和 500 錯誤，建議實作自動重試，並搭配指數退避策略。

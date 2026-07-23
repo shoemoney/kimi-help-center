@@ -4,40 +4,40 @@ slug: "api-overview"
 order: 1
 extract_headings: false
 preview: true
-preview_content: "Bắt đầu sử dụng nền tảng Kimi API để sinh văn bản, hội thoại, phân tích tệp và tìm kiếm web."
+preview_content: "Bắt đầu với nền tảng Kimi API để tạo văn bản, hội thoại, phân tích tệp và Web Search."
 ---
 
 <SeoMeta
-  title="Tổng quan về Kimi API - Trung tâm trợ giúp Kimi"
-  description="Bắt đầu sử dụng nền tảng Kimi API để sinh văn bản, hội thoại, phân tích tệp và tìm kiếm web."
+  title="Tổng quan về Kimi API - Kimi Help Center"
+  description="Bắt đầu với nền tảng Kimi API để tạo văn bản, hội thoại, phân tích tệp và Web Search."
 />
 
 # Tổng quan về Kimi API
 
-Nền tảng Kimi API mang đến cho nhà phát triển những khả năng mạnh mẽ của mô hình ngôn ngữ lớn, giúp bạn nhanh chóng tích hợp AI vào sản phẩm và dịch vụ của mình.
+Nền tảng Kimi API cung cấp cho nhà phát triển năng lực mô hình ngôn ngữ lớn mạnh mẽ, giúp bạn nhanh chóng tích hợp AI vào sản phẩm và dịch vụ của mình.
 
-## Giới thiệu nền tảng
+## Tổng quan nền tảng
 
-Kimi API được vận hành bởi các mô hình ngôn ngữ lớn độc quyền của Moonshot, cung cấp các khả năng cốt lõi như sinh văn bản, hội thoại nhiều lượt, phân tích tệp, tìm kiếm web và nhiều tính năng khác. Nền tảng tương thích với định dạng OpenAI API, cho phép nhà phát triển chuyển đổi và tích hợp với công sức tối thiểu.
+Kimi API được vận hành bởi các mô hình ngôn ngữ lớn độc quyền của Moonshot, hỗ trợ các năng lực cốt lõi như tạo văn bản, hội thoại nhiều lượt, phân tích tệp, Web Search và nhiều tính năng khác. Nền tảng tương thích với định dạng OpenAI API, giúp nhà phát triển di chuyển và tích hợp với rất ít công sức.
 
-**Địa chỉ nền tảng**: [platform.kimi.ai](https://platform.kimi.ai)
+**URL nền tảng**: [platform.kimi.ai](https://platform.kimi.ai)
 
 ## Đối tượng phù hợp
 
 - **Nhà phát triển độc lập**: Nhanh chóng xây dựng các dự án và công cụ cá nhân được hỗ trợ bởi AI.
-- **Đội ngũ kỹ thuật doanh nghiệp**: Tích hợp khả năng AI vào sản phẩm doanh nghiệp để nâng cao trải nghiệm người dùng và hiệu quả vận hành.
-- **Công ty khởi nghiệp**: Tiếp cận những khả năng AI hàng đầu với chi phí thấp, đẩy nhanh quá trình cải tiến sản phẩm.
+- **Đội ngũ kỹ thuật doanh nghiệp**: Tích hợp năng lực AI vào sản phẩm doanh nghiệp để nâng cao trải nghiệm người dùng và hiệu quả vận hành.
+- **Công ty khởi nghiệp**: Tiếp cận năng lực AI hàng đầu với chi phí thấp để tăng tốc quá trình lặp lại sản phẩm.
 
-## Tình huống ứng dụng chính
+## Trường hợp sử dụng chính
 
-- **Chăm sóc khách hàng thông minh**: Hỏi đáp tự động hiểu ngữ cảnh, nâng cao hiệu quả hỗ trợ và sự hài lòng của khách hàng.
-- **Sinh nội dung**: Viết bài, soạn nội dung tiếp thị, tạo mã nguồn và các quy trình sáng tạo khác.
-- **Phân tích dữ liệu**: Diễn giải tài liệu, phân tích báo cáo, trích xuất và tóm tắt tri thức.
-- **Hỏi đáp tri thức**: Hệ thống truy xuất và hỏi đáp thông minh dựa trên kho tài liệu nội bộ.
+- **Dịch vụ khách hàng thông minh**: Hỏi đáp tự động có nhận biết ngữ cảnh, giúp nâng cao hiệu quả hỗ trợ và mức độ hài lòng của khách hàng.
+- **Tạo nội dung**: Viết bài, nội dung tiếp thị, tạo mã và các quy trình sáng tạo khác.
+- **Phân tích dữ liệu**: Diễn giải tài liệu, phân tích báo cáo, trích xuất tri thức và tóm tắt.
+- **Hỏi đáp tri thức**: Hệ thống truy xuất thông minh và hỏi đáp dựa trên kho tài liệu riêng tư.
 
 ## Bắt đầu nhanh
 
 1. Truy cập [platform.kimi.ai](https://platform.kimi.ai) để đăng ký tài khoản nhà phát triển.
-2. Tạo API Key trong bảng điều khiển.
+2. Tạo khóa API trong console.
 3. Tham khảo tài liệu API để thực hiện lệnh gọi đầu tiên.
-4. Chọn mô hình và tham số phù hợp với tình huống sử dụng của bạn.
+4. Chọn mô hình và tham số phù hợp với trường hợp sử dụng của bạn.

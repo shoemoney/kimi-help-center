@@ -8,31 +8,31 @@ preview: false
 
 <SeoMeta
   title="Saldo e utilizzo - Centro assistenza Kimi"
-  description="L'API di Kimi offre diversi modi per consultare il saldo del tuo account e i dettagli di utilizzo, aiutandoti a tenere sotto controllo consumi e costi."
+  description="Kimi API offre diversi modi per consultare il saldo dell'account e i dettagli di utilizzo, così puoi monitorare consumi e costi."
 />
 
 # Saldo e utilizzo
 
-L'API di Kimi offre diversi modi per consultare il saldo del tuo account e i dettagli di utilizzo, aiutandoti a tenere sotto controllo consumi e costi.
+Kimi API offre diversi modi per consultare il saldo dell'account e i dettagli di utilizzo, così puoi monitorare consumi e costi.
 
 ## Dashboard della console
 
-Accedi a [platform.kimi.ai](https://platform.kimi.ai) e vai alla pagina **fee-detail** (dettagli di fatturazione) nella console per consultare:
+Accedi a [platform.kimi.ai](https://platform.kimi.ai) e vai alla pagina **fee-detail** (dettagli di fatturazione) nella console per visualizzare:
 
-- Il saldo attuale dell'account
-- Il riepilogo dell'utilizzo giornaliero
-- L'utilizzo e i costi per ciascun modello
-- L'andamento storico della spesa
+- Saldo attuale dell'account
+- Dettaglio dell'utilizzo giornaliero
+- Utilizzo e costi per modello
+- Andamento storico della spesa
 
 <Callout type="info">
-La fatturazione giornaliera viene aggiornata entro le **7:00 del giorno successivo**. I dati di utilizzo in tempo reale potrebbero presentare un lieve ritardo.
+La fatturazione giornaliera viene aggiornata entro le **7:00 del giorno successivo**. I dati di utilizzo in tempo reale potrebbero essere disponibili con un lieve ritardo.
 </Callout>
 
-> **Nota**: la fatturazione giornaliera viene aggiornata entro le **7:00 del giorno successivo**. I dati di utilizzo in tempo reale potrebbero presentare un lieve ritardo.
+> **Nota**: la fatturazione giornaliera viene aggiornata entro le **7:00 del giorno successivo**. I dati di utilizzo in tempo reale potrebbero essere disponibili con un lieve ritardo.
 
-## API di stima dei token
+## API di Token Estimation
 
-Prima di inviare una richiesta, puoi usare la Token Estimation API per stimare quanti token consumerà la chiamata — utile per il controllo dei costi.
+Prima di inviare una richiesta, puoi usare l'API di Token Estimation per stimare quanti token consumerà la chiamata: utile per tenere sotto controllo i costi.
 
 <CodePreview
   files={[
@@ -44,11 +44,11 @@ Prima di inviare una richiesta, puoi usare la Token Estimation API per stimare q
   ]}
 />
 
-Passa lo stesso formato `messages` di una richiesta Chat Completion e l'API restituirà il numero stimato di token.
+Usa lo stesso formato `messages` di una richiesta Chat Completion: l'API restituirà il numero stimato di token.
 
-## API di interrogazione del saldo
+## API per interrogare il saldo
 
-Interroga direttamente tramite API il saldo attuale del tuo account:
+Consulta il saldo attuale del tuo account direttamente tramite API:
 
 <CodePreview
   files={[
@@ -60,13 +60,13 @@ Interroga direttamente tramite API il saldo attuale del tuo account:
   ]}
 />
 
-Inserisci la tua API Key nell'intestazione della richiesta per ottenere il saldo disponibile.
+Includi la tua API Key nell'intestazione della richiesta per recuperare il saldo disponibile.
 
-## Suggerimenti per il monitoraggio dell'utilizzo
+## Consigli per monitorare l'utilizzo
 
 <Callout type="tip">
 **Buone pratiche**:
 - Controlla regolarmente la pagina fee-detail per monitorare l'andamento della spesa
-- Integra la Balance Query API e imposta soglie di avviso per il saldo
-- Usa la Token Estimation API prima delle chiamate più importanti per stimare i costi
+- Integra l'API per interrogare il saldo e imposta soglie di avviso sul saldo
+- Usa l'API di Token Estimation prima delle chiamate critiche per stimarne i costi
 </Callout>

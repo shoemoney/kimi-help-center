@@ -8,55 +8,55 @@ preview: false
 
 <SeoMeta
   title="Account e autenticazione - Centro assistenza Kimi"
-  description="Domande frequenti sugli account sviluppatore, la verifica e l'autenticazione della Kimi API."
+  description="Domande frequenti sugli account sviluppatore Kimi API, sulla verifica e sull'autenticazione."
 />
 
 # Account e autenticazione
 
 <Callout type="info">
-Domande frequenti sugli account sviluppatore, la verifica e l'autenticazione della Kimi API.
+Domande frequenti sugli account sviluppatore Kimi API, sulla verifica e sull'autenticazione.
 </Callout>
 
-## Un account personale può ottenere una fattura aziendale?
-Un account personale **non può ricevere direttamente una fattura aziendale**. Se hai bisogno di una fattura aziendale, devi prima trasformare il tuo account in un account aziendale. Una volta completata la verifica, potrai richiedere le fatture intestate alla tua organizzazione.
+## Un account personale può ricevere una fattura aziendale?
+Un account personale **non può ricevere direttamente una fattura aziendale**. Se ti serve una fattura aziendale, devi prima convertire l'account in un account organizzazione. Una volta completata la verifica, potrai richiedere fatture intestate alla tua organizzazione.
 
-## Come passo da un account personale a un account aziendale?
-1. Accedi alla console su [platform.kimi.ai](https://platform.kimi.ai).
+## Come si passa da un account personale a un account organizzazione?
+1. Accedi alla console di [platform.kimi.ai](https://platform.kimi.ai).
 2. Vai su **Impostazioni account → Verifica**.
 3. Seleziona **Verifica organizzazione** e compila le informazioni richieste.
-4. Invia la richiesta di revisione: una volta approvata, l'account verrà convertito automaticamente.
+4. Invia la richiesta per la revisione: dopo l'approvazione, l'account verrà convertito automaticamente.
 
 <Callout type="tip">
-Il saldo e i dati di utilizzo esistenti vengono conservati dopo il passaggio.
+Il saldo esistente e i dati di utilizzo vengono mantenuti dopo l'upgrade.
 </Callout>
 
-## Differenza tra verifica personale e verifica per organizzazioni
+## Differenza tra verifica personale e verifica organizzazione
 | Aspetto | Personale | Organizzazione |
 | --- | --- | --- |
-| Tipo di fattura | Fattura personale | Fattura aziendale / con IVA |
+| Tipo di fattura | Fattura personale | Fattura aziendale / IVA |
 | Rate limit | Standard | Idoneo a quota più elevate |
-| Contratti commerciali | — | Possibilità di firmare contratti |
-| Sconti sui volumi | — | Disponibili su richiesta |
+| Contratti aziendali | — | Firma dei contratti disponibile |
+| Sconti a volume | — | Disponibili su richiesta |
 | Supporto tecnico | Standard | Supporto prioritario |
 
-## Come fare ricorso contro la sospensione di un account?
+## Come presentare ricorso contro la sospensione dell'account?
 Se il tuo account API è stato sospeso per una violazione delle policy:
-1. Invia un'email a **support@moonshot.ai** con oggetto "API Account Appeal".
-2. Includi le informazioni del tuo account (l'indirizzo email registrato) e una descrizione del tuo ricorso.
+1. Invia un'email a **support@moonshot.ai** con oggetto "Ricorso per account API".
+2. Includi le informazioni dell'account (indirizzo email registrato) e una descrizione del ricorso.
 3. Il team esaminerà la richiesta e risponderà entro 1–3 giorni lavorativi.
 
 <Callout type="info">
-**Email di supporto**: support@moonshot.ai
+**Email del supporto**: support@moonshot.ai
 </Callout>
 
-## Come cambiare l'email registrata?
-Per cambiare l'email registrata, contatta il supporto:
-1. Invia un'email a **support@moonshot.ai** con oggetto "Email Change Request".
-2. Indica sia l'indirizzo email attuale sia quello nuovo.
+## Come modificare l'email registrata?
+Per modificare l'email registrata, contatta il supporto:
+1. Invia un'email a **support@moonshot.ai** con oggetto "Richiesta di modifica email".
+2. Fornisci sia l'indirizzo email attuale sia quello nuovo.
 3. Potrebbe essere richiesta una verifica dell'identità per garantire la sicurezza dell'account.
 
-## Vantaggi del completamento della verifica
-- **Rate limit più elevati**: gli utenti verificati sono idonei a frequenze di chiamata API più alte.
+## Vantaggi della verifica completata
+- **Rate limit più elevati**: gli utenti verificati possono ottenere rate limit più elevati per le chiamate API.
 - **Accesso completo alle funzionalità**: alcune funzionalità avanzate potrebbero essere disponibili solo per gli utenti verificati.
-- **Supporto alla fatturazione**: gli account verificati possono richiedere fatture.
-- **Supporto tecnico**: gli utenti verificati ricevono un supporto tecnico con priorità più alta.
+- **Supporto per le fatture**: gli account verificati possono richiedere fatture.
+- **Supporto tecnico**: gli utenti verificati ricevono supporto tecnico con priorità più alta.

@@ -1,43 +1,43 @@
 ---
-title: "Überblick über die Kimi API"
+title: "Kimi API-Übersicht"
 slug: "api-overview"
 order: 1
 extract_headings: false
 preview: true
-preview_content: "Erste Schritte mit der Kimi-API-Plattform für Textgenerierung, Konversationen, Dateianalyse und Web Search."
+preview_content: "Erste Schritte mit der Kimi API-Plattform für Texterstellung, Konversationen, Dateianalyse und Web Search."
 ---
 
 <SeoMeta
-  title="Überblick über die Kimi API - Kimi Hilfecenter"
-  description="Erste Schritte mit der Kimi-API-Plattform für Textgenerierung, Konversationen, Dateianalyse und Web Search."
+  title="Kimi API-Übersicht – Kimi Help Center"
+  description="Erste Schritte mit der Kimi API-Plattform für Texterstellung, Konversationen, Dateianalyse und Web Search."
 />
 
-# Überblick über die Kimi API
+# Kimi API-Übersicht
 
-Die Kimi-API-Plattform stellt Entwicklern leistungsstarke Large-Language-Model-Funktionen zur Verfügung und hilft Ihnen, KI im Handumdrehen in Ihre Produkte und Dienste einzubinden.
+Die Kimi API-Plattform bietet Entwicklern leistungsstarke Funktionen großer Sprachmodelle und hilft Ihnen, AI schnell in Ihre Produkte und Services zu integrieren.
 
-## Plattformüberblick
+## Plattformübersicht
 
-Die Kimi API basiert auf den eigenentwickelten Large Language Models von Moonshot und bietet Textgenerierung, mehrstufige Konversationen, Dateianalyse, Web Search und weitere Kernfunktionen. Die Plattform ist mit dem OpenAI-API-Format kompatibel, sodass Entwickler mit minimalem Aufwand migrieren und integrieren können.
+Kimi API basiert auf den proprietären großen Sprachmodellen von Moonshot und bietet Texterstellung, mehrstufige Konversationen, Dateianalyse, Web Search und weitere zentrale Funktionen. Die Plattform ist mit dem OpenAI API-Format kompatibel, sodass Entwickler mit minimalem Aufwand migrieren und integrieren können.
 
 **Plattform-URL**: [platform.kimi.ai](https://platform.kimi.ai)
 
 ## Zielgruppe
 
-- **Unabhängige Entwickler**: Erstellen Sie KI-gestützte persönliche Projekte und Tools im Handumdrehen.
-- **Engineering-Teams in Unternehmen**: Betten Sie KI-Funktionen in Unternehmensprodukte ein, um Nutzererlebnis und betriebliche Effizienz zu steigern.
-- **Start-ups**: Nutzen Sie erstklassige KI-Funktionen zu geringen Kosten und beschleunigen Sie die Produktentwicklung.
+- **Unabhängige Entwickler**: Erstellen Sie schnell AI-gestützte persönliche Projekte und Tools.
+- **Engineering-Teams in Unternehmen**: Integrieren Sie AI-Funktionen in Unternehmensprodukte, um Nutzererlebnis und operative Effizienz zu verbessern.
+- **Start-ups**: Nutzen Sie erstklassige AI-Funktionen zu niedrigen Kosten und beschleunigen Sie Ihre Produktiterationen.
 
 ## Wichtige Anwendungsfälle
 
-- **Intelligenter Kundenservice**: Kontextbewusste, automatisierte Fragen und Antworten für effizienteren Support und höhere Kundenzufriedenheit.
-- **Content-Erstellung**: Verfassen von Artikeln, Marketingtexten, Code-Generierung und weitere kreative Arbeitsabläufe.
-- **Datenanalyse**: Dokumentauswertung, Berichtsanalyse, Wissensextraktion und Zusammenfassung.
-- **Wissensbasierte Fragen und Antworten**: Intelligente Suche und Frage-Antwort-Systeme auf Basis privater Dokumentenbestände.
+- **Intelligenter Kundenservice**: Kontextbezogene automatisierte Frage-Antwort-Prozesse, die Supporteffizienz und Kundenzufriedenheit steigern.
+- **Inhaltserstellung**: Artikel, Marketingtexte, Codegenerierung und weitere kreative Workflows.
+- **Datenanalyse**: Dokumentauswertung, Berichtanalyse, Wissensextraktion und Zusammenfassungen.
+- **Wissensbasierte Fragen und Antworten**: Intelligente Retrieval- und Frage-Antwort-Systeme auf Basis privater Dokumentenbestände.
 
 ## Schnellstart
 
 1. Besuchen Sie [platform.kimi.ai](https://platform.kimi.ai), um ein Entwicklerkonto zu registrieren.
-2. Erstellen Sie in der Konsole einen API Key.
-3. Konsultieren Sie die API-Dokumentation, um Ihren ersten Aufruf zu tätigen.
-4. Wählen Sie das passende Modell und die passenden Parameter für Ihren Anwendungsfall.
+2. Erstellen Sie in der Konsole einen API-Schlüssel.
+3. Lesen Sie die API-Dokumentation, um Ihren ersten Aufruf auszuführen.
+4. Wählen Sie das passende Modell und die geeigneten Parameter für Ihren Anwendungsfall.

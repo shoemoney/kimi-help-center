@@ -8,46 +8,46 @@ preview: false
 
 <SeoMeta
   title="Harga API - Pusat Bantuan Kimi"
-  description="Penagihan API Kimi berdasarkan konsumsi token, dengan harga yang spesifik untuk setiap model dan fitur."
+  description="Penagihan Kimi API berdasarkan konsumsi token, dengan harga yang berbeda menurut model dan fitur."
 />
 
 # Harga API
 
 <Callout type="info">
-Penagihan API Kimi berdasarkan konsumsi token, dengan harga yang spesifik untuk setiap model dan fitur.
+Penagihan Kimi API berdasarkan konsumsi token, dengan harga yang berbeda menurut model dan fitur.
 </Callout>
 
 ## Dasar penagihan
 
 - **Penagihan per token**: Setiap panggilan API ditagih terpisah untuk token input dan token output
 - **Satuan token**: 1M = 1.000.000 token
-- **Harga spesifik per model**: Model dengan kemampuan lebih tinggi memiliki biaya per token yang lebih tinggi — pilih model yang paling sesuai dengan kebutuhan Anda
+- **Harga per model**: Model dengan kapabilitas lebih tinggi memiliki biaya per token yang lebih tinggi — pilih model yang paling sesuai dengan kebutuhan penggunaan Anda
 
 ## Penagihan fitur tambahan
 
 | Fitur | Biaya Tambahan |
 | --- | --- |
-| **Web Search** | $0,004 per pemanggilan (terlepas dari konsumsi token) |
+| **Web Search** | $0.004 per pemanggilan (tidak bergantung pada konsumsi token) |
 
-## Context caching
+## Caching konteks
 
 <Callout type="tip">
-**Context Caching** memungkinkan Anda menyimpan konten konteks yang sering digunakan (seperti system prompt dan dokumen referensi) dalam cache. Token yang berhasil mengakses cache ditagih dengan tarif diskon, sehingga secara efektif menekan biaya untuk konteks yang berulang.
+**Caching Konteks** memungkinkan Anda menyimpan konten konteks yang sering digunakan (seperti prompt sistem dan dokumen referensi) dalam cache. Token yang mengenai cache ditagih dengan tarif diskon, sehingga efektif menekan biaya untuk konteks yang berulang.
 </Callout>
 
-Lihat dokumentasi resmi untuk rincian harga Context Caching.
+Lihat dokumentasi resmi untuk rincian harga Caching Konteks.
 
 ## Rincian harga
 
-Untuk tabel harga model lengkap dan aturan penagihan:
+Untuk tabel harga model dan aturan penagihan lengkap:
 
-Anda dapat mengunjungi [platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat)
+Anda dapat membuka [platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat)
 
-## Tips menghemat biaya
+## Tips mengoptimalkan biaya
 
 <Callout type="tip">
-- Atur parameter `max_tokens` dengan tepat agar output tidak terlalu panjang tanpa alasan
-- Gunakan Context Caching untuk system prompt dan konteks yang berulang
-- Pilih model yang sesuai dengan tingkat kerumitan tugas — gunakan model ringan untuk tugas sederhana
-- Sederhanakan rancangan prompt Anda untuk menekan token input yang tidak perlu
+- Atur parameter `max_tokens` secara tepat untuk menghindari output yang terlalu panjang tanpa perlu
+- Gunakan Caching Konteks untuk prompt sistem dan konteks yang berulang
+- Pilih model yang tepat sesuai kompleksitas tugas — gunakan model ringan untuk tugas sederhana
+- Rapikan desain prompt Anda untuk meminimalkan token input yang tidak diperlukan
 </Callout>

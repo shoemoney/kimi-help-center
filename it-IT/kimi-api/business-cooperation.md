@@ -1,5 +1,5 @@
 ---
-title: "Collaborazioni commerciali e vendite"
+title: "Collaborazione commerciale e vendite"
 slug: "api-business-cooperation"
 order: 12
 extract_headings: false
@@ -7,45 +7,45 @@ preview: false
 ---
 
 <SeoMeta
-  title="Collaborazioni commerciali e vendite - Centro assistenza Kimi"
-  description="Opzioni di partnership per i clienti aziendali — dagli sconti sui volumi agli SLA personalizzati."
+  title="Collaborazione commerciale e vendite - Centro assistenza Kimi"
+  description="Opzioni di partnership per clienti enterprise, dagli sconti per volume agli SLA personalizzati."
 />
 
-# Collaborazioni commerciali e vendite
+# Collaborazione commerciale e vendite
 
 <Callout type="info">
-Opzioni di partnership per i clienti aziendali — dagli sconti sui volumi agli SLA personalizzati.
+Opzioni di partnership per clienti enterprise, dagli sconti per volume agli SLA personalizzati.
 </Callout>
 
-Kimi API offre una gamma di opzioni di partnership pensate per i clienti aziendali, per rispondere a esigenze di business di qualsiasi dimensione.
-## Come contattare il team commerciale?
-Visita [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) per compilare un modulo di contatto. Il nostro team commerciale ti risponderà entro 1–2 giorni lavorativi.
+Kimi API offre diverse opzioni di partnership per clienti enterprise, pensate per soddisfare esigenze aziendali di qualsiasi scala.
+## Come contattare il team vendite?
+Visita [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) per inviare il modulo di contatto. Il nostro team vendite ti ricontatterà entro 1–2 giorni lavorativi.
 
 <Callout type="tip">
-**Da includere nella tua richiesta**:
-- Nome dell'azienda e settore
+**Includi nella richiesta**:
+- Nome dell’azienda e settore
 - Volume di utilizzo stimato
-- Casi d'uso principali
+- Principali casi d’uso
 - Modello di partnership preferito
 </Callout>
 
 ## Firma del contratto
-Gli utenti con organizzazione verificata possono sottoscrivere un accordo di servizio formale con Moonshot:
+Gli utenti con organizzazione verificata possono stipulare un accordo di servizio formale con Moonshot:
 - Sono disponibili sia accordi di servizio standard sia contratti personalizzati.
-- Dopo la firma, hai accesso ai pagamenti tramite bonifico e a SLA di livello enterprise.
-- Contatta il team commerciale per discutere il processo specifico.
+- Dopo la firma, potrai accedere ai pagamenti tramite bonifico bancario e a SLA di livello enterprise.
+- Contatta il team vendite per discutere il processo specifico.
 
-## Sconti sui volumi
-I clienti aziendali ad alto volume possono richiedere sconti esclusivi:
+## Sconti per volume
+I clienti enterprise con volumi elevati possono richiedere sconti esclusivi:
 | Requisito | Dettagli |
 | --- | --- |
-| **Idoneità** | Verifica dell'organizzazione + contratto firmato |
-| **Livelli di sconto** | In base al volume di utilizzo impegnato e alla durata del contratto |
-| **Richiesta** | Inoltra la domanda tramite il team commerciale indicando l'utilizzo mensile stimato |
+| **Idoneità** | Verifica dell’organizzazione + contratto firmato |
+| **Livelli di sconto** | Basati sul volume di utilizzo impegnato e sulla durata del contratto |
+| **Richiesta** | Presenta la richiesta tramite il team vendite indicando l’utilizzo mensile stimato |
 
-## Servizio Enterprise API
-Il servizio Enterprise API estende l'offerta API standard con:
-- **rate limit e quota di concorrenza più elevati**
-- **canale di supporto tecnico dedicato**
-- **garanzie SLA personalizzate**
-- **accesso anticipato alle nuove funzionalità**
+## Servizio API enterprise
+Il servizio API enterprise amplia l’offerta API standard con:
+- **rate limit più elevati e quota di concurrency maggiori**
+- **Canale di supporto tecnico dedicato**
+- **Garanzie SLA personalizzate**
+- **Accesso anticipato alle nuove funzionalità**

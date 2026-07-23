@@ -1,5 +1,5 @@
 ---
-title: "Prezzi delle API"
+title: "Prezzi API"
 slug: "api-pricing"
 order: 3
 extract_headings: false
@@ -7,47 +7,47 @@ preview: false
 ---
 
 <SeoMeta
-  title="Prezzi delle API - Centro assistenza Kimi"
-  description="La fatturazione delle API Kimi si basa sul consumo di token, con prezzi specifici per modello e per funzionalità."
+  title="Prezzi API - Centro assistenza Kimi"
+  description="La fatturazione di Kimi API si basa sul consumo di token, con prezzi specifici per modello e funzionalità."
 />
 
-# Prezzi delle API
+# Prezzi API
 
 <Callout type="info">
-La fatturazione delle API Kimi si basa sul consumo di token, con prezzi specifici per modello e per funzionalità.
+La fatturazione di Kimi API si basa sul consumo di token, con prezzi specifici per modello e funzionalità.
 </Callout>
 
 ## Nozioni di base sulla fatturazione
 
-- **Fatturazione per token**: ogni chiamata API viene fatturata separatamente per i token in input e i token in output
-- **Unità di misura del token**: 1M = 1.000.000 di token
-- **Prezzi specifici per modello**: i modelli più performanti hanno un costo per token più elevato — scegli quello più adatto al tuo caso d'uso
+- **Fatturazione per token**: ogni chiamata API viene addebitata separatamente per i token di input e i token di output
+- **Unità token**: 1M = 1,000,000 token
+- **Prezzi per modello**: i modelli più avanzati hanno costi per token più elevati — scegli il modello più adatto al tuo caso d’uso
 
 ## Fatturazione delle funzionalità aggiuntive
 
 | Funzionalità | Costo aggiuntivo |
 | --- | --- |
-| **Web Search** | 0,004 $ per chiamata (indipendente dal consumo di token) |
+| **Web Search** | $0.004 per chiamata (indipendentemente dal consumo di token) |
 
-## Context caching
+## Cache del contesto
 
 <Callout type="tip">
-Il **Context Caching** ti consente di memorizzare nella cache i contenuti di contesto usati di frequente (come i prompt di sistema e i documenti di riferimento). I token che trovano corrispondenza nella cache vengono fatturati a una tariffa scontata, riducendo concretamente i costi per i contesti ripetitivi.
+**La Cache del contesto** consente di memorizzare nella cache i contenuti di contesto usati di frequente (come prompt di sistema e documenti di riferimento). I token recuperati dalla cache vengono fatturati a una tariffa scontata, riducendo di fatto i costi per i contesti ripetitivi.
 </Callout>
 
-Consulta la documentazione ufficiale per i dettagli sui prezzi del Context Caching.
+Consulta la documentazione ufficiale per i dettagli sui prezzi della Cache del contesto.
 
 ## Dettagli sui prezzi
 
 Per la tabella completa dei prezzi dei modelli e le regole di fatturazione:
 
-Puoi visitare [platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat)
+Vai a [platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat)
 
-## Consigli per ottimizzare i costi
+## Suggerimenti per ottimizzare i costi
 
 <Callout type="tip">
 - Imposta correttamente il parametro `max_tokens` per evitare output inutilmente lunghi
-- Usa il Context Caching per i prompt di sistema e i contesti ripetitivi
-- Scegli il modello adatto alla complessità del compito — usa modelli leggeri per le attività semplici
-- Ottimizza la struttura dei prompt per ridurre al minimo i token in input superflui
+- Usa la Cache del contesto per prompt di sistema e contesti ripetitivi
+- Scegli il modello giusto in base alla complessità dell’attività — usa modelli leggeri per le attività semplici
+- Ottimizza la struttura dei prompt per ridurre al minimo i token di input non necessari
 </Callout>

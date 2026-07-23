@@ -1,5 +1,5 @@
 ---
-title: "Rate limit'ler"
+title: "Rate limit sınırları"
 slug: "api-rate-limits"
 order: 5
 extract_headings: false
@@ -7,37 +7,37 @@ preview: false
 ---
 
 <SeoMeta
-  title="Rate limit'ler - Kimi Yardım Merkezi"
-  description="Kimi API, platform kararlılığını ve adil kullanımı sağlamak için istek sıklığı ve concurrency üzerinde rate limit uygular. Rate limit kademeleri hesabınızın..."
+  title="Rate limit sınırları - Kimi Yardım Merkezi"
+  description="Kimi API, platform kararlılığını ve adil kullanımı sağlamak için istek sıklığına ve concurrency değerine rate limit uygular. Rate limit kademeleri, hesabınızın..."
 />
 
-# Rate limit'ler
+# Rate limit sınırları
 
-Kimi API, platform kararlılığını ve adil kullanımı sağlamak için istek sıklığı ve concurrency üzerinde rate limit（hız sınırı） uygular. Rate limit kademeleri, hesabınızın toplam yükleme tutarına göre belirlenir.
+Kimi API, platform kararlılığını ve adil kullanımı sağlamak için istek sıklığına ve concurrency değerine rate limit uygular. Rate limit kademeleri, hesabınızın kümülatif yükleme tutarına göre belirlenir.
 
 ## Rate limit kademeleri
 
-API rate limit'leri, hesabınızın **toplam yükleme tutarına** göre kademelendirilir; ne kadar çok yükleme yaparsanız, kullanabileceğiniz rate limit'ler o kadar yüksek olur. Kademe eşikleri ile bunlara karşılık gelen RPM (dakika başına istek) ve TPM (dakika başına token) sınırlarının ayrıntıları için [platform.kimi.ai](https://platform.kimi.ai) konsoluna bakın.
+API rate limit değerleri, hesabınızın **kümülatif yükleme tutarına** göre kademelendirilir — ne kadar çok yükleme yaparsanız kullanabileceğiniz rate limit değerleri de o kadar yükselir. Belirli kademe eşikleri ile bunlara karşılık gelen RPM (dakika başına istek) ve TPM (dakika başına token) sınırları için [platform.kimi.ai](https://platform.kimi.ai) konsoluna bakın.
 
-## Mevcut sınırları nasıl kontrol edebilirsiniz?
+## Mevcut sınırlar nasıl kontrol edilir?
 
-- Mevcut rate limit kademenizi görmek için API konsoluna giriş yapın.
-- API yanıt başlıkları da rate limit bilgisini içerir:
-  - `X-RateLimit-Limit`: Mevcut rate limit üst sınırı
+- Mevcut rate limit kademenizi görüntülemek için API konsoluna giriş yapın.
+- API yanıt başlıkları da rate limit bilgilerini içerir:
+  - `X-RateLimit-Limit`: Geçerli rate limit üst sınırı
   - `X-RateLimit-Remaining`: Kalan kullanılabilir istek sayısı
   - `X-RateLimit-Reset`: Sınırın sıfırlanacağı zaman
 
-## 429 hatalarıyla başa çıkma
+## 429 hatalarını ele alma
 
-İstek sıklığınız sınırı aştığında, API 429 durum kodu döndürür. Önerilen adımlar:
+İstek sıklığınız sınırı aştığında API, 429 durum kodu döndürür. Öneriler:
 
-1. **Üstel geri çekilme (exponential backoff) uygulayın**: Önce 1 saniye bekleyin, ardından her yeniden denemede bekleme süresini ikiye katlayın (2s, 4s, 8s…).
-2. **Concurrency'yi denetleyin**: Eşzamanlı istek sayısını sınırlamak için istek kuyrukları veya semaforlar kullanın.
-3. **İstekleri toplu hale getirin**: Birçok küçük isteği daha az sayıda ve daha büyük isteklerde birleştirin.
+1. **Üstel geri çekilme uygulayın**: Başlangıçta 1 saniye bekleyin, ardından her yeniden denemede bekleme süresini ikiye katlayın (2s, 4s, 8s…).
+2. **Concurrency değerini kontrol altında tutun**: Eşzamanlı istek sayısını sınırlamak için istek kuyrukları veya semaforlar kullanın.
+3. **İstekleri toplu gönderin**: Birden fazla küçük isteği daha az sayıda, daha büyük isteklerde birleştirin.
 
 ## Daha yüksek rate limit talep etme
 
-İş ihtiyaçlarınız mevcut rate limit'leri aşıyorsa:
+İş gereksinimleriniz mevcut rate limit değerlerini aşıyorsa:
 
-- **Yükleme yaparak yükseltin**: Toplam yükleme tutarınızı artırın; sistem rate limit kademenizi otomatik olarak yükseltecektir.
-- **Satış ekibiyle iletişime geçin**: Özel gereksinimleriniz için [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) üzerinden platform satış ekibine ulaşarak özel bir rate quota talep edin.
+- **Yükleme yaparak yükseltin**: Kümülatif yükleme tutarınızı artırın; sistem rate limit kademenizi otomatik olarak yükseltir.
+- **Satış ekibiyle iletişime geçin**: Özel gereksinimler için [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) üzerinden platform satış ekibine ulaşarak size özel rate quota talep edin.

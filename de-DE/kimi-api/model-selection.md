@@ -7,42 +7,42 @@ preview: false
 ---
 
 <SeoMeta
-  title="Modellauswahl & Vergleich - Kimi Hilfecenter"
-  description="Wählen Sie das passende Kimi-API-Modell anhand von Leistungsfähigkeit, Geschwindigkeit und Preis."
+  title="Modellauswahl & Vergleich – Kimi-Hilfecenter"
+  description="Wählen Sie das passende Kimi API-Modell nach Leistungsumfang, Geschwindigkeit und Preis aus."
 />
 
 # Modellauswahl & Vergleich
 
 <Callout type="info">
-Wählen Sie das passende Kimi-API-Modell anhand von Leistungsfähigkeit, Geschwindigkeit und Preis.
+Wählen Sie das passende Kimi API-Modell nach Leistungsumfang, Geschwindigkeit und Preis aus.
 </Callout>
 
-Die Kimi API bietet Entwicklern mehrere Modelle zur Auswahl.
+Kimi API bietet Entwicklern mehrere Modelle zur Auswahl.
 ## Verfügbare Modelle
 Die vollständige Modellliste und detaillierte Spezifikationen finden Sie unter [platform.kimi.ai/docs/models](https://platform.kimi.ai/docs/models).
 Bei der Modellauswahl können Sie Folgendes berücksichtigen:
-| Dimension | Überlegung |
+| Dimension | Kriterium |
 | --- | --- |
-| **Kontextlänge** | Modelle mit großem Kontext für die Verarbeitung langer Dokumente |
-| **Antwortgeschwindigkeit** | Leichtgewichtige Modelle für latenzkritische Szenarien |
-| **Generierungsqualität** | Höherwertige Modelle für komplexes Reasoning und kreatives Schreiben |
-| **Preis** | Kosteneffizientes Modell je nach Budget und Volumen |
+| **Kontextlänge** | Wählen Sie Modelle mit großem Kontextfenster für die Verarbeitung langer Dokumente |
+| **Antwortgeschwindigkeit** | Nutzen Sie schlanke Modelle für latenzkritische Szenarien |
+| **Generierungsqualität** | Verwenden Sie höherwertige Modelle für komplexes Schlussfolgern und kreatives Schreiben |
+| **Preisgestaltung** | Wählen Sie je nach Budget und Volumen ein kosteneffizientes Modell |
 
 ## Vision-Modelle
-Vision-Modelle unterstützen Bildeingaben für Bildbeschreibung, OCR, Diagramminterpretation und mehr:
+Vision-Modelle unterstützen Bildeingaben für Bildbeschreibungen, OCR, Diagramminterpretation und mehr:
 
 <Callout type="info">
-- Jedes Bild wird unabhängig von Abmessungen oder Auflösung pauschal mit **1.024 Token** abgerechnet
+- Jedes Bild wird unabhängig von Abmessungen oder Auflösung pauschal mit **1,024 tokens** berechnet
 - Unterstützte Formate: JPEG, PNG, WebP usw.
-- Bilder können per URL oder Base64-Kodierung übergeben werden
+- Bilder können per URL oder Base64-Codierung übergeben werden
 </Callout>
 
 ## Derzeit nicht unterstützte Funktionen
 
 <Callout type="warning">
-- **Video-Multimodal**: Direkte Videoeingabe wird noch nicht unterstützt
-- **PPT-Generierungs-API**: Noch nicht über die API verfügbar
-- **Deep Research API**: Noch nicht über die API verfügbar
+- **Video Multimodal**: Direkte Videoeingaben werden noch nicht unterstützt
+- **PPT Generation API**: Noch nicht über API verfügbar
+- **Deep Research API**: Noch nicht über API verfügbar
 </Callout>
 
-Um über diese Funktionen auf dem Laufenden zu bleiben, verfolgen Sie die Ankündigungen der Plattform.
+Updates zu diesen Funktionen finden Sie in den Plattformankündigungen.

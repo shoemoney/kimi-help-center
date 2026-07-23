@@ -1,18 +1,18 @@
 {
-  "title": "Kimi Help Center",
-  "description": "Find everything you need to know about Kimi — guides, features, API docs, and more",
+  "title": "Kimi 도움말 센터",
+  "description": "Kimi에 대해 알아야 할 모든 것을 찾아보세요 — 가이드, 기능, API 문서 등",
   "hot_questions": [
-    "Membership plans",
+    "멤버십 요금제",
     "Kimi Claw",
-    "Slides download",
-    "API errors"
+    "Slides 다운로드",
+    "API 오류"
   ],
-  "search_placeholder": "Can't download PPT/Word/Excel from chat?",
+  "search_placeholder": "채팅에서 PPT/Word/Excel을 다운로드할 수 없나요?",
   "field_definitions": {
     "extract_headings": {
       "type": "boolean",
       "default": false,
-      "description": "Whether to extract ## headings to the article list page as expandable sub-items. true = FAQ articles; false = guide articles"
+      "description": "## 제목을 추출해 문서 목록 페이지에 펼칠 수 있는 하위 항목으로 표시할지 여부. true = FAQ 문서; false = 가이드 문서"
     }
   }
 }

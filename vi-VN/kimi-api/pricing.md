@@ -1,5 +1,5 @@
 ---
-title: "Bảng giá API"
+title: "Giá API"
 slug: "api-pricing"
 order: 3
 extract_headings: false
@@ -7,47 +7,47 @@ preview: false
 ---
 
 <SeoMeta
-  title="Bảng giá API - Trung tâm trợ giúp Kimi"
-  description="API Kimi tính phí dựa trên lượng token tiêu thụ, với mức giá riêng theo từng mô hình và từng tính năng."
+  title="Giá API - Trung tâm trợ giúp Kimi"
+  description="Kimi API tính phí dựa trên lượng token tiêu thụ, với mức giá riêng cho từng mô hình và từng tính năng."
 />
 
-# Bảng giá API
+# Giá API
 
 <Callout type="info">
-API Kimi tính phí dựa trên lượng token tiêu thụ, với mức giá riêng theo từng mô hình và từng tính năng.
+Kimi API tính phí dựa trên lượng token tiêu thụ, với mức giá riêng cho từng mô hình và từng tính năng.
 </Callout>
 
-## Nguyên tắc tính phí cơ bản
+## Nguyên tắc tính phí
 
-- **Tính phí theo token**: Mỗi lần gọi API được tính phí riêng cho token đầu vào và token đầu ra
-- **Đơn vị token**: 1M = 1.000.000 token
-- **Giá theo từng mô hình**: Các mô hình có năng lực cao hơn sẽ có chi phí trên mỗi token cao hơn — hãy chọn mô hình phù hợp nhất với nhu cầu của bạn
+- **Tính phí theo token**: Mỗi lệnh gọi API được tính phí riêng cho token đầu vào và token đầu ra
+- **Đơn vị token**: 1M = 1,000,000 token
+- **Giá theo từng mô hình**: Mô hình có năng lực cao hơn sẽ có chi phí theo token cao hơn — hãy chọn mô hình phù hợp nhất với trường hợp sử dụng của bạn
 
-## Tính phí cho tính năng bổ sung
+## Phí tính năng bổ sung
 
 | Tính năng | Phí bổ sung |
 | --- | --- |
-| **Web Search** | 0,004 USD mỗi lần gọi (độc lập với lượng token tiêu thụ) |
+| **Web Search** | $0.004 mỗi lần gọi (không phụ thuộc vào lượng token tiêu thụ) |
 
-## Context caching
+## Lưu vào bộ nhớ đệm ngữ cảnh
 
 <Callout type="tip">
-**Context Caching** cho phép bạn lưu vào bộ nhớ đệm những nội dung ngữ cảnh thường dùng (chẳng hạn như lời nhắc hệ thống và tài liệu tham khảo). Các token trùng khớp với bộ nhớ đệm sẽ được tính phí với mức ưu đãi, qua đó giảm đáng kể chi phí cho những ngữ cảnh lặp lại.
+**Lưu vào bộ nhớ đệm ngữ cảnh** cho phép bạn lưu vào bộ nhớ đệm các nội dung ngữ cảnh thường dùng (chẳng hạn như system prompt và tài liệu tham khảo). Những token trúng bộ nhớ đệm sẽ được tính theo mức giá ưu đãi, qua đó giúp giảm chi phí cho các ngữ cảnh lặp lại.
 </Callout>
 
-Tham khảo tài liệu chính thức để biết chi tiết về giá Context Caching.
+Vui lòng tham khảo tài liệu chính thức để biết chi tiết về giá Lưu vào bộ nhớ đệm ngữ cảnh.
 
-## Chi tiết bảng giá
+## Chi tiết giá
 
-Để xem bảng giá đầy đủ theo mô hình và các quy tắc tính phí:
+Để xem bảng giá mô hình đầy đủ và quy tắc tính phí:
 
 Bạn có thể truy cập [platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat)
 
 ## Mẹo tối ưu chi phí
 
 <Callout type="tip">
-- Đặt tham số `max_tokens` ở mức hợp lý để tránh tạo ra đầu ra dài không cần thiết
-- Dùng Context Caching cho các lời nhắc hệ thống và ngữ cảnh lặp lại
-- Chọn đúng mô hình phù hợp với độ phức tạp của tác vụ — dùng các mô hình nhẹ cho những tác vụ đơn giản
-- Tinh gọn cách thiết kế lời nhắc để giảm thiểu token đầu vào không cần thiết
+- Đặt tham số `max_tokens` phù hợp để tránh đầu ra dài không cần thiết
+- Sử dụng Lưu vào bộ nhớ đệm ngữ cảnh cho các system prompt và ngữ cảnh lặp lại
+- Chọn đúng mô hình theo độ phức tạp của tác vụ — dùng mô hình nhẹ cho các tác vụ đơn giản
+- Tinh gọn thiết kế prompt để giảm thiểu token đầu vào không cần thiết
 </Callout>

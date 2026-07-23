@@ -5,14 +5,14 @@
     "Planos de assinatura",
     "Kimi Claw",
     "Download de slides",
-    "Erros da API"
+    "Erros de API"
   ],
-  "search_placeholder": "Não consegue baixar PPT/Word/Excel do chat?",
+  "search_placeholder": "Não consegue baixar PPT/Word/Excel pelo chat?",
   "field_definitions": {
     "extract_headings": {
       "type": "boolean",
       "default": false,
-      "description": "Define se os títulos ## devem ser extraídos para a página de lista de artigos como subitens expansíveis. true = artigos de FAQ; false = artigos de guia"
+      "description": "Se deve extrair os títulos ## para a página de lista de artigos como subitens expansíveis. true = artigos de FAQ; false = artigos de guia"
     }
   }
 }

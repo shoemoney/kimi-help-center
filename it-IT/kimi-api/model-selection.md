@@ -8,31 +8,31 @@ preview: false
 
 <SeoMeta
   title="Selezione e confronto dei modelli - Centro assistenza Kimi"
-  description="Scegli il modello Kimi API più adatto in base a capacità, velocità e prezzo."
+  description="Scegli il modello Kimi API più adatto in base a capacità, velocità e prezzi."
 />
 
 # Selezione e confronto dei modelli
 
 <Callout type="info">
-Scegli il modello Kimi API più adatto in base a capacità, velocità e prezzo.
+Scegli il modello Kimi API più adatto in base a capacità, velocità e prezzi.
 </Callout>
 
-Kimi API offre diversi modelli tra cui gli sviluppatori possono scegliere.
+Kimi API offre agli sviluppatori diversi modelli tra cui scegliere.
 ## Modelli disponibili
-Visita [platform.kimi.ai/docs/models](https://platform.kimi.ai/docs/models) per l'elenco completo dei modelli e le specifiche dettagliate.
-Nella scelta di un modello, puoi considerare:
-| Dimensione | Considerazione |
+Visita [platform.kimi.ai/docs/models](https://platform.kimi.ai/docs/models) per l’elenco completo dei modelli e le specifiche dettagliate.
+Quando scegli un modello, puoi considerare:
+| Dimensione | Criterio |
 | --- | --- |
-| **Lunghezza del contesto** | Scegli modelli con contesto ampio per l'elaborazione di documenti lunghi |
+| **Lunghezza del contesto** | Scegli modelli con contesto ampio per elaborare documenti lunghi |
 | **Velocità di risposta** | Modelli leggeri per scenari sensibili alla latenza |
-| **Qualità della generazione** | Modelli di fascia alta per ragionamenti complessi e scrittura creativa |
-| **Prezzo** | Scegli il modello più conveniente in base a budget e volume |
+| **Qualità della generazione** | Modelli di fascia superiore per ragionamenti complessi e scrittura creativa |
+| **Prezzi** | Scegli un modello conveniente in base a budget e volume |
 
 ## Modelli di visione
-I modelli di visione supportano l'input di immagini per descrizioni, OCR, interpretazione di grafici e altro ancora:
+I modelli di visione supportano l’input di immagini per generare descrizioni, eseguire OCR, interpretare grafici e altro ancora:
 
 <Callout type="info">
-- Ogni immagine viene fatturata a una tariffa fissa di **1.024 token**, indipendentemente da dimensioni o risoluzione
+- Ogni immagine viene fatturata a una tariffa fissa di **1,024 token**, indipendentemente da dimensioni o risoluzione
 - Formati supportati: JPEG, PNG, WebP, ecc.
 - Le immagini possono essere passate tramite URL o codifica Base64
 </Callout>
@@ -40,9 +40,9 @@ I modelli di visione supportano l'input di immagini per descrizioni, OCR, interp
 ## Funzionalità attualmente non supportate
 
 <Callout type="warning">
-- **Multimodalità video**: l'input video diretto non è ancora supportato
-- **API per la generazione di PPT**: non ancora disponibile tramite API
-- **API per la Deep Research**: non ancora disponibile tramite API
+- **Video multimodale**: l’input video diretto non è ancora supportato
+- **API di generazione PPT**: non ancora disponibile tramite API
+- **API di Deep Research**: non ancora disponibile tramite API
 </Callout>
 
 Per aggiornamenti su queste funzionalità, segui gli annunci della piattaforma.

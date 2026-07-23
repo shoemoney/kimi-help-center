@@ -1,18 +1,18 @@
 {
   "title": "Kimi ヘルプセンター",
-  "description": "Kimiについて知りたいことがすべて見つかります — ガイド、機能、APIドキュメントなど",
+  "description": "Kimi について知りたいことをまとめて確認できます — ガイド、機能、API ドキュメントなど",
   "hot_questions": [
-    "会員プラン",
+    "メンバーシッププラン",
     "Kimi Claw",
-    "Slidesダウンロード",
-    "APIエラー"
+    "Slides のダウンロード",
+    "API エラー"
   ],
-  "search_placeholder": "チャットからPPT/Word/Excelをダウンロードできませんか？",
+  "search_placeholder": "チャットから PPT/Word/Excel をダウンロードできませんか？",
   "field_definitions": {
     "extract_headings": {
       "type": "boolean",
       "default": false,
-      "description": "## 見出しを記事一覧ページに展開可能なサブ項目として抽出するかどうか。true = FAQ記事、false = ガイド記事"
+      "description": "## 見出しを記事一覧ページに展開可能なサブ項目として抽出するかどうか。true = FAQ 記事、false = ガイド記事"
     }
   }
 }

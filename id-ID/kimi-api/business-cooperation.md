@@ -8,44 +8,44 @@ preview: false
 
 <SeoMeta
   title="Kerja sama bisnis & penjualan - Pusat Bantuan Kimi"
-  description="Pilihan kemitraan untuk klien perusahaan — mulai dari diskon volume hingga SLA khusus."
+  description="Pilihan kemitraan untuk klien enterprise — mulai dari diskon volume hingga SLA khusus."
 />
 
 # Kerja sama bisnis & penjualan
 
 <Callout type="info">
-Pilihan kemitraan untuk klien perusahaan — mulai dari diskon volume hingga SLA khusus.
+Pilihan kemitraan untuk klien enterprise — mulai dari diskon volume hingga SLA khusus.
 </Callout>
 
-Kimi API menyediakan beragam pilihan kemitraan bagi klien perusahaan untuk memenuhi kebutuhan bisnis dalam skala apa pun.
+Kimi API menyediakan beragam pilihan kemitraan bagi klien enterprise untuk memenuhi kebutuhan bisnis dalam skala apa pun.
 ## Bagaimana cara menghubungi tim penjualan?
-Kunjungi [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) untuk mengisi formulir kontak. Tim penjualan kami akan menghubungi Anda dalam 1–2 hari kerja.
+Kunjungi [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) untuk mengirim formulir kontak. Tim penjualan kami akan menghubungi Anda dalam 1–2 hari kerja.
 
 <Callout type="tip">
 **Sertakan dalam pengajuan Anda**:
-- Nama dan bidang industri perusahaan
+- Nama perusahaan dan industri
 - Perkiraan volume penggunaan
 - Kasus penggunaan utama
 - Model kemitraan yang diinginkan
 </Callout>
 
 ## Penandatanganan kontrak
-Pengguna yang sudah terverifikasi sebagai organisasi dapat menjalin perjanjian layanan resmi dengan Moonshot:
+Pengguna yang telah memverifikasi organisasi dapat menandatangani perjanjian layanan resmi dengan Moonshot:
 - Tersedia perjanjian layanan standar maupun kontrak khusus.
-- Setelah penandatanganan, Anda memperoleh akses ke pembayaran melalui transfer bank dan SLA setingkat perusahaan.
-- Hubungi tim penjualan untuk membahas detail prosesnya.
+- Setelah penandatanganan, Anda dapat menggunakan pembayaran melalui transfer bank dan memperoleh SLA tingkat enterprise.
+- Hubungi tim penjualan untuk membahas prosesnya secara spesifik.
 
 ## Diskon volume
-Klien perusahaan dengan volume tinggi dapat mengajukan diskon eksklusif:
+Klien enterprise dengan volume penggunaan tinggi dapat mengajukan diskon eksklusif:
 | Persyaratan | Detail |
 | --- | --- |
-| **Kelayakan** | Verifikasi organisasi + kontrak yang ditandatangani |
+| **Kelayakan** | Verifikasi organisasi + kontrak yang telah ditandatangani |
 | **Tingkat diskon** | Berdasarkan komitmen volume penggunaan dan durasi kontrak |
 | **Pengajuan** | Ajukan melalui tim penjualan dengan perkiraan penggunaan bulanan |
 
-## Layanan API perusahaan
-Layanan API perusahaan dibangun di atas penawaran API standar dengan tambahan:
-- **Rate limit dan quota concurrency yang lebih tinggi**
-- **Saluran dukungan teknis khusus**
+## Layanan API enterprise
+Layanan API enterprise melengkapi penawaran API standar dengan:
+- **rate limit dan quota concurrency yang lebih tinggi**
+- **Kanal dukungan teknis khusus**
 - **Jaminan SLA khusus**
-- **Akses awal ke fitur-fitur baru**
+- **Akses awal ke fitur baru**

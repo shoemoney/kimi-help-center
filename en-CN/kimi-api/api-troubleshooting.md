@@ -1,5 +1,5 @@
 ---
-title: "API Usage FAQ"
+title: "API Call FAQs"
 slug: "api-troubleshooting"
 order: 8
 extract_headings: true
@@ -8,20 +8,19 @@ preview_content: "API call FAQs: 429 rate limits, 401 authentication failures, t
 ---
 
 <SeoMeta
-  title="Kimi API FAQ and Troubleshooting - Kimi Help Center"
-  description="Having issues with Kimi API calls? This article summarizes troubleshooting steps for common scenarios such as authentication failures, timeouts, and abnormal responses, helping you resolve problems quickly."
+  title="Kimi API FAQs and Troubleshooting - Kimi Help Center"
+  description="Running into issues with Kimi API calls? This article summarizes troubleshooting steps for common scenarios such as authentication failures, timeouts, and unexpected responses, helping you 快速 resolve issues."
 />
+# API Call FAQs
 
-# API Usage FAQ
-
-Here are the issues developers most often encounter when using Kimi API, along with recommended solutions.
+Below are the issues developers most often encounter when using Kimi API, along with recommended solutions.
 
 ## What should I do if I receive a 429 rate limit error?
 
-A 429 error means your request frequency has exceeded the current account’s rate limit. To resolve it:
+A 429 error means your request frequency has exceeded the rate limit for the current account. You can try the following:
 
-- Implement an exponential backoff retry strategy (wait 1s, 2s, 4s, and so on before retrying).
-- Limit the number of concurrent requests and use a queue mechanism.
+- Implement an exponential backoff retry strategy, such as retrying after 1s, 2s, 4s, and so on.
+- Control the number of concurrent requests and use a queue mechanism.
 - Increase your cumulative top-up amount to raise your rate limit tier.
 - If you need a higher quota, contact the sales team.
 
@@ -29,53 +28,53 @@ A 429 error means your request frequency has exceeded the current account’s ra
 
 A 401 error means API Key authentication failed. Please check:
 
-- Whether the API Key was copied correctly (watch for leading or trailing spaces).
-- Whether the request header format is `Authorization: Bearer <your-api-key>`.
+- Whether the API Key was copied correctly, including any leading or trailing spaces.
+- Whether the request header is in the format `Authorization: Bearer <your-api-key>`.
 - Whether the API Key has been deleted or disabled. You can confirm this in the console.
-- Whether you are using a Key from another platform (Kimi API Key starts with `sk-`).
+- Whether you are using a Key from another platform. Kimi API Keys start with `sk-`.
 
 ## Is file upload billed?
 
-File upload itself does not incur any fees. However, when you reference an uploaded file in a conversation, the file content is parsed into token and counted as input token for billing. The larger the file, the more token are generated during parsing.
+Uploading a file does not incur a fee by itself. However, when you reference an uploaded file in a conversation, the file content is parsed into tokens and counted as input token billing. The larger the file, the more tokens will be generated during parsing.
 
 ## What should I do if I receive a 403 Insufficient Balance error?
 
-A 403 error usually means the account balance is insufficient. Please top up in the console. You can continue using the service immediately after the top-up is completed. You can also confirm your current balance through the balance query API.
+A 403 error usually means your account balance is insufficient. Please top up in the console. You can continue using the service immediately after the top-up is completed. You can also confirm your current balance through the balance query API.
 
 ## What should I do if the returned content is truncated?
 
 If the content returned by the API is incomplete or truncated:
 
-- Check whether the `max_tokens` parameter is set too low, and increase it as appropriate.
-- Check the `finish_reason` field in the response: `length` means the output was truncated due to a token limit, while `stop` means it ended normally.
-- For long-form generation, consider splitting the task into multiple requests.
+- Check whether the `max_tokens` parameter is set too low, and increase it as needed.
+- Check the `finish_reason` field in the response: `length` means the output was truncated due to the token limit, while `stop` means the generation ended normally.
+- For long-form text generation, consider splitting the task into multiple requests.
 
-## Can I upload images through the file API?
+## Can the file API upload images?
 
-Yes. The file upload API supports uploading image files, which can then be referenced in conversations. If you use a Vision model, you can also pass images directly in messages via URL or Base64.
+Yes. The file upload API supports image uploads, and uploaded images can be referenced in conversations. If you use a Vision model, you can also pass images directly in messages via URL or Base64.
 
-## What are the sources for online search?
+## What are the sources for Web Search?
 
-Kimi API’s online search feature retrieves publicly available information from the internet in real time. Search results come from web content indexed by mainstream search engines. Each online search costs an additional ¥0.03.
+The Web Search capability of Kimi API retrieves publicly available information from the internet in real time. Search results come from web pages indexed by mainstream search engines. Each Web Search incurs an additional charge of ¥0.03.
 
-## Is Allegretto membership related to API concurrency?
+## Is an Allegretto membership related to API concurrency?
 
-Kimi membership plans (such as Allegretto) and API use separate billing systems. The Agent parallel capability included in membership plans applies only to Kimi products and is unrelated to API rate limits. API concurrency limits depend on the account’s cumulative top-up amount tier.
+Kimi memberships, such as Allegretto, and API use separate billing systems. The Agent parallelism included in membership plans applies only to Kimi products and is unrelated to API rate limits. API concurrency limits depend on the account’s cumulative top-up tier.
 
-## What is the difference between the API and the web version of Kimi?
+## What is the difference between API and the web version of Kimi?
 
-- **Web version of Kimi**: A conversation product for general users, available directly in the browser.
-- **Kimi API**: An API service for developers to integrate AI capabilities into their own products.
-- They use separate billing systems. The same account can be used, but credits are not shared.
+- **Kimi on the web**: A conversation product for general users, used directly in a browser.
+- **Kimi API**: An API service for developers, used to integrate AI capabilities into your own products.
+- They use separate billing systems. The same account can be used, but credits are not shared between them.
 
-## Is there an API for PPT generation and Deep Research?
+## Are there APIs for PPT generation and Deep Research?
 
-Currently, PPT generation and Deep Research are **not yet available via API**. These features are only available in Kimi products. Please follow platform announcements for the latest updates.
+APIs for PPT generation and Deep Research are **not available yet**. These features are currently available only in Kimi products. Please follow platform announcements for the latest updates.
 
-## Is localized deployment supported?
+## Is local deployment supported?
 
-Kimi API currently provides cloud API services only and **does not support localized private deployment at this time**. If you need private deployment, please contact the sales team through [platform.kimi.com/contact-sales](https://platform.kimi.com/contact-sales) for consultation.
+Kimi API currently provides cloud API services only and **does not support local private deployment at this time**. If you need private deployment, please contact the sales team via [platform.kimi.com/contact-sales](https://platform.kimi.com/contact-sales) for consultation.
 
-## Can Kimi API be called from outside China?
+## Can Kimi API be called from outside the Chinese mainland?
 
-Kimi API is primarily provided for users in mainland China. Access from overseas regions may be affected by the network environment, and stability cannot be fully guaranteed. If you need to use it overseas, we recommend contacting the sales team to discuss feasible options.
+Kimi API is primarily intended for users in the Chinese mainland. Access from overseas regions may be affected by network conditions, and stability cannot be fully guaranteed. If you need to use it overseas, we recommend contacting the sales team to discuss feasible options.

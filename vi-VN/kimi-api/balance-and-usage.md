@@ -1,5 +1,5 @@
 ---
-title: "Số dư & mức sử dụng"
+title: "Số dư và mức sử dụng"
 slug: "api-balance-and-usage"
 order: 4
 extract_headings: false
@@ -7,32 +7,32 @@ preview: false
 ---
 
 <SeoMeta
-  title="Số dư & mức sử dụng - Trung tâm trợ giúp Kimi"
-  description="Kimi API cung cấp nhiều cách để xem số dư tài khoản và chi tiết mức sử dụng, giúp bạn theo dõi mức tiêu thụ và chi phí."
+  title="Số dư và mức sử dụng - Kimi Help Center"
+  description="Kimi API cung cấp nhiều cách để xem số dư tài khoản và chi tiết sử dụng, giúp bạn theo dõi mức tiêu thụ và chi phí."
 />
 
-# Số dư & mức sử dụng
+# Số dư và mức sử dụng
 
-Kimi API cung cấp nhiều cách để xem số dư tài khoản và chi tiết mức sử dụng, giúp bạn theo dõi mức tiêu thụ và chi phí.
+Kimi API cung cấp nhiều cách để xem số dư tài khoản và chi tiết sử dụng, giúp bạn theo dõi mức tiêu thụ và chi phí.
 
-## Bảng điều khiển trên console
+## Bảng điều khiển console
 
-Đăng nhập vào [platform.kimi.ai](https://platform.kimi.ai) và truy cập trang **fee-detail** (chi tiết thanh toán) trong console để xem:
+Đăng nhập vào [platform.kimi.ai](https://platform.kimi.ai) và mở trang **fee-detail** (chi tiết thanh toán) trong console để xem:
 
 - Số dư tài khoản hiện tại
-- Phân tích mức sử dụng theo ngày
-- Mức sử dụng và chi phí theo từng mô hình
+- Phân tích mức sử dụng hằng ngày
+- Mức sử dụng và chi phí theo từng model
 - Xu hướng chi tiêu trong quá khứ
 
 <Callout type="info">
-Dữ liệu thanh toán hằng ngày được cập nhật trước **7:00 sáng ngày hôm sau**. Dữ liệu sử dụng theo thời gian thực có thể có độ trễ nhỏ.
+Thông tin thanh toán hằng ngày được cập nhật trước **7:00 sáng ngày hôm sau**. Dữ liệu sử dụng theo thời gian thực có thể có độ trễ nhẹ.
 </Callout>
 
-> **Lưu ý**: Dữ liệu thanh toán hằng ngày được cập nhật trước **7:00 sáng ngày hôm sau**. Dữ liệu sử dụng theo thời gian thực có thể có độ trễ nhỏ.
+> **Lưu ý**: Thông tin thanh toán hằng ngày được cập nhật trước **7:00 sáng ngày hôm sau**. Dữ liệu sử dụng theo thời gian thực có thể có độ trễ nhẹ.
 
-## API ước tính token
+## API Token Estimation
 
-Trước khi gửi yêu cầu, bạn có thể dùng Token Estimation API để ước tính số token mà lệnh gọi sẽ tiêu tốn — rất hữu ích cho việc kiểm soát chi phí.
+Trước khi gửi yêu cầu, bạn có thể dùng API Token Estimation để ước tính lượt gọi sẽ tiêu thụ bao nhiêu token — hữu ích cho việc kiểm soát chi phí.
 
 <CodePreview
   files={[
@@ -44,11 +44,11 @@ Trước khi gửi yêu cầu, bạn có thể dùng Token Estimation API để 
   ]}
 />
 
-Truyền vào định dạng `messages` giống như một yêu cầu Chat Completion, và API sẽ trả về số token ước tính.
+Truyền cùng định dạng `messages` như trong yêu cầu Chat Completion, API sẽ trả về số lượng token ước tính.
 
 ## API truy vấn số dư
 
-Truy vấn số dư tài khoản hiện tại trực tiếp qua API:
+Truy vấn trực tiếp số dư tài khoản hiện tại của bạn qua API:
 
 <CodePreview
   files={[
@@ -60,13 +60,13 @@ Truy vấn số dư tài khoản hiện tại trực tiếp qua API:
   ]}
 />
 
-Đưa API Key của bạn vào header của yêu cầu để lấy số dư khả dụng.
+Thêm API Key của bạn vào header yêu cầu để lấy số dư khả dụng.
 
-## Mẹo theo dõi mức sử dụng
+## Mẹo giám sát mức sử dụng
 
 <Callout type="tip">
-**Thực hành tốt nhất**:
+**Khuyến nghị**:
 - Kiểm tra trang fee-detail thường xuyên để theo dõi xu hướng chi tiêu
-- Tích hợp Balance Query API và thiết lập ngưỡng cảnh báo số dư
-- Dùng Token Estimation API trước các lệnh gọi quan trọng để ước tính chi phí
+- Tích hợp API truy vấn số dư và thiết lập ngưỡng cảnh báo số dư
+- Dùng API Token Estimation trước các lượt gọi quan trọng để ước tính chi phí
 </Callout>

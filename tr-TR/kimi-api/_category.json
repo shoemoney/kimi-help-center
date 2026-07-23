@@ -1,11 +1,11 @@
 {
   "title": "Kimi API",
-  "description": "Kimi API kullanımı, kimlik doğrulama, hata giderme, fiyatlandırma",
+  "description": "Kimi API kullanımı, kimlik doğrulama, sorun giderme, fiyatlandırma",
   "seo": {
     "title": "Kimi API",
-    "description": "Kimi API kullanımı, kimlik doğrulama, hata giderme, fiyatlandırma"
+    "description": "Kimi API kullanımı, kimlik doğrulama, sorun giderme, fiyatlandırma"
   },
   "icon": "api",
   "order": 12,
-  "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
+  "note": "Her md front matter içindeki extract_headings, liste sayfasında ## başlıklarının genişletilebilir öğeler olarak görünüp görünmeyeceğini belirler"
 }

@@ -1,11 +1,11 @@
 {
-  "title": "API Kimi",
-  "description": "Utilisation de l'API Kimi, authentification, résolution des erreurs, tarification",
+  "title": "Kimi API",
+  "description": "Utilisation de Kimi API, authentification, résolution des erreurs, tarification",
   "seo": {
-    "title": "API Kimi",
-    "description": "Utilisation de l'API Kimi, authentification, résolution des erreurs, tarification"
+    "title": "Kimi API",
+    "description": "Utilisation de Kimi API, authentification, résolution des erreurs, tarification"
   },
   "icon": "api",
   "order": 12,
-  "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
+  "note": "extract_headings dans le front matter de chaque md détermine si les titres ## apparaissent comme éléments dépliables sur la page de liste"
 }

@@ -1,53 +1,45 @@
 ---
-title: "API 定價"
+title: "API 計費說明"
 slug: "api-pricing"
 order: 3
 extract_headings: false
-preview: false
+preview: true
+preview_content: "Kimi API 計費邏輯、Token 價格與成本最佳化建議。"
 ---
 
 <SeoMeta
-  title="API 定價 - Kimi 說明中心"
-  description="Kimi API 依 token 用量計費，並依模型與功能採用不同定價。"
+  title="Kimi API 定價與計費說明 - Kimi 說明中心"
+  description="查看 Kimi API 各模型的呼叫價格、Token 計費規則與帳單說明。瞭解輸入／輸出 Token 定價，合理預估 API 使用成本。"
 />
+# API 計費說明
 
-# API 定價
+Kimi API 依 token 消耗量計費，不同模型與功能的價格會有所差異。
 
-<Callout type="info">
-Kimi API 依 token 用量計費，並依模型與功能採用不同定價。
-</Callout>
+## 計費基礎
 
-## 計費基本說明
+- **按 token 計費**：每次 API 呼叫會分別依輸入 token 與輸出 token 計費。
+- **token 單位**：1M = 1,000,000 tokens。
+- **不同模型價格不同**：能力越高的模型單價越高，請依業務需求選擇合適的模型。
 
-- **按 token 計費**：每次 API 呼叫會分別計算輸入 token 與輸出 token 的費用
-- **token 單位**：1M = 1,000,000 token
-- **依模型定價**：能力越強的模型，單位 token 成本越高——請選擇最符合使用情境的模型
+## 附加功能計費
 
-## 額外功能計費
+- **聯網搜尋**：每次呼叫聯網搜尋功能會額外收費 **¥0.03**，獨立於 token 消耗計算。
 
-| 功能 | 額外費用 |
-| --- | --- |
-| **Web Search** | 每次呼叫 $0.004（不受 token 用量影響） |
+## Context Caching
 
-## 上下文快取
+Context Caching 功能可讓你快取常用的上下文內容（如系統提示詞、參考文件等），快取命中的部分 token 將以優惠價格計費，有效降低重複上下文的使用成本。
 
-<Callout type="tip">
-**上下文快取**可讓你快取常用的上下文內容（例如系統提示詞與參考文件）。命中快取的 token 會以優惠費率計費，有效降低重複上下文的成本。
-</Callout>
+Context Caching 的詳細定價請參考官方文件。
 
-上下文快取的詳細定價，請參閱官方文件。
+## 計費詳情
 
-## 定價詳情
+完整的模型價格表與計費規則，請造訪：
 
-完整的模型定價表與計費規則請見：
-
-你可以前往 [platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat)
+[https://platform.kimi.com/docs/pricing/chat](https://platform.kimi.com/docs/pricing/chat)
 
 ## 成本最佳化建議
 
-<Callout type="tip">
-- 合理設定 `max_tokens` 參數，避免產生不必要的過長輸出
-- 對重複使用的系統提示詞與上下文使用上下文快取
-- 依任務複雜度選擇合適模型——簡單任務可使用輕量模型
-- 精簡提示詞設計，盡量減少不必要的輸入 token
-</Callout>
+- 合理設定 `max_tokens` 參數，避免生成過長且無用的內容。
+- 使用 Context Caching 快取重複的系統提示詞與上下文。
+- 依任務複雜度選擇合適的模型，簡單任務使用輕量模型即可。
+- 精簡 prompt 設計，減少不必要的輸入 token。

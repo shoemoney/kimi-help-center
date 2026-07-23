@@ -8,36 +8,36 @@ preview: false
 
 <SeoMeta
   title="Rate limit - Pusat Bantuan Kimi"
-  description="Kimi API menerapkan rate limit pada frekuensi dan concurrency permintaan untuk menjaga stabilitas platform serta pemakaian yang adil. Tingkatan rate limit ditentukan oleh akun Anda..."
+  description="Kimi API menerapkan rate limit pada frekuensi permintaan dan concurrency untuk menjaga stabilitas platform serta penggunaan yang adil. Tingkat rate limit didasarkan pada..."
 />
 
 # Rate limit
 
-Kimi API menerapkan rate limit（batas laju） pada frekuensi dan concurrency permintaan untuk menjaga stabilitas platform serta pemakaian yang adil. Tingkatan rate limit ditentukan oleh total top-up kumulatif pada akun Anda.
+Kimi API menerapkan rate limit pada frekuensi permintaan dan concurrency untuk menjaga stabilitas platform serta penggunaan yang adil. Tingkat rate limit didasarkan pada total top-up kumulatif akun Anda.
 
-## Tingkatan rate limit
+## Tingkat rate limit
 
-Rate limit API dibagi dalam beberapa tingkatan berdasarkan **total top-up kumulatif** akun Anda — semakin besar top-up Anda, semakin tinggi rate limit yang tersedia. Untuk ambang batas setiap tingkatan beserta batas RPM (permintaan per menit) dan TPM (token per menit) yang sesuai, lihat konsol [platform.kimi.ai](https://platform.kimi.ai).
+Rate limit API disusun bertingkat berdasarkan **total top-up kumulatif** akun Anda — semakin besar top-up yang telah Anda lakukan, semakin tinggi rate limit yang tersedia. Untuk ambang tiap tingkat serta batas RPM (requests per minute) dan TPM (tokens per minute) yang sesuai, lihat konsol [platform.kimi.ai](https://platform.kimi.ai).
 
-## Cara memeriksa batas saat ini?
+## Bagaimana cara memeriksa limit saat ini?
 
-- Masuk ke konsol API untuk melihat tingkatan rate limit Anda saat ini.
-- Header respons API juga menyertakan informasi rate limit:
+- Masuk ke konsol API untuk melihat tingkat rate limit Anda saat ini.
+- Header respons API juga memuat informasi rate limit:
   - `X-RateLimit-Limit`: Batas rate limit saat ini
   - `X-RateLimit-Remaining`: Sisa permintaan yang tersedia
-  - `X-RateLimit-Reset`: Waktu saat batas akan disetel ulang
+  - `X-RateLimit-Reset`: Waktu saat limit direset
 
 ## Menangani error 429
 
-Ketika frekuensi permintaan Anda melampaui batas, API mengembalikan kode status 429. Tindakan yang disarankan:
+Saat frekuensi permintaan Anda melampaui limit, API mengembalikan kode status 429. Tindakan yang disarankan:
 
-1. **Terapkan exponential backoff**: Tunggu 1 detik pada awalnya, lalu gandakan waktu tunggu setiap kali mencoba ulang (2s, 4s, 8s…).
-2. **Kontrol concurrency**: Gunakan antrean permintaan atau semaphore untuk membatasi jumlah permintaan yang berjalan bersamaan.
-3. **Kelompokkan permintaan**: Gabungkan beberapa permintaan kecil menjadi lebih sedikit permintaan yang lebih besar.
+1. **Terapkan exponential backoff**: Mulai dengan menunggu 1 detik, lalu gandakan waktu tunggu pada setiap percobaan ulang (2s, 4s, 8s…).
+2. **Kendalikan concurrency**: Gunakan antrean permintaan atau semaphore untuk membatasi jumlah permintaan yang berjalan bersamaan.
+3. **Gabungkan permintaan**: Satukan beberapa permintaan kecil menjadi lebih sedikit permintaan yang lebih besar.
 
 ## Meminta rate limit yang lebih tinggi
 
 Jika kebutuhan bisnis Anda melebihi rate limit saat ini:
 
-- **Top-up untuk naik tingkat**: Tingkatkan total top-up kumulatif Anda, dan sistem akan otomatis menaikkan tingkatan rate limit Anda.
-- **Hubungi tim sales**: Untuk kebutuhan khusus, hubungi tim sales platform melalui [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) guna meminta quota rate limit yang disesuaikan.
+- **Top up untuk upgrade**: Tingkatkan total top-up kumulatif Anda, dan sistem akan otomatis menaikkan tingkat rate limit Anda.
+- **Hubungi tim sales**: Untuk kebutuhan khusus, hubungi tim sales platform melalui [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) untuk meminta rate quota khusus.

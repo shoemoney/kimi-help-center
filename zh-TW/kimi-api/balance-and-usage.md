@@ -1,72 +1,68 @@
 ---
-title: "餘額與用量"
+title: "餘額消耗查詢"
 slug: "api-balance-and-usage"
 order: 4
 extract_headings: false
-preview: false
+preview: true
+preview_content: "如何查詢 API 帳戶餘額、消耗明細與用量估算。"
 ---
 
 <SeoMeta
-  title="餘額與用量 - Kimi 說明中心"
-  description="Kimi API 提供多種方式查看帳戶餘額與用量明細，協助你掌握用量與費用。"
+  title="如何查看 Kimi API 餘額和用量？ - Kimi 說明中心"
+  description="了解如何在 Kimi Open Platform 查看 API 帳戶餘額、歷史用量和消費明細，掌握額度（credit）使用情況，並及時儲值以避免服務中斷。"
 />
 
-# 餘額與用量
+# 餘額消耗查詢
 
-Kimi API 提供多種方式查看帳戶餘額與用量明細，協助你掌握用量與費用。
+Kimi API 提供多種方式查看帳戶餘額與消耗明細，協助你掌握用量與成本。
 
-## 控制台儀表板
+## 在控制台查看
 
-登入 [platform.kimi.ai](https://platform.kimi.ai)，前往控制台中的 **fee-detail**（帳單明細）頁面，即可查看：
+登入 [platform.kimi.com/](https://platform.kimi.com/)，即可在控制台的 **fee-detail**（費用明細）頁面查看：
 
-- 目前帳戶餘額
-- 每日用量明細
-- 各模型用量與費用
-- 歷史支出趨勢
+- 帳戶目前餘額
+- 每日消耗明細
+- 各模型的用量與費用
+- 歷史消費趨勢
 
 <Callout type="info">
-每日帳單會在**隔日上午 7:00 前**更新。即時用量資料可能略有延遲。
+**注意**：當日帳單將於**次日 7:00** 更新。即時消耗資料可能會有些許延遲。
 </Callout>
 
-> **注意**：每日帳單會在**隔日上午 7:00 前**更新。即時用量資料可能略有延遲。
+## Token 估算介面
 
-## Token Estimation API
-
-送出請求前，你可以使用 Token Estimation API 預估本次呼叫會消耗多少 token，方便控管費用。
+在送出請求前，你可以使用 Token 估算介面預估本次呼叫將消耗的 token 數量，方便控管成本。
 
 <CodePreview
   files={[
     {
-      name: "prompt.txt",
-      language: "text",
-      content: "POST https://api.moonshot.ai/v1/tokenizers/estimate-token-count",
+      name: "command.sh",
+      language: "bash",
+      content: "POST https://api.moonshot.cn/v1/tokenizers/estimate-token-count",
     },
   ]}
 />
 
-傳入與 Chat Completion 請求相同的 `messages` 格式，API 會回傳預估的 token 數量。
+在請求本文中傳入與 Chat Completion 相同格式的 messages，介面將回傳預估的 token 數量。
 
-## 餘額查詢 API
+## 餘額查詢介面
 
 透過 API 直接查詢目前帳戶餘額：
 
 <CodePreview
   files={[
     {
-      name: "prompt.txt",
-      language: "text",
-      content: "GET https://api.moonshot.ai/v1/users/me/balance",
+      name: "command.sh",
+      language: "bash",
+      content: "GET https://api.moonshot.cn/v1/users/me/balance",
     },
   ]}
 />
 
-在請求標頭中加入你的 API Key，即可取得可用餘額。
+在請求標頭中帶上你的 API Key，即可取得目前可用餘額資訊。
 
 ## 用量監控建議
 
-<Callout type="tip">
-**最佳做法**：
-- 定期查看 fee-detail 頁面，掌握支出趨勢
-- 整合餘額查詢 API，並設定餘額提醒門檻
-- 在重要呼叫前使用 Token Estimation API 預估費用
-</Callout>
+- 定期查看 fee-detail 頁面，留意消耗趨勢。
+- 在程式碼中整合餘額查詢介面，設定餘額預警門檻。
+- 使用 Token 估算介面，在關鍵呼叫前預估成本。

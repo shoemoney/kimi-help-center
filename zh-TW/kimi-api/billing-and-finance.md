@@ -1,40 +1,45 @@
 ---
-title: "計費與財務"
+title: "儲值與開立發票"
 slug: "api-billing-and-finance"
 order: 10
 extract_headings: true
-preview: false
+preview: true
+preview_content: "API 儲值、發票開立與退款政策說明。"
 ---
 
 <SeoMeta
-  title="計費與財務 - Kimi 說明中心"
-  description="關於 Kimi API 計費、定價與付款的常見問題。"
+  title="Kimi API 帳單與財務管理 - Kimi 說明中心"
+  description="了解 Kimi API 的帳單產生規則、儲值方式、發票申請流程與財務相關常見問題，方便企業使用者管理費用。"
 />
 
-# 計費與財務
+# 儲值與開立發票
 
-<Callout type="info">
-關於 Kimi API 計費、定價與付款的常見問題。
-</Callout>
+以下是 Kimi API 計費與財務相關的常見問題。
 
-## 定價方式是什麼？
-Kimi API 依消耗的 token 計費——輸入 token 與輸出 token 分別定價。價格會因模型而異；使用 Web Search 另需支付每次呼叫 $0.004 的費用。
+## 收費標準如何？
 
-<Callout type="tip">
-詳細價格請參閱 [platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat)。
-</Callout>
+Kimi API 按 token 消耗量計費，輸入 token 與輸出 token 分別計價。不同模型價格不同，聯網搜尋每次額外收費 ¥0.03。詳細價格請參考 [platform.kimi.com/docs/pricing/chat](https://platform.kimi.com/docs/pricing/chat)。
 
-## 支援哪些付款方式？
-API 控制台支援以下付款方式：
-| 付款方式 | 詳細說明 |
-| --- | --- |
-| **信用卡／簽帳金融卡** | Visa、Mastercard 及其他主要卡別 |
-| **電匯** | 已完成組織驗證的使用者可申請電匯——銀行資訊請聯絡銷售團隊 |
+## 支援 WeCom 或 Alipay 儲值嗎？
 
-儲值完成後，款項會立即可用於 API 使用。
-## 如何申請發票？
-1. 登入 [platform.kimi.ai](https://platform.kimi.ai) 控制台。
-2. 前往 **帳務 → 發票管理**。
-3. 選取需要開立發票的儲值紀錄。
-4. 填寫發票資訊（個人或企業）並送出。
-5. 電子發票將寄送至你的電子郵件信箱。
+API 控制台支援以下儲值方式：
+
+- **Alipay**：掃碼付款或登入 Alipay 帳戶付款。
+- **WeChat Pay**：掃碼付款。
+- **企業對公轉帳**：完成企業認證的使用者可申請對公轉帳儲值，請聯絡銷售團隊取得對公帳戶資訊。
+
+儲值後餘額會即時入帳，可立即用於 API 呼叫。
+
+## 如何開立發票？
+
+1. 登入 [https://platform.kimi.com/](https://platform.kimi.com/) 控制台。
+2. 前往「費用 → 發票管理」頁面。
+3. 選擇需要開立發票的儲值紀錄。
+4. 填寫發票資訊（個人/企業）並送出申請。
+5. 電子發票將寄送至你填寫的電子信箱。
+
+可開立的發票類型：
+
+- 個人普通電子發票
+- 企業普通電子發票
+- 企業增值稅專用發票（需完成企業認證）

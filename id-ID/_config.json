@@ -1,18 +1,18 @@
 {
-  "title": "Pusat Bantuan Kimi",
-  "description": "Temukan semua yang perlu Anda ketahui tentang Kimi — panduan, fitur, dokumentasi API, dan lainnya",
+  "title": "Kimi Help Center",
+  "description": "Find everything you need to know about Kimi — guides, features, API docs, and more",
   "hot_questions": [
-    "Paket keanggotaan",
+    "Membership plans",
     "Kimi Claw",
-    "Mengunduh Slides",
-    "Kesalahan API"
+    "Slides download",
+    "API errors"
   ],
-  "search_placeholder": "Tidak bisa mengunduh PPT/Word/Excel dari chat?",
+  "search_placeholder": "Can't download PPT/Word/Excel from chat?",
   "field_definitions": {
     "extract_headings": {
       "type": "boolean",
       "default": false,
-      "description": "Apakah akan mengekstrak heading ## ke halaman daftar artikel sebagai sub-item yang dapat diperluas. true = artikel FAQ; false = artikel panduan"
+      "description": "Whether to extract ## headings to the article list page as expandable sub-items. true = FAQ articles; false = guide articles"
     }
   }
 }

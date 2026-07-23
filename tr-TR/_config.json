@@ -1,10 +1,10 @@
 {
   "title": "Kimi Yardım Merkezi",
-  "description": "Kimi hakkında bilmeniz gereken her şey burada — rehberler, özellikler, API belgeleri ve dahası",
+  "description": "Kimi hakkında bilmeniz gereken her şeyi bulun — kılavuzlar, özellikler, API dokümanları ve daha fazlası",
   "hot_questions": [
     "Üyelik planları",
     "Kimi Claw",
-    "Slides indirme",
+    "Slayt indirme",
     "API hataları"
   ],
   "search_placeholder": "Sohbetten PPT/Word/Excel indiremiyor musunuz?",
@@ -12,7 +12,7 @@
     "extract_headings": {
       "type": "boolean",
       "default": false,
-      "description": "## başlıklarının makale liste sayfasına genişletilebilir alt öğeler olarak çıkarılıp çıkarılmayacağı. true = SSS makaleleri; false = rehber makaleleri"
+      "description": "## başlıklarının makale listesi sayfasında genişletilebilir alt öğeler olarak çıkarılıp çıkarılmayacağı. true = SSS makaleleri; false = kılavuz makaleleri"
     }
   }
 }

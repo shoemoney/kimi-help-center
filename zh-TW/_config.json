@@ -1,18 +1,18 @@
 {
-  "title": "Kimi 幫助中心",
-  "description": "查找你需要了解的所有 Kimi 相關資訊——指南、功能、API 文件等",
+  "title": "Kimi 帮助中心",
+  "description": "在这里你可以找到关于 Kimi 的所有帮助信息",
   "hot_questions": [
-    "會員方案",
+    "会员权益",
     "Kimi Claw",
-    "下載幻燈片",
-    "API 錯誤"
+    "PPT下载",
+    "调用API报错"
   ],
-  "search_placeholder": "無法從聊天下載 PPT/Word/Excel？",
+  "search_placeholder": "会话中的 PPT/Word/Excel 怎么无法下载?",
   "field_definitions": {
     "extract_headings": {
       "type": "boolean",
       "default": false,
-      "description": "是否將 ## 標題提取到文章列表頁，作為可展開的子項目。true = FAQ 文章；false = 指南文章"
+      "description": "是否抽取文章中的 ## 标题到二级文章列表页作为可展开子项。true=FAQ类文章，## 标题在列表页外显为子项；false=介绍类文章，## 标题仅在详情页右侧目录显示"
     }
   }
 }

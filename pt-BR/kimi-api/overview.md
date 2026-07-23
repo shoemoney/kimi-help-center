@@ -4,38 +4,38 @@ slug: "api-overview"
 order: 1
 extract_headings: false
 preview: true
-preview_content: "Comece a usar a plataforma da Kimi API para geração de texto, conversas, análise de arquivos e busca na web."
+preview_content: "Comece a usar a plataforma Kimi API para geração de texto, conversas, análise de arquivos e Web Search."
 ---
 
 <SeoMeta
   title="Visão geral da Kimi API - Central de Ajuda Kimi"
-  description="Comece a usar a plataforma da Kimi API para geração de texto, conversas, análise de arquivos e busca na web."
+  description="Comece a usar a plataforma Kimi API para geração de texto, conversas, análise de arquivos e Web Search."
 />
 
 # Visão geral da Kimi API
 
-A plataforma da Kimi API oferece a desenvolvedores recursos avançados de grandes modelos de linguagem, ajudando você a integrar IA aos seus produtos e serviços com rapidez.
+A plataforma Kimi API oferece aos desenvolvedores recursos avançados de modelos de linguagem de grande porte, ajudando você a integrar AI rapidamente aos seus produtos e serviços.
 
 ## Visão geral da plataforma
 
-A Kimi API é movida pelos grandes modelos de linguagem próprios da Moonshot, oferecendo geração de texto, conversas de múltiplos turnos, análise de arquivos, busca na web e outros recursos essenciais. A plataforma é compatível com o formato da OpenAI API, permitindo que desenvolvedores migrem e integrem com o mínimo de esforço.
+A Kimi API é impulsionada pelos modelos de linguagem de grande porte proprietários da Moonshot, com recursos essenciais como geração de texto, conversas em múltiplas rodadas, análise de arquivos, Web Search e muito mais. A plataforma é compatível com o formato da OpenAI API, permitindo que desenvolvedores migrem e integrem com o mínimo de esforço.
 
 **URL da plataforma**: [platform.kimi.ai](https://platform.kimi.ai)
 
 ## Público-alvo
 
-- **Desenvolvedores independentes**: crie rapidamente projetos e ferramentas pessoais com tecnologia de IA.
-- **Equipes de engenharia corporativas**: incorpore recursos de IA aos produtos da empresa para aprimorar a experiência do usuário e a eficiência operacional.
-- **Startups**: acesse recursos de IA de ponta a baixo custo para acelerar a iteração de produtos.
+- **Desenvolvedores independentes**: Crie rapidamente projetos e ferramentas pessoais com AI.
+- **Equipes de engenharia corporativas**: Incorpore recursos de AI a produtos empresariais para melhorar a experiência do usuário e a eficiência operacional.
+- **Startups**: Acesse recursos de AI de ponta a baixo custo para acelerar a iteração do produto.
 
 ## Principais casos de uso
 
-- **Atendimento inteligente ao cliente**: respostas automatizadas e sensíveis ao contexto para aumentar a eficiência do suporte e a satisfação dos clientes.
-- **Geração de conteúdo**: redação de artigos, textos de marketing, geração de código e outros fluxos de trabalho criativos.
-- **Análise de dados**: interpretação de documentos, análise de relatórios, extração de conhecimento e resumos.
-- **Perguntas e respostas sobre conhecimento**: sistemas inteligentes de busca e perguntas e respostas alimentados por repositórios de documentos privados.
+- **Atendimento inteligente ao cliente**: Perguntas e respostas automatizadas com consciência de contexto para aumentar a eficiência do suporte e a satisfação dos clientes.
+- **Geração de conteúdo**: Redação de artigos, textos de marketing, geração de código e outros fluxos de trabalho criativos.
+- **Análise de dados**: Interpretação de documentos, análise de relatórios, extração de conhecimento e resumos.
+- **Perguntas e respostas sobre conhecimento**: Sistemas inteligentes de recuperação e resposta a perguntas baseados em repositórios privados de documentos.
 
-## Início rápido
+## Primeiros passos
 
 1. Acesse [platform.kimi.ai](https://platform.kimi.ai) para registrar uma conta de desenvolvedor.
 2. Crie uma API Key no console.

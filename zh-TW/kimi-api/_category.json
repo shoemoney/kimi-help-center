@@ -1,11 +1,11 @@
 {
-  "title": "Kimi API",
-  "description": "Kimi API 的使用方式、身份驗證、錯誤疑難排解與定價",
+  "title": "Kimi API 與企業合作",
+  "description": "API 介面說明、模型與定價、聯絡銷售團隊",
   "seo": {
-    "title": "Kimi API",
-    "description": "Kimi API 的使用方式、身份驗證、錯誤疑難排解與定價"
+    "title": "Kimi API 與企業合作",
+    "description": "API 介面說明、模型與定價、聯絡銷售團隊"
   },
   "icon": "api",
   "order": 12,
-  "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
+  "note": "每篇 md 的 front matter 中，透過 extract_headings: true/false 控制是否在列表頁展開 ## 標題"
 }

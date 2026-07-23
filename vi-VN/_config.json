@@ -1,18 +1,18 @@
 {
-  "title": "Trung tâm trợ giúp Kimi",
-  "description": "Tìm mọi thông tin bạn cần về Kimi — hướng dẫn, tính năng, tài liệu API và nhiều nội dung khác",
+  "title": "Kimi Help Center",
+  "description": "Find everything you need to know about Kimi — guides, features, API docs, and more",
   "hot_questions": [
-    "Các gói thành viên",
+    "Membership plans",
     "Kimi Claw",
-    "Tải xuống Slides",
-    "Lỗi API"
+    "Slides download",
+    "API errors"
   ],
-  "search_placeholder": "Không tải được PPT/Word/Excel từ cuộc trò chuyện?",
+  "search_placeholder": "Can't download PPT/Word/Excel from chat?",
   "field_definitions": {
     "extract_headings": {
       "type": "boolean",
       "default": false,
-      "description": "Có trích xuất các tiêu đề ## ra trang danh sách bài viết dưới dạng mục con có thể mở rộng hay không. true = bài viết FAQ; false = bài viết hướng dẫn"
+      "description": "Whether to extract ## headings to the article list page as expandable sub-items. true = FAQ articles; false = guide articles"
     }
   }
 }

@@ -7,32 +7,32 @@ preview: false
 ---
 
 <SeoMeta
-  title="API-Fehlercodes - Kimi Hilfecenter"
-  description="Häufige Fehlercodes bei der Nutzung der Kimi API und ihre Behebung."
+  title="API-Fehlercodes - Kimi Help Center"
+  description="Häufige Fehlercodes beim Aufruf der Kimi API und wie Sie sie beheben."
 />
 
 # API-Fehlercodes
 
 <Callout type="info">
-Häufige Fehlercodes bei der Nutzung der Kimi API und ihre Behebung.
+Häufige Fehlercodes beim Aufruf der Kimi API und wie Sie sie beheben.
 </Callout>
 
-## Referenz der Fehlercodes
+## Fehlercode-Referenz
 
-| Fehlercode | Bedeutung | Behebung |
+| Fehlercode | Bedeutung | Lösung |
 | --- | --- | --- |
-| 400 | Bad Request | Format des Anfragetexts sowie Parameternamen und -typen prüfen. Häufige Ursachen: fehlerhaftes JSON, fehlende Pflichtparameter, Werte außerhalb des zulässigen Bereichs. |
-| 401 | Unauthorized | Sicherstellen, dass der API Key korrekt, nicht abgelaufen und nicht deaktiviert ist. Header-Format prüfen: `Authorization: Bearer <your-api-key>`. |
-| 403 | Forbidden (insufficient balance) | Kontoguthaben aufgebraucht – in der Konsole aufladen. Möglicherweise ist das Konto auch eingeschränkt; wenden Sie sich bei Bedarf an den Support. |
-| 404 | Not Found | URL-Pfad der Anfrage und Modellnamen prüfen. Sicherstellen, dass der Endpunkt `https://api.moonshot.ai/v1/...` lautet. |
-| 429 | Too Many Requests | Rate Limit überschritten. Frequenz verringern, exponentielles Backoff einsetzen oder den Support für höhere Limits kontaktieren. |
-| 500 | Internal Server Error | Vorübergehendes Serverproblem – später erneut versuchen. Falls es weiterhin auftritt, wenden Sie sich mit der `request_id` an support@moonshot.ai. |
+| 400 | Ungültige Anfrage | Prüfen Sie Format des Anfrage-Bodys, Parameternamen und Typen. Häufige Ursachen: fehlerhaftes JSON, fehlende Pflichtparameter, Werte außerhalb des zulässigen Bereichs. |
+| 401 | Nicht autorisiert | Stellen Sie sicher, dass der API-Schlüssel korrekt, nicht abgelaufen und nicht deaktiviert ist. Prüfen Sie das Header-Format: `Authorization: Bearer <your-api-key>`. |
+| 403 | Verboten (Insufficient Balance) | Das Kontoguthaben ist aufgebraucht — laden Sie es in der Konsole auf. Das Konto kann auch eingeschränkt sein; wenden Sie sich bei Bedarf an den Support. |
+| 404 | Nicht gefunden | Prüfen Sie den URL-Pfad der Anfrage und den Modellnamen. Stellen Sie sicher, dass der Endpunkt `https://api.moonshot.ai/v1/...` lautet. |
+| 429 | Too Many Requests | Das rate limit wurde überschritten. Reduzieren Sie die Häufigkeit, implementieren Sie exponentielles Backoff oder wenden Sie sich an den Support, um höhere Limits zu erhalten. |
+| 500 | Internal Server Error | Vorübergehendes Serverproblem — versuchen Sie es später erneut. Falls der Fehler weiterhin auftritt, wenden Sie sich mit der `request_id` an support@moonshot.ai. |
 
-## Allgemeine Tipps zur Fehlersuche
+## Allgemeine Tipps zur Fehlerbehebung
 
 <Callout type="tip">
-1. **Vollständige Fehlermeldung prüfen**: Das Antwort-JSON enthält unter `error.message` eine ausführliche Beschreibung.
-2. **request_id notieren**: Hilft dem Support, das Problem schnell einzugrenzen.
+1. **Vollständige Fehlermeldung prüfen**: Das Antwort-JSON enthält `error.message` mit einer detaillierten Beschreibung.
+2. **request_id notieren**: Hilft dem Support, das Problem schnell zu finden.
 3. **Offizielle Dokumentation heranziehen**: Stellen Sie sicher, dass Ihre Aufrufe der Dokumentation unter [platform.kimi.ai](https://platform.kimi.ai) entsprechen.
-4. **Wiederholungslogik einbauen**: Setzen Sie bei den Fehlern 429 und 500 exponentielles Backoff ein.
+4. **Wiederholungslogik implementieren**: Verwenden Sie bei 429- und 500-Fehlern exponentielles Backoff.
 </Callout>

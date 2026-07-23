@@ -1,72 +1,68 @@
 ---
-title: "余额与用量"
+title: "余额与消耗查询"
 slug: "api-balance-and-usage"
 order: 4
 extract_headings: false
-preview: false
+preview: true
+preview_content: "了解如何查询 API 账户余额、消耗明细并估算用量。"
 ---
 
 <SeoMeta
-  title="余额与用量 - Kimi 帮助中心"
-  description="Kimi API 提供多种方式查看账户余额与用量明细，帮助你跟踪消耗和费用。"
+  title="如何查看 Kimi API 余额和用量？ - Kimi 帮助中心"
+  description="了解如何在 Kimi 开放平台查看 API 账户余额、历史用量和消费明细，掌握额度使用情况，并及时充值以避免服务中断。"
 />
 
-# 余额与用量
+# 余额与消耗查询
 
-Kimi API 提供多种方式查看账户余额与用量明细，帮助你跟踪消耗和费用。
+Kimi API 提供多种方式查看账户余额和消耗明细，帮助你掌握用量与成本。
 
-## 控制台概览
+## 在控制台查看
 
-登录 [platform.kimi.ai](https://platform.kimi.ai)，进入控制台中的 **fee-detail**（费用明细）页面，即可查看：
+登录 [platform.kimi.com/](https://platform.kimi.com/)，在控制台的 **fee-detail**（费用明细）页面可以查看：
 
-- 当前账户余额
-- 每日用量明细
-- 各模型用量和费用
-- 历史支出趋势
+- 账户当前余额
+- 每日消耗明细
+- 各模型的用量和费用
+- 历史消费趋势
 
 <Callout type="info">
-每日账单会在次日 **7:00 AM** 前更新。实时用量数据可能略有延迟。
+**注意**：当日账单将于**次日 7:00** 更新。实时消耗数据可能会有一定延迟。
 </Callout>
 
-> **注意**：每日账单会在次日 **7:00 AM** 前更新。实时用量数据可能略有延迟。
+## Token 估算接口
 
-## Token 估算 API
-
-发送请求前，你可以使用 Token 估算 API 预估本次调用将消耗多少 token，便于控制成本。
+发送请求前，你可以使用 Token 估算接口预估本次调用将消耗的 token 数量，便于控制成本。
 
 <CodePreview
   files={[
     {
-      name: "prompt.txt",
-      language: "text",
-      content: "POST https://api.moonshot.ai/v1/tokenizers/estimate-token-count",
+      name: "command.sh",
+      language: "bash",
+      content: "POST https://api.moonshot.cn/v1/tokenizers/estimate-token-count",
     },
   ]}
 />
 
-传入与 Chat Completion 请求相同的 `messages` 格式，API 将返回预估的 token 数量。
+在请求体中传入与 Chat Completion 相同格式的 messages，接口会返回预估的 token 数量。
 
-## 余额查询 API
+## 余额查询接口
 
-你可以通过 API 直接查询当前账户余额：
+你也可以通过 API 直接查询当前账户余额：
 
 <CodePreview
   files={[
     {
-      name: "prompt.txt",
-      language: "text",
-      content: "GET https://api.moonshot.ai/v1/users/me/balance",
+      name: "command.sh",
+      language: "bash",
+      content: "GET https://api.moonshot.cn/v1/users/me/balance",
     },
   ]}
 />
 
-在请求头中携带你的 API 密钥，即可获取可用余额。
+在请求头中携带你的 API Key，即可获取当前可用余额信息。
 
 ## 用量监控建议
 
-<Callout type="tip">
-**最佳实践**：
-- 定期查看 fee-detail 页面，监控支出趋势
-- 集成余额查询 API，并设置余额提醒阈值
-- 在关键调用前使用 Token 估算 API，预估费用
-</Callout>
+- 定期查看 fee-detail 页面，关注消耗趋势。
+- 在代码中集成余额查询接口，并设置余额预警阈值。
+- 在关键调用前使用 Token 估算接口预估成本。

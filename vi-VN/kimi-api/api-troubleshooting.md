@@ -8,91 +8,91 @@ preview: false
 
 <SeoMeta
   title="Khắc phục sự cố API - Trung tâm trợ giúp Kimi"
-  description="Các sự cố thường gặp và giải pháp dành cho lập trình viên sử dụng Kimi API."
+  description="Các vấn đề thường gặp và cách khắc phục dành cho nhà phát triển sử dụng Kimi API."
 />
 
 # Khắc phục sự cố API
 
 <Callout type="info">
-Các sự cố thường gặp và giải pháp dành cho lập trình viên sử dụng Kimi API.
+Các vấn đề thường gặp và cách khắc phục dành cho nhà phát triển sử dụng Kimi API.
 </Callout>
 
-## Xử lý lỗi rate limit 429 như thế nào?
+## Xử lý lỗi 429 rate limit như thế nào?
 
-Lỗi 429 nghĩa là tần suất gửi yêu cầu của bạn đã vượt quá rate limit hiện tại của tài khoản. Cách khắc phục:
+Lỗi 429 cho biết tần suất yêu cầu của bạn đã vượt quá rate limit hiện tại của tài khoản. Cách khắc phục:
 
-- Áp dụng chiến lược thử lại với độ trễ tăng dần theo cấp số nhân (chờ 1 giây, 2 giây, 4 giây… trước mỗi lần thử lại).
-- Kiểm soát số lượng yêu cầu đồng thời bằng cơ chế hàng đợi.
-- Tăng tổng số tiền nạp tích lũy để nâng bậc rate limit.
-- Liên hệ đội ngũ kinh doanh nếu bạn cần tín dụng cao hơn.
+- Triển khai chiến lược thử lại theo cơ chế lùi hàm mũ (chờ 1 giây, 2 giây, 4 giây… trước khi thử lại).
+- Kiểm soát số lượng yêu cầu concurrent bằng cơ chế hàng đợi.
+- Tăng tổng số tiền nạp lũy kế để nâng cấp bậc rate limit.
+- Liên hệ đội ngũ kinh doanh nếu bạn cần quota cao hơn.
 
 ## Xử lý lỗi xác thực 401 như thế nào?
 
-Lỗi 401 nghĩa là việc xác thực API Key đã thất bại. Hãy kiểm tra những điểm sau:
+Lỗi 401 cho biết xác thực khóa API thất bại. Hãy kiểm tra các điểm sau:
 
-- Đảm bảo API Key được sao chép chính xác (lưu ý khoảng trắng ở đầu/cuối).
-- Kiểm tra định dạng tiêu đề yêu cầu là `Authorization: Bearer <your-api-key>`.
-- Xác nhận API Key chưa bị xóa hoặc vô hiệu hóa — hãy kiểm tra trong console.
-- Đảm bảo bạn không dùng key của nền tảng khác (API Key của Kimi luôn bắt đầu bằng `sk-`).
+- Đảm bảo khóa API đã được sao chép chính xác (chú ý khoảng trắng ở đầu/cuối).
+- Kiểm tra định dạng header yêu cầu là `Authorization: Bearer <your-api-key>`.
+- Xác nhận khóa API chưa bị xóa hoặc vô hiệu hóa — hãy kiểm tra trong bảng điều khiển.
+- Đảm bảo bạn không dùng khóa từ nền tảng khác (khóa Kimi API bắt đầu bằng `sk-`).
 
 <Callout type="warning">
-**Định dạng API Key**: API Key của Kimi luôn bắt đầu bằng `sk-`. Hãy chắc chắn bạn đang dùng đúng định dạng key.
+**Định dạng khóa API**: Khóa Kimi API bắt đầu bằng `sk-`. Hãy đảm bảo bạn đang dùng đúng định dạng khóa.
 </Callout>
 
 ## Tải tệp lên có bị tính phí không?
 
-Việc tải tệp lên không mất phí. Tuy nhiên, khi bạn tham chiếu một tệp đã tải lên trong cuộc trò chuyện, nội dung của tệp sẽ được phân tích thành token và tính phí như input token. Tệp càng lớn thì càng sinh ra nhiều token.
+Bản thân việc tải tệp lên là miễn phí. Tuy nhiên, khi bạn tham chiếu một tệp đã tải lên trong cuộc trò chuyện, nội dung của tệp sẽ được phân tích thành token và tính phí như token đầu vào. Tệp càng lớn thì càng tạo ra nhiều token.
 
-## Xử lý lỗi insufficient balance 403 như thế nào?
+## Xử lý lỗi 403 Insufficient Balance như thế nào?
 
-Lỗi 403 thường cho thấy tài khoản không đủ số dư. Hãy nạp tiền trong console — số dư sẽ khả dụng ngay lập tức. Bạn cũng có thể dùng API truy vấn số dư để kiểm tra số dư hiện tại.
+Lỗi 403 thường cho biết số dư tài khoản không đủ. Hãy nạp tiền trong bảng điều khiển — tiền sẽ có hiệu lực ngay lập tức. Bạn cũng có thể dùng API truy vấn số dư để kiểm tra số dư hiện tại.
 
-## Phải làm gì khi phản hồi bị cắt cụt?
+## Nếu phản hồi bị cắt ngắn thì sao?
 
-Nếu phản hồi từ API không đầy đủ hoặc bị cắt cụt:
+Nếu phản hồi API không đầy đủ hoặc bị cắt ngắn:
 
-- Kiểm tra xem tham số `max_tokens` có bị đặt quá thấp không và tăng lên nếu cần.
-- Xem trường `finish_reason` trong phản hồi: `length` nghĩa là đầu ra bị cắt do giới hạn token; `stop` nghĩa là hoàn tất bình thường.
-- Với việc tạo văn bản dài, hãy cân nhắc chia yêu cầu thành nhiều phần.
+- Kiểm tra xem tham số `max_tokens` có được đặt quá thấp hay không và tăng lên khi cần.
+- Xem trường `finish_reason` trong phản hồi: `length` nghĩa là đầu ra bị cắt do giới hạn token; `stop` nghĩa là đã hoàn tất bình thường.
+- Với tác vụ tạo văn bản dài, hãy cân nhắc chia yêu cầu thành nhiều phần.
 
 <Callout type="tip">
-**Kiểm tra `finish_reason`**: `length` = bị cắt cụt, `stop` = hoàn tất bình thường.
+**Kiểm tra `finish_reason`**: `length` = bị cắt ngắn, `stop` = hoàn tất bình thường.
 </Callout>
 
-## Tôi có thể tải ảnh lên qua API tệp không?
+## Có thể tải hình ảnh lên qua file API không?
 
-Có. API tải tệp lên hỗ trợ các tệp ảnh. Sau khi tải lên, ảnh có thể được tham chiếu trong cuộc trò chuyện. Với các mô hình Vision, bạn còn có thể truyền ảnh trực tiếp trong tin nhắn qua URL hoặc mã hóa Base64.
+Có. API tải tệp lên hỗ trợ tệp hình ảnh. Sau khi tải lên, hình ảnh có thể được tham chiếu trong cuộc trò chuyện. Với các mô hình Vision, bạn cũng có thể truyền hình ảnh trực tiếp trong tin nhắn qua URL hoặc mã hóa Base64.
 
-## Nguồn dữ liệu của web search?
+## Nguồn cho Web Search?
 
-Tính năng web search của Kimi API truy xuất thông tin công khai trên internet theo thời gian thực. Kết quả được lấy từ các trang web đã được những công cụ tìm kiếm lớn lập chỉ mục. Mỗi lần gọi web search sẽ chịu phụ phí 0,004 USD.
+Tính năng Web Search của Kimi API truy xuất thông tin công khai trên internet theo thời gian thực. Kết quả được lấy từ các trang web do các công cụ tìm kiếm lớn lập chỉ mục. Mỗi lần gọi Web Search sẽ phát sinh thêm phí $0.004.
 
-## Quyền lợi thành viên Kimi có liên quan đến concurrency của API không?
+## Gói thành viên Kimi có liên quan đến API concurrency không?
 
 <Callout type="warning">
-**Các gói thành viên Kimi** (chẳng hạn Allegretto) và **API** là hai hệ thống tính phí tách biệt. Mức song song của agent đi kèm trong gói thành viên chỉ áp dụng cho các sản phẩm tiêu dùng của Kimi và không liên quan đến rate limit của API. Giới hạn concurrency của API được xác định theo bậc nạp tiền tích lũy của tài khoản bạn.
+**Các gói thành viên Kimi** (chẳng hạn Allegretto) và **API** là hai hệ thống thanh toán riêng biệt. Khả năng chạy agent song song trong gói thành viên chỉ áp dụng cho các sản phẩm Kimi dành cho người dùng phổ thông và không liên quan đến API rate limit. Giới hạn API concurrency được xác định theo bậc nạp tiền lũy kế của tài khoản.
 </Callout>
 
 ## Khác biệt giữa API và ứng dụng web Kimi
 
 | Khía cạnh | Ứng dụng web Kimi | Kimi API |
 | --- | --- | --- |
-| **Đối tượng** | Sản phẩm trò chuyện hướng đến người dùng cuối | Giao diện tích hợp hướng đến lập trình viên |
-| **Cách truy cập** | Qua trình duyệt | Gọi API bằng mã chương trình |
-| **Tính phí** | Hệ thống thành viên/tín dụng | Trả theo mức dùng tính theo token |
-| **Tài khoản** | Đăng nhập dùng chung | Đăng nhập dùng chung |
-| **Tín dụng** | Không chuyển đổi được giữa hai hệ thống | Không chuyển đổi được giữa hai hệ thống |
+| **Đối tượng** | Sản phẩm trò chuyện dành cho người dùng phổ thông | Giao diện tích hợp dành cho nhà phát triển |
+| **Cách truy cập** | Qua trình duyệt | Gọi API bằng chương trình |
+| **Thanh toán** | Hệ thống thành viên/credit | Trả theo token sử dụng |
+| **Tài khoản** | Dùng chung đăng nhập | Dùng chung đăng nhập |
+| **Credit** | Không thể chuyển giữa các hệ thống | Không thể chuyển giữa các hệ thống |
 
-## Tạo PPT và deep research có khả dụng qua API không?
+## Có thể tạo PPT và dùng deep research qua API không?
 
 <Callout type="warning">
-**Tạo PPT** và **deep research** **chưa khả dụng qua API**. Hiện các tính năng này chỉ có thể sử dụng qua sản phẩm tiêu dùng Kimi. Hãy theo dõi các thông báo của nền tảng để cập nhật.
+**Tạo PPT** và **deep research** hiện **chưa khả dụng qua API**. Các tính năng này hiện chỉ có thể truy cập thông qua sản phẩm Kimi dành cho người dùng phổ thông. Hãy theo dõi thông báo của nền tảng để cập nhật.
 </Callout>
 
 ## Có hỗ trợ triển khai tại chỗ không?
 
-Kimi API hiện chỉ cung cấp dịch vụ API trên đám mây và **không hỗ trợ triển khai riêng tại chỗ**. Nếu có nhu cầu triển khai riêng, hãy liên hệ đội ngũ kinh doanh qua [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales).
+Kimi API hiện chỉ cung cấp dịch vụ API trên nền tảng đám mây và **không hỗ trợ triển khai riêng tại chỗ**. Nếu có nhu cầu triển khai riêng, hãy liên hệ đội ngũ kinh doanh qua [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales).
 
-## Tôi có thể gọi Kimi API từ ngoài Trung Quốc không?
+## Tôi có thể gọi Kimi API từ bên ngoài Trung Quốc không?
 
-Kimi API khả dụng trên toàn cầu qua `api.moonshot.ai`. Nếu bạn gặp sự cố kết nối, hãy liên hệ đội ngũ kinh doanh để bàn về giải pháp phù hợp nhất cho khu vực của bạn.
+Kimi API khả dụng trên phạm vi quốc tế qua `api.moonshot.ai`. Nếu gặp vấn đề kết nối, hãy liên hệ đội ngũ kinh doanh để thảo luận giải pháp phù hợp nhất cho khu vực của bạn.

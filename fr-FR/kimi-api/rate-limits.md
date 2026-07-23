@@ -7,37 +7,37 @@ preview: false
 ---
 
 <SeoMeta
-  title="Rate limits - Centre d'aide Kimi"
-  description="L'API Kimi applique des rate limits sur la fréquence des requêtes et la concurrency afin de garantir la stabilité de la plateforme et un usage équitable. Les paliers de rate limit dépendent du..."
+  title="Rate limits - Centre d’aide Kimi"
+  description="Kimi API applique des rate limits sur la fréquence des requêtes et la concurrency afin de garantir la stabilité de la plateforme et une utilisation équitable. Les niveaux de rate limit dépendent du montant cumulé de vos recharges..."
 />
 
 # Rate limits
 
-L'API Kimi applique des rate limit（limite de débit）s sur la fréquence des requêtes et la concurrency afin de garantir la stabilité de la plateforme et un usage équitable. Les paliers de rate limit dépendent du montant cumulé des recharges de votre compte.
+Kimi API applique des rate limits sur la fréquence des requêtes et la concurrency afin de garantir la stabilité de la plateforme et une utilisation équitable. Les niveaux de rate limit dépendent du montant cumulé des recharges de votre compte.
 
-## Paliers de rate limit
+## Niveaux de rate limit
 
-Les rate limits de l'API sont répartis en paliers selon le **montant cumulé des recharges** de votre compte : plus vous rechargez, plus vos rate limits sont élevés. Pour connaître les seuils de chaque palier ainsi que les limites RPM (requêtes par minute) et TPM (tokens par minute) correspondantes, consultez la console [platform.kimi.ai](https://platform.kimi.ai).
+Les rate limits de l’API sont organisés par niveaux, selon le **montant cumulé des recharges** de votre compte : plus vous rechargez, plus les rate limits disponibles sont élevés. Pour connaître les seuils précis de chaque niveau ainsi que les limites RPM (requêtes par minute) et TPM (tokens par minute) correspondantes, consultez la console [platform.kimi.ai](https://platform.kimi.ai).
 
-## Comment vérifier vos limites actuelles ?
+## Comment consulter vos limites actuelles ?
 
-- Connectez-vous à la console de l'API pour consulter votre palier de rate limit actuel.
-- Les en-têtes de réponse de l'API contiennent également des informations sur le rate limit :
-  - `X-RateLimit-Limit` : plafond du rate limit en vigueur
-  - `X-RateLimit-Remaining` : requêtes encore disponibles
-  - `X-RateLimit-Reset` : moment de réinitialisation de la limite
+- Connectez-vous à la console API pour voir votre niveau de rate limit actuel.
+- Les en-têtes de réponse de l’API contiennent également des informations sur les rate limits :
+  - `X-RateLimit-Limit`: Plafond actuel du rate limit
+  - `X-RateLimit-Remaining`: Requêtes encore disponibles
+  - `X-RateLimit-Reset`: Heure de réinitialisation de la limite
 
 ## Gérer les erreurs 429
 
-Lorsque la fréquence de vos requêtes dépasse la limite, l'API renvoie un code de statut 429. Voici les actions recommandées :
+Lorsque la fréquence de vos requêtes dépasse la limite, l’API renvoie un code d’état 429. Actions recommandées :
 
-1. **Mettre en place un backoff exponentiel** : attendez 1 seconde au départ, puis doublez le délai à chaque nouvelle tentative (2 s, 4 s, 8 s…).
-2. **Maîtriser la concurrency** : utilisez des files d'attente de requêtes ou des sémaphores pour limiter le nombre de requêtes simultanées.
-3. **Regrouper les requêtes** : combinez plusieurs petites requêtes en quelques requêtes plus volumineuses.
+1. **Mettre en place un backoff exponentiel** : attendez d’abord 1 seconde, puis doublez le délai à chaque nouvelle tentative (2s, 4s, 8s…).
+2. **Maîtriser la concurrency** : utilisez des files de requêtes ou des sémaphores pour limiter le nombre de requêtes simultanées.
+3. **Regrouper les requêtes** : combinez plusieurs petites requêtes en un nombre plus réduit de requêtes plus volumineuses.
 
 ## Demander des rate limits plus élevés
 
 Si les besoins de votre activité dépassent les rate limits actuels :
 
-- **Recharger pour passer au niveau supérieur** : augmentez le montant cumulé de vos recharges et le système relèvera automatiquement votre palier de rate limit.
-- **Contacter l'équipe commerciale** : pour des besoins particuliers, adressez-vous à l'équipe commerciale de la plateforme via [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) afin de demander un crédit personnalisé.
+- **Recharger pour passer au niveau supérieur** : augmentez le montant cumulé de vos recharges ; le système fera automatiquement passer votre compte au niveau de rate limit supérieur.
+- **Contacter l’équipe commerciale** : pour des besoins spécifiques, contactez l’équipe commerciale de la plateforme via [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) afin de demander une quota de rate limit personnalisée.

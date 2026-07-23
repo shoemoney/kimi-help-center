@@ -8,34 +8,34 @@ preview: false
 
 <SeoMeta
   title="API fiyatlandırması - Kimi Yardım Merkezi"
-  description="Kimi API, modele ve özelliğe özel fiyatlandırmayla token tüketimine göre ücretlendirilir."
+  description="Kimi API, model ve özellik bazlı fiyatlandırmayla token tüketimine göre ücretlendirilir."
 />
 
 # API fiyatlandırması
 
 <Callout type="info">
-Kimi API, modele ve özelliğe özel fiyatlandırmayla token tüketimine göre ücretlendirilir.
+Kimi API, model ve özellik bazlı fiyatlandırmayla token tüketimine göre ücretlendirilir.
 </Callout>
 
-## Ücretlendirmenin temelleri
+## Ücretlendirme temelleri
 
-- **Token başına ücretlendirme**: Her API çağrısı için giriş token'ları ve çıkış token'ları ayrı ayrı ücretlendirilir
+- **Token başına ücretlendirme**: Her API çağrısında giriş tokenları ve çıkış tokenları ayrı ayrı ücretlendirilir
 - **Token birimi**: 1M = 1.000.000 token
-- **Modele özel fiyatlandırma**: Daha yetenekli modellerde token başına maliyet daha yüksektir; kullanım senaryonuza en uygun modeli seçin
+- **Modele göre fiyatlandırma**: Daha yüksek kapasiteli modellerde token başına maliyet daha yüksektir — kullanım senaryonuza en uygun modeli seçin
 
 ## Ek özellik ücretlendirmesi
 
 | Özellik | Ek Ücret |
 | --- | --- |
-| **Web Search** | Çağrı başına 0,004 ABD doları (token tüketiminden bağımsız) |
+| **Web Search** | Çağrı başına $0.004 (token tüketiminden bağımsız) |
 
-## Bağlam önbellekleme
+## Bağlam önbelleğe alma
 
 <Callout type="tip">
-**Context Caching**, sık kullanılan bağlam içeriğini (sistem istemleri ve referans belgeleri gibi) önbelleğe almanızı sağlar. Önbelleğe isabet eden token'lar indirimli oranla ücretlendirilir ve böylece tekrar eden bağlamın maliyetini etkili biçimde düşürür.
+**Bağlam önbelleğe alma**, sık kullanılan bağlam içeriklerini (sistem promptları ve referans belgeleri gibi) önbelleğe almanızı sağlar. Önbelleğe isabet eden tokenlar indirimli tarifeyle ücretlendirilir; bu da tekrarlanan bağlamlarda maliyetleri etkili biçimde düşürür.
 </Callout>
 
-Context Caching fiyatlandırmasının ayrıntıları için resmi belgelere başvurun.
+Ayrıntılı bağlam önbelleğe alma fiyatlandırması için resmi belgelere bakın.
 
 ## Fiyatlandırma ayrıntıları
 
@@ -47,7 +47,7 @@ Eksiksiz model fiyatlandırma tablosu ve ücretlendirme kuralları için:
 
 <Callout type="tip">
 - Gereksiz uzun çıktıları önlemek için `max_tokens` parametresini uygun şekilde ayarlayın
-- Tekrar eden sistem istemleri ve bağlam için Context Caching kullanın
-- Görevin karmaşıklığına uygun modeli seçin; basit görevlerde hafif modelleri kullanın
-- Gereksiz giriş token'larını en aza indirmek için istem tasarımınızı sadeleştirin
+- Tekrarlanan sistem promptları ve bağlamlar için bağlam önbelleğe almayı kullanın
+- Görevin karmaşıklığına uygun modeli seçin — basit görevler için hafif modelleri kullanın
+- Gereksiz giriş tokenlarını en aza indirmek için prompt tasarımınızı sadeleştirin
 </Callout>

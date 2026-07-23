@@ -7,32 +7,32 @@ preview: false
 ---
 
 <SeoMeta
-  title="Bakiye & kullanım - Kimi Yardım Merkezi"
-  description="Kimi API, hesap bakiyenizi ve kullanım ayrıntılarınızı görüntülemeniz için birden fazla yöntem sunar; böylece tüketiminizi ve maliyetlerinizi kolayca takip edersiniz."
+  title="Bakiye ve kullanım - Kimi Yardım Merkezi"
+  description="Kimi API, hesap bakiyenizi ve kullanım ayrıntılarınızı görüntülemek için birden fazla yol sunarak tüketimi ve maliyetleri izlemenize yardımcı olur."
 />
 
 # Bakiye ve kullanım
 
-Kimi API, hesap bakiyenizi ve kullanım ayrıntılarınızı görüntülemeniz için birden fazla yöntem sunar; böylece tüketiminizi ve maliyetlerinizi kolayca takip edersiniz.
+Kimi API, hesap bakiyenizi ve kullanım ayrıntılarınızı görüntülemek için birden fazla yol sunarak tüketimi ve maliyetleri izlemenize yardımcı olur.
 
 ## Konsol panosu
 
-[platform.kimi.ai](https://platform.kimi.ai) adresinde oturum açın ve konsoldaki **fee-detail** (faturalandırma ayrıntıları) sayfasına giderek şunları görüntüleyin:
+[platform.kimi.ai](https://platform.kimi.ai) üzerinde oturum açın ve konsoldaki **fee-detail** (faturalandırma ayrıntıları) sayfasına giderek şunları görüntüleyin:
 
-- Güncel hesap bakiyesi
+- Mevcut hesap bakiyesi
 - Günlük kullanım dökümü
-- Modele göre kullanım ve maliyetler
+- Model bazında kullanım ve maliyetler
 - Geçmiş harcama eğilimleri
 
 <Callout type="info">
-Günlük faturalandırma, **ertesi gün saat 07.00'a kadar** güncellenir. Gerçek zamanlı kullanım verilerinde küçük bir gecikme olabilir.
+Günlük faturalandırma **ertesi gün saat 07.00’ye kadar** güncellenir. Gerçek zamanlı kullanım verilerinde küçük bir gecikme olabilir.
 </Callout>
 
-> **Not**: Günlük faturalandırma, **ertesi gün saat 07.00'a kadar** güncellenir. Gerçek zamanlı kullanım verilerinde küçük bir gecikme olabilir.
+> **Not**: Günlük faturalandırma **ertesi gün saat 07.00’ye kadar** güncellenir. Gerçek zamanlı kullanım verilerinde küçük bir gecikme olabilir.
 
-## Token Estimation API'si
+## Token Estimation API
 
-Bir istek göndermeden önce, çağrının kaç token tüketeceğini tahmin etmek için Token Estimation API'sini kullanabilirsiniz; bu, maliyet kontrolü için faydalıdır.
+İstek göndermeden önce, çağrının kaç token tüketeceğini tahmin etmek için Token Estimation API'yi kullanabilirsiniz — maliyet kontrolü için yararlıdır.
 
 <CodePreview
   files={[
@@ -44,11 +44,11 @@ Bir istek göndermeden önce, çağrının kaç token tüketeceğini tahmin etme
   ]}
 />
 
-Bir Chat Completion isteğiyle aynı `messages` biçimini iletin; API, tahmini token sayısını döndürür.
+Chat Completion isteğiyle aynı `messages` biçimini gönderin; API tahmini token sayısını döndürür.
 
 ## Bakiye sorgulama API'si
 
-Güncel hesap bakiyenizi doğrudan API üzerinden sorgulayın:
+Mevcut hesap bakiyenizi doğrudan API üzerinden sorgulayın:
 
 <CodePreview
   files={[
@@ -60,13 +60,13 @@ Güncel hesap bakiyenizi doğrudan API üzerinden sorgulayın:
   ]}
 />
 
-Kullanılabilir bakiyenizi almak için istek başlığına API anahtarınızı ekleyin.
+Kullanılabilir bakiyenizi almak için API anahtarınızı istek başlığına ekleyin.
 
-## Kullanım izleme ipuçları
+## Kullanımı izleme ipuçları
 
 <Callout type="tip">
-**En İyi Uygulamalar**:
+**En iyi uygulamalar**:
 - Harcama eğilimlerini izlemek için fee-detail sayfasını düzenli olarak kontrol edin
-- Bakiye sorgulama API'sini entegre edin ve bakiye uyarı eşikleri belirleyin
-- Kritik çağrılardan önce maliyetleri tahmin etmek için Token Estimation API'sini kullanın
+- Bakiye Sorgulama API'sini entegre edin ve bakiye uyarı eşikleri ayarlayın
+- Kritik çağrılardan önce maliyetleri tahmin etmek için Token Estimation API'yi kullanın
 </Callout>

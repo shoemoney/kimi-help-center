@@ -1,18 +1,18 @@
 {
-  "title": "Справочный центр Kimi",
-  "description": "Найдите всё, что нужно знать о Kimi: руководства, возможности, документацию API и многое другое",
+  "title": "Kimi Help Center",
+  "description": "Find everything you need to know about Kimi — guides, features, API docs, and more",
   "hot_questions": [
-    "Тарифы подписки",
+    "Membership plans",
     "Kimi Claw",
-    "Скачивание презентаций",
-    "Ошибки API"
+    "Slides download",
+    "API errors"
   ],
-  "search_placeholder": "Не получается скачать PPT/Word/Excel из чата?",
+  "search_placeholder": "Can't download PPT/Word/Excel from chat?",
   "field_definitions": {
     "extract_headings": {
       "type": "boolean",
       "default": false,
-      "description": "Извлекать ли заголовки ## на страницу списка статей как раскрываемые подпункты. true = статьи FAQ; false = статьи-руководства"
+      "description": "Whether to extract ## headings to the article list page as expandable sub-items. true = FAQ articles; false = guide articles"
     }
   }
 }

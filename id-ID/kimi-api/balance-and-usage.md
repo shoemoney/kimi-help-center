@@ -8,16 +8,16 @@ preview: false
 
 <SeoMeta
   title="Saldo & penggunaan - Pusat Bantuan Kimi"
-  description="Kimi API menyediakan beragam cara untuk melihat saldo akun dan detail penggunaan Anda, sehingga memudahkan pemantauan konsumsi dan biaya."
+  description="Kimi API menyediakan beberapa cara untuk melihat saldo akun dan detail penggunaan, sehingga Anda dapat memantau konsumsi dan biaya."
 />
 
 # Saldo & penggunaan
 
-Kimi API menyediakan beragam cara untuk melihat saldo akun dan detail penggunaan Anda, sehingga memudahkan pemantauan konsumsi dan biaya.
+Kimi API menyediakan beberapa cara untuk melihat saldo akun dan detail penggunaan, sehingga Anda dapat memantau konsumsi dan biaya.
 
 ## Dasbor konsol
 
-Masuk ke [platform.kimi.ai](https://platform.kimi.ai) dan buka halaman **fee-detail** (detail tagihan) di konsol untuk melihat:
+Masuk ke [platform.kimi.ai](https://platform.kimi.ai), lalu buka halaman **fee-detail** (detail penagihan) di konsol untuk melihat:
 
 - Saldo akun saat ini
 - Rincian penggunaan harian
@@ -25,14 +25,14 @@ Masuk ke [platform.kimi.ai](https://platform.kimi.ai) dan buka halaman **fee-det
 - Tren pengeluaran historis
 
 <Callout type="info">
-Tagihan harian diperbarui paling lambat **pukul 07.00 keesokan harinya**. Data penggunaan real-time mungkin sedikit tertunda.
+Penagihan harian diperbarui paling lambat **pukul 07.00 keesokan harinya**. Data penggunaan waktu nyata mungkin mengalami sedikit jeda.
 </Callout>
 
-> **Catatan**: Tagihan harian diperbarui paling lambat **pukul 07.00 keesokan harinya**. Data penggunaan real-time mungkin sedikit tertunda.
+> **Catatan**: Penagihan harian diperbarui paling lambat **pukul 07.00 keesokan harinya**. Data penggunaan waktu nyata mungkin mengalami sedikit jeda.
 
-## Token estimation API
+## API Token Estimation
 
-Sebelum mengirim permintaan, Anda dapat menggunakan Token Estimation API untuk memperkirakan berapa banyak token yang akan dikonsumsi oleh panggilan tersebut — berguna untuk mengontrol biaya.
+Sebelum mengirim permintaan, Anda dapat menggunakan API Token Estimation untuk memperkirakan berapa banyak token yang akan digunakan oleh panggilan tersebut — berguna untuk mengendalikan biaya.
 
 <CodePreview
   files={[
@@ -44,11 +44,11 @@ Sebelum mengirim permintaan, Anda dapat menggunakan Token Estimation API untuk m
   ]}
 />
 
-Kirimkan format `messages` yang sama seperti pada permintaan Chat Completion, dan API akan mengembalikan perkiraan jumlah token.
+Kirim format `messages` yang sama seperti pada permintaan Chat Completion, dan API akan mengembalikan estimasi jumlah token.
 
 ## API kueri saldo
 
-Mintai saldo akun Anda saat ini secara langsung melalui API:
+Kueri saldo akun Anda saat ini langsung melalui API:
 
 <CodePreview
   files={[
@@ -60,13 +60,13 @@ Mintai saldo akun Anda saat ini secara langsung melalui API:
   ]}
 />
 
-Sertakan API Key Anda di header permintaan untuk mengambil saldo yang tersedia.
+Sertakan kunci API Anda di header permintaan untuk mengambil saldo yang tersedia.
 
-## Tips pemantauan penggunaan
+## Kiat memantau penggunaan
 
 <Callout type="tip">
-**Praktik Terbaik**:
-- Periksa halaman fee-detail secara berkala untuk memantau tren pengeluaran
-- Integrasikan Balance Query API dan tetapkan ambang batas notifikasi saldo
-- Gunakan Token Estimation API sebelum panggilan penting untuk memperkirakan biaya
+**Praktik terbaik**:
+- Periksa halaman fee-detail secara rutin untuk memantau tren pengeluaran
+- Integrasikan Balance Query API dan tetapkan ambang peringatan saldo
+- Gunakan API Token Estimation sebelum panggilan penting untuk memperkirakan biaya
 </Callout>

@@ -1,18 +1,18 @@
 {
-  "title": "Centro de Ayuda de Kimi",
-  "description": "Encuentra todo lo que necesitas saber sobre Kimi: guías, funciones, documentación de la API y mucho más",
+  "title": "Kimi Help Center",
+  "description": "Find everything you need to know about Kimi — guides, features, API docs, and more",
   "hot_questions": [
-    "Planes de membresía",
+    "Membership plans",
     "Kimi Claw",
-    "Descarga de Slides",
-    "Errores de la API"
+    "Slides download",
+    "API errors"
   ],
-  "search_placeholder": "¿No puedes descargar PPT/Word/Excel desde el chat?",
+  "search_placeholder": "Can't download PPT/Word/Excel from chat?",
   "field_definitions": {
     "extract_headings": {
       "type": "boolean",
       "default": false,
-      "description": "Indica si se deben extraer los encabezados ## a la página de lista de artículos como subelementos expandibles. true = artículos de preguntas frecuentes; false = artículos de guía"
+      "description": "Whether to extract ## headings to the article list page as expandable sub-items. true = FAQ articles; false = guide articles"
     }
   }
 }

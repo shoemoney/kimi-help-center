@@ -68,6 +68,18 @@ If you need to quickly process some tasks, you can use the non-streaming mode of
 
 For all available models and their capabilities, see the [Model List](https://platform.kimi.ai/docs/models) page.
 
+## Compare with other Kimi products
+
+<Callout type="info">
+The Kimi API Open Platform uses pay-as-you-go billing with no subscription plan. It is different from products such as Kimi Membership and Kimi Code — please distinguish between them.
+</Callout>
+
+| Product | Overview | Billing |
+| --- | --- | --- |
+| Kimi API Open Platform (platform.kimi.ai) | An easy-to-use, stable, and cost-effective LLM API service for developers and enterprises, helping AI applications move quickly from development to deployment and scale. | Option 1: pay-as-you-go (create an API key after signing up). See the [Pricing](https://platform.kimi.ai/docs/pricing/chat) page for billing details.<br>Option 2: enterprise plans (submit [this form](https://platform.kimi.ai/contact-sales) to contact sales). |
+| Kimi Business | An intelligent office solution built for enterprise teams, suitable for small and medium-sized businesses with team collaboration needs. See [this page](https://www.kimi.ai/membership/pricing) for details. | Annual subscription. Seat requirements and pricing are subject to [this page](https://www.kimi.ai/membership/pricing). |
+| Kimi Membership | Kimi offers four membership subscription tiers, covering personal daily use through heavy professional use. See [this page](https://www.kimi.ai/membership/pricing) for details. Note: Kimi Membership currently includes [Kimi Code](https://www.kimi.com/code/docs/en/) benefits; the Kimi Code API is independent from the API service on this platform. | Monthly or annual subscription. Pricing is subject to [this page](https://www.kimi.ai/membership/pricing). |
+
 ## Quick start
 
 1. Visit [platform.kimi.ai](https://platform.kimi.ai/) to register a developer account.

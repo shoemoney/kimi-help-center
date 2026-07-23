@@ -1,5 +1,5 @@
 ---
-title: "农业银行 × Kimi 联名信用卡开卡礼活动 - 2026年7月10日"
+title: "农业银行 × Kimi 联名信用卡新客礼活动 - 2026年7月10日"
 slug: "abc-kimi-credit-card-activity"
 order: 3
 extract_headings: true
@@ -8,13 +8,20 @@ preview_content: "2026年7月10日至9月30日，首次办理并成功核发建�
 ---
 
 <SeoMeta
-  title="农业银行 × Kimi 联名信用卡开卡礼活动 - 2026年7月10日 - Kimi 帮助中心"
+  title="农业银行 × Kimi 联名信用卡新客礼活动 - 2026年7月10日 - Kimi 帮助中心"
   description="2026年7月10日至9月30日，首次办理并成功核发建账中国农业银行KIMI联名信用卡主卡的新客户，消费达标即可领取KIMI联名NFC毛绒挂件1个与KIMI Andante等级会员月卡3份。"
 />
 
-# 农业银行 × Kimi 联名信用卡开卡礼活动 - 2026年7月10日
+# 农业银行 × Kimi 联名信用卡新客礼活动 - 2026年7月10日
 
-农业银行与 Kimi 联合推出信用卡开卡礼活动。活动期间首次办理并成功核发建账中国农业银行KIMI联名信用卡主卡的新客户，消费达标即可领取限量新客礼。
+农业银行与 Kimi 联合推出信用卡新客礼活动。活动期间首次办理并成功核发建账中国农业银行KIMI联名信用卡主卡的新客户，消费达标即可领取限量新客礼。
+
+<Callout type="warning">
+农业银行与 Kimi 目前有两个不同的联名信用卡活动，请注意区分：
+
+- **本文活动：KIMI 联名信用卡新客礼活动**（[活动页面](https://www.abchina.com/cn/PersonalServices/ABCPromotion/National/xkl20260713.htm)）：面向首次办理并成功核发建账农行信用卡的 KIMI 联名信用卡主卡新客户，达标可领取 KIMI 联名 NFC 毛绒挂件 1 个与 **KIMI Andante 等级会员月卡 3 份**。
+- **另一活动：KIMI 联名信用卡（高端白金卡）开卡礼活动**（[活动页面](https://www.abchina.com/cn/PersonalServices/ABCPromotion/National/bjkkl20260713.htm)）：面向高端白金卡客户，达标可领取 **KIMI Allegretto 等级会员月卡**。
+</Callout>
 
 ## 一、活动时间
 
@@ -98,4 +105,4 @@ preview_content: "2026年7月10日至9月30日，首次办理并成功核发建�
 
 ---
 
-活动来源：[中国农业银行](https://www.abchina.com/cn/PersonalServices/ABCPromotion/National/bjkkl20260713.htm)
+活动来源：[中国农业银行](https://www.abchina.com/cn/PersonalServices/ABCPromotion/National/xkl20260713.htm)

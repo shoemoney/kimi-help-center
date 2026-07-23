@@ -1,5 +1,5 @@
 ---
-title: "农业银行 × Kimi 联名信用卡开卡礼活动"
+title: "农业银行 × Kimi 联名信用卡开卡礼活动 - 2026年7月10日"
 slug: "abc-kimi-credit-card-activity"
 order: 3
 extract_headings: true
@@ -8,11 +8,11 @@ preview_content: "2026年7月10日至9月30日，首次办理农业银行KIMI联
 ---
 
 <SeoMeta
-  title="农业银行 × Kimi 联名信用卡开卡礼活动 - Kimi 帮助中心"
+  title="农业银行 × Kimi 联名信用卡开卡礼活动 - 2026年7月10日 - Kimi 帮助中心"
   description="2026年7月10日至9月30日，首次办理农业银行KIMI联名信用卡（高端白金卡）主卡，消费达标即可领取KIMI联名NFC毛绒挂件与Kimi Allegretto会员月卡。"
 />
 
-# 农业银行 × Kimi 联名信用卡开卡礼活动
+# 农业银行 × Kimi 联名信用卡开卡礼活动 - 2026年7月10日
 
 农业银行与 Kimi 联合推出信用卡开卡礼活动。活动期间首次办理农业银行KIMI联名信用卡（高端白金卡）主卡的用户，消费达标即可领取限量开卡礼。
 

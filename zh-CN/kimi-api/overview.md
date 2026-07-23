@@ -61,6 +61,18 @@ Kimi API 基于 Moonshot 自研大语言模型，提供文本生成、多轮对�
 
 如果是为了快速处理一些任务，你可以使用 Chat Completions API 的非 streaming 模式。这种模式下，我们会在一次请求中返回所有的生成文本。如果你需要更多的控制，你可以使用 streaming 模式。在这种模式下，我们会返回一个 SSE 流，你可以在这个流中获取生成的文本，这样用户体验可能会更好，并且你也可以在任何时候中断请求，而不会浪费资源。
 
+## 与 Kimi 其他产品对比
+
+<Callout type="info">
+Kimi API 开放平台是按量计费模式、无订阅制方案，与 Kimi 会员、Kimi Code 等产品不同，请注意区分。
+</Callout>
+
+| 产品 | 简介 | 付费模式 |
+| --- | --- | --- |
+| Kimi API 开放平台（platform.kimi.com） | 面向开发者和企业用户，提供易用、稳定、高性价比的大模型 API 服务，助力 AI 应用快速开发、部署与规模化落地。 | 方式一：按量付费（注册登录后创建 API key 即可使用），计费说明见 [产品定价](https://platform.kimi.com/docs/pricing/chat) 页面。<br>方式二：企业方案（填写 [该表单](https://platform.kimi.com/contact-sales) 咨询销售人员）。 |
+| Kimi Business | 专为企业团队打造的智能办公解决方案，适合有团队协作需求的中小型企业。详情见 [Kimi Business 介绍](https://www.kimi.com/zh-cn/help/kimi-business/kimi-business)。 | 按年度订阅付费，5 座起售。具体价格以 [该页面](https://www.kimi.com/zh-cn/help/kimi-business/kimi-business) 为准。 |
+| Kimi 会员 | Kimi 提供四档会员订阅套餐，满足从个人日常到专业重度使用的不同需求。详情见 [Kimi 会员介绍](https://www.kimi.com/zh-cn/help/membership/membership-overview)。注意：Kimi 会员目前包含 [Kimi Code](https://www.kimi.com/code/docs/) 相关权益，Kimi Code API 与本平台提供的 API 服务相互独立。 | 按月/年订阅付费，具体价格以 [该页面](https://www.kimi.com/membership/pricing) 为准。 |
+
 ## 快速开始
 
 1. 访问 [platform.kimi.com](https://platform.kimi.com/) 注册开发者账号。

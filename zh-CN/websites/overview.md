@@ -72,7 +72,7 @@ Kimi Websites 生成的网站涵盖：
 
 iOS/Android/鸿蒙 均有官方 App（应用名"Kimi"），在输入框上方，点击工具栏（Taskbar）→ 切换至网站（Websites）模式，内含多模态生成工具与 Agent 功能，可进行视觉输入并生成前端代码。
 
-### 方法三：通用 Agent模式
+### 方法三：通用 Agent 模式
 在通用 Agent 模式下，输入建站任务需求
 
 <Frames

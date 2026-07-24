@@ -33,8 +33,9 @@ Henüz bir OpenClaw'unuz yok mu? Bir tane oluşturmak için [kimi.com/bot](https
 
 </Callout>
 
-- Kimi, K3 modelini otomatik olarak sağlar, Kimi Code kredilerinizi bağlar ve Kimi Web Search'ü etkinleştirir — ayrıca API yapılandırması gerekmez.
+- Kimi otomatik olarak **Kimi K2.6 modelini** yapılandırır, **Kimi üyelik kredilerinizi** bağlar ve Kimi Web Search'ü etkinleştirir — ayrıca API yapılandırması gerekmez.
 - Kimi Claw, doğrudan Telegram ve diğer sohbet platformlarına dağıtılabilir.
+- **Kimi K3** modeline geçmek isterseniz, Kimi Claw ayarlarından model yapılandırmasını değiştirebilir veya aşağıdaki gelişmiş yapılandırma bölümüne bakabilirsiniz.
 
 ## Başlarken
 
@@ -51,3 +52,39 @@ Daha önce kendi OpenClaw örneğinizi barındırdıysanız, Kimi eklentisini ku
 1. [kimi.com/bot](https://kimi.com/bot) adresine gidin ve **Mevcut OpenClaw'u Bağla** seçeneğini seçin
 2. Eklentiyi OpenClaw cihazınıza kurmak için yönergeleri izleyin
 3. Bağlantı kurulduğunda OpenClaw'unuzla Kimi üzerinden sohbet edebilirsiniz
+
+<a id="switch-to-k3"></a>
+## Kimi K3 modeline geçiş
+
+Kimi Claw varsayılan olarak Kimi K2.6 modelini kullanır. Kimi K3 kullanmak isterseniz, aşağıdaki komutla yerel OpenClaw yapılandırmanızı otomatik olarak değiştirebilirsiniz.
+
+```bash
+# 1. 备份当前配置
+cp /root/.openclaw/openclaw.json /root/.openclaw/openclaw.json.bak.k3
+
+# 2. 新增 k3 模型并切换默认模型（示例使用 jq）
+jq '
+  (.models.providers["kimi-coding"].models // .models.providers.kimi-coding.models) |= . + [{
+    "id": "k3",
+    "name": "k3",
+    "input": ["text", "image"],
+    "reasoning": true,
+    "contextWindow": 1048576,
+    "maxTokens": 65536
+  }]
+  | .agents.defaults.model.primary = "kimi-coding/k3"
+' /root/.openclaw/openclaw.json > /tmp/openclaw.json.tmp \
+  && mv /tmp/openclaw.json.tmp /root/.openclaw/openclaw.json
+
+# 3. 重启 OpenClaw
+openclaw gateway restart
+
+# 4. 验证
+session_status
+```
+
+Komutu çalıştırdıktan sonra `session_status` çıktısında `model` alanının `kimi-coding/k3` ve `context` üst sınırının `1.0m` olduğunu doğrulayın.
+
+<Callout type="warning">
+Yapılandırma dosyasının yolu kurulum şekline göre değişiklik gösterebilir; lütfen `/root/.openclaw/openclaw.json` yolunu kendi durumunuza göre değiştirin. Değişiklik yapmadan önce mutlaka yedek alın.
+</Callout>

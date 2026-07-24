@@ -31,7 +31,8 @@ If you do not yet have a local OpenClaw, go to the Kimi Claw page in the Kimi de
 One-click deployment sets up the following for you:
 
 - **Automatic deployment** — Kimi automatically deploys OpenClaw on your local machine. If you already have another OpenClaw installed locally, Kimi can also, with your authorization, remix the existing OpenClaw’s persona, Memory Space, and capabilities for easy one-click migration.
-- **Automatic model configuration** — Kimi automatically configures the Kimi model and links your Kimi Code membership benefit credits, so no separate API setup is required. It also configures the Kimi Web Search service to give the AI web search capabilities.
+- **Automatic model configuration** — Kimi automatically configures the **Kimi K2.6 model** and links your **Kimi membership benefit credits**, so no separate API setup is required. It also configures the Kimi Web Search service to give the AI web search capabilities.
+- To switch to the **Kimi K3** model, adjust the model configuration in Kimi Claw settings, or refer to [Switch to the Kimi K3 model](overview#switch-to-k3).
 - **Membership requirement** — One-click deployment is available only on Allegretto and higher plans.
 - **Quantity limit** — Currently, each account supports up to 1 Kimi Claw Desktop. If you switch devices and deploy a new Kimi Claw Desktop in the Kimi desktop client, follow the prompts at that time to unlink the Claw on your previous device.
 

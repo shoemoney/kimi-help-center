@@ -33,7 +33,8 @@ preview_content: "一鍵完成設定，在雲端部署並管理你自己的 Kimi
 
 </Callout>
 
-- Kimi 會自動配置 K3 模型、連接你的 Kimi Code 額度，並啟用 Kimi Web Search——無需另外設定 API。
+- Kimi 會自動配置 **Kimi K2.6 模型**，並關聯 **Kimi 會員權益額度**，無需額外配置 API。同時會自動配置 Kimi Web Search 服務，為 AI 提供聯網搜索能力。
+- 如需切換為 **Kimi K3** 模型，可在 Kimi Claw 設定中調整模型配置，或參考進階設定指南。
 - Kimi Claw 可直接部署到 Telegram 及其他聊天平台。
 
 ## 開始使用
@@ -51,3 +52,39 @@ preview_content: "一鍵完成設定，在雲端部署並管理你自己的 Kimi
 1. 前往 [kimi.com/bot](https://kimi.com/bot)，並選擇 **連結既有 OpenClaw**
 2. 依照指示在你的 OpenClaw 裝置上安裝 plugin
 3. 連接完成後，即可透過 Kimi 與你的 OpenClaw 聊天
+
+<a id="switch-to-k3"></a>
+## 切換為 Kimi K3 模型
+
+Kimi Claw 預設使用 Kimi K2.6 模型。如果你希望使用 Kimi K3，可以透過以下命令自動修改本機 OpenClaw 設定。
+
+```bash
+# 1. 备份当前配置
+cp /root/.openclaw/openclaw.json /root/.openclaw/openclaw.json.bak.k3
+
+# 2. 新增 k3 模型并切换默认模型（示例使用 jq）
+jq '
+  (.models.providers["kimi-coding"].models // .models.providers.kimi-coding.models) |= . + [{
+    "id": "k3",
+    "name": "k3",
+    "input": ["text", "image"],
+    "reasoning": true,
+    "contextWindow": 1048576,
+    "maxTokens": 65536
+  }]
+  | .agents.defaults.model.primary = "kimi-coding/k3"
+' /root/.openclaw/openclaw.json > /tmp/openclaw.json.tmp \
+  && mv /tmp/openclaw.json.tmp /root/.openclaw/openclaw.json
+
+# 3. 重启 OpenClaw
+openclaw gateway restart
+
+# 4. 验证
+session_status
+```
+
+執行後請確認 `session_status` 輸出中 `model` 顯示為 `kimi-coding/k3`，且 `context` 上限為 `1.0m`。
+
+<Callout type="warning">
+設定檔路徑可能因安裝方式不同而有所差異，請根據實際情況替換 `/root/.openclaw/openclaw.json`。修改前務必先備份。
+</Callout>

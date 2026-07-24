@@ -33,7 +33,8 @@ Non hai ancora un OpenClaw? Vai su [kimi.com/bot](https://kimi.com/bot) per crea
 
 </Callout>
 
-- Kimi predispone automaticamente il modello K3, collega i tuoi crediti di Kimi Code e attiva Kimi Web Search, senza bisogno di configurare separatamente le API.
+- Kimi predispone automaticamente il modello **Kimi K2.6**, collega i crediti e i benefit della tua **iscrizione Kimi** e attiva Kimi Web Search, senza bisogno di configurare separatamente le API.
+- Per passare al modello **Kimi K3**, puoi modificare la configurazione del modello nelle impostazioni di Kimi Claw o fare riferimento alla guida di configurazione avanzata.
 - Kimi Claw può essere distribuito direttamente su Telegram e su altre piattaforme di messaggistica.
 
 ## Per iniziare
@@ -51,3 +52,39 @@ Se hai già un'istanza OpenClaw in self-hosting, puoi collegarla a Kimi installa
 1. Vai su [kimi.com/bot](https://kimi.com/bot) e seleziona **Collega un OpenClaw esistente**
 2. Segui le istruzioni per installare il plugin sul tuo dispositivo OpenClaw
 3. Una volta effettuato il collegamento, potrai chattare con il tuo OpenClaw tramite Kimi
+
+<a id="switch-to-k3"></a>
+## Passa al modello Kimi K3
+
+Kimi Claw utilizza di default il modello Kimi K2.6. Se desideri utilizzare Kimi K3, puoi modificare automaticamente la configurazione locale di OpenClaw con i comandi seguenti.
+
+```bash
+# 1. 备份当前配置
+cp /root/.openclaw/openclaw.json /root/.openclaw/openclaw.json.bak.k3
+
+# 2. 新增 k3 模型并切换默认模型（示例使用 jq）
+jq '
+  (.models.providers["kimi-coding"].models // .models.providers.kimi-coding.models) |= . + [{
+    "id": "k3",
+    "name": "k3",
+    "input": ["text", "image"],
+    "reasoning": true,
+    "contextWindow": 1048576,
+    "maxTokens": 65536
+  }]
+  | .agents.defaults.model.primary = "kimi-coding/k3"
+' /root/.openclaw/openclaw.json > /tmp/openclaw.json.tmp \
+  && mv /tmp/openclaw.json.tmp /root/.openclaw/openclaw.json
+
+# 3. 重启 OpenClaw
+openclaw gateway restart
+
+# 4. 验证
+session_status
+```
+
+Dopo l'esecuzione, verifica che nell'output di `session_status` il campo `model` mostri `kimi-coding/k3` e il limite di `context` sia `1.0m`.
+
+<Callout type="warning">
+Il percorso del file di configurazione può variare in base al metodo di installazione: sostituisci `/root/.openclaw/openclaw.json` in base alla tua situazione reale. Assicurati sempre di fare un backup prima di apportare modifiche.
+</Callout>

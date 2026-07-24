@@ -33,7 +33,8 @@ Bạn chưa có OpenClaw? Hãy truy cập [kimi.com/bot](https://kimi.com/bot) �
 
 </Callout>
 
-- Kimi tự động cung cấp mô hình K3, kết nối tín dụng Kimi Code của bạn và bật Kimi Web Search — không cần cấu hình API riêng.
+- Kimi tự động cấu hình **mô hình Kimi K2.6**, liên kết **quyền lợi tín dụng thành viên Kimi** của bạn và bật Kimi Web Search — không cần cấu hình API riêng.
+- Nếu muốn chuyển sang **mô hình Kimi K3**, bạn có thể điều chỉnh cấu hình mô hình trong cài đặt Kimi Claw, hoặc tham khảo hướng dẫn cấu hình nâng cao.
 - Kimi Claw có thể được triển khai trực tiếp lên Telegram và các nền tảng trò chuyện khác.
 
 ## Bắt đầu
@@ -51,3 +52,39 @@ Nếu bạn đã tự lưu trữ một phiên bản OpenClaw, bạn có thể k�
 1. Truy cập [kimi.com/bot](https://kimi.com/bot) và chọn **Link Existing OpenClaw**
 2. Làm theo hướng dẫn để cài đặt plugin trên thiết bị OpenClaw của bạn
 3. Sau khi kết nối, bạn có thể trò chuyện với OpenClaw của mình thông qua Kimi
+
+<a id="switch-to-k3"></a>
+## Chuyển sang mô hình Kimi K3
+
+Kimi Claw mặc định sử dụng mô hình Kimi K2.6. Nếu bạn muốn sử dụng Kimi K3, có thể chạy lệnh sau để tự động sửa đổi cấu hình OpenClaw cục bộ.
+
+```bash
+# 1. 备份当前配置
+cp /root/.openclaw/openclaw.json /root/.openclaw/openclaw.json.bak.k3
+
+# 2. 新增 k3 模型并切换默认模型（示例使用 jq）
+jq '
+  (.models.providers["kimi-coding"].models // .models.providers.kimi-coding.models) |= . + [{
+    "id": "k3",
+    "name": "k3",
+    "input": ["text", "image"],
+    "reasoning": true,
+    "contextWindow": 1048576,
+    "maxTokens": 65536
+  }]
+  | .agents.defaults.model.primary = "kimi-coding/k3"
+' /root/.openclaw/openclaw.json > /tmp/openclaw.json.tmp \
+  && mv /tmp/openclaw.json.tmp /root/.openclaw/openclaw.json
+
+# 3. 重启 OpenClaw
+openclaw gateway restart
+
+# 4. 验证
+session_status
+```
+
+Sau khi thực hiện, vui lòng xác nhận trong kết quả `session_status` rằng `model` hiển thị là `kimi-coding/k3`, và giới hạn `context` là `1.0m`.
+
+<Callout type="warning">
+Đường dẫn tệp cấu hình có thể khác nhau tùy theo cách cài đặt, vui lòng thay thế `/root/.openclaw/openclaw.json` theo thực tế của bạn. Nhớ sao lưu trước khi sửa đổi.
+</Callout>

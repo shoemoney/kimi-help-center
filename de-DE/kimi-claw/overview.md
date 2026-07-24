@@ -33,7 +33,7 @@ Sie haben noch keinen OpenClaw? Erstellen Sie einen unter [kimi.com/bot](https:/
 
 </Callout>
 
-- Kimi richtet automatisch das K3-Modell ein, verbindet Ihre Kimi Code Credits und aktiviert Kimi Web Search – eine separate API-Konfiguration ist nicht nötig.
+- Kimi richtet automatisch das **Kimi K2.6-Modell** ein und verknüpft es mit Ihren **Kimi-Mitgliedschafts-Credits** – eine separate API-Konfiguration ist nicht nötig. Außerdem wird automatisch Kimi Web Search aktiviert, damit die KI im Internet suchen kann.
 - Kimi Claw lässt sich direkt auf Telegram und anderen Chat-Plattformen bereitstellen.
 
 ## Erste Schritte
@@ -51,3 +51,39 @@ Wenn Sie bereits eine OpenClaw-Instanz selbst gehostet haben, können Sie sie mi
 1. Gehen Sie zu [kimi.com/bot](https://kimi.com/bot) und wählen Sie **Bestehenden OpenClaw verbinden**
 2. Folgen Sie der Anleitung, um das Plugin auf Ihrem OpenClaw-Gerät zu installieren
 3. Sobald die Verbindung steht, können Sie über Kimi mit Ihrem OpenClaw chatten
+
+<a id="switch-to-k3"></a>
+## Zu Kimi K3 wechseln
+
+Kimi Claw verwendet standardmäßig das Kimi K2.6-Modell. Wenn Sie stattdessen Kimi K3 nutzen möchten, können Sie die lokale OpenClaw-Konfiguration mit dem folgenden Befehl automatisch anpassen.
+
+```bash
+# 1. 备份当前配置
+cp /root/.openclaw/openclaw.json /root/.openclaw/openclaw.json.bak.k3
+
+# 2. 新增 k3 模型并切换默认模型（示例使用 jq）
+jq '
+  (.models.providers["kimi-coding"].models // .models.providers.kimi-coding.models) |= . + [{
+    "id": "k3",
+    "name": "k3",
+    "input": ["text", "image"],
+    "reasoning": true,
+    "contextWindow": 1048576,
+    "maxTokens": 65536
+  }]
+  | .agents.defaults.model.primary = "kimi-coding/k3"
+' /root/.openclaw/openclaw.json > /tmp/openclaw.json.tmp \
+  && mv /tmp/openclaw.json.tmp /root/.openclaw/openclaw.json
+
+# 3. 重启 OpenClaw
+openclaw gateway restart
+
+# 4. 验证
+session_status
+```
+
+Überprüfen Sie nach der Ausführung, dass in der Ausgabe von `session_status` der Wert `model` auf `kimi-coding/k3` und das `context`-Limit auf `1.0m` steht.
+
+<Callout type="warning">
+Der Pfad zur Konfigurationsdatei kann je nach Installationsart variieren. Ersetzen Sie `/root/.openclaw/openclaw.json` entsprechend Ihrer tatsächlichen Umgebung. Sichern Sie die Datei unbedingt vor der Bearbeitung.
+</Callout>

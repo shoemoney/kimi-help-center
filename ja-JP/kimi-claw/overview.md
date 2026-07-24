@@ -33,7 +33,8 @@ preview_content: "ワンクリック設定で、自分専用の Kimi Claw AI ア
 
 </Callout>
 
-- Kimi は K3 モデルを自動で準備し、Kimi Code のクレジットを接続して、Kimi Web Search を有効にします。個別の API 設定は必要ありません。
+- Kimi は **Kimi K2.6 モデル**を自動で設定し、**Kimi メンバーシップのクレジット**を連携し、Kimi Web Search を有効にします。個別の API 設定は必要ありません。
+- **Kimi K3 モデル**に切り替える場合は、Kimi Claw 設定でモデル設定を変更するか、詳細設定ガイドを参照してください。
 - Kimi Claw は Telegram やその他のチャットプラットフォームに直接デプロイできます。
 
 ## はじめに
@@ -51,3 +52,39 @@ preview_content: "ワンクリック設定で、自分専用の Kimi Claw AI ア
 1. [kimi.com/bot](https://kimi.com/bot) に移動し、**既存の OpenClaw をリンク**を選択します
 2. 手順に従って、OpenClaw デバイスにプラグインをインストールします
 3. 接続後は、Kimi を通じて OpenClaw とチャットできます
+
+<a id="switch-to-k3"></a>
+## Kimi K3 モデルに切り替える
+
+Kimi Claw のデフォルトは Kimi K2.6 モデルです。Kimi K3 を使用する場合は、以下のコマンドでローカルの OpenClaw 設定を変更できます。
+
+```bash
+# 1. 备份当前配置
+cp /root/.openclaw/openclaw.json /root/.openclaw/openclaw.json.bak.k3
+
+# 2. 新增 k3 模型并切换默认模型（示例使用 jq）
+jq '
+  (.models.providers["kimi-coding"].models // .models.providers.kimi-coding.models) |= . + [{
+    "id": "k3",
+    "name": "k3",
+    "input": ["text", "image"],
+    "reasoning": true,
+    "contextWindow": 1048576,
+    "maxTokens": 65536
+  }]
+  | .agents.defaults.model.primary = "kimi-coding/k3"
+' /root/.openclaw/openclaw.json > /tmp/openclaw.json.tmp \
+  && mv /tmp/openclaw.json.tmp /root/.openclaw/openclaw.json
+
+# 3. 重启 OpenClaw
+openclaw gateway restart
+
+# 4. 验证
+session_status
+```
+
+実行後、`session_status` の出力で `model` が `kimi-coding/k3`、かつ `context` の上限が `1.0m` になっていることを確認してください。
+
+<Callout type="warning">
+設定ファイルのパスはインストール方法によって異なる場合があります。実際の環境に合わせて `/root/.openclaw/openclaw.json` を置き換えてください。変更前に必ずバックアップを取ってください。
+</Callout>

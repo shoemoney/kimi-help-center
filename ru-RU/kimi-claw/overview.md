@@ -33,7 +33,7 @@ preview_content: "Разверните собственного AI-ассист�
 
 </Callout>
 
-- Kimi автоматически подготавливает модель K3, подключает ваши кредиты Kimi Code и включает Kimi Web Search — отдельная настройка API не нужна.
+- Kimi автоматически настраивает модель **Kimi K2.6**, подключает кредиты и льготы [Kimi membership](https://www.kimi.com/membership/pricing) и включает Kimi Web Search — отдельная настройка API не нужна.
 - Kimi Claw можно развернуть напрямую в Telegram и на других чат-платформах.
 
 ## Начало работы
@@ -51,3 +51,39 @@ preview_content: "Разверните собственного AI-ассист�
 1. Перейдите на [kimi.com/bot](https://kimi.com/bot) и выберите **Подключить существующий OpenClaw**
 2. Следуйте инструкциям, чтобы установить плагин на устройство с OpenClaw
 3. После подключения вы сможете общаться со своим OpenClaw через Kimi
+
+<a id="switch-to-k3"></a>
+## Переключение на модель Kimi K3
+
+Kimi Claw по умолчанию использует модель Kimi K2.6. Если вы хотите использовать Kimi K3, выполните следующую команду, чтобы изменить локальную конфигурацию OpenClaw.
+
+```bash
+# 1. 备份当前配置
+cp /root/.openclaw/openclaw.json /root/.openclaw/openclaw.json.bak.k3
+
+# 2. 新增 k3 模型并切换默认模型（示例使用 jq）
+jq '
+  (.models.providers["kimi-coding"].models // .models.providers.kimi-coding.models) |= . + [{
+    "id": "k3",
+    "name": "k3",
+    "input": ["text", "image"],
+    "reasoning": true,
+    "contextWindow": 1048576,
+    "maxTokens": 65536
+  }]
+  | .agents.defaults.model.primary = "kimi-coding/k3"
+' /root/.openclaw/openclaw.json > /tmp/openclaw.json.tmp \
+  && mv /tmp/openclaw.json.tmp /root/.openclaw/openclaw.json
+
+# 3. 重启 OpenClaw
+openclaw gateway restart
+
+# 4. 验证
+session_status
+```
+
+После выполнения убедитесь, что в выводе `session_status` параметр `model` отображается как `kimi-coding/k3`, а лимит `context` равен `1.0m`.
+
+<Callout type="warning">
+Путь к конфигурационному файлу может отличаться в зависимости от способа установки; замените `/root/.openclaw/openclaw.json` на актуальный путь. Перед изменением обязательно сделайте резервную копию.
+</Callout>

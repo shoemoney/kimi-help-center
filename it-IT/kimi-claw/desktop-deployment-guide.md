@@ -24,7 +24,8 @@ Se non hai ancora un OpenClaw locale, vai alla pagina Kimi Claw nell'app desktop
 La distribuzione con un clic si occupa di tutto questo per te:
 
 - **Distribuzione automatica** — Kimi distribuisce OpenClaw sulla tua macchina in automatico. Se hai già installato localmente un altro OpenClaw, Kimi può clonarne persona, memoria e competenze con il tuo consenso, rendendo la migrazione del tutto fluida.
-- **Configurazione automatica del modello** — Kimi preconfigura il modello Kimi, collega i crediti della tua iscrizione a Kimi Code e imposta Kimi Web Search per l'accesso a internet. Nessuna configurazione delle API richiesta.
+- **Configurazione automatica del modello** — Kimi preconfigura il modello **Kimi K2.6**, collega i crediti e i benefit della tua **iscrizione Kimi** e imposta Kimi Web Search per l'accesso a internet. Nessuna configurazione delle API richiesta.
+- Per passare al modello **Kimi K3**, puoi modificare la configurazione del modello nelle impostazioni di Kimi Claw o consultare la guida [Passa al modello Kimi K3](overview#switch-to-k3).
 - **Requisito di iscrizione** — La distribuzione con un clic richiede un piano Allegretto o superiore.
 - **Limite di istanze** — Ogni account supporta al massimo 1 Kimi Claw Desktop alla volta. Se cambi macchina ed effettui la distribuzione su una nuova, ti verrà chiesto di scollegare prima l'istanza precedente.
 

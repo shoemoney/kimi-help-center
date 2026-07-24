@@ -33,7 +33,8 @@ preview_content: "ติดตั้งและจัดการผู้ช�
 
 </Callout>
 
-- Kimi จะจัดเตรียมโมเดล K3 เชื่อมต่อเครดิต (credits) ของ Kimi Code และเปิดใช้งาน Kimi Web Search ให้โดยอัตโนมัติ ไม่ต้องตั้งค่า API แยกต่างหาก
+- Kimi จะกำหนดค่าโมเดล **Kimi K2.6** ให้โดยอัตโนมัติ และเชื่อมโยงกับ **เครดิตสิทธิประโยชน์สมาชิก Kimi** โดยไม่ต้องตั้งค่า API เพิ่มเติม พร้อมเปิดใช้งาน Kimi Web Search เพื่อให้ AI ค้นหาข้อมูลบนอินเทอร์เน็ตได้
+- หากต้องการเปลี่ยนเป็นโมเดล **Kimi K3** สามารถปรับการตั้งค่าโมเดลในการตั้งค่า Kimi Claw ได้ หรือดูคำแนะนำการตั้งค่าขั้นสูง
 - Kimi Claw สามารถนำไปใช้งานบน Telegram และแพลตฟอร์มแชตอื่น ๆ ได้โดยตรง
 
 ## เริ่มต้นใช้งาน
@@ -51,3 +52,39 @@ preview_content: "ติดตั้งและจัดการผู้ช�
 1. ไปที่ [kimi.com/bot](https://kimi.com/bot) แล้วเลือก **เชื่อมต่อ OpenClaw ที่มีอยู่**
 2. ทำตามคำแนะนำเพื่อติดตั้งปลั๊กอินบนอุปกรณ์ OpenClaw ของคุณ
 3. เมื่อเชื่อมต่อแล้ว คุณสามารถพูดคุยกับ OpenClaw ผ่าน Kimi ได้
+
+<a id="switch-to-k3"></a>
+## เปลี่ยนเป็นโมเดล Kimi K3
+
+Kimi Claw ใช้โมเดล Kimi K2.6 เป็นค่าเริ่มต้น หากคุณต้องการใช้งาน Kimi K3 สามารถใช้คำสั่งต่อไปนี้เพื่อแก้ไขการตั้งค่า OpenClaw ในเครื่องของคุณได้โดยอัตโนมัติ
+
+```bash
+# 1. 备份当前配置
+cp /root/.openclaw/openclaw.json /root/.openclaw/openclaw.json.bak.k3
+
+# 2. 新增 k3 模型并切换默认模型（示例使用 jq）
+jq '
+  (.models.providers["kimi-coding"].models // .models.providers.kimi-coding.models) |= . + [{
+    "id": "k3",
+    "name": "k3",
+    "input": ["text", "image"],
+    "reasoning": true,
+    "contextWindow": 1048576,
+    "maxTokens": 65536
+  }]
+  | .agents.defaults.model.primary = "kimi-coding/k3"
+' /root/.openclaw/openclaw.json > /tmp/openclaw.json.tmp \
+  && mv /tmp/openclaw.json.tmp /root/.openclaw/openclaw.json
+
+# 3. 重启 OpenClaw
+openclaw gateway restart
+
+# 4. 验证
+session_status
+```
+
+หลังจากรันคำสั่ง ให้ตรวจสอบว่าในผลลัพธ์ของ `session_status` แสดง `model` เป็น `kimi-coding/k3` และขีดจำกัด `context` เป็น `1.0m`
+
+<Callout type="warning">
+เส้นทางไฟล์การตั้งค่าอาจแตกต่างกันไปขึ้นอยู่กับวิธีการติดตั้ง กรุณาแทนที่ `/root/.openclaw/openclaw.json` ตามสถานการณ์จริง โปรดสำรองข้อมูลก่อนดำเนินการแก้ไข
+</Callout>

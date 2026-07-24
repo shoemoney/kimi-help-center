@@ -26,7 +26,7 @@ OpenClaw is an AI assistant with a distinct personality and long-term memory. In
 If you don’t have your own OpenClaw yet, go to [kimi.com/bot](https://kimi.com/bot) to create a dedicated OpenClaw. Kimi will deploy OpenClaw to the cloud for you in one click—no need to buy a server or configure anything from the command line.
 
 - One-click deployment is available only on **Allegretto and higher** plans. For details, see [Kimi membership plans](https://www.kimi.com/membership/pricing).
-- Kimi automatically configures the Kimi K3 model and links it to your Kimi Code membership credit, with no separate API setup required. It also automatically configures the Kimi Web Search service, giving your AI web search capabilities.
+- Kimi automatically configures the **Kimi K2.6 model** and links it to your **Kimi membership benefit credits**, with no separate API setup required. It also automatically configures the Kimi Web Search service, giving your AI web search capabilities.
 - Kimi Claw can be deployed directly to Feishu, WeCom, Weibo, and other platforms.
 
 ## Creation flow
@@ -60,3 +60,39 @@ If you have already deployed your own OpenClaw, you can also chat with OpenClaw 
   src="./images/kimi-claw/overview-05.png"
   alt="Chat channel configuration"
 />
+
+<a id="switch-to-k3"></a>
+## Switch to the Kimi K3 model
+
+Kimi Claw uses the Kimi K2.6 model by default. If you want to use Kimi K3, run the following commands to automatically update your local OpenClaw configuration.
+
+```bash
+# 1. 备份当前配置
+cp /root/.openclaw/openclaw.json /root/.openclaw/openclaw.json.bak.k3
+
+# 2. 新增 k3 模型并切换默认模型（示例使用 jq）
+jq '
+  (.models.providers["kimi-coding"].models // .models.providers.kimi-coding.models) |= . + [{
+    "id": "k3",
+    "name": "k3",
+    "input": ["text", "image"],
+    "reasoning": true,
+    "contextWindow": 1048576,
+    "maxTokens": 65536
+  }]
+  | .agents.defaults.model.primary = "kimi-coding/k3"
+' /root/.openclaw/openclaw.json > /tmp/openclaw.json.tmp \
+  && mv /tmp/openclaw.json.tmp /root/.openclaw/openclaw.json
+
+# 3. 重启 OpenClaw
+openclaw gateway restart
+
+# 4. 验证
+session_status
+```
+
+After running the commands, verify that `session_status` shows `model` as `kimi-coding/k3` and the `context` limit as `1.0m`.
+
+<Callout type="warning">
+The configuration file path may vary depending on how OpenClaw was installed. Replace `/root/.openclaw/openclaw.json` with the actual path on your system. Be sure to back up the file before making changes.
+</Callout>

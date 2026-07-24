@@ -62,6 +62,7 @@ OpenClaw 是一个具备独特个性与长期记忆能力的 AI 助手。在 Kim
   alt="聊天频道配置"
 />
 
+<a id="switch-to-k3"></a>
 ## 切换为 Kimi K3 模型
 
 Kimi Claw 默认使用 Kimi K2.6 模型。如果你希望使用 Kimi K3，可以通过以下命令自动修改本地 OpenClaw 配置。

@@ -62,6 +62,11 @@ Visit the dedicated Kimi Websites page
    3. **Template-based website building**: Quickly create a standard website by choosing a preset template and editing the content;
 5. Start building: Enter the Websites feature interface, choose a template, or create directly through conversation.
 
+<Frames
+  src="./images/overview/screenshot-27.png"
+  alt="screenshot 27"
+/>
+
 ### Method 2: Access from the Mobile App
 Select the dedicated website tool in the mobile App
 
@@ -127,6 +132,11 @@ Kimi Websites activates webapp-building SKILL, a multi-turn code generation agen
 5. Code construction: Writes page structure, styling, and interaction code
 6. Multi-turn optimization: Adjusts autonomously based on the preview until the website is complete
 
+<Frames
+  src="./images/overview/screenshot-26.png"
+  alt="screenshot 26"
+/>
+
 ### Preview and Adjust
 
 - **Real-time preview**: Generates an HTML demo URL that you can open in a browser right away
@@ -142,6 +152,11 @@ Kimi Websites activates webapp-building SKILL, a multi-turn code generation agen
       content: "The colors do not look very good. I want to remove the black-and-white requirement and make it a normal-looking website.\nKimi Websites will reorganize the to-do list and continue building the website.",
     },
   ]}
+/>
+
+<Frames
+  src="./images/overview/web-case2.png"
+  alt="web case2"
 />
 
 ### Preview Panel Interface
@@ -209,6 +224,11 @@ Before publishing, the website can only be previewed in the conversation. To all
 If you are not satisfied with a specific part, click the edit button in the preview window to keep refining it.
 You can also send instructions to Kimi in natural language and continue editing with Agent.
 Once you confirm the result, download the complete HTML/CSS/JS code and deploy it directly, or continue polishing it in an editor.
+
+<Frames
+  src="./images/overview/web-case1.png"
+  alt="web case1"
+/>
 
 ## Who It's For
 

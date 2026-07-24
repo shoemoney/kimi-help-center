@@ -31,7 +31,7 @@ preview_content: "Kimi Websites 全栈能力说明与当前限制。"
 
 - 完整的任务执行文件（含前后端代码）
 - 可在线预览和发布的全栈网站
-- 可下载的 Zip 包（位于 `/mnt/agents/output/` 目录）
+- 可下载的 Zip 包（位于 `/mnt/agents/output/app/` 目录）
 
 ## 适用场景
 

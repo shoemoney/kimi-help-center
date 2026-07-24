@@ -2,7 +2,7 @@
 title: "Kimi Websites 网站"
 slug: "websites-overview"
 order: 1
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Kimi Websites 全栈建站产品介绍，支持对话式生成、预览与部署。"
 ---

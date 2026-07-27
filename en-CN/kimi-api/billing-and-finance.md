@@ -43,3 +43,9 @@ Supported invoice types:
 - Individual ordinary electronic invoice
 - Enterprise ordinary electronic invoice
 - Enterprise special VAT invoice (enterprise verification required)
+
+Invoice notes:
+
+- The platform supports issuing invoices based on the consumed amount or the topped-up amount. Please submit your request online via [Invoice Management](https://platform.kimi.com/console/invoice).
+- Individual verification supports invoices with an individual or a company title; enterprise verification only supports invoices with the verified enterprise entity’s title.
+- The invoicing entity is 北京月之暗面科技有限公司; the invoice item name is “技术服务费”, under the tax classification abbreviation “生产生活服务”, with a tax rate of 6%. The invoice face displays \*生产生活服务\*技术服务费.

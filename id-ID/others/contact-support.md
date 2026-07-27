@@ -55,3 +55,4 @@ Bergabunglah dengan komunitas resmi Kimi:
 - [X @Kimi_Moonshot](https://x.com/Kimi_Moonshot)
 - [YouTube @KimiMoonshot](https://www.youtube.com/@KimiMoonshot)
 - [Kimi OpenPlatform Community](https://forum.moonshot.ai/)
+- [Reddit r/kimi](https://www.reddit.com/r/kimi/)

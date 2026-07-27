@@ -32,11 +32,9 @@ After you top up, the balance is credited in real time and can be used for API c
 
 ## How do I request an invoice?
 
-1. Log in to the [https://platform.kimi.com/](https://platform.kimi.com/) console.
-2. Go to “Billing → Invoice Management”.
-3. Select the top-up records you want invoiced.
-4. Fill in the invoice information (individual/enterprise) and submit the request.
-5. The electronic invoice will be sent to the email address you provide.
+1. Log in to the [Kimi Open Platform console](https://platform.kimi.com/) and go to “Billing → [Invoice Management](https://platform.kimi.com/console/invoice)”.
+2. Select the top-up records you want invoiced, fill in the invoice information (individual/enterprise), and submit the request.
+3. The electronic invoice will be sent to the email address you provide.
 
 Supported invoice types:
 
@@ -46,6 +44,6 @@ Supported invoice types:
 
 Invoice notes:
 
-- The platform supports issuing invoices based on the consumed amount or the topped-up amount. Please submit your request online via [Invoice Management](https://platform.kimi.com/console/invoice).
+- The platform supports issuing invoices based on the consumed amount or the topped-up amount.
 - Individual verification supports invoices with an individual or a company title; enterprise verification only supports invoices with the verified enterprise entity’s title.
-- The invoicing entity is 北京月之暗面科技有限公司; the invoice item name is “技术服务费”, under the tax classification abbreviation “生产生活服务”, with a tax rate of 6%. The invoice face displays \*生产生活服务\*技术服务费.
+- The invoicing entity is 北京月之暗面科技有限公司; the invoice item name is “技术服务费”, under the tax classification abbreviation “生产生活服务”, with a tax rate of 6%. The invoice face displays **\*生产生活服务\*技术服务费**.

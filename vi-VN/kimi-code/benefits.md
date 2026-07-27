@@ -87,4 +87,4 @@ Ví dụ tính phí (chỉ để hình dung mức độ; mức giá thực tế 
 - **Nếu chạm giới hạn hoặc bị giới hạn tần suất, tôi có thể tiếp tục không?** Có. Sau khi bật Extra Usage, bạn không bị ảnh hưởng bởi giới hạn của gói đăng ký: khi chạm bất kỳ giới hạn nào, hệ thống chuyển liền mạch sang số dư Extra Usage, tác vụ không dừng, và chỉ trừ Extra Usage mà không ảnh hưởng đến việc làm mới tín dụng hội viên.
 - **Số dư chưa dùng có được chuyển sang và cộng dồn không?** Có — không hết hạn và cộng dồn; vẫn dùng được sau khi gói đăng ký hết hạn, nhưng không thể nạp trong thời gian gián đoạn.
 - **Extra Usage có dùng cho Enterprise không?** Chưa hỗ trợ.
-- **Sau khi đóng tài khoản, số dư có được hoàn không?** Vui lòng gửi email đến [membership@moonshot.cn](mailto:membership@moonshot.cn) để yêu cầu hoàn tiền.
+- **Sau khi đóng tài khoản, số dư có được hoàn không?** Vui lòng gửi email đến [membership@moonshot.ai](mailto:membership@moonshot.ai) để yêu cầu hoàn tiền.

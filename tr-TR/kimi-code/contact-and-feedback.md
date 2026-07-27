@@ -51,5 +51,5 @@ Geri bildirim göndermeden önce şunları kontrol etmenizi öneririz:
 
 | Geri bildirim türü | Kanal |
 |---------|------|
-| Hesap itirazları / şikâyetler ve ihbarlar | [support@moonshot.cn](mailto:support@moonshot.cn) |
+| Hesap itirazları / şikâyetler ve ihbarlar | [support@moonshot.ai](mailto:support@moonshot.ai) |
 | Basın talepleri | [pr@kimi.com](mailto:pr@kimi.com) |

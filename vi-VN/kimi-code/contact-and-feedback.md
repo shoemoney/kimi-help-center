@@ -51,5 +51,5 @@ Trước khi gửi phản hồi, bạn nên kiểm tra các mục sau:
 
 | Loại phản hồi | Kênh |
 |---------|------|
-| Kháng nghị tài khoản / khiếu nại và tố cáo | [support@moonshot.cn](mailto:support@moonshot.cn) |
+| Kháng nghị tài khoản / khiếu nại và tố cáo | [support@moonshot.ai](mailto:support@moonshot.ai) |
 | Liên hệ truyền thông | [pr@kimi.com](mailto:pr@kimi.com) |

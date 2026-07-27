@@ -87,4 +87,4 @@ Ejemplo de facturación (orden de magnitud aproximado; tarifas reales según la 
 - **¿Puedo continuar si alcanzo un límite o me limitan la tasa?** Sí. Una vez activado Extra Usage, no te afectan los límites de suscripción: al alcanzar cualquier límite, cambia sin interrupciones al saldo de Extra Usage, las tareas no se detienen y solo se descuenta Extra Usage, sin afectar la renovación de tus créditos de membresía.
 - **¿El saldo no usado se transfiere y se acumula?** Sí: no caduca y se acumula; sigue siendo utilizable tras el vencimiento de la suscripción, pero no se puede recargar durante la interrupción.
 - **¿Extra Usage está disponible para Enterprise?** Aún no es compatible.
-- **¿Se reembolsa el saldo tras cerrar mi cuenta?** Escribe a [membership@moonshot.cn](mailto:membership@moonshot.cn) para solicitar un reembolso.
+- **¿Se reembolsa el saldo tras cerrar mi cuenta?** Escribe a [membership@moonshot.ai](mailto:membership@moonshot.ai) para solicitar un reembolso.

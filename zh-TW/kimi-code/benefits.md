@@ -87,4 +87,4 @@ Kimi Code 權益可搭配以下工具使用：
 - **達到上限或被限流時還能繼續嗎？** 可以。開啟 Extra Usage 後即不受訂閱上限影響：任一額度觸頂時會無縫切換至 Extra Usage 餘額，任務不中斷，且只扣 Extra Usage，不影響會員額度刷新。
 - **未用完的餘額可以留到下個月並累積嗎？** 可以——不會過期且可累積；訂閱失效後仍可使用，但失效期間無法儲值。
 - **Extra Usage 支援企業版嗎？** 暫不支援。
-- **註銷帳號後餘額會退回嗎？** 請寄信至 [membership@moonshot.cn](mailto:membership@moonshot.cn) 申請退款。
+- **註銷帳號後餘額會退回嗎？** 請寄信至 [membership@moonshot.ai](mailto:membership@moonshot.ai) 申請退款。

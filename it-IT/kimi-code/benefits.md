@@ -87,4 +87,4 @@ Esempio di fatturazione (ordine di grandezza indicativo; tariffe reali secondo l
 - **Se raggiungo un limite o vengo limitato, posso continuare?** Sì. Una volta attivato Extra Usage non sei più soggetto ai limiti dell'abbonamento: al raggiungimento di qualsiasi limite si passa senza interruzioni al saldo Extra Usage, le attività non si fermano e viene addebitato solo Extra Usage, senza incidere sul rinnovo dei crediti di abbonamento.
 - **Il saldo non utilizzato si riporta e si cumula?** Sì: non scade e si cumula; resta utilizzabile dopo la scadenza dell'abbonamento, ma non è possibile ricaricare durante l'interruzione.
 - **Extra Usage è disponibile per Enterprise?** Non ancora supportato.
-- **Il saldo viene rimborsato dopo la chiusura dell'account?** Scrivi a [membership@moonshot.cn](mailto:membership@moonshot.cn) per richiedere un rimborso.
+- **Il saldo viene rimborsato dopo la chiusura dell'account?** Scrivi a [membership@moonshot.ai](mailto:membership@moonshot.ai) per richiedere un rimborso.

@@ -56,5 +56,5 @@ preview_content: "Kimi Code 的联系方式与反馈渠道。"
 
 | 反馈类型 | 渠道 |
 |---------|------|
-| 账号申诉 / 投诉举报 | [support@moonshot.cn](mailto:support@moonshot.cn) |
+| 账号申诉 / 投诉举报 | [support@moonshot.ai](mailto:support@moonshot.ai) |
 | 媒体联络 | [pr@kimi.com](mailto:pr@kimi.com) |

@@ -87,4 +87,4 @@ Exemplo de cobrança (ordem de grandeza apenas; tarifas reais conforme a platafo
 - **Se eu atingir um limite ou for limitado, posso continuar?** Sim. Uma vez ativado o Extra Usage, você não fica sujeito aos limites da assinatura: ao atingir qualquer limite, ele muda sem interrupções para o saldo de Extra Usage, as tarefas não param e só o Extra Usage é deduzido, sem afetar a renovação dos seus créditos de assinatura.
 - **O saldo não usado é transferido e acumula?** Sim — não expira e acumula; permanece utilizável após o vencimento da assinatura, mas não é possível recarregar durante a interrupção.
 - **O Extra Usage está disponível para Enterprise?** Ainda não é compatível.
-- **O saldo é reembolsado após o encerramento da conta?** Escreva para [membership@moonshot.cn](mailto:membership@moonshot.cn) para solicitar reembolso.
+- **O saldo é reembolsado após o encerramento da conta?** Escreva para [membership@moonshot.ai](mailto:membership@moonshot.ai) para solicitar reembolso.

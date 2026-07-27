@@ -51,5 +51,5 @@ QR コードをスキャンして Feishu グループに参加してください
 
 | フィードバックの種類 | 窓口 |
 |---------|------|
-| アカウントに関する異議申し立て／苦情・通報 | [support@moonshot.cn](mailto:support@moonshot.cn) |
+| アカウントに関する異議申し立て／苦情・通報 | [support@moonshot.ai](mailto:support@moonshot.ai) |
 | メディアからのお問い合わせ | [pr@kimi.com](mailto:pr@kimi.com) |

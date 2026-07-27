@@ -51,5 +51,5 @@ Prima di inviare un feedback, ti consigliamo di verificare quanto segue:
 
 | Tipo di feedback | Canale |
 |---------|------|
-| Ricorsi sull’account / reclami e segnalazioni | [support@moonshot.cn](mailto:support@moonshot.cn) |
+| Ricorsi sull’account / reclami e segnalazioni | [support@moonshot.ai](mailto:support@moonshot.ai) |
 | Richieste dei media | [pr@kimi.com](mailto:pr@kimi.com) |

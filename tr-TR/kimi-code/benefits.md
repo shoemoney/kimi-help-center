@@ -87,4 +87,4 @@ Faturalandırma örneği (yalnızca büyüklük fikri için; gerçek tarifeler p
 - **Bir sınıra ulaştığımda veya kısıtlandığımda devam edebilir miyim?** Evet. Extra Usage etkinleştirildikten sonra abonelik sınırlarından etkilenmezsiniz: herhangi bir sınıra ulaşıldığında kesintisiz olarak Extra Usage bakiyesine geçilir, görevler durmaz ve üyelik kredilerinizin yenilenmesini etkilemeden yalnızca Extra Usage düşülür.
 - **Kullanılmayan bakiye devreder ve birikir mi?** Evet — süresiz geçerlidir ve birikir; abonelik sona erdikten sonra da kullanılabilir, ancak ara dönemde yükleme yapılamaz.
 - **Extra Usage, Enterprise için mevcut mu?** Henüz desteklenmiyor.
-- **Hesabımı kapattıktan sonra bakiye iade edilir mi?** İade talebi için lütfen [membership@moonshot.cn](mailto:membership@moonshot.cn) adresine e-posta gönderin.
+- **Hesabımı kapattıktan sonra bakiye iade edilir mi?** İade talebi için lütfen [membership@moonshot.ai](mailto:membership@moonshot.ai) adresine e-posta gönderin.

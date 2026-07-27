@@ -51,5 +51,5 @@ Sebelum mengirim umpan balik, sebaiknya periksa hal-hal berikut:
 
 | Jenis umpan balik | Saluran |
 |---------|------|
-| Banding akun / keluhan dan laporan | [support@moonshot.cn](mailto:support@moonshot.cn) |
+| Banding akun / keluhan dan laporan | [support@moonshot.ai](mailto:support@moonshot.ai) |
 | Pertanyaan media | [pr@kimi.com](mailto:pr@kimi.com) |

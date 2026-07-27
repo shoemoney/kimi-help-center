@@ -51,5 +51,5 @@ Avant d’envoyer votre retour, nous vous recommandons de vérifier les points s
 
 | Type de retour | Canal |
 |---------|------|
-| Recours liés au compte / réclamations et signalements | [support@moonshot.cn](mailto:support@moonshot.cn) |
+| Recours liés au compte / réclamations et signalements | [support@moonshot.ai](mailto:support@moonshot.ai) |
 | Demandes médias | [pr@kimi.com](mailto:pr@kimi.com) |

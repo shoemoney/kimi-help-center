@@ -51,5 +51,5 @@ Bevor du Feedback einreichst, empfehlen wir, Folgendes zu prüfen:
 
 | Feedback-Art | Kanal |
 |---------|------|
-| Einsprüche zum Konto / Beschwerden und Meldungen | [support@moonshot.cn](mailto:support@moonshot.cn) |
+| Einsprüche zum Konto / Beschwerden und Meldungen | [support@moonshot.ai](mailto:support@moonshot.ai) |
 | Medienanfragen | [pr@kimi.com](mailto:pr@kimi.com) |

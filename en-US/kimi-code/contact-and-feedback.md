@@ -51,5 +51,5 @@ Before submitting feedback, we recommend checking the following:
 
 | Feedback type | Channel |
 |---------|------|
-| Account appeals / complaints and reports | [support@moonshot.cn](mailto:support@moonshot.cn) |
+| Account appeals / complaints and reports | [support@moonshot.ai](mailto:support@moonshot.ai) |
 | Media inquiries | [pr@kimi.com](mailto:pr@kimi.com) |

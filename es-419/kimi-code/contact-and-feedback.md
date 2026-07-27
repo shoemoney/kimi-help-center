@@ -51,5 +51,5 @@ Antes de enviar tus comentarios, te recomendamos verificar lo siguiente:
 
 | Tipo de comentario | Canal |
 |---------|------|
-| Apelaciones de cuenta / quejas y reportes | [support@moonshot.cn](mailto:support@moonshot.cn) |
+| Apelaciones de cuenta / quejas y reportes | [support@moonshot.ai](mailto:support@moonshot.ai) |
 | Consultas de prensa | [pr@kimi.com](mailto:pr@kimi.com) |

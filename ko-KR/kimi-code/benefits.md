@@ -87,4 +87,4 @@ Kimi Code 혜택은 다음 도구에서 사용할 수 있습니다.
 - **한도에 도달하거나 속도 제한이 걸려도 계속할 수 있나요?** 예. Extra Usage를 활성화하면 구독 한도의 영향을 받지 않습니다. 어떤 한도에 도달하든 끊김 없이 Extra Usage 잔액으로 전환되어 작업이 멈추지 않으며, Extra Usage만 차감되고 멤버십 크레딧 갱신에는 영향을 주지 않습니다.
 - **사용하지 않은 잔액은 이월되고 누적되나요?** 예 — 만료되지 않고 누적됩니다. 구독 종료 후에도 사용할 수 있지만 중단 기간에는 충전할 수 없습니다.
 - **Extra Usage는 Enterprise에서 사용할 수 있나요?** 아직 지원하지 않습니다.
-- **계정을 삭제하면 잔액이 환불되나요?** [membership@moonshot.cn](mailto:membership@moonshot.cn)으로 이메일을 보내 환불을 요청하세요.
+- **계정을 삭제하면 잔액이 환불되나요?** [membership@moonshot.ai](mailto:membership@moonshot.ai)으로 이메일을 보내 환불을 요청하세요.

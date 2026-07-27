@@ -56,5 +56,5 @@ preview_content: "Kimi Code 的聯絡與回饋管道。"
 
 | 回饋類型 | 管道 |
 |---------|------|
-| 帳號申訴／投訴與舉報 | [support@moonshot.cn](mailto:support@moonshot.cn) |
+| 帳號申訴／投訴與舉報 | [support@moonshot.ai](mailto:support@moonshot.ai) |
 | 媒體諮詢 | [pr@kimi.com](mailto:pr@kimi.com) |

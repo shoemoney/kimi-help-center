@@ -87,4 +87,4 @@ Abrechnungsbeispiel (nur als grobe Größenordnung; tatsächliche Tarife gemäß
 - **Kann ich bei Erreichen eines Limits oder bei Drosselung weiterarbeiten?** Ja. Einmal aktiviert, sind Sie von Abo-Limits unabhängig – bei Erreichen eines Limits wird nahtlos auf das Extra-Usage-Guthaben umgeschaltet, Aufgaben stoppen nicht, und es wird nur Extra Usage abgezogen, ohne die Erneuerung Ihrer Mitgliedschafts-Credits zu beeinflussen.
 - **Verfällt ungenutztes Guthaben oder lässt es sich ansammeln?** Es verfällt nicht und lässt sich ansammeln; es bleibt nach Ablauf des Abos nutzbar, aber während der Unterbrechung ist kein Aufladen möglich.
 - **Ist Extra Usage für Enterprise verfügbar?** Noch nicht unterstützt.
-- **Wird das Guthaben nach Kontolöschung erstattet?** Bitte schreiben Sie an [membership@moonshot.cn](mailto:membership@moonshot.cn), um eine Rückerstattung zu beantragen.
+- **Wird das Guthaben nach Kontolöschung erstattet?** Bitte schreiben Sie an [membership@moonshot.ai](mailto:membership@moonshot.ai), um eine Rückerstattung zu beantragen.

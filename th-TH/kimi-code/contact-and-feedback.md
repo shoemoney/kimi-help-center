@@ -51,5 +51,5 @@ preview_content: "ช่องทางติดต่อและส่งข�
 
 | ประเภทข้อเสนอแนะ | ช่องทาง |
 |---------|------|
-| การอุทธรณ์บัญชี / การร้องเรียนและรายงาน | [support@moonshot.cn](mailto:support@moonshot.cn) |
+| การอุทธรณ์บัญชี / การร้องเรียนและรายงาน | [support@moonshot.ai](mailto:support@moonshot.ai) |
 | การติดต่อจากสื่อมวลชน | [pr@kimi.com](mailto:pr@kimi.com) |

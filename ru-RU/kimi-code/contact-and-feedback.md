@@ -51,5 +51,5 @@ preview_content: "Каналы связи и обратной связи для 
 
 | Тип обращения | Канал |
 |---------|------|
-| Апелляции по аккаунтам / жалобы и сообщения о нарушениях | [support@moonshot.cn](mailto:support@moonshot.cn) |
+| Апелляции по аккаунтам / жалобы и сообщения о нарушениях | [support@moonshot.ai](mailto:support@moonshot.ai) |
 | Запросы от СМИ | [pr@kimi.com](mailto:pr@kimi.com) |

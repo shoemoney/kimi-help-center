@@ -200,7 +200,7 @@ After the website is generated, the preview panel opens on the right, and versio
 | Download and deploy | Download the code package and deploy it to your own server |
 | Custom URL | Change the default random URL to a memorable name, such as customizing the `abc` in `abc.ok.kimi.link` |
 
-> **About "Custom URL"**: 3–30 characters, lowercase letters, numbers, and hyphens only. Cannot start or end with a hyphen, and cannot be纯数字. Some reserved words (such as `kimi`, `www`, `login`, etc.) are unavailable. If occupied or unavailable, please choose another name.
+> **About "Custom URL"**: 3–30 characters, lowercase letters, numbers, and hyphens only. Cannot start or end with a hyphen, and cannot consist entirely of numbers. Some reserved words (such as `kimi`, `www`, `login`, etc.) are unavailable. If occupied or unavailable, please choose another name.
 
 > **About the boundaries of "Download and deploy"**: **Kimi account login** and **platform-managed cloud database** are provided by the Kimi platform and will not migrate with the exported code. If you deploy the code to your own server, the login method must be changed to a username/password scheme based on your own database, and data must also be migrated to your own database. For public access only, we recommend using **One-click publish** directly, and Kimi account login and cloud data will continue to work normally. See [Why doesn't the website I created work?](/websites/websites-why-not-working) for details.
 

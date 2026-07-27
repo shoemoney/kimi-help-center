@@ -46,3 +46,12 @@ Kimi에서 직접 피드백을 제출할 수도 있습니다. 조사를 돕기 �
 <Callout type="info">
 멤버십 관련 문제는 [멤버십 문제 문의 정보](/membership/membership-contact)에서도 확인할 수 있습니다. 미디어 문의는 pr@kimi.com으로 이메일을 보내 주세요.
 </Callout>
+
+## 커뮤니티
+
+Kimi 공식 커뮤니티에 참여해 보세요:
+
+- [Discord](https://discord.com/invite/TYU2fdJykW)
+- [X @Kimi_Moonshot](https://x.com/Kimi_Moonshot)
+- [YouTube @KimiMoonshot](https://www.youtube.com/@KimiMoonshot)
+- [Kimi OpenPlatform Community](https://forum.moonshot.ai/)

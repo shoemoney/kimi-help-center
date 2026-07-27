@@ -46,3 +46,12 @@ Kimi 内から直接フィードバックを送信することもできます。
 <Callout type="info">
 会員関連の問題については、[会員に関する問い合わせ先](/membership/membership-contact)もご確認いただけます。メディアからのお問い合わせは、pr@kimi.com までメールでご連絡ください。
 </Callout>
+
+## コミュニティ
+
+Kimi 公式コミュニティに参加：
+
+- [Discord](https://discord.com/invite/TYU2fdJykW)
+- [X @Kimi_Moonshot](https://x.com/Kimi_Moonshot)
+- [YouTube @KimiMoonshot](https://www.youtube.com/@KimiMoonshot)
+- [Kimi OpenPlatform Community](https://forum.moonshot.ai/)

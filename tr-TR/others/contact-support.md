@@ -46,3 +46,12 @@ Bir yanıttan memnun değilseniz, yanıtın altındaki “👎” simgesine tık
 <Callout type="info">
 Üyelikle ilgili sorunlar için [üyelik sorunu iletişim bilgilerine](/membership/membership-contact) de bakabilirsiniz. Medya talepleri için lütfen pr@kimi.com adresine e-posta gönderin.
 </Callout>
+
+## Topluluk
+
+Resmi Kimi topluluğuna katılın:
+
+- [Discord](https://discord.com/invite/TYU2fdJykW)
+- [X @Kimi_Moonshot](https://x.com/Kimi_Moonshot)
+- [YouTube @KimiMoonshot](https://www.youtube.com/@KimiMoonshot)
+- [Kimi OpenPlatform Community](https://forum.moonshot.ai/)

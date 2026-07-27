@@ -46,3 +46,12 @@ preview: false
 <Callout type="info">
 สำหรับปัญหาเกี่ยวกับสมาชิก คุณสามารถดู [ข้อมูลติดต่อสำหรับปัญหาสมาชิก](/membership/membership-contact) ได้เช่นกัน หากเป็นคำถามจากสื่อมวลชน โปรดส่งอีเมลไปที่ pr@kimi.com
 </Callout>
+
+## ชุมชน
+
+เข้าร่วมชุมชน Kimi อย่างเป็นทางการ:
+
+- [Discord](https://discord.com/invite/TYU2fdJykW)
+- [X @Kimi_Moonshot](https://x.com/Kimi_Moonshot)
+- [YouTube @KimiMoonshot](https://www.youtube.com/@KimiMoonshot)
+- [Kimi OpenPlatform Community](https://forum.moonshot.ai/)

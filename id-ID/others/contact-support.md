@@ -46,3 +46,12 @@ Jika Anda tidak puas dengan suatu respons, klik “👎” di bawahnya lalu jela
 <Callout type="info">
 Untuk masalah terkait keanggotaan, Anda juga dapat melihat [Informasi kontak masalah keanggotaan](/membership/membership-contact). Untuk pertanyaan media, silakan kirim email ke pr@kimi.com.
 </Callout>
+
+## Komunitas
+
+Bergabunglah dengan komunitas resmi Kimi:
+
+- [Discord](https://discord.com/invite/TYU2fdJykW)
+- [X @Kimi_Moonshot](https://x.com/Kimi_Moonshot)
+- [YouTube @KimiMoonshot](https://www.youtube.com/@KimiMoonshot)
+- [Kimi OpenPlatform Community](https://forum.moonshot.ai/)

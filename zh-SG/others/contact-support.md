@@ -46,3 +46,12 @@ preview: false
 <Callout type="info">
 会员相关问题也可查看[会员问题联系方式](/membership/membership-contact)。媒体联络请发送邮件至 pr@kimi.com。
 </Callout>
+
+## 社区
+
+加入 Kimi 官方社区：
+
+- [Discord](https://discord.com/invite/TYU2fdJykW)
+- [X @Kimi_Moonshot](https://x.com/Kimi_Moonshot)
+- [YouTube @KimiMoonshot](https://www.youtube.com/@KimiMoonshot)
+- [Kimi OpenPlatform Community](https://forum.moonshot.ai/)

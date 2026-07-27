@@ -46,3 +46,12 @@ Nếu bạn chưa hài lòng với một câu trả lời, hãy nhấp vào “�
 <Callout type="info">
 Đối với các vấn đề liên quan đến gói thành viên, bạn cũng có thể xem [Thông tin liên hệ về vấn đề thành viên](/membership/membership-contact). Với yêu cầu từ truyền thông, vui lòng gửi email đến pr@kimi.com.
 </Callout>
+
+## Cộng đồng
+
+Tham gia cộng đồng Kimi chính thức:
+
+- [Discord](https://discord.com/invite/TYU2fdJykW)
+- [X @Kimi_Moonshot](https://x.com/Kimi_Moonshot)
+- [YouTube @KimiMoonshot](https://www.youtube.com/@KimiMoonshot)
+- [Kimi OpenPlatform Community](https://forum.moonshot.ai/)

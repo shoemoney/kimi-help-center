@@ -46,3 +46,12 @@ Se você não estiver satisfeito com uma resposta, clique em “👎” abaixo d
 <Callout type="info">
 Para problemas relacionados à assinatura, você também pode consultar [informações de contato para problemas de assinatura](/membership/membership-contact). Para assuntos de imprensa, envie um e-mail para pr@kimi.com.
 </Callout>
+
+## Comunidade
+
+Junte-se à comunidade oficial do Kimi:
+
+- [Discord](https://discord.com/invite/TYU2fdJykW)
+- [X @Kimi_Moonshot](https://x.com/Kimi_Moonshot)
+- [YouTube @KimiMoonshot](https://www.youtube.com/@KimiMoonshot)
+- [Kimi OpenPlatform Community](https://forum.moonshot.ai/)

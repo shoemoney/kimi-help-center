@@ -46,3 +46,12 @@ preview: false
 <Callout type="info">
 По вопросам, связанным с подпиской, также можно посмотреть [контактную информацию по вопросам подписки](/membership/membership-contact). По вопросам для СМИ пишите на pr@kimi.com.
 </Callout>
+
+## Сообщество
+
+Присоединяйтесь к официальному сообществу Kimi:
+
+- [Discord](https://discord.com/invite/TYU2fdJykW)
+- [X @Kimi_Moonshot](https://x.com/Kimi_Moonshot)
+- [YouTube @KimiMoonshot](https://www.youtube.com/@KimiMoonshot)
+- [Kimi OpenPlatform Community](https://forum.moonshot.ai/)

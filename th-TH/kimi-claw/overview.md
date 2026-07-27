@@ -59,10 +59,10 @@ preview_content: "ติดตั้งและจัดการผู้ช�
 Kimi Claw ใช้โมเดล Kimi K2.6 เป็นค่าเริ่มต้น หากคุณต้องการใช้งาน Kimi K3 สามารถใช้คำสั่งต่อไปนี้เพื่อแก้ไขการตั้งค่า OpenClaw ในเครื่องของคุณได้โดยอัตโนมัติ
 
 ```bash
-# 1. 备份当前配置
+# 1. Back up the current config
 cp /root/.openclaw/openclaw.json /root/.openclaw/openclaw.json.bak.k3
 
-# 2. 新增 k3 模型并切换默认模型（示例使用 jq）
+# 2. Add the k3 model and switch the default model (example uses jq)
 jq '
   (.models.providers["kimi-coding"].models // .models.providers.kimi-coding.models) |= . + [{
     "id": "k3",
@@ -76,10 +76,10 @@ jq '
 ' /root/.openclaw/openclaw.json > /tmp/openclaw.json.tmp \
   && mv /tmp/openclaw.json.tmp /root/.openclaw/openclaw.json
 
-# 3. 重启 OpenClaw
+# 3. Restart OpenClaw
 openclaw gateway restart
 
-# 4. 验证
+# 4. Verify
 session_status
 ```
 

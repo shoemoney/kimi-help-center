@@ -59,10 +59,10 @@ preview_content: "ワンクリック設定で、自分専用の Kimi Claw AI ア
 Kimi Claw のデフォルトは Kimi K2.6 モデルです。Kimi K3 を使用する場合は、以下のコマンドでローカルの OpenClaw 設定を変更できます。
 
 ```bash
-# 1. 备份当前配置
+# 1. Back up the current config
 cp /root/.openclaw/openclaw.json /root/.openclaw/openclaw.json.bak.k3
 
-# 2. 新增 k3 模型并切换默认模型（示例使用 jq）
+# 2. Add the k3 model and switch the default model (example uses jq)
 jq '
   (.models.providers["kimi-coding"].models // .models.providers.kimi-coding.models) |= . + [{
     "id": "k3",
@@ -76,10 +76,10 @@ jq '
 ' /root/.openclaw/openclaw.json > /tmp/openclaw.json.tmp \
   && mv /tmp/openclaw.json.tmp /root/.openclaw/openclaw.json
 
-# 3. 重启 OpenClaw
+# 3. Restart OpenClaw
 openclaw gateway restart
 
-# 4. 验证
+# 4. Verify
 session_status
 ```
 

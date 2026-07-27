@@ -9,7 +9,7 @@ preview_content: "API call FAQs: 429 rate limits, 401 authentication failures, t
 
 <SeoMeta
   title="Kimi API FAQs and Troubleshooting - Kimi Help Center"
-  description="Running into issues with Kimi API calls? This article summarizes troubleshooting steps for common scenarios such as authentication failures, timeouts, and unexpected responses, helping you 快速 resolve issues."
+  description="Running into issues with Kimi API calls? This article summarizes troubleshooting steps for common scenarios such as authentication failures, timeouts, and unexpected responses, helping you quickly resolve issues."
 />
 # API Call FAQs
 

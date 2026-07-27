@@ -2,7 +2,7 @@
 title: "对话限制"
 slug: "conversation-limits"
 order: 6
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

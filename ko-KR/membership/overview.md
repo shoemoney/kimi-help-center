@@ -2,7 +2,7 @@
 title: "멤버십 플랜 개요"
 slug: "membership-overview"
 order: 1
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Kimi의 네 가지 멤버십 등급, credit 시스템, 결제 옵션을 비교해 보세요."
 ---

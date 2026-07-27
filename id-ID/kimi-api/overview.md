@@ -2,7 +2,7 @@
 title: "Ikhtisar Kimi API"
 slug: "api-overview"
 order: 1
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Mulai gunakan platform Kimi API untuk pembuatan teks, percakapan, penguraian file, dan pencarian web."
 ---

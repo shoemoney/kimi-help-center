@@ -2,7 +2,7 @@
 title: "Transferência de arquivos"
 slug: "file-transfer"
 order: 9
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

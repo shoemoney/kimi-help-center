@@ -2,7 +2,7 @@
 title: "Обзор тарифов членства"
 slug: "membership-overview"
 order: 1
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Сравните четыре уровня членства Kimi, систему кредитов и варианты оплаты."
 ---

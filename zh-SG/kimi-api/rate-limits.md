@@ -2,7 +2,7 @@
 title: "速率限制与提速"
 slug: "api-rate-limits"
 order: 5
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "了解 API 速率限制的分级规则、429 处理方式，以及申请提速的方法。"
 ---

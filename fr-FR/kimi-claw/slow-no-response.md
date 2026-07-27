@@ -2,7 +2,7 @@
 title: "Pas de réponse ou lenteur ?"
 slug: "slow-no-response"
 order: 8
-extract_headings: true
+extract_headings: false
 preview: false
 ---
 

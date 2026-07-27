@@ -2,7 +2,7 @@
 title: "Ringkasan paket keanggotaan"
 slug: "membership-overview"
 order: 1
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Bandingkan empat tingkat keanggotaan Kimi, sistem credit, dan opsi penagihannya."
 ---

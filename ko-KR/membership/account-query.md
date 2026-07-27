@@ -2,7 +2,7 @@
 title: "계정 및 크레딧 조회"
 slug: "membership-account-query"
 order: 5
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

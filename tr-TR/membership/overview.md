@@ -2,7 +2,7 @@
 title: "Üyelik planlarına genel bakış"
 slug: "membership-overview"
 order: 1
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Kimi'nin dört üyelik kademesini, credit sistemini ve faturalandırma seçeneklerini karşılaştırın."
 ---

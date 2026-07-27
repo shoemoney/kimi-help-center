@@ -2,7 +2,7 @@
 title: "Không phản hồi hoặc chạy chậm?"
 slug: "slow-no-response"
 order: 8
-extract_headings: true
+extract_headings: false
 preview: false
 ---
 

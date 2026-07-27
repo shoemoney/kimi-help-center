@@ -2,7 +2,7 @@
 title: "API Billing Guide"
 slug: "api-pricing"
 order: 3
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Kimi API billing logic, token pricing, and cost optimization tips."
 ---

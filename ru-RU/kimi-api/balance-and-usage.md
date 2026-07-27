@@ -2,7 +2,7 @@
 title: "Баланс и использование"
 slug: "api-balance-and-usage"
 order: 4
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

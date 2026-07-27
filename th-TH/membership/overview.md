@@ -2,7 +2,7 @@
 title: "ภาพรวมแพ็กเกจสมาชิก"
 slug: "membership-overview"
 order: 1
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "เปรียบเทียบระดับสมาชิก 4 แบบของ Kimi, ระบบ credit และตัวเลือกการเรียกเก็บเงิน"
 ---

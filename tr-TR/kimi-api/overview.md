@@ -2,7 +2,7 @@
 title: "Kimi API’ye genel bakış"
 slug: "api-overview"
 order: 1
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Metin üretimi, konuşmalar, dosya ayrıştırma ve web araması için Kimi API platformunu kullanmaya başlayın."
 ---

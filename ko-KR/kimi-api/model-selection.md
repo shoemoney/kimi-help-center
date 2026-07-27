@@ -2,7 +2,7 @@
 title: "모델 선택 및 비교"
 slug: "api-model-selection"
 order: 6
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

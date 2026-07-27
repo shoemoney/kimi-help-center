@@ -2,7 +2,7 @@
 title: "会员方案概览"
 slug: "membership-overview"
 order: 1
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "对比 Kimi 的四档会员方案、额度体系与计费选项。"
 ---

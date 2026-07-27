@@ -2,7 +2,7 @@
 title: "餘額消耗查詢"
 slug: "api-balance-and-usage"
 order: 4
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "如何查詢 API 帳戶餘額、消耗明細與用量估算。"
 ---

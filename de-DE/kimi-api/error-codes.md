@@ -2,7 +2,7 @@
 title: "API-Fehlercodes"
 slug: "api-error-codes"
 order: 2
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

@@ -2,7 +2,7 @@
 title: "Présentation de Kimi API"
 slug: "api-overview"
 order: 1
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Premiers pas avec la plateforme Kimi API pour la génération de texte, les conversations, l’analyse de fichiers et la recherche Web."
 ---

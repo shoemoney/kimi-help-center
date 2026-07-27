@@ -2,7 +2,7 @@
 title: "呼叫 API 發生錯誤（錯誤碼說明）"
 slug: "api-error-codes"
 order: 2
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Kimi API 錯誤碼一覽與疑難排解建議。"
 ---

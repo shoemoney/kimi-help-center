@@ -2,7 +2,7 @@
 title: "Truyền tệp"
 slug: "file-transfer"
 order: 9
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

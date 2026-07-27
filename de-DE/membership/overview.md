@@ -2,7 +2,7 @@
 title: "Übersicht der Mitgliedschaftstarife"
 slug: "membership-overview"
 order: 1
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Vergleiche die vier Kimi-Mitgliedschaftsstufen, das Credit-System und die Abrechnungsoptionen."
 ---

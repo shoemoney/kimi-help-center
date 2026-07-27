@@ -2,7 +2,7 @@
 title: "Not responding or slow?"
 slug: "slow-no-response"
 order: 8
-extract_headings: true
+extract_headings: false
 preview: false
 ---
 

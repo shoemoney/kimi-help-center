@@ -2,7 +2,7 @@
 title: "没有响应或速度很慢？"
 slug: "slow-no-response"
 order: 8
-extract_headings: true
+extract_headings: false
 preview: false
 ---
 

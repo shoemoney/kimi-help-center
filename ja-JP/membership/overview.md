@@ -2,7 +2,7 @@
 title: "メンバーシッププランの概要"
 slug: "membership-overview"
 order: 1
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Kimi の4つのメンバーシップ階層、credit（クレジット）システム、請求オプションを比較します。"
 ---

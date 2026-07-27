@@ -2,7 +2,7 @@
 title: "Tổng quan các gói thành viên"
 slug: "membership-overview"
 order: 1
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "So sánh bốn hạng thành viên của Kimi, hệ thống credit và các lựa chọn thanh toán."
 ---

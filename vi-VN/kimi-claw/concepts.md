@@ -2,7 +2,7 @@
 title: "Khái niệm cốt lõi & terminal"
 slug: "concepts"
 order: 5
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

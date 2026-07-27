@@ -2,7 +2,7 @@
 title: "Kimi API Introduction"
 slug: "api-overview"
 order: 1
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "An introduction to the Kimi API Open Platform and a quick-start guide."
 ---

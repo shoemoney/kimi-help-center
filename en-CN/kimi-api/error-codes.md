@@ -2,7 +2,7 @@
 title: "API Errors (Error Code Reference)"
 slug: "api-error-codes"
 order: 2
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "A quick reference to Kimi API error codes and troubleshooting tips."
 ---

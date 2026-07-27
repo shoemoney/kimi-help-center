@@ -2,7 +2,7 @@
 title: "账户与额度查询"
 slug: "membership-account-query"
 order: 5
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

@@ -2,7 +2,7 @@
 title: "取消訂閱"
 slug: "membership-cancel-subscription"
 order: 8
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

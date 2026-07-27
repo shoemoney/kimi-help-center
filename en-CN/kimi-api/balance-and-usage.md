@@ -2,7 +2,7 @@
 title: "Balance and Usage Lookup"
 slug: "api-balance-and-usage"
 order: 4
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "How to check your API account balance, usage details, and usage estimates."
 ---

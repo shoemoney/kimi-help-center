@@ -2,7 +2,7 @@
 title: "ภาพรวม Kimi API"
 slug: "api-overview"
 order: 1
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "เริ่มต้นใช้งานแพลตฟอร์ม Kimi API สำหรับการสร้างข้อความ การสนทนา การแยกวิเคราะห์ไฟล์ และ Web Search (การค้นหาเว็บ)"
 ---

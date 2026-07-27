@@ -2,7 +2,7 @@
 title: "Rate limit sınırları"
 slug: "api-rate-limits"
 order: 5
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

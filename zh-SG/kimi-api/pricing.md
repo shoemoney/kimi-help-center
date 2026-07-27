@@ -2,7 +2,7 @@
 title: "API 计费说明"
 slug: "api-pricing"
 order: 3
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Kimi API 的计费逻辑、Token 价格与成本优化建议。"
 ---

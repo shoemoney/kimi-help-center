@@ -2,7 +2,7 @@
 title: "Prezzi API"
 slug: "api-pricing"
 order: 3
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

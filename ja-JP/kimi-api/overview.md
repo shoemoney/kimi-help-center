@@ -2,7 +2,7 @@
 title: "Kimi API の概要"
 slug: "api-overview"
 order: 1
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "テキスト生成、会話、ファイル解析、Web Search に対応した Kimi API プラットフォームの始め方を紹介します。"
 ---

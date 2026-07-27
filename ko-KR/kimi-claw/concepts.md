@@ -2,7 +2,7 @@
 title: "핵심 개념 및 터미널"
 slug: "concepts"
 order: 5
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

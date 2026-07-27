@@ -2,7 +2,7 @@
 title: "API 调用报错（错误码说明）"
 slug: "api-error-codes"
 order: 2
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Kimi API 错误码一览及排查建议。"
 ---

@@ -2,7 +2,7 @@
 title: "Faturalar"
 slug: "membership-invoice"
 order: 10
-extract_headings: true
+extract_headings: false
 preview: false
 ---
 

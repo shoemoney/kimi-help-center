@@ -2,7 +2,7 @@
 title: "Kimi API 개요"
 slug: "api-overview"
 order: 1
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "텍스트 생성, 대화, 파일 파싱, Web Search(웹 검색)를 위한 Kimi API 플랫폼을 시작해 보세요."
 ---

@@ -2,7 +2,7 @@
 title: "Обзор Kimi API"
 slug: "api-overview"
 order: 1
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Начните работу с платформой Kimi API для генерации текста, диалогов, разбора файлов и веб-поиска."
 ---

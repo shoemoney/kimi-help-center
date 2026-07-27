@@ -2,7 +2,7 @@
 title: "残高と利用状況"
 slug: "api-balance-and-usage"
 order: 4
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

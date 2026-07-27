@@ -2,7 +2,7 @@
 title: "การตรวจสอบบัญชีและเครดิต"
 slug: "membership-account-query"
 order: 5
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

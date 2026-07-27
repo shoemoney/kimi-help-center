@@ -2,7 +2,7 @@
 title: "Kimi API 简介"
 slug: "api-overview"
 order: 1
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Kimi API 开放平台简介与快速入门指南。"
 ---

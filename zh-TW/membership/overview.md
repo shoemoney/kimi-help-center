@@ -2,7 +2,7 @@
 title: "會員方案總覽"
 slug: "membership-overview"
 order: 1
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "比較 Kimi 的四種會員等級、credit（點數）制度與計費選項。"
 ---

@@ -2,7 +2,7 @@
 title: "Model Selection and Performance Comparison"
 slug: "api-model-selection"
 order: 6
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "A guide to choosing Kimi API models: performance dimensions and Vision billing."
 ---

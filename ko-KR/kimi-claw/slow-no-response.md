@@ -2,7 +2,7 @@
 title: "응답이 없거나 느린가요?"
 slug: "slow-no-response"
 order: 8
-extract_headings: true
+extract_headings: false
 preview: false
 ---
 

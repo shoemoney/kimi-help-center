@@ -2,7 +2,7 @@
 title: "Rate Limits and Higher Throughput"
 slug: "api-rate-limits"
 order: 5
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "API rate limit tiers, 429 handling, and how to request higher throughput."
 ---

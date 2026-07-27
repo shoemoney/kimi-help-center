@@ -2,7 +2,7 @@
 title: "Visão geral dos planos de assinatura"
 slug: "membership-overview"
 order: 1
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Compare os quatro níveis de assinatura da Kimi, o sistema de créditos e as opções de cobrança."
 ---

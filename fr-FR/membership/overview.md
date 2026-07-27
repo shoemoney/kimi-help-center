@@ -2,7 +2,7 @@
 title: "Présentation des formules d’abonnement"
 slug: "membership-overview"
 order: 1
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Comparez les quatre formules d’abonnement Kimi, le système de credit et les options de facturation."
 ---

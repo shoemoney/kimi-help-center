@@ -2,7 +2,7 @@
 title: "구독 취소"
 slug: "membership-cancel-subscription"
 order: 8
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

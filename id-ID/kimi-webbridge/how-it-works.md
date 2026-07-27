@@ -2,7 +2,7 @@
 title: "Cara Kerja Kimi WebBridge"
 slug: "kimi-webbridge-how-it-works"
 order: 2
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

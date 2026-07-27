@@ -2,7 +2,7 @@
 title: "Tổng quan về Kimi API"
 slug: "api-overview"
 order: 1
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Bắt đầu với nền tảng Kimi API để tạo văn bản, hội thoại, phân tích tệp và Web Search."
 ---

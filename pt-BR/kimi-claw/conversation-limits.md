@@ -2,7 +2,7 @@
 title: "Limites de conversa"
 slug: "conversation-limits"
 order: 6
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

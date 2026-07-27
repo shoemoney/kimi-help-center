@@ -2,7 +2,7 @@
 title: "Resumen de planes de membresía"
 slug: "membership-overview"
 order: 1
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Compara los cuatro niveles de membresía de Kimi, el sistema de créditos y las opciones de facturación."
 ---

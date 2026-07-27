@@ -2,7 +2,7 @@
 title: "模型选择与性能对比"
 slug: "api-model-selection"
 order: 6
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Kimi API 模型选择指南：性能维度与 Vision 计费说明。"
 ---

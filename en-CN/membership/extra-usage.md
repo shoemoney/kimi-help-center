@@ -13,7 +13,7 @@ preview: false
 
 # Extra Usage Pack: Purchasing Additional Usage
 
-After your subscription credits run out, you can continue sending requests with your **Extra Usage Pack (Extra Usage)** balance, without waiting for your credits to refresh. This feature is available only to subscribers, and **Kimi on the web and Kimi Code share the same Extra Usage Pack credits**—top up once and use it on both. For the full terms, see the [Extra Usage Pack Top-up Agreement](https://www.kimi.com/user/agreement/extra-usage-rules-cn).
+After your subscription credits run out, you can continue sending requests with your **Extra Usage Pack (Extra Usage)** balance, without waiting for your credits to refresh. This feature is available only to subscribers, and your balance is shared across the **web, browser extension, desktop and mobile apps, and Kimi Code**—top up once and use it everywhere. For the full terms, see the [Extra Usage Pack Top-up Agreement](https://www.kimi.com/user/agreement/extra-usage-rules-cn).
 
 ## Top-up entry points
 
@@ -22,7 +22,10 @@ After your subscription credits run out, you can continue sending requests with 
 
 ## Enable and manage
 
-After you turn on “Extra Usage Credit Pack,” the system will automatically deduct from your Extra Usage Pack balance when your subscription credits run out. Click “Settings” in the section to enable a **monthly spending cap** and set the maximum amount you can spend this month. The progress bar shows your Extra Usage Pack consumption for the current month in real time.
+- After you turn on “Extra Usage Credit Pack,” the system will automatically deduct from your Extra Usage Pack balance when your subscription credits run out.
+- You can turn it off at any time: your balance stays in your account and the system pauses spending from it; turn it back on to resume. The toggle can currently only be managed on the web—desktop and mobile apps do not support it yet.
+- Your Extra Usage Pack balance is for your personal account only and is not shared with team or enterprise accounts.
+- Click “Settings” in the section to enable a **monthly spending cap** (off by default): the amount must be higher than the minimum single top-up (RMB 25). Once your monthly spending reaches the cap, the system pauses Extra Usage Pack spending for the rest of the month. The progress bar shows your consumption for the current month in real time, and you can go to [My Credits](https://www.kimi.com/membership/subscription?tab=quota) to view your balance and usage details.
 
 ## Billing and rules
 
@@ -46,9 +49,29 @@ Billing examples (for scale only; actual charges are subject to the platform): a
 
 Yes. Both share the same Extra Usage Pack credits, so one top-up works for both.
 
-## Which is deducted first: the Extra Usage Pack or subscription credits?
+## Which is deducted first: Extra Usage Pack, bonus credits, or membership credits?
 
-Time-limited credits, such as subscription credits, are deducted first. The Extra Usage Pack is deducted as a fallback only after all time-limited credits have been used up.
+The deduction order depends on the credit type and expiry time:
+
+- **Same expiry time**: bonus uses > bonus credits > subscription/free credits > Extra Usage Pack.
+- **Different expiry times**: credits expiring sooner are deducted first:
+  - Subscription credits expiring first: subscription credits > bonus uses > bonus credits > Extra Usage Pack
+  - Bonus uses expiring first: bonus uses > bonus credits > subscription credits > Extra Usage Pack
+  - Bonus credits expiring first: bonus credits > bonus uses > subscription credits > Extra Usage Pack
+- **The Extra Usage Pack never expires**, so it has the lowest deduction priority. However, when you are rate-limited, you can spend your Extra Usage Pack balance to bypass the rate limit (you will be guided to purchase it if it is not enabled).
+
+<Callout type="tip">
+**Example**: Suppose you received 10 bonus Agent uses from a Spring Festival event, 1 million bonus tokens from a World Cup event, have this month’s subscription credits, and also topped up RMB 50 of Extra Usage Pack. The deduction order would be:
+
+- Same expiry time: Spring Festival bonus uses → World Cup bonus credits → monthly subscription credits → RMB 50 Extra Usage Pack.
+- Monthly subscription credits expiring first: monthly subscription credits → Spring Festival bonus uses → World Cup bonus credits → RMB 50 Extra Usage Pack.
+- Spring Festival bonus uses expiring first: Spring Festival bonus uses → World Cup bonus credits → monthly subscription credits → RMB 50 Extra Usage Pack.
+- World Cup bonus credits expiring first: World Cup bonus credits → Spring Festival bonus uses → monthly subscription credits → RMB 50 Extra Usage Pack.
+
+In every case, the RMB 50 Extra Usage Pack is deducted last because it never expires.
+</Callout>
+
+When multiple prompts are eligible at the same time, credit-related prompts (such as credit exhaustion or an Extra Usage Pack switch) take precedence over other prompts (such as large-task usage prompts).
 
 ## Can I continue using Kimi after reaching a credit limit or being rate-limited?
 
@@ -61,6 +84,10 @@ Yes. The balance does not expire and can be accumulated. After your subscription
 ## Does the Extra Usage Pack support enterprise plans?
 
 Not currently.
+
+## Can I get an invoice for Extra Usage Pack top-ups?
+
+Yes. Go to “Settings → Subscription and invoices → Bills and Invoices”, find the corresponding top-up order, and click “Request Invoice”. Invoices are issued per top-up order. For the detailed process, see [How to request an invoice yourself](/membership/membership-invoice).
 
 ## Will my balance be refunded after I close my account?
 

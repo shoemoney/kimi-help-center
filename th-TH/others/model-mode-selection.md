@@ -1,7 +1,7 @@
 ---
 title: "วิธีเลือก: K2.6 / K3 / K3 Cluster, ความเข้มข้นในการคิด และ Agent"
 slug: "model-mode-selection"
-order: 7
+order: 5
 extract_headings: true
 preview: false
 ---

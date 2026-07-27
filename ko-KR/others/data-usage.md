@@ -1,7 +1,7 @@
 ---
 title: "대화 데이터가 모델 학습에 사용되나요?"
 slug: "data-usage"
-order: 2
+order: 10
 extract_headings: false
 preview: false
 ---

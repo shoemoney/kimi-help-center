@@ -1,7 +1,7 @@
 ---
 title: "Kimi로 무엇을 할 수 있나요?"
 slug: "capability"
-order: 5
+order: 2
 extract_headings: true
 preview: false
 ---

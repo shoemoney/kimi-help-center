@@ -1,7 +1,7 @@
 ---
 title: "Xóa tài khoản & gỡ bỏ dữ liệu"
 slug: "account-deletion"
-order: 11
+order: 9
 extract_headings: false
 preview: true
 preview_content: "Tìm lời giải đáp cho những thắc mắc thường gặp về tài khoản, hồ sơ và quản lý dữ liệu."

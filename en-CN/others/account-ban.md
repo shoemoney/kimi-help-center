@@ -1,7 +1,7 @@
 ---
 title: "Account Suspension and Appeals"
 slug: "account-ban"
-order: 10
+order: 8
 extract_headings: true
 preview: true
 preview_content: "Common reasons for account suspension and how to submit an appeal."

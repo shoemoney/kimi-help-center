@@ -1,7 +1,7 @@
 ---
 title: "Kimi 聊天常见问题"
 slug: "chat-issues"
-order: 8
+order: 3
 extract_headings: true
 preview: false
 ---

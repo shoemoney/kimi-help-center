@@ -1,7 +1,7 @@
 ---
 title: "Suspensão de conta e contestações"
 slug: "account-ban"
-order: 10
+order: 8
 extract_headings: true
 preview: false
 ---

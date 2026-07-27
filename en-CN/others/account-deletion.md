@@ -1,7 +1,7 @@
 ---
 title: "Account and Data Deletion"
 slug: "account-deletion"
-order: 11
+order: 9
 extract_headings: true
 preview: true
 preview_content: "Steps for deleting your Kimi account and notes on data deletion."

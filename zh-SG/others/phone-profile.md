@@ -1,7 +1,7 @@
 ---
 title: "账户与个人资料设置"
 slug: "phone-profile"
-order: 9
+order: 6
 extract_headings: true
 preview: false
 ---

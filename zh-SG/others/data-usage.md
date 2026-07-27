@@ -1,7 +1,7 @@
 ---
 title: "对话数据会用于模型训练吗？"
 slug: "data-usage"
-order: 2
+order: 10
 extract_headings: false
 preview: false
 ---

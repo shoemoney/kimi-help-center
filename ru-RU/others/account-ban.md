@@ -1,7 +1,7 @@
 ---
 title: "Блокировка аккаунта и обжалование"
 slug: "account-ban"
-order: 10
+order: 8
 extract_headings: true
 preview: false
 ---

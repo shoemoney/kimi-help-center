@@ -1,7 +1,7 @@
 ---
 title: "對話資料會用於模型訓練嗎？"
 slug: "data-usage"
-order: 2
+order: 10
 extract_headings: false
 preview: false
 ---

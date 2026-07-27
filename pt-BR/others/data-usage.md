@@ -1,7 +1,7 @@
 ---
 title: "Os dados das minhas conversas serão usados no treinamento do modelo?"
 slug: "data-usage"
-order: 2
+order: 10
 extract_headings: false
 preview: false
 ---

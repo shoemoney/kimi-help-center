@@ -1,7 +1,7 @@
 ---
 title: "Masalah umum chat Kimi"
 slug: "chat-issues"
-order: 8
+order: 3
 extract_headings: true
 preview: false
 ---

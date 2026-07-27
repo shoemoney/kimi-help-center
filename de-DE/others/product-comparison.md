@@ -1,7 +1,7 @@
 ---
 title: "Was ist der Unterschied zwischen Kimi, Kimi Work, Kimi Code und Kimi Claw? Welches Produkt sollte ich verwenden?"
 slug: "product-comparison"
-order: 6
+order: 4
 extract_headings: true
 preview: false
 ---

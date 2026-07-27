@@ -1,7 +1,7 @@
 ---
 title: "帳號與個人資料設定"
 slug: "phone-profile"
-order: 9
+order: 6
 extract_headings: true
 preview: false
 ---

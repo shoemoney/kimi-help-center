@@ -1,7 +1,7 @@
 ---
 title: "선택 가이드: K2.6 / K3 / K3 Cluster, 사고 강도, Agent"
 slug: "model-mode-selection"
-order: 7
+order: 5
 extract_headings: true
 preview: false
 ---

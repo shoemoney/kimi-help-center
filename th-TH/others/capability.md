@@ -1,7 +1,7 @@
 ---
 title: "Kimi ทำอะไรได้บ้าง?"
 slug: "capability"
-order: 5
+order: 2
 extract_headings: true
 preview: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "การลบบัญชีและการลบข้อมูล"
 slug: "account-deletion"
-order: 11
+order: 9
 extract_headings: false
 preview: true
 preview_content: "ค้นหาคำตอบสำหรับคำถามที่พบบ่อยเกี่ยวกับบัญชี โปรไฟล์ และการจัดการข้อมูล"

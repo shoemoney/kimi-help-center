@@ -1,7 +1,7 @@
 ---
 title: "Sohbet verilerim model eğitimi için kullanılacak mı?"
 slug: "data-usage"
-order: 2
+order: 10
 extract_headings: false
 preview: false
 ---

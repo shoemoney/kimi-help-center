@@ -1,7 +1,7 @@
 ---
 title: "Eliminación de cuenta y de datos"
 slug: "account-deletion"
-order: 11
+order: 9
 extract_headings: false
 preview: true
 preview_content: "Encuentra respuestas a las preguntas más comunes sobre cuentas, perfiles y gestión de datos."

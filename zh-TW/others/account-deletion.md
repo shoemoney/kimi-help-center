@@ -1,7 +1,7 @@
 ---
 title: "帳號刪除與資料移除"
 slug: "account-deletion"
-order: 11
+order: 9
 extract_headings: false
 preview: true
 preview_content: "查找帳號、個人檔案與資料管理常見問題的解答。"

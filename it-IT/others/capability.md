@@ -1,7 +1,7 @@
 ---
 title: "Cosa può fare Kimi?"
 slug: "capability"
-order: 5
+order: 2
 extract_headings: true
 preview: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Kimi neler yapabilir?"
 slug: "capability"
-order: 5
+order: 2
 extract_headings: true
 preview: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Kimi có thể làm gì?"
 slug: "capability"
-order: 2
+order: 5
 extract_headings: true
 preview: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "我的数据会与第三方共享吗？存储在哪里？"
 slug: "data-sharing"
-order: 11
+order: 4
 extract_headings: true
 preview: false
 ---

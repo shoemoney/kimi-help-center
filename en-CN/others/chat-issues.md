@@ -1,7 +1,7 @@
 ---
 title: "Kimi Chat FAQ"
 slug: "chat-issues"
-order: 5
+order: 8
 extract_headings: true
 preview: true
 preview_content: "Common Kimi chat issues: sending failures, overly long context, safety prompts, and file downloads."

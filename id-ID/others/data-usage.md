@@ -1,7 +1,7 @@
 ---
 title: "Apakah data percakapan saya akan digunakan untuk pelatihan model?"
 slug: "data-usage"
-order: 9
+order: 2
 extract_headings: false
 preview: false
 ---

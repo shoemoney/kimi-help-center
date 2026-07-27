@@ -1,7 +1,7 @@
 ---
 title: "Будут ли данные моих переписок использоваться для обучения модели?"
 slug: "data-usage"
-order: 9
+order: 2
 extract_headings: false
 preview: false
 ---

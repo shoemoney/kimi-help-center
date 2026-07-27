@@ -1,7 +1,7 @@
 ---
 title: "如何删除对话数据？"
 slug: "data-deletion"
-order: 10
+order: 3
 extract_headings: true
 preview: false
 ---

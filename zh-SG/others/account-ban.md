@@ -1,7 +1,7 @@
 ---
 title: "账号封禁与申诉"
 slug: "account-ban"
-order: 7
+order: 10
 extract_headings: true
 preview: false
 ---

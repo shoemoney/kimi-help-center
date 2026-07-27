@@ -1,7 +1,7 @@
 ---
 title: "계정 삭제 및 데이터 제거"
 slug: "account-deletion"
-order: 8
+order: 11
 extract_headings: false
 preview: true
 preview_content: "계정, 프로필, 데이터 관리에 관한 자주 묻는 질문의 답을 확인하세요."

@@ -1,7 +1,7 @@
 ---
 title: "계정 정지 및 이의 제기"
 slug: "account-ban"
-order: 7
+order: 10
 extract_headings: true
 preview: false
 ---

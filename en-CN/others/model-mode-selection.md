@@ -1,7 +1,7 @@
 ---
 title: "How to Choose: K2.6 / K3 / K3 Cluster, Reasoning Effort, and Agent"
 slug: "model-mode-selection"
-order: 4
+order: 7
 extract_headings: true
 preview: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Kimi 채팅 자주 묻는 문제"
 slug: "chat-issues"
-order: 5
+order: 8
 extract_headings: true
 preview: false
 ---

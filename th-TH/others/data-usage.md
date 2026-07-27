@@ -1,7 +1,7 @@
 ---
 title: "ข้อมูลการสนทนาของฉันจะถูกใช้เพื่อฝึกโมเดลหรือไม่"
 slug: "data-usage"
-order: 9
+order: 2
 extract_headings: false
 preview: false
 ---

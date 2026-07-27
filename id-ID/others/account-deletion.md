@@ -1,7 +1,7 @@
 ---
 title: "Penghapusan akun & data"
 slug: "account-deletion"
-order: 8
+order: 11
 extract_headings: false
 preview: true
 preview_content: "Temukan jawaban atas pertanyaan umum seputar akun, profil, dan pengelolaan data."

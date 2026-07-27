@@ -1,7 +1,7 @@
 ---
 title: "Hesap askıya alma ve itirazlar"
 slug: "account-ban"
-order: 7
+order: 10
 extract_headings: true
 preview: false
 ---

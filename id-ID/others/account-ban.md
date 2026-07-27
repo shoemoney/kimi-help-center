@@ -1,7 +1,7 @@
 ---
 title: "Penangguhan akun & banding"
 slug: "account-ban"
-order: 7
+order: 10
 extract_headings: true
 preview: false
 ---

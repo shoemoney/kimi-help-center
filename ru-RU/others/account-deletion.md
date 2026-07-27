@@ -1,7 +1,7 @@
 ---
 title: "Удаление аккаунта и данных"
 slug: "account-deletion"
-order: 8
+order: 11
 extract_headings: false
 preview: true
 preview_content: "Ответы на распространённые вопросы об аккаунте, профиле и управлении данными."

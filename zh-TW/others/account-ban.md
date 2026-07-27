@@ -1,7 +1,7 @@
 ---
 title: "帳號停權與申訴"
 slug: "account-ban"
-order: 7
+order: 10
 extract_headings: true
 preview: false
 ---

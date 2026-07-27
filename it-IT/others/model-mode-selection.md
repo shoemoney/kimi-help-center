@@ -1,7 +1,7 @@
 ---
 title: "Come scegliere: K2.6 / K3 / K3 Cluster, intensità di ragionamento e Agent"
 slug: "model-mode-selection"
-order: 4
+order: 7
 extract_headings: true
 preview: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Dữ liệu hội thoại của tôi có được dùng để huấn luyện mô hình không?"
 slug: "data-usage"
-order: 9
+order: 2
 extract_headings: false
 preview: false
 ---

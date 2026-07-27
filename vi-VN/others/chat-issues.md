@@ -1,7 +1,7 @@
 ---
 title: "Các sự cố thường gặp khi chat với Kimi"
 slug: "chat-issues"
-order: 5
+order: 8
 extract_headings: true
 preview: false
 ---

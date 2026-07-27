@@ -2,7 +2,7 @@
 title: "スキルとは？"
 slug: "what-are-skills"
 order: 8
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

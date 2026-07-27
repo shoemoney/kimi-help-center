@@ -2,7 +2,7 @@
 title: "Kerja sama bisnis & penjualan"
 slug: "api-business-cooperation"
 order: 12
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

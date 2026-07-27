@@ -2,7 +2,7 @@
 title: "Skills란 무엇인가요?"
 slug: "what-are-skills"
 order: 8
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

@@ -2,7 +2,7 @@
 title: "Hợp tác kinh doanh và bán hàng"
 slug: "api-business-cooperation"
 order: 12
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

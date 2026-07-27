@@ -2,7 +2,7 @@
 title: "Partenariats commerciaux et ventes"
 slug: "api-business-cooperation"
 order: 12
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

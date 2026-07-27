@@ -2,7 +2,7 @@
 title: "支付问题"
 slug: "membership-payment-issues"
 order: 9
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

@@ -2,7 +2,7 @@
 title: "Credits Agent et facturation"
 slug: "quota-and-billing"
 order: 4
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

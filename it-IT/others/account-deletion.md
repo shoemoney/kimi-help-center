@@ -2,7 +2,7 @@
 title: "Eliminazione dell'account e rimozione dei dati"
 slug: "account-deletion"
 order: 9
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Trova le risposte alle domande più frequenti su account, profilo e gestione dei dati."
 ---

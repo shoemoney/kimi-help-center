@@ -2,7 +2,7 @@
 title: "프리셋"
 slug: "quick-phrases"
 order: 4
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

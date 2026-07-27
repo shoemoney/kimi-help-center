@@ -2,7 +2,7 @@
 title: "Account deletion & data removal"
 slug: "account-deletion"
 order: 9
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Find answers to common account, profile, and data management questions."
 ---

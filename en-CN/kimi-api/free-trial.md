@@ -2,7 +2,7 @@
 title: "Free Trial Benefits"
 slug: "api-free-trial"
 order: 7
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Usage rules and expiry details for Kimi API free trial vouchers."
 ---

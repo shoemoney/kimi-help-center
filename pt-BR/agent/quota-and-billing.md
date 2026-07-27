@@ -2,7 +2,7 @@
 title: "Credits e faturamento do Agent"
 slug: "quota-and-billing"
 order: 4
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

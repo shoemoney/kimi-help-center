@@ -2,7 +2,7 @@
 title: "Agent credits & billing"
 slug: "quota-and-billing"
 order: 4
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

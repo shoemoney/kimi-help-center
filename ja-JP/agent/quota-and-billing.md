@@ -2,7 +2,7 @@
 title: "Agent の credit と課金"
 slug: "quota-and-billing"
 order: 4
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

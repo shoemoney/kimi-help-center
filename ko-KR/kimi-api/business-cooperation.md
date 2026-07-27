@@ -2,7 +2,7 @@
 title: "비즈니스 협력 및 영업 문의"
 slug: "api-business-cooperation"
 order: 12
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

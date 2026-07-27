@@ -2,7 +2,7 @@
 title: "商务合作与销售咨询"
 slug: "api-business-cooperation"
 order: 12
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "了解 Kimi API 商务合作与企业服务的联系方式。"
 ---

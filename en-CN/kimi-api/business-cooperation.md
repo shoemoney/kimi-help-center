@@ -2,7 +2,7 @@
 title: "Business Cooperation and Sales Contact"
 slug: "api-business-cooperation"
 order: 12
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Contact information for Kimi API business cooperation and enterprise services."
 ---

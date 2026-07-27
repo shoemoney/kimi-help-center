@@ -2,7 +2,7 @@
 title: "Memory space"
 slug: "memory-space"
 order: 2
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

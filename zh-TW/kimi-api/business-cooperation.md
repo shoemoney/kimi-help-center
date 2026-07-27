@@ -2,7 +2,7 @@
 title: "商務合作與聯絡銷售團隊"
 slug: "api-business-cooperation"
 order: 12
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Kimi API 商務合作與企業服務聯絡方式。"
 ---

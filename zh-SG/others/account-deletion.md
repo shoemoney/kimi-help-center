@@ -2,7 +2,7 @@
 title: "账号删除与数据移除"
 slug: "account-deletion"
 order: 9
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "查找账号、个人资料和数据管理常见问题的解答。"
 ---

@@ -2,7 +2,7 @@
 title: "Memory Space"
 slug: "memory-space"
 order: 2
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Learn how Kimi’s Memory Space works, so AI can remember your preferences and information across sessions."
 ---

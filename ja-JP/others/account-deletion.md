@@ -2,7 +2,7 @@
 title: "アカウント削除とデータの削除"
 slug: "account-deletion"
 order: 9
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "アカウント、プロフィール、データ管理に関するよくある質問の回答をご確認ください。"
 ---

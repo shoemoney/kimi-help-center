@@ -2,7 +2,7 @@
 title: "Suppression du compte et effacement des données"
 slug: "account-deletion"
 order: 9
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Trouvez des réponses aux questions courantes sur le compte, le profil et la gestion des données."
 ---

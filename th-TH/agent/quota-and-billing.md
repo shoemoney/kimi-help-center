@@ -2,7 +2,7 @@
 title: "credit และการเรียกเก็บเงินของ Agent"
 slug: "quota-and-billing"
 order: 4
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 

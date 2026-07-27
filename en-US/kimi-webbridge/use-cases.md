@@ -27,7 +27,7 @@ Tell the AI Agent, in one sentence, what you repeatedly do on the web. It can ge
 The Skills and CLIs used in the scenarios below were created this way. You can install and use them directly, or treat them as reference examples.
 
 <Callout type="warning">
-The Skills and CLIs provided on this page are for teaching and technical exchange only. If you have any concerns, please contact <a href="mailto:support@moonshot.cn">support@moonshot.cn</a>.
+The Skills and CLIs provided on this page are for teaching and technical exchange only. If you have any concerns, please contact <a href="mailto:support@moonshot.ai">support@moonshot.ai</a>.
 </Callout>
 
 ## Information Lookup and Organization

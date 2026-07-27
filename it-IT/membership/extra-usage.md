@@ -43,7 +43,7 @@ Utilizzo extra viene scalato in tempo reale in base all'uso effettivo. Attività
 - "Consigliami una bella canzone rock." — circa **USD 0.005**.
 - "Organizza un viaggio in auto di una settimana lungo la Pacific Coast Highway in California — San Francisco, Big Sur, Monterey e Santa Barbara — con programmi giornalieri, soste panoramiche e consigli sui ristoranti." — circa **USD 0.24**.
 
-Le tariffe di Utilizzo extra sono vicine ai prezzi ufficiali dell'API su [Kimi Open Platform](https://platform.kimi.com). Se il tuo utilizzo è elevato, di solito conviene passare a un abbonamento superiore piuttosto che acquistare un importo equivalente di Utilizzo extra.
+Le tariffe di Utilizzo extra sono vicine ai prezzi ufficiali dell'API su [Kimi Open Platform](https://platform.kimi.ai). Se il tuo utilizzo è elevato, di solito conviene passare a un abbonamento superiore piuttosto che acquistare un importo equivalente di Utilizzo extra.
 
 ## Limiti di ricarica
 

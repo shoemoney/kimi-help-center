@@ -27,7 +27,7 @@ WebBridge を使うときは、タスクの説明が具体的であるほど、A
 以下のシナリオで使っている Skills と CLIs は、この方法で作成したものです。そのままインストールして使うことも、参考例として活用することもできます。
 
 <Callout type="warning">
-このページで提供している Skills と CLIs は、教育および技術交流のみを目的としています。ご不明な点や懸念がある場合は、<a href="mailto:support@moonshot.cn">support@moonshot.cn</a> までお問い合わせください。
+このページで提供している Skills と CLIs は、教育および技術交流のみを目的としています。ご不明な点や懸念がある場合は、<a href="mailto:support@moonshot.ai">support@moonshot.ai</a> までお問い合わせください。
 </Callout>
 
 ## 情報検索と整理

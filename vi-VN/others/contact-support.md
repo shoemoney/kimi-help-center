@@ -23,10 +23,10 @@ Theo dõi Tài khoản chính thức WeChat “**月之暗面Kimi**”, sau đó
 
 | Loại vấn đề | Email |
 |---|---|
-| **Vấn đề về gói thành viên trả phí** (chưa nhận được quyền lợi, khoản khấu trừ thanh toán bất thường, nâng cấp hoặc hạ cấp gói, fapiao/hóa đơn, v.v.) | membership@moonshot.cn |
-| **Câu hỏi chung** (thắc mắc về tính năng sản phẩm, vấn đề kỹ thuật, vấn đề tài khoản không trả phí, đề xuất tính năng) | support@moonshot.cn |
-| **Khiếu nại tài khoản / Khiếu nại và báo cáo** | support@moonshot.cn |
-| **Hỗ trợ nhà phát triển Kimi API** | Đăng nhập vào [Kimi Open Platform](https://platform.kimi.com/) để xem thông tin liên hệ hỗ trợ và cộng đồng nhà phát triển |
+| **Vấn đề về gói thành viên trả phí** (chưa nhận được quyền lợi, khoản khấu trừ thanh toán bất thường, nâng cấp hoặc hạ cấp gói, fapiao/hóa đơn, v.v.) | membership@moonshot.ai |
+| **Câu hỏi chung** (thắc mắc về tính năng sản phẩm, vấn đề kỹ thuật, vấn đề tài khoản không trả phí, đề xuất tính năng) | support@moonshot.ai |
+| **Khiếu nại tài khoản / Khiếu nại và báo cáo** | support@moonshot.ai |
+| **Hỗ trợ nhà phát triển Kimi API** | Đăng nhập vào [Kimi Open Platform](https://platform.kimi.ai/) để xem thông tin liên hệ hỗ trợ và cộng đồng nhà phát triển |
 
 <Callout type="tip">
 Khi gửi email cho chúng tôi, vui lòng cung cấp thông tin tài khoản của bạn (số điện thoại di động hoặc địa chỉ email đã đăng ký) và ảnh chụp màn hình về vấn đề gặp phải. Email từ thành viên trả phí sẽ được ưu tiên xử lý, giúp chúng tôi xác định vấn đề nhanh hơn.

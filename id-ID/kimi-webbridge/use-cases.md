@@ -27,7 +27,7 @@ Beri tahu Agen AI, dalam satu kalimat, apa yang berulang kali Anda lakukan di we
 Skills dan CLI yang digunakan dalam skenario di bawah dibuat dengan cara ini. Anda dapat langsung menginstal dan menggunakannya, atau menjadikannya contoh referensi.
 
 <Callout type="warning">
-Skills dan CLI yang disediakan di halaman ini hanya untuk pembelajaran dan pertukaran teknis. Jika Anda memiliki pertanyaan atau kekhawatiran, hubungi <a href="mailto:support@moonshot.cn">support@moonshot.cn</a>.
+Skills dan CLI yang disediakan di halaman ini hanya untuk pembelajaran dan pertukaran teknis. Jika Anda memiliki pertanyaan atau kekhawatiran, hubungi <a href="mailto:support@moonshot.ai">support@moonshot.ai</a>.
 </Callout>
 
 ## Pencarian dan Pengorganisasian Informasi

@@ -43,7 +43,7 @@ O Uso extra é descontado em tempo real com base no uso efetivo. Tarefas e model
 - "Recomende uma ótima música de rock." — aproximadamente **USD 0.005**.
 - "Planeje uma viagem de carro de uma semana pela California Pacific Coast Highway — San Francisco, Big Sur, Monterey e Santa Barbara — com roteiros diários, paradas panorâmicas e recomendações de restaurantes." — aproximadamente **USD 0.24**.
 
-O preço do Uso extra é próximo ao preço oficial da API na [Kimi Open Platform](https://platform.kimi.com). Se o seu uso for alto, fazer upgrade da assinatura geralmente sai mais em conta do que comprar uma quantidade equivalente de Uso extra.
+O preço do Uso extra é próximo ao preço oficial da API na [Kimi Open Platform](https://platform.kimi.ai). Se o seu uso for alto, fazer upgrade da assinatura geralmente sai mais em conta do que comprar uma quantidade equivalente de Uso extra.
 
 ## Limites de recarga
 

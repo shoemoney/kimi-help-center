@@ -23,10 +23,10 @@ Follow the WeChat Official Account “**月之暗面Kimi**”, then tap “**Con
 
 | Issue type | Email |
 |---|---|
-| **Paid membership issues** (benefits not received, abnormal payment deductions, upgrades or downgrades, fapiao/invoices, etc.) | membership@moonshot.cn |
-| **General questions** (product feature inquiries, technical issues, non-paid account issues, feature suggestions) | support@moonshot.cn |
-| **Account appeals / Complaints and reports** | support@moonshot.cn |
-| **Kimi API developer support** | Log in to [Kimi Open Platform](https://platform.kimi.com/) to check support contact details and developer communities |
+| **Paid membership issues** (benefits not received, abnormal payment deductions, upgrades or downgrades, fapiao/invoices, etc.) | membership@moonshot.ai |
+| **General questions** (product feature inquiries, technical issues, non-paid account issues, feature suggestions) | support@moonshot.ai |
+| **Account appeals / Complaints and reports** | support@moonshot.ai |
+| **Kimi API developer support** | Log in to [Kimi Open Platform](https://platform.kimi.ai/) to check support contact details and developer communities |
 
 <Callout type="tip">
 When emailing us, please include your account information (registered mobile number or email address) and screenshots of the issue. Emails from paid members will be prioritized, helping us locate the problem more quickly.

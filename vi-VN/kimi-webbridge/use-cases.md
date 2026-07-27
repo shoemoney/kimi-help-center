@@ -27,7 +27,7 @@ Hãy nói với AI Agent, chỉ trong một câu, việc bạn thường lặp �
 Các Skills và CLIs dùng trong những kịch bản dưới đây được tạo theo cách này. Bạn có thể cài đặt và sử dụng trực tiếp, hoặc xem chúng như các ví dụ tham khảo.
 
 <Callout type="warning">
-Các Skills và CLIs được cung cấp trên trang này chỉ phục vụ mục đích giảng dạy và trao đổi kỹ thuật. Nếu có bất kỳ băn khoăn nào, vui lòng liên hệ <a href="mailto:support@moonshot.cn">support@moonshot.cn</a>.
+Các Skills và CLIs được cung cấp trên trang này chỉ phục vụ mục đích giảng dạy và trao đổi kỹ thuật. Nếu có bất kỳ băn khoăn nào, vui lòng liên hệ <a href="mailto:support@moonshot.ai">support@moonshot.ai</a>.
 </Callout>
 
 ## Tra cứu và sắp xếp thông tin

@@ -43,7 +43,7 @@ Penggunaan Ekstra dipotong secara langsung berdasarkan pemakaian aktual. Biaya d
 - "Rekomendasikan lagu rock yang bagus." — sekitar **USD 0.005**.
 - "Rencanakan perjalanan darat satu minggu menyusuri California Pacific Coast Highway — San Francisco, Big Sur, Monterey, dan Santa Barbara — lengkap dengan jadwal harian, titik pemandangan, dan rekomendasi restoran." — sekitar **USD 0.24**.
 
-Harga Penggunaan Ekstra mendekati harga API resmi di [Kimi Open Platform](https://platform.kimi.com). Jika pemakaian Anda tinggi, meningkatkan langganan biasanya lebih hemat daripada membeli Penggunaan Ekstra dalam jumlah setara.
+Harga Penggunaan Ekstra mendekati harga API resmi di [Kimi Open Platform](https://platform.kimi.ai). Jika pemakaian Anda tinggi, meningkatkan langganan biasanya lebih hemat daripada membeli Penggunaan Ekstra dalam jumlah setara.
 
 ## Batas isi ulang
 

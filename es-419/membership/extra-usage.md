@@ -43,7 +43,7 @@ El Uso adicional se descuenta en tiempo real según el uso efectivo. Distintas t
 - "Recomiéndame una gran canción de rock." — aproximadamente **USD 0.005**.
 - "Planifica un viaje en auto de una semana por la California Pacific Coast Highway — San Francisco, Big Sur, Monterey y Santa Barbara — con itinerarios diarios, paradas panorámicas y recomendaciones de restaurantes." — aproximadamente **USD 0.24**.
 
-El precio del Uso adicional es similar al precio oficial de la API en [Kimi Open Platform](https://platform.kimi.com). Si tu uso es alto, normalmente resulta más rentable actualizar tu suscripción que comprar una cantidad equivalente de Uso adicional.
+El precio del Uso adicional es similar al precio oficial de la API en [Kimi Open Platform](https://platform.kimi.ai). Si tu uso es alto, normalmente resulta más rentable actualizar tu suscripción que comprar una cantidad equivalente de Uso adicional.
 
 ## Límites de recarga
 

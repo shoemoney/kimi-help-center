@@ -27,7 +27,7 @@ AI Agent’a web’de tekrar tekrar yaptığınız işi tek cümleyle anlatın. 
 Aşağıdaki senaryolarda kullanılan Skills ve CLI’lar bu yöntemle oluşturuldu. Bunları doğrudan kurup kullanabilir veya referans örnek olarak değerlendirebilirsiniz.
 
 <Callout type="warning">
-Bu sayfada sunulan Skills ve CLI’lar yalnızca eğitim ve teknik paylaşım amaçlıdır. Herhangi bir çekinceniz varsa lütfen <a href="mailto:support@moonshot.cn">support@moonshot.cn</a> adresinden bizimle iletişime geçin.
+Bu sayfada sunulan Skills ve CLI’lar yalnızca eğitim ve teknik paylaşım amaçlıdır. Herhangi bir çekinceniz varsa lütfen <a href="mailto:support@moonshot.ai">support@moonshot.ai</a> adresinden bizimle iletişime geçin.
 </Callout>
 
 ## Bilgi Arama ve Düzenleme

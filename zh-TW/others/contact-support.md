@@ -23,10 +23,10 @@ preview: false
 
 | 問題類型 | 電子郵件 |
 |---|---|
-| **付費會員問題**（未收到會員權益、付款扣款異常、升級或降級、發票／invoice 等） | membership@moonshot.cn |
-| **一般問題**（產品功能諮詢、技術問題、非付費帳號問題、功能建議） | support@moonshot.cn |
-| **帳號申訴／投訴與檢舉** | support@moonshot.cn |
-| **Kimi API 開發者支援** | 登入 [Kimi Open Platform (localize)](https://platform.kimi.com/) 查看支援聯絡方式與開發者社群 |
+| **付費會員問題**（未收到會員權益、付款扣款異常、升級或降級、發票／invoice 等） | membership@moonshot.ai |
+| **一般問題**（產品功能諮詢、技術問題、非付費帳號問題、功能建議） | support@moonshot.ai |
+| **帳號申訴／投訴與檢舉** | support@moonshot.ai |
+| **Kimi API 開發者支援** | 登入 [Kimi Open Platform (localize)](https://platform.kimi.ai/) 查看支援聯絡方式與開發者社群 |
 
 <Callout type="tip">
 寄信給我們時，請附上你的帳號資訊（註冊手機號碼或電子郵件地址）以及問題截圖。付費會員來信會優先處理，這也能協助我們更快定位問題。

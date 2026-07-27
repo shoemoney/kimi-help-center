@@ -43,7 +43,7 @@ Extra Usage is deducted in real time based on actual usage. Different tasks and 
 - "Recommend a great rock song." — approximately **USD 0.005**.
 - "Plan a one-week road trip along the California Pacific Coast Highway — San Francisco, Big Sur, Monterey, and Santa Barbara — with daily schedules, scenic stops, and restaurant recommendations." — approximately **USD 0.24**.
 
-Extra Usage pricing is close to the official API pricing on the [Kimi Open Platform](https://platform.kimi.com). If your usage is high, upgrading your subscription is usually more cost-effective than buying an equivalent amount of Extra Usage.
+Extra Usage pricing is close to the official API pricing on the [Kimi Open Platform](https://platform.kimi.ai). If your usage is high, upgrading your subscription is usually more cost-effective than buying an equivalent amount of Extra Usage.
 
 ## Recharge limits
 

@@ -43,7 +43,7 @@ Mức dùng bổ sung được khấu trừ theo thời gian thực dựa trên 
 - "Gợi ý một bài rock thật hay." — khoảng **USD 0.005**.
 - "Lên kế hoạch cho chuyến road trip một tuần dọc theo California Pacific Coast Highway — San Francisco, Big Sur, Monterey và Santa Barbara — gồm lịch trình hằng ngày, điểm ngắm cảnh và gợi ý nhà hàng." — khoảng **USD 0.24**.
 
-Giá của Mức dùng bổ sung gần với giá API chính thức trên [Nền tảng Mở Kimi](https://platform.kimi.com). Nếu bạn sử dụng nhiều, nâng cấp gói đăng ký thường tiết kiệm hơn so với mua một lượng Mức dùng bổ sung tương đương.
+Giá của Mức dùng bổ sung gần với giá API chính thức trên [Nền tảng Mở Kimi](https://platform.kimi.ai). Nếu bạn sử dụng nhiều, nâng cấp gói đăng ký thường tiết kiệm hơn so với mua một lượng Mức dùng bổ sung tương đương.
 
 ## Giới hạn nạp tiền
 

@@ -23,10 +23,10 @@ Suivez le compte officiel WeChat « **月之暗面Kimi** », puis touchez « **N
 
 | Type de problème | E-mail |
 |---|---|
-| **Problèmes d’abonnement payant** (avantages non reçus, prélèvements anormaux, passage à une offre supérieure ou inférieure, fapiao/factures, etc.) | membership@moonshot.cn |
-| **Questions générales** (demandes sur les fonctionnalités du produit, problèmes techniques, problèmes de compte non payant, suggestions de fonctionnalités) | support@moonshot.cn |
-| **Recours liés au compte / Réclamations et signalements** | support@moonshot.cn |
-| **Assistance développeurs Kimi API** | Connectez-vous à [Kimi Open Platform](https://platform.kimi.com/) pour consulter les coordonnées de l’assistance et les communautés de développeurs |
+| **Problèmes d’abonnement payant** (avantages non reçus, prélèvements anormaux, passage à une offre supérieure ou inférieure, fapiao/factures, etc.) | membership@moonshot.ai |
+| **Questions générales** (demandes sur les fonctionnalités du produit, problèmes techniques, problèmes de compte non payant, suggestions de fonctionnalités) | support@moonshot.ai |
+| **Recours liés au compte / Réclamations et signalements** | support@moonshot.ai |
+| **Assistance développeurs Kimi API** | Connectez-vous à [Kimi Open Platform](https://platform.kimi.ai/) pour consulter les coordonnées de l’assistance et les communautés de développeurs |
 
 <Callout type="tip">
 Lorsque vous nous écrivez, veuillez indiquer les informations de votre compte (numéro de mobile ou adresse e-mail d’inscription) et joindre des captures d’écran du problème. Les e-mails des membres payants sont traités en priorité, ce qui nous aide à identifier le problème plus rapidement.

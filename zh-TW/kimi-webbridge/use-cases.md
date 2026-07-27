@@ -27,7 +27,7 @@ Kimi WebBridge 可讓 Agent 像真人一樣操作瀏覽器，使用你已登入�
 以下情境中使用的 Skills 與 CLIs 都是透過這種方式建立的。你可以直接安裝使用，也可以將它們作為參考範例。
 
 <Callout type="warning">
-本頁提供的 Skills 與 CLIs 僅供教學與技術交流使用。如有任何疑慮，請聯絡 <a href="mailto:support@moonshot.cn">support@moonshot.cn</a>。
+本頁提供的 Skills 與 CLIs 僅供教學與技術交流使用。如有任何疑慮，請聯絡 <a href="mailto:support@moonshot.ai">support@moonshot.ai</a>。
 </Callout>
 
 ## 資訊查找與整理

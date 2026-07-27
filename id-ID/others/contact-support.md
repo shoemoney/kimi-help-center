@@ -23,10 +23,10 @@ Ikuti Akun Resmi WeChat “**月之暗面Kimi**”, lalu ketuk “**Hubungi Kami
 
 | Jenis masalah | Email |
 |---|---|
-| **Masalah keanggotaan berbayar** (manfaat belum diterima, pemotongan pembayaran tidak normal, upgrade atau downgrade, fapiao/invoice, dll.) | membership@moonshot.cn |
-| **Pertanyaan umum** (pertanyaan tentang fitur produk, masalah teknis, masalah akun non-berbayar, saran fitur) | support@moonshot.cn |
-| **Banding akun / Keluhan dan laporan** | support@moonshot.cn |
-| **Dukungan developer Kimi API** | Masuk ke [Kimi Open Platform](https://platform.kimi.com/) untuk memeriksa detail kontak dukungan dan komunitas developer |
+| **Masalah keanggotaan berbayar** (manfaat belum diterima, pemotongan pembayaran tidak normal, upgrade atau downgrade, fapiao/invoice, dll.) | membership@moonshot.ai |
+| **Pertanyaan umum** (pertanyaan tentang fitur produk, masalah teknis, masalah akun non-berbayar, saran fitur) | support@moonshot.ai |
+| **Banding akun / Keluhan dan laporan** | support@moonshot.ai |
+| **Dukungan developer Kimi API** | Masuk ke [Kimi Open Platform](https://platform.kimi.ai/) untuk memeriksa detail kontak dukungan dan komunitas developer |
 
 <Callout type="tip">
 Saat mengirim email kepada kami, sertakan informasi akun Anda (nomor ponsel terdaftar atau alamat email) serta tangkapan layar masalah. Email dari anggota berbayar akan diprioritaskan, sehingga kami dapat menemukan masalah dengan lebih cepat.

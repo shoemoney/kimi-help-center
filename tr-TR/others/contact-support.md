@@ -23,10 +23,10 @@ WeChat Resmî Hesabı “**月之暗面Kimi**”ni takip edin; ardından resmî 
 
 | Sorun türü | E-posta |
 |---|---|
-| **Ücretli üyelik sorunları** (avantajların tanımlanmaması, olağan dışı ödeme kesintileri, üyelik yükseltme veya düşürme, fapiao/faturalar vb.) | membership@moonshot.cn |
-| **Genel sorular** (ürün özellikleriyle ilgili sorular, teknik sorunlar, ücretli olmayan hesap sorunları, özellik önerileri) | support@moonshot.cn |
-| **Hesap itirazları / Şikâyet ve bildirimler** | support@moonshot.cn |
-| **Kimi API geliştirici desteği** | Destek iletişim bilgilerini ve geliştirici topluluklarını görmek için [Kimi Open Platform](https://platform.kimi.com/) üzerinde oturum açın |
+| **Ücretli üyelik sorunları** (avantajların tanımlanmaması, olağan dışı ödeme kesintileri, üyelik yükseltme veya düşürme, fapiao/faturalar vb.) | membership@moonshot.ai |
+| **Genel sorular** (ürün özellikleriyle ilgili sorular, teknik sorunlar, ücretli olmayan hesap sorunları, özellik önerileri) | support@moonshot.ai |
+| **Hesap itirazları / Şikâyet ve bildirimler** | support@moonshot.ai |
+| **Kimi API geliştirici desteği** | Destek iletişim bilgilerini ve geliştirici topluluklarını görmek için [Kimi Open Platform](https://platform.kimi.ai/) üzerinde oturum açın |
 
 <Callout type="tip">
 Bize e-posta gönderirken lütfen hesap bilgilerinizi (kayıtlı cep telefonu numarası veya e-posta adresi) ve soruna ait ekran görüntülerini ekleyin. Ücretli üyelerden gelen e-postalara öncelik verilir; bu da sorunu daha hızlı tespit etmemize yardımcı olur.

@@ -43,7 +43,7 @@ L’Utilisation supplémentaire est déduite en temps réel selon l’utilisatio
 - « Recommande-moi un excellent morceau de rock. » — environ **USD 0.005**.
 - « Prépare un road trip d’une semaine le long de la Pacific Coast Highway en Californie — San Francisco, Big Sur, Monterey et Santa Barbara — avec le programme de chaque journée, les points de vue à ne pas manquer et des recommandations de restaurants. » — environ **USD 0.24**.
 
-Les tarifs de l’Utilisation supplémentaire sont proches des tarifs API officiels de la [Kimi Open Platform](https://platform.kimi.com). Si votre utilisation est élevée, mettre à niveau votre abonnement est généralement plus économique que d’acheter un montant équivalent d’Utilisation supplémentaire.
+Les tarifs de l’Utilisation supplémentaire sont proches des tarifs API officiels de la [Kimi Open Platform](https://platform.kimi.ai). Si votre utilisation est élevée, mettre à niveau votre abonnement est généralement plus économique que d’acheter un montant équivalent d’Utilisation supplémentaire.
 
 ## Limites de recharge
 

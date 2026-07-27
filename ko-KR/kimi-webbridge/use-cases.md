@@ -27,7 +27,7 @@ WebBridge를 사용할 때는 작업 설명이 구체적일수록 에이전트�
 아래 시나리오에서 사용한 Skills와 CLIs는 모두 이런 방식으로 만들었습니다. 그대로 설치해 사용해도 되고, 참고 예시로 활용해도 됩니다.
 
 <Callout type="warning">
-이 페이지에서 제공하는 Skills와 CLIs는 교육 및 기술 교류용으로만 제공됩니다. 문의 사항이 있으면 <a href="mailto:support@moonshot.cn">support@moonshot.cn</a>으로 연락해 주세요.
+이 페이지에서 제공하는 Skills와 CLIs는 교육 및 기술 교류용으로만 제공됩니다. 문의 사항이 있으면 <a href="mailto:support@moonshot.ai">support@moonshot.ai</a>으로 연락해 주세요.
 </Callout>
 
 ## 정보 검색 및 정리

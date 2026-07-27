@@ -43,7 +43,7 @@ Zusatznutzung wird in Echtzeit nach tatsächlicher Nutzung abgerechnet. Verschie
 - „Empfiehl mir einen großartigen Rocksong.“ – etwa **USD 0.005**.
 - „Plane einen einwöchigen Roadtrip entlang des California Pacific Coast Highway – San Francisco, Big Sur, Monterey und Santa Barbara – mit Tagesplänen, Aussichtspunkten und Restaurantempfehlungen.“ – etwa **USD 0.24**.
 
-Die Preise für Zusatznutzung liegen nahe an den offiziellen API-Preisen der [Kimi Open Platform](https://platform.kimi.com). Bei hoher Nutzung ist ein Upgrade Ihres Abonnements in der Regel günstiger als der Kauf einer entsprechenden Menge Zusatznutzung.
+Die Preise für Zusatznutzung liegen nahe an den offiziellen API-Preisen der [Kimi Open Platform](https://platform.kimi.ai). Bei hoher Nutzung ist ein Upgrade Ihres Abonnements in der Regel günstiger als der Kauf einer entsprechenden Menge Zusatznutzung.
 
 ## Aufladelimits
 

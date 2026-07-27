@@ -43,7 +43,7 @@ Ek Kullanım, gerçek kullanıma göre anlık olarak düşülür. Farklı görev
 - "Harika bir rock şarkısı öner." — yaklaşık **USD 0.005**.
 - "California Pacific Coast Highway boyunca San Francisco, Big Sur, Monterey ve Santa Barbara’yı kapsayan bir haftalık araba yolculuğu planla; günlük programlar, manzaralı duraklar ve restoran önerileri dahil olsun." — yaklaşık **USD 0.24**.
 
-Ek Kullanım fiyatlandırması, [Kimi Open Platform](https://platform.kimi.com) üzerindeki resmi API fiyatlandırmasına yakındır. Kullanımınız yüksekse, eşdeğer miktarda Ek Kullanım satın almak yerine aboneliğinizi yükseltmek genellikle daha ekonomik olur.
+Ek Kullanım fiyatlandırması, [Kimi Open Platform](https://platform.kimi.ai) üzerindeki resmi API fiyatlandırmasına yakındır. Kullanımınız yüksekse, eşdeğer miktarda Ek Kullanım satın almak yerine aboneliğinizi yükseltmek genellikle daha ekonomik olur.
 
 ## Bakiye yükleme limitleri
 

@@ -23,10 +23,10 @@ preview: false
 
 | 问题类型 | 邮箱 |
 |---|---|
-| **付费会员问题**（权益未到账、支付扣款异常、升降级、发票等） | membership@moonshot.cn |
-| **一般问题**（产品功能咨询、使用技术问题、非付费账号问题、功能建议） | support@moonshot.cn |
-| **账号申诉 / 投诉举报** | support@moonshot.cn |
-| **Kimi API 开发者支持** | 登录 [Kimi 开放平台](https://platform.kimi.com/) 查询客服联系方式与开发者社群 |
+| **付费会员问题**（权益未到账、支付扣款异常、升降级、发票等） | membership@moonshot.ai |
+| **一般问题**（产品功能咨询、使用技术问题、非付费账号问题、功能建议） | support@moonshot.ai |
+| **账号申诉 / 投诉举报** | support@moonshot.ai |
+| **Kimi API 开发者支持** | 登录 [Kimi 开放平台](https://platform.kimi.ai/) 查询客服联系方式与开发者社群 |
 
 <Callout type="tip">
 发邮件时请附上你的账号信息（注册手机号或邮箱）和问题截图，付费会员的邮件将获得优先处理，我们能更快定位问题。

@@ -27,7 +27,7 @@ Dites à l’AI Agent, en une phrase, ce que vous faites régulièrement sur le 
 Les Skills et CLI utilisés dans les scénarios ci-dessous ont été créés de cette manière. Vous pouvez les installer et les utiliser directement, ou vous en servir comme exemples de référence.
 
 <Callout type="warning">
-Les Skills et CLI fournis sur cette page sont destinés uniquement à l’apprentissage et aux échanges techniques. Pour toute question ou réserve, veuillez contacter <a href="mailto:support@moonshot.cn">support@moonshot.cn</a>.
+Les Skills et CLI fournis sur cette page sont destinés uniquement à l’apprentissage et aux échanges techniques. Pour toute question ou réserve, veuillez contacter <a href="mailto:support@moonshot.ai">support@moonshot.ai</a>.
 </Callout>
 
 ## Recherche et organisation d’informations

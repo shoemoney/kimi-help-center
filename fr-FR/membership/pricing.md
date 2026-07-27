@@ -43,3 +43,15 @@ Kimi propose quatre formules d’abonnement, chacune disponible au mois ou à l�
 ## Attribution des credits
 
 Toutes les fonctionnalités incluses dans les abonnements Kimi partagent une même réserve de credits, décomptée selon l’utilisation de tokens. Kimi Code dispose également de son propre rate limit de 5 heures par semaine, qui s’applique uniquement à Kimi Code et n’affecte pas les autres fonctionnalités. Dans Chat, K2.6 est gratuit et ne consomme pas de credits. Les formules supérieures incluent une réserve de credits proportionnellement plus importante, pour des workflows plus fréquents et plus complexes. Consultez [Mise à jour des credits et règles d’utilisation](/membership/update-rules) pour en savoir plus.
+
+## FAQ sur les credits
+
+### Qu’est-ce que le prélèvement « Claw-云主机 » de 0.6% déduit chaque jour à 16:00 ?
+
+Il s’agit du coût de fonctionnement du sandbox de votre hôte cloud Kimi Claw. Kimi Claw est un déploiement OpenClaw dans le cloud : chaque fois que vous invoquez Claw, le système démarre un sandbox cloud isolé pour exécuter du code, piloter le navigateur ou appeler des outils. Les sandbox ne sont pas « en veille gratuite » — ils sont facturés en continu selon la durée d’exécution et la consommation de ressources. Même lorsque vous n’exécutez pas activement de tâches, un hôte cloud déployé conserve son environnement d’exécution et ses données ; environ 0.6% de vos credits d’abonnement est donc déduit chaque jour, avec un règlement à 16:00.
+
+Si vous ne prévoyez pas d’utiliser Kimi Claw pendant un certain temps, sauvegardez d’abord localement les fichiers importants tels que les fichiers memory, soul et workspace, puis supprimez l’hôte cloud ; aucun frais ne s’applique après la suppression, et vous pouvez le redéployer à tout moment.
+
+### Qu’est-ce que le prélèvement « Agent Website - Cloud Service » de 0.08% ?
+
+Il s’agit des frais de service cloud pour un site web que vous avez publié avec Agent. Un site web publié occupe en permanence des ressources cloud pour rester en ligne et accessible ; environ 0.08% de vos credits d’abonnement est donc déduit. Si vous n’avez plus besoin que le site web soit en ligne, cliquez sur « Unpublish » pour arrêter les prélèvements.

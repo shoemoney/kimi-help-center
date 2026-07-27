@@ -43,3 +43,15 @@ Kimi offers four membership tiers, each available as a monthly or annual subscri
 ## Credit allocation
 
 All Kimi membership features share a single credit pool, metered by token usage. Kimi Code also has its own 5-hour / weekly rate limit that applies only to Kimi Code and does not affect other features. In Chat, K2.6 is free and does not consume credits. Higher tiers include a proportionally larger credit pool, supporting more frequent and complex workflows. See [Credit Update & Usage Rules](/membership/update-rules) for details.
+
+## Credit FAQ
+
+### What is the “Claw-云主机” 0.6% charge deducted every day at 4 PM?
+
+This is the sandbox running cost of your Kimi Claw cloud host. Kimi Claw is an OpenClaw deployment in the cloud: every time you invoke Claw, the system starts an isolated cloud sandbox to execute code, operate the browser, or call tools. Sandboxes are not “free standby”—they are billed continuously by runtime and resource consumption. Even when you are not actively running tasks, a deployed cloud host retains its runtime environment and data, so about 0.6% of your membership credits is deducted each day, settled at 4:00 PM.
+
+If you do not plan to use Kimi Claw for a while, save important files such as memory, soul, and workspace files locally first, then delete the cloud host; no further charges apply after deletion, and you can redeploy anytime.
+
+### What is the “Agent Website - Cloud Service” 0.08% charge?
+
+This is the cloud service fee for a website you published with Agent. A published website continuously occupies cloud resources to stay online and accessible, so about 0.08% of your membership credits is deducted. If you no longer need the website online, click “Unpublish” to stop the charges.

@@ -43,3 +43,15 @@ Kimi oferece quatro níveis de assinatura, todos disponíveis nos planos mensal 
 ## Alocação de créditos
 
 Todos os recursos da assinatura Kimi compartilham um único saldo de créditos, medido pelo uso de token. Kimi Code também tem seu próprio rate limit de 5 horas por semana, que se aplica apenas ao Kimi Code e não afeta outros recursos. No Chat, K2.6 é gratuito e não consome créditos. Os níveis mais altos incluem um saldo de créditos proporcionalmente maior, permitindo fluxos de trabalho mais frequentes e complexos. Consulte [Atualização de créditos e regras de uso](/membership/update-rules) para ver os detalhes.
+
+## Perguntas frequentes sobre credits
+
+### O que é a cobrança de 0.6% do “Claw-云主机” deduzida todos os dias às 16h?
+
+Este é o custo de execução do sandbox do seu host em nuvem do Kimi Claw. O Kimi Claw é uma implantação do OpenClaw na nuvem: toda vez que você invoca o Claw, o sistema inicia um sandbox isolado na nuvem para executar código, operar o navegador ou chamar ferramentas. Sandboxes não são “standby gratuito” — eles são cobrados continuamente pelo tempo de execução e pelo consumo de recursos. Mesmo quando você não está executando tarefas ativamente, um host em nuvem implantado mantém seu ambiente de execução e seus dados, então cerca de 0.6% dos seus credits de assinatura é deduzido a cada dia, com liquidação às 16:00.
+
+Se você não pretende usar o Kimi Claw por algum tempo, salve primeiro localmente os arquivos importantes, como os arquivos memory, soul e workspace, e depois exclua o host em nuvem; nenhuma cobrança adicional se aplica após a exclusão, e você pode reimplantar a qualquer momento.
+
+### O que é a cobrança de 0.08% do “Agent Website - Cloud Service”?
+
+Esta é a taxa de serviço de nuvem de um site que você publicou com o Agent. Um site publicado ocupa continuamente recursos de nuvem para permanecer online e acessível, então cerca de 0.08% dos seus credits de assinatura é deduzido. Se você não precisa mais que o site fique online, clique em “Unpublish” para interromper as cobranças.

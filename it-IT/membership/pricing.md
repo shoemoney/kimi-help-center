@@ -43,3 +43,15 @@ Kimi offre quattro livelli di abbonamento, ciascuno disponibile con sottoscrizio
 ## Allocazione dei credit
 
 Tutte le funzionalità dell’abbonamento Kimi condividono un unico pool di credit, misurato in base all’utilizzo dei token. Kimi Code ha inoltre un proprio rate limit settimanale di 5 ore, valido solo per Kimi Code e senza effetto sulle altre funzionalità. In Chat, K2.6 è gratuito e non consuma credit. I livelli superiori includono un pool di credit proporzionalmente più ampio, adatto a workflow più frequenti e complessi. Per i dettagli, consulta [Aggiornamento dei credit e regole d’uso](/membership/update-rules).
+
+## Domande frequenti sui credit
+
+### Che cos’è l’addebito dello 0.6% di “Claw-云主机” detratto ogni giorno alle 16:00?
+
+È il costo di esecuzione della sandbox del tuo cloud host Kimi Claw. Kimi Claw è un deployment OpenClaw nel cloud: ogni volta che invochi Claw, il sistema avvia una sandbox cloud isolata per eseguire codice, usare il browser o chiamare strumenti. Le sandbox non sono “in standby gratuitamente”: vengono fatturate in modo continuo in base al tempo di esecuzione e al consumo di risorse. Anche quando non stai eseguendo attività, un cloud host distribuito conserva il proprio ambiente di runtime e i propri dati, quindi ogni giorno viene detratto circa lo 0.6% dei credit del tuo abbonamento, con addebito alle 16:00.
+
+Se non prevedi di usare Kimi Claw per un po’, salva prima in locale i file importanti come memory, soul e i file del workspace, quindi elimina il cloud host; dopo l’eliminazione non vengono applicati ulteriori addebiti e puoi distribuirlo di nuovo in qualsiasi momento.
+
+### Che cos’è l’addebito dello 0.08% di “Agent Website - Cloud Service”?
+
+È la tariffa del servizio cloud per un sito web che hai pubblicato con Agent. Un sito web pubblicato occupa continuamente risorse cloud per rimanere online e accessibile, quindi viene detratto circa lo 0.08% dei credit del tuo abbonamento. Se non hai più bisogno che il sito web sia online, fai clic su “Annulla pubblicazione” per interrompere gli addebiti.

@@ -43,3 +43,15 @@ Kimi, her biri aylık veya yıllık abonelik olarak sunulan dört üyelik paketi
 ## Credit dağıtımı
 
 Tüm Kimi üyelik özellikleri, token kullanımına göre ölçülen tek bir credit havuzunu paylaşır. Kimi Code ayrıca yalnızca Kimi Code için geçerli olan ve diğer özellikleri etkilemeyen, haftalık 5 saatlik kendi rate limit sınırına sahiptir. Chat’te K2.6 ücretsizdir ve credit tüketmez. Daha üst paketler, daha sık ve karmaşık iş akışlarını destekleyen orantılı olarak daha büyük bir credit havuzu içerir. Ayrıntılar için [Credit Güncellemesi ve Kullanım Kuralları](/membership/update-rules) bölümüne bakın.
+
+## Credit Hakkında Sıkça Sorulan Sorular
+
+### Her gün 16:00’da kesilen “Claw-云主机” 0.6%’lik ücret nedir?
+
+Bu, Kimi Claw bulut sunucunuzun sandbox çalıştırma maliyetidir. Kimi Claw, bulutta çalışan bir OpenClaw dağıtımıdır: Claw’ı her çağırdığınızda sistem, kod çalıştırmak, tarayıcıyı kullanmak veya araçları çağırmak için yalıtılmış bir bulut sandbox’ı başlatır. Sandbox’lar “ücretsiz bekleme modu” değildir; çalışma süresi ve kaynak tüketimine göre sürekli olarak faturalandırılır. Etkin olarak görev çalıştırmasanız bile dağıtılmış bir bulut sunucu, çalışma zamanı ortamını ve verilerini korumaya devam eder; bu nedenle üyelik credit’lerinizin yaklaşık 0.6%’sı her gün kesilir ve 16:00’da hesaplanır.
+
+Kimi Claw’ı bir süre kullanmayı planlamıyorsanız önce memory, soul ve workspace dosyaları gibi önemli dosyaları yerel olarak kaydedin, ardından bulut sunucuyu silin; silme işleminden sonra ücret kesilmez ve istediğiniz zaman yeniden dağıtabilirsiniz.
+
+### “Agent Website - Cloud Service” 0.08%’lik ücret nedir?
+
+Bu, Agent ile yayınladığınız bir web sitesinin bulut hizmeti ücretidir. Yayınlanmış bir web sitesi, çevrimiçi ve erişilebilir kalabilmek için bulut kaynaklarını sürekli kullanır; bu nedenle üyelik credit’lerinizin yaklaşık 0.08%’si kesilir. Web sitesinin artık çevrimiçi kalmasına ihtiyacınız yoksa ücret kesintisini durdurmak için “Unpublish” seçeneğine tıklayın.

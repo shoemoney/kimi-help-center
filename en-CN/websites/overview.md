@@ -160,7 +160,7 @@ After the website is generated, the preview panel opens on the right, and versio
 | Preview / Code | Switch between visual preview and source code/file tree views |
 | Edit | Enter edit mode; click an area you want to change, add annotation notes, and send them to Kimi |
 | Publish | When not yet published, click "Publish" to make the website public |
-| Share | After publishing, use the share card to copy the link, customize the subdomain, open the website, click "…" to unpublish, or click "Update Publish" when a new version is available |
+| Share | After publishing, use the share card to copy the link, customize the subdomain, open the website, click "…" to unpublish, or click "Update" when a new version is available |
 | Full-screen preview | View the website in full screen |
 | Switch preview mode | Toggle between desktop and mobile views |
 | Refresh | Reload the preview |

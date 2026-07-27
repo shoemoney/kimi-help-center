@@ -170,7 +170,7 @@ Web sitesi oluşturulduktan sonra önizleme paneli sağda açılır ve konuşmad
 | Preview / Code | Görsel önizleme ile kaynak kod/dosya ağacı görünümleri arasında geçiş yapar |
 | Edit | Düzenleme moduna girer; değiştirmek istediğiniz alana tıklayın, açıklama notları ekleyin ve Kimi’ye gönderin |
 | Publish | Henüz yayınlanmadıysa web sitesini herkese açmak için "Publish"e tıklayın |
-| Share | Yayınladıktan sonra bağlantıyı kopyalamak, alt alan adını özelleştirmek, web sitesini açmak, "…" düğmesine tıklayıp yayından kaldırmak veya yeni bir sürüm varsa "Update Publish"e tıklamak için paylaşım kartını kullanın |
+| Share | Yayınladıktan sonra bağlantıyı kopyalamak, alt alan adını özelleştirmek, web sitesini açmak, "…" düğmesine tıklayıp yayından kaldırmak veya yeni bir sürüm varsa "Update"e tıklamak için paylaşım kartını kullanın |
 | Tam ekran önizleme | Web sitesini tam ekranda görüntüleyin |
 | Önizleme modunu değiştir | Masaüstü ve mobil görünümler arasında geçiş yapın |
 | Yenile | Önizlemeyi yeniden yükleyin |

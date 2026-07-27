@@ -170,7 +170,7 @@ Setelah situs web dibuat, panel pratinjau terbuka di sisi kanan, dan kartu versi
 | Preview / Code | Beralih antara pratinjau visual dan tampilan kode sumber/pohon file |
 | Edit | Masuk ke mode edit; klik area yang ingin Anda ubah, tambahkan catatan anotasi, lalu kirim ke Kimi |
 | Publish | Saat belum diterbitkan, klik "Publish" untuk menjadikan situs web publik |
-| Share | Setelah diterbitkan, gunakan kartu berbagi untuk menyalin tautan, menyesuaikan subdomain, membuka situs web, klik "…" untuk membatalkan publikasi, atau klik "Update Publish" saat versi baru tersedia |
+| Share | Setelah diterbitkan, gunakan kartu berbagi untuk menyalin tautan, menyesuaikan subdomain, membuka situs web, klik "…" untuk membatalkan publikasi, atau klik "Update" saat versi baru tersedia |
 | Pratinjau layar penuh | Lihat situs web dalam layar penuh |
 | Alihkan mode pratinjau | Beralih antara tampilan desktop dan seluler |
 | Refresh | Muat ulang pratinjau |

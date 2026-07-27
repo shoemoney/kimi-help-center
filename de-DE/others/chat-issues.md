@@ -59,3 +59,22 @@ Das Kimi-Chatfenster selbst erstellt keine herunterladbaren Office-Dateien:
 |-----------|-------------------|
 | **Slides** | Gehen Sie zu [Kimi Slides](https://www.kimi.com/slides) — unterstützt Online-Erstellung und Download |
 | **Word/Excel** | Verwenden Sie den **Agent**-Modus |
+
+
+## Wie lösche ich eine einzelne Unterhaltung?
+
+Suchen Sie in der Kimi App oder in der Webversion die entsprechende Unterhaltung und tippen bzw. klicken Sie auf „Löschen“. Nach dem Löschen wird die Unterhaltung auf Ihrem Gerät nicht mehr angezeigt; die zugehörigen Daten werden gemäß Abschnitt 5 der [Kimi-Datenschutzrichtlinie](https://www.kimi.com/user/agreement/userPrivacy?version=v2) verarbeitet.
+
+## Ist der Freigabelink nach dem Löschen einer Unterhaltung noch zugänglich?
+
+Nein. Die Zugriffsberechtigung eines Freigabelinks ist direkt an den Status der Unterhaltung gekoppelt: Sobald die Unterhaltung gelöscht wird, verliert der erzeugte externe Freigabelink gleichzeitig seine Gültigkeit. Andere können über diesen Link nicht mehr auf die Inhalte zugreifen, und die Plattform behält keine zugängliche Kopie des Links.
+
+## Was soll ich tun, wenn ich versehentlich vertrauliche Informationen hochgeladen habe?
+
+Wir empfehlen, die betreffende Unterhaltung sofort im Client zu löschen. Wenn vertrauliche Informationen wie Personalausweise, Bankkarten oder Rechtsdokumente betroffen sind, können Sie sich nach dem Löschen über [support@moonshot.ai](mailto:support@moonshot.ai) an den Support wenden und in der Betreffzeile der E-Mail die Art der vertraulichen Informationen angeben (z. B. „Personalausweis“, „Bankkarte“ oder „Rechtsdokument“), damit wir Ihr Anliegen vorrangig bearbeiten können.
+
+## Werden nach dem Löschen noch Daten aufbewahrt?
+
+Gemäß den Anforderungen von Gesetzen und Vorschriften wie dem Cybersicherheitsgesetz muss die Plattform bestimmte Netzwerkprotokolle (z. B. Zeitpunkt von Vorgängen, Konto-Kennungen) für einen bestimmten Zeitraum aufbewahren. Diese dienen ausschließlich der Sicherheits- und Compliance-Prüfung sowie behördlichen Kontrollen und werden ohne Ihre Einwilligung nicht für andere Zwecke verwendet.
+
+Wenn Sie Ihr Konto löschen und alle Daten entfernen möchten, lesen Sie bitte [Konto löschen & Daten entfernen](/others/account-deletion).

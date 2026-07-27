@@ -50,3 +50,21 @@ The Kimi chat window itself does not generate downloadable Office files:
 
 - To generate a PPT, go to [PPT Assistant](https://www.kimi.com/slides), where online generation and download are supported.
 - To generate Word or Excel files, please use **Agent**.
+
+## How do I delete a single conversation?
+
+In the Kimi app or on the web, find the conversation and tap delete. Once deleted, it will no longer appear on your device, and the related data will enter the processing workflow in accordance with Section 5 of the [Kimi Privacy Policy](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
+
+## After I delete a conversation, is the share link still accessible?
+
+No. A share link's accessibility is tied directly to its conversation: once the conversation is deleted, any external share links generated from it become invalid at the same time, others can no longer access the content through them, and the platform retains no accessible copy of the link.
+
+## What should I do if I uploaded sensitive information by mistake?
+
+Delete the conversation in the app immediately. If it involves highly sensitive information such as an ID card, bank card, or legal document, contact customer support at [support@moonshot.cn](mailto:support@moonshot.cn) after deleting it, and note the type of sensitive information (e.g. “ID card”, “bank card”, “legal document”) in the email subject line so we can prioritize your request.
+
+## Is any data retained after deletion?
+
+As required by the Cybersecurity Law and other applicable laws and regulations, the platform must retain certain network logs (such as operation timestamps and account identifiers) for a specified period. These logs are used solely for security compliance and regulatory audits, and will not be used for any other purpose without your consent.
+
+If you need to cancel your account and delete all associated data, see [Account and Data Deletion](/others/account-deletion).

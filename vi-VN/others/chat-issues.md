@@ -59,3 +59,21 @@ Cửa sổ chat của Kimi không trực tiếp tạo tệp Office để tải x
 |-----------|-------------------|
 | **Slides** | Truy cập [Kimi Slides](https://www.kimi.com/slides) — hỗ trợ tạo online và tải xuống |
 | **Word/Excel** | Dùng chế độ **Agent** |
+
+## Làm thế nào để xóa một cuộc trò chuyện?
+
+Tìm cuộc trò chuyện tương ứng trong ứng dụng Kimi hoặc trên phiên bản web, rồi nhấn xóa. Sau khi xóa, cuộc trò chuyện sẽ không còn hiển thị trên thiết bị của bạn; dữ liệu liên quan sẽ được đưa vào quy trình xử lý theo quy định tại Mục 5 của [Chính sách quyền riêng tư của Kimi](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
+
+## Sau khi xóa cuộc trò chuyện, liên kết chia sẻ còn truy cập được không?
+
+Không. Quyền truy cập của liên kết chia sẻ gắn trực tiếp với trạng thái của cuộc trò chuyện: sau khi cuộc trò chuyện bị xóa, các liên kết chia sẻ bên ngoài do cuộc trò chuyện đó tạo ra sẽ đồng thời mất hiệu lực; người khác không thể truy cập nội dung qua liên kết đó nữa, và nền tảng không giữ lại bản sao có thể truy cập của liên kết.
+
+## Lỡ tải lên thông tin nhạy cảm thì phải làm sao?
+
+Bạn nên xóa ngay cuộc trò chuyện tương ứng trong ứng dụng; nếu liên quan đến thông tin nhạy cảm như giấy tờ tùy thân, thẻ ngân hàng, tài liệu pháp lý, sau khi xóa bạn có thể liên hệ bộ phận chăm sóc khách hàng qua [support@moonshot.ai](mailto:support@moonshot.ai), và ghi chú loại thông tin nhạy cảm trong tiêu đề email (ví dụ: “giấy tờ tùy thân”, “thẻ ngân hàng”, “tài liệu pháp lý”) để chúng tôi ưu tiên xử lý.
+
+## Sau khi xóa, còn có dữ liệu nào được lưu giữ không?
+
+Theo yêu cầu của các quy định pháp luật như Luật An ninh mạng, nền tảng cần lưu giữ một số nhật ký mạng (như thời gian thao tác, mã định danh tài khoản) trong một khoảng thời gian nhất định, chỉ nhằm mục đích tuân thủ an toàn và kiểm tra giám sát, và sẽ không sử dụng cho mục đích khác khi chưa có sự đồng ý của bạn.
+
+Nếu bạn cần xóa tài khoản và xóa toàn bộ dữ liệu, vui lòng tham khảo [Xóa tài khoản & gỡ bỏ dữ liệu](/others/account-deletion).

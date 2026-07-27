@@ -1,18 +1,40 @@
 ---
-title: "Sohbet verilerim model eğitimi için kullanılacak mı?"
+title: "Veri kullanımı ve paylaşımı açıklaması"
 slug: "data-usage"
 order: 10
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 
 <SeoMeta
-  title="Sohbet verilerim model eğitimi için kullanılacak mı? Nasıl vazgeçilir - Kimi Yardım Merkezi"
-  description="Kimi'nin sohbet verilerini kullanımı: girdiler, talimatlar ve oluşturulan yanıtlar yalnızca güvenli şifreleme ve katı kimliksizleştirme sonrasında model eğitiminde kullanılabilir; destek ekibine yazarak bundan vazgeçebilirsiniz."
+  title="Veri kullanımı ve paylaşımı açıklaması: model eğitimi, üçüncü taraflarla paylaşım ve depolama - Kimi Yardım Merkezi"
+  description="Kimi sohbet verilerinin kullanımı hakkında açıklama: verilerin model eğitiminde kullanılıp kullanılmadığı, model eğitiminden nasıl çıkılacağı, verilerin üçüncü taraflarla paylaşılıp paylaşılmayacağı, veri depolama konumu ve güvenlik önlemleri."
 />
 
-# Sohbet verilerim model eğitimi için kullanılacak mı?
+# Veri kullanımı ve paylaşımı açıklaması
 
-Verilerin güvenli şifreleme teknolojisiyle işlenmesi, katı şekilde kimliksizleştirilmesi ve belirli bir kişinin yeniden tanımlanamaması koşuluyla platform; model performansını ve ürün deneyimini iyileştirmek amacıyla kullanıcıların girdiği verileri, talimatları ve oluşturulan yanıtları model eğitiminde kullanabilir.
+## Sohbet verileri model eğitiminde kullanılıyor mu?
 
-Sohbet verilerinizin eğitimde kullanılmasını istemiyorsanız [support@moonshot.ai](mailto:support@moonshot.ai) adresinden müşteri hizmetleriyle iletişime geçerek talepte bulunabilirsiniz; kimliğinizi doğruladıktan sonra içeriklerinizi model eğitiminde kullanmayı durduracağız.
+Girdi verileriniz, talimatlarınız ve oluşturulan yanıtlar; güvenli şifreleme teknolojisiyle işlenmeleri, katı biçimde kimliksizleştirilmeleri ve belirli bir kişinin yeniden tanımlanmasının mümkün olmaması koşuluyla, model performansını ve ürün deneyimini iyileştirmek amacıyla platform tarafından model eğitiminde kullanılabilir.
+
+## Model eğitiminden nasıl çıkabilirim?
+
+Sohbet verilerinizin eğitimde kullanılmasını istemiyorsanız [membership@moonshot.ai](mailto:membership@moonshot.ai) adresinden müşteri hizmetleriyle iletişime geçerek talepte bulunabilirsiniz; kimliğinizi doğruladıktan sonraki 30 takvim günü içinde çıkış kaydınızı tamamlar ve içeriklerinizi model eğitiminde kullanmayı durdururuz.
+
+## Model eğitiminden çıkmanın ne gibi etkileri olur?
+
+- **Hesap düzeyinde toplu çıkış**: Şu anda sohbet veya dosya bazında seçerek çıkış desteklenmemektedir.
+- **Kullanımı etkilemez**: Eğitimden çıkmak, Kimi'nin hizmetlerini kullanmaya devam etmenizi etkilemez; hesabınız, üyelik haklarınız ve geçmiş sohbet kayıtlarınız aynı kalır.
+- **Geçerlilik kapsamı**: Kayıt tamamlandıktan sonra geçmiş sohbet verileriniz ve sonrasında eklenen yeni verileriniz model eğitimi veri kümelerine dahil edilmez.
+
+## Verilerim üçüncü taraflarla paylaşılıyor mu?
+
+Onayınız, yasal zorunluluklar veya ürün işlevlerini gerçekleştirmek için gerekli olması dışında, kişisel sohbet verilerinizi hiçbir üçüncü tarafla (bağlı şirketler, iş ortakları, reklam verenler vb.) paylaşmayız, satmayız veya sağlamayız; ayrıca bunları hizmet sunumuyla ilgisiz amaçlar için kullanmayız. Ayrıntılı hükümler için [Kimi Gizlilik Politikası](https://www.kimi.com/user/agreement/userPrivacy?version=v2) madde 4.2'ye bakın.
+
+## Verilerim nerede saklanıyor? Güvende mi?
+
+Verileriniz, güvenlik standartlarını karşılayan ve Çin anakarasında bulunan sunucu ortamlarında saklanır. Yetkisiz erişimi, sızıntıyı veya kaybı önlemek için veri şifreleme ve erişim kontrolü gibi teknik ve yönetsel önlemler alıyoruz.
+
+## Kurumsal kullanıcı verileri model eğitiminde kullanılıyor mu?
+
+Kimi Business'ın (kurumsal sürüm) temel taahhütlerinden biri, kurumsal verilerin model eğitimi sürecine dahil edilmemesi ve kişisel alan ile kurumsal alanın tamamen birbirinden ayrık tutulmasıdır. Veri işleme sözleşmesi (DPA), kurumsal sözleşme veya ürün tanıtımı için lütfen kurumsal satış ekibiyle iletişime geçin: [sales@kimi.ai](mailto:sales@kimi.ai).

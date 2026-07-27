@@ -59,3 +59,21 @@ Kimi sohbet penceresi, indirilebilir Office dosyalarını doğrudan oluşturmaz:
 |-----------|-------------------|
 | **Slaytlar** | [Kimi Slides](https://www.kimi.com/slides) bölümüne gidin — çevrim içi oluşturma ve indirme desteklenir |
 | **Word/Excel** | **Agent** modunu kullanın |
+
+## Tek bir sohbeti nasıl silerim?
+
+Kimi uygulamasında veya web sürümünde ilgili sohbeti bulun ve sil seçeneğine tıklayın. Silme işleminden sonra bu sohbet cihazınızda artık görüntülenmez; ilgili veriler, [Kimi Gizlilik Politikası](https://www.kimi.com/user/agreement/userPrivacy?version=v2) Bölüm 5'teki hükümlere uygun olarak işleme akışına girer.
+
+## Sohbet silindikten sonra paylaşım bağlantısına erişilebilir mi?
+
+Hayır. Paylaşım bağlantısının erişim izni doğrudan sohbetin durumuna bağlıdır: sohbet silindikten sonra, o sohbetten oluşturulan harici paylaşım bağlantısı aynı anda geçersiz olur; başkaları bu bağlantı üzerinden içeriğe erişemez ve platform bağlantının erişilebilir bir kopyasını saklamaz.
+
+## Yanlışlıkla hassas bilgi yüklersem ne yapmalıyım?
+
+İlgili sohbeti hemen istemciden silmenizi öneririz; kimlik kartı, banka kartı, yasal belge gibi hassas bilgiler söz konusuysa, silme işleminden sonra [support@moonshot.ai](mailto:support@moonshot.ai) adresinden müşteri hizmetleriyle iletişime geçebilir ve öncelikli işlem yapabilmemiz için e-postanın konu satırında hassas bilgi türünü (“kimlik kartı”, “banka kartı”, “yasal belge” gibi) belirtebilirsiniz.
+
+## Silme işleminden sonra bazı veriler saklanmaya devam eder mi?
+
+Siber Güvenlik Kanunu gibi yasa ve yönetmeliklerin gereklilikleri uyarınca platform, bazı ağ kayıtlarını (işlem zamanı, hesap tanımlayıcısı gibi) belirli bir süre boyunca saklamak zorundadır; bu kayıtlar yalnızca güvenlik uyumluluğu ve denetim amaçlarıyla kullanılır ve onayınız olmadan başka amaçlarla kullanılmaz.
+
+Hesabınızı silmek ve tüm verilerinizi kaldırmak için [Hesap silme ve veri kaldırma](/others/account-deletion) sayfasına bakın.

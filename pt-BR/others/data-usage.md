@@ -1,18 +1,40 @@
 ---
-title: "Os dados das minhas conversas serão usados no treinamento do modelo?"
+title: "Uso e compartilhamento de dados"
 slug: "data-usage"
 order: 10
-extract_headings: false
+extract_headings: true
 preview: false
 ---
 
 <SeoMeta
-  title="Os dados das minhas conversas serão usados no treinamento do modelo? Como cancelar - Central de Ajuda Kimi"
-  description="Como o Kimi usa os dados de conversa: entradas, instruções e respostas geradas só podem ser usadas no treinamento do modelo após criptografia segura e desidentificação rigorosa; você pode solicitar a exclusão pelo suporte."
+  title="Uso e compartilhamento de dados: treinamento de modelo, compartilhamento com terceiros e armazenamento - Central de Ajuda Kimi"
+  description="Explicação sobre o uso dos dados de conversas do Kimi: se os dados são usados no treinamento do modelo, como cancelar a participação, se os dados são compartilhados com terceiros, local de armazenamento e medidas de segurança."
 />
 
-# Os dados das minhas conversas serão usados no treinamento do modelo?
+# Uso e compartilhamento de dados
 
-Desde que os dados sejam processados com tecnologia de criptografia segura, rigorosamente desidentificados e não possam ser reassociados a uma pessoa específica, a plataforma poderá usar os dados inseridos, as instruções e as respostas geradas pelos usuários para o treinamento do modelo, a fim de otimizar seu desempenho e a experiência do produto.
+## Os dados das conversas são usados no treinamento do modelo?
 
-Se você não quiser que os dados das suas conversas sejam usados para treinamento, entre em contato com o suporte pelo e-mail [support@moonshot.ai](mailto:support@moonshot.ai) e faça a solicitação; após verificarmos sua identidade, deixaremos de usar seu conteúdo para o treinamento do modelo.
+Desde que processados com tecnologia de criptografia segura, rigorosamente desidentificados e sem possibilidade de reidentificação de uma pessoa específica, a plataforma poderá usar os dados inseridos pelos usuários, as instruções e as respostas geradas para o treinamento do modelo, a fim de otimizar o desempenho do modelo e a experiência do produto.
+
+## Como cancelar a participação no treinamento do modelo?
+
+Se você não quiser que os dados das suas conversas sejam usados para treinamento, entre em contato com o suporte pelo e-mail [membership@moonshot.ai](mailto:membership@moonshot.ai) e faça a solicitação; concluiremos o registro de cancelamento dentro de 30 dias corridos após a verificação da sua identidade e deixaremos de usar o seu conteúdo para o treinamento do modelo.
+
+## Quais são os efeitos de cancelar a participação no treinamento do modelo?
+
+- **Cancelamento unificado no nível da conta**: no momento, não é possível cancelar a participação por conversa ou por arquivo.
+- **Uso não é afetado**: o cancelamento da participação no treinamento não afeta o uso contínuo dos serviços do Kimi; a conta, os benefícios de assinatura e o histórico de conversas permanecem inalterados.
+- **Escopo de vigência**: após a conclusão do registro, seus dados históricos de conversas e os novos dados gerados não serão mais incluídos nos conjuntos de dados de treinamento do modelo.
+
+## Os dados são compartilhados com terceiros?
+
+Sem o seu consentimento, salvo exigência legal ou necessidade para viabilizar as funcionalidades do produto, não compartilhamos, vendemos nem fornecemos seus dados pessoais de conversas a terceiros (incluindo empresas afiliadas, parceiros, anunciantes etc.), nem os usamos para fins não relacionados à prestação do serviço. Os termos específicos constam na cláusula 4.2 da [Política de Privacidade da Kimi](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
+
+## Onde meus dados são armazenados? São seguros?
+
+Seus dados são armazenados em servidores localizados na China continental, em ambiente que atende aos padrões de segurança. Adotamos medidas técnicas e administrativas, como criptografia de dados e controle de acesso, para evitar acessos não autorizados, vazamentos ou perdas.
+
+## Os dados de usuários empresariais são usados no treinamento do modelo?
+
+Um dos principais compromissos do Kimi Business (versão empresarial) é que os dados corporativos não entram no processo de treinamento do modelo, e o espaço pessoal e o espaço corporativo são totalmente isolados. Se você precisar de um acordo de processamento de dados (DPA), contrato corporativo ou demonstração do produto, entre em contato com a equipe de vendas corporativas: [sales@kimi.ai](mailto:sales@kimi.ai).

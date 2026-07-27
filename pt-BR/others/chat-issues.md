@@ -59,3 +59,21 @@ A própria janela de chat do Kimi não gera arquivos Office para download:
 |-----------|-------------------|
 | **Slides** | Acesse [Kimi Slides](https://www.kimi.com/slides) — permite gerar online e baixar |
 | **Word/Excel** | Use o modo **Agent** |
+
+## Como excluir uma conversa individual?
+
+No aplicativo Kimi ou na versão web, encontre a conversa correspondente e toque em excluir. Após a exclusão, a conversa não será mais exibida no seu dispositivo; os dados relacionados entrarão no fluxo de tratamento conforme o disposto na seção 5 da [Política de Privacidade da Kimi](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
+
+## Depois de excluir uma conversa, o link de compartilhamento ainda fica acessível?
+
+Não. A permissão de acesso do link de compartilhamento está diretamente vinculada ao status da conversa: quando a conversa é excluída, o link externo de compartilhamento gerado a partir dela é invalidado ao mesmo tempo, e outras pessoas não conseguem mais acessar o conteúdo por meio dele. A plataforma não mantém nenhuma cópia acessível desse link.
+
+## O que fazer se eu enviar informações confidenciais por engano?
+
+Recomendamos excluir imediatamente a conversa correspondente no aplicativo. Se estiverem envolvidas informações confidenciais, como documento de identidade, cartão bancário ou documentos jurídicos, entre em contato com o suporte pelo e-mail [support@moonshot.ai](mailto:support@moonshot.ai) após a exclusão e indique no assunto do e-mail o tipo de informação confidencial (por exemplo, “documento de identidade”, “cartão bancário” ou “documento jurídico”), para que possamos priorizar o atendimento.
+
+## Algum dado ainda é mantido após a exclusão?
+
+De acordo com os requisitos de leis e regulamentos como a “Lei de Segurança Cibernética”, a plataforma precisa reter parte dos registros de rede (como horário das operações e identificadores da conta) por um determinado período, apenas para fins de conformidade de segurança e verificações regulatórias, sem usá-los para outros fins sem o seu consentimento.
+
+Para excluir a conta e remover todos os dados, consulte [Exclusão de conta e remoção de dados](/others/account-deletion).

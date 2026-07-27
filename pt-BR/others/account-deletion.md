@@ -29,3 +29,7 @@ Não. Uma vez que você clica em excluir, perde o direito à recuperação — o
 <Callout type="info">
 Para mais detalhes, consulte a [Política de Privacidade da Kimi](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
 </Callout>
+
+## Como meus dados são tratados após a exclusão da conta?
+
+Após a aprovação da solicitação de exclusão, seu histórico de conversas, arquivos enviados, dados do Espaço de memória e demais dados entrarão no processo de exclusão e, uma vez concluído o tratamento, não estarão mais associados à sua conta. De acordo com os requisitos de leis e regulamentos como a “Lei de Segurança Cibernética” e a “Lei de Proteção de Informações Pessoais”, algumas informações precisam ser retidas pelo período mínimo exigido em lei, apenas para finalidades legais, como verificações das autoridades de aplicação da lei, e serão excluídas ou anonimizadas conforme as normas ao final desse período. Recomendamos fazer backup do conteúdo que você deseja manter antes de prosseguir.

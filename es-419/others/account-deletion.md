@@ -29,3 +29,7 @@ No. Una vez que haces clic en eliminar, renuncias al derecho de recuperación: l
 <Callout type="info">
 Para más detalles, consulta la [Política de privacidad de Kimi](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
 </Callout>
+
+## ¿Qué pasa con mis datos después de eliminar la cuenta?
+
+Una vez aprobada la solicitud de eliminación, tus registros de conversación, archivos subidos, datos del Espacio de memoria y demás datos entrarán en el proceso de eliminación y, una vez completado, dejarán de estar asociados a tu cuenta. De acuerdo con los requisitos de leyes y reglamentos como la Ley de Ciberseguridad y la Ley de Protección de la Información Personal, cierta información debe conservarse durante el período mínimo exigido por la ley, exclusivamente para fines legales como verificaciones por parte de las autoridades; al vencer ese período, se eliminará o se anonimizará conforme a lo dispuesto. Te recomendamos hacer una copia de seguridad del contenido que desees conservar antes de realizar la operación.

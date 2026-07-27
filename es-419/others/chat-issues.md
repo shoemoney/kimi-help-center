@@ -59,3 +59,21 @@ La ventana de chat de Kimi no genera archivos de Office descargables por sí sol
 |-----------|-------------------|
 | **Diapositivas** | Ve a [Kimi Slides](https://www.kimi.com/slides) — permite generar y descargar en línea |
 | **Word/Excel** | Usa el modo **Agent** |
+
+## ¿Cómo elimino una conversación individual?
+
+Busca la conversación correspondiente en la app de Kimi o en la versión web y haz clic en eliminar. Una vez eliminada, la conversación dejará de mostrarse en tu dispositivo; los datos relacionados entrarán en el proceso de tratamiento conforme a lo dispuesto en la sección 5 de la [Política de privacidad de Kimi](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
+
+## Si elimino una conversación, ¿el enlace compartido sigue funcionando?
+
+No. El acceso al enlace compartido está directamente vinculado al estado de la conversación: cuando se elimina la conversación, el enlace externo generado a partir de ella deja de funcionar al mismo tiempo. Otras personas ya no podrán acceder al contenido a través de ese enlace, y la plataforma no conserva una copia accesible del enlace.
+
+## ¿Qué hago si subí información sensible por error?
+
+Te recomendamos eliminar de inmediato la conversación correspondiente en el cliente. Si se trata de información sensible como un documento de identidad, una tarjeta bancaria o documentos legales, tras la eliminación puedes escribir al soporte a través de [support@moonshot.ai](mailto:support@moonshot.ai) e indicar el tipo de información sensible en el asunto del correo (por ejemplo, “documento de identidad”, “tarjeta bancaria” o “documentos legales”), para que podamos darle prioridad a tu caso.
+
+## Después de eliminar, ¿se conserva algún dato?
+
+De acuerdo con los requisitos de leyes y reglamentos como la Ley de Ciberseguridad, la plataforma debe conservar ciertos registros de red (como la hora de las operaciones y los identificadores de cuenta) durante un período determinado, que se usan únicamente para fines de cumplimiento de seguridad y revisiones regulatorias, y no se usarán para ningún otro fin sin tu consentimiento.
+
+Si necesitas eliminar tu cuenta y borrar todos tus datos, consulta [Eliminación de cuenta y de datos](/others/account-deletion).

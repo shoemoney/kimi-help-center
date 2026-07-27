@@ -29,3 +29,7 @@ Không. Một khi đã nhấn xóa, bạn mất quyền khôi phục — dữ li
 <Callout type="info">
 Để biết thêm chi tiết, vui lòng xem [Chính sách quyền riêng tư của Kimi](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
 </Callout>
+
+## Dữ liệu của tôi sẽ được xử lý thế nào sau khi xóa tài khoản?
+
+Sau khi yêu cầu xóa tài khoản được phê duyệt, các dữ liệu như lịch sử trò chuyện, tệp đã tải lên, dữ liệu Bộ nhớ của bạn sẽ được đưa vào quy trình xóa; sau khi quá trình xử lý hoàn tất, chúng sẽ không còn liên kết với tài khoản của bạn. Theo yêu cầu của các quy định pháp luật như Luật An ninh mạng và Luật Bảo vệ thông tin cá nhân, một số thông tin cần được lưu giữ trong thời hạn tối thiểu theo luật định, chỉ sử dụng cho các mục đích luật định như kiểm tra của cơ quan thực thi pháp luật, và sẽ bị xóa hoặc ẩn danh hóa theo quy định khi hết hạn. Bạn nên sao lưu những nội dung cần giữ lại trước khi thực hiện.

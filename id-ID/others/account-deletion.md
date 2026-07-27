@@ -29,3 +29,7 @@ Tidak. Begitu Anda mengklik hapus, Anda kehilangan hak untuk memulihkan — data
 <Callout type="info">
 Untuk detailnya, lihat [Kebijakan Privasi Kimi](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
 </Callout>
+
+## Bagaimana data saya diproses setelah penghapusan akun?
+
+Setelah pengajuan penghapusan akun disetujui, data seperti riwayat percakapan, file yang diunggah, dan data Ruang Memori Anda akan masuk ke proses penghapusan, dan setelah selesai diproses tidak lagi terkait dengan akun Anda. Sesuai persyaratan peraturan perundang-undangan seperti Undang-Undang Keamanan Siber dan Undang-Undang Perlindungan Informasi Pribadi, sebagian informasi wajib disimpan selama jangka waktu minimum yang ditetapkan undang-undang, hanya untuk tujuan hukum seperti pemeriksaan penegakan hukum, dan setelah jangka waktu tersebut berakhir akan dihapus atau dianonimkan sesuai ketentuan. Sebaiknya Anda mencadangkan konten yang ingin disimpan sebelum melakukan tindakan ini.

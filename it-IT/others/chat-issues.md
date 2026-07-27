@@ -59,3 +59,21 @@ La finestra di chat di Kimi non genera direttamente file Office scaricabili:
 |-----------|-------------------|
 | **Slides** | Vai a [Kimi Slides](https://www.kimi.com/slides) — supporta la generazione online e il download |
 | **Word/Excel** | Usa la modalità **Agent** |
+
+## Come eliminare una singola conversazione?
+
+Nell’app Kimi o nella versione web, individua la conversazione corrispondente ed eliminala. Dopo l’eliminazione, la conversazione non sarà più visibile sui tuoi dispositivi; i dati correlati entreranno nel flusso di trattamento secondo quanto previsto dalla sezione 5 dell’[Informativa sulla privacy di Kimi](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
+
+## Dopo aver eliminato una conversazione, il link di condivisione è ancora accessibile?
+
+No. Le autorizzazioni di accesso del link di condivisione sono direttamente collegate allo stato della conversazione: una volta eliminata la conversazione, il link di condivisione esterno generato da essa smette immediatamente di funzionare; altre persone non potranno più accedere ai contenuti tramite quel link e la piattaforma non ne conserva copie accessibili.
+
+## Hai caricato per errore informazioni sensibili?
+
+Ti consigliamo di eliminare immediatamente la conversazione corrispondente dal client; se sono coinvolte informazioni sensibili come documenti d’identità, carte bancarie o documenti legali, dopo l’eliminazione puoi contattare l’assistenza all’indirizzo [support@moonshot.ai](mailto:support@moonshot.ai), indicando nell’oggetto dell’email il tipo di informazione sensibile (ad esempio “carta d’identità”, “carta bancaria”, “documento legale”), in modo che possiamo dare priorità alla tua richiesta.
+
+## Dopo l’eliminazione alcuni dati vengono comunque conservati?
+
+In base ai requisiti di leggi e regolamenti come la Legge sulla cybersicurezza, la piattaforma deve conservare alcuni log di rete (ad esempio orari delle operazioni e identificativi dell’account) per un determinato periodo, esclusivamente a fini di sicurezza, conformità e controlli normativi, senza utilizzarli per altri scopi senza il tuo consenso.
+
+Se desideri eliminare l’account e cancellare tutti i dati, consulta [Eliminazione dell’account e rimozione dei dati](/others/account-deletion).

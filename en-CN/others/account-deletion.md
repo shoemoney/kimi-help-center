@@ -29,3 +29,7 @@ No. After deletion, the system will retain only the minimum data necessary for s
 ## Can mistakenly deleted chat history be recovered?
 
 No. Tapping Delete means you give up the ability to recover it, and we will not be able to help restore it later. For details, please see the [Kimi Privacy Policy](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
+
+## What happens to my data after account deletion?
+
+Once your account deletion is approved, your conversation history, uploaded files, Memory Space data, and other content enter the deletion workflow and will no longer be associated with your account. As required by the Cybersecurity Law, the Personal Information Protection Law, and other applicable laws and regulations, certain information must be retained for the minimum statutory period, and is used solely for statutory purposes such as law-enforcement verification; upon expiry it is deleted or anonymized as required. We recommend backing up anything you wish to keep before proceeding.

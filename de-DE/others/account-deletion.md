@@ -29,3 +29,8 @@ Nein. Sobald Sie auf „Löschen“ klicken, verlieren Sie das Recht auf Wiederh
 <Callout type="info">
 Weitere Einzelheiten finden Sie in der [Kimi Datenschutzrichtlinie](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
 </Callout>
+
+
+## Was passiert mit meinen Daten nach der Kontolöschung?
+
+Sobald die Löschungsanfrage genehmigt wurde, werden Ihre Unterhaltungen, hochgeladenen Dateien, Memory-Daten usw. in den Löschvorgang aufgenommen und nach Abschluss der Verarbeitung nicht mehr mit Ihrem Konto verknüpft. Gemäß den Anforderungen von Gesetzen und Vorschriften wie dem Cybersicherheitsgesetz und dem Gesetz zum Schutz personenbezogener Daten müssen bestimmte Informationen für die gesetzlich vorgeschriebene Mindestfrist aufbewahrt werden; sie dienen ausschließlich gesetzlich vorgesehenen Zwecken wie Prüfungen durch Strafverfolgungsbehörden und werden nach Ablauf der Frist ordnungsgemäß gelöscht oder anonymisiert. Wir empfehlen Ihnen, vor der Löschung alle Inhalte zu sichern, die Sie behalten möchten.

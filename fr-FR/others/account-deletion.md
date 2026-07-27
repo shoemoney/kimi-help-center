@@ -29,3 +29,7 @@ Non. Une fois que vous cliquez sur Supprimer, vous renoncez au droit de récupé
 <Callout type="info">
 Pour en savoir plus, consultez la [Politique de confidentialité de Kimi](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
 </Callout>
+
+## Comment mes données sont-elles traitées après la suppression du compte ?
+
+Une fois la demande de suppression de compte approuvée, vos historiques de conversation, fichiers téléversés, données de la mémoire, etc. entrent dans le processus de suppression ; une fois le traitement terminé, ils ne sont plus associés à votre compte. Conformément aux exigences de la Loi sur la cybersécurité, de la Loi sur la protection des informations personnelles et d’autres lois et réglementations, certaines informations doivent être conservées pendant la durée légale minimale, uniquement à des fins légales telles que les vérifications des autorités répressives ; à l’expiration de ce délai, elles sont supprimées ou anonymisées conformément aux règles. Nous vous recommandons de sauvegarder au préalable les contenus que vous souhaitez conserver.

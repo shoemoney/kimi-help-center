@@ -59,3 +59,21 @@ La fenêtre de chat Kimi ne génère pas directement de fichiers Office téléch
 |-----------|-------------------|
 | **Slides** | Accédez à [Kimi Slides](https://www.kimi.com/slides) — prend en charge la génération en ligne et le téléchargement |
 | **Word/Excel** | Utilisez le mode **Agent** |
+
+## Comment supprimer une conversation individuelle ?
+
+Dans l’application Kimi ou sur la version web, recherchez la conversation concernée, puis cliquez sur Supprimer. Après suppression, cette conversation n’apparaît plus sur votre appareil ; les données associées entrent dans le processus de traitement prévu par la section 5 de la [Politique de confidentialité de Kimi](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
+
+## Après la suppression d’une conversation, le lien de partage reste-t-il accessible ?
+
+Non. L’accès au lien de partage est directement lié à l’état de la conversation : une fois la conversation supprimée, le lien de partage externe qu’elle a généré devient simultanément invalide, et personne ne peut plus accéder au contenu via ce lien. La plateforme ne conserve aucune copie accessible de ce lien.
+
+## Que faire en cas de téléversement accidentel d’informations sensibles ?
+
+Nous vous recommandons de supprimer immédiatement la conversation concernée dans le client. S’il s’agit d’informations sensibles telles qu’une carte d’identité, une carte bancaire ou des documents juridiques, vous pouvez, après suppression, contacter le service client à l’adresse [support@moonshot.ai](mailto:support@moonshot.ai), en indiquant dans l’objet de l’e-mail le type d’information sensible concerné (par exemple « carte d’identité », « carte bancaire » ou « documents juridiques »), afin que nous puissions traiter votre demande en priorité.
+
+## Des données sont-elles encore conservées après la suppression ?
+
+Conformément aux exigences de la Loi sur la cybersécurité et d’autres lois et réglementations, la plateforme doit conserver certains journaux réseau (comme les horaires des opérations et les identifiants de compte) pendant une durée déterminée, uniquement à des fins de conformité en matière de sécurité et de contrôles réglementaires ; ils ne seront pas utilisés à d’autres fins sans votre consentement.
+
+Pour supprimer votre compte et l’ensemble de vos données, consultez [Suppression du compte et effacement des données](/others/account-deletion).

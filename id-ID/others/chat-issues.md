@@ -59,3 +59,21 @@ Jendela chat Kimi sendiri tidak menghasilkan file Office yang dapat diunduh:
 |-----------|-------------------|
 | **Slides** | Buka [Kimi Slides](https://www.kimi.com/slides) — mendukung pembuatan online dan pengunduhan |
 | **Word/Excel** | Gunakan mode **Agent** |
+
+## Bagaimana cara menghapus satu percakapan?
+
+Temukan percakapan yang dimaksud di aplikasi Kimi atau versi web, lalu klik hapus. Setelah dihapus, percakapan tersebut tidak lagi ditampilkan di perangkat Anda; data terkait akan masuk ke proses pemrosesan sesuai ketentuan Bagian 5 [Kebijakan Privasi Kimi](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
+
+## Setelah percakapan dihapus, apakah tautan berbagi masih bisa diakses?
+
+Tidak bisa. Hak akses tautan berbagi terkait langsung dengan status percakapan: setelah percakapan dihapus, tautan berbagi eksternal yang dihasilkannya akan ikut tidak berlaku, orang lain tidak dapat lagi mengakses konten melalui tautan tersebut, dan platform tidak menyimpan salinan apa pun yang masih dapat diakses dari tautan tersebut.
+
+## Apa yang harus dilakukan jika tidak sengaja mengunggah informasi sensitif?
+
+Sebaiknya segera hapus percakapan terkait di klien; jika menyangkut informasi sensitif seperti kartu identitas, kartu bank, atau dokumen hukum, setelah menghapusnya Anda dapat menghubungi layanan pelanggan melalui [support@moonshot.ai](mailto:support@moonshot.ai) dan mencantumkan jenis informasi sensitif (seperti “kartu identitas”, “kartu bank”, atau “dokumen hukum”) pada subjek email agar kami dapat memprioritaskan penanganannya.
+
+## Apakah ada data yang tetap disimpan setelah penghapusan?
+
+Sesuai persyaratan peraturan perundang-undangan seperti Undang-Undang Keamanan Siber, platform wajib menyimpan sebagian log jaringan (seperti waktu operasi dan identifikasi akun) dalam jangka waktu tertentu, hanya untuk kepatuhan keamanan dan pemeriksaan regulator, dan tidak akan menggunakannya untuk tujuan lain tanpa persetujuan Anda.
+
+Jika Anda perlu menghapus akun beserta seluruh datanya, silakan lihat [Penghapusan akun & data](/others/account-deletion).

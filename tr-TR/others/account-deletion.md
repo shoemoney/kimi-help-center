@@ -29,3 +29,7 @@ Hayır. Silme işlemine tıkladığınız anda kurtarma hakkınızdan vazgeçmi�
 <Callout type="info">
 Ayrıntılar için bkz. [Kimi Gizlilik Politikası](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
 </Callout>
+
+## Hesabım silindikten sonra verilerime ne olur?
+
+Silme talebi onaylandıktan sonra sohbet kayıtlarınız, yüklediğiniz dosyalar ve bellek alanı verileriniz silme sürecine girer; işlem tamamlandığında bu veriler artık hesabınızla ilişkilendirilmez. Siber Güvenlik Kanunu ve Kişisel Bilgilerin Korunması Kanunu gibi yasa ve yönetmeliklerin gereklilikleri uyarınca bazı bilgilerin yasal asgari süre boyunca saklanması gerekir; bu bilgiler yalnızca kolluk kuvvetleri denetimi gibi yasal amaçlarla kullanılır ve süre dolduğunda yönetmeliklere uygun olarak silinir veya anonimleştirilir. İşlemden önce saklamak istediğiniz içerikleri yedeklemenizi öneririz.

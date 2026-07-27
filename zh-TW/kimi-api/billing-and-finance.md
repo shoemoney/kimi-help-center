@@ -18,7 +18,7 @@ preview_content: "API 儲值、發票開立與退款政策說明。"
 
 ## 收費標準如何？
 
-Kimi API 按 token 消耗量計費，輸入 token 與輸出 token 分別計價。不同模型價格不同，聯網搜尋每次額外收費 ¥0.03。詳細價格請參考 [platform.kimi.com/docs/pricing/chat](https://platform.kimi.com/docs/pricing/chat)。
+Kimi API 按 token 消耗量計費，輸入 token 與輸出 token 分別計價。不同模型價格不同，聯網搜尋每次額外收費 ¥0.03。詳細價格請參考 [platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat)。
 
 ## 支援 WeCom 或 Alipay 儲值嗎？
 
@@ -32,7 +32,7 @@ API 控制台支援以下儲值方式：
 
 ## 如何開立發票？
 
-1. 登入 [https://platform.kimi.com/](https://platform.kimi.com/) 控制台。
+1. 登入 [https://platform.kimi.ai/](https://platform.kimi.ai/) 控制台。
 2. 前往「費用 → 發票管理」頁面。
 3. 選擇需要開立發票的儲值紀錄。
 4. 填寫發票資訊（個人/企業）並送出申請。

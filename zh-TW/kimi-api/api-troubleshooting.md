@@ -73,7 +73,7 @@ Kimi 會員（Allegretto 等）與 API 採用彼此獨立的計費體系。會�
 
 ## 支援本地化部署嗎？
 
-Kimi API 目前僅提供雲端 API 服務，**暫不支援本地化私有部署**。如有私有化部署需求，請透過 [platform.kimi.com/contact-sales](https://platform.kimi.com/contact-sales) 聯絡銷售團隊諮詢。
+Kimi API 目前僅提供雲端 API 服務，**暫不支援本地化私有部署**。如有私有化部署需求，請透過 [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) 聯絡銷售團隊諮詢。
 
 ## 海外可以呼叫 Kimi API 嗎？
 

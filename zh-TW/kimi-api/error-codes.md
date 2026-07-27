@@ -23,7 +23,7 @@ preview_content: "Kimi API 錯誤碼一覽與疑難排解建議。"
 | 400 | 請求參數錯誤（Bad Request） | 檢查請求本文格式是否正確，參數名稱與類型是否符合文件要求。常見原因包括：JSON 格式錯誤、缺少必填參數、參數值超出範圍。 |
 | 401 | 驗證失敗（Unauthorized） | 檢查 API Key 是否正確、是否已過期或遭停用。確認請求標頭中的 `Authorization: Bearer <your-api-key>` 格式正確。 |
 | 403 | 權限不足／餘額不足（Forbidden） | 帳戶餘額可能已用盡，請前往控制台儲值。也可能是帳號受到限制，請聯絡客服。 |
-| 404 | 資源不存在（Not Found） | 檢查請求的 URL 路徑與模型名稱是否正確。確認介面位址為 `https://api.moonshot.cn/v1/...`。 |
+| 404 | 資源不存在（Not Found） | 檢查請求的 URL 路徑與模型名稱是否正確。確認介面位址為 `https://api.moonshot.ai/v1/...`。 |
 | 429 | 請求頻率超限（Too Many Requests） | 已超出目前的速率限制。請降低請求頻率、實作指數退避重試策略，或聯絡客服申請提高速率限制。 |
 | 500 | 伺服器內部錯誤（Internal Server Error） | 服務端暫時異常，請稍後再試。若持續出現，請聯絡  api-service@moonshot.ai，並附上 request_id。 |
 
@@ -31,5 +31,5 @@ preview_content: "Kimi API 錯誤碼一覽與疑難排解建議。"
 
 1. **查看完整錯誤資訊**：API 回傳的 JSON 回應中通常包含 `error.message` 欄位，提供更詳細的錯誤描述。
 2. **檢查 request_id**：每次請求回傳的 `request_id` 可協助客服快速定位問題。
-3. **參考官方文件**：請確認呼叫方式與 [platform.kimi.com](https://platform.kimi.com/docs/guide/start-using-kimi-api) 文件一致。
+3. **參考官方文件**：請確認呼叫方式與 [platform.kimi.ai](https://platform.kimi.ai/docs/guide/start-using-kimi-api) 文件一致。
 4. **使用重試機制**：針對 429 和 500 錯誤，建議實作自動重試，並搭配指數退避策略。

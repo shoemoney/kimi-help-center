@@ -22,7 +22,7 @@ preview_content: "API 帳號註冊、認證、變更綁定與申訴的常見問�
 
 ## 個人帳號如何轉為企業帳號？
 
-1. 登入 [platform.kimi.com](https://platform.kimi.com/) 控制台。
+1. 登入 [platform.kimi.ai](https://platform.kimi.ai/) 控制台。
 2. 進入「帳號設定 → 認證資訊」。
 3. 選擇「企業認證」，依要求填寫企業資訊並上傳相關資質文件。
 4. 提交後等待審核，審核通過後將自動切換為企業帳號。

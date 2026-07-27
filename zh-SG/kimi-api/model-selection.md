@@ -18,7 +18,7 @@ Kimi API 提供多种模型供开发者选择。不同模型在能力、速度�
 
 ## 可用模型
 
-请访问 [platform.kimi.com/docs/introduction](https://platform.kimi.com/docs/introduction) 查看完整的模型列表与详细参数。
+请访问 [platform.kimi.ai/docs/introduction](https://platform.kimi.ai/docs/introduction) 查看完整的模型列表与详细参数。
 
 选择模型时，建议从以下维度进行评估：
 

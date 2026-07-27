@@ -35,7 +35,7 @@ Context Caching 的詳細定價請參考官方文件。
 
 完整的模型價格表與計費規則，請造訪：
 
-[https://platform.kimi.com/docs/pricing/chat](https://platform.kimi.com/docs/pricing/chat)
+[https://platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat)
 
 ## 成本最佳化建議
 

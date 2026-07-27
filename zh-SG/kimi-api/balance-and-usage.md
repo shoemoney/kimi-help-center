@@ -18,7 +18,7 @@ Kimi API 提供多种方式查看账户余额和消耗明细，帮助你掌握�
 
 ## 在控制台查看
 
-登录 [platform.kimi.com/](https://platform.kimi.com/)，在控制台的 **fee-detail**（费用明细）页面可以查看：
+登录 [platform.kimi.ai/](https://platform.kimi.ai/)，在控制台的 **fee-detail**（费用明细）页面可以查看：
 
 - 账户当前余额
 - 每日消耗明细
@@ -38,7 +38,7 @@ Kimi API 提供多种方式查看账户余额和消耗明细，帮助你掌握�
     {
       name: "command.sh",
       language: "bash",
-      content: "POST https://api.moonshot.cn/v1/tokenizers/estimate-token-count",
+      content: "POST https://api.moonshot.ai/v1/tokenizers/estimate-token-count",
     },
   ]}
 />
@@ -54,7 +54,7 @@ Kimi API 提供多种方式查看账户余额和消耗明细，帮助你掌握�
     {
       name: "command.sh",
       language: "bash",
-      content: "GET https://api.moonshot.cn/v1/users/me/balance",
+      content: "GET https://api.moonshot.ai/v1/users/me/balance",
     },
   ]}
 />

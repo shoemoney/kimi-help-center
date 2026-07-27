@@ -35,7 +35,7 @@ Context Caching 可用于缓存常用上下文内容（如系统提示词、参�
 
 完整的模型价格表和计费规则，请访问：
 
-[https://platform.kimi.com/docs/pricing/chat](https://platform.kimi.com/docs/pricing/chat)
+[https://platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat)
 
 ## 费用优化建议
 

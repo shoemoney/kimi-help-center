@@ -18,7 +18,7 @@ Kimi API 为企业客户提供多种合作方案，满足不同规模与场景�
 
 ## 如何联系销售团队？
 
-请访问 [platform.kimi.com/contact-sales](https://platform.kimi.com/contact-sales) 填写联系表单。我们的销售团队将在 1-2 个工作日内与您联系。
+请访问 [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) 填写联系表单。我们的销售团队将在 1-2 个工作日内与您联系。
 
 您也可以在表单中注明以下信息，方便我们更快响应：
 
@@ -56,4 +56,4 @@ Kimi 大模型已完成中国大陆算法备案。如需查阅备案信息，或
 - 定制化 SLA 保障
 - 新功能优先体验
 
-如需了解详情，请访问 [platform.kimi.com/contact-sales](https://platform.kimi.com/contact-sales) 联系销售团队。
+如需了解详情，请访问 [platform.kimi.ai/contact-sales](https://platform.kimi.ai/contact-sales) 联系销售团队。

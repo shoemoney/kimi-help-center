@@ -18,7 +18,7 @@ preview_content: "API 充值、发票开具及退款政策说明。"
 
 ## 收费标准是怎样的？
 
-Kimi API 按 token 消耗量计费，输入 token 与输出 token 分别计价。不同模型的价格不同，联网搜索每次另收 ¥0.03。详细价格请参考 [platform.kimi.com/docs/pricing/chat](https://platform.kimi.com/docs/pricing/chat)。
+Kimi API 按 token 消耗量计费，输入 token 与输出 token 分别计价。不同模型的价格不同，联网搜索每次另收 ¥0.03。详细价格请参考 [platform.kimi.ai/docs/pricing/chat](https://platform.kimi.ai/docs/pricing/chat)。
 
 ## 支持企业微信或支付宝充值吗？
 
@@ -32,7 +32,7 @@ API 控制台支持以下充值方式：
 
 ## 如何开发票？
 
-1. 登录 [https://platform.kimi.com/](https://platform.kimi.com/) 控制台。
+1. 登录 [https://platform.kimi.ai/](https://platform.kimi.ai/) 控制台。
 2. 进入「费用 → 发票管理」页面。
 3. 选择需要开票的充值记录。
 4. 填写发票信息（个人/企业），并提交申请。

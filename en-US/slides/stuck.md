@@ -22,6 +22,10 @@ If you can't find the Slides feature entry point, can't open a generated present
 2. **App**: Open the Kimi app and tap the Slides button in the toolbar below the input box.
 3. **Agent Mode**: Describe your presentation needs directly in general Agent mode, and Kimi will automatically invoke the Slides generation capability.
 
+## Why Can't I Find Visual Mode?
+
+Visual mode (powered by Nano Banana Pro) has been discontinued, because the new K3-powered Slides delivers better results. All new presentations are now generated with the K3 engine—simply describe your needs and Kimi will design the layout and styling for you. Presentations you created earlier remain accessible in your existing conversations.
+
 ## What to Do If Slides Generation Gets Stuck
 
 Kimi Slides generation may get stuck in the following situations:

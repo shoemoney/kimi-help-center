@@ -1,9 +1,9 @@
 {
   "title": "幻燈片",
-  "description": "使用自適應或視覺模式建立簡報",
+  "description": "透過 AI 驅動的設計建立簡報",
   "seo": {
     "title": "幻燈片",
-    "description": "使用自適應或視覺模式建立簡報"
+    "description": "透過 AI 驅動的設計建立簡報"
   },
   "icon": "slides",
   "order": 6,

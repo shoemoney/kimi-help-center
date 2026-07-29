@@ -22,7 +22,11 @@ Nếu bạn không tìm thấy lối vào tính năng Slides, không mở đư�
 2. **App**: Mở ứng dụng Kimi và chạm vào nút Slides trên thanh công cụ bên dưới ô nhập liệu.
 3. **Chế độ Agent**: Mô tả trực tiếp nhu cầu thuyết trình của bạn trong chế độ Agent thông thường, và Kimi sẽ tự động kích hoạt khả năng tạo Slides.
 
-## Phải làm gì khi việc tạo Slides ở chế độ thích ứng bị treo
+## Tại sao tôi không tìm thấy chế độ Visual?
+
+Chế độ Visual (vận hành bởi Nano Banana Pro) đã ngừng cung cấp, vì Slides mới được vận hành bởi K3 mang lại kết quả tốt hơn. Tất cả bài thuyết trình mới hiện đều được tạo bằng công cụ K3—bạn chỉ cần mô tả nhu cầu và Kimi sẽ thiết kế bố cục cùng phong cách cho bạn. Các bài thuyết trình bạn đã tạo trước đây vẫn có thể truy cập trong những cuộc trò chuyện hiện có.
+
+## Phải làm gì khi việc tạo Slides bị treo
 
 Việc tạo Kimi Slides có thể bị treo trong những trường hợp sau:
 
@@ -33,7 +37,7 @@ Việc tạo Kimi Slides có thể bị treo trong những trường hợp sau:
 Để được hỗ trợ thêm, vui lòng liên hệ với đội ngũ của chúng tôi qua kênh phản hồi 👎 trong sản phẩm, hoặc gửi email đến [support@moonshot.ai](mailto:support@moonshot.ai).
 </Callout>
 
-## Sự cố với thẻ bật lên và xem trước Slides ở chế độ thích ứng
+## Sự cố với thẻ bật lên và xem trước Slides
 
 Khi mô hình tạo xong bài thuyết trình, một thông báo ở cuối cuộc trò chuyện sẽ nhắc bạn "Nhấp vào thẻ bên dưới để xem trước", và một thẻ Slides sẽ bật lên. Nhấp vào thẻ để vào trang chỉnh sửa Slides.
 

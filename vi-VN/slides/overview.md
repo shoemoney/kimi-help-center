@@ -41,9 +41,6 @@ Kimi Slides hỗ trợ nhiều định dạng đầu vào, bao gồm PDF, Word, 
 3. Dùng được ngay, thử miễn phí
 - Tải xuống tệp đã tạo dưới dạng PPTX có thể chỉnh sửa, hoặc xem trước và trình chiếu trực tuyến.
 - Hạn mức tín dụng miễn phí hằng tháng cho phép bạn trải nghiệm trọn vẹn các tính năng mà không phải trả phí.
-4. Nhiều chế độ để lựa chọn
-- Adaptive: nghiên cứu chuyên sâu, trình bày có cấu trúc
-- Visual: vận hành bởi nano banana pro
 
 ## Truy cập Kimi Slides ở đâu
 

@@ -41,9 +41,6 @@ Kimi Slides 支持 PDF、Word、PPTX、Excel、TXT、图片等多种格式输入
 3. 开箱即用，免费试用
 - 可将生成文件下载为可编辑的 PPTX，也可在线预览和演示。
 - 每月提供免费额度，无需付费即可体验完整功能。
-4. 多种模式可选
-- 自适应：深度研究，结构化呈现
-- 视觉：由 nano banana pro 驱动
 
 ## 在哪里使用 Kimi Slides
 

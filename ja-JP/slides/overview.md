@@ -41,9 +41,6 @@ Kimi Slides は、PDF、Word、PPTX、Excel、TXT、画像など、複数形式�
 3. すぐに使えて、無料で試せる
 - 生成したファイルは編集可能な PPTX としてダウンロードできるほか、オンラインでプレビューやプレゼンテーションも可能です。
 - 毎月付与される無料クレジットにより、支払いなしで全機能を体験できます。
-4. 選べる複数モード
-- Adaptive：Deep Research、構造化されたアウトプット
-- Visual: nano banana pro 搭載
 
 ## Kimi Slides へのアクセス
 

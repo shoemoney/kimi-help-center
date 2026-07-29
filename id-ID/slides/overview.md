@@ -41,9 +41,6 @@ Kimi Slides mendukung input multiformat, termasuk PDF, Word, PPTX, Excel, TXT, d
 3. Siap Pakai, Bebas Dicoba
 - Unduh file yang dihasilkan sebagai PPTX yang dapat diedit, atau tinjau dan presentasikan secara daring.
 - Jatah kredit gratis bulanan memungkinkan Anda menikmati seluruh fitur tanpa biaya sama sekali.
-4. Beragam Mode untuk Dipilih
-- Adaptif: deep research, penyajian terstruktur
-- Visual: ditenagai oleh nano banana pro
 
 ## Tempat Mengakses Kimi Slides
 

@@ -22,7 +22,11 @@ Slides özelliğinin giriş noktasını bulamıyor, oluşturulan bir sunumu aça
 2. **Uygulama**: Kimi uygulamasını açın ve giriş kutusunun altındaki araç çubuğunda yer alan Slides düğmesine dokunun.
 3. **Agent Modu**: Sunum ihtiyaçlarınızı doğrudan genel Agent modunda anlatın; Kimi, Slides oluşturma özelliğini otomatik olarak devreye alacaktır.
 
-## Uyarlanabilir Modda Slides Oluşturma Takılırsa Ne Yapmalı
+## Visual Modunu Neden Bulamıyorum?
+
+Visual modu (Nano Banana Pro tarafından destekleniyordu) kullanımdan kaldırılmıştır; çünkü K3 ile güçlendirilen yeni Slides daha iyi sonuçlar sunar. Artık tüm yeni sunumlar K3 motoruyla oluşturulur—ihtiyaçlarınızı anlatmanız yeterli; Kimi, düzeni ve stili sizin için tasarlayacaktır. Daha önce oluşturduğunuz sunumlara mevcut konuşmalarınızdan erişmeye devam edebilirsiniz.
+
+## Slides Oluşturma Takılırsa Ne Yapmalı
 
 Kimi Slides oluşturma işlemi aşağıdaki durumlarda takılabilir:
 
@@ -33,7 +37,7 @@ Kimi Slides oluşturma işlemi aşağıdaki durumlarda takılabilir:
 Daha fazla yardım için lütfen ürün içindeki 👎 geri bildirim kanalı üzerinden ekibimizle iletişime geçin ya da [support@moonshot.ai](mailto:support@moonshot.ai) adresine bir e-posta gönderin.
 </Callout>
 
-## Uyarlanabilir Mod Slides Açılır Kartları ve Önizleme Sorunları
+## Slides Açılır Kartları ve Önizleme Sorunları
 
 Model sunumunuzu hazırlamayı tamamladığında, konuşmanın sonundaki bir mesajla "Önizlemek için aşağıdaki karta tıklayın" uyarısı görüntülenir ve bir Slides kartı açılır. Slides düzenleme sayfasına geçmek için karta tıklayın.
 

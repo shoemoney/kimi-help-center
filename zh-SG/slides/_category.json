@@ -1,9 +1,9 @@
 {
   "title": "幻灯片",
-  "description": "使用自适应模式或视觉模式创建演示文稿",
+  "description": "通过 AI 驱动的设计创建演示文稿",
   "seo": {
     "title": "幻灯片",
-    "description": "使用自适应模式或视觉模式创建演示文稿"
+    "description": "通过 AI 驱动的设计创建演示文稿"
   },
   "icon": "slides",
   "order": 6,

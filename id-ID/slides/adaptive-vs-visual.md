@@ -1,5 +1,5 @@
 ---
-title: "Bagaimana Memilih Mode Pembuatan Kimi Slides?"
+title: "Bagaimana Kimi Slides Membuat Presentasi?"
 slug: "ppt-creation-mode"
 order: 2
 extract_headings: false
@@ -7,42 +7,22 @@ preview: false
 ---
 
 <SeoMeta
-  title="Bagaimana Memilih Mode Pembuatan Kimi Slides? - Pusat Bantuan Kimi"
-  description="Bandingkan dua mode pembuatan Kimi Slides—mode Adaptive (desain personal oleh AI) versus mode Visual (didukung nano banana pro)—dan pelajari cara memilih skenario serta templat yang tepat untuk presentasi Anda."
+  title="Bagaimana Kimi Slides Membuat Presentasi? - Pusat Bantuan Kimi"
+  description="Pelajari bagaimana Kimi Slides membuat presentasi dengan tata letak dan gaya yang dirancang AI, serta cara memilih skenario dan templat yang tepat untuk dek Anda."
 />
 
-# Perbedaan antara adaptive dan visual
+# Cara Kimi Slides Membuat Presentasi
 
-Kimi Slides menawarkan dua mode pembuatan. Pilih yang paling sesuai dengan kebutuhan Anda:
-
-| | Adaptive | Visual |
-|--|---------|---------|
-| **Pendekatan desain** | Kimi menghasilkan tata letak dan gaya secara cerdas | Pilih dari templat yang sudah tersedia |
-| **Cocok untuk** | Desain yang personal dan unik | Hasil yang cepat dan efisien |
-| **Perkiraan waktu** | 30–60 menit | 5–10 menit |
-
-## Mode adaptive
-
-Kimi merancang tata letak dan gaya secara cerdas. AI otomatis menyelaraskan warna, font, ikon, dan gaya bagan dengan konten Anda, serta mendukung beragam preset gaya (bisnis, akademik, teknologi, minimalis, dan lainnya). Ideal untuk skenario yang membutuhkan identitas visual unik dan presentasi yang personal.
+Kimi Slides merancang tata letak dan gaya secara cerdas untuk Anda. AI otomatis menyelaraskan warna, font, ikon, dan gaya bagan dengan konten Anda, serta mendukung beragam preset gaya (bisnis, akademik, teknologi, minimalis, dan lainnya). Ideal untuk skenario yang membutuhkan identitas visual unik dan presentasi yang personal. Pembuatan biasanya memerlukan waktu 30–60 menit.
 
 <Frames
   src="./images/adaptive.png"
   alt="adaptive"
 />
 
-
-## Mode visual
-
-Pilih templat dari pustaka bawaan. Didukung oleh Nano Banana Pro, mode Visual sangat cocok untuk membuat presentasi dengan cepat. Templat mencakup bidang bisnis, pendidikan, teknologi, dan banyak lagi. Setelah Anda memilih templat, Kimi otomatis mengisi konten Anda dan menghasilkan dek yang siap pakai.
-
-<Frames
-  src="./images/visual.png"
-  alt="visual"
-/>
-
 ## Cara Memilih Skenario dan Templat
 
-Mode adaptive menawarkan beragam pilihan skenario, termasuk riset akademik, wawasan bisnis, serta pemasaran & promosi, untuk membantu Anda menghasilkan presentasi yang lebih sesuai dengan kebutuhan nyata.
+Kimi Slides menawarkan beragam pilihan skenario, termasuk riset akademik, wawasan bisnis, serta pemasaran & promosi, untuk membantu Anda menghasilkan presentasi yang lebih sesuai dengan kebutuhan nyata.
 - Setiap skenario dilengkapi templat preset. Memilih templat tertentu akan menghasilkan presentasi dengan gaya templat tersebut.
 
 <Frames

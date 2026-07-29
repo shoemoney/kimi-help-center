@@ -22,7 +22,11 @@ Se você não encontra o ponto de acesso ao recurso Slides, não consegue abrir 
 2. **App**: Abra o app da Kimi e toque no botão Slides na barra de ferramentas abaixo da caixa de entrada.
 3. **Modo Agent**: Descreva diretamente o que você precisa para a apresentação no modo Agent geral, e a Kimi acionará automaticamente o recurso de geração de Slides.
 
-## O que fazer se a geração de Slides no modo adaptativo travar
+## Por que não consigo encontrar o modo Visual?
+
+O modo Visual (impulsionado pelo Nano Banana Pro) foi descontinuado, porque o novo Slides com tecnologia K3 entrega resultados melhores. Todas as novas apresentações agora são geradas com o motor K3 — basta descrever o que você precisa e a Kimi criará o layout e o estilo para você. As apresentações que você criou anteriormente continuam acessíveis nas suas conversas existentes.
+
+## O que fazer se a geração de Slides travar
 
 A geração do Kimi Slides pode travar nas seguintes situações:
 
@@ -33,7 +37,7 @@ A geração do Kimi Slides pode travar nas seguintes situações:
 Para mais ajuda, entre em contato com nossa equipe pelo canal de feedback 👎 dentro do produto ou envie um e-mail para [support@moonshot.ai](mailto:support@moonshot.ai).
 </Callout>
 
-## Cards pop-up e problemas de pré-visualização do Slides no modo adaptativo
+## Cards pop-up e problemas de pré-visualização do Slides
 
 Assim que o modelo terminar de criar sua apresentação, uma mensagem ao final da conversa solicitará que você "Clique no card abaixo para pré-visualizar", e um card do Slides aparecerá. Clique no card para entrar na página de edição do Slides.
 

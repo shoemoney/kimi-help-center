@@ -22,7 +22,11 @@ preview_content: "Slides 故障排查与反馈指南：功能入口找不到、�
 2. **App**：打开 Kimi app，点击输入框下方工具栏中的 Slides 按钮。
 3. **Agent 模式**：在通用 Agent 模式中直接描述你的演示文稿需求，Kimi 会自动调用 Slides 生成能力。
 
-## 自适应模式下 Slides 生成卡住怎么办
+## 为什么找不到视觉模式？
+
+视觉模式（由 Nano Banana Pro 驱动）已下线，因为由 K3 驱动的新版 Slides 效果更好。现在所有新演示文稿都由 K3 引擎生成——你只需描述需求，Kimi 就会为你设计版式与样式。你此前创建的演示文稿仍可在原有对话中查看。
+
+## Slides 生成卡住怎么办
 
 Kimi Slides 生成可能会在以下情况下卡住：
 
@@ -33,7 +37,7 @@ Kimi Slides 生成可能会在以下情况下卡住：
 如需进一步协助，请通过产品内的 👎 反馈渠道联系我们的团队，或发送邮件至 [support@moonshot.ai](mailto:support@moonshot.ai)。
 </Callout>
 
-## 自适应模式下 Slides 弹出卡片与预览问题
+## Slides 弹出卡片与预览问题
 
 模型完成演示文稿创建后，对话末尾会提示你“点击下方卡片预览”，并弹出 Slides 卡片。点击卡片即可进入 Slides 编辑页。
 

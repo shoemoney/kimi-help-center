@@ -22,7 +22,11 @@ Jika Anda tidak dapat menemukan titik akses fitur Slides, tidak bisa membuka pre
 2. **Aplikasi**: Buka aplikasi Kimi dan ketuk tombol Slides di bilah alat di bawah kotak masukan.
 3. **Mode Agent**: Jelaskan kebutuhan presentasi Anda langsung di mode Agent umum, dan Kimi akan otomatis menjalankan kemampuan pembuatan Slides.
 
-## Apa yang Harus Dilakukan Jika Pembuatan Slides Mode Adaptif Macet
+## Mengapa Saya Tidak Dapat Menemukan Mode Visual?
+
+Mode Visual (didukung oleh Nano Banana Pro) telah dihentikan, karena Slides baru yang ditenagai K3 memberikan hasil yang lebih baik. Semua presentasi baru kini dibuat dengan mesin K3—cukup jelaskan kebutuhan Anda dan Kimi akan merancang tata letak serta gayanya untuk Anda. Presentasi yang Anda buat sebelumnya tetap dapat diakses di percakapan Anda yang sudah ada.
+
+## Apa yang Harus Dilakukan Jika Pembuatan Slides Macet
 
 Pembuatan Kimi Slides dapat macet dalam situasi berikut:
 
@@ -33,7 +37,7 @@ Pembuatan Kimi Slides dapat macet dalam situasi berikut:
 Untuk bantuan lebih lanjut, silakan hubungi tim kami melalui saluran umpan balik 👎 di dalam produk, atau kirim email ke [support@moonshot.ai](mailto:support@moonshot.ai).
 </Callout>
 
-## Masalah Kartu Pop-up dan Pratinjau Slides Mode Adaptif
+## Masalah Kartu Pop-up dan Pratinjau Slides
 
 Setelah model selesai membuat presentasi Anda, sebuah pesan di akhir percakapan akan meminta Anda untuk "Klik kartu di bawah untuk pratinjau," dan sebuah kartu Slides akan muncul. Klik kartu tersebut untuk masuk ke halaman pengeditan Slides.
 

@@ -22,7 +22,11 @@ Se non riesci a trovare il punto di accesso alla funzione Slides, non riesci ad 
 2. **App**: apri l'app Kimi e tocca il pulsante Slides nella barra degli strumenti sotto la casella di input.
 3. **Modalità Agent**: descrivi direttamente le tue esigenze di presentazione in modalità Agent generale e Kimi attiverà automaticamente la funzionalità di generazione delle Slides.
 
-## Cosa fare se la generazione delle Slides in modalità adattiva si blocca
+## Perché non riesco a trovare la modalità Visual?
+
+La modalità Visual (basata su Nano Banana Pro) è stata dismessa, perché le nuove Slides basate su K3 offrono risultati migliori. Tutte le nuove presentazioni vengono ora generate con il motore K3: ti basta descrivere le tue esigenze e Kimi progetterà layout e stile per te. Le presentazioni create in precedenza restano accessibili nelle conversazioni esistenti.
+
+## Cosa fare se la generazione delle Slides si blocca
 
 La generazione di Kimi Slides può bloccarsi nelle seguenti situazioni:
 
@@ -33,7 +37,7 @@ La generazione di Kimi Slides può bloccarsi nelle seguenti situazioni:
 Per ulteriore assistenza, contatta il nostro team tramite il canale di feedback 👎 all'interno del prodotto oppure invia un'email a [support@moonshot.ai](mailto:support@moonshot.ai).
 </Callout>
 
-## Schede pop-up e problemi di anteprima delle Slides in modalità adattiva
+## Schede pop-up e problemi di anteprima delle Slides
 
 Una volta che il modello ha terminato di creare la tua presentazione, un messaggio alla fine della conversazione ti inviterà a "Fare clic sulla scheda qui sotto per visualizzare l'anteprima" e comparirà una scheda Slides. Fai clic sulla scheda per accedere alla pagina di modifica delle Slides.
 

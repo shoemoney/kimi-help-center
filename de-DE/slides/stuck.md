@@ -22,7 +22,11 @@ Wenn Sie den Einstiegspunkt für die Slides-Funktion nicht finden, eine erstellt
 2. **App**: Öffnen Sie die Kimi-App und tippen Sie in der Symbolleiste unter dem Eingabefeld auf die Slides-Schaltfläche.
 3. **Agent Mode**: Beschreiben Sie Ihre Präsentationsanforderungen direkt im allgemeinen Agent-Modus, und Kimi ruft die Funktion zur Slides-Erstellung automatisch auf.
 
-## Was tun, wenn die Slides-Erstellung im adaptiven Modus hängen bleibt
+## Warum kann ich den visuellen Modus nicht finden?
+
+Der visuelle Modus (powered by Nano Banana Pro) wurde eingestellt, weil die neue K3-gestützte Version von Slides bessere Ergebnisse liefert. Alle neuen Präsentationen werden jetzt mit der K3-Engine erstellt – beschreiben Sie einfach Ihre Anforderungen, und Kimi gestaltet Layout und Stil für Sie. Präsentationen, die Sie zuvor erstellt haben, bleiben in Ihren bestehenden Unterhaltungen verfügbar.
+
+## Was tun, wenn die Slides-Erstellung hängen bleibt
 
 Die Erstellung von Kimi Slides kann in folgenden Situationen hängen bleiben:
 
@@ -33,7 +37,7 @@ Die Erstellung von Kimi Slides kann in folgenden Situationen hängen bleiben:
 Wenn Sie weitere Hilfe benötigen, wenden Sie sich bitte über den 👎-Feedback-Kanal im Produkt an unser Team oder senden Sie eine E-Mail an [support@moonshot.ai](mailto:support@moonshot.ai).
 </Callout>
 
-## Pop-up-Karten und Vorschauprobleme bei Slides im adaptiven Modus
+## Pop-up-Karten und Vorschauprobleme bei Slides
 
 Sobald das Modell Ihre Präsentation fertiggestellt hat, fordert Sie eine Meldung am Ende der Unterhaltung auf, „Klicken Sie zur Vorschau auf die Karte unten", und eine Slides-Karte erscheint. Klicken Sie auf die Karte, um zur Bearbeitungsseite von Slides zu gelangen.
 

@@ -22,7 +22,7 @@ If you can't find the Slides feature entry point, can't open a generated present
 2. **App**: Open the Kimi app and tap the Slides button in the toolbar below the input box.
 3. **Agent Mode**: Describe your presentation needs directly in general Agent mode, and Kimi will automatically invoke the Slides generation capability.
 
-## What to Do If Adaptive Mode Slides Generation Gets Stuck
+## What to Do If Slides Generation Gets Stuck
 
 Kimi Slides generation may get stuck in the following situations:
 
@@ -33,7 +33,7 @@ Kimi Slides generation may get stuck in the following situations:
 For further assistance, please contact our team via the 👎 feedback channel in the product, or send an email to [support@moonshot.ai](mailto:support@moonshot.ai).
 </Callout>
 
-## Adaptive Mode Slides Pop-up Cards and Preview Issues
+## Slides Pop-up Cards and Preview Issues
 
 Once the model finishes creating your presentation, a message at the end of the conversation will prompt you to "Click the card below to preview," and a Slides card will pop up. Click the card to enter the Slides editing page.
 

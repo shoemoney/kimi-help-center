@@ -116,8 +116,8 @@ Rules for translating the help center across locales. Read together with
 
 ## Workflow
 
-- Work on the `i18n` branch; one focused commit per fix; `git pull
-  --rebase origin i18n` before pushing (the branch is shared — beware
+- Work on the `master` branch; one focused commit per fix; `git pull
+  --rebase origin master` before pushing (the branch is shared — beware
   concurrent edits).
 - Commit only locale directories and `glossary/`; exclude `_l10n-review/`
   and `scripts/`.

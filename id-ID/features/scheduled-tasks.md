@@ -124,7 +124,7 @@ Tidak ada batasan jumlah tugas yang dapat Anda buat, tetapi jumlah yang dapat **
 Tugas terjadwal yang dibuat di Kimi berjalan di cloud — Anda tidak perlu membiarkan klien tetap terbuka. Tugas yang berjalan secara lokal di aplikasi desktop Kimi Work mengharuskan aplikasi tetap terbuka; pemicu yang terlewat saat aplikasi tertutup tidak akan dijalankan setelahnya.
 
 ### Bisakah saya memilih model saat tugas terjadwal berjalan?
-Anda tidak dapat memilih model saat membuat tugas. Setelah tugas berjalan, Anda dapat memilih model untuk melanjutkan pertanyaan lanjutan dalam percakapan hasil, dan mengetik "/" untuk memanggil plugin dan Skills.
+Saat membuat tugas, ada dua mode: **pembuatan manual** dan **pembuatan lewat percakapan**. Pembuatan manual menggunakan model K2.6 secara default untuk membuat tugas terjadwal; dengan pembuatan lewat percakapan, Anda dapat berganti model setelah memulai percakapan baru, lalu memasukkan prompt untuk membuat tugas. Setelah tugas berjalan, percakapan hasil akan dibuat, dan di dalamnya Anda dapat berganti model untuk melanjutkan pertanyaan lanjutan, serta mengetik "/" untuk memanggil plugin dan Skills.
 
 ### Bagaimana jika saya mencapai batas tugas aktif?
 Nonaktifkan tugas yang tidak lagi Anda perlukan, atau tingkatkan paket untuk mendapatkan batas aktif yang lebih tinggi. Lihat [halaman paket keanggotaan](/membership/membership-pricing) untuk detailnya.

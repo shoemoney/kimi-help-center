@@ -124,7 +124,7 @@ Du kannst beliebig viele Aufgaben erstellen, aber die Anzahl der Aufgaben, die *
 In Kimi erstellte geplante Aufgaben laufen in der Cloud — du musst keinen Client geöffnet lassen. Aufgaben, die lokal in der Kimi Work-Desktop-App laufen, erfordern eine geöffnete App; Ausführungen, die verpasst werden, während sie geschlossen ist, werden später nicht nachgeholt.
 
 ### Kann ich ein Modell auswählen, wenn eine geplante Aufgabe ausgeführt wird?
-Beim Erstellen einer Aufgabe kannst du kein Modell auswählen. Nach der Ausführung kannst du in der Ergebnisunterhaltung ein Modell auswählen, um weitere Nachfragen zu stellen, und "/" eingeben, um Plugins und Skills aufzurufen.
+Beim Erstellen einer Aufgabe gibt es zwei Modi: **manuell erstellen** und **per Dialog erstellen**. Bei der manuellen Erstellung wird die geplante Aufgabe standardmäßig mit dem Modell K2.6 erstellt; bei der Erstellung per Dialog kannst du nach dem Öffnen eines neuen Dialogs zuerst das Modell wechseln und dann einen Prompt eingeben, um die Aufgabe zu erstellen. Nach der Ausführung wird eine Ergebnisunterhaltung erzeugt, in der du das Modell wechseln kannst, um weitere Nachfragen zu stellen, und "/" eingeben kannst, um Plugins und Skills aufzurufen.
 
 ### Was passiert, wenn ich das Aktivlimit für Aufgaben erreiche?
 Schalte Aufgaben aus, die du nicht mehr brauchst, oder führe ein Upgrade deines Tarifs durch, um ein höheres Aktivlimit zu erhalten. Details findest du auf der [Seite mit den Mitgliedschaftstarifen](/membership/membership-pricing).

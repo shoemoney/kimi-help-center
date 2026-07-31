@@ -124,7 +124,7 @@ No hay límite para la cantidad que puedes crear, pero la cantidad que puedes te
 Las tareas programadas creadas en Kimi se ejecutan en la nube: no necesitas mantener abierto ningún cliente. Las tareas que se ejecutan localmente en la app de escritorio Kimi Work requieren que la app esté abierta; los disparadores omitidos mientras estuvo cerrada no se ejecutan después.
 
 ### ¿Puedo elegir un modelo cuando se ejecuta una tarea programada?
-No puedes elegir un modelo al crear una tarea. Después de que se ejecute, puedes elegir un modelo para seguir haciendo preguntas de seguimiento en la conversación del resultado, y escribir "/" para invocar plugins y Skills.
+Al crear una tarea hay dos modos: **creación manual** y **creación en conversación**. La creación manual usa el modelo K2.6 de forma predeterminada para crear la tarea programada; con la creación en conversación, puedes cambiar de modelo después de iniciar una nueva conversación y luego escribir tu prompt para crear la tarea. Después de que la tarea se ejecute, se genera una conversación del resultado, donde puedes cambiar de modelo para seguir haciendo preguntas de seguimiento, y escribir "/" para invocar plugins y Skills.
 
 ### ¿Qué pasa si alcanzo el límite de tareas activas?
 Desactiva las tareas que ya no necesites o mejora tu plan para tener un límite de tareas activas más alto. Consulta la [página de planes de membresía](/membership/membership-pricing) para más detalles.

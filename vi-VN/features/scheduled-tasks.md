@@ -124,7 +124,7 @@ Không giới hạn số lượng tác vụ bạn tạo, nhưng số tác vụ c
 Các tác vụ đã lên lịch tạo trong Kimi chạy trên cloud — bạn không cần mở client. Các tác vụ chạy cục bộ trong ứng dụng máy tính Kimi Work yêu cầu ứng dụng phải đang mở; các lần kích hoạt bị bỏ lỡ khi ứng dụng đóng sẽ không được chạy bù sau đó.
 
 ### Tôi có thể chọn model khi tác vụ đã lên lịch chạy không?
-Bạn không thể chọn model khi tạo tác vụ. Sau khi tác vụ chạy, bạn có thể chọn một model để tiếp tục hỏi nối tiếp trong cuộc trò chuyện kết quả, và nhập "/" để gọi plugin và Skills.
+Khi tạo tác vụ, có hai chế độ: **tạo thủ công** và **tạo qua trò chuyện**. Tạo thủ công mặc định dùng model K2.6 để tạo tác vụ đã lên lịch; với tạo qua trò chuyện, bạn có thể đổi model sau khi bắt đầu cuộc trò chuyện mới, rồi nhập prompt để tạo tác vụ. Sau khi tác vụ chạy, một cuộc trò chuyện kết quả sẽ được tạo, tại đó bạn có thể đổi model để tiếp tục hỏi nối tiếp, và nhập "/" để gọi plugin và Skills.
 
 ### Nếu tôi chạm giới hạn tác vụ hoạt động thì sao?
 Hãy tắt những tác vụ không còn cần thiết, hoặc nâng cấp gói để có giới hạn hoạt động cao hơn. Xem [trang gói thành viên](/membership/membership-pricing) để biết chi tiết.

@@ -124,7 +124,7 @@ There is no limit on how many you create, but the number you can have **active a
 Scheduled tasks created in Kimi run in the cloud — you don't need to keep a client open. Tasks running locally in the Kimi Work desktop app require the app to be open; triggers missed while it is closed are not run afterward.
 
 ### Can I choose a model when a scheduled task runs?
-You can't choose a model when creating a task. After it runs, you can choose a model to keep asking follow-ups in the result conversation, and type "/" to invoke plugins and Skills.
+When you create a task, there are two modes: **manual creation** and **conversational creation**. Manual creation creates the scheduled task with the K2.6 model by default; with conversational creation, you can switch models after starting a new conversation, then enter your prompt to create the task. After the task runs, a result conversation is generated, where you can switch models to keep asking follow-ups, and type "/" to invoke plugins and Skills.
 
 ### What if I hit the active task limit?
 Turn off tasks you no longer need, or upgrade your plan for a higher active limit. See the [membership plans page](/membership/membership-pricing) for details.

@@ -124,7 +124,7 @@ Non c'è limite al numero di attività che puoi creare, ma il numero che puoi ma
 Le attività pianificate create in Kimi vengono eseguite nel cloud: non devi tenere aperto alcun client. Le attività eseguite localmente nell'app desktop Kimi Work richiedono che l'app sia aperta; le attivazioni mancate mentre è chiusa non vengono eseguite in seguito.
 
 ### Posso scegliere un modello quando viene eseguita un'attività pianificata?
-Non puoi scegliere un modello durante la creazione di un'attività. Dopo l'esecuzione, puoi scegliere un modello per continuare a fare domande di follow-up nella conversazione del risultato e digitare "/" per richiamare plugin e Skills.
+Quando crei un'attività, ci sono due modalità: **creazione manuale** e **creazione in conversazione**. La creazione manuale usa il modello K2.6 per impostazione predefinita per creare l'attività pianificata; con la creazione in conversazione, puoi cambiare modello dopo aver avviato una nuova conversazione e poi inserire il prompt per creare l'attività. Dopo l'esecuzione dell'attività, viene generata una conversazione del risultato, in cui puoi cambiare modello per continuare a fare domande di follow-up e digitare "/" per richiamare plugin e Skills.
 
 ### Cosa succede se raggiungo il limite di attività attive?
 Disattiva le attività che non ti servono più oppure aggiorna il piano per aumentare il limite di attività attive. Consulta la [pagina dei piani di abbonamento](/membership/membership-pricing) per i dettagli.

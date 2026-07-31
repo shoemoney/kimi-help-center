@@ -124,7 +124,7 @@ Oluşturabileceğiniz görev sayısında sınır yoktur; ancak **aynı anda etki
 Kimi'de oluşturulan zamanlanmış görevler bulutta çalışır — bir istemciyi açık tutmanız gerekmez. Kimi Work masaüstü uygulamasında yerel olarak çalışan görevler için uygulamanın açık olması gerekir; uygulama kapalıyken kaçırılan tetiklemeler daha sonra çalıştırılmaz.
 
 ### Zamanlanmış görev çalışırken model seçebilir miyim?
-Görev oluştururken model seçemezsiniz. Görev çalıştıktan sonra sonuç konuşmasında takip soruları sormaya devam etmek için bir model seçebilir ve "/" yazarak eklentileri ve Skills'i çağırabilirsiniz.
+Görev oluştururken iki mod vardır: **manuel oluşturma** ve **sohbetle oluşturma**. Manuel oluşturma, zamanlanmış görevi varsayılan olarak K2.6 modeliyle oluşturur; sohbetle oluşturmada ise yeni bir sohbet başlattıktan sonra modeli değiştirip isteminizi girerek görevi oluşturabilirsiniz. Görev çalıştıktan sonra bir sonuç konuşması oluşturulur; bu konuşmada takip soruları sormaya devam etmek için modeli değiştirebilir ve "/" yazarak eklentileri ve Skills'i çağırabilirsiniz.
 
 ### Etkin görev sınırına ulaşırsam ne olur?
 Artık ihtiyaç duymadığınız görevleri kapatın veya daha yüksek etkin görev sınırı için paketinizi yükseltin. Ayrıntılar için [üyelik paketleri sayfasına](/membership/membership-pricing) bakın.

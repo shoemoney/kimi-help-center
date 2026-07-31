@@ -124,7 +124,7 @@ Le nombre de tâches créées n’est pas limité, mais le nombre de tâches pou
 Les tâches planifiées créées dans Kimi s’exécutent dans le cloud : vous n’avez pas besoin de garder un client ouvert. Les tâches exécutées localement dans l’application de bureau Kimi Work nécessitent que l’application soit ouverte ; les déclenchements manqués pendant sa fermeture ne sont pas exécutés ensuite.
 
 ### Puis-je choisir un modèle lors de l’exécution d’une tâche planifiée ?
-Vous ne pouvez pas choisir de modèle lors de la création d’une tâche. Après son exécution, vous pouvez choisir un modèle pour continuer à poser des questions de suivi dans la conversation de résultat, puis taper "/" pour appeler des plugins et des Skills.
+Lorsque vous créez une tâche, deux modes sont disponibles : **création manuelle** et **création en conversation**. La création manuelle utilise par défaut le modèle K2.6 pour créer la tâche planifiée ; avec la création en conversation, vous pouvez changer de modèle après avoir ouvert une nouvelle conversation, puis saisir votre prompt pour créer la tâche. Une fois la tâche exécutée, une conversation de résultat est générée, dans laquelle vous pouvez changer de modèle pour continuer à poser des questions de suivi, puis taper "/" pour appeler des plugins et des Skills.
 
 ### Que faire si j’atteins la limite de tâches actives ?
 Désactivez les tâches dont vous n’avez plus besoin, ou passez à un forfait supérieur pour bénéficier d’une limite plus élevée. Consultez la [page des forfaits d’abonnement](/membership/membership-pricing) pour en savoir plus.

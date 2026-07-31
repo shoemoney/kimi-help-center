@@ -124,7 +124,7 @@ Não há limite para quantas você cria, mas a quantidade que pode ficar **ativa
 Tarefas agendadas criadas no Kimi são executadas na nuvem — você não precisa manter um cliente aberto. Tarefas executadas localmente no aplicativo desktop Kimi Work exigem que o aplicativo esteja aberto; acionamentos perdidos enquanto ele estiver fechado não são executados depois.
 
 ### Posso escolher um modelo quando uma tarefa agendada é executada?
-Você não pode escolher um modelo ao criar uma tarefa. Depois que ela for executada, você pode escolher um modelo para continuar fazendo perguntas de acompanhamento na conversa de resultado e digitar "/" para invocar plugins e Skills.
+Ao criar uma tarefa, há dois modos: **criação manual** e **criação em conversa**. A criação manual usa o modelo K2.6 por padrão para criar a tarefa agendada; na criação em conversa, você pode trocar de modelo depois de iniciar uma nova conversa e, em seguida, inserir o prompt para criar a tarefa. Depois que a tarefa for executada, uma conversa de resultado é gerada, na qual você pode trocar de modelo para continuar fazendo perguntas de acompanhamento e digitar "/" para invocar plugins e Skills.
 
 ### E se eu atingir o limite de tarefas ativas?
 Desative as tarefas de que não precisa mais ou faça upgrade do plano para ter um limite maior de tarefas ativas. Consulte a [página de planos de assinatura](/membership/membership-pricing) para ver os detalhes.

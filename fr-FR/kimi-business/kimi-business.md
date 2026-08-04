@@ -31,8 +31,8 @@ Kimi Business propose des abonnements annuels à partir de 5 sièges, parfaiteme
 
 | Élément | Détails |
 |------|---------|
-| Prix | 599 $/siège/an (environ 50 $/siège/mois) |
-| Achat minimum | 5 sièges, à partir de 2 995 $/an |
+| Prix | 600 $/siège/an (environ 50 $/siège/mois) |
+| Achat minimum | 5 sièges, à partir de 3 000 $/an |
 | Facturation | Abonnement annuel, ajout de sièges possible en cours d'abonnement |
 
 Les sièges supplémentaires achetés en cours d'abonnement sont facturés au prorata des jours restants et expirent à la même date que l'abonnement initial.
@@ -40,11 +40,10 @@ Les sièges supplémentaires achetés en cours d'abonnement sont facturés au pr
 ## Avantages principaux
 
 - Commande minimale de 5 sièges
-- Protection de la confidentialité des données de niveau entreprise
-- Accès prioritaire aux fonctionnalités expérimentales : Agent Swarm / Kimi Claw / Professional Database
-- Crédits Agent mensuels ×2
-- Multitâche pour l'Agent
-- Crédits Kimi Code ×5
+- Vos contenus ne sont pas utilisés pour l'entraînement des modèles par défaut
+- Jusqu'à 1 million de tokens de contexte pour les longues conversations
+- Débloquez toutes les fonctionnalités avancées : Kimi Work / Swarm / Dashboard / Plugins
+- Kimi Code disponible
 - Assistance technique dédiée
 
 ### Fonctionnalités d'entreprise

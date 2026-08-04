@@ -47,11 +47,10 @@ When you add seats during a subscription period, the price is prorated based on 
 
 - Minimum order of 5 seats
 - Enterprise-grade data privacy protection
-- Priority access to experimental features: Agent Swarm / Kimi Claw / Professional Database
-- 2x monthly Agent credits
-- Agent multi-tasking
-- Kimi Code 5x credits
-- Dedicated technical support
+- Ultra-long conversation capacity with up to 1M tokens
+- All advanced features unlocked: Kimi Work / Swarm / Dashboard / Plugins
+- Kimi Code available
+- Dedicated enterprise technical support
 
 ### Enterprise-Exclusive Features
 

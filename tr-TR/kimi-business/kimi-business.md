@@ -31,8 +31,8 @@ Kimi Business, en az 5 koltuktan başlayan yıllık abonelikler sunar; ekip iş 
 
 | Öğe | Ayrıntılar |
 |------|---------|
-| Fiyat | 599 $/koltuk/yıl (yaklaşık 50 $/koltuk/ay) |
-| Minimum Satın Alma | 5 koltuk, yılda 2.995 $'dan başlayan |
+| Fiyat | 600 $/koltuk/yıl (yaklaşık 50 $/koltuk/ay) |
+| Minimum Satın Alma | 5 koltuk, yılda 3.000 $'dan başlayan |
 | Faturalandırma | Yıllık abonelik, abonelik süresi boyunca koltuk eklemeyi destekler |
 
 Abonelik süresi içinde satın alınan ek koltuklar, kalan gün sayısına göre orantılı olarak ücretlendirilir ve mevcut aboneliğle aynı sona erme tarihine sahip olur.
@@ -40,11 +40,10 @@ Abonelik süresi içinde satın alınan ek koltuklar, kalan gün sayısına gör
 ## Temel Avantajlar
 
 - En az 5 koltukluk minimum sipariş
-- Kurumsal düzeyde veri gizliliği koruması
-- Deneysel özelliklere öncelikli erişim: Agent Swarm / Kimi Claw / Professional Database
-- Aylık Agent kredilerinde 2x artış
-- Agent çoklu görev desteği
-- Kimi Code 5x kredi
+- İçeriğiniz varsayılan olarak model eğitiminde kullanılmaz
+- Uzun konuşmalar için 1 milyon tokena kadar bağlam
+- Tüm gelişmiş özelliklerin kilidini açın: Kimi Work / Swarm / Dashboard / Plugins
+- Kimi Code kullanılabilir
 - Özel teknik destek
 
 ### Kurumsal Özellikler

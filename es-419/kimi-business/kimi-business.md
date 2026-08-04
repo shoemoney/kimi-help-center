@@ -31,8 +31,8 @@ Kimi Business ofrece suscripciones anuales a partir de 5 asientos, ideales para 
 
 | Concepto | Detalles |
 |------|---------|
-| Precio | $599/asiento/año (aprox. $50/asiento/mes) |
-| Compra mínima | 5 asientos, a partir de $2,995/año |
+| Precio | $600/asiento/año (aprox. $50/asiento/mes) |
+| Compra mínima | 5 asientos, a partir de $3,000/año |
 | Facturación | Suscripción anual; permite agregar asientos durante el periodo de suscripción |
 
 Los asientos adicionales comprados durante el periodo de suscripción se prorratean según los días restantes y tienen la misma fecha de vencimiento que la suscripción original.
@@ -40,11 +40,10 @@ Los asientos adicionales comprados durante el periodo de suscripción se prorrat
 ## Beneficios principales
 
 - Pedido mínimo de 5 asientos
-- Protección de la privacidad de los datos de nivel empresarial
-- Acceso prioritario a funciones experimentales: Agent Swarm / Kimi Claw / Professional Database
-- 2x de créditos mensuales de Agent
-- Multitarea de Agent
-- 5x de créditos de Kimi Code
+- Tu contenido no se utiliza para entrenar modelos de forma predeterminada
+- Hasta 1 millón de tokens de contexto para conversaciones largas
+- Desbloquea todas las funciones avanzadas: Kimi Work / Swarm / Dashboard / Plugins
+- Kimi Code disponible
 - Soporte técnico dedicado
 
 ### Funciones para empresas

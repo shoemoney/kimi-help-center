@@ -31,8 +31,8 @@ Kimi Business bietet Jahresabonnements ab 5 Plätzen – ideal für kleine und m
 
 | Position | Details |
 |------|---------|
-| Preis | 599 $/Platz/Jahr (ca. 50 $/Platz/Monat) |
-| Mindestabnahme | 5 Plätze, ab 2.995 $/Jahr |
+| Preis | 600 $/Platz/Jahr (ca. 50 $/Platz/Monat) |
+| Mindestabnahme | 5 Plätze, ab 3.000 $/Jahr |
 | Abrechnung | Jahresabonnement, Hinzufügen weiterer Plätze während der Laufzeit möglich |
 
 Weitere Plätze, die während der Laufzeit hinzugekauft werden, werden anteilig nach den verbleibenden Tagen berechnet und haben dasselbe Ablaufdatum wie das ursprüngliche Abonnement.
@@ -40,11 +40,10 @@ Weitere Plätze, die während der Laufzeit hinzugekauft werden, werden anteilig 
 ## Wichtigste Vorteile
 
 - Mindestabnahme von 5 Plätzen
-- Datenschutz auf Unternehmensniveau
-- Vorrangiger Zugang zu experimentellen Funktionen: Agent Swarm / Kimi Claw / Professional Database
-- 2× monatliche Agent-Credits
-- Agent-Multitasking
-- Kimi Code 5× Credits
+- Ihre Inhalte werden standardmäßig nicht zum Training von Modellen verwendet
+- Bis zu 1 Mio. Tokens Kontext für lange Unterhaltungen
+- Alle erweiterten Funktionen freischalten: Kimi Work / Swarm / Dashboard / Plugins
+- Kimi Code verfügbar
 - Dedizierter technischer Support
 
 ### Unternehmensfunktionen

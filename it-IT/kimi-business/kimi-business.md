@@ -31,8 +31,8 @@ Kimi Business prevede abbonamenti annuali a partire da 5 postazioni, ideali per 
 
 | Voce | Dettagli |
 |------|---------|
-| Prezzo | 599 $/postazione/anno (circa 50 $/postazione/mese) |
-| Acquisto minimo | 5 postazioni, a partire da 2.995 $/anno |
+| Prezzo | 600 $/postazione/anno (circa 50 $/postazione/mese) |
+| Acquisto minimo | 5 postazioni, a partire da 3.000 $/anno |
 | Fatturazione | Abbonamento annuale, con possibilità di aggiungere postazioni durante il periodo di abbonamento |
 
 Le postazioni aggiuntive acquistate durante il periodo di abbonamento vengono calcolate in proporzione ai giorni rimanenti e condividono la stessa data di scadenza dell'abbonamento originale.
@@ -40,11 +40,10 @@ Le postazioni aggiuntive acquistate durante il periodo di abbonamento vengono ca
 ## Vantaggi principali
 
 - Ordine minimo di 5 postazioni
-- Protezione della privacy dei dati di livello aziendale
-- Accesso prioritario alle funzionalità sperimentali: Agent Swarm / Kimi Claw / Professional Database
-- Crediti Agent mensili raddoppiati (2x)
-- Multitasking dell'Agent
-- Crediti Kimi Code 5x
+- I tuoi contenuti non vengono utilizzati per l'addestramento dei modelli per impostazione predefinita
+- Fino a 1 milione di token di contesto per conversazioni lunghe
+- Sblocca tutte le funzionalità avanzate: Kimi Work / Swarm / Dashboard / Plugins
+- Kimi Code disponibile
 - Supporto tecnico dedicato
 
 ### Funzionalità per le imprese

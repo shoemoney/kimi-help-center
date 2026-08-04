@@ -31,8 +31,8 @@ Kimi Business menawarkan langganan tahunan mulai dari 5 seat, cocok untuk usaha 
 
 | Item | Detail |
 |------|---------|
-| Harga | $599/seat/tahun (sekitar $50/seat/bulan) |
-| Pembelian Minimum | 5 seat, mulai dari $2.995/tahun |
+| Harga | $600/seat/tahun (sekitar $50/seat/bulan) |
+| Pembelian Minimum | 5 seat, mulai dari $3.000/tahun |
 | Penagihan | Langganan tahunan, mendukung penambahan seat selama periode langganan |
 
 Seat tambahan yang dibeli selama periode langganan dihitung secara proporsional berdasarkan sisa hari, dengan tanggal kedaluwarsa yang sama dengan langganan awal.
@@ -40,11 +40,10 @@ Seat tambahan yang dibeli selama periode langganan dihitung secara proporsional 
 ## Manfaat Utama
 
 - Pemesanan minimum 5 seat
-- Perlindungan privasi data tingkat enterprise
-- Akses prioritas ke fitur eksperimental: Agent Swarm / Kimi Claw / Professional Database
-- Kredit Agent bulanan 2x
-- Multitugas Agent
-- Kredit Kimi Code 5x
+- Konten Anda tidak digunakan untuk melatih model secara default
+- Konteks hingga 1 juta token untuk percakapan panjang
+- Buka semua fitur lanjutan: Kimi Work / Swarm / Dashboard / Plugins
+- Kimi Code tersedia
 - Dukungan teknis khusus
 
 ### Fitur Enterprise

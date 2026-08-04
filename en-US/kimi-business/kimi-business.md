@@ -31,8 +31,8 @@ Kimi Business offers annual subscriptions starting from 5 seats, ideal for small
 
 | Item | Details |
 |------|---------|
-| Price | $599/seat/year (approx. $50/seat/month) |
-| Minimum Purchase | 5 seats, starting from $2,995/year |
+| Price | $600/seat/year (approx. $50/seat/month) |
+| Minimum Purchase | 5 seats, starting from $3,000/year |
 | Billing | Annual subscription, supports adding seats during subscription period |
 
 Additional seats purchased during the subscription period are prorated based on remaining days, with the same expiration date as the original subscription.
@@ -40,11 +40,10 @@ Additional seats purchased during the subscription period are prorated based on 
 ## Core Benefits
 
 - Minimum order of 5 seats
-- Enterprise-grade data privacy protection
-- Priority access to experimental features: Agent Swarm / Kimi Claw / Professional Database
-- 2x monthly Agent credits
-- Agent multi-tasking
-- Kimi Code 5x credits
+- No model training on your content by default
+- Up to 1M tokens of context for long conversations
+- Unlock all advanced features: Kimi Work / Swarm / Dashboard / Plugins
+- Kimi Code available
 - Dedicated technical support
 
 ### Enterprise Features

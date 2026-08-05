@@ -57,7 +57,7 @@ Se admite la transferencia bancaria empresarial. Sigue estos pasos:
 
 <Callout type="warning">
 
-Nota: El número de cuenta receptora es solo para esta transferencia y no es necesario conservarlo. El monto de la transferencia debe coincidir con el monto del pedido (por ejemplo: ¥14,900.00). Los fondos de pedidos fallidos debido a transferencias no conformes se reembolsarán dentro de las 24 horas. Si tienes preguntas, comunícate con atención al cliente en [sales@kimi.com](mailto:sales@kimi.com).
+Nota: El número de cuenta receptora es solo para esta transferencia y no es necesario conservarlo. El monto de la transferencia debe coincidir con el monto del pedido (por ejemplo: $3,000). Los fondos de pedidos fallidos debido a transferencias no conformes se reembolsarán dentro de las 24 horas. Si tienes preguntas, comunícate con atención al cliente en [sales@kimi.com](mailto:sales@kimi.com).
 
 </Callout>
 

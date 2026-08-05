@@ -37,4 +37,4 @@ preview: false
 
 ## 企業使用者的資料會用於模型訓練嗎？
 
-Kimi Business（企業版）的核心承諾之一是企業資料不進入模型訓練流程，且個人空間與企業空間完全隔離。如需資料處理協議（DPA）、企業合同或產品演示，請聯繫企業銷售團隊：[sales@kimi.ai](mailto:sales@kimi.ai)。
+Kimi Business（企業版）的核心承諾之一是企業資料不進入模型訓練流程，且個人空間與企業空間完全隔離。如需企業合同或產品演示，請聯繫企業銷售團隊：[sales@kimi.ai](mailto:sales@kimi.ai)。

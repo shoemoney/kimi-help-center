@@ -37,4 +37,4 @@ Data Anda disimpan di lingkungan server yang berlokasi di Tiongkok daratan dan m
 
 ## Apakah data pengguna enterprise digunakan untuk pelatihan model?
 
-Salah satu komitmen inti Kimi Business (versi enterprise) adalah bahwa data enterprise tidak masuk ke dalam proses pelatihan model, serta ruang pribadi dan ruang enterprise sepenuhnya terpisah. Jika Anda memerlukan perjanjian pemrosesan data (DPA), kontrak enterprise, atau demo produk, silakan hubungi tim penjualan enterprise: [sales@kimi.ai](mailto:sales@kimi.ai).
+Salah satu komitmen inti Kimi Business (versi enterprise) adalah bahwa data enterprise tidak masuk ke dalam proses pelatihan model, serta ruang pribadi dan ruang enterprise sepenuhnya terpisah. Jika Anda memerlukan kontrak enterprise atau demo produk, silakan hubungi tim penjualan enterprise: [sales@kimi.ai](mailto:sales@kimi.ai).

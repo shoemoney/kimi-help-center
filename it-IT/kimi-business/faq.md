@@ -57,7 +57,7 @@ Il bonifico bancario aziendale è supportato. Segui questi passaggi:
 
 <Callout type="warning">
 
-Nota: il numero del conto beneficiario vale solo per questo bonifico e non deve essere conservato. L'importo del bonifico deve corrispondere all'importo dell'ordine (esempio: ¥14.900,00). I fondi relativi a ordini non andati a buon fine a causa di bonifici non conformi verranno rimborsati entro 24 ore. Per domande, contatta l'assistenza clienti all'indirizzo [sales@kimi.com](mailto:sales@kimi.com).
+Nota: il numero del conto beneficiario vale solo per questo bonifico e non deve essere conservato. L'importo del bonifico deve corrispondere all'importo dell'ordine (esempio: 3.000 $). I fondi relativi a ordini non andati a buon fine a causa di bonifici non conformi verranno rimborsati entro 24 ore. Per domande, contatta l'assistenza clienti all'indirizzo [sales@kimi.com](mailto:sales@kimi.com).
 
 </Callout>
 

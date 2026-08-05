@@ -57,7 +57,7 @@ Kurumsal banka havalesi desteklenmektedir. Aşağıdaki adımları izleyin:
 
 <Callout type="warning">
 
-Not: Alıcı hesap numarası yalnızca bu havale içindir ve saklanması gerekmez. Havale tutarı, sipariş tutarıyla eşleşmelidir (örnek: ¥14.900,00). Kurallara uymayan havaleler nedeniyle başarısız olan siparişlerin tutarları 24 saat içinde iade edilir. Sorularınız için lütfen müşteri hizmetleriyle [sales@kimi.com](mailto:sales@kimi.com) adresinden iletişime geçin.
+Not: Alıcı hesap numarası yalnızca bu havale içindir ve saklanması gerekmez. Havale tutarı, sipariş tutarıyla eşleşmelidir (örnek: 3.000 $). Kurallara uymayan havaleler nedeniyle başarısız olan siparişlerin tutarları 24 saat içinde iade edilir. Sorularınız için lütfen müşteri hizmetleriyle [sales@kimi.com](mailto:sales@kimi.com) adresinden iletişime geçin.
 
 </Callout>
 

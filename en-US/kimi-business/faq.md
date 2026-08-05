@@ -57,7 +57,7 @@ Enterprise bank transfer is supported. Follow these steps:
 
 <Callout type="warning">
 
-Note: The receiving account number is for this transfer only and does not need to be retained. The transfer amount must match the order amount (example: ¥14,900.00). Funds for failed orders due to non-compliant transfers will be refunded within 24 hours. For questions, please contact customer service at [sales@kimi.com](mailto:sales@kimi.com).
+Note: The receiving account number is for this transfer only and does not need to be retained. The transfer amount must match the order amount (example: $3,000). Funds for failed orders due to non-compliant transfers will be refunded within 24 hours. For questions, please contact customer service at [sales@kimi.com](mailto:sales@kimi.com).
 
 </Callout>
 

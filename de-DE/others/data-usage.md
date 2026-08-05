@@ -37,4 +37,4 @@ Ihre Daten werden auf Servern innerhalb des chinesischen Festlands gespeichert, 
 
 ## Werden die Daten von Unternehmensnutzern für das Modelltraining verwendet?
 
-Eines der zentralen Versprechen von Kimi Business (Unternehmensversion) ist, dass Unternehmensdaten nicht in das Modelltraining einfließen und dass private und Unternehmensbereiche vollständig voneinander getrennt sind. Wenn Sie eine Auftragsverarbeitungsvereinbarung (DPA), einen Unternehmensvertrag oder eine Produktdemo benötigen, wenden Sie sich bitte an unser Enterprise-Sales-Team: [sales@kimi.ai](mailto:sales@kimi.ai).
+Eines der zentralen Versprechen von Kimi Business (Unternehmensversion) ist, dass Unternehmensdaten nicht in das Modelltraining einfließen und dass private und Unternehmensbereiche vollständig voneinander getrennt sind. Wenn Sie einen Unternehmensvertrag oder eine Produktdemo benötigen, wenden Sie sich bitte an unser Enterprise-Sales-Team: [sales@kimi.ai](mailto:sales@kimi.ai).

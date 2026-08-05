@@ -37,4 +37,4 @@ I tuoi dati sono archiviati su server situati nella Cina continentale, in ambien
 
 ## I dati degli utenti aziendali vengono usati per l’addestramento del modello?
 
-Uno degli impegni principali di Kimi Business (versione aziendale) è che i dati aziendali non entrano nel processo di addestramento del modello e che lo spazio personale e quello aziendale sono completamente isolati. Per un accordo sul trattamento dei dati (DPA), un contratto aziendale o una demo del prodotto, contatta il team di vendita enterprise: [sales@kimi.ai](mailto:sales@kimi.ai).
+Uno degli impegni principali di Kimi Business (versione aziendale) è che i dati aziendali non entrano nel processo di addestramento del modello e che lo spazio personale e quello aziendale sono completamente isolati. Per un contratto aziendale o una demo del prodotto, contatta il team di vendita enterprise: [sales@kimi.ai](mailto:sales@kimi.ai).

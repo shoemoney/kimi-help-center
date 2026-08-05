@@ -42,8 +42,8 @@ After a domestic order is paid, go to Alipay, open the bill details page for the
 <Frames
   src="./images/faq/invoice-workflow.png"
   alt="Kimi Business subscription invoice request workflow"
-  width={1920}
-  height={1080}
+  width={1619}
+  height={971}
 />
 
 ## How can Kimi Business be paid by corporate bank transfer?
@@ -67,15 +67,15 @@ Corporate bank transfer is supported. Follow these steps:
    Copy the receiving account number, account name, receiving bank, amount, and other information, then go to your bank App to complete the transfer. Return to the page after 1–5 minutes to check the payment result.
 
 <Callout type="warning">
-Note: The receiving account number is only for this transfer and does not need to be saved. The transfer amount must match the order amount exactly (example: ¥14,900.00). If the order fails because the transfer was not made as required, the funds will be returned within 24 hours. If you have any questions, please contact customer support at [sales@kimi.ai](mailto:sales@kimi.ai).
+Note: The receiving account number is only for this transfer and does not need to be saved. The transfer amount must match the order amount exactly (example: ¥21,000). If the order fails because the transfer was not made as required, the funds will be returned within 24 hours. If you have any questions, please contact customer support at [sales@kimi.ai](mailto:sales@kimi.ai).
 
 </Callout>
 
 <Frames
   src="./images/faq/enterprise-payment.png"
   alt="Kimi Business corporate bank transfer interface workflow"
-  width={1920}
-  height={1080}
+  width={1619}
+  height={971}
 />
 
 ## Why does Kimi Business not show as a membership in the App? How do I use it on desktop?

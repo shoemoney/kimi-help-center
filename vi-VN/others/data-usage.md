@@ -37,4 +37,4 @@ Dữ liệu của bạn được lưu trữ trong môi trường máy chủ đ�
 
 ## Dữ liệu của người dùng doanh nghiệp có được dùng để huấn luyện mô hình không?
 
-Một trong những cam kết cốt lõi của Kimi Business (phiên bản doanh nghiệp) là dữ liệu doanh nghiệp không đi vào quy trình huấn luyện mô hình, và không gian cá nhân được tách biệt hoàn toàn với không gian doanh nghiệp. Nếu bạn cần thỏa thuận xử lý dữ liệu (DPA), hợp đồng doanh nghiệp hoặc bản demo sản phẩm, vui lòng liên hệ đội ngũ kinh doanh doanh nghiệp: [sales@kimi.ai](mailto:sales@kimi.ai).
+Một trong những cam kết cốt lõi của Kimi Business (phiên bản doanh nghiệp) là dữ liệu doanh nghiệp không đi vào quy trình huấn luyện mô hình, và không gian cá nhân được tách biệt hoàn toàn với không gian doanh nghiệp. Nếu bạn cần hợp đồng doanh nghiệp hoặc bản demo sản phẩm, vui lòng liên hệ đội ngũ kinh doanh doanh nghiệp: [sales@kimi.ai](mailto:sales@kimi.ai).

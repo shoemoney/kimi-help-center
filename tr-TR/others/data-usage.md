@@ -37,4 +37,4 @@ Verileriniz, güvenlik standartlarını karşılayan ve Çin anakarasında bulun
 
 ## Kurumsal kullanıcı verileri model eğitiminde kullanılıyor mu?
 
-Kimi Business'ın (kurumsal sürüm) temel taahhütlerinden biri, kurumsal verilerin model eğitimi sürecine dahil edilmemesi ve kişisel alan ile kurumsal alanın tamamen birbirinden ayrık tutulmasıdır. Veri işleme sözleşmesi (DPA), kurumsal sözleşme veya ürün tanıtımı için lütfen kurumsal satış ekibiyle iletişime geçin: [sales@kimi.ai](mailto:sales@kimi.ai).
+Kimi Business'ın (kurumsal sürüm) temel taahhütlerinden biri, kurumsal verilerin model eğitimi sürecine dahil edilmemesi ve kişisel alan ile kurumsal alanın tamamen birbirinden ayrık tutulmasıdır. Kurumsal sözleşme veya ürün tanıtımı için lütfen kurumsal satış ekibiyle iletişime geçin: [sales@kimi.ai](mailto:sales@kimi.ai).

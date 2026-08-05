@@ -42,8 +42,8 @@ preview: false
 <Frames
   src="./images/faq/invoice-workflow.png"
   alt="Kimi Business 订阅开发票流程"
-  width={1920}
-  height={1080}
+  width={1619}
+  height={971}
 />
 
 ## Kimi Business 如何对公转账的方式支付？
@@ -67,15 +67,15 @@ preview: false
    复制收款账号、账户名、收款行及金额等信息，前往银行 App 完成转账，1-5 分钟后返回页面查询支付结果。
 
 <Callout type="warning">
-注意：收款账号仅限本次转账使用，无需留存；转账金额须与订单金额一致（示例：¥14,900.00）；未按要求转账导致订单失败的，资金将在 24 小时内退回。如有疑问请联系客服邮箱 [sales@kimi.ai](mailto:sales@kimi.ai)。
+注意：收款账号仅限本次转账使用，无需留存；转账金额须与订单金额一致（示例：¥21,000）；未按要求转账导致订单失败的，资金将在 24 小时内退回。如有疑问请联系客服邮箱 [sales@kimi.ai](mailto:sales@kimi.ai)。
 
 </Callout>
 
 <Frames
   src="./images/faq/enterprise-payment.png"
   alt="Kimi Business 对公转账界面操作流程"
-  width={1920}
-  height={1080}
+  width={1619}
+  height={971}
 />
 
 ## 为什么 Kimi Business 在 App 里显示不是会员？桌面端如何使用？

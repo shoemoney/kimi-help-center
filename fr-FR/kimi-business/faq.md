@@ -57,7 +57,7 @@ Le virement bancaire d'entreprise est pris en charge. Suivez ces étapes :
 
 <Callout type="warning">
 
-Remarque : le numéro de compte bénéficiaire ne vaut que pour ce virement et n'a pas besoin d'être conservé. Le montant du virement doit correspondre exactement au montant de la commande (exemple : 14 900,00 ¥). Les fonds des commandes échouées en raison de virements non conformes seront remboursés sous 24 heures. Pour toute question, veuillez contacter le service client à l'adresse [sales@kimi.com](mailto:sales@kimi.com).
+Remarque : le numéro de compte bénéficiaire ne vaut que pour ce virement et n'a pas besoin d'être conservé. Le montant du virement doit correspondre exactement au montant de la commande (exemple : 3 000 $). Les fonds des commandes échouées en raison de virements non conformes seront remboursés sous 24 heures. Pour toute question, veuillez contacter le service client à l'adresse [sales@kimi.com](mailto:sales@kimi.com).
 
 </Callout>
 

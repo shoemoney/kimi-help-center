@@ -37,4 +37,4 @@ Vos données sont stockées dans des environnements serveur situés en Chine con
 
 ## Les données des utilisateurs entreprise sont-elles utilisées pour l’entraînement du modèle ?
 
-L’un des engagements fondamentaux de Kimi Business (offre entreprise) est que les données d’entreprise n’entrent pas dans le processus d’entraînement du modèle, et que les espaces personnels et professionnels sont totalement isolés. Pour obtenir un accord de traitement des données (DPA), un contrat entreprise ou une démonstration du produit, contactez l’équipe commerciale entreprise : [sales@kimi.ai](mailto:sales@kimi.ai).
+L’un des engagements fondamentaux de Kimi Business (offre entreprise) est que les données d’entreprise n’entrent pas dans le processus d’entraînement du modèle, et que les espaces personnels et professionnels sont totalement isolés. Pour obtenir un contrat entreprise ou une démonstration du produit, contactez l’équipe commerciale entreprise : [sales@kimi.ai](mailto:sales@kimi.ai).

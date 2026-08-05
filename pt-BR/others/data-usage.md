@@ -37,4 +37,4 @@ Seus dados são armazenados em servidores localizados na China continental, em a
 
 ## Os dados de usuários empresariais são usados no treinamento do modelo?
 
-Um dos principais compromissos do Kimi Business (versão empresarial) é que os dados corporativos não entram no processo de treinamento do modelo, e o espaço pessoal e o espaço corporativo são totalmente isolados. Se você precisar de um acordo de processamento de dados (DPA), contrato corporativo ou demonstração do produto, entre em contato com a equipe de vendas corporativas: [sales@kimi.ai](mailto:sales@kimi.ai).
+Um dos principais compromissos do Kimi Business (versão empresarial) é que os dados corporativos não entram no processo de treinamento do modelo, e o espaço pessoal e o espaço corporativo são totalmente isolados. Se você precisar de um contrato corporativo ou demonstração do produto, entre em contato com a equipe de vendas corporativas: [sales@kimi.ai](mailto:sales@kimi.ai).

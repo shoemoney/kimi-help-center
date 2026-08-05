@@ -57,7 +57,7 @@ Transfer bank perusahaan didukung. Ikuti langkah-langkah berikut:
 
 <Callout type="warning">
 
-Catatan: Nomor rekening tujuan hanya berlaku untuk transfer ini dan tidak perlu disimpan. Jumlah transfer harus sesuai dengan jumlah pesanan (contoh: ¥14.900,00). Dana untuk pesanan yang gagal akibat transfer yang tidak sesuai akan dikembalikan dalam 24 jam. Jika ada pertanyaan, silakan hubungi layanan pelanggan di [sales@kimi.com](mailto:sales@kimi.com).
+Catatan: Nomor rekening tujuan hanya berlaku untuk transfer ini dan tidak perlu disimpan. Jumlah transfer harus sesuai dengan jumlah pesanan (contoh: $3.000). Dana untuk pesanan yang gagal akibat transfer yang tidak sesuai akan dikembalikan dalam 24 jam. Jika ada pertanyaan, silakan hubungi layanan pelanggan di [sales@kimi.com](mailto:sales@kimi.com).
 
 </Callout>
 

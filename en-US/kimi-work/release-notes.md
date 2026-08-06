@@ -23,7 +23,7 @@ This page tracks Kimi Work version updates, including new features, changes, and
 
 **Changed**
 
-- Board components pinned to the desktop are no longer forced to stay on top
+- Dashboard components using Pin To Desktop are no longer forced to stay on top
 
 **Fixed**
 

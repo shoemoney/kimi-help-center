@@ -1,7 +1,7 @@
 ---
 title: "发布日志"
 slug: "release-notes"
-order: 6
+order: 8
 extract_headings: true
 preview: false
 ---

@@ -1,9 +1,9 @@
 {
   "title": "Kimi Work",
-  "description": "A local Agent for knowledge workers — overview, Goal mode, plugins, and use cases",
+  "description": "A local Agent for knowledge workers — overview, Goal mode, plugins, widgets, dashboard, and use cases",
   "seo": {
     "title": "Kimi Work",
-    "description": "A local Agent for knowledge workers — overview, Goal mode, plugins, and use cases"
+    "description": "A local Agent for knowledge workers — overview, Goal mode, plugins, widgets, dashboard, and use cases"
   },
   "icon": "kimi-work",
   "order": 4,

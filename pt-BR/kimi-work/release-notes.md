@@ -1,7 +1,7 @@
 ---
 title: "Notas de lançamento"
 slug: "release-notes"
-order: 6
+order: 8
 extract_headings: true
 preview: false
 ---
@@ -14,6 +14,28 @@ preview: false
 # Notas de lançamento
 
 Esta página registra as atualizações de versão do Kimi Work, incluindo novos recursos, alterações e correções, e é atualizada continuamente. Baixe a versão mais recente: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
+
+## 3.1.8 (2026-08-11)
+
+**Novidades**
+
+- Navegação no histórico de mensagens: uma nova barra de navegação de mensagens no lado direito de conversas longas permite voltar rapidamente a mensagens anteriores
+- Ramificação de conversas: inicie uma nova ramificação a partir de qualquer turno para continuar explorando, mantendo o histórico da conversa original
+- Editar e retroceder: edite sua última mensagem e gere a resposta novamente
+- Pastas de projetos: mova conversas para dentro ou fora de projetos e fixe projetos na área de fixados da barra lateral
+- Edição transparente de arquivos: depois que o Agent modifica um arquivo, um cartão de resumo de diff é gerado — revise as alterações linha por linha e reverta com um clique; os arquivos do workspace são atualizados automaticamente conforme mudam no disco
+- Descoberta e criação de skills: descubra e crie skills personalizadas no Work, com suporte à busca de skills
+- Os componentes do Dashboard fixados na área de trabalho agora têm a opção de ficar sempre no topo
+
+**Alterações**
+
+- As novas janelas independentes de conversa agora suportam o Chat
+- Mensagens do usuário muito longas na caixa de entrada agora são recolhidas
+
+**Correções**
+
+- Corrigida a pré-visualização de links de arquivos PDF no Windows; as Configurações do Work não piscam mais em branco no modo escuro; colar da área de transferência do Word agora restaura texto em vez de um anexo de imagem
+- Correção de alguns bugs e melhoria de algumas interações e da estabilidade
 
 ## 3.1.7 (2026-08-05)
 

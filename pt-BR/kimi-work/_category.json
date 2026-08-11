@@ -1,9 +1,9 @@
 {
   "title": "Kimi Work",
-  "description": "Um agente local para profissionais do conhecimento — visão geral, modo Objetivo, plugins e casos de uso",
+  "description": "Um agente local para profissionais do conhecimento — visão geral, modo Objetivo, plugins, widgets, dashboard e casos de uso",
   "seo": {
     "title": "Kimi Work",
-    "description": "Um agente local para profissionais do conhecimento — visão geral, modo Objetivo, plugins e casos de uso"
+    "description": "Um agente local para profissionais do conhecimento — visão geral, modo Objetivo, plugins, widgets, dashboard e casos de uso"
   },
   "icon": "kimi-work",
   "order": 4,

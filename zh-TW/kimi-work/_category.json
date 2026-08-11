@@ -1,9 +1,9 @@
 {
   "title": "Kimi Work",
-  "description": "產品介紹、目標模式、外掛中心、典型應用情境與常見問題",
+  "description": "產品介紹、目標模式、外掛中心、小組件、看板、典型應用情境與常見問題",
   "seo": {
     "title": "Kimi Work",
-    "description": "產品介紹、目標模式、外掛中心、典型應用情境與常見問題"
+    "description": "產品介紹、目標模式、外掛中心、小組件、看板、典型應用情境與常見問題"
   },
   "icon": "kimi-work",
   "order": 4,

@@ -1,7 +1,7 @@
 ---
 title: "Notas de la versión"
 slug: "release-notes"
-order: 6
+order: 8
 extract_headings: true
 preview: false
 ---
@@ -14,6 +14,28 @@ preview: false
 # Notas de la versión
 
 Esta página registra las actualizaciones de versión de Kimi Work, incluidas nuevas funciones, cambios y correcciones, y se actualiza constantemente. Descarga la versión más reciente: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
+
+## 3.1.8 (2026-08-11)
+
+**Novedades**
+
+- Navegación por el historial de mensajes: una nueva barra de navegación de mensajes en el lado derecho de los chats largos te permite volver rápidamente a mensajes anteriores
+- Ramificación de conversaciones: inicia una nueva rama desde cualquier turno para seguir explorando, conservando el historial de la conversación original
+- Editar y retroceder: edita tu último mensaje y regenera la respuesta
+- Carpetas de proyectos: mueve conversaciones dentro o fuera de los proyectos y fija proyectos en el área fijada de la barra lateral
+- Edición transparente de archivos: después de que el Agent modifica un archivo, se genera una tarjeta de resumen con el diff; revisa los cambios línea por línea y reviértelos con un clic; los archivos del workspace se actualizan automáticamente cuando cambian en el disco
+- Descubrimiento y creación de habilidades: descubre y crea habilidades personalizadas en Work, con compatibilidad para búsqueda de habilidades
+- Los componentes de Dashboard fijados en el escritorio ahora tienen un interruptor para permanecer siempre encima
+
+**Cambios**
+
+- Las nuevas ventanas de conversación independientes ahora son compatibles con Chat
+- Los mensajes de usuario demasiado largos en el cuadro de entrada ahora se contraen
+
+**Correcciones**
+
+- Se corrigió la vista previa de enlaces de archivos PDF en Windows; la configuración de Work ya no parpadea en blanco en el modo oscuro; al pegar desde el portapapeles de Word ahora se restaura el texto en lugar de una imagen adjunta
+- Se corrigieron varios errores y se mejoraron algunas interacciones y la estabilidad
 
 ## 3.1.7 (2026-08-05)
 

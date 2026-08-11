@@ -1,9 +1,9 @@
 {
   "title": "Kimi Work",
-  "description": "Một Agent cục bộ dành cho người làm tri thức — tổng quan, chế độ Mục tiêu, plugin và các trường hợp sử dụng",
+  "description": "Một Agent cục bộ dành cho người làm tri thức — tổng quan, chế độ Mục tiêu, plugin, widget, dashboard và các trường hợp sử dụng",
   "seo": {
     "title": "Kimi Work",
-    "description": "Một Agent cục bộ dành cho người làm tri thức — tổng quan, chế độ Mục tiêu, plugin và các trường hợp sử dụng"
+    "description": "Một Agent cục bộ dành cho người làm tri thức — tổng quan, chế độ Mục tiêu, plugin, widget, dashboard và các trường hợp sử dụng"
   },
   "icon": "kimi-work",
   "order": 4,

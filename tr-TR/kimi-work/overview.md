@@ -9,7 +9,7 @@ preview_content: "Kimi Work, bilgi çalışanları için geliştirilmiş, Kimi m
 
 <SeoMeta
   title="Kimi Work Nedir? Bilgi Çalışanları için Yerel Bir Agent - Kimi Yardım Merkezi"
-  description="Kimi Work (Beta) hakkında bilgi edinin: Kimi Code tarafından desteklenen, Beceriler, zamanlanmış görevler, WebBridge, Agent Swarm ve uzun soluklu görev yürütme özelliklerine sahip, bilgi çalışanları için genel amaçlı yerel bir Agent; Mac / Windows istemcisinde kullanılabilir."
+  description="Kimi Work (Beta) hakkında bilgi edinin: Kimi Code ve Kimi K3 modeliyle güçlendirilen, Skills, zamanlanmış görevler, WebBridge, Agent Swarm, Widgets ve Dashboard özelliklerine sahip, bilgi çalışanları için genel amaçlı yerel bir Agent; Mac / Windows istemcisinde kullanılabilir."
 />
 
 # Kimi Work Genel Bakış
@@ -22,17 +22,19 @@ Kimi Code kod yazan geliştiricilere hizmet eder; Kimi Work ise bilgi çalışan
 
 ## Temel Yetenekler
 
-- **Yerel Agent çekirdeği**: Çekirdek olarak Kimi Code’dan güç alır; Becerileri yükleme ve kullanma, zamanlanmış görevler çalıştırma gibi yerel Agent temellerini sağlar.
-- **Profesyonel Beceriler**: Çevrimiçi Kimi Agent’ın web sitesi oluşturma ve PPT hazırlama gibi profesyonel Becerilerini devralır; ayrıca üçüncü taraf Becerileri önermeyi ve yerel Beceriler yüklemeyi destekler.
+- **Yerel Agent çekirdeği**: Çekirdek olarak Kimi Code’dan ve Kimi K3 modelinden güç alır; Skills yükleme ve kullanma ile zamanlanmış görevler çalıştırma dahil yerel Agent temellerini sağlar.
+- **Profesyonel Skills**: Çevrimiçi Kimi Agent’ın web sitesi oluşturma ve PPT hazırlama gibi profesyonel Skills’lerini devralır; ayrıca üçüncü taraf Skills önermeyi ve yerel Skills yüklemeyi destekler.
 - **Eklentiler ve profesyonel veritabanları**: Canva, Notion ve WPS gibi harici uygulama ve servisleri Kimi içinde kullanın; finans, araştırma, hukuk ve diğer alanlardaki profesyonel veritabanlarına bağlanın.
+- **Widgets**: Model tarafından bir sohbette üretilen, yerel verilere veya harici eklentilere bağlanarak sürekli güncellenebilen etkileşimli sayfalardır; yanıtları daha görsel ve daha kolay anlaşılır hale getirir. Bkz. [Widgets](/kimi-work/widgets).
+- **Dashboard**: En çok önemsediğiniz widget’ları bir konu, proje veya hedef etrafında düzenlenmiş kalıcı ve kişiselleştirilmiş tek bir görünümde toplar; istediğiniz zaman görüntüleyip yönetebilirsiniz. Bkz. [Dashboard](/kimi-work/dashboard).
 - **Kimi WebBridge**: Tarayıcıyı tıpkı bir insan gibi kullanan yerleşik bir tarayıcı işlemleri çözümü.
 - **Agent Swarm**: Görev karmaşıklığına göre, daha karmaşık ve daha uzun süren görevlerin üstesinden gelmek için en fazla 300 alt agent’tan oluşan bir ekibi otonom olarak bir araya getirir.
-- **Uzun soluklu görev yürütme**: Kimi K2.6 modelinin uzun soluklu görev yürütme yeteneğiyle desteklenir; 13 saat kesintisiz kodlamayı, paralel çalışan 300 alt agent’ı ve 4.000’den fazla otonom araç çağrısını destekler.
+- **Uzun soluklu görev yürütme**: Kimi K3 modelinin uzun soluklu görev yürütme yeteneğiyle desteklenir; onlarca saat süren otonom çalışmayı ve binlerce otonom araç çağrısını sürdürür.
 
 ## Arayüz ve Etkileşim
 
-- İstemcide "İş" ve "Sohbet" olmak üzere iki mod bulunur. İş modu kenar çubuğunda şunlar yer alır: Yeni Görev, Beceriler, Zamanlanmış Görevler, WebBridge, Projeler ve Sohbet.
-- Becerileri hızlıca kullanmak için giriş kutusuna "/", bağlam eklemek için "@" yazın.
+- İstemcide "İş" ve "Sohbet" olmak üzere iki mod bulunur. İş modu kenar çubuğunda şunlar yer alır: Yeni Görev, Dashboard, Eklentiler, Skills, Zamanlanmış Görevler, WebBridge, Projeler ve Sohbet.
+- Skills’leri hızlıca kullanmak için giriş kutusuna "/", bağlam eklemek için "@" yazın.
 - İzin denetimi sağlanır; nasıl yetkilendireceğinizi seçebilirsiniz:
   - **İzin iste**: işlem yapmadan önce yetkilendirme ister
   - **Tümüne izin ver**: yetkilendirme istemeden doğrudan çalışır
@@ -40,7 +42,7 @@ Kimi Code kod yazan geliştiricilere hizmet eder; Kimi Work ise bilgi çalışan
 
 ## Sürüm Notları
 
-Kimi Work, 3 Haziran 2026’da kullanıma sunuldu ve şu anda sık yinelemelerle Beta aşamasındadır. Dosya önizleme, taslakların otomatik kaydedilmesi, Hedef modu ve Eklenti Merkezi gibi özellikler zaman içinde kademeli olarak eklendi. Mevcut test odağı; görev ayrıştırma, çoklu agent paralelliği, araç çağırma, tarayıcı işlemleri, yerel dosya işleme ve uzun teslim çıktıları üretme üzerindedir. Yürütme kararlılığı, çıktı kalitesi ve kullanıcı deneyimi, beta kullanıcılarından gelen geri bildirimlere göre iyileştirilmeye devam edecektir.
+Kimi Work, 3 Haziran 2026’da kullanıma sunuldu ve şu anda sık yinelemelerle Beta aşamasındadır. Dosya önizleme, taslakların otomatik kaydedilmesi, Hedef modu, Eklenti Merkezi, Widgets ve Dashboard gibi özellikler zaman içinde kademeli olarak eklendi. 3.1.0 sürümünden itibaren Kimi Work, Kimi K3 modeliyle güçlendirilmektedir. Mevcut test odağı; görev ayrıştırma, çoklu agent paralelliği, araç çağırma, tarayıcı işlemleri, yerel dosya işleme ve uzun teslim çıktıları üretme üzerindedir. Yürütme kararlılığı, çıktı kalitesi ve kullanıcı deneyimi, beta kullanıcılarından gelen geri bildirimlere göre iyileştirilmeye devam edecektir.
 
 ## Sistem Gereksinimleri ve İndirme
 

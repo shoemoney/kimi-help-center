@@ -1,9 +1,9 @@
 {
   "title": "Kimi Work",
-  "description": "Bilgi çalışanları için yerel bir Agent — genel bakış, Hedef modu, eklentiler ve kullanım senaryoları",
+  "description": "Bilgi çalışanları için yerel bir Agent — genel bakış, Hedef modu, eklentiler, Widgets, Dashboard ve kullanım senaryoları",
   "seo": {
     "title": "Kimi Work",
-    "description": "Bilgi çalışanları için yerel bir Agent — genel bakış, Hedef modu, eklentiler ve kullanım senaryoları"
+    "description": "Bilgi çalışanları için yerel bir Agent — genel bakış, Hedef modu, eklentiler, Widgets, Dashboard ve kullanım senaryoları"
   },
   "icon": "kimi-work",
   "order": 4,

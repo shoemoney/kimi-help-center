@@ -1,9 +1,9 @@
 {
   "title": "Kimi Work",
-  "description": "Un agente local para trabajadores del conocimiento: descripción general, modo Objetivo, complementos y casos de uso",
+  "description": "Un agente local para trabajadores del conocimiento: descripción general, modo Objetivo, complementos, widgets, dashboard y casos de uso",
   "seo": {
     "title": "Kimi Work",
-    "description": "Un agente local para trabajadores del conocimiento: descripción general, modo Objetivo, complementos y casos de uso"
+    "description": "Un agente local para trabajadores del conocimiento: descripción general, modo Objetivo, complementos, widgets, dashboard y casos de uso"
   },
   "icon": "kimi-work",
   "order": 4,

@@ -1,9 +1,9 @@
 {
   "title": "Kimi Work",
-  "description": "Ein lokaler Agent für Wissensarbeiter – Überblick, Zielmodus, Plugins und Anwendungsfälle",
+  "description": "Ein lokaler Agent für Wissensarbeiter – Überblick, Zielmodus, Plugins, Widgets, Dashboard und Anwendungsfälle",
   "seo": {
     "title": "Kimi Work",
-    "description": "Ein lokaler Agent für Wissensarbeiter – Überblick, Zielmodus, Plugins und Anwendungsfälle"
+    "description": "Ein lokaler Agent für Wissensarbeiter – Überblick, Zielmodus, Plugins, Widgets, Dashboard und Anwendungsfälle"
   },
   "icon": "kimi-work",
   "order": 4,

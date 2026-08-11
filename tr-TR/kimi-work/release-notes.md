@@ -1,7 +1,7 @@
 ---
 title: "Sürüm Notları"
 slug: "release-notes"
-order: 6
+order: 8
 extract_headings: true
 preview: false
 ---
@@ -14,6 +14,28 @@ preview: false
 # Sürüm Notları
 
 Bu sayfa, Kimi Work sürüm güncellemelerini (yeni özellikler, değişiklikler ve düzeltmeler) kaydeder ve sürekli güncellenir. En son sürümü indirin: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
+
+## 3.1.8 (2026-08-11)
+
+**Yeni**
+
+- Mesaj geçmişinde gezinme: uzun sohbetlerin sağ tarafındaki yeni mesaj gezinme çubuğu, önceki mesajlara hızla geri dönmenizi sağlar
+- Sohbet dallandırma: orijinal sohbetin sohbet geçmişini koruyarak herhangi bir turdan yeni bir dal başlatın ve keşfetmeye devam edin
+- Düzenle ve geri sar: son mesajınızı düzenleyin ve yanıtı yeniden üretin
+- Proje klasörleri: sohbetleri projelere taşıyın veya projelerden çıkarın, projeleri kenar çubuğunun sabitlenmiş alanına sabitleyin
+- Şeffaf dosya düzenleme: Agent bir dosyayı değiştirdikten sonra bir fark özeti kartı oluşturulur — değişiklikleri satır satır inceleyin ve tek tıklamayla geri alın; workspace dosyaları diskte değiştikçe otomatik olarak yenilenir
+- Beceri keşfi ve oluşturma: Work içinde özel beceriler keşfedin ve oluşturun; beceri arama desteklenir
+- Masaüstüne sabitlenen dashboard bileşenleri artık her zaman üstte tutma seçeneğine sahip
+
+**Değişiklikler**
+
+- Yeni bağımsız sohbet pencereleri artık Sohbet'i destekliyor
+- Giriş kutusundaki aşırı uzun kullanıcı mesajları artık daraltılıyor
+
+**Düzeltmeler**
+
+- Windows'ta PDF dosya bağlantısı önizlemesi düzeltildi; Work Ayarları artık koyu modda beyaz yanıp sönmüyor; Word panosundan yapıştırma artık görsel eki yerine metni geri yüklüyor
+- Bazı hatalar düzeltildi ve bazı etkileşimler ile kararlılık iyileştirildi
 
 ## 3.1.7 (2026-08-05)
 

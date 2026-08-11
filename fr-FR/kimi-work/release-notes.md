@@ -1,7 +1,7 @@
 ---
 title: "Notes de version"
 slug: "release-notes"
-order: 6
+order: 8
 extract_headings: true
 preview: false
 ---
@@ -14,6 +14,28 @@ preview: false
 # Notes de version
 
 Cette page consigne les mises à jour de Kimi Work (nouvelles fonctionnalités, modifications et corrections) et est actualisée en continu. Télécharger la dernière version : [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
+
+## 3.1.8 (2026-08-11)
+
+**Nouveautés**
+
+- Navigation dans l’historique des messages : une nouvelle barre de navigation à droite des longues conversations permet de revenir rapidement aux messages précédents
+- Branchement de conversation : créez une nouvelle branche à partir de n’importe quel tour pour continuer à explorer, en conservant l’historique de la conversation d’origine
+- Modification et retour en arrière : modifiez votre dernier message et régénérez la réponse
+- Dossiers de projet : déplacez des conversations dans ou hors des projets, et épinglez des projets dans la zone épinglée de la barre latérale
+- Modification transparente des fichiers : après que l’Agent a modifié un fichier, une carte de résumé des différences est générée — examinez les changements ligne par ligne et revenez en arrière en un clic ; les fichiers du workspace s’actualisent automatiquement lorsqu’ils changent sur le disque
+- Découverte et création de skills : découvrez et créez des skills personnalisées dans Work, avec prise en charge de la recherche de skills
+- Les composants du Dashboard épinglés au bureau disposent désormais d’une option « toujours au premier plan »
+
+**Modifications**
+
+- Les nouvelles fenêtres de conversation autonomes prennent désormais en charge le Chat
+- Les messages utilisateur trop longs dans la zone de saisie sont désormais repliés
+
+**Corrections**
+
+- Correction de l’aperçu des liens de fichiers PDF sous Windows ; les paramètres Work ne clignotent plus en blanc en mode sombre ; le collage depuis le presse-papiers de Word restaure désormais le texte au lieu d’une pièce jointe image
+- Correction de plusieurs bugs et amélioration de certaines interactions et de la stabilité
 
 ## 3.1.7 (2026-08-05)
 

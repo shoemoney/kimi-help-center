@@ -1,9 +1,9 @@
 {
   "title": "Kimi Work",
-  "description": "Agent ภายในเครื่องสำหรับคนทำงานด้านความรู้ — ภาพรวม, Goal mode, ปลั๊กอิน และกรณีใช้งาน",
+  "description": "Agent ภายในเครื่องสำหรับคนทำงานด้านความรู้ — ภาพรวม, Goal mode, ปลั๊กอิน, Widgets, Dashboard และกรณีใช้งาน",
   "seo": {
     "title": "Kimi Work",
-    "description": "Agent ภายในเครื่องสำหรับคนทำงานด้านความรู้ — ภาพรวม, Goal mode, ปลั๊กอิน และกรณีใช้งาน"
+    "description": "Agent ภายในเครื่องสำหรับคนทำงานด้านความรู้ — ภาพรวม, Goal mode, ปลั๊กอิน, Widgets, Dashboard และกรณีใช้งาน"
   },
   "icon": "kimi-work",
   "order": 4,

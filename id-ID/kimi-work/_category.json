@@ -1,9 +1,9 @@
 {
   "title": "Kimi Work",
-  "description": "Agent lokal untuk pekerja pengetahuan — ringkasan, mode Goal, plugin, dan contoh penggunaan",
+  "description": "Agent lokal untuk pekerja pengetahuan — ringkasan, mode Goal, plugin, widgets, dashboard, dan contoh penggunaan",
   "seo": {
     "title": "Kimi Work",
-    "description": "Agent lokal untuk pekerja pengetahuan — ringkasan, mode Goal, plugin, dan contoh penggunaan"
+    "description": "Agent lokal untuk pekerja pengetahuan — ringkasan, mode Goal, plugin, widgets, dashboard, dan contoh penggunaan"
   },
   "icon": "kimi-work",
   "order": 4,

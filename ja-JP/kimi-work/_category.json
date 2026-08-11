@@ -1,9 +1,9 @@
 {
   "title": "Kimi Work",
-  "description": "ナレッジワーカーのためのローカル Agent — 概要、Goal mode、プラグイン、ユースケース",
+  "description": "ナレッジワーカーのためのローカル Agent — 概要、Goal mode、プラグイン、Widgets、Dashboard、ユースケース",
   "seo": {
     "title": "Kimi Work",
-    "description": "ナレッジワーカーのためのローカル Agent — 概要、Goal mode、プラグイン、ユースケース"
+    "description": "ナレッジワーカーのためのローカル Agent — 概要、Goal mode、プラグイン、Widgets、Dashboard、ユースケース"
   },
   "icon": "kimi-work",
   "order": 4,

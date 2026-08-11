@@ -1,7 +1,7 @@
 ---
 title: "Release Notes"
 slug: "release-notes"
-order: 6
+order: 8
 extract_headings: true
 preview: false
 ---
@@ -14,6 +14,28 @@ preview: false
 # Release Notes
 
 This page tracks Kimi Work version updates, including new features, changes, and fixes, and is updated regularly. Download the latest version: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
+
+## 3.1.8 (2026-08-11)
+
+**New**
+
+- Message history navigation: a new message navigation bar on the right side of long chats lets you quickly jump back to earlier messages
+- Conversation branching: start a new branch from any turn to keep exploring, carrying over the original conversation's chat history
+- Edit and rewind: edit your last message and regenerate the response
+- Project folders: move conversations in or out of projects, and pin projects to the pinned area of the sidebar
+- Transparent file editing: after the Agent modifies a file, a diff summary card is generated — review changes line by line and roll back with one click; workspace files auto-refresh as they change on disk
+- Skill discovery and creation: discover and create custom skills in Work, with skill search supported
+- Dashboard components pinned to the desktop now have an always-on-top toggle
+
+**Changed**
+
+- New standalone conversation windows now support Chat
+- Overly long user messages in the input box are now collapsed
+
+**Fixed**
+
+- Fixed PDF file link preview on Windows; Work Settings no longer flashes white in dark mode; pasting from the Word clipboard now restores text instead of an image attachment
+- Fixed several bugs and improved some interactions and stability
 
 ## 3.1.7 (2026-08-05)
 

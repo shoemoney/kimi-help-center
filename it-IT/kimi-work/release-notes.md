@@ -1,7 +1,7 @@
 ---
 title: "Note di rilascio"
 slug: "release-notes"
-order: 6
+order: 8
 extract_headings: true
 preview: false
 ---
@@ -14,6 +14,28 @@ preview: false
 # Note di rilascio
 
 Questa pagina raccoglie gli aggiornamenti di versione di Kimi Work, tra cui nuove funzionalità, modifiche e correzioni, ed è aggiornata regolarmente. Scarica l’ultima versione: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
+
+## 3.1.8 (2026-08-11)
+
+**Novità**
+
+- Navigazione nella cronologia dei messaggi: una nuova barra di navigazione dei messaggi sul lato destro delle chat lunghe ti consente di tornare rapidamente ai messaggi precedenti
+- Rami di conversazione: avvia un nuovo ramo da qualsiasi turno per continuare l’esplorazione, mantenendo la cronologia della chat della conversazione originale
+- Modifica e riavvolgi: modifica il tuo ultimo messaggio e rigenera la risposta
+- Cartelle di progetto: sposta le conversazioni dentro o fuori dai progetti e fissa i progetti nell’area dei contenuti fissati della barra laterale
+- Modifica dei file trasparente: dopo che l’Agent ha modificato un file, viene generata una scheda di riepilogo delle differenze — esamina le modifiche riga per riga e annullale con un clic; i file del workspace si aggiornano automaticamente quando cambiano su disco
+- Individuazione e creazione di Skills: scopri e crea Skills personalizzate in Work, con supporto per la ricerca delle Skills
+- I componenti della Dashboard fissati sul desktop ora dispongono di un’opzione per restare sempre in primo piano
+
+**Modifiche**
+
+- Le nuove finestre di conversazione indipendenti ora supportano la Chat
+- I messaggi utente troppo lunghi nella casella di input ora vengono compressi
+
+**Correzioni**
+
+- Corretta l’anteprima dei link ai file PDF su Windows; le Impostazioni di Work non lampeggiano più in bianco in modalità scura; incollando dagli appunti di Word ora viene ripristinato il testo invece di un allegato immagine
+- Sono stati corretti alcuni bug e migliorate alcune interazioni e la stabilità
 
 ## 3.1.7 (2026-08-05)
 

@@ -38,7 +38,7 @@ preview_content: "Kimi Code 的联系方式与反馈渠道。"
 ### 方式四：加入企业微信交流群
 扫码加入企业微信交流群
 
-<!-- 二维码有效期至 2027-07-23，到期前需更换 -->
+<!-- 二维码有效期至 2027-08-11，到期前需更换 -->
 <Frames
   src="./images/contact-and-feedback/contact-and-feedback-01.png"
   alt="Kimi Code 用户群二维码"

@@ -25,7 +25,7 @@ Bu sayfa, Kimi Work sürüm güncellemelerini (yeni özellikler, değişiklikler
 - Proje klasörleri: sohbetleri projelere taşıyın veya projelerden çıkarın, projeleri kenar çubuğunun sabitlenmiş alanına sabitleyin
 - Şeffaf dosya düzenleme: Agent bir dosyayı değiştirdikten sonra bir fark özeti kartı oluşturulur — değişiklikleri satır satır inceleyin ve tek tıklamayla geri alın; workspace dosyaları diskte değiştikçe otomatik olarak yenilenir
 - Beceri keşfi ve oluşturma: Work içinde özel beceriler keşfedin ve oluşturun; beceri arama desteklenir
-- Masaüstüne sabitlenen dashboard bileşenleri artık her zaman üstte tutma seçeneğine sahip
+- Masaüstüne sabitlenen pano bileşenleri artık her zaman üstte tutma seçeneğine sahip
 
 **Değişiklikler**
 

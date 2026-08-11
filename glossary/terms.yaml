@@ -1,9 +1,9 @@
 meta:
   version: 1.0.0
-  last_updated: '2026-07-08'
+  last_updated: '2026-08-11'
   description: Kimi Help Center 多语言专有名词对照表
   source_repo: git@dev.msh.team:search-engine/kimi-helpcenter-doc.git
-  total_terms: 169
+  total_terms: 173
   locales:
   - zh-CN
   - en-US
@@ -2045,3 +2045,114 @@ terms:
     th-TH: แพลตฟอร์มเปิดของ Kimi
     vi-VN: Nền tảng Mở Kimi
     ru-RU: Открытая платформа Kimi
+- id: P1-026
+  category: P1
+  zh_form: 小组件
+  en_form: Widget
+  alias:
+  - Widgets
+  translation_strategy: localize
+  case_sensitive: true
+  region_note: global
+  context_example: 小组件（Widget）是由模型生成、在会话中即时呈现的可交互页面
+  source_article: zh-CN/kimi-work/widgets.md
+  notes: 拉丁文字语言沿用英文借词（de/es/fr/it/pt/id/vi 直接用 widget/widgets）；首次出现加英文原名括注。产品 UI 为英文，字面按钮标签（如 Save to Dashboard）保留英文。
+  status: confirmed
+  localized_forms:
+    zh-CN: 小组件
+    zh-SG: 小组件
+    zh-TW: 小組件
+    de-DE: Widgets
+    es-419: widgets
+    fr-FR: widgets
+    id-ID: widget
+    it-IT: widget
+    ja-JP: ウィジェット
+    ko-KR: 위젯
+    pt-BR: widgets
+    tr-TR: widget'lar
+    ru-RU: виджеты
+    th-TH: วิดเจ็ต
+    vi-VN: widget
+- id: P1-027
+  category: P1
+  zh_form: 看板
+  en_form: Dashboard
+  alias: []
+  translation_strategy: localize
+  case_sensitive: true
+  region_note: global
+  context_example: 看板（Dashboard）是存放小组件的容器
+  source_article: zh-CN/kimi-work/dashboard.md
+  notes: 首次出现加英文原名括注。产品 UI 为英文，字面按钮标签与侧栏入口名保留英文时可加本土语言括注。
+  status: confirmed
+  localized_forms:
+    zh-CN: 看板
+    zh-SG: 看板
+    zh-TW: 看板
+    de-DE: Dashboard
+    es-419: tablero
+    fr-FR: tableau de bord
+    id-ID: dasbor
+    it-IT: bacheca
+    ja-JP: ダッシュボード
+    ko-KR: 대시보드
+    pt-BR: painel
+    tr-TR: pano
+    ru-RU: дашборд
+    th-TH: แดชบอร์ด
+    vi-VN: bảng
+- id: P1-028
+  category: P1
+  zh_form: 小组件任务
+  en_form: Widget Task
+  alias: []
+  translation_strategy: localize
+  case_sensitive: true
+  region_note: global
+  context_example: 小组件任务（Widget Task）是按特定条件自动执行的任务
+  source_article: zh-CN/kimi-work/widgets.md
+  status: confirmed
+  localized_forms:
+    zh-CN: 小组件任务
+    zh-SG: 小组件任务
+    zh-TW: 小組件任務
+    de-DE: Widget-Task
+    es-419: tarea de widget
+    fr-FR: tâche de widget
+    id-ID: tugas widget
+    it-IT: attività widget
+    ja-JP: ウィジェットタスク
+    ko-KR: 위젯 작업
+    pt-BR: tarefa de widget
+    tr-TR: widget görevi
+    ru-RU: задача виджета
+    th-TH: งานวิดเจ็ต
+    vi-VN: tác vụ widget
+- id: P1-029
+  category: P1
+  zh_form: 动态小组件
+  en_form: Live Widget
+  alias: []
+  translation_strategy: localize
+  case_sensitive: true
+  region_note: global
+  context_example: 动态小组件（Live Widget）是绑定了小组件任务的小组件，内容随任务每次执行自动更新
+  source_article: zh-CN/kimi-work/widgets.md
+  status: confirmed
+  localized_forms:
+    zh-CN: 动态小组件
+    zh-SG: 动态小组件
+    zh-TW: 動態小組件
+    de-DE: Live-Widget
+    es-419: widget dinámico
+    fr-FR: widget dynamique
+    id-ID: widget live
+    it-IT: widget live
+    ja-JP: ライブウィジェット
+    ko-KR: 라이브 위젯
+    pt-BR: widget dinâmico
+    tr-TR: canlı widget
+    ru-RU: живой виджет
+    th-TH: ไลฟ์วิดเจ็ต
+    vi-VN: widget động

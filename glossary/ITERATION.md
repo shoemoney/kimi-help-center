@@ -51,3 +51,23 @@
   - 俄语格变化（`токенов` 属格 / `токены` 宾格 / `токенах` 前置格 / `токен-лимит` 复合词）系机器逐句判定，**上线前建议俄语母语复核**。
   - 本次仅完成 `token` 一词；其余 LLM/AI 专业词（见上方 checklist 第 2 条）**待下一轮调研校对**。
   - 尚**未**对齐 Lokalise（checklist 第 1 条），下轮补齐。
+
+### 2026-08-11 · 新增 P1-026~029 `Widget` / `Dashboard` / `Widget Task` / `Live Widget`
+
+- **起因**：Kimi Work 新增小组件与看板两个功能（3.1.0 起），帮助中心 kimi-work 分类
+  新增 `widgets.md` / `dashboard.md` 两文。初版非中文语言保留英文功能名，后决定
+  全部本地化。
+- **结论**：四个术语 `translation_strategy: localize`，各语言标准形见 `localized_forms`。
+  - 拉丁文字语言沿用英文借词（de/es/fr/it/pt/id/vi 的 widget/widgets；
+    de 的 Dashboard），与 `token` 的既有分野一致。
+  - 各语言 Dashboard 译名优先沿用该语言 3.1.7 发布日志条目里的既有译法
+    （es `tablero` / it `bacheca` / pt `painel` / tr `pano` / vi `bảng` 等）。
+  - 首次出现加英文原名括注（如 `tablero (Dashboard)`、`ダッシュボード（Dashboard）`）。
+  - 产品 UI 为英文：字面按钮标签（`Save to Dashboard`、`Pin to Desktop` 等）保留英文。
+- **落地**：11 个 SEO 语言（de-DE 除外，其功能名即英文借词）的
+  `kimi-work/` 分类正文、标题、SeoMeta、`_category.json` 已切换为本土译名；
+  slug、文件名、内链不变。
+- **提示 / 待办**：
+  - 各语言发布日志的**历史条目**（3.1.7 及更早）未回改，部分语言旧译
+    （id `papan`、ko `보드`、ru `доска`、th `บอร์ด`）与新标准形不一致，如需统一另行处理。
+  - 尚**未**对齐 Lokalise（checklist 第 1 条）；若产品 UI 后续多语言化，按钮标签策略需重估。

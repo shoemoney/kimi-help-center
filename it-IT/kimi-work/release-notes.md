@@ -25,7 +25,7 @@ Questa pagina raccoglie gli aggiornamenti di versione di Kimi Work, tra cui nuov
 - Cartelle di progetto: sposta le conversazioni dentro o fuori dai progetti e fissa i progetti nell’area dei contenuti fissati della barra laterale
 - Modifica dei file trasparente: dopo che l’Agent ha modificato un file, viene generata una scheda di riepilogo delle differenze — esamina le modifiche riga per riga e annullale con un clic; i file del workspace si aggiornano automaticamente quando cambiano su disco
 - Individuazione e creazione di Skills: scopri e crea Skills personalizzate in Work, con supporto per la ricerca delle Skills
-- I componenti della Dashboard fissati sul desktop ora dispongono di un’opzione per restare sempre in primo piano
+- I componenti della bacheca fissati sul desktop ora dispongono di un’opzione per restare sempre in primo piano
 
 **Modifiche**
 

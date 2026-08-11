@@ -25,7 +25,7 @@ Cette page consigne les mises à jour de Kimi Work (nouvelles fonctionnalités, 
 - Dossiers de projet : déplacez des conversations dans ou hors des projets, et épinglez des projets dans la zone épinglée de la barre latérale
 - Modification transparente des fichiers : après que l’Agent a modifié un fichier, une carte de résumé des différences est générée — examinez les changements ligne par ligne et revenez en arrière en un clic ; les fichiers du workspace s’actualisent automatiquement lorsqu’ils changent sur le disque
 - Découverte et création de skills : découvrez et créez des skills personnalisées dans Work, avec prise en charge de la recherche de skills
-- Les composants du Dashboard épinglés au bureau disposent désormais d’une option « toujours au premier plan »
+- Les composants du tableau de bord épinglés au bureau disposent désormais d’une option « toujours au premier plan »
 
 **Modifications**
 

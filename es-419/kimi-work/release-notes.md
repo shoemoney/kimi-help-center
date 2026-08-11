@@ -25,7 +25,7 @@ Esta página registra las actualizaciones de versión de Kimi Work, incluidas nu
 - Carpetas de proyectos: mueve conversaciones dentro o fuera de los proyectos y fija proyectos en el área fijada de la barra lateral
 - Edición transparente de archivos: después de que el Agent modifica un archivo, se genera una tarjeta de resumen con el diff; revisa los cambios línea por línea y reviértelos con un clic; los archivos del workspace se actualizan automáticamente cuando cambian en el disco
 - Descubrimiento y creación de habilidades: descubre y crea habilidades personalizadas en Work, con compatibilidad para búsqueda de habilidades
-- Los componentes de Dashboard fijados en el escritorio ahora tienen un interruptor para permanecer siempre encima
+- Los componentes de tablero fijados en el escritorio ahora tienen un interruptor para permanecer siempre encima
 
 **Cambios**
 

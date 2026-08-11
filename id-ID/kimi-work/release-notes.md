@@ -25,7 +25,7 @@ Halaman ini mencatat pembaruan versi Kimi Work, termasuk fitur baru, perubahan, 
 - Folder proyek: pindahkan percakapan masuk atau keluar proyek, dan sematkan proyek ke area sematan sidebar
 - Pengeditan file transparan: setelah Agent memodifikasi file, kartu ringkasan diff dibuat — tinjau perubahan baris demi baris dan kembalikan dengan satu klik; file workspace diperbarui otomatis saat berubah di disk
 - Penemuan dan pembuatan skill: temukan dan buat skill kustom di Work, dengan dukungan pencarian skill
-- Komponen Dashboard yang disematkan ke desktop kini memiliki tombol selalu di atas (always-on-top)
+- Komponen dasbor yang disematkan ke desktop kini memiliki tombol selalu di atas (always-on-top)
 
 **Perubahan**
 

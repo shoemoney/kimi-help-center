@@ -25,7 +25,7 @@ Esta página registra as atualizações de versão do Kimi Work, incluindo novos
 - Pastas de projetos: mova conversas para dentro ou fora de projetos e fixe projetos na área de fixados da barra lateral
 - Edição transparente de arquivos: depois que o Agent modifica um arquivo, um cartão de resumo de diff é gerado — revise as alterações linha por linha e reverta com um clique; os arquivos do workspace são atualizados automaticamente conforme mudam no disco
 - Descoberta e criação de skills: descubra e crie skills personalizadas no Work, com suporte à busca de skills
-- Os componentes do Dashboard fixados na área de trabalho agora têm a opção de ficar sempre no topo
+- Os componentes do painel fixados na área de trabalho agora têm a opção de ficar sempre no topo
 
 **Alterações**
 

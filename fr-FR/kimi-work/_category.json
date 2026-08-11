@@ -1,9 +1,9 @@
 {
   "title": "Kimi Work",
-  "description": "Un Agent local pour les travailleurs du savoir — présentation, mode Objectif, plugins, widgets, dashboard et cas d’utilisation",
+  "description": "Un Agent local pour les travailleurs du savoir — présentation, mode Objectif, plugins, widgets, tableau de bord et cas d’utilisation",
   "seo": {
     "title": "Kimi Work",
-    "description": "Un Agent local pour les travailleurs du savoir — présentation, mode Objectif, plugins, widgets, dashboard et cas d’utilisation"
+    "description": "Un Agent local pour les travailleurs du savoir — présentation, mode Objectif, plugins, widgets, tableau de bord et cas d’utilisation"
   },
   "icon": "kimi-work",
   "order": 4,

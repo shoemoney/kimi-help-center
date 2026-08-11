@@ -9,7 +9,7 @@ preview_content: "Kimi Work è un Agent locale per uso generale pensato per i pr
 
 <SeoMeta
   title="Che cos’è Kimi Work? Un Agent locale per i professionisti della conoscenza - Centro assistenza Kimi"
-  description="Scopri Kimi Work (Beta): un Agent locale per uso generale pensato per i professionisti della conoscenza, basato su Kimi Code e sul modello Kimi K3, con Skills, attività pianificate, WebBridge, Agent Swarm, Widgets e Dashboard, disponibile nel client Mac / Windows."
+  description="Scopri Kimi Work (Beta): un Agent locale per uso generale pensato per i professionisti della conoscenza, basato su Kimi Code e sul modello Kimi K3, con Skills, attività pianificate, WebBridge, Agent Swarm, widget e bacheca, disponibile nel client Mac / Windows."
 />
 
 # Panoramica di Kimi Work
@@ -25,15 +25,15 @@ Kimi Code è pensato per gli sviluppatori che scrivono codice; Kimi Work si rivo
 - **Kernel Agent locale**: Basato su Kimi Code come kernel e sul modello Kimi K3, offre le basi dell’Agent locale, tra cui l’installazione e l’uso delle Skills e l’esecuzione di attività pianificate.
 - **Skills professionali**: Eredita le Skills professionali del Kimi Agent online, come la creazione di siti web e di PPT, e supporta anche la raccomandazione di Skills di terze parti e il caricamento di Skills locali.
 - **Plugin e database professionali**: Usa app e servizi esterni all’interno di Kimi, come Canva, Notion e WPS, e collegati a database professionali in ambiti come finanza, ricerca, diritto e altri settori.
-- **Widgets**: Pagine interattive generate dal modello in una chat, che possono collegarsi a dati locali o plugin esterni per aggiornamenti continui, rendendo le risposte più visive e facili da capire. Vedi [Widgets](/kimi-work/widgets).
-- **Dashboard**: Riunisce i widget che ti interessano di più in un’unica vista persistente e personalizzata, organizzata attorno a un argomento, un progetto o un obiettivo, pronta da consultare e gestire in qualsiasi momento. Vedi [Dashboard](/kimi-work/dashboard).
+- **Widget (Widgets)**: Pagine interattive generate dal modello in una chat, che possono collegarsi a dati locali o plugin esterni per aggiornamenti continui, rendendo le risposte più visive e facili da capire. Vedi [Widget](/kimi-work/widgets).
+- **Bacheca (Dashboard)**: Riunisce i widget che ti interessano di più in un’unica vista persistente e personalizzata, organizzata attorno a un argomento, un progetto o un obiettivo, pronta da consultare e gestire in qualsiasi momento. Vedi [Bacheca](/kimi-work/dashboard).
 - **Kimi WebBridge**: Una soluzione integrata per le operazioni nel browser, che usa il browser proprio come farebbe una persona.
 - **Agent Swarm**: In base alla complessità dell’attività, assembla autonomamente un team fino a 300 sub-agents per gestire attività più complesse e di più lunga durata.
 - **Esecuzione di attività a lungo orizzonte**: Basata sull’esecuzione di attività a lungo orizzonte del modello Kimi K3, supporta decine di ore di lavoro autonomo e migliaia di chiamate autonome agli strumenti.
 
 ## Interfaccia e interazione
 
-- Il client ha due modalità, "Work" e "Chat". La barra laterale della modalità Work include: Nuova attività, Dashboard, Plugin, Skills, Attività pianificate, WebBridge, Progetti e Chat.
+- Il client ha due modalità, "Work" e "Chat". La barra laterale della modalità Work include: Nuova attività, Bacheca, Plugin, Skills, Attività pianificate, WebBridge, Progetti e Chat.
 - Digita "/" nella casella di input per usare rapidamente le Skills e "@" per aggiungere contesto.
 - È disponibile il controllo delle autorizzazioni e puoi scegliere come concederle:
   - **Richiedi autorizzazione**: chiede l’autorizzazione prima di agire
@@ -42,7 +42,7 @@ Kimi Code è pensato per gli sviluppatori che scrivono codice; Kimi Work si rivo
 
 ## Note sulla versione
 
-Kimi Work è stato lanciato il 3 giugno 2026 ed è attualmente in Beta, con iterazioni frequenti. Nel tempo ha aggiunto funzionalità come l’anteprima dei file, il salvataggio automatico delle bozze, la modalità Obiettivo, il Centro plugin, i Widgets e la Dashboard. Dalla versione 3.1.0, Kimi Work è basato sul modello Kimi K3. L’attuale fase di test si concentra su scomposizione delle attività, parallelismo multi-agent, chiamata degli strumenti, operazioni nel browser, gestione dei file locali e generazione di deliverable estesi; stabilità di esecuzione, qualità delle consegne ed esperienza utente continueranno a migliorare grazie al feedback degli utenti beta.
+Kimi Work è stato lanciato il 3 giugno 2026 ed è attualmente in Beta, con iterazioni frequenti. Nel tempo ha aggiunto funzionalità come l’anteprima dei file, il salvataggio automatico delle bozze, la modalità Obiettivo, il Centro plugin, i widget e la bacheca. Dalla versione 3.1.0, Kimi Work è basato sul modello Kimi K3. L’attuale fase di test si concentra su scomposizione delle attività, parallelismo multi-agent, chiamata degli strumenti, operazioni nel browser, gestione dei file locali e generazione di deliverable estesi; stabilità di esecuzione, qualità delle consegne ed esperienza utente continueranno a migliorare grazie al feedback degli utenti beta.
 
 ## Requisiti di sistema e download
 

@@ -16,14 +16,6 @@ preview_content: "Connect external tools to Kimi so it can use apps and services
 
 Plugins connect external tools to Kimi so it can use apps and services to complete tasks. Once you install a plugin, Kimi can directly call the corresponding third-party capability while completing a task — for example, querying financial data, operating office software, or using design tools. You can explicitly ask to use a specific plugin, and Kimi will also call one automatically when appropriate.
 
-## Bring your product to Kimi
-
-If you want to connect your product or service to Kimi and apply for listing in the official Kimi plugin marketplace, see [List a plugin in the official Kimi marketplace](/kimi-work/plugin-submission-guide) to create, test, and submit your plugin.
-
-<Callout type="info">
-Before submitting an application, create the plugin in Kimi Work and complete basic testing.
-</Callout>
-
 ## Where you can use plugins
 
 You can use plugins when you switch the model to **K3** or **K3 Swarm**, and in the **Deep Research, Websites, and PPT** scenarios.
@@ -57,6 +49,10 @@ The plugin marketplace is organized into the categories below. The plugins you a
 - **Development**: GitHub, Supabase, Neon, Cloudflare
 - **Creative**: Inspiration Pool, Image Generation, Video Generation, Audio Generation, Canva
 - **General**: Vivify
+
+## Bring Your Product to Kimi
+
+If you want to connect your product or service to Kimi and apply for listing in the official Kimi plugin marketplace, see [List a Plugin in the Official Marketplace](/kimi-work/plugin-submission-guide) to create, test, and submit your plugin.
 
 ## Credits
 

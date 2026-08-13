@@ -1,5 +1,5 @@
 ---
-title: "List a Plugin in the Official Kimi Marketplace"
+title: "List a Plugin in the Official Marketplace"
 slug: "plugin-submission-guide"
 order: 4
 extract_headings: true
@@ -12,7 +12,7 @@ preview_content: "Turn your product or service into a Kimi plugin, test it, and 
   description="Learn how to create and test a plugin in Kimi Work and apply for listing in the official Kimi plugin marketplace."
 />
 
-# List a Plugin in the Official Kimi Marketplace
+# List a Plugin in the Official Marketplace
 
 If you want to connect your product or service to Kimi so users can access its capabilities in conversation, follow this guide to create, test, and submit a plugin for the official Kimi plugin marketplace.
 

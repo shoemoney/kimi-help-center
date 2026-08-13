@@ -1,5 +1,5 @@
 ---
-title: "将插件上架到 Kimi 官方插件市场"
+title: "上架插件到官方市场"
 slug: "plugin-submission-guide"
 order: 4
 extract_headings: true
@@ -12,7 +12,7 @@ preview_content: "将你的产品或服务制作成 Kimi 插件，完成基础�
   description="了解如何在 Kimi Work 中创建和测试插件，并提交 Kimi 官方插件市场上架申请。"
 />
 
-# 将插件上架到 Kimi 官方插件市场
+# 上架插件到官方市场
 
 如果你希望将自己的产品或服务接入 Kimi，让用户能够在与 Kimi 对话时直接使用相关能力，并以插件形式展示在 Kimi 官方插件市场，可以按照本文完成插件创建、基础测试和上架申请。
 

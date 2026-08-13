@@ -1,7 +1,7 @@
 ---
 title: "FAQ"
 slug: "kimi-work-faq"
-order: 7
+order: 8
 extract_headings: true
 preview: false
 ---

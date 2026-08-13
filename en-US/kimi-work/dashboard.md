@@ -1,7 +1,7 @@
 ---
 title: "Dashboard"
 slug: "dashboard"
-order: 5
+order: 6
 extract_headings: false
 preview: false
 ---

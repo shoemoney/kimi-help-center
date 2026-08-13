@@ -1,7 +1,7 @@
 ---
 title: "Widgets"
 slug: "widgets"
-order: 4
+order: 5
 extract_headings: false
 preview: false
 ---

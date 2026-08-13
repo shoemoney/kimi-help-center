@@ -361,7 +361,7 @@ TOS_ACCESS_KEY_ID="..."
 TOS_ACCESS_KEY_SECRET="..."
 TOS_REGION="cn-beijing"
 TOS_BUCKET="static-moonshot-cn"
-CDN_PUBLIC_BASE="https://statics.moonshot.cn"
+CDN_PUBLIC_BASE="https://statics.kimi.ai"
 CDN_PATH_PREFIX="kimi-helpcenter-doc/"
 ```
 

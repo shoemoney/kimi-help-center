@@ -86,7 +86,7 @@ TOS_ACCESS_KEY_ID="..."
 TOS_ACCESS_KEY_SECRET="..."
 TOS_REGION="cn-beijing"
 TOS_BUCKET="static-moonshot-cn"
-CDN_PUBLIC_BASE="https://statics.moonshot.cn"
+CDN_PUBLIC_BASE="https://statics.kimi.ai"
 CDN_PATH_PREFIX="kimi-helpcenter-doc/"
 DATABASE_URL="postgres://user:pass@localhost:5432/helpcenter?sslmode=disable"
 ```
@@ -104,7 +104,7 @@ Useful direct options:
 - `node scripts/setup-docs.js --dry-run --locale zh-CN .`
 - `node scripts/setup-docs.js --dsn "$DATABASE_URL" .`
 - `node scripts/setup-docs.js --asset-url-prefix "https://static.example.com/help-docs" .`
-- `node scripts/setup-docs.js --upload-assets --cdn-public-base "https://statics.moonshot.cn" .`
+- `node scripts/setup-docs.js --upload-assets --cdn-public-base "https://statics.kimi.ai" .`
 
 ## One-time Translation
 

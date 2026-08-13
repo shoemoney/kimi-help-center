@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "1.0.0",
-    "last_updated": "2026-08-11",
+    "last_updated": "2026-08-13",
     "description": "Kimi Help Center 多语言专有名词对照表",
     "source_repo": "git@dev.msh.team:search-engine/kimi-helpcenter-doc.git",
     "total_terms": 173,
@@ -2164,13 +2164,13 @@
     {
       "id": "D1-007",
       "category": "D1",
-      "zh_form": "statics.moonshot.cn",
-      "en_form": "statics.moonshot.cn",
+      "zh_form": "statics.kimi.ai",
+      "en_form": "statics.kimi.ai",
       "alias": [],
       "translation_strategy": "keep_original",
       "case_sensitive": true,
-      "region_note": "cn-only",
-      "context_example": "https://statics.moonshot.cn",
+      "region_note": "global-only",
+      "context_example": "https://statics.kimi.ai",
       "source_article": "README.md",
       "status": "confirmed"
     },

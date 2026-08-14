@@ -2,7 +2,7 @@
 title: "List a Plugin in the Official Marketplace"
 slug: "plugin-submission-guide"
 order: 4
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "Turn your product or service into a Kimi plugin, test it, and apply for listing in the official marketplace."
 ---
@@ -40,9 +40,39 @@ If the plugin logo includes a third-party product, brand, or trademark, contact 
 
 1. Open Kimi Work, type "/" in a conversation, and select **Plugin Builder**.
 2. Describe the plugin and provide the information you prepared. If you already have a Codex, Claude, or another platform's plugin, provide its files or project URL and follow the instructions to convert it.
+
+<Frames
+  src="./images/plugin-submission-guide/plugin-builder-chat.png"
+  alt="Create a plugin with Plugin Builder in Kimi Work"
+  width={1336}
+  height={258}
+/>
+
+<Frames
+  src="./images/plugin-submission-guide/plugin-created.png"
+  alt="Plugin Builder completes plugin creation"
+  width={1276}
+  height={380}
+/>
+
 3. Go to **Plugins** → **Personal**, find the plugin, and install it.
+
+<Frames
+  src="./images/plugin-submission-guide/personal-plugins.png"
+  alt="Find and install the new plugin under Personal plugins"
+  width={1436}
+  height={672}
+/>
+
 4. Test the core capabilities in a new conversation, including normal and edge cases. Keep at least three representative test prompts.
 5. Follow Plugin Builder's instructions to obtain the complete plugin ZIP file.
+
+<Frames
+  src="./images/plugin-submission-guide/export-zip.png"
+  alt="Export the complete plugin ZIP file with Plugin Builder"
+  width={1338}
+  height={1044}
+/>
 
 For an MCP-backed plugin, also test its authentication flow:
 
@@ -89,6 +119,20 @@ Yes. In Step 1, provide the existing plugin files or project URL to Plugin Build
 ### What is the difference between OAuth and CLI authentication?
 
 OAuth opens the third-party authorization page during the first installation, as with Canva. CLI authentication begins the first time a user invokes the plugin in a conversation, as with Feishu. After successful authorization, users generally do not need to authorize again in other conversations.
+
+<Frames
+  src="./images/plugin-submission-guide/oauth-install.jpg"
+  alt="Start the OAuth flow while installing a plugin"
+  width={1166}
+  height={1502}
+/>
+
+<Frames
+  src="./images/plugin-submission-guide/oauth-consent.png"
+  alt="Confirm OAuth authorization on the third-party service"
+  width={2358}
+  height={1830}
+/>
 
 ### What if I want to explore a broader partnership with Kimi?
 

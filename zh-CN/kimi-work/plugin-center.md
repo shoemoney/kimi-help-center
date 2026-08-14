@@ -40,4 +40,4 @@ Kimi Work 内置金融、法律、学术等领域的专业数据库插件，为�
 
 ## 将您的产品接入 Kimi
 
-如果你希望将自己的产品或服务接入 Kimi，并申请上架到 Kimi 官方插件市场，请参考[《上架插件到官方市场》](/kimi-work/plugin-submission-guide)，完成插件创建、基础测试和上架申请。
+如果你希望将自己的产品或服务接入 Kimi，并申请上架到 Kimi 官方插件市场，请参考[上架插件到官方市场](/kimi-work/plugin-submission-guide)，完成插件创建、基础测试和上架申请。

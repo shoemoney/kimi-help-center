@@ -2,7 +2,7 @@
 title: "上架插件到官方市场"
 slug: "plugin-submission-guide"
 order: 4
-extract_headings: true
+extract_headings: false
 preview: true
 preview_content: "将你的产品或服务制作成 Kimi 插件，完成基础测试并提交官方市场上架申请。"
 ---
@@ -40,9 +40,39 @@ Kimi 插件是连接产品与 Kimi 的能力载体。通过插件，Kimi 可以�
 
 1. 打开 Kimi Work，在会话中输入「/」并选择 **Plugin Builder**。
 2. 描述希望创建的插件，并提供已经准备好的信息。已有 Codex、Claude 或其他平台插件时，也可以将插件文件或项目链接提供给 Plugin Builder，按照引导转换为 Kimi 插件。
+
+<Frames
+  src="./images/plugin-submission-guide/plugin-builder-chat.png"
+  alt="在 Kimi Work 中使用 Plugin Builder 创建插件"
+  width={1336}
+  height={258}
+/>
+
+<Frames
+  src="./images/plugin-submission-guide/plugin-created.png"
+  alt="Plugin Builder 完成插件创建"
+  width={1276}
+  height={380}
+/>
+
 3. 创建完成后，进入「插件」→「个人」，找到并安装插件。
+
+<Frames
+  src="./images/plugin-submission-guide/personal-plugins.png"
+  alt="在个人插件中找到并安装创建好的插件"
+  width={1436}
+  height={672}
+/>
+
 4. 在新会话中测试插件的核心能力，同时覆盖正常功能和异常或边界情况。请保留至少 3 条具有代表性的测试请求。
 5. 按照 Plugin Builder 的引导获取完整的插件 ZIP 文件。
+
+<Frames
+  src="./images/plugin-submission-guide/export-zip.png"
+  alt="通过 Plugin Builder 导出完整的插件 ZIP 文件"
+  width={1338}
+  height={1044}
+/>
 
 如果插件包含 MCP，请同时测试对应的授权流程：
 
@@ -89,6 +119,20 @@ Kimi 团队会审核申请材料和插件 ZIP。如果插件审核通过，或�
 ### OAuth 授权和 CLI 授权有什么区别？
 
 OAuth 授权会在用户首次安装插件时进入第三方产品的授权页面，例如 Canva。CLI 授权在安装时不会触发，用户首次在会话中唤起插件时，需要按照会话内提示完成授权，例如飞书；成功授权后，后续跨会话使用通常无需重复授权。
+
+<Frames
+  src="./images/plugin-submission-guide/oauth-install.jpg"
+  alt="安装插件时进入 OAuth 授权流程"
+  width={1166}
+  height={1502}
+/>
+
+<Frames
+  src="./images/plugin-submission-guide/oauth-consent.png"
+  alt="在第三方产品页面确认 OAuth 授权"
+  width={2358}
+  height={1830}
+/>
 
 ### 如果希望与 Kimi 探索进一步的合作，可以如何申请？
 

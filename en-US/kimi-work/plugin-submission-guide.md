@@ -54,7 +54,7 @@ For an MCP-backed plugin, also test its authentication flow:
 
 ## Step 2: Submit your application
 
-After creating and testing the plugin, complete the [Kimi plugin submission form](https://moonshot.feishu.cn/share/base/form/shrcnDS1PumNxPTZ1SNXtMn1YDD) and upload the plugin ZIP file.
+After creating and testing the plugin, complete the [Kimi plugin submission form](https://moonshot.feishu.cn/share/base/form/shrcnZcnxlNJlbw845KoVgjEhkh) and upload the plugin ZIP file.
 
 The form asks for:
 

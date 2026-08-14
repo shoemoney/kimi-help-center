@@ -48,20 +48,13 @@ Kimi 插件是连接产品与 Kimi 的能力载体。通过插件，Kimi 可以�
   height={258}
 />
 
-<Frames
-  src="./images/plugin-submission-guide/plugin-created.png"
-  alt="Plugin Builder 完成插件创建"
-  width={1276}
-  height={380}
-/>
-
 3. 创建完成后，进入「插件」→「个人」，找到并安装插件。
 
 <Frames
-  src="./images/plugin-submission-guide/personal-plugins.png"
+  src="./images/plugin-submission-guide/personal-plugin-install.jpg"
   alt="在个人插件中找到并安装创建好的插件"
-  width={1436}
-  height={672}
+  width={1396}
+  height={478}
 />
 
 4. 在新会话中测试插件的核心能力，同时覆盖正常功能和异常或边界情况。请保留至少 3 条具有代表性的测试请求。
@@ -121,17 +114,10 @@ Kimi 团队会审核申请材料和插件 ZIP。如果插件审核通过，或�
 OAuth 授权会在用户首次安装插件时进入第三方产品的授权页面，例如 Canva。CLI 授权在安装时不会触发，用户首次在会话中唤起插件时，需要按照会话内提示完成授权，例如飞书；成功授权后，后续跨会话使用通常无需重复授权。
 
 <Frames
-  src="./images/plugin-submission-guide/oauth-install.jpg"
-  alt="安装插件时进入 OAuth 授权流程"
-  width={1166}
-  height={1502}
-/>
-
-<Frames
-  src="./images/plugin-submission-guide/oauth-consent.png"
-  alt="在第三方产品页面确认 OAuth 授权"
-  width={2358}
-  height={1830}
+  src="./images/plugin-submission-guide/oauth-browser-authorization.jpg"
+  alt="安装插件后在浏览器中完成 OAuth 授权"
+  width={1630}
+  height={1568}
 />
 
 ### 如果希望与 Kimi 探索进一步的合作，可以如何申请？

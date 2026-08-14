@@ -1,5 +1,5 @@
 ---
-title: "List a Plugin in the Official Marketplace"
+title: "Create and Submit Plugins"
 slug: "plugin-submission-guide"
 order: 4
 extract_headings: false
@@ -8,11 +8,11 @@ preview_content: "Turn your product or service into a Kimi plugin, test it, and 
 ---
 
 <SeoMeta
-  title="Kimi Plugin Submission Guide - Kimi Help Center"
+  title="Create and Submit Plugins - Kimi Help Center"
   description="Learn how to create and test a plugin in Kimi Work and apply for listing in the official Kimi plugin marketplace."
 />
 
-# List a Plugin in the Official Marketplace
+# Create and Submit Plugins
 
 If you want to connect your product or service to Kimi so users can access its capabilities in conversation, follow this guide to create, test, and submit a plugin for the official Kimi plugin marketplace.
 
@@ -41,31 +41,10 @@ If the plugin logo includes a third-party product, brand, or trademark, contact 
 1. Open Kimi Work, type "/" in a conversation, and select **Plugin Builder**.
 2. Describe the plugin and provide the information you prepared. If you already have a Codex, Claude, or another platform's plugin, provide its files or project URL and follow the instructions to convert it.
 
-<Frames
-  src="./images/plugin-submission-guide/plugin-builder-chat.png"
-  alt="Create a plugin with Plugin Builder in Kimi Work"
-  width={1336}
-  height={258}
-/>
-
 3. Go to **Plugins** → **Personal**, find the plugin, and install it.
-
-<Frames
-  src="./images/plugin-submission-guide/personal-plugin-install.jpg"
-  alt="Find and install the new plugin under Personal plugins"
-  width={1396}
-  height={478}
-/>
 
 4. Test the core capabilities in a new conversation, including normal and edge cases. Keep at least three representative test prompts.
 5. Follow Plugin Builder's instructions to obtain the complete plugin ZIP file.
-
-<Frames
-  src="./images/plugin-submission-guide/export-zip.png"
-  alt="Export the complete plugin ZIP file with Plugin Builder"
-  width={1338}
-  height={1044}
-/>
 
 For an MCP-backed plugin, also test its authentication flow:
 
@@ -122,13 +101,6 @@ Test the flow that matches your plugin's actual authentication method. If an OAu
 ### What does the OAuth authorization flow look like?
 
 For an OAuth-enabled MCP Server, Plugin Builder identifies the relevant authorization information from the MCP Server URL. After the plugin is created, users are taken to the third-party product's authorization page the first time they install it.
-
-<Frames
-  src="./images/plugin-submission-guide/oauth-browser-authorization.jpg"
-  alt="Complete OAuth authorization in the browser after installing the plugin"
-  width={1630}
-  height={1568}
-/>
 
 ### What if I want to explore a broader partnership with Kimi?
 

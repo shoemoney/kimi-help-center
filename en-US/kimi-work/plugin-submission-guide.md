@@ -109,9 +109,19 @@ Yes. Skills-only plugins are supported. Select **Skills only** as the plugin typ
 
 Yes. In Step 1, provide the existing plugin files or project URL to Plugin Builder and follow the instructions to convert it. Install and test the converted plugin in Kimi Work before submitting the generated ZIP file.
 
-### What is the difference between OAuth and CLI authentication?
+### Which MCP authentication methods are supported?
 
-OAuth opens the third-party authorization page during the first installation, as with Canva. CLI authentication begins the first time a user invokes the plugin in a conversation, as with Feishu. After successful authorization, users generally do not need to authorize again in other conversations.
+The following three methods are currently supported:
+
+- **No authentication**: Users can use the plugin immediately after installation without signing in or completing any other identity verification.
+- **OAuth**: Users are automatically redirected to the third-party product's authorization page when they install the plugin for the first time. They can use the plugin after authorization.
+- **CLI authentication**: Installation does not start an authorization flow. The first time users invoke the plugin in a conversation, they complete authorization using the instructions shown in the conversation. After successful authorization, they generally do not need to authorize again in other conversations.
+
+Test the flow that matches your plugin's actual authentication method. If an OAuth plugin does not redirect during first installation, or a CLI-authenticated plugin repeatedly asks users to authorize, check the MCP Server's authentication configuration before submitting your application and describe the issue in **Additional notes**.
+
+### What does the OAuth authorization flow look like?
+
+For an OAuth-enabled MCP Server, Plugin Builder identifies the relevant authorization information from the MCP Server URL. After the plugin is created, users are taken to the third-party product's authorization page the first time they install it.
 
 <Frames
   src="./images/plugin-submission-guide/oauth-browser-authorization.jpg"

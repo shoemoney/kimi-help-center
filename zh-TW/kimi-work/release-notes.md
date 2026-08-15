@@ -15,6 +15,12 @@ preview: false
 
 本文記錄 Kimi Work 的版本更新內容，包括新增功能、變更與修復，並持續更新。最新版本下載：[kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.1.10（2026-08-16）
+
+**修復**
+
+- 修復了 Windows 端部分用戶的升級閃退問題
+
 ## 3.1.9（2026-08-15）
 
 **新增**

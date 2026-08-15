@@ -15,6 +15,12 @@ preview: false
 
 이 페이지는 Kimi Work의 버전 업데이트 내용(새로운 기능, 변경 사항, 수정)을 기록하며 지속적으로 업데이트됩니다. 최신 버전 다운로드: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.1.10 (2026-08-16)
+
+**수정 사항**
+
+- 일부 Windows 사용자에게서 업그레이드 중 앱이 충돌하던 문제를 수정했습니다
+
 ## 3.1.9 (2026-08-15)
 
 **새로운 기능**

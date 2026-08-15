@@ -15,6 +15,12 @@ preview: false
 
 Halaman ini mencatat pembaruan versi Kimi Work, termasuk fitur baru, perubahan, dan perbaikan, dan terus diperbarui. Unduh versi terbaru: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.1.10 (2026-08-16)
+
+**Perbaikan**
+
+- Memperbaiki masalah di mana aplikasi mengalami crash saat upgrade pada sebagian pengguna Windows
+
 ## 3.1.9 (2026-08-15)
 
 **Baru**

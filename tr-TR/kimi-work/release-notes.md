@@ -15,6 +15,12 @@ preview: false
 
 Bu sayfa, Kimi Work sürüm güncellemelerini (yeni özellikler, değişiklikler ve düzeltmeler) kaydeder ve sürekli güncellenir. En son sürümü indirin: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.1.10 (2026-08-16)
+
+**Düzeltmeler**
+
+- Bazı Windows kullanıcıları için uygulamanın yükseltme sırasında çökmesi sorunu düzeltildi
+
 ## 3.1.9 (2026-08-15)
 
 **Yeni**

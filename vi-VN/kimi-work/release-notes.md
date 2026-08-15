@@ -15,6 +15,12 @@ preview: false
 
 Trang này ghi lại nội dung cập nhật theo phiên bản của Kimi Work, bao gồm tính năng mới, thay đổi và bản sửa lỗi, và được cập nhật liên tục. Tải xuống phiên bản mới nhất: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.1.10 (2026-08-16)
+
+**Sửa lỗi**
+
+- Đã sửa lỗi ứng dụng bị thoát đột ngột trong quá trình nâng cấp đối với một số người dùng Windows
+
 ## 3.1.9 (2026-08-15)
 
 **Mới**

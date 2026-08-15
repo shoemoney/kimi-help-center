@@ -15,6 +15,17 @@ preview: false
 
 Halaman ini mencatat pembaruan versi Kimi Work, termasuk fitur baru, perubahan, dan perbaikan, dan terus diperbarui. Unduh versi terbaru: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.1.9 (2026-08-15)
+
+**Baru**
+
+- Pasar plugin pribadi telah hadir: pasar plugin kini memiliki bagian "Plugin Pribadi" tempat Anda dapat menjelajahi dan memasang plugin dari pengembang individu
+
+**Perbaikan**
+
+- Memperbaiki masalah di mana konten Markdown streaming terkadang gagal dimuat ulang
+- Memperbaiki beberapa bug dan meningkatkan beberapa interaksi dan stabilitas
+
 ## 3.1.8 (2026-08-11)
 
 **Baru**

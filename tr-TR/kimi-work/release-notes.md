@@ -15,6 +15,17 @@ preview: false
 
 Bu sayfa, Kimi Work sürüm güncellemelerini (yeni özellikler, değişiklikler ve düzeltmeler) kaydeder ve sürekli güncellenir. En son sürümü indirin: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.1.9 (2026-08-15)
+
+**Yeni**
+
+- Kişisel eklenti pazarı yayında: eklenti pazarına, bireysel geliştiricilerin eklentilerini göz atıp yükleyebileceğiniz bir "Kişisel Eklentiler" bölümü eklendi
+
+**Düzeltmeler**
+
+- Akışlı Markdown içeriğinin zaman zaman yenilenmemesi sorunu düzeltildi
+- Bazı hatalar düzeltildi ve bazı etkileşimler ile kararlılık iyileştirildi
+
 ## 3.1.8 (2026-08-11)
 
 **Yeni**

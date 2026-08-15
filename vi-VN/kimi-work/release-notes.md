@@ -15,6 +15,17 @@ preview: false
 
 Trang này ghi lại nội dung cập nhật theo phiên bản của Kimi Work, bao gồm tính năng mới, thay đổi và bản sửa lỗi, và được cập nhật liên tục. Tải xuống phiên bản mới nhất: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.1.9 (2026-08-15)
+
+**Mới**
+
+- Chợ plugin cá nhân ra mắt: chợ plugin giờ đã có mục "Plugin cá nhân", nơi bạn có thể duyệt và cài đặt các plugin từ nhà phát triển cá nhân
+
+**Sửa lỗi**
+
+- Đã sửa lỗi nội dung Markdown truyền trực tuyến thỉnh thoảng không được làm mới
+- Đã sửa một số lỗi và cải thiện một số tương tác cùng độ ổn định
+
 ## 3.1.8 (2026-08-11)
 
 **Mới**

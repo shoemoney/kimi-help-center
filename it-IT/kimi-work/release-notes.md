@@ -15,6 +15,17 @@ preview: false
 
 Questa pagina raccoglie gli aggiornamenti di versione di Kimi Work, tra cui nuove funzionalità, modifiche e correzioni, ed è aggiornata regolarmente. Scarica l’ultima versione: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.1.9 (2026-08-15)
+
+**Novità**
+
+- Il marketplace dei plugin personali è disponibile: il marketplace dei plugin ora include una sezione «Plugin personali» in cui puoi sfogliare e installare i plugin di sviluppatori indipendenti
+
+**Correzioni**
+
+- Corretto un problema per cui i contenuti Markdown in streaming a volte non venivano aggiornati
+- Sono stati corretti alcuni bug e migliorate alcune interazioni e la stabilità
+
 ## 3.1.8 (2026-08-11)
 
 **Novità**

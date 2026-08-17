@@ -26,7 +26,7 @@ A Kimi plugin connects your product to Kimi. It helps Kimi understand when your 
 
 ## Before you begin
 
-First, <a href="https://www.kimi.com/products/kimi-work">download and install Kimi Work</a>. Prepare the following:
+First, <a class="leading-7 text-(--Colors-KMBlue) decoration-(--hc-pill-border) decoration-2 transition-colors hover:text-(--Colors-KMBlue-hover)" href="https://www.kimi.com/products/kimi-work">download and install Kimi Work</a>. Prepare the following:
 
 - A plugin name, description, and logo
 - The core tasks users should be able to complete in natural language

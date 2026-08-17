@@ -26,7 +26,7 @@ preview_content: "Превратите свой продукт или серви
 
 ## Перед началом работы
 
-Сначала <a href="https://www.kimi.com/products/kimi-work">скачайте и установите Kimi Work</a>. Подготовьте следующее:
+Сначала <a class="leading-7 text-(--Colors-KMBlue) decoration-(--hc-pill-border) decoration-2 transition-colors hover:text-(--Colors-KMBlue-hover)" href="https://www.kimi.com/products/kimi-work">скачайте и установите Kimi Work</a>. Подготовьте следующее:
 
 - Название, описание и логотип плагина
 - Основные задачи, которые пользователи смогут выполнять с помощью естественного языка

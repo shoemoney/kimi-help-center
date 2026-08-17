@@ -26,7 +26,7 @@ Kimi 外掛程式將您的產品與 Kimi 連接。它能協助 Kimi 判斷何時
 
 ## 開始前的準備
 
-首先，<a href="https://www.kimi.com/products/kimi-work">下載並安裝 Kimi Work</a>。請準備以下項目：
+首先，<a class="leading-7 text-(--Colors-KMBlue) decoration-(--hc-pill-border) decoration-2 transition-colors hover:text-(--Colors-KMBlue-hover)" href="https://www.kimi.com/products/kimi-work">下載並安裝 Kimi Work</a>。請準備以下項目：
 
 - 外掛程式名稱、描述與標誌
 - 使用者應能以自然語言完成的核心任務

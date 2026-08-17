@@ -26,7 +26,7 @@ Kimi 插件将您的产品与 Kimi 连接起来。它帮助 Kimi 了解何时您
 
 ## 准备工作
 
-首先，<a href="https://www.kimi.com/products/kimi-work">下载并安装 Kimi Work</a>。准备好以下内容：
+首先，<a class="leading-7 text-(--Colors-KMBlue) decoration-(--hc-pill-border) decoration-2 transition-colors hover:text-(--Colors-KMBlue-hover)" href="https://www.kimi.com/products/kimi-work">下载并安装 Kimi Work</a>。准备好以下内容：
 
 - 插件名称、描述和图标
 - 用户应能通过自然语言完成的核心任务

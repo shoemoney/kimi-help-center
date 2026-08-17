@@ -26,7 +26,7 @@ preview_content: "เปลี่ยนผลิตภัณฑ์หรือ�
 
 ## ก่อนเริ่มต้น
 
-ก่อนอื่น <a href="https://www.kimi.com/products/kimi-work">ดาวน์โหลดและติดตั้ง Kimi Work</a> เตรียมสิ่งต่อไปนี้:
+ก่อนอื่น <a class="leading-7 text-(--Colors-KMBlue) decoration-(--hc-pill-border) decoration-2 transition-colors hover:text-(--Colors-KMBlue-hover)" href="https://www.kimi.com/products/kimi-work">ดาวน์โหลดและติดตั้ง Kimi Work</a> เตรียมสิ่งต่อไปนี้:
 
 - ชื่อ คำอธิบาย และโลโก้ของปลั๊กอิน
 - งานหลักที่ผู้ใช้ควรสามารถทำเสร็จด้วยภาษาธรรมชาติ

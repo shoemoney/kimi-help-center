@@ -26,7 +26,7 @@ Plugin Kimi menghubungkan produk Anda ke Kimi. Ini membantu Kimi memahami kapan 
 
 ## Sebelum memulai
 
-Pertama, <a href="https://www.kimi.com/products/kimi-work">unduh dan pasang Kimi Work</a>. Siapkan hal berikut:
+Pertama, <a class="leading-7 text-(--Colors-KMBlue) decoration-(--hc-pill-border) decoration-2 transition-colors hover:text-(--Colors-KMBlue-hover)" href="https://www.kimi.com/products/kimi-work">unduh dan pasang Kimi Work</a>. Siapkan hal berikut:
 
 - Nama plugin, deskripsi, dan logo
 - Tugas inti yang harus dapat diselesaikan pengguna dalam bahasa alami

@@ -81,6 +81,6 @@ Kimi Business 适合有团队协作需求的中小型企业，尤其适用于需
 
 ## 在哪里可以查看 Kimi Business 的协议、合规与安全信息？
 
-如需了解 Kimi Business 授权、协议、合规、安全、付费订阅、席位、费用、数据保护、风险提示及责任限制等问题，请参阅官方 [Kimi Business 服务协议](https://www.kimi.com/user/agreement/business-service-agreement-overseas)。
+如需了解 Kimi Business 授权、协议、合规、安全、付费订阅、席位、费用、数据保护、风险提示及责任限制等问题，请参阅官方 Kimi Business 服务协议。
 
 如需企业合同、授权文件、合规材料或其他安全相关文件，请联系销售或客服。

@@ -81,6 +81,6 @@ As assinaturas pessoal e corporativa são independentes. Se você já assinou um
 
 ## Onde encontro informações sobre acordos, conformidade e segurança do Kimi Business?
 
-Para dúvidas sobre autorização, acordos, conformidade, segurança, assinaturas pagas, assentos, tarifas, proteção de dados, divulgações de risco e limitações de responsabilidade do Kimi Business, consulte o [Acordo de Serviço do Kimi Business](https://www.kimi.com/user/agreement/business-service-agreement-overseas) oficial.
+Para dúvidas sobre autorização, acordos, conformidade, segurança, assinaturas pagas, assentos, tarifas, proteção de dados, divulgações de risco e limitações de responsabilidade do Kimi Business, consulte o Acordo de Serviço do Kimi Business oficial.
 
 Para contratos corporativos, documentos de autorização, materiais de conformidade ou outros documentos relacionados à segurança, entre em contato com a equipe de vendas ou com o atendimento ao cliente.

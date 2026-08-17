@@ -81,6 +81,6 @@ Keanggotaan pribadi dan enterprise bersifat independen. Jika Anda sudah berlangg
 
 ## Di mana saya bisa menemukan informasi perjanjian, kepatuhan, dan keamanan Kimi Business?
 
-Untuk pertanyaan tentang otorisasi, perjanjian, kepatuhan, keamanan, langganan berbayar, kursi, biaya, perlindungan data, pengungkapan risiko, dan batasan tanggung jawab Kimi Business, silakan lihat [Kimi Business Service Agreement](https://www.kimi.com/user/agreement/business-service-agreement-overseas) resmi.
+Untuk pertanyaan tentang otorisasi, perjanjian, kepatuhan, keamanan, langganan berbayar, kursi, biaya, perlindungan data, pengungkapan risiko, dan batasan tanggung jawab Kimi Business, silakan lihat Kimi Business Service Agreement resmi.
 
 Untuk kontrak enterprise, dokumen otorisasi, materi kepatuhan, atau dokumen terkait keamanan lainnya, silakan hubungi tim penjualan atau layanan pelanggan.

@@ -62,7 +62,7 @@ When your request frequency exceeds the limit, the API returns a 429 status code
 2. **Control concurrency**: Use request queues or semaphores to limit the number of simultaneous requests.
 3. **Batch requests**: Combine multiple small requests into fewer, larger ones.
 
-For more details on 429 troubleshooting, see [API Troubleshooting](https://platform.kimi.ai/docs/troubleshooting/api-troubleshooting).
+For more details on 429 troubleshooting, see [API Troubleshooting](https://platform.kimi.ai/docs/api/errors).
 
 ## Request higher rate limits
 

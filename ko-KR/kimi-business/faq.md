@@ -81,6 +81,6 @@ Kimi Business는 팀 협업이 필요한 중소기업에 적합합니다. 특히
 
 ## Kimi Business 계약, 규정 준수, 보안 정보는 어디에서 확인할 수 있나요?
 
-Kimi Business 권한 부여, 계약, 규정 준수, 보안, 유료 구독, 시트, 수수료, 데이터 보호, 위험 고지, 책임 제한에 관한 사항은 공식 [Kimi Business 서비스 계약](https://www.kimi.com/user/agreement/business-service-agreement-overseas)을 참조해 주세요.
+Kimi Business 권한 부여, 계약, 규정 준수, 보안, 유료 구독, 시트, 수수료, 데이터 보호, 위험 고지, 책임 제한에 관한 사항은 공식 Kimi Business 서비스 계약을 참조해 주세요.
 
 기업 계약서, 권한 부여 문서, 규정 준수 자료 또는 기타 보안 관련 문서가 필요한 경우 영업팀 또는 고객 서비스에 문의해 주세요.

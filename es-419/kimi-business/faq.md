@@ -81,6 +81,6 @@ Las membresías personales y empresariales son independientes. Si ya te suscribi
 
 ## ¿Dónde puedo encontrar los acuerdos, la información de cumplimiento y de seguridad de Kimi Business?
 
-Si tienes preguntas sobre la autorización, los acuerdos, el cumplimiento, la seguridad, las suscripciones de pago, los asientos, las tarifas, la protección de datos, la divulgación de riesgos y las limitaciones de responsabilidad de Kimi Business, consulta el [Acuerdo de servicio de Kimi Business](https://www.kimi.com/user/agreement/business-service-agreement-overseas) oficial.
+Si tienes preguntas sobre la autorización, los acuerdos, el cumplimiento, la seguridad, las suscripciones de pago, los asientos, las tarifas, la protección de datos, la divulgación de riesgos y las limitaciones de responsabilidad de Kimi Business, consulta el Acuerdo de servicio de Kimi Business oficial.
 
 Para contratos empresariales, documentos de autorización, materiales de cumplimiento u otros documentos relacionados con la seguridad, comunícate con ventas o atención al cliente.

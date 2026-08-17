@@ -81,6 +81,6 @@ Bireysel ve kurumsal üyelikler birbirinden bağımsızdır. Halihazırda bir bi
 
 ## Kimi Business sözleşmeleri, uyumluluk ve güvenlik bilgilerini nerede bulabilirim?
 
-Kimi Business yetkilendirmesi, sözleşmeleri, uyumluluk, güvenlik, ücretli abonelikler, koltuklar, ücretler, veri koruması, risk açıklamaları ve sorumluluk sınırlamalarıyla ilgili sorularınız için lütfen resmi [Kimi Business Hizmet Sözleşmesi](https://www.kimi.com/user/agreement/business-service-agreement-overseas) belgesine başvurun.
+Kimi Business yetkilendirmesi, sözleşmeleri, uyumluluk, güvenlik, ücretli abonelikler, koltuklar, ücretler, veri koruması, risk açıklamaları ve sorumluluk sınırlamalarıyla ilgili sorularınız için lütfen resmi Kimi Business Hizmet Sözleşmesi belgesine başvurun.
 
 Kurumsal sözleşmeler, yetkilendirme belgeleri, uyumluluk materyalleri veya güvenlikle ilgili diğer belgeler için lütfen satış ekibi veya müşteri hizmetleriyle iletişime geçin.

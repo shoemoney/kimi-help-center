@@ -81,6 +81,6 @@ Persönliche und Unternehmensmitgliedschaften sind voneinander unabhängig. Wenn
 
 ## Wo finde ich Informationen zu Vereinbarungen, Compliance und Sicherheit von Kimi Business?
 
-Bei Fragen zu Autorisierung, Vereinbarungen, Compliance, Sicherheit, kostenpflichtigen Abonnements, Plätzen, Gebühren, Datenschutz, Risikohinweisen und Haftungsbeschränkungen von Kimi Business lesen Sie bitte das offizielle [Kimi Business Service Agreement](https://www.kimi.com/user/agreement/business-service-agreement-overseas).
+Bei Fragen zu Autorisierung, Vereinbarungen, Compliance, Sicherheit, kostenpflichtigen Abonnements, Plätzen, Gebühren, Datenschutz, Risikohinweisen und Haftungsbeschränkungen von Kimi Business lesen Sie bitte das offizielle Kimi Business Service Agreement.
 
 Für Unternehmensverträge, Autorisierungsdokumente, Compliance-Unterlagen oder andere sicherheitsbezogene Dokumente wenden Sie sich bitte an den Vertrieb oder den Kundenservice.

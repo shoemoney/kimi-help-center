@@ -81,6 +81,6 @@ Personal and enterprise memberships are independent. If you have already subscri
 
 ## Where can I find Kimi Business agreements, compliance, and security information?
 
-For questions about Kimi Business authorization, agreements, compliance, security, paid subscriptions, seats, fees, data protection, risk disclosures, and liability limitations, please refer to the official [Kimi Business Service Agreement](https://www.kimi.com/user/agreement/business-service-agreement-overseas).
+For questions about Kimi Business authorization, agreements, compliance, security, paid subscriptions, seats, fees, data protection, risk disclosures, and liability limitations, please refer to the official Kimi Business Service Agreement.
 
 For enterprise contracts, authorization documents, compliance materials, or other security-related documents, please contact sales or customer service.

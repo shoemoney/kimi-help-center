@@ -81,6 +81,6 @@ Les abonnements personnels et entreprise sont indépendants. Si vous avez déjà
 
 ## Où trouver les informations relatives aux accords, à la conformité et à la sécurité de Kimi Business ?
 
-Pour toute question concernant l'autorisation, les accords, la conformité, la sécurité, les abonnements payants, les sièges, les frais, la protection des données, la divulgation des risques et les limitations de responsabilité de Kimi Business, veuillez consulter le [contrat de service Kimi Business](https://www.kimi.com/user/agreement/business-service-agreement-overseas) officiel.
+Pour toute question concernant l'autorisation, les accords, la conformité, la sécurité, les abonnements payants, les sièges, les frais, la protection des données, la divulgation des risques et les limitations de responsabilité de Kimi Business, veuillez consulter le contrat de service Kimi Business officiel.
 
 Pour obtenir des contrats d'entreprise, des documents d'autorisation, des éléments de conformité ou d'autres documents liés à la sécurité, veuillez contacter le service commercial ou le service client.

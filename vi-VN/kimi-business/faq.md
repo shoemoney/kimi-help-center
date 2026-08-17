@@ -81,6 +81,6 @@ Thành viên cá nhân và thành viên doanh nghiệp hoạt động độc l�
 
 ## Tôi có thể tìm thông tin về thỏa thuận, tuân thủ và bảo mật của Kimi Business ở đâu?
 
-Đối với các thắc mắc về ủy quyền, thỏa thuận, tuân thủ, bảo mật, đăng ký trả phí, suất người dùng, phí, bảo vệ dữ liệu, công bố rủi ro và giới hạn trách nhiệm của Kimi Business, vui lòng tham khảo [Thỏa thuận dịch vụ Kimi Business](https://www.kimi.com/user/agreement/business-service-agreement-overseas) chính thức.
+Đối với các thắc mắc về ủy quyền, thỏa thuận, tuân thủ, bảo mật, đăng ký trả phí, suất người dùng, phí, bảo vệ dữ liệu, công bố rủi ro và giới hạn trách nhiệm của Kimi Business, vui lòng tham khảo Thỏa thuận dịch vụ Kimi Business chính thức.
 
 Đối với hợp đồng doanh nghiệp, tài liệu ủy quyền, tài liệu tuân thủ hoặc các tài liệu khác liên quan đến bảo mật, vui lòng liên hệ bộ phận kinh doanh hoặc chăm sóc khách hàng.

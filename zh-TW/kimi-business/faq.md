@@ -81,6 +81,6 @@ Kimi Business 支援企業銀行轉帳。請依照下列步驟操作：
 
 ## 哪裡可以查看 Kimi Business 的協議、合規與安全資訊？
 
-如需了解 Kimi Business 的授權、協議、合規、安全、付費訂閱、席位、費用、資料保護、風險揭露與責任限制等問題，請參閱官方 [Kimi Business 服務協議](https://www.kimi.com/user/agreement/business-service-agreement-overseas)。
+如需了解 Kimi Business 的授權、協議、合規、安全、付費訂閱、席位、費用、資料保護、風險揭露與責任限制等問題，請參閱官方 Kimi Business 服務協議。
 
 如需企業合約、授權文件、合規資料或其他安全相關文件，請聯絡銷售或客服。

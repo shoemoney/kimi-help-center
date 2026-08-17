@@ -63,7 +63,7 @@ API 速率限制基于账户的**累计充值金额**进行分级，充值金额
 2. **控制并发数**：使用请求队列或信号量限制同时发出的请求数量。
 3. **批量处理**：将多个小请求合并为较少的大请求。
 
-更详细的 429 排查方法，请参考 [API 调用常见问题](https://platform.kimi.com/docs/troubleshooting/api-troubleshooting)。
+更详细的 429 排查方法，请参考 [API 调用常见问题](https://platform.kimi.com/docs/api/errors)。
 
 ## 申请更高速率限制
 

@@ -47,7 +47,7 @@ Manfaat Kimi Code tersedia dengan tool berikut:
 | **Claude Code** | Asisten coding command-line dari Anthropic |
 | **Roo Code** | Ekstensi coding AI untuk VS Code |
 
-Menggunakan Kimi Code API Key Anda dengan platform atau tool yang tidak tercantum di atas dapat dianggap sebagai penyalahgunaan dan berpotensi mengakibatkan pembatasan akses. Silakan gunakan tool yang didukung sebagaimana tercantum di atas untuk pengalaman dan cakupan terbaik.
+Selain tool di atas, pelanggan juga dapat menggunakan API Key untuk menghubungkan Kimi Code ke lebih banyak tool pengembangan pihak ketiga (seperti OpenCode). Lihat [Menggunakan agen coding pihak ketiga](/kimi-code/third-party-agents) untuk detailnya. Saat menggunakan tool pihak ketiga, harap pertahankan identitas asli tool tersebut; memalsukan identifier klien (User-Agent) akan dianggap sebagai pelanggaran dan dapat menyebabkan benefit keanggotaan Anda ditangguhkan.
 
 ## Extra Usage
 

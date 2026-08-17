@@ -64,7 +64,7 @@ Kimi Code benefits apply to the following tools:
 | **Claude Code** | Anthropic's CLI coding assistant |
 | **Roo Code** | AI coding plugin for VS Code |
 
-Using the Kimi Code API Key on platforms or tools not listed above may be considered abuse and may result in restricted benefits. Please use the supported tools above for the best experience and protection.
+In addition to the tools above, subscribers can also use an API Key to connect Kimi Code to more third-party developer tools (such as OpenCode). See [Use in third-party Coding Agents](/kimi-code/third-party-agents) for details. When using third-party tools, please keep the tool's genuine identity; tampering with the client identifier (User-Agent) will be treated as a violation and may result in suspension of your membership benefits.
 
 <Callout type="info">
 Please note that this benefit is for personal development only, not for enterprise development scenarios. For enterprise needs, please follow [Kimi Open Platform](https://platform.kimi.com/).

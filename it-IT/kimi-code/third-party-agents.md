@@ -98,6 +98,5 @@ HighSpeed offre una velocità di output di circa 5–6× quella di Standard con 
 
 ## Note importanti
 
-- I vantaggi di Kimi Code sono supportati solo in **Kimi Code CLI**, **Claude Code** e **Roo Code**.
-- L'utilizzo della tua API Key con piattaforme o strumenti non autorizzati può essere considerato una violazione e comportare la limitazione dell'accesso.
+- Durante l'utilizzo, mantieni l'identità reale dello strumento; alterare l'identificatore client (User-Agent) sarà considerato una violazione e potrebbe comportare la sospensione dei tuoi vantaggi dell'abbonamento.
 - Per qualsiasi domanda, consulta la pagina [Vantaggi](/kimi-code/benefits) o contatta l'assistenza Kimi.

@@ -47,7 +47,7 @@ Quyền lợi Kimi Code có thể dùng với các công cụ sau:
 | **Claude Code** | Trợ lý lập trình dòng lệnh của Anthropic |
 | **Roo Code** | Tiện ích mở rộng lập trình AI cho VS Code |
 
-Việc dùng API Key Kimi Code của bạn với các nền tảng hoặc công cụ không có trong danh sách trên có thể bị coi là lạm dụng và dẫn đến việc bị hạn chế quyền truy cập. Vui lòng sử dụng các công cụ được hỗ trợ nêu trên để có trải nghiệm và phạm vi hỗ trợ tốt nhất.
+Ngoài các công cụ trên, người dùng đăng ký gói cước còn có thể dùng API Key để kết nối Kimi Code với nhiều công cụ phát triển của bên thứ ba khác (như OpenCode). Xem chi tiết tại [Sử dụng cùng các coding agent của bên thứ ba](/kimi-code/third-party-agents). Khi sử dụng công cụ của bên thứ ba, vui lòng giữ đúng danh tính thật của công cụ; việc giả mạo định danh client (User-Agent) sẽ bị coi là vi phạm và có thể khiến quyền lợi hội viên của bạn bị tạm ngưng.
 
 ## Extra Usage
 

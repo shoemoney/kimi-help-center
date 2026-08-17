@@ -98,6 +98,5 @@ O [Roo Code](https://github.com/RooCodeInc/Roo-Code) é uma extensão de codific
 
 ## Observações importantes
 
-- Os benefícios do Kimi Code são suportados apenas no **Kimi Code CLI**, no **Claude Code** e no **Roo Code**.
-- Usar sua API Key com plataformas ou ferramentas não autorizadas pode ser considerado uma violação e resultar em restrição de acesso.
+- Ao usar as ferramentas, mantenha a identidade real da ferramenta; adulterar o identificador de cliente (User-Agent) será considerado uma violação e pode resultar na suspensão dos seus benefícios de assinatura.
 - Em caso de dúvidas, consulte a página de [Benefícios](/kimi-code/benefits) ou entre em contato com o suporte da Kimi.

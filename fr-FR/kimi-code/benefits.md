@@ -47,7 +47,7 @@ Les avantages de Kimi Code sont disponibles avec les outils suivants :
 | **Claude Code** | L'assistant de code en ligne de commande d'Anthropic |
 | **Roo Code** | Extension de code IA pour VS Code |
 
-Utiliser votre clé API Kimi Code avec des plateformes ou des outils ne figurant pas dans la liste ci-dessus peut être considéré comme un usage abusif et entraîner une restriction d'accès. Veuillez utiliser les outils pris en charge mentionnés ci-dessus pour bénéficier de la meilleure expérience et d'une couverture optimale.
+Outre les outils ci-dessus, les abonnés peuvent également utiliser une clé API pour connecter Kimi Code à d'autres outils de développement tiers (comme OpenCode). Voir [Utilisation avec des agents de codage tiers](/kimi-code/third-party-agents) pour plus de détails. Lors de l'utilisation d'outils tiers, veuillez conserver l'identité réelle de l'outil ; falsifier l'identifiant client (User-Agent) sera considéré comme une infraction et pourra entraîner la suspension de vos avantages d'abonnement.
 
 ## Extra Usage
 

@@ -47,7 +47,7 @@ Kimi Code 權益可搭配以下工具使用：
 | **Claude Code** | Anthropic 的命令列程式設計助理 |
 | **Roo Code** | 適用於 VS Code 的 AI 程式設計擴充功能 |
 
-若將你的 Kimi Code API Key 用於上述未列出的平台或工具，可能會被視為誤用，並可能導致存取權受限。為獲得最佳體驗與完整保障，請使用上方列出的支援工具。
+除以上工具外，訂閱用戶還可透過 API Key 將 Kimi Code 接入更多第三方開發工具（如 OpenCode 等），詳見[搭配第三方程式開發代理使用](/kimi-code/third-party-agents)。使用第三方工具時請保持其真實身分標識，竄改用戶端標識（User-Agent）將被視為違規，可能導致會員權益暫停。
 
 ## Extra Usage
 

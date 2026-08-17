@@ -98,6 +98,5 @@ HighSpeed, Standard'ın yaklaşık 5–6 katı çıktı hızını **yaklaşık 3
 
 ## Önemli notlar
 
-- Kimi Code avantajları yalnızca **Kimi Code CLI**, **Claude Code** ve **Roo Code** ile desteklenir.
-- API Anahtarınızı yetkisiz platformlarda veya araçlarda kullanmak ihlal sayılabilir ve erişiminizin kısıtlanmasına yol açabilir.
+- Kullanım sırasında aracın gerçek kimliğini korumanız gerekir; istemci tanımlayıcısını (User-Agent) değiştirmek ihlal sayılır ve üyelik avantajlarınızın askıya alınmasına yol açabilir.
 - Sorularınız için [Avantajlar](/kimi-code/benefits) sayfasına bakın veya Kimi destek ekibiyle iletişime geçin.

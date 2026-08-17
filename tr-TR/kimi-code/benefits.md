@@ -47,7 +47,7 @@ Kimi Code avantajları aşağıdaki araçlarla kullanılabilir:
 | **Claude Code** | Anthropic'in komut satırı kodlama asistanı |
 | **Roo Code** | VS Code için AI kodlama eklentisi |
 
-Kimi Code API Key'inizi yukarıda listelenmeyen platform veya araçlarla kullanmak kötüye kullanım sayılabilir ve erişiminizin kısıtlanmasına yol açabilir. En iyi deneyim ve kapsam için lütfen yukarıda listelenen desteklenen araçları kullanın.
+Yukarıdaki araçların yanı sıra, abone kullanıcılar API Key ile Kimi Code'u OpenCode gibi daha fazla üçüncü taraf geliştirme aracına da bağlayabilir. Ayrıntılar için bkz. [Üçüncü taraf kodlama araçlarıyla kullanım](/kimi-code/third-party-agents). Üçüncü taraf araçları kullanırken aracın gerçek kimliğini korumanız gerekir; istemci tanımlayıcısını (User-Agent) değiştirmek ihlal sayılır ve üyelik avantajlarınızın askıya alınmasına yol açabilir.
 
 ## Extra Usage
 

@@ -98,6 +98,5 @@ HighSpeed ofrece una velocidad de salida de aproximadamente 5–6× la de Standa
 
 ## Notas importantes
 
-- Los beneficios de Kimi Code solo son compatibles con **Kimi Code CLI**, **Claude Code** y **Roo Code**.
-- Usar tu API Key con plataformas o herramientas no autorizadas puede considerarse una infracción y podría resultar en acceso restringido.
+- Al usar las herramientas, mantén la identidad real de la herramienta; alterar el identificador de cliente (User-Agent) se considerará una infracción y podría suspender tus beneficios de membresía.
 - Si tienes dudas, consulta la página de [Beneficios](/kimi-code/benefits) o comunícate con el soporte de Kimi.

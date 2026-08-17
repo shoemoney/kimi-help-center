@@ -106,8 +106,7 @@ Kimi Code 权益支持在主流 Coding Agent 中使用——例如 Claude Code�
 
 ## 注意事项
 
-- Kimi Code 权益仅支持在 **Kimi Code CLI**、**Claude Code** 和 **Roo Code** 中使用。
-- 在其他未授权的平台或工具中使用 API Key 可能被视为违规行为，并可能导致权益受限。
+- 使用时请保持工具的真实身份标识，篡改客户端标识（User-Agent）将被视为违规，可能导致会员权益暂停。
 - 如有疑问，请参阅 [权益说明](/kimi-code/benefits) 或联系 Kimi 客服。
 
 ## 详细教程

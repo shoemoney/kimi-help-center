@@ -98,6 +98,5 @@ HighSpeed memberikan kecepatan keluaran sekitar 5–6× Standard dengan **konsum
 
 ## Catatan penting
 
-- Benefit Kimi Code hanya didukung di **Kimi Code CLI**, **Claude Code**, dan **Roo Code**.
-- Menggunakan API Key Anda di platform atau tool yang tidak resmi dapat dianggap sebagai pelanggaran dan berpotensi mengakibatkan akses Anda dibatasi.
+- Saat menggunakan tool, harap pertahankan identitas asli tool tersebut; memalsukan identifier klien (User-Agent) akan dianggap sebagai pelanggaran dan dapat menyebabkan benefit keanggotaan Anda ditangguhkan.
 - Jika ada pertanyaan, lihat halaman [Benefit](/kimi-code/benefits) atau hubungi dukungan Kimi.

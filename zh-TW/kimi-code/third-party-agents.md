@@ -85,6 +85,5 @@ Kimi Code 權益可用於 Claude Code 和 Roo Code，讓你在偏好的程式開
 
 ## 重要注意事項
 
-- Kimi Code 權益僅支援於 **Kimi Code CLI**、**Claude Code** 和 **Roo Code**。
-- 若在未授權的平台或工具中使用你的 API Key，可能會被視為違規，並導致存取權限受限。
+- 使用時請保持工具的真實身分標識，竄改用戶端標識（User-Agent）將被視為違規，可能導致會員權益暫停。
 - 如有疑問，請參閱[權益](/kimi-code/benefits)頁面，或聯絡 Kimi 支援團隊。

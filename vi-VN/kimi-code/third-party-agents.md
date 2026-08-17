@@ -98,6 +98,5 @@ HighSpeed cho tốc độ đầu ra khoảng 5–6× so với Standard với **m
 
 ## Lưu ý quan trọng
 
-- Quyền lợi Kimi Code chỉ được hỗ trợ trên **Kimi Code CLI**, **Claude Code** và **Roo Code**.
-- Việc dùng API Key của bạn với những nền tảng hoặc công cụ chưa được cấp phép có thể bị xem là vi phạm và dẫn đến việc bị hạn chế quyền truy cập.
+- Khi sử dụng, vui lòng giữ đúng danh tính thật của công cụ; việc giả mạo định danh client (User-Agent) sẽ bị coi là vi phạm và có thể khiến quyền lợi hội viên của bạn bị tạm ngưng.
 - Nếu có thắc mắc, hãy xem trang [Quyền lợi](/kimi-code/benefits) hoặc liên hệ bộ phận hỗ trợ Kimi.

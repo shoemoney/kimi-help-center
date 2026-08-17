@@ -98,6 +98,5 @@ Kimi Code 权益可与 Claude Code 和 Roo Code 配合使用，让你在偏好�
 
 ## 重要说明
 
-- Kimi Code 权益仅支持在 **Kimi Code CLI**、**Claude Code** 和 **Roo Code** 中使用。
-- 在未授权的平台或工具中使用你的 API 密钥，可能会被视为违规，并导致访问受限。
+- 使用时请保持工具的真实身份标识，篡改客户端标识（User-Agent）将被视为违规，可能导致会员权益暂停。
 - 如有疑问，请参阅[权益](/kimi-code/benefits)页面，或联系 Kimi 支持团队。

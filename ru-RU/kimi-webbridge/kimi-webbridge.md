@@ -89,7 +89,7 @@ WebBridge работает через локальный сервис-мост �
 
 ### Способ 1. Использование с Kimi Work Desktop
 
-1. Скачайте Kimi Work с [официального сайта](https://www.kimi.com/products/kimi-work)
+1. Скачайте Kimi Work с <a href="https://www.kimi.com/products/kimi-work">официального сайта</a>
 
 2. После установки вы можете отправлять инструкции в Kimi Work, например:
 

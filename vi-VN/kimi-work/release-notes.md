@@ -13,7 +13,7 @@ preview: false
 
 # Nhật ký phát hành
 
-Trang này ghi lại nội dung cập nhật theo phiên bản của Kimi Work, bao gồm tính năng mới, thay đổi và bản sửa lỗi, và được cập nhật liên tục. Tải xuống phiên bản mới nhất: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
+Trang này ghi lại nội dung cập nhật theo phiên bản của Kimi Work, bao gồm tính năng mới, thay đổi và bản sửa lỗi, và được cập nhật liên tục. Tải xuống phiên bản mới nhất: <a href="https://www.kimi.com/products/kimi-work">kimi.com/products/kimi-work</a>
 
 ## 3.1.10 (2026-08-16)
 

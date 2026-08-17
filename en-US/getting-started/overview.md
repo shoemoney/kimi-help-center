@@ -38,7 +38,7 @@ Kimi is more than a chat assistant — it's an AI agent that can autonomously pl
 | **Agent Swarm** | Supports over 4,000 parallel tool calls, coordinating up to 300 sub-agents for large-scale search, long-form writing, and batch processing | [kimi.com/agent-swarm](https://www.kimi.com/agent-swarm) |
 | **Kimi Code** | Developer-focused coding assistant suite, including CLI tool and VS Code extension | [kimi.com/code](https://www.kimi.com/code) |
 | **Kimi Claw** | Zero-deployment cloud automation platform — launch a persistent AI agent in under 30 seconds with 5,000+ built-in skills (ClawHub) | [kimi.com/bot](https://www.kimi.com/bot) |
-| **Kimi Work** | A general-purpose local Agent for knowledge workers, built on Kimi Code, providing local Agent basics (skills, scheduled tasks) plus the online Kimi Agent's website building, PPT, and professional databases | [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work) |
+| **Kimi Work** | A general-purpose local Agent for knowledge workers, built on Kimi Code, providing local Agent basics (skills, scheduled tasks) plus the online Kimi Agent's website building, PPT, and professional databases | <a href="https://www.kimi.com/products/kimi-work">kimi.com/products/kimi-work</a> |
 
 ## Other core features
 - **Highlights**: Photo problem-solving, voice calls, translation, writing assistance

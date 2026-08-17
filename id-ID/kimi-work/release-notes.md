@@ -13,7 +13,7 @@ preview: false
 
 # Catatan Rilis
 
-Halaman ini mencatat pembaruan versi Kimi Work, termasuk fitur baru, perubahan, dan perbaikan, dan terus diperbarui. Unduh versi terbaru: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
+Halaman ini mencatat pembaruan versi Kimi Work, termasuk fitur baru, perubahan, dan perbaikan, dan terus diperbarui. Unduh versi terbaru: <a href="https://www.kimi.com/products/kimi-work">kimi.com/products/kimi-work</a>
 
 ## 3.1.10 (2026-08-16)
 

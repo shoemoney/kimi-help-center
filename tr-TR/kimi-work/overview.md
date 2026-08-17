@@ -48,4 +48,4 @@ Kimi Work, 3 Haziran 2026’da kullanıma sunuldu ve şu anda sık yinelemelerle
 
 - **Mac**: Apple silicon gerekir, macOS 12 veya üzeri
 - **Windows**: Windows 10 veya üzeri
-- **İndirme**: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
+- **İndirme**: <a href="https://www.kimi.com/products/kimi-work">kimi.com/products/kimi-work</a>

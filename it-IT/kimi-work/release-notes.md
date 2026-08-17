@@ -13,7 +13,7 @@ preview: false
 
 # Note di rilascio
 
-Questa pagina raccoglie gli aggiornamenti di versione di Kimi Work, tra cui nuove funzionalità, modifiche e correzioni, ed è aggiornata regolarmente. Scarica l’ultima versione: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
+Questa pagina raccoglie gli aggiornamenti di versione di Kimi Work, tra cui nuove funzionalità, modifiche e correzioni, ed è aggiornata regolarmente. Scarica l’ultima versione: <a href="https://www.kimi.com/products/kimi-work">kimi.com/products/kimi-work</a>
 
 ## 3.1.10 (2026-08-16)
 

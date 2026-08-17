@@ -48,4 +48,4 @@ Kimi Work เปิดตัวเมื่อวันที่ 3 มิถุ�
 
 - **Mac**: ต้องใช้ Apple silicon, macOS 12 ขึ้นไป
 - **Windows**: Windows 10 ขึ้นไป
-- **ดาวน์โหลด**: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
+- **ดาวน์โหลด**: <a href="https://www.kimi.com/products/kimi-work">kimi.com/products/kimi-work</a>

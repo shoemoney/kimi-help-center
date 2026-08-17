@@ -39,7 +39,7 @@ Kimi bukan sekadar asisten obrolan — ia adalah agen AI yang mampu merencanakan
 | **Agent Swarm** | Mendukung lebih dari 4.000 panggilan alat paralel, mengoordinasikan hingga 300 sub-agen untuk pencarian skala besar, penulisan panjang, dan pemrosesan batch | [kimi.com/agent-swarm](https://www.kimi.com/agent-swarm) |
 | **Kimi Code** | Rangkaian asisten pemrograman yang berfokus pada developer, termasuk perangkat CLI dan ekstensi VS Code | [kimi.com/code](https://www.kimi.com/code) |
 | **Kimi Claw** | Platform otomatisasi cloud tanpa deployment — luncurkan agen AI persisten dalam kurang dari 30 detik dengan 5.000+ skill bawaan (ClawHub) | [kimi.com/bot](https://www.kimi.com/bot) |
-| **Kimi Work** | Agent lokal serbaguna untuk pekerja pengetahuan, dibangun di atas Kimi Code, menyediakan dasar Agent lokal (skill, tugas terjadwal) plus pembuatan situs web, PPT, dan basis data profesional dari Kimi Agent daring | [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work) |
+| **Kimi Work** | Agent lokal serbaguna untuk pekerja pengetahuan, dibangun di atas Kimi Code, menyediakan dasar Agent lokal (skill, tugas terjadwal) plus pembuatan situs web, PPT, dan basis data profesional dari Kimi Agent daring | <a href="https://www.kimi.com/products/kimi-work">kimi.com/products/kimi-work</a> |
 
 ## Fitur inti lainnya
 - **Sorotan**: Penyelesaian soal lewat foto, panggilan suara, terjemahan, bantuan menulis

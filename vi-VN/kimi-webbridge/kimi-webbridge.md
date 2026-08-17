@@ -89,7 +89,7 @@ Sau khi cài đặt, bạn sẽ thấy WebBridge trong danh sách tiện ích m�
 
 ### Cách 1: Sử dụng cùng Kimi Work Desktop
 
-1. Tải Kimi Work từ [trang web chính thức](https://www.kimi.com/products/kimi-work)
+1. Tải Kimi Work từ <a href="https://www.kimi.com/products/kimi-work">trang web chính thức</a>
 
 2. Sau khi cài đặt, bạn có thể gửi yêu cầu trong Kimi Work, ví dụ:
 

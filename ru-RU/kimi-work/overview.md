@@ -48,4 +48,4 @@ Kimi Work был запущен 3 июня 2026 года и сейчас нах�
 
 - **Mac**: требуется Apple silicon, macOS 12 или новее
 - **Windows**: Windows 10 или новее
-- **Загрузка**: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
+- **Загрузка**: <a href="https://www.kimi.com/products/kimi-work">kimi.com/products/kimi-work</a>

@@ -13,7 +13,7 @@ preview: false
 
 # リリースノート
 
-このページでは Kimi Work のバージョン更新内容（新機能・変更・修正）を記録し、継続的に更新します。最新版のダウンロード：[kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
+このページでは Kimi Work のバージョン更新内容（新機能・変更・修正）を記録し、継続的に更新します。最新版のダウンロード：<a href="https://www.kimi.com/products/kimi-work">kimi.com/products/kimi-work</a>
 
 ## 3.1.10（2026-08-16）
 

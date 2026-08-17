@@ -39,7 +39,7 @@ Kimi 不只是聊天助手，更是能够自主规划并执行任务的 AI 智�
 | **Agent Swarm** | 支持 4,000+ 个并行工具调用，可协调最多 300 个子智能体，完成大规模搜索、长文写作和批量处理 | [kimi.com/agent-swarm](https://www.kimi.com/agent-swarm) |
 | **Kimi Code** | 面向开发者的编程助手套件，包括 CLI（命令行界面）工具和 VS Code 扩展 | [kimi.com/code](https://www.kimi.com/code) |
 | **Kimi Claw** | 零部署云端自动化平台——30 秒内即可启动一个可持续运行的 AI 智能体，内置 5,000+ 项技能（ClawHub） | [kimi.com/bot](https://www.kimi.com/bot) |
-| **Kimi Work** | 面向知识工作者的通用本地 Agent，基于 Kimi Code 构建，提供本地 Agent 基础能力（技能、定时任务），并集成在线 Kimi Agent 的建站、PPT 和专业数据库功能 | [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work) |
+| **Kimi Work** | 面向知识工作者的通用本地 Agent，基于 Kimi Code 构建，提供本地 Agent 基础能力（技能、定时任务），并集成在线 Kimi Agent 的建站、PPT 和专业数据库功能 | <a href="https://www.kimi.com/products/kimi-work">kimi.com/products/kimi-work</a> |
 
 ## 其他核心功能
 - **亮点功能**：拍照解题、语音通话、翻译、写作辅助

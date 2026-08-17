@@ -48,4 +48,4 @@ Kimi Work diluncurkan pada 3 Juni 2026 dan saat ini berada dalam Beta dengan ite
 
 - **Mac**: Memerlukan Apple silicon, macOS 12 atau lebih baru
 - **Windows**: Windows 10 atau lebih baru
-- **Unduhan**: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
+- **Unduhan**: <a href="https://www.kimi.com/products/kimi-work">kimi.com/products/kimi-work</a>

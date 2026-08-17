@@ -89,7 +89,7 @@ Webストアにアクセスできない場合は、手動インストールを�
 
 ### 方法1：Kimi Work Desktopで使用する
 
-1. [公式サイト](https://www.kimi.com/products/kimi-work)からKimi Workをダウンロードします
+1. <a href="https://www.kimi.com/products/kimi-work">公式サイト</a>からKimi Workをダウンロードします
 
 2. インストール後、Kimi Workでたとえば次のような指示を送信できます。
 

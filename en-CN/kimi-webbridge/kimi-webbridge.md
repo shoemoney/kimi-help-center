@@ -97,7 +97,7 @@ After installation, you will see WebBridge in your browser’s extension list. F
 
 ### Option 1: Use with Kimi Work Desktop
 
-1. Download Kimi Work from the [official website](https://www.kimi.com/products/kimi-work)
+1. Download Kimi Work from the <a href="https://www.kimi.com/products/kimi-work">official website</a>
 
 2. After installation, you can send instructions in Kimi Work, for example:
 

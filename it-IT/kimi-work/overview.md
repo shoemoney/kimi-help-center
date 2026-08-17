@@ -48,4 +48,4 @@ Kimi Work è stato lanciato il 3 giugno 2026 ed è attualmente in Beta, con iter
 
 - **Mac**: richiede Apple silicon, macOS 12 o versioni successive
 - **Windows**: Windows 10 o versioni successive
-- **Download**: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
+- **Download**: <a href="https://www.kimi.com/products/kimi-work">kimi.com/products/kimi-work</a>

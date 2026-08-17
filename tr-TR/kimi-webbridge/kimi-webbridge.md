@@ -89,7 +89,7 @@ Kurulumun ardından WebBridge'i tarayıcınızın eklentiler listesinde görmeli
 
 ### Yöntem 1: Kimi Work Masaüstü ile kullanma
 
-1. Kimi Work'ü [resmi web sitesinden](https://www.kimi.com/products/kimi-work) indirin
+1. Kimi Work'ü <a href="https://www.kimi.com/products/kimi-work">resmi web sitesinden</a> indirin
 
 2. Kurulumdan sonra Kimi Work içinde talimatlar gönderebilirsiniz; örneğin:
 

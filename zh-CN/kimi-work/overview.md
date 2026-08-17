@@ -48,4 +48,4 @@ Kimi Work 于 2026 年 6 月 3 日上线，目前处于 Beta 测试阶段并保�
 
 - **Mac 版**：需 Apple 芯片，macOS 12 及以上系统
 - **Windows 版**：Windows 10 及以上系统
-- **下载地址**：[kimi.com/zh-cn/products/kimi-work](https://www.kimi.com/products/kimi-work)
+- **下载地址**：[kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)

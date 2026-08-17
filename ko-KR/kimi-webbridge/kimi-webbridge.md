@@ -89,7 +89,7 @@ WebBridge는 로컬 브리지 서비스와 브라우저 확장 프로그램을 �
 
 ### 방법 1: Kimi Work 데스크톱과 함께 사용
 
-1. [공식 웹사이트](https://www.kimi.com/zh-cn/products/kimi-work)에서 Kimi Work를 다운로드합니다
+1. [공식 웹사이트](https://www.kimi.com/products/kimi-work)에서 Kimi Work를 다운로드합니다
 
 2. 설치가 완료되면 Kimi Work에서 다음과 같이 지시를 보낼 수 있습니다.
 

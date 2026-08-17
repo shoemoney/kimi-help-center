@@ -89,7 +89,7 @@ Setelah pemasangan, WebBridge akan muncul di daftar ekstensi peramban Anda. Agar
 
 ### Cara 1: Menggunakan dengan Kimi Work Desktop
 
-1. Unduh Kimi Work dari [situs resmi](https://www.kimi.com/zh-cn/products/kimi-work)
+1. Unduh Kimi Work dari [situs resmi](https://www.kimi.com/products/kimi-work)
 
 2. Setelah terpasang, Anda dapat mengirim instruksi di Kimi Work, misalnya:
 

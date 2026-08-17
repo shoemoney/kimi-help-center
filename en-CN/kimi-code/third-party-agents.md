@@ -111,4 +111,4 @@ HighSpeed delivers roughly 5–6× the output speed of Standard at about **3× t
 
 ## Detailed tutorial
 
-- [Use in third-party Coding Agents (Claude Code, Roo Code)](https://www.kimi.com/code/docs/third-party-tools/other-coding-agents.html)
+- [Use in third-party Coding Agents (Claude Code, Roo Code)](https://www.kimi.com/code/docs/kimi-code/models.html#%E7%AC%AC%E4%B8%89%E6%96%B9%E5%B7%A5%E5%85%B7)

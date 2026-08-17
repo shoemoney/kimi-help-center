@@ -58,4 +58,4 @@ preview_content: "Kimi Code CLI, VS Code 확장 프로그램, 서드파티 도�
 
 ## 서드파티 도구
 
-- [서드파티 코딩 에이전트와 함께 사용](https://www.kimi.com/code/docs/third-party-tools/other-coding-agents.html)
+- [서드파티 코딩 에이전트와 함께 사용](https://www.kimi.com/code/docs/kimi-code/models.html#%E7%AC%AC%E4%B8%89%E6%96%B9%E5%B7%A5%E5%85%B7)

@@ -58,4 +58,4 @@ Die folgenden Links führen zu ausführlichen Seiten auf der [offiziellen Kimi C
 
 ## Drittanbieter-Tools
 
-- [Mit Coding-Agents von Drittanbietern verwenden](https://www.kimi.com/code/docs/third-party-tools/other-coding-agents.html)
+- [Mit Coding-Agents von Drittanbietern verwenden](https://www.kimi.com/code/docs/kimi-code/models.html#%E7%AC%AC%E4%B8%89%E6%96%B9%E5%B7%A5%E5%85%B7)

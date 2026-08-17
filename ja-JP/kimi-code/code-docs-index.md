@@ -58,4 +58,4 @@ preview_content: "Kimi Code CLI、VS Code 拡張機能、サードパーティ�
 
 ## サードパーティツール
 
-- [サードパーティのコーディングエージェントで使う](https://www.kimi.com/code/docs/third-party-tools/other-coding-agents.html)
+- [サードパーティのコーディングエージェントで使う](https://www.kimi.com/code/docs/kimi-code/models.html#%E7%AC%AC%E4%B8%89%E6%96%B9%E5%B7%A5%E5%85%B7)

@@ -58,4 +58,4 @@ preview_content: "Kimi Code CLI、VS Code 擴充功能與第三方工具的完�
 
 ## 第三方工具
 
-- [搭配第三方程式碼 Agent 使用](https://www.kimi.com/code/docs/third-party-tools/other-coding-agents.html)
+- [搭配第三方程式碼 Agent 使用](https://www.kimi.com/code/docs/kimi-code/models.html#%E7%AC%AC%E4%B8%89%E6%96%B9%E5%B7%A5%E5%85%B7)

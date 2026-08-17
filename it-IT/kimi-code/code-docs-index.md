@@ -58,4 +58,4 @@ I link qui sotto rimandano alle pagine dettagliate del [sito ufficiale della doc
 
 ## Strumenti di terze parti
 
-- [Uso con agenti di coding di terze parti](https://www.kimi.com/code/docs/third-party-tools/other-coding-agents.html)
+- [Uso con agenti di coding di terze parti](https://www.kimi.com/code/docs/kimi-code/models.html#%E7%AC%AC%E4%B8%89%E6%96%B9%E5%B7%A5%E5%85%B7)

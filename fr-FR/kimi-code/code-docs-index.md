@@ -58,4 +58,4 @@ Les liens ci-dessous mènent aux pages détaillées du [site officiel de documen
 
 ## Outils tiers
 
-- [Utiliser avec des agents de codage tiers](https://www.kimi.com/code/docs/third-party-tools/other-coding-agents.html)
+- [Utiliser avec des agents de codage tiers](https://www.kimi.com/code/docs/kimi-code/models.html#%E7%AC%AC%E4%B8%89%E6%96%B9%E5%B7%A5%E5%85%B7)

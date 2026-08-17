@@ -58,4 +58,4 @@ The links below point to detailed pages on the [official Kimi Code documentation
 
 ## Third-party Tools
 
-- [Use with Third-party Coding Agents](https://www.kimi.com/code/docs/third-party-tools/other-coding-agents.html)
+- [Use with Third-party Coding Agents](https://www.kimi.com/code/docs/kimi-code/models.html#%E7%AC%AC%E4%B8%89%E6%96%B9%E5%B7%A5%E5%85%B7)

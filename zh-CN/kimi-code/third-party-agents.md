@@ -111,4 +111,4 @@ Kimi Code 权益支持在主流 Coding Agent 中使用——例如 Claude Code�
 
 ## 详细教程
 
-- [在第三方 Coding Agent（Claude Code、Roo Code）中使用](https://www.kimi.com/code/docs/third-party-tools/other-coding-agents.html)
+- [在第三方 Coding Agent（Claude Code、Roo Code）中使用](https://www.kimi.com/code/docs/kimi-code/models.html#%E7%AC%AC%E4%B8%89%E6%96%B9%E5%B7%A5%E5%85%B7)

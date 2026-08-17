@@ -89,7 +89,7 @@ WebBridge 透過本機橋接服務與瀏覽器擴充功能運作。所有執行�
 
 ### 方法 1：搭配 Kimi Work Desktop 使用
 
-1. 從<a href="https://www.kimi.com/products/kimi-work">官方網站</a>下載 Kimi Work
+1. 從[官方網站](https://www.kimi.com/products/kimi-work)下載 Kimi Work
 
 2. 安裝完成後，你可以在 Kimi Work 中傳送指令，例如：
 

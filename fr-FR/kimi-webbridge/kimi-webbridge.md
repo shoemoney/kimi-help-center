@@ -89,7 +89,7 @@ Une fois l'installation terminée, WebBridge devrait apparaître dans la liste d
 
 ### Méthode 1 : utilisation avec Kimi Work Desktop
 
-1. Téléchargez Kimi Work depuis le <a href="https://www.kimi.com/products/kimi-work">site officiel</a>
+1. Téléchargez Kimi Work depuis le [site officiel](https://www.kimi.com/products/kimi-work)
 
 2. Une fois l'installation terminée, vous pouvez envoyer des instructions dans Kimi Work, par exemple :
 

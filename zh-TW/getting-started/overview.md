@@ -39,7 +39,7 @@ Kimi 不只是聊天助理，更是能自主規劃並執行任務的 AI 代理�
 | **Agent Swarm** | 支援最多 4,000 次平行工具呼叫，協調 300+ 個子代理，進行大規模搜尋、長文寫作與批次處理 | [kimi.com/agent-swarm](https://www.kimi.com/agent-swarm) |
 | **Kimi Code** | 面向開發者的程式開發助理套件，包含 CLI 工具與 VS Code 擴充功能 | [kimi.com/code](https://www.kimi.com/code) |
 | **Kimi Claw** | 零部署雲端自動化平台——30 秒內即可啟動持續運行的 AI 代理，內建 5,000+ 項技能（ClawHub） | [kimi.com/bot](https://www.kimi.com/bot) |
-| **Kimi Work** | 專為知識工作者打造的通用本機 Agent，建構於 Kimi Code 之上，提供本機 Agent 基礎能力（技能、排程任務），並整合線上 Kimi Agent 的網站建置、PPT 與專業資料庫 | <a href="https://www.kimi.com/products/kimi-work">kimi.com/products/kimi-work</a> |
+| **Kimi Work** | 專為知識工作者打造的通用本機 Agent，建構於 Kimi Code 之上，提供本機 Agent 基礎能力（技能、排程任務），並整合線上 Kimi Agent 的網站建置、PPT 與專業資料庫 | [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work) |
 
 ## 其他核心功能
 - **亮點**：拍照解題、語音通話、翻譯、寫作輔助

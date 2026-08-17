@@ -26,7 +26,7 @@ Kimi 插件是连接产品与 Kimi 的能力载体。通过插件，Kimi 可以�
 
 ## 准备工作
 
-请先<a href="https://www.kimi.com/products/kimi-work">下载并安装 Kimi Work</a>。创建插件前，建议准备：
+请先[下载并安装 Kimi Work](https://www.kimi.com/products/kimi-work)。创建插件前，建议准备：
 
 - 插件名称、简介和 Logo；
 - 用户可以通过自然语言完成的核心任务；

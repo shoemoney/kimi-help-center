@@ -26,7 +26,7 @@ Un plugin de Kimi conecta tu producto a Kimi. Ayuda a Kimi a entender cuándo tu
 
 ## Antes de comenzar
 
-Primero, <a href="https://www.kimi.com/products/kimi-work">descarga e instala Kimi Work</a>. Prepara lo siguiente:
+Primero, [descarga e instala Kimi Work](https://www.kimi.com/products/kimi-work). Prepara lo siguiente:
 
 - Un nombre, descripción y logo para el plugin
 - Las tareas principales que los usuarios deberían poder completar en lenguaje natural

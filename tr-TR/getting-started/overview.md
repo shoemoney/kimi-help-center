@@ -39,7 +39,7 @@ Kimi bir sohbet asistanından çok daha fazlasıdır — görevleri kendi başı
 | **Agent Swarm** | 4.000'e kadar paralel araç çağrısını destekler; geniş ölçekli arama, uzun metin yazımı ve toplu işleme için 300'e kadar alt ajanı koordine eder | [kimi.com/agent-swarm](https://www.kimi.com/agent-swarm) |
 | **Kimi Code** | CLI aracı ve VS Code eklentisi dahil, geliştiricilere yönelik kodlama asistanı paketi | [kimi.com/code](https://www.kimi.com/code) |
 | **Kimi Claw** | Sıfır kurulum gerektiren bulut otomasyon platformu — 5.000'den fazla yerleşik beceriyle (ClawHub) 30 saniyenin altında kalıcı bir yapay zeka ajanı başlatın | [kimi.com/bot](https://www.kimi.com/bot) |
-| **Kimi Work** | Kimi Code üzerine inşa edilmiş, bilgi çalışanları için genel amaçlı bir yerel Agent; yerel Agent temellerini (beceriler, zamanlanmış görevler) ve çevrimiçi Kimi Agent'ın web sitesi oluşturma, PPT ve profesyonel veritabanı özelliklerini bir arada sunar | <a href="https://www.kimi.com/products/kimi-work">kimi.com/products/kimi-work</a> |
+| **Kimi Work** | Kimi Code üzerine inşa edilmiş, bilgi çalışanları için genel amaçlı bir yerel Agent; yerel Agent temellerini (beceriler, zamanlanmış görevler) ve çevrimiçi Kimi Agent'ın web sitesi oluşturma, PPT ve profesyonel veritabanı özelliklerini bir arada sunar | [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work) |
 
 ## Diğer temel özellikler
 - **Öne çıkanlar**: Fotoğrafla problem çözme, sesli aramalar, çeviri, yazma desteği

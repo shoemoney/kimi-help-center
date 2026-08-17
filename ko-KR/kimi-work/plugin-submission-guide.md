@@ -26,7 +26,7 @@ Kimi 플러그인은 제품을 Kimi에 연결합니다. Kimi가 사용자의 제
 
 ## 시작하기 전에
 
-먼저 <a href="https://www.kimi.com/products/kimi-work">Kimi Work를 다운로드하여 설치</a>하세요. 다음을 준비하세요:
+먼저 [Kimi Work를 다운로드하여 설치](https://www.kimi.com/products/kimi-work)하세요. 다음을 준비하세요:
 
 - 플러그인 이름, 설명, 로고
 - 사용자가 자연어로 완료할 수 있어야 하는 핵심 작업

@@ -26,7 +26,7 @@ Kimiプラグインは、あなたの製品をKimiに接続します。Kimiが�
 
 ## 開始する前に
 
-まず、<a href="https://www.kimi.com/products/kimi-work">Kimi Workをダウンロードしてインストール</a>してください。以下の準備を整えます：
+まず、[Kimi Workをダウンロードしてインストール](https://www.kimi.com/products/kimi-work)してください。以下の準備を整えます：
 
 - プラグイン名、説明、ロゴ
 - ユーザーが自然言語で完了できるコアタスク

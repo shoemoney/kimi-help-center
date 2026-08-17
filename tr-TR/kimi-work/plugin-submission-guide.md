@@ -26,7 +26,7 @@ Bir Kimi eklentisi, ürününüzü Kimi'ye bağlar. Kimi'nin ürününüzün ne 
 
 ## Başlamadan önce
 
-Öncelikle <a href="https://www.kimi.com/products/kimi-work">Kimi Work'ü indirin ve yükleyin</a>. Aşağıdakileri hazırlayın:
+Öncelikle [Kimi Work'ü indirin ve yükleyin](https://www.kimi.com/products/kimi-work). Aşağıdakileri hazırlayın:
 
 - Bir eklenti adı, açıklaması ve logosu
 - Kullanıcıların doğal dilde tamamlayabilmesi gereken temel görevler

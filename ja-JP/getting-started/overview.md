@@ -39,7 +39,7 @@ Kimi は単なるチャットアシスタントではありません。タスク
 | **Agent Swarm** | 最大4,000件の並列ツール呼び出しに対応し、300以上のサブエージェントを連携させて、大規模検索、長文執筆、バッチ処理を実行します | [kimi.com/agent-swarm](https://www.kimi.com/agent-swarm) |
 | **Kimi Code** | 開発者向けのコーディングアシスタントスイートです。CLI ツールと VS Code 拡張機能を含みます | [kimi.com/code](https://www.kimi.com/code) |
 | **Kimi Claw** | デプロイ不要のクラウド自動化プラットフォームです。5,000以上の組み込みスキル（ClawHub）を備えた常駐型 AIエージェントを30秒以内に起動できます | [kimi.com/bot](https://www.kimi.com/bot) |
-| **Kimi Work** | ナレッジワーカー向けの汎用ローカル Agent です。Kimi Code を基盤とし、ローカル Agent の基本機能（スキル、スケジュールタスク）に加え、オンラインの Kimi Agent が持つウェブサイト構築、PPT、専門データベースを提供します | <a href="https://www.kimi.com/products/kimi-work">kimi.com/products/kimi-work</a> |
+| **Kimi Work** | ナレッジワーカー向けの汎用ローカル Agent です。Kimi Code を基盤とし、ローカル Agent の基本機能（スキル、スケジュールタスク）に加え、オンラインの Kimi Agent が持つウェブサイト構築、PPT、専門データベースを提供します | [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work) |
 
 ## その他の主な機能
 - **注目機能**: 写真での問題解決、音声通話、翻訳、文章作成支援

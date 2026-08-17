@@ -89,7 +89,7 @@ WebBridge ทำงานผ่านบริการบริดจ์ใน�
 
 ### วิธีที่ 1: ใช้งานร่วมกับ Kimi Work เดสก์ท็อป
 
-1. ดาวน์โหลด Kimi Work จาก <a href="https://www.kimi.com/products/kimi-work">เว็บไซต์ทางการ</a>
+1. ดาวน์โหลด Kimi Work จาก [เว็บไซต์ทางการ](https://www.kimi.com/products/kimi-work)
 
 2. เมื่อติดตั้งเสร็จแล้ว คุณสามารถส่งคำสั่งใน Kimi Work ได้ ตัวอย่างเช่น:
 

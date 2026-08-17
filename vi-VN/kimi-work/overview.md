@@ -48,4 +48,4 @@ Kimi Work ra mắt vào ngày 3 tháng 6 năm 2026 và hiện đang ở bản Be
 
 - **Mac**: Yêu cầu Apple silicon, macOS 12 trở lên
 - **Windows**: Windows 10 trở lên
-- **Tải xuống**: <a href="https://www.kimi.com/products/kimi-work">kimi.com/products/kimi-work</a>
+- **Tải xuống**: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)

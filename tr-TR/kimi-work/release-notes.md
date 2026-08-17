@@ -13,7 +13,7 @@ preview: false
 
 # Sürüm Notları
 
-Bu sayfa, Kimi Work sürüm güncellemelerini (yeni özellikler, değişiklikler ve düzeltmeler) kaydeder ve sürekli güncellenir. En son sürümü indirin: <a href="https://www.kimi.com/products/kimi-work">kimi.com/products/kimi-work</a>
+Bu sayfa, Kimi Work sürüm güncellemelerini (yeni özellikler, değişiklikler ve düzeltmeler) kaydeder ve sürekli güncellenir. En son sürümü indirin: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
 ## 3.1.10 (2026-08-16)
 

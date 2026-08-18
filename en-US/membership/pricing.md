@@ -67,6 +67,17 @@ All Kimi membership features share a single credit pool, metered by token usage.
 
 ## Credit FAQ
 
+### How do I check my credit usage?
+
+- **Web**: Click your avatar in the lower-left corner → Settings → Subscription
+- **App**: Me → Membership Plan → Subscription
+
+You can view your current credit balance as a percentage, the next refresh time, and your most recent 1,000 usage records, including usage time, feature, and consumption percentage.
+
+<Callout type="tip">
+Usage details may have a brief delay. Please refer to the current credit display.
+</Callout>
+
 ### What if I use up my credits?
 
 Tasks already in progress can be completed normally. New tasks will show an insufficient credit prompt. You can:

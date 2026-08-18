@@ -19,8 +19,8 @@ This page tracks Kimi Work version updates, including new features, changes, and
 
 **New**
 
-- Added a built-in Agent browser: browser tabs are bound to conversations and live in the preview-pane, and the Agent can directly operate the browser — clicking, typing, and more
-- Import cookies from your local Chrome browser to reuse your existing login sessions; off by default and can be enabled in Settings
+- Added a built-in Agent browser: browser tabs are bound to conversations and live in the preview-pane, and the Agent can directly operate the browser — clicking, typing, and more; off by default and can be enabled in Settings
+- Import cookies from your local Chrome browser to reuse your existing login sessions (Mac only)
 - Localization in 16 languages: the client now supports 16 languages
 
 **Changed**

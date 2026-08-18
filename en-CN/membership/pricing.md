@@ -44,8 +44,12 @@ Choose an auto-renewing annual subscription for a larger discount and save up to
 - About 30 Agent uses
 - Priority Agent generation queue, 4x faster
 - Office file processing, Deep Research, website deployment
-- 1x Kimi Code credit
+- Kimi Code available
+- Custom dashboard, including widget tasks (6 tasks) and scheduled tasks (6 tasks)
+- Featured plugins (15+ available)
 - 1,000 professional database calls
+- Build and publish a website with a database
+- 20 projects, 20GB project storage
 
 ### Moderato — ¥99/month
 
@@ -54,27 +58,38 @@ Everything in Andante, plus:
 - About 60 Agent uses
 - 2 parallel Agent tasks
 - 25 Agent Swarm uses, with 2 subtasks running in parallel
-- 4x Kimi Code credit
+- Dream Memory, self-evolving skills
+- 10 scheduled tasks and 10 widget tasks
+- Kimi Code available
 - 2,000 professional database calls
 
 ### Allegretto — ¥199/month
 
-Everything in Moderato, plus:
+Everything in Andante, plus:
 
 - About 150 Agent uses
-- 20x Kimi Code credit
-- One-click deployment for Kimi Claw / Kimi Claw Android
+- 2 parallel Agent tasks
 - 50 Agent Swarm uses, with 4 subtasks running in parallel
+- Dream Memory, self-evolving skills
+- Goal Mode, where the Agent drives a task to completion on its own
+- Dedicated Kimi Claw, with support for 10 Kimi Claw group chats
+- 15 scheduled tasks and 15 widget tasks
+- Kimi Code available
 - 5,000 professional database calls
 
 ### Allegro — ¥699/month
 
-Everything in Allegretto, plus:
+Everything in Andante, plus:
 
 - About 360 Agent uses
 - 4 parallel Agent tasks
-- 60x Kimi Code credit
-- 120 Agent Swarm uses, with 4 subtasks running in parallel
+- 120 Agent Swarm uses, with 8 subtasks running in parallel
+- Dream Memory, self-evolving skills
+- Goal Mode, where the Agent drives a task to completion on its own
+- Dedicated Kimi Claw, with support for 10 Kimi Claw group chats
+- Support for million-token-long conversations
+- 20 scheduled tasks, 20 widget tasks, 100 projects, 50GB project storage
+- Kimi Code available
 - 12,000 professional database calls
 
 <Callout type="tip">
@@ -111,8 +126,9 @@ Usage details may have a brief delay. Please refer to the current credit display
 
 Tasks already in progress can be completed normally. New tasks will show an insufficient credit prompt. You can:
 
-- Wait for credits to refresh automatically, based on the 5-hour, weekly, or monthly refresh prompts shown on the page
+- Wait for credits to refresh automatically each month (Kimi Code's separate 5-hour/weekly usage limit also resets on its own and only affects Kimi Code)
 - Upgrade to a higher-tier membership plan for more credits
+- Purchase an [Extra Usage pack](/membership/membership-extra-usage): once enabled, you pay as you go and don't need to wait for credits to refresh
 - Join official campaigns to receive bonus credits
 
 ### Can I use all my credits on one feature?

@@ -35,7 +35,7 @@ Kimi membership features such as website deployment, Deep Research, PPT, Kimi Co
 | Deep Research | ✅ | ✅ | ✅ | ✅ |
 | Website deployment | ✅ | ✅ | ✅ | ✅ |
 | Agent multitasking | — | ✅ | ✅ | ✅ |
-| Kimi Code | Available | 4x credits | 20x credits | 60x credits |
+| Kimi Code | Available | Available | Available | Available |
 
 > **Agent usage note**: Agent credits can be used for Agent features such as Office file processing, Deep Research, and website deployment.
 
@@ -43,14 +43,19 @@ Kimi membership features such as website deployment, Deep Research, PPT, Kimi Co
 
 |  | Andante ¥49/month | Moderato ¥99/month | Allegretto ¥199/month | Allegro ¥699/month |
 | --- | --- | --- | --- | --- |
-| One-click Kimi Claw deployment | — | — | ✅ | ✅ |
-| Kimi Claw Android deployment on Android phones | — | — | ✅ | ✅ |
-| Professional databases | ✅  | ✅ | ✅ | ✅ |
+| Custom dashboard with widget tasks | ✅ | ✅ | ✅ | ✅ |
+| Scheduled tasks with automatic execution | ✅ | ✅ | ✅ | ✅ |
+| Goal Mode, where the Agent drives a task to completion on its own | — | — | ✅ | ✅ |
 | Agent Swarm | — | ✅ | ✅ | ✅ |
+| Dedicated Kimi Claw | — | — | ✅ | ✅ |
+| Featured plugins | ✅ | ✅ | ✅ | ✅ |
+| Access to paid databases such as Tonghuashun and Tianyancha | ✅ | ✅ | ✅ | ✅ |
+| Build and publish a website with a database | ✅ | ✅ | ✅ | ✅ |
+| Support for million-token-long conversations | — | — | — | ✅ |
 
 <Callout type="tip">
-- **Professional databases**: Supports data sources in finance, economics, and academia, including Tonghuashun and Tianyancha.
-- **Agent Swarm**: Parallel multi-Agent workflows for data productivity, suitable for large-scale search, long-form writing, and batch processing.
+- **Access to paid databases**: Covers data sources in finance, economics, and academia.
+- **Agent Swarm**: Parallel multi-Agent workflows for greater productivity, suitable for large-scale search, long-form writing, and batch processing.
 </Callout>
 
 ## Which Plan Is Right for You
@@ -60,21 +65,26 @@ Kimi membership features such as website deployment, Deep Research, PPT, Kimi Co
   alt="Plan comparison"
 />
 
-> The estimates below are based on typical task token consumption and assume the monthly credits are used for a single feature. They are for reference only.
-
 |  | Andante ¥49/month | Moderato ¥99/month | Allegretto ¥199/month | Allegro ¥699/month |
 | --- | --- | --- | --- | --- |
-| Agent usage | 30 | 60 | 150 | 360 |
 | Parallel Agent tasks | 1 task | 2 tasks | 2 tasks | 4 tasks |
 | Agent priority generation queue | 4x speed | 4x speed | 4x speed | 4x speed |
-| Agent Swarm | — | 25 uses | 50 uses | 120 uses |
-| Parallel tasks in Agent Swarm | — | 2 subtasks | 4 subtasks | 4 subtasks |
-| Kimi Code | 1x credits | 4x credits | 20x credits | 60x credits |
-| Kimi Claw | — | — | ✅ | ✅ |
-| Kimi Claw Android | — | — | ✅ | ✅ |
-| Professional databases | 1,000 calls | 2,000 calls | 5,000 calls | 12,000 calls |
-
-> **Agent usage note**: Agent credits can be used for Agent features such as Office file processing, Deep Research, and website deployment.
+| K3 million-token-long conversations | — | — | — | ✅ |
+| Custom dashboard | ✅ | ✅ | ✅ | ✅ |
+| Scheduled tasks | 6 tasks | 10 tasks | 15 tasks | 20 tasks |
+| Widget tasks | 6 tasks | 10 tasks | 15 tasks | 20 tasks |
+| Number of projects | 20 projects | 20 projects | 20 projects | 100 projects |
+| Project storage | 20GB | 20GB | 20GB | 50GB |
+| Featured plugins | 15+ available | 15+ available | 15+ available | 15+ available |
+| Agent Swarm | — | ✅ | ✅ | ✅ |
+| Agent Swarm concurrent subtasks | — | 2 subtasks | 4 subtasks | 8 subtasks |
+| Dream Memory | — | ✅ | ✅ | ✅ |
+| Self-evolving skills | — | ✅ | ✅ | ✅ |
+| Goal Mode | — | — | ✅ | ✅ |
+| Kimi Code | Available | Available | Available | Available |
+| Kimi Claw (cloud, local Android, and desktop) | — | — | ✅ | ✅ |
+| Kimi Claw group chats | — | — | 10 group chats | 10 group chats |
+| Publish a website with a database | ✅ | ✅ | ✅ | ✅ |
 
 ### Use Cases and Recommendations
 
@@ -149,8 +159,9 @@ Usage detail data may have a short delay. Please refer to the current credit dis
 
 Tasks already in progress can be completed normally. New tasks will show an insufficient credits prompt. You can:
 
-- Wait for credits to refresh automatically (5-hour, weekly, or monthly refresh; please refer to the page prompts)
+- Wait for credits to refresh automatically each month (Kimi Code's separate 5-hour/weekly usage limit also resets on its own and only affects Kimi Code)
 - Upgrade to a higher-tier membership for more credits
+- Purchase an [Extra Usage pack](/membership/membership-extra-usage): once enabled, you pay as you go and don't need to wait for credits to refresh
 - Join official campaigns to receive bonus credits
 
 ### Can I use all credits on one feature?

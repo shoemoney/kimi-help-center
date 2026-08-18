@@ -20,22 +20,51 @@ Tất cả tính năng thành viên của Kimi đều dùng chung một quỹ cr
 
 ## So sánh gói
 
+<Frames
+  src="./images/membership/overview-01.png"
+  alt="Membership subscription page - plan overview"
+/>
+
 | Tính năng | Moderato $19/tháng | Allegretto $39/tháng | Allegro $99/tháng | Vivace $199/tháng |
 | --- | --- | --- | --- | --- |
 | Credit Agent* | 60 | 150 | 360 | 720 |
 | Tác vụ Agent chạy đồng thời | 2 | 2 | 4 | 4 |
 | Ưu tiên tốc độ Agent | 4× | 4× | 4× | 4× |
-| Agent Swarm (beta) | 25 lượt dùng | 50 lượt dùng | 120 lượt dùng | 240 lượt dùng |
-| Tác vụ phụ Agent Swarm chạy đồng thời | 2 | 4 | 4 | 8 |
-| Credit Kimi Code | 1× | 5× | 15× | 30× |
-| Kimi Claw | — | ✅ | ✅ | ✅ |
-| Kimi Claw Android | — | ✅ | ✅ | ✅ |
 | Cơ sở dữ liệu chuyên nghiệp | 2,000 lượt gọi | 5,000 lượt gọi | 12,000 lượt gọi | 24,000 lượt gọi |
+| Kimi Code | Có sẵn | Có sẵn | Có sẵn | Có sẵn |
 
 \* Giá trị ước tính dựa trên mức tiêu thụ token điển hình của tác vụ. Credit hằng tháng được quy đổi thành số tác vụ tương đương cho cùng một tính năng; chỉ dùng để tham khảo.
 
+## Tìm gói phù hợp với bạn
+
+<Frames
+  src="./images/membership/overview-03.png"
+  alt="Find your perfect plan"
+/>
+
+| Tính năng | Moderato $19/tháng | Allegretto $39/tháng | Allegro $99/tháng | Vivace $199/tháng |
+| --- | --- | --- | --- | --- |
+| Tác vụ Agent chạy đồng thời | 2 tác vụ | 2 tác vụ | 4 tác vụ | 4 tác vụ |
+| Hàng đợi ưu tiên Agent | Tốc độ 4× | Tốc độ 4× | Tốc độ 4× | Tốc độ 4× |
+| Dung lượng chat siêu dài K3 (lên đến 1 triệu token) | — | — | ✅ | ✅ |
+| Bảng tùy chỉnh | ✅ | ✅ | ✅ | ✅ |
+| Tác vụ đã lên lịch | 10 tác vụ | 15 tác vụ | 20 tác vụ | 25 tác vụ |
+| Tác vụ widget | 10 tác vụ | 15 tác vụ | 20 tác vụ | 25 tác vụ |
+| Dự án | 20 dự án | 20 dự án | 100 dự án | 100 dự án |
+| Dung lượng lưu trữ dự án | 20GB | 20GB | 50GB | 50GB |
+| Plugin | Hỗ trợ 15+ loại | Hỗ trợ 15+ loại | Hỗ trợ 15+ loại | Hỗ trợ 15+ loại |
+| Agent Swarm | ✅ | ✅ | ✅ | ✅ |
+| Tác vụ phụ Agent Swarm chạy đồng thời | 2 sub-agent | 4 sub-agent | 8 sub-agent | 8 sub-agent |
+| Dream Memory | ✅ | ✅ | ✅ | ✅ |
+| Kỹ năng tự tiến hóa | ✅ | ✅ | ✅ | ✅ |
+| Chế độ mục tiêu | — | ✅ | ✅ | ✅ |
+| Kimi Code | Có sẵn | Có sẵn | Có sẵn | Có sẵn |
+| Kimi Claw (Web, Android, PC) | — | ✅ | ✅ | ✅ |
+| Trò chuyện nhóm với Claw | — | 10 trò chuyện nhóm | 10 trò chuyện nhóm | 10 trò chuyện nhóm |
+| Triển khai website có cơ sở dữ liệu | ✅ | ✅ | ✅ | ✅ |
+
 <Callout type="tip">
-Có thể dùng toàn bộ hạn mức credit cho cùng một chức năng
+Bạn có thể dùng toàn bộ quỹ credit của mình cho một tính năng duy nhất. Hãy lưu ý rằng làm như vậy sẽ khiến các tính năng khác còn lại ít credit hơn — và Kimi Code có rate limit riêng theo chu kỳ 5 giờ / hằng tuần, không bị ảnh hưởng bởi việc này.
 </Callout>
 
 ## Cách tính phí

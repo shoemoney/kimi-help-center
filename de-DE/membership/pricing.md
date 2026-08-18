@@ -17,17 +17,38 @@ Kimi bietet vier Mitgliedschaftsstufen, jeweils als Monats- oder Jahresabo. Bei 
 
 ## Pläne im Überblick
 
+<Frames
+  src="./images/membership/overview-01.png"
+  alt="Membership subscription page - plan overview"
+/>
+
+<Frames
+  src="./images/membership/overview-03.png"
+  alt="Find your perfect plan"
+/>
+
 | Funktion | Moderato ($19/Monat) | Allegretto ($39/Monat) | Allegro ($99/Monat) | Vivace ($199/Monat) |
 |---------|-------------------|---------------------|-------------------|-------------------|
 | Agent-Credits* | 60 | 150 | 360 | 720 |
-| Parallele Agent-Aufgaben | 2 | 2 | 4 | 4 |
-| Priorität bei der Agent-Geschwindigkeit | 4× | 4× | 4× | 4× |
-| Agent Swarm (Beta) | 25 Nutzungen | 50 Nutzungen | 120 Nutzungen | 240 Nutzungen |
-| Parallele Unteraufgaben in Agent Swarm | 2 | 4 | 4 | 8 |
-| Kimi Code-Credits | 1× | 5× | 15× | 30× |
-| Kimi Claw | — | ✅ | ✅ | ✅ |
-| Kimi Claw Android | — | ✅ | ✅ | ✅ |
+| Gleichzeitige Agent-Aufgaben | 2 Aufgaben | 2 Aufgaben | 4 Aufgaben | 4 Aufgaben |
+| Agenten-Prioritätswarteschlange | 4× Geschwindigkeit | 4× Geschwindigkeit | 4× Geschwindigkeit | 4× Geschwindigkeit |
+| K3 extra lange Chat-Kapazität (bis zu 1 Mio. token) | — | — | ✅ | ✅ |
+| Anpassbares Dashboard | ✅ | ✅ | ✅ | ✅ |
+| Geplante Aufgaben | 10 Aufgaben | 15 Aufgaben | 20 Aufgaben | 25 Aufgaben |
+| Widget-Tasks | 10 Aufgaben | 15 Aufgaben | 20 Aufgaben | 25 Aufgaben |
+| Projekte | 20 Projekte | 20 Projekte | 100 Projekte | 100 Projekte |
+| Projektspeicher | 20GB | 20GB | 50GB | 50GB |
+| Plugins | 15+ unterstützte Typen | 15+ unterstützte Typen | 15+ unterstützte Typen | 15+ unterstützte Typen |
+| Agent Swarm | ✅ | ✅ | ✅ | ✅ |
+| Gleichzeitige Teilaufgaben in Agent Swarm | 2 Subagenten | 4 Subagenten | 8 Subagenten | 8 Subagenten |
+| Dream Memory | ✅ | ✅ | ✅ | ✅ |
+| Selbstlernende Skills | ✅ | ✅ | ✅ | ✅ |
+| Zielmodus | — | ✅ | ✅ | ✅ |
+| Kimi Code | Verfügbar | Verfügbar | Verfügbar | Verfügbar |
+| Kimi Claw (Web, Android, PC) | — | ✅ | ✅ | ✅ |
+| Gruppenchat mit Claw | — | 10 Gruppenchats | 10 Gruppenchats | 10 Gruppenchats |
 | Professionelle Datenbank | 2.000 Aufrufe | 5.000 Aufrufe | 12.000 Aufrufe | 24.000 Aufrufe |
+| Website mit Datenbank bereitstellen | ✅ | ✅ | ✅ | ✅ |
 
 \* Näherungswerte auf Basis des typischen token-Verbrauchs von Aufgaben. Monatliche Credits werden in die entsprechende Anzahl von Aufgaben für dieselbe Funktion umgerechnet; nur zur Orientierung.
 
@@ -45,6 +66,30 @@ Kimi bietet vier Mitgliedschaftsstufen, jeweils als Monats- oder Jahresabo. Bei 
 Alle Kimi-Mitgliedschaftsfunktionen greifen auf einen gemeinsamen Credit-Pool zu, abgerechnet nach token-Nutzung. Kimi Code hat zusätzlich ein eigenes wöchentliches rate limit von 5 Stunden, das nur für Kimi Code gilt und andere Funktionen nicht beeinflusst. Im Chat ist K2.6 kostenlos und verbraucht keine Credits. Höhere Stufen enthalten einen entsprechend größeren Credit-Pool und unterstützen dadurch häufigere und komplexere Workflows. Details finden Sie unter [Credit-Update und Nutzungsregeln](/membership/update-rules).
 
 ## Häufige Fragen zu Credits
+
+### Wie kann ich meine Credit-Nutzung einsehen?
+
+- **Web**: Klicken Sie unten links auf Ihren Avatar → Einstellungen → Abonnement
+- **App**: Ich → Mitgliedschaftstarif → Abonnement
+
+Sie können Ihr aktuelles Credit-Guthaben als Prozentsatz einsehen, den nächsten Aktualisierungszeitpunkt sowie Ihre letzten 1.000 Nutzungseinträge, einschließlich Nutzungszeit, Funktion und verbrauchtem Prozentsatz.
+
+<Callout type="tip">
+Die Nutzungsdetails können eine kurze Verzögerung aufweisen. Bitte orientieren Sie sich an der aktuellen Credit-Anzeige.
+</Callout>
+
+### Was passiert, wenn ich meine Credits aufgebraucht habe?
+
+Bereits laufende Aufgaben können normal abgeschlossen werden. Bei neuen Aufgaben erscheint ein Hinweis auf unzureichende Credits. Sie können:
+
+- Warten, bis sich die Credits jeden Monat automatisch aktualisieren (das separate 5-Stunden-/wöchentliche Nutzungslimit von Kimi Code aktualisiert sich ebenfalls eigenständig und betrifft nur Kimi Code)
+- Auf einen höheren Mitgliedschaftstarif upgraden, um mehr Credits zu erhalten
+- Ein [Extra Usage-Paket](/membership/membership-extra-usage) erwerben: Nach der Aktivierung zahlen Sie nutzungsbasiert und müssen nicht auf die Aktualisierung der Credits warten
+- An offiziellen Aktionen teilnehmen, um Bonus-Credits zu erhalten
+
+### Kann ich alle meine Credits für eine einzige Funktion verwenden?
+
+Ja. Alle Mitgliedschaftsfunktionen greifen auf einen gemeinsamen Credit-Pool zu, den Sie nach Belieben verteilen können. Beachten Sie, dass es sich auch auf die anderen Funktionen auswirkt, wenn eine Funktion alle Credits aufbraucht. Kimi Code hat zudem sein eigenes separates 5-Stunden-/wöchentliches rate limit, das nur für Kimi Code gilt.
 
 ### Was ist die Gebühr „Claw-云主机“ in Höhe von 0.6%, die jeden Tag um 16:00 Uhr abgebucht wird?
 

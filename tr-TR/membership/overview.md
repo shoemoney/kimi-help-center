@@ -20,22 +20,51 @@ Tüm Kimi üyelik özellikleri tek bir credit havuzunu paylaşır. Web sitesi da
 
 ## Plan karşılaştırması
 
+<Frames
+  src="./images/membership/overview-01.png"
+  alt="Membership subscription page - plan overview"
+/>
+
 | Özellik | Moderato $19/ay | Allegretto $39/ay | Allegro $99/ay | Vivace $199/ay |
 | --- | --- | --- | --- | --- |
 | Agent credit'leri* | 60 | 150 | 360 | 720 |
 | Agent eşzamanlı görevleri | 2 | 2 | 4 | 4 |
 | Agent hız önceliği | 4× | 4× | 4× | 4× |
-| Agent Swarm (beta) | 25 kullanım | 50 kullanım | 120 kullanım | 240 kullanım |
-| Agent Swarm eşzamanlı alt görevleri | 2 | 4 | 4 | 8 |
-| Kimi Code credit'leri | 1× | 5× | 15× | 30× |
-| Kimi Claw | — | ✅ | ✅ | ✅ |
-| Kimi Claw Android | — | ✅ | ✅ | ✅ |
 | Profesyonel veritabanı | 2.000 çağrı | 5.000 çağrı | 12.000 çağrı | 24.000 çağrı |
+| Kimi Code | Kullanılabilir | Kullanılabilir | Kullanılabilir | Kullanılabilir |
 
 \* Tipik görev token tüketimine dayalı yaklaşık değerlerdir. Aylık credit'ler, aynı özellik için eşdeğer görev sayısına dönüştürülmüştür; yalnızca referans amaçlıdır.
 
+## Size en uygun planı bulun
+
+<Frames
+  src="./images/membership/overview-03.png"
+  alt="Find your perfect plan"
+/>
+
+| Özellik | Moderato $19/ay | Allegretto $39/ay | Allegro $99/ay | Vivace $199/ay |
+| --- | --- | --- | --- | --- |
+| Agent eşzamanlı görevleri | 2 görev | 2 görev | 4 görev | 4 görev |
+| Agent öncelik kuyruğu | 4× hız | 4× hız | 4× hız | 4× hız |
+| K3 ekstra uzun sohbet kapasitesi (1M token'a kadar) | — | — | ✅ | ✅ |
+| Özelleştirilebilir pano | ✅ | ✅ | ✅ | ✅ |
+| Zamanlanmış görevler | 10 görev | 15 görev | 20 görev | 25 görev |
+| Widget görevleri | 10 görev | 15 görev | 20 görev | 25 görev |
+| Projeler | 20 proje | 20 proje | 100 proje | 100 proje |
+| Proje depolama alanı | 20GB | 20GB | 50GB | 50GB |
+| Eklentiler | 15+ tür desteklenir | 15+ tür desteklenir | 15+ tür desteklenir | 15+ tür desteklenir |
+| Agent Swarm | ✅ | ✅ | ✅ | ✅ |
+| Agent Swarm eşzamanlı alt görevleri | 2 subagent | 4 subagent | 8 subagent | 8 subagent |
+| Dream Memory | ✅ | ✅ | ✅ | ✅ |
+| Kendi kendini geliştiren Skills | ✅ | ✅ | ✅ | ✅ |
+| Hedef Modu | — | ✅ | ✅ | ✅ |
+| Kimi Code | Kullanılabilir | Kullanılabilir | Kullanılabilir | Kullanılabilir |
+| Kimi Claw (Web, Android, PC) | — | ✅ | ✅ | ✅ |
+| Claw ile grup sohbeti | — | 10 grup sohbeti | 10 grup sohbeti | 10 grup sohbeti |
+| Veritabanlı web sitesi dağıtımı | ✅ | ✅ | ✅ | ✅ |
+
 <Callout type="tip">
-Tüm credit limitinizi aynı işlev için kullanabilirsiniz
+Tüm credit havuzunuzu tek bir özellik için harcayabilirsiniz. Bunu yaptığınızda diğer her şey için daha az credit kalacağını unutmayın — Kimi Code'un ise buna bağlı olmaksızın kendine ait, ayrı bir 5 saatlik / haftalık rate limit'i vardır.
 </Callout>
 
 ## Faturalandırma nasıl işler?

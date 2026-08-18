@@ -20,22 +20,51 @@ Toutes les fonctionnalités incluses dans l’abonnement Kimi partagent une mêm
 
 ## Comparaison des formules
 
+<Frames
+  src="./images/membership/overview-01.png"
+  alt="Membership subscription page - plan overview"
+/>
+
 | Fonctionnalité | Moderato 19 $/mois | Allegretto 39 $/mois | Allegro 99 $/mois | Vivace 199 $/mois |
 | --- | --- | --- | --- | --- |
 | Credits Agent* | 60 | 150 | 360 | 720 |
 | Tâches Agent simultanées | 2 | 2 | 4 | 4 |
 | Priorité de vitesse Agent | 4× | 4× | 4× | 4× |
-| Agent Swarm (bêta) | 25 utilisations | 50 utilisations | 120 utilisations | 240 utilisations |
-| Sous-tâches Agent Swarm simultanées | 2 | 4 | 4 | 8 |
-| Credits Kimi Code | 1× | 5× | 15× | 30× |
-| Kimi Claw | — | ✅ | ✅ | ✅ |
-| Kimi Claw Android | — | ✅ | ✅ | ✅ |
 | Base de données professionnelle | 2 000 appels | 5 000 appels | 12 000 appels | 24 000 appels |
+| Kimi Code | Disponible | Disponible | Disponible | Disponible |
 
 \* Valeurs approximatives fondées sur la consommation de tokens d’une tâche type. Les credits mensuels sont convertis en nombre de tâches équivalent pour une même fonctionnalité ; à titre indicatif uniquement.
 
+## Trouvez la formule idéale pour vous
+
+<Frames
+  src="./images/membership/overview-03.png"
+  alt="Find your perfect plan"
+/>
+
+| Fonctionnalité | Moderato 19 $/mois | Allegretto 39 $/mois | Allegro 99 $/mois | Vivace 199 $/mois |
+| --- | --- | --- | --- | --- |
+| Tâches Agent simultanées | 2 tâches | 2 tâches | 4 tâches | 4 tâches |
+| File d’attente prioritaire Agent | 4× vitesse | 4× vitesse | 4× vitesse | 4× vitesse |
+| Capacité de conversation extra longue K3 (jusqu’à 1 M de tokens) | — | — | ✅ | ✅ |
+| Tableau de bord personnalisable | ✅ | ✅ | ✅ | ✅ |
+| Tâches planifiées | 10 tâches | 15 tâches | 20 tâches | 25 tâches |
+| Tâches de widget | 10 tâches | 15 tâches | 20 tâches | 25 tâches |
+| Projets | 20 projets | 20 projets | 100 projets | 100 projets |
+| Stockage des projets | 20GB | 20GB | 50GB | 50GB |
+| Plugins | 15+ types pris en charge | 15+ types pris en charge | 15+ types pris en charge | 15+ types pris en charge |
+| Agent Swarm | ✅ | ✅ | ✅ | ✅ |
+| Sous-tâches Agent Swarm simultanées | 2 sous-agents | 4 sous-agents | 8 sous-agents | 8 sous-agents |
+| Mémoire de rêve | ✅ | ✅ | ✅ | ✅ |
+| Skills auto-évolutives | ✅ | ✅ | ✅ | ✅ |
+| Mode Objectif | — | ✅ | ✅ | ✅ |
+| Kimi Code | Disponible | Disponible | Disponible | Disponible |
+| Kimi Claw (Web, Android, PC) | — | ✅ | ✅ | ✅ |
+| Discussion de groupe avec Claw | — | 10 discussions de groupe | 10 discussions de groupe | 10 discussions de groupe |
+| Déployer un site web avec une base de données | ✅ | ✅ | ✅ | ✅ |
+
 <Callout type="tip">
-Utilisez toute la limite de credit pour la même fonction
+Vous pouvez consacrer toute votre réserve de credits à une seule fonctionnalité. Gardez à l’esprit que cela laisse moins de credits pour tout le reste — et Kimi Code dispose de son propre rate limit de 5 heures / hebdomadaire, qui n’est affecté dans aucun des deux cas.
 </Callout>
 
 ## Fonctionnement de la facturation

@@ -17,17 +17,38 @@ Kimi offre quattro livelli di abbonamento, ciascuno disponibile con sottoscrizio
 
 ## Piani in breve
 
+<Frames
+  src="./images/membership/overview-01.png"
+  alt="Membership subscription page - plan overview"
+/>
+
+<Frames
+  src="./images/membership/overview-03.png"
+  alt="Find your perfect plan"
+/>
+
 | Funzionalità | Moderato ($19/mese) | Allegretto ($39/mese) | Allegro ($99/mese) | Vivace ($199/mese) |
 |---------|-------------------|---------------------|-------------------|-------------------|
 | Credit Agent* | 60 | 150 | 360 | 720 |
-| Attività Agent simultanee | 2 | 2 | 4 | 4 |
-| Priorità di velocità Agent | 4× | 4× | 4× | 4× |
-| Agent Swarm (beta) | 25 utilizzi | 50 utilizzi | 120 utilizzi | 240 utilizzi |
-| Sottoattività Agent Swarm simultanee | 2 | 4 | 4 | 8 |
-| Credit Kimi Code | 1× | 5× | 15× | 30× |
-| Kimi Claw | — | ✅ | ✅ | ✅ |
-| Kimi Claw Android | — | ✅ | ✅ | ✅ |
+| Attività Agent simultanee | 2 attività | 2 attività | 4 attività | 4 attività |
+| Coda prioritaria Agent | velocità 4× | velocità 4× | velocità 4× | velocità 4× |
+| Capacità chat extra-lunga K3 (fino a 1M token) | — | — | ✅ | ✅ |
+| Bacheca personalizzabile | ✅ | ✅ | ✅ | ✅ |
+| Attività pianificate | 10 attività | 15 attività | 20 attività | 25 attività |
+| Attività widget | 10 attività | 15 attività | 20 attività | 25 attività |
+| Progetti | 20 progetti | 20 progetti | 100 progetti | 100 progetti |
+| Spazio di archiviazione progetti | 20GB | 20GB | 50GB | 50GB |
+| Plugin | oltre 15 tipi supportati | oltre 15 tipi supportati | oltre 15 tipi supportati | oltre 15 tipi supportati |
+| Agent Swarm | ✅ | ✅ | ✅ | ✅ |
+| Sottoattività Agent Swarm simultanee | 2 sotto-agenti | 4 sotto-agenti | 8 sotto-agenti | 8 sotto-agenti |
+| Dream Memory | ✅ | ✅ | ✅ | ✅ |
+| Competenze autoevolutive | ✅ | ✅ | ✅ | ✅ |
+| Modalità obiettivo | — | ✅ | ✅ | ✅ |
+| Kimi Code | Disponibile | Disponibile | Disponibile | Disponibile |
+| Kimi Claw (Web, Android, PC) | — | ✅ | ✅ | ✅ |
+| Chat di gruppo con Claw | — | 10 chat di gruppo | 10 chat di gruppo | 10 chat di gruppo |
 | Database professionale | 2.000 chiamate | 5.000 chiamate | 12.000 chiamate | 24.000 chiamate |
+| Distribuzione di un sito web con database | ✅ | ✅ | ✅ | ✅ |
 
 \* Valori approssimativi basati sul consumo tipico di token per attività. I credit mensili sono convertiti nel numero equivalente di attività per la stessa funzionalità; solo a titolo indicativo.
 
@@ -45,6 +66,30 @@ Kimi offre quattro livelli di abbonamento, ciascuno disponibile con sottoscrizio
 Tutte le funzionalità dell’abbonamento Kimi condividono un unico pool di credit, misurato in base all’utilizzo dei token. Kimi Code ha inoltre un proprio rate limit settimanale di 5 ore, valido solo per Kimi Code e senza effetto sulle altre funzionalità. In Chat, K2.6 è gratuito e non consuma credit. I livelli superiori includono un pool di credit proporzionalmente più ampio, adatto a workflow più frequenti e complessi. Per i dettagli, consulta [Aggiornamento dei credit e regole d’uso](/membership/update-rules).
 
 ## Domande frequenti sui credit
+
+### Come posso controllare il mio utilizzo dei credit?
+
+- **Web**: fai clic sul tuo avatar nell'angolo in basso a sinistra → Impostazioni → Abbonamento
+- **App**: Profilo → Piano di abbonamento → Abbonamento
+
+Puoi visualizzare il saldo attuale dei credit in percentuale, l'orario del prossimo rinnovo e gli ultimi 1.000 record di utilizzo, che includono data e ora di utilizzo, funzionalità e percentuale di consumo.
+
+<Callout type="tip">
+I dettagli di utilizzo potrebbero avere un breve ritardo. Fai riferimento alla visualizzazione attuale dei credit.
+</Callout>
+
+### Cosa succede se esaurisco i miei credit?
+
+Le attività già in corso possono essere completate normalmente. Le nuove attività mostreranno un avviso di credit insufficienti. Puoi:
+
+- Attendere il rinnovo automatico mensile dei credit (anche il limite di utilizzo separato di 5 ore/settimanale di Kimi Code si azzera autonomamente e riguarda solo Kimi Code)
+- Passare a un piano di abbonamento di livello superiore per ottenere più credit
+- Acquistare un [pacchetto Extra Usage](/membership/membership-extra-usage): una volta attivato, paghi in base al consumo effettivo e non devi attendere il rinnovo dei credit
+- Partecipare alle campagne ufficiali per ricevere credit bonus
+
+### Posso usare tutti i miei credit su una sola funzionalità?
+
+Sì. Tutte le funzionalità dell'abbonamento condividono un unico pool di credit, che puoi distribuire come preferisci. Tieni presente che se una funzionalità esaurisce tutti i credit, ne risentiranno anche le altre. Kimi Code ha inoltre un proprio rate limit separato di 5 ore/settimanale, valido solo per Kimi Code.
 
 ### Che cos’è l’addebito dello 0.6% di “Claw-云主机” detratto ogni giorno alle 16:00?
 

@@ -20,22 +20,51 @@ Kimi는 일상적인 생산성 작업부터 파워 유저의 워크플로까지,
 
 ## 플랜 비교
 
+<Frames
+  src="./images/membership/overview-01.png"
+  alt="Membership subscription page - plan overview"
+/>
+
 | 기능 | Moderato $19/월 | Allegretto $39/월 | Allegro $99/월 | Vivace $199/월 |
 | --- | --- | --- | --- | --- |
 | Agent credit* | 60 | 150 | 360 | 720 |
 | Agent 동시 작업 | 2 | 2 | 4 | 4 |
 | Agent 속도 우선순위 | 4× | 4× | 4× | 4× |
-| Agent Swarm (beta) | 25회 | 50회 | 120회 | 240회 |
-| Agent Swarm 동시 하위 작업 | 2 | 4 | 4 | 8 |
-| Kimi Code credit | 1× | 5× | 15× | 30× |
-| Kimi Claw | — | ✅ | ✅ | ✅ |
-| Kimi Claw Android | — | ✅ | ✅ | ✅ |
 | 전문 데이터베이스 | 2,000회 호출 | 5,000회 호출 | 12,000회 호출 | 24,000회 호출 |
+| Kimi Code | 사용 가능 | 사용 가능 | 사용 가능 | 사용 가능 |
 
 \* 일반적인 작업의 token 사용량을 기준으로 한 대략적인 값입니다. 월간 credit은 동일 기능에서 수행 가능한 작업 수로 환산한 것이며, 참고용으로만 제공됩니다.
 
+## 나에게 맞는 플랜 찾기
+
+<Frames
+  src="./images/membership/overview-03.png"
+  alt="Find your perfect plan"
+/>
+
+| 기능 | Moderato $19/월 | Allegretto $39/월 | Allegro $99/월 | Vivace $199/월 |
+| --- | --- | --- | --- | --- |
+| Agent 동시 작업 | 2개 | 2개 | 4개 | 4개 |
+| Agent 우선순위 대기열 | 4× 속도 | 4× 속도 | 4× 속도 | 4× 속도 |
+| K3 초장문 대화(최대 100만 token) | — | — | ✅ | ✅ |
+| 맞춤형 대시보드 | ✅ | ✅ | ✅ | ✅ |
+| 예약 작업 | 10개 | 15개 | 20개 | 25개 |
+| 위젯 작업 | 10개 | 15개 | 20개 | 25개 |
+| 프로젝트 | 20개 | 20개 | 100개 | 100개 |
+| 프로젝트 저장 공간 | 20GB | 20GB | 50GB | 50GB |
+| 플러그인 | 15개 이상 유형 지원 | 15개 이상 유형 지원 | 15개 이상 유형 지원 | 15개 이상 유형 지원 |
+| Agent Swarm | ✅ | ✅ | ✅ | ✅ |
+| Agent Swarm 동시 하위 작업 | 2개 | 4개 | 8개 | 8개 |
+| Dream Memory | ✅ | ✅ | ✅ | ✅ |
+| 스스로 진화하는 Skills | ✅ | ✅ | ✅ | ✅ |
+| 목표 모드 | — | ✅ | ✅ | ✅ |
+| Kimi Code | 사용 가능 | 사용 가능 | 사용 가능 | 사용 가능 |
+| Kimi Claw (Web, Android, PC) | — | ✅ | ✅ | ✅ |
+| Claw 그룹 채팅 | — | 그룹 채팅 10개 | 그룹 채팅 10개 | 그룹 채팅 10개 |
+| 데이터베이스가 포함된 웹사이트 배포 | ✅ | ✅ | ✅ | ✅ |
+
 <Callout type="tip">
-동일한 기능에 전체 credit 한도를 사용할 수 있습니다
+credit 풀 전체를 하나의 기능에 모두 사용할 수 있습니다. 다만 그럴 경우 다른 기능에 쓸 수 있는 credit이 줄어든다는 점을 유념하세요. 참고로 Kimi Code에는 이와 무관하게 별도의 5시간/주간 rate limit이 적용됩니다.
 </Callout>
 
 ## 결제 방식

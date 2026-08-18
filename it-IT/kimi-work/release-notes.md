@@ -15,6 +15,24 @@ preview: false
 
 Questa pagina raccoglie gli aggiornamenti di versione di Kimi Work, tra cui nuove funzionalità, modifiche e correzioni, ed è aggiornata regolarmente. Scarica l’ultima versione: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.0 (2026-08-18)
+
+**Novità**
+
+- Aggiunto un browser integrato per l’Agent: le schede del browser sono associate alle conversazioni e si trovano nell’area di anteprima, e l’Agent può controllare direttamente il browser — fare clic, digitare e altro ancora; su Mac puoi anche importare i cookie dal tuo browser Chrome locale per riutilizzare le sessioni di accesso esistenti (disattivato per impostazione predefinita e attivabile nelle Impostazioni)
+- Localizzazione in 16 lingue: il client ora supporta 16 lingue, rispetto alle sole lingue cinese e inglese precedenti
+
+**Modifiche**
+
+- Kimi WebBridge è ora un plugin: il controllo del browser reale è stato spostato in un plugin, disattivato per impostazione predefinita e attivabile nelle Impostazioni
+- La pagina dell’elenco delle bacheche è stata rimossa; ora puoi passare da una bacheca all’altra tramite la barra delle schede in alto
+- La bacheca è ora un tipo di contenuto dell’area di anteprima: le bacheche possono essere aperte nell’area di anteprima della chat e più bacheche possono essere aperte in parallelo
+
+**Correzioni**
+
+- Migliorato il rendering in streaming dei messaggi: le risposte lunghe ora vengono visualizzate in modo più fluido
+- Sono stati corretti alcuni bug e migliorate alcune interazioni e la stabilità
+
 ## 3.1.10 (2026-08-16)
 
 **Correzioni**

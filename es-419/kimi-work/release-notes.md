@@ -15,6 +15,24 @@ preview: false
 
 Esta página registra las actualizaciones de versión de Kimi Work, incluidas nuevas funciones, cambios y correcciones, y se actualiza constantemente. Descarga la versión más reciente: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.0 (2026-08-18)
+
+**Novedades**
+
+- Nuevo navegador integrado del Agent: las pestañas del navegador se vinculan a las conversaciones y se agrupan en el área de vista previa, y el Agent puede operar el navegador directamente para hacer clic, escribir y más; en Mac, también puedes importar cookies desde tu navegador Chrome local para reutilizar tus sesiones de inicio de sesión existentes (desactivado de forma predeterminada; se puede activar en Configuración)
+- Localización en 16 idiomas: el idioma del cliente pasa del chino y el inglés a 16 idiomas
+
+**Cambios**
+
+- Kimi WebBridge ahora es un plugin: el control del navegador real se ha trasladado a un plugin, desactivado de forma predeterminada y se puede activar en Configuración
+- Se eliminó la página de lista de tableros; ahora los tableros se cambian mediante la barra de pestañas superior
+- El tablero ahora es un tipo del área de vista previa: los tableros se pueden abrir en el área de vista previa del chat, con varios tableros abiertos en paralelo
+
+**Correcciones**
+
+- Renderizado en streaming de mensajes mejorado: las respuestas largas ahora se muestran de forma más fluida
+- Se corrigieron varios errores y se mejoraron algunas interacciones y la estabilidad
+
 ## 3.1.10 (2026-08-16)
 
 **Correcciones**

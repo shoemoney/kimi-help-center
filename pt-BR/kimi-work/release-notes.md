@@ -15,6 +15,24 @@ preview: false
 
 Esta página registra as atualizações de versão do Kimi Work, incluindo novos recursos, alterações e correções, e é atualizada continuamente. Baixe a versão mais recente: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.0 (2026-08-18)
+
+**Novidades**
+
+- Novo navegador integrado ao Agent: as guias do navegador são vinculadas às conversas e ficam na área de visualização, e o Agent pode operar o navegador diretamente — clicando, digitando e muito mais; no Mac, também é possível importar cookies do Chrome local para reutilizar suas sessões de login existentes (desativado por padrão; pode ser ativado nas Configurações)
+- Localização em 16 idiomas: o cliente agora suporta 16 idiomas, antes disponível apenas em chinês e inglês
+
+**Alterações**
+
+- O Kimi WebBridge agora é um plugin: o controle do navegador real foi movido para um plugin, que fica desativado por padrão e pode ser ativado nas Configurações
+- A página de lista de painéis foi removida; os painéis agora são alternados pela barra de guias superior
+- O painel agora é um tipo da área de visualização: os painéis podem ser abertos na área de visualização da conversa, com suporte a vários painéis abertos em paralelo
+
+**Correções**
+
+- Atualização da renderização de mensagens em streaming: respostas longas agora são exibidas com mais fluidez
+- Correção de alguns bugs e melhoria de algumas interações e da estabilidade
+
 ## 3.1.10 (2026-08-16)
 
 **Correções**

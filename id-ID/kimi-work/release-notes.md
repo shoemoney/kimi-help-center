@@ -15,6 +15,24 @@ preview: false
 
 Halaman ini mencatat pembaruan versi Kimi Work, termasuk fitur baru, perubahan, dan perbaikan, dan terus diperbarui. Unduh versi terbaru: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.0 (2026-08-18)
+
+**Baru**
+
+- Menambahkan browser bawaan Agent: tab browser terikat pada percakapan dan berada di area pratinjau, dan Agent dapat mengoperasikan browser secara langsung — mengklik, mengetik, dan lainnya; di Mac, Anda juga dapat mengimpor cookie dari browser Chrome lokal untuk menggunakan kembali sesi login yang sudah ada (nonaktif secara default dan dapat diaktifkan di Pengaturan)
+- Lokalisasi dalam 16 bahasa: klien kini mendukung 16 bahasa, naik dari sebelumnya hanya bahasa Mandarin dan Inggris
+
+**Perubahan**
+
+- Kimi WebBridge kini menjadi plugin: kontrol browser nyata telah dipindahkan ke bentuk plugin, yang nonaktif secara default dan dapat diaktifkan di Pengaturan
+- Halaman daftar dasbor telah dihapus; kini Anda berpindah antar dasbor melalui bilah tab di bagian atas
+- Dasbor kini menjadi jenis area pratinjau: dasbor dapat dibuka di area pratinjau percakapan, dan beberapa dasbor dapat dibuka secara paralel
+
+**Perbaikan**
+
+- Rendering pesan streaming ditingkatkan: respons panjang kini dirender lebih mulus
+- Memperbaiki beberapa bug dan meningkatkan beberapa interaksi dan stabilitas
+
 ## 3.1.10 (2026-08-16)
 
 **Perbaikan**

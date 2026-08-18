@@ -15,6 +15,24 @@ preview: false
 
 Trang này ghi lại nội dung cập nhật theo phiên bản của Kimi Work, bao gồm tính năng mới, thay đổi và bản sửa lỗi, và được cập nhật liên tục. Tải xuống phiên bản mới nhất: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.0 (2026-08-18)
+
+**Mới**
+
+- Ra mắt trình duyệt tích hợp sẵn của Agent: các tab trình duyệt được gắn với cuộc trò chuyện và nằm trong khu vực xem trước, Agent có thể trực tiếp thao tác trình duyệt — nhấp chuột, nhập liệu và hơn thế nữa; trên Mac, bạn còn có thể nhập cookie từ trình duyệt Chrome trên máy để tái sử dụng các phiên đăng nhập hiện có (mặc định tắt, có thể bật trong Cài đặt)
+- Bản địa hóa 16 ngôn ngữ: client hiện hỗ trợ 16 ngôn ngữ, thay vì chỉ tiếng Trung và tiếng Anh
+
+**Thay đổi**
+
+- Kimi WebBridge giờ là một plugin: tính năng điều khiển trình duyệt thật đã được chuyển thành plugin, mặc định tắt và có thể bật trong Cài đặt
+- Đã loại bỏ trang danh sách bảng; các bảng giờ được chuyển đổi qua thanh tab trên cùng
+- Bảng giờ là một loại khu vực xem trước: có thể mở bảng trong khu vực xem trước của cuộc trò chuyện, và nhiều bảng có thể được mở song song
+
+**Sửa lỗi**
+
+- Nâng cấp hiển thị tin nhắn truyền trực tuyến: các câu trả lời dài giờ hiển thị mượt mà hơn
+- Đã sửa một số lỗi và cải thiện một số tương tác cùng độ ổn định
+
 ## 3.1.10 (2026-08-16)
 
 **Sửa lỗi**

@@ -15,6 +15,24 @@ preview: false
 
 Bu sayfa, Kimi Work sürüm güncellemelerini (yeni özellikler, değişiklikler ve düzeltmeler) kaydeder ve sürekli güncellenir. En son sürümü indirin: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.0 (2026-08-18)
+
+**Yeni**
+
+- Agent için yerleşik tarayıcı eklendi: tarayıcı sekmeleri sohbetlere bağlanır ve önizleme alanında yer alır; Agent tarayıcıyı doğrudan kullanabilir — tıklama, yazma ve daha fazlası; Mac'te ayrıca mevcut oturumlarınızı yeniden kullanmak için yerel Chrome tarayıcınızdan çerezleri içe aktarabilirsiniz (varsayılan olarak kapalıdır, Ayarlar'dan etkinleştirilebilir)
+- 16 dilde yerelleştirme: istemci dili yalnızca Çince ve İngilizce'den 16 dile genişletildi
+
+**Değişiklikler**
+
+- Kimi WebBridge artık bir eklenti: gerçek tarayıcı kontrolü eklenti biçimine taşındı; varsayılan olarak kapalıdır, Ayarlar'dan etkinleştirilebilir
+- Pano listesi sayfası kaldırıldı; panolar artık üstteki sekme çubuğundan değiştiriliyor
+- Önizleme alanı artık pano türünü destekliyor: panolar sohbet önizleme alanında açılabilir ve birden fazla pano paralel olarak açık tutulabilir
+
+**Düzeltmeler**
+
+- Akışlı mesaj oluşturma yükseltildi: uzun yanıtlar artık daha akıcı görüntüleniyor
+- Bazı hatalar düzeltildi ve bazı etkileşimler ile kararlılık iyileştirildi
+
 ## 3.1.10 (2026-08-16)
 
 **Düzeltmeler**

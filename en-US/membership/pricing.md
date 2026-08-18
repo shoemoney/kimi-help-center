@@ -17,17 +17,38 @@ Kimi offers four membership tiers, each available as a monthly or annual subscri
 
 ## Plans at a glance
 
+<Frames
+  src="./images/membership/overview-01.png"
+  alt="Membership subscription page - plan overview"
+/>
+
+<Frames
+  src="./images/membership/overview-03.png"
+  alt="Find your perfect plan"
+/>
+
 | Feature | Moderato ($19/mo) | Allegretto ($39/mo) | Allegro ($99/mo) | Vivace ($199/mo) |
 |---------|-------------------|---------------------|-------------------|-------------------|
 | Agent credits* | 60 | 150 | 360 | 720 |
-| Agent concurrent tasks | 2 | 2 | 4 | 4 |
-| Agent speed priority | 4× | 4× | 4× | 4× |
-| Agent Swarm (beta) | 25 uses | 50 uses | 120 uses | 240 uses |
-| Agent Swarm concurrent subtasks | 2 | 4 | 4 | 8 |
-| Kimi Code credits | 1× | 5× | 15× | 30× |
-| Kimi Claw | — | ✅ | ✅ | ✅ |
-| Kimi Claw Android | — | ✅ | ✅ | ✅ |
+| Agent concurrent tasks | 2 tasks | 2 tasks | 4 tasks | 4 tasks |
+| Agent priority queue | 4× speed | 4× speed | 4× speed | 4× speed |
+| K3 extra-long chat capacity (up to 1M tokens) | — | — | ✅ | ✅ |
+| Customizable dashboard | ✅ | ✅ | ✅ | ✅ |
+| Scheduled tasks | 10 tasks | 15 tasks | 20 tasks | 25 tasks |
+| Widget tasks | 10 tasks | 15 tasks | 20 tasks | 25 tasks |
+| Projects | 20 projects | 20 projects | 100 projects | 100 projects |
+| Project storage | 20GB | 20GB | 50GB | 50GB |
+| Plugins | 15+ types supported | 15+ types supported | 15+ types supported | 15+ types supported |
+| Agent Swarm | ✅ | ✅ | ✅ | ✅ |
+| Agent Swarm concurrent subtasks | 2 subagents | 4 subagents | 8 subagents | 8 subagents |
+| Dream Memory | ✅ | ✅ | ✅ | ✅ |
+| Self-evolving skills | ✅ | ✅ | ✅ | ✅ |
+| Goal Mode | — | ✅ | ✅ | ✅ |
+| Kimi Code | Available | Available | Available | Available |
+| Kimi Claw (Web, Android, PC) | — | ✅ | ✅ | ✅ |
+| Group chat with Claw | — | 10 group chats | 10 group chats | 10 group chats |
 | Professional database | 2,000 calls | 5,000 calls | 12,000 calls | 24,000 calls |
+| Deploy a website with a database | ✅ | ✅ | ✅ | ✅ |
 
 \* Approximate values based on typical task token consumption. Monthly credits are converted to the equivalent number of tasks for the same feature; for reference only.
 
@@ -45,6 +66,19 @@ Kimi offers four membership tiers, each available as a monthly or annual subscri
 All Kimi membership features share a single credit pool, metered by token usage. Kimi Code also has its own 5-hour / weekly rate limit that applies only to Kimi Code and does not affect other features. In Chat, K2.6 is free and does not consume credits. Higher tiers include a proportionally larger credit pool, supporting more frequent and complex workflows. See [Credit Update & Usage Rules](/membership/update-rules) for details.
 
 ## Credit FAQ
+
+### What if I use up my credits?
+
+Tasks already in progress can be completed normally. New tasks will show an insufficient credit prompt. You can:
+
+- Wait for credits to refresh automatically each month (Kimi Code's separate 5-hour/weekly usage limit also resets on its own and only affects Kimi Code)
+- Upgrade to a higher-tier membership plan for more credits
+- Purchase an [Extra Usage pack](/membership/membership-extra-usage): once enabled, you pay as you go and don't need to wait for credits to refresh
+- Join official campaigns to receive bonus credits
+
+### Can I use all my credits on one feature?
+
+Yes. All membership features share a single credit pool, and you can allocate it as you like. Keep in mind that if one feature uses up all the credits, it will affect the other features too. Kimi Code also has its own separate 5-hour/weekly rate limit that applies only to Kimi Code.
 
 ### What is the “Claw-云主机” 0.6% charge deducted every day at 4 PM?
 

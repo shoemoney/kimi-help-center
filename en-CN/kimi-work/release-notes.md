@@ -15,7 +15,7 @@ preview: false
 
 This page tracks Kimi Work version updates, including new features, changes, and fixes, and is updated regularly. Download the latest version: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
-## 3.2.0 (2026-08-18)
+## 3.2.0 (2026-08-19)
 
 **New**
 

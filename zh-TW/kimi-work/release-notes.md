@@ -15,7 +15,7 @@ preview: false
 
 本文記錄 Kimi Work 的版本更新內容，包括新增功能、變更與修復，並持續更新。最新版本下載：[kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
-## 3.2.0（2026-08-18）
+## 3.2.0（2026-08-19）
 
 **新增**
 

@@ -33,7 +33,7 @@ Tanpa persetujuan Anda, kecuali diwajibkan oleh hukum atau diperlukan untuk mewu
 
 ## Di mana data saya disimpan? Apakah aman?
 
-Data Anda disimpan di lingkungan server yang berlokasi di Tiongkok daratan dan memenuhi standar keamanan. Kami menerapkan langkah teknis dan manajerial seperti enkripsi data serta kontrol akses untuk mencegah akses, kebocoran, atau kehilangan yang tidak sah.
+Data Anda disimpan di lingkungan server yang berlokasi di Malaysia dan memenuhi standar keamanan. Kami menerapkan langkah teknis dan manajerial seperti enkripsi data serta kontrol akses untuk mencegah akses, kebocoran, atau kehilangan yang tidak sah.
 
 ## Apakah data pengguna enterprise digunakan untuk pelatihan model?
 

@@ -33,7 +33,7 @@ Sans votre consentement, sauf exigence légale ou nécessité pour assurer les f
 
 ## Où mes données sont-elles stockées ? Sont-elles en sécurité ?
 
-Vos données sont stockées dans des environnements serveur situés en Chine continentale et conformes aux normes de sécurité. Nous appliquons des mesures techniques et organisationnelles, telles que le chiffrement des données et le contrôle des accès, afin de prévenir tout accès non autorisé, toute fuite ou toute perte.
+Vos données sont stockées dans des environnements serveur situés en Malaisie et conformes aux normes de sécurité. Nous appliquons des mesures techniques et organisationnelles, telles que le chiffrement des données et le contrôle des accès, afin de prévenir tout accès non autorisé, toute fuite ou toute perte.
 
 ## Les données des utilisateurs entreprise sont-elles utilisées pour l’entraînement du modèle ?
 

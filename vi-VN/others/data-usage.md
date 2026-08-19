@@ -33,7 +33,7 @@ Trừ khi có sự đồng ý của bạn, theo yêu cầu của pháp luật ho
 
 ## Dữ liệu của tôi được lưu trữ ở đâu? Có an toàn không?
 
-Dữ liệu của bạn được lưu trữ trong môi trường máy chủ đặt tại Trung Quốc đại lục, đáp ứng các tiêu chuẩn an toàn. Chúng tôi áp dụng các biện pháp kỹ thuật và quản lý như mã hóa dữ liệu, kiểm soát truy cập để ngăn chặn việc truy cập trái phép, rò rỉ hoặc mất mát.
+Dữ liệu của bạn được lưu trữ trong môi trường máy chủ đặt tại Malaysia, đáp ứng các tiêu chuẩn an toàn. Chúng tôi áp dụng các biện pháp kỹ thuật và quản lý như mã hóa dữ liệu, kiểm soát truy cập để ngăn chặn việc truy cập trái phép, rò rỉ hoặc mất mát.
 
 ## Dữ liệu của người dùng doanh nghiệp có được dùng để huấn luyện mô hình không?
 

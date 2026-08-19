@@ -33,7 +33,7 @@ Senza il tuo consenso, e salvo che sia richiesto dalla legge o necessario per fo
 
 ## Dove vengono archiviati i miei dati? Sono al sicuro?
 
-I tuoi dati sono archiviati su server situati nella Cina continentale, in ambienti conformi agli standard di sicurezza. Adottiamo misure tecniche e organizzative, come la crittografia dei dati e il controllo degli accessi, per prevenire accessi non autorizzati, fughe di dati o perdite.
+I tuoi dati sono archiviati su server situati in Malesia, in ambienti conformi agli standard di sicurezza. Adottiamo misure tecniche e organizzative, come la crittografia dei dati e il controllo degli accessi, per prevenire accessi non autorizzati, fughe di dati o perdite.
 
 ## I dati degli utenti aziendali vengono usati per l’addestramento del modello?
 

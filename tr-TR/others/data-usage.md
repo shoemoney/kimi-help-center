@@ -33,7 +33,7 @@ Onayınız, yasal zorunluluklar veya ürün işlevlerini gerçekleştirmek için
 
 ## Verilerim nerede saklanıyor? Güvende mi?
 
-Verileriniz, güvenlik standartlarını karşılayan ve Çin anakarasında bulunan sunucu ortamlarında saklanır. Yetkisiz erişimi, sızıntıyı veya kaybı önlemek için veri şifreleme ve erişim kontrolü gibi teknik ve yönetsel önlemler alıyoruz.
+Verileriniz, güvenlik standartlarını karşılayan ve Malezya'da bulunan sunucu ortamlarında saklanır. Yetkisiz erişimi, sızıntıyı veya kaybı önlemek için veri şifreleme ve erişim kontrolü gibi teknik ve yönetsel önlemler alıyoruz.
 
 ## Kurumsal kullanıcı verileri model eğitiminde kullanılıyor mu?
 

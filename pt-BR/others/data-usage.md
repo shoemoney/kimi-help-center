@@ -33,7 +33,7 @@ Sem o seu consentimento, salvo exigência legal ou necessidade para viabilizar a
 
 ## Onde meus dados são armazenados? São seguros?
 
-Seus dados são armazenados em servidores localizados na China continental, em ambiente que atende aos padrões de segurança. Adotamos medidas técnicas e administrativas, como criptografia de dados e controle de acesso, para evitar acessos não autorizados, vazamentos ou perdas.
+Seus dados são armazenados em servidores localizados na Malásia, em ambiente que atende aos padrões de segurança. Adotamos medidas técnicas e administrativas, como criptografia de dados e controle de acesso, para evitar acessos não autorizados, vazamentos ou perdas.
 
 ## Os dados de usuários empresariais são usados no treinamento do modelo?
 

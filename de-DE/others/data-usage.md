@@ -33,7 +33,7 @@ Ohne Ihre Einwilligung, eine gesetzliche Verpflichtung oder die Erforderlichkeit
 
 ## Wo werden meine Daten gespeichert? Sind sie sicher?
 
-Ihre Daten werden auf Servern innerhalb des chinesischen Festlands gespeichert, die den Sicherheitsstandards entsprechen. Wir ergreifen technische und organisatorische Maßnahmen wie Datenverschlüsselung und Zugriffskontrollen, um unbefugten Zugriff, Offenlegung oder Verlust zu verhindern.
+Ihre Daten werden auf Servern in Malaysia gespeichert, die den Sicherheitsstandards entsprechen. Wir ergreifen technische und organisatorische Maßnahmen wie Datenverschlüsselung und Zugriffskontrollen, um unbefugten Zugriff, Offenlegung oder Verlust zu verhindern.
 
 ## Werden die Daten von Unternehmensnutzern für das Modelltraining verwendet?
 

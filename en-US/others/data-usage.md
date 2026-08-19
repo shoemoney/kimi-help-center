@@ -33,7 +33,7 @@ Without your consent, a legal requirement, or the necessity to provide product f
 
 ## Where is my data stored? Is it secure?
 
-Your data is stored in a secure, standards-compliant server environment located within mainland China. We employ technical and administrative measures, including data encryption and access controls, to guard against unauthorized access, disclosure, or loss.
+Your data is stored in a secure, standards-compliant server environment located in Malaysia. We employ technical and administrative measures, including data encryption and access controls, to guard against unauthorized access, disclosure, or loss.
 
 ## Will enterprise users' data be used for model training?
 

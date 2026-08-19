@@ -33,7 +33,7 @@ Sin tu consentimiento, salvo que la ley lo exija o sea necesario para habilitar 
 
 ## ¿Dónde se almacenan mis datos? ¿Es seguro?
 
-Tus datos se almacenan en servidores ubicados en China continental que cumplen con los estándares de seguridad. Aplicamos medidas técnicas y de gestión, como el cifrado de datos y el control de acceso, para protegerlos contra el acceso no autorizado, la filtración o la pérdida.
+Tus datos se almacenan en servidores ubicados en Malasia que cumplen con los estándares de seguridad. Aplicamos medidas técnicas y de gestión, como el cifrado de datos y el control de acceso, para protegerlos contra el acceso no autorizado, la filtración o la pérdida.
 
 ## ¿Los datos de los usuarios empresariales se usan para entrenar el modelo?
 

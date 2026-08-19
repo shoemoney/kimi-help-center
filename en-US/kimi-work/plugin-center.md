@@ -37,7 +37,3 @@ Once a plugin is installed, Kimi Work can operate these common office tools dire
 1. Open the latest Kimi desktop client, switch to "Work" mode in the left sidebar, and click "Plugins" to enter the Plugin Center;
 2. Find and install the plugins you need under "Installed" and "Featured plugins";
 3. Type a slash "/" in the input box and select the plugin you want to call.
-
-## Bring Your Product to Kimi
-
-If you want to connect your product or service to Kimi and apply for listing in the official Kimi plugin marketplace, see [List a Plugin in the Official Marketplace](/kimi-work/plugin-submission-guide) to create, test, and submit your plugin.

@@ -50,10 +50,6 @@ The plugin marketplace is organized into the categories below. The plugins you a
 - **Creative**: Inspiration Pool, Image Generation, Video Generation, Audio Generation, Canva
 - **General**: Vivify
 
-## Bring Your Product to Kimi
-
-If you want to connect your product or service to Kimi and apply for listing in the official Kimi plugin marketplace, see [List a Plugin in the Official Marketplace](/kimi-work/plugin-submission-guide) to create, test, and submit your plugin.
-
 ## Credits
 
 Some plugins call tools or services to complete a task and **consume your membership credits based on actual usage**; plugins with no call cost don't incur extra charges.

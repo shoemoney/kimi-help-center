@@ -7,8 +7,8 @@ preview: false
 ---
 
 <SeoMeta
-  title="Utilisation et partage des données : entraînement du modèle, partage avec des tiers et stockage - Centre d’aide Kimi"
-  description="Utilisation des données de conversation Kimi : vos données sont-elles utilisées pour l’entraînement du modèle, comment vous y opposer, sont-elles partagées avec des tiers, où sont-elles stockées et quelles mesures de sécurité s’appliquent."
+  title="Utilisation et partage des données : entraînement du modèle et partage avec des tiers - Centre d’aide Kimi"
+  description="Utilisation des données de conversation Kimi : vos données sont-elles utilisées pour l’entraînement du modèle, comment vous y opposer et sont-elles partagées avec des tiers."
 />
 
 # Utilisation et partage des données
@@ -30,10 +30,6 @@ Si vous ne souhaitez pas que vos données de conversation soient utilisées pour
 ## Mes données seront-elles partagées avec des tiers ?
 
 Sans votre consentement, sauf exigence légale ou nécessité pour assurer les fonctionnalités du produit, nous ne partageons, ne vendons ni ne fournissons vos données de conversation personnelles à aucun tiers (y compris les sociétés affiliées, partenaires, annonceurs, etc.), et ne les utilisons pas à des fins sans rapport avec la fourniture du service. Pour plus de détails, consultez l’article 4.2 de la [Politique de confidentialité de Kimi](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
-
-## Où mes données sont-elles stockées ? Sont-elles en sécurité ?
-
-Vos données sont stockées dans des environnements serveur situés en Malaisie et conformes aux normes de sécurité. Nous appliquons des mesures techniques et organisationnelles, telles que le chiffrement des données et le contrôle des accès, afin de prévenir tout accès non autorisé, toute fuite ou toute perte.
 
 ## Les données des utilisateurs entreprise sont-elles utilisées pour l’entraînement du modèle ?
 

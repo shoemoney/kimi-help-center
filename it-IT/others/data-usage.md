@@ -7,8 +7,8 @@ preview: false
 ---
 
 <SeoMeta
-  title="Uso e condivisione dei dati: addestramento del modello, condivisione con terze parti e archiviazione - Centro assistenza Kimi"
-  description="Come Kimi utilizza i dati delle conversazioni: se i dati vengono usati per l’addestramento del modello, come rinunciare all’addestramento, se i dati vengono condivisi con terze parti, dove vengono archiviati e con quali misure di sicurezza."
+  title="Uso e condivisione dei dati: addestramento del modello e condivisione con terze parti - Centro assistenza Kimi"
+  description="Come Kimi utilizza i dati delle conversazioni: se i dati vengono usati per l’addestramento del modello, come rinunciare all’addestramento e se i dati vengono condivisi con terze parti."
 />
 
 # Uso e condivisione dei dati
@@ -30,10 +30,6 @@ Se non desideri che i dati delle tue conversazioni vengano utilizzati per l’ad
 ## I miei dati vengono condivisi con terze parti?
 
 Senza il tuo consenso, e salvo che sia richiesto dalla legge o necessario per fornire le funzionalità del prodotto, non condividiamo, vendiamo né forniamo a terze parti (incluse società affiliate, partner, inserzionisti ecc.) i dati delle tue conversazioni personali, né li utilizziamo per scopi estranei alla fornitura del servizio. Per i dettagli, consulta l’articolo 4.2 dell’[Informativa sulla privacy di Kimi](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
-
-## Dove vengono archiviati i miei dati? Sono al sicuro?
-
-I tuoi dati sono archiviati su server situati in Malesia, in ambienti conformi agli standard di sicurezza. Adottiamo misure tecniche e organizzative, come la crittografia dei dati e il controllo degli accessi, per prevenire accessi non autorizzati, fughe di dati o perdite.
 
 ## I dati degli utenti aziendali vengono usati per l’addestramento del modello?
 

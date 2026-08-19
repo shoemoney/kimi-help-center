@@ -7,8 +7,8 @@ preview: false
 ---
 
 <SeoMeta
-  title="Giải thích về việc sử dụng và chia sẻ dữ liệu: huấn luyện mô hình, chia sẻ với bên thứ ba và lưu trữ - Trung tâm trợ giúp Kimi"
-  description="Giải thích về cách Kimi sử dụng dữ liệu hội thoại: dữ liệu có được dùng cho huấn luyện mô hình không, cách từ chối tham gia huấn luyện mô hình, dữ liệu có được chia sẻ cho bên thứ ba không, vị trí lưu trữ dữ liệu và các biện pháp an toàn."
+  title="Giải thích về việc sử dụng và chia sẻ dữ liệu: huấn luyện mô hình và chia sẻ với bên thứ ba - Trung tâm trợ giúp Kimi"
+  description="Giải thích về cách Kimi sử dụng dữ liệu hội thoại: dữ liệu có được dùng cho huấn luyện mô hình không, cách từ chối tham gia huấn luyện mô hình và dữ liệu có được chia sẻ cho bên thứ ba không."
 />
 
 # Giải thích về việc sử dụng và chia sẻ dữ liệu
@@ -30,10 +30,6 @@ Nếu bạn không muốn dữ liệu hội thoại của mình được dùng c
 ## Dữ liệu có được chia sẻ cho bên thứ ba không?
 
 Trừ khi có sự đồng ý của bạn, theo yêu cầu của pháp luật hoặc cần thiết để thực hiện các chức năng sản phẩm, chúng tôi sẽ không chia sẻ, bán hoặc cung cấp dữ liệu hội thoại cá nhân của bạn cho bất kỳ bên thứ ba nào (bao gồm công ty liên kết, đối tác, nhà quảng cáo, v.v.), cũng như không sử dụng dữ liệu cho các mục đích không liên quan đến việc cung cấp dịch vụ. Thỏa thuận cụ thể xem tại Điều 4.2 của [Chính sách quyền riêng tư của Kimi](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
-
-## Dữ liệu của tôi được lưu trữ ở đâu? Có an toàn không?
-
-Dữ liệu của bạn được lưu trữ trong môi trường máy chủ đặt tại Malaysia, đáp ứng các tiêu chuẩn an toàn. Chúng tôi áp dụng các biện pháp kỹ thuật và quản lý như mã hóa dữ liệu, kiểm soát truy cập để ngăn chặn việc truy cập trái phép, rò rỉ hoặc mất mát.
 
 ## Dữ liệu của người dùng doanh nghiệp có được dùng để huấn luyện mô hình không?
 

@@ -7,8 +7,8 @@ preview: false
 ---
 
 <SeoMeta
-  title="Data Usage and Sharing: Model Training, Third-Party Sharing & Storage - Kimi Help Center"
-  description="How Kimi uses conversation data: whether it is used for model training, how to opt out, whether data is shared with third parties, and where your data is stored."
+  title="Data Usage and Sharing: Model Training & Third-Party Sharing - Kimi Help Center"
+  description="How Kimi uses conversation data: whether it is used for model training, how to opt out, and whether data is shared with third parties."
 />
 
 # Data Usage and Sharing
@@ -30,10 +30,6 @@ If you do not want your conversation data to be used for training, you can conta
 ## Is my data shared with third parties?
 
 Without your consent, a legal requirement, or the necessity to provide product features, we do not share, sell, or provide your personal conversation data to any third party (including affiliates, partners, or advertisers), nor do we use it for purposes unrelated to providing the service. For details, see Section 4.2 of the [Kimi Privacy Policy](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
-
-## Where is my data stored? Is it secure?
-
-Your data is stored in a secure, standards-compliant server environment located in Malaysia. We employ technical and administrative measures, including data encryption and access controls, to guard against unauthorized access, disclosure, or loss.
 
 ## Will enterprise users' data be used for model training?
 

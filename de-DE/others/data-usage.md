@@ -7,8 +7,8 @@ preview: false
 ---
 
 <SeoMeta
-  title="Hinweise zur Datennutzung und Datenweitergabe: Modelltraining, Weitergabe an Dritte und Speicherung – Kimi-Hilfecenter"
-  description="So nutzt Kimi Gesprächsdaten: ob Daten für das Modelltraining verwendet werden, wie Sie das Modelltraining ablehnen, ob Daten an Dritte weitergegeben werden sowie Speicherort und Sicherheitsmaßnahmen."
+  title="Hinweise zur Datennutzung und Datenweitergabe: Modelltraining und Weitergabe an Dritte – Kimi-Hilfecenter"
+  description="So nutzt Kimi Gesprächsdaten: ob Daten für das Modelltraining verwendet werden, wie Sie das Modelltraining ablehnen und ob Daten an Dritte weitergegeben werden."
 />
 
 # Hinweise zur Datennutzung und Datenweitergabe
@@ -30,10 +30,6 @@ Wenn Sie nicht möchten, dass Ihre Gesprächsdaten für das Training verwendet w
 ## Werden meine Daten an Dritte weitergegeben?
 
 Ohne Ihre Einwilligung, eine gesetzliche Verpflichtung oder die Erforderlichkeit zur Bereitstellung der Produktfunktionen geben wir Ihre persönlichen Gesprächsdaten nicht an Dritte (einschließlich verbundener Unternehmen, Partner, Werbetreibender usw.) weiter, verkaufen sie nicht und stellen sie nicht bereit; ebenso wenig verwenden wir sie für Zwecke, die nicht mit der Bereitstellung des Dienstes zusammenhängen. Einzelheiten finden Sie in Abschnitt 4.2 der [Kimi-Datenschutzrichtlinie](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
-
-## Wo werden meine Daten gespeichert? Sind sie sicher?
-
-Ihre Daten werden auf Servern in Malaysia gespeichert, die den Sicherheitsstandards entsprechen. Wir ergreifen technische und organisatorische Maßnahmen wie Datenverschlüsselung und Zugriffskontrollen, um unbefugten Zugriff, Offenlegung oder Verlust zu verhindern.
 
 ## Werden die Daten von Unternehmensnutzern für das Modelltraining verwendet?
 

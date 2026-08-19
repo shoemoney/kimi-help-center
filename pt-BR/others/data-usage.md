@@ -7,8 +7,8 @@ preview: false
 ---
 
 <SeoMeta
-  title="Uso e compartilhamento de dados: treinamento de modelo, compartilhamento com terceiros e armazenamento - Central de Ajuda Kimi"
-  description="Explicação sobre o uso dos dados de conversas do Kimi: se os dados são usados no treinamento do modelo, como cancelar a participação, se os dados são compartilhados com terceiros, local de armazenamento e medidas de segurança."
+  title="Uso e compartilhamento de dados: treinamento de modelo e compartilhamento com terceiros - Central de Ajuda Kimi"
+  description="Explicação sobre o uso dos dados de conversas do Kimi: se os dados são usados no treinamento do modelo, como cancelar a participação e se os dados são compartilhados com terceiros."
 />
 
 # Uso e compartilhamento de dados
@@ -30,10 +30,6 @@ Se você não quiser que os dados das suas conversas sejam usados para treinamen
 ## Os dados são compartilhados com terceiros?
 
 Sem o seu consentimento, salvo exigência legal ou necessidade para viabilizar as funcionalidades do produto, não compartilhamos, vendemos nem fornecemos seus dados pessoais de conversas a terceiros (incluindo empresas afiliadas, parceiros, anunciantes etc.), nem os usamos para fins não relacionados à prestação do serviço. Os termos específicos constam na cláusula 4.2 da [Política de Privacidade da Kimi](https://www.kimi.com/user/agreement/userPrivacy?version=v2).
-
-## Onde meus dados são armazenados? São seguros?
-
-Seus dados são armazenados em servidores localizados na Malásia, em ambiente que atende aos padrões de segurança. Adotamos medidas técnicas e administrativas, como criptografia de dados e controle de acesso, para evitar acessos não autorizados, vazamentos ou perdas.
 
 ## Os dados de usuários empresariais são usados no treinamento do modelo?
 

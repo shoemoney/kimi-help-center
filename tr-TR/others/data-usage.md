@@ -7,8 +7,8 @@ preview: false
 ---
 
 <SeoMeta
-  title="Veri kullanımı ve paylaşımı açıklaması: model eğitimi, üçüncü taraflarla paylaşım ve depolama - Kimi Yardım Merkezi"
-  description="Kimi sohbet verilerinin kullanımı hakkında açıklama: verilerin model eğitiminde kullanılıp kullanılmadığı, model eğitiminden nasıl çıkılacağı, verilerin üçüncü taraflarla paylaşılıp paylaşılmayacağı, veri depolama konumu ve güvenlik önlemleri."
+  title="Veri kullanımı ve paylaşımı açıklaması: model eğitimi ve üçüncü taraflarla paylaşım - Kimi Yardım Merkezi"
+  description="Kimi sohbet verilerinin kullanımı hakkında açıklama: verilerin model eğitiminde kullanılıp kullanılmadığı, model eğitiminden nasıl çıkılacağı ve verilerin üçüncü taraflarla paylaşılıp paylaşılmayacağı."
 />
 
 # Veri kullanımı ve paylaşımı açıklaması
@@ -30,10 +30,6 @@ Sohbet verilerinizin eğitimde kullanılmasını istemiyorsanız [membership@moo
 ## Verilerim üçüncü taraflarla paylaşılıyor mu?
 
 Onayınız, yasal zorunluluklar veya ürün işlevlerini gerçekleştirmek için gerekli olması dışında, kişisel sohbet verilerinizi hiçbir üçüncü tarafla (bağlı şirketler, iş ortakları, reklam verenler vb.) paylaşmayız, satmayız veya sağlamayız; ayrıca bunları hizmet sunumuyla ilgisiz amaçlar için kullanmayız. Ayrıntılı hükümler için [Kimi Gizlilik Politikası](https://www.kimi.com/user/agreement/userPrivacy?version=v2) madde 4.2'ye bakın.
-
-## Verilerim nerede saklanıyor? Güvende mi?
-
-Verileriniz, güvenlik standartlarını karşılayan ve Malezya'da bulunan sunucu ortamlarında saklanır. Yetkisiz erişimi, sızıntıyı veya kaybı önlemek için veri şifreleme ve erişim kontrolü gibi teknik ve yönetsel önlemler alıyoruz.
 
 ## Kurumsal kullanıcı verileri model eğitiminde kullanılıyor mu?
 

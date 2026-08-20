@@ -15,6 +15,27 @@ preview: false
 
 Bu sayfa, Kimi Work sürüm güncellemelerini (yeni özellikler, değişiklikler ve düzeltmeler) kaydeder ve sürekli güncellenir. En son sürümü indirin: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.1 (2026-08-20)
+
+**Yeni**
+
+- Yeni genel Launcher: genel bir klavye kısayoluyla masaüstünde her zaman ve her yerde yüzen kapsül giriş kutusunu çağırın
+  - Çağrıldığında Finder / Dosya Gezgini’nde seçili dosyaları otomatik olarak getirir; resim yapıştırma, ek ekleme ve ekran görüntüsü sürüklemeyi destekler
+  - Plugin ve skill menüsünü açmak için “/” yazın (pinyin araması desteklenir) ve bir çalışma alanı seçin
+  - Sesli yazmak için kısayolu basılı tutun; gönderdikten sonra mini kapsüle küçülür ve yanıtı görmek için tek tıklamayla ana uygulamaya dönebilirsiniz
+- Yeni mesaj kuyruğu: Agent yanıtlarken mesaj göndermeye devam edebilirsiniz; yeni mesajlar otomatik olarak sıraya alınır, sürükleyerek yeniden sıralama, düzenleme, silme ve ayrıntı önizlemesi desteklenir
+- Work giriş kutusunda sesli dikte: dikteye başlamak için mikrofona tıklayın veya kısayolu basılı tutun; Çince-İngilizce karma tanıma desteklenir
+
+**Değişiklikler**
+
+- Mesaj bildirim mantığı güncellendi: Ayarlar’da mesaj bildirim kurallarını değiştirebilirsiniz
+
+**Düzeltmeler**
+
+- Bekleme modu güç tüketimi optimize edildi, uygulama boştayken arka plan kaynak kullanımı azaltıldı
+- macOS’te Dock simgesinin kaybolmasına neden olan sorun düzeltildi
+- Bazı hatalar düzeltildi ve bazı etkileşimler ile kararlılık iyileştirildi
+
 ## 3.2.0 (2026-08-19)
 
 **Yeni**

@@ -15,6 +15,27 @@ preview: false
 
 This page tracks Kimi Work version updates, including new features, changes, and fixes, and is updated regularly. Download the latest version: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.1 (2026-08-20)
+
+**New**
+
+- Added a global Launcher: summon a floating capsule input box on the desktop anytime, anywhere with a global hotkey
+  - When summoned, it automatically brings in the files currently selected in Finder / File Explorer, and supports pasting images, adding attachments, and dragging in screenshots
+  - Type “/” to open the plugin and skill menu (pinyin search supported) and choose a workspace
+  - Hold the hotkey to dictate; after submitting, it collapses into a mini capsule, and you can jump back to the main app with one click to view the answer
+- Added message queueing: while the Agent is responding, you can keep sending messages; new messages are queued automatically, with support for drag-to-reorder, edit, delete, and detail preview
+- Voice dictation in the Work input box: click the microphone or hold the hotkey to start dictating, with mixed Chinese-English recognition
+
+**Changed**
+
+- Message notification logic updated: you can switch message notification rules in Settings
+
+**Fixed**
+
+- Optimized standby power consumption, reducing background resource usage while the app is idle
+- Fixed an issue where the Dock icon disappeared on macOS
+- Fixed several bugs and improved some interactions and stability
+
 ## 3.2.0 (2026-08-19)
 
 **New**

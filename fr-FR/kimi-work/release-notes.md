@@ -15,6 +15,27 @@ preview: false
 
 Cette page consigne les mises à jour de Kimi Work (nouvelles fonctionnalités, modifications et corrections) et est actualisée en continu. Télécharger la dernière version : [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.1 (2026-08-20)
+
+**Nouveautés**
+
+- Nouveau Launcher global : affichez un champ de saisie flottant en forme de capsule sur le bureau, à tout moment et où que vous soyez, grâce à un raccourci clavier global
+  - Lors de son affichage, il récupère automatiquement les fichiers actuellement sélectionnés dans le Finder / l’Explorateur de fichiers, et prend en charge le collage d’images, l’ajout de pièces jointes et le glisser de captures d’écran
+  - Tapez « / » pour ouvrir le menu des plugins et des skills (recherche pinyin prise en charge) et choisir un espace de travail
+  - Maintenez le raccourci enfoncé pour dicter ; après l’envoi, il se replie en mini-capsule et vous pouvez revenir à l’app principale d’un clic pour voir la réponse
+- Nouvelle file d’attente de messages : pendant que l’Agent répond, vous pouvez continuer à envoyer des messages ; les nouveaux messages sont automatiquement mis en file d’attente, avec possibilité de les réorganiser par glisser-déposer, de les modifier, de les supprimer et d’afficher l’aperçu détaillé
+- Dictée vocale dans le champ de saisie Work : cliquez sur le microphone ou maintenez le raccourci enfoncé pour commencer la dictée, avec reconnaissance mixte chinois-anglais
+
+**Modifications**
+
+- Logique des notifications de messages mise à jour : vous pouvez changer les règles de notification des messages dans les Paramètres
+
+**Corrections**
+
+- Consommation d’énergie en veille optimisée, réduisant l’utilisation des ressources en arrière-plan lorsque l’app est inactive
+- Correction d’un problème où l’icône du Dock disparaissait sous macOS
+- Correction de plusieurs bugs et amélioration de certaines interactions et de la stabilité
+
 ## 3.2.0 (2026-08-19)
 
 **Nouveautés**

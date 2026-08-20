@@ -15,6 +15,27 @@ preview: false
 
 Esta página registra as atualizações de versão do Kimi Work, incluindo novos recursos, alterações e correções, e é atualizada continuamente. Baixe a versão mais recente: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.1 (2026-08-20)
+
+**Novidades**
+
+- Novo Launcher global: invoque uma caixa de entrada flutuante em formato de cápsula na área de trabalho, a qualquer momento e em qualquer lugar, com um atalho de teclado global
+  - Ao ser invocado, ele traz automaticamente os arquivos selecionados no Finder / Explorador de Arquivos, e permite colar imagens, adicionar anexos e arrastar capturas de tela
+  - Digite “/” para abrir o menu de plugins e skills (com suporte à busca em pinyin) e escolher um workspace
+  - Segure o atalho para ditar; após o envio, ele se recolhe em uma minicápsula, e você pode voltar ao app principal com um clique para ver a resposta
+- Nova fila de mensagens: enquanto o Agent responde, você pode continuar enviando mensagens; as novas mensagens entram automaticamente na fila, com suporte para reordenar arrastando, editar, excluir e visualizar detalhes
+- Ditado por voz na caixa de entrada do Work: clique no microfone ou segure o atalho para começar a ditar, com reconhecimento misto de chinês e inglês
+
+**Alterações**
+
+- Lógica de notificações de mensagens atualizada: você pode alternar as regras de notificação de mensagens nas Configurações
+
+**Correções**
+
+- Consumo de energia em espera otimizado, reduzindo o uso de recursos em segundo plano quando o app está ocioso
+- Correção de um problema em que o ícone do Dock desaparecia no macOS
+- Correção de alguns bugs e melhoria de algumas interações e da estabilidade
+
 ## 3.2.0 (2026-08-19)
 
 **Novidades**

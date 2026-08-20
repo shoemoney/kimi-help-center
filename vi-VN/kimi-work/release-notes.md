@@ -15,6 +15,27 @@ preview: false
 
 Trang này ghi lại nội dung cập nhật theo phiên bản của Kimi Work, bao gồm tính năng mới, thay đổi và bản sửa lỗi, và được cập nhật liên tục. Tải xuống phiên bản mới nhất: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.1 (2026-08-20)
+
+**Mới**
+
+- Ra mắt Launcher toàn cục: gọi hộp nhập dạng viên nang nổi trên desktop mọi lúc, mọi nơi bằng phím tắt toàn cục
+  - Khi được gọi, hộp nhập tự động đưa vào các tệp đang được chọn trong Finder / File Explorer, hỗ trợ dán hình ảnh, thêm tệp đính kèm và kéo ảnh chụp màn hình vào
+  - Gõ “/” để mở menu plugin và skill (hỗ trợ tìm kiếm bằng bính âm), đồng thời chọn workspace
+  - Giữ phím tắt để nhập bằng giọng nói; sau khi gửi, hộp thu lại thành viên nang mini và bạn có thể quay lại ứng dụng chính chỉ bằng một cú nhấp để xem câu trả lời
+- Hàng đợi tin nhắn mới: trong khi Agent đang trả lời, bạn vẫn có thể tiếp tục gửi tin nhắn; tin nhắn mới tự động xếp hàng, hỗ trợ kéo để sắp xếp lại, chỉnh sửa, xóa và xem trước chi tiết
+- Nhập liệu bằng giọng nói trong hộp nhập của Work: nhấp vào micrô hoặc giữ phím tắt để bắt đầu, hỗ trợ nhận dạng hỗn hợp Trung - Anh
+
+**Thay đổi**
+
+- Cập nhật logic thông báo tin nhắn: bạn có thể chuyển đổi quy tắc thông báo tin nhắn trong Cài đặt
+
+**Sửa lỗi**
+
+- Tối ưu hóa mức tiêu thụ điện khi chờ, giảm sử dụng tài nguyên nền khi ứng dụng không hoạt động
+- Đã sửa lỗi biểu tượng Dock biến mất trên macOS
+- Đã sửa một số lỗi và cải thiện một số tương tác cùng độ ổn định
+
 ## 3.2.0 (2026-08-19)
 
 **Mới**

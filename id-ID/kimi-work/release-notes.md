@@ -15,6 +15,27 @@ preview: false
 
 Halaman ini mencatat pembaruan versi Kimi Work, termasuk fitur baru, perubahan, dan perbaikan, dan terus diperbarui. Unduh versi terbaru: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.1 (2026-08-20)
+
+**Baru**
+
+- Launcher global baru: panggil kotak input kapsul mengambang di desktop kapan saja, di mana saja dengan pintasan keyboard global
+  - Saat dipanggil, secara otomatis membawa file yang sedang dipilih di Finder / File Explorer, dan mendukung menempelkan gambar, menambahkan lampiran, serta menyeret tangkapan layar
+  - Ketik “/” untuk membuka menu plugin dan skill (mendukung pencarian pinyin), serta memilih workspace
+  - Tahan pintasan untuk mendikte; setelah dikirim, kotak menyusut menjadi kapsul mini, dan Anda dapat kembali ke aplikasi utama dengan satu klik untuk melihat jawabannya
+- Antrean pesan baru: selama Agent menjawab, Anda dapat terus mengirim pesan; pesan baru secara otomatis mengantre, dengan dukungan menyusun ulang lewat seret, mengedit, menghapus, dan pratinjau detail
+- Dikte suara di kotak input Work: klik mikrofon atau tahan pintasan untuk mulai mendikte, dengan pengenalan campuran Mandarin-Inggris
+
+**Perubahan**
+
+- Logika notifikasi pesan diperbarui: Anda dapat mengganti aturan notifikasi pesan di Pengaturan
+
+**Perbaikan**
+
+- Konsumsi daya siaga dioptimalkan, mengurangi penggunaan sumber daya latar belakang saat aplikasi tidak aktif
+- Memperbaiki masalah ikon Dock yang menghilang di macOS
+- Memperbaiki beberapa bug dan meningkatkan beberapa interaksi dan stabilitas
+
 ## 3.2.0 (2026-08-19)
 
 **Baru**

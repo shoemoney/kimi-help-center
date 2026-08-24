@@ -20,7 +20,7 @@ This page tracks Kimi Work version updates, including new features, changes, and
 **New**
 
 - Added a desktop pet: Kimi accompanies and interacts with you as a desktop pet
-- Added Slash shortcuts: the input box now supports the compact (compress context), fork (branch conversation), and goal (Goal) commands
+- Added Slash shortcuts: the input box now supports the compact, fork, and goal commands
 - Added temporary workspace conversations: start chatting quickly without creating a project first
 - More preview formats in the workspace: support for csv / tsv, audio and video, ico, and more text formats
 

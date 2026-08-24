@@ -15,6 +15,26 @@ preview: false
 
 Diese Seite dokumentiert die Versionsupdates von Kimi Work, einschließlich neuer Funktionen, Änderungen und Fehlerbehebungen, und wird laufend aktualisiert. Neueste Version herunterladen: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.2 (2026-08-24)
+
+**Neu**
+
+- Neues Desktop-Pet: Kimi begleitet und interagiert mit Ihnen als Desktop-Pet
+- Neue Slash-Befehle: Das Eingabefeld unterstützt jetzt die Befehle compact (Kontext komprimieren), fork (Konversation abzweigen) und goal (Ziel)
+- Neue temporäre Workspace-Konversationen: Chatten Sie sofort los, ohne zuerst ein Projekt anzulegen
+- Mehr Vorschauformate im Workspace: Unterstützung für csv / tsv, Audio und Video, ico und weitere Textformate
+
+**Änderungen**
+
+- Die Agent-Steuerung des integrierten Browsers ist jetzt standardmäßig aktiviert
+
+**Fehlerbehebungen**
+
+- Ein Problem wurde behoben, bei dem die erste Nachricht nach dem Senden kurz einen leeren Zustand anzeigte
+- Ein Problem wurde behoben, bei dem Nachrichten in der Warteschlange die gewählte Berechtigungsstufe nicht korrekt beibehielten
+- Ein Problem wurde behoben, bei dem Launcher unter bestimmten Tastaturlayouts fälschlich die macOS-Berechtigungsabfrage “Input Monitoring” auslöste
+- Einige Fehler wurden behoben und einige Interaktionen sowie die Stabilität verbessert
+
 ## 3.2.1 (2026-08-21)
 
 **Neu**

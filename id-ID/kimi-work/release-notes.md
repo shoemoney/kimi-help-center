@@ -15,6 +15,26 @@ preview: false
 
 Halaman ini mencatat pembaruan versi Kimi Work, termasuk fitur baru, perubahan, dan perbaikan, dan terus diperbarui. Unduh versi terbaru: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.2 (2026-08-24)
+
+**Baru**
+
+- Peliharaan desktop baru: Kimi menemani dan berinteraksi dengan Anda sebagai peliharaan desktop
+- Perintah Slash baru: kotak input kini mendukung perintah compact (kompres konteks), fork (cabang percakapan), dan goal (tujuan)
+- Percakapan workspace sementara baru: mulai mengobrol dengan cepat tanpa membuat proyek terlebih dahulu
+- Lebih banyak format pratinjau di workspace: dukungan untuk csv / tsv, audio dan video, ico, dan lebih banyak format teks
+
+**Perubahan**
+
+- Kontrol Agent atas browser bawaan kini aktif secara default
+
+**Perbaikan**
+
+- Memperbaiki masalah pesan pertama yang sekilas menampilkan keadaan kosong setelah dikirim
+- Memperbaiki masalah pesan dalam antrean yang tidak mempertahankan tingkat izin yang dipilih dengan benar
+- Memperbaiki masalah Launcher yang dapat keliru memicu permintaan izin “Input Monitoring” macOS pada beberapa tata letak keyboard
+- Memperbaiki beberapa bug dan meningkatkan beberapa interaksi dan stabilitas
+
 ## 3.2.1 (2026-08-21)
 
 **Baru**

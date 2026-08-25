@@ -35,8 +35,9 @@ Kimi Code melayani developer yang menulis kode; Kimi Work melayani pekerja berba
 
 - Klien memiliki dua mode, "Work" dan "Chat". Sidebar mode Work mencakup: Tugas Baru, Dasbor, Plugins, Skills, Tugas Terjadwal, WebBridge, Proyek, dan Chat.
 - Ketik "/" di kotak input untuk menggunakan Skills dengan cepat, dan "@" untuk menambahkan konteks.
-- Kontrol izin tersedia, dan Anda dapat memilih cara memberi otorisasi:
-  - **Minta izin**: meminta otorisasi sebelum bertindak
+- Kontrol izin dengan tiga tingkat tersedia, dan Anda dapat memilih cara memberi otorisasi:
+  - **Default**: operasi rutin berjalan otomatis; operasi sensitif seperti mengubah, menimpa file lokal, atau menjalankan kode memerlukan otorisasi terlebih dahulu
+  - **Izinkan manual**: meminta otorisasi sebelum bertindak
   - **Izinkan semua**: berjalan langsung tanpa meminta otorisasi
 - Beralih di antara dua mode eksekusi: "Agent" dan "Agent Swarm".
 

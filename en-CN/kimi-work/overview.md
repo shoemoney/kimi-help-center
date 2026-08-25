@@ -35,9 +35,10 @@ Kimi Code serves developers who write code; Kimi Work serves knowledge workers, 
 
 - The client has two modes, "Work" and "Chat". The Work-mode sidebar includes: New Task, Dashboard, Plugins, Skills, Scheduled Tasks, WebBridge, Projects, and Chat.
 - Type "/" in the input box to quickly use Skills, and "@" to add context.
-- Permission control is provided, and you can choose how to authorize:
-  - **Request permission**: ask for authorization before acting
-  - **Allow all**: run directly without asking for authorization
+- Permission control is provided with three levels, and you can choose how to authorize:
+  - **Default**: routine operations run automatically; sensitive operations such as modifying, overwriting, or running code on your local files require authorization first
+  - **Manual approval**: ask for authorization before acting
+  - **Fully automatic**: run directly without asking for authorization
 - Switch between two execution modes: "Agent" and "Agent Swarm".
 
 ## Version Notes

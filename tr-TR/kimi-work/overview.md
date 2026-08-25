@@ -35,8 +35,9 @@ Kimi Code kod yazan geliştiricilere hizmet eder; Kimi Work ise bilgi çalışan
 
 - İstemcide "İş" ve "Sohbet" olmak üzere iki mod bulunur. İş modu kenar çubuğunda şunlar yer alır: Yeni Görev, Pano, Eklentiler, Skills, Zamanlanmış Görevler, WebBridge, Projeler ve Sohbet.
 - Skills’leri hızlıca kullanmak için giriş kutusuna "/", bağlam eklemek için "@" yazın.
-- İzin denetimi sağlanır; nasıl yetkilendireceğinizi seçebilirsiniz:
-  - **İzin iste**: işlem yapmadan önce yetkilendirme ister
+- Üç seviyeli izin denetimi sağlanır; nasıl yetkilendireceğinizi seçebilirsiniz:
+  - **Varsayılan**: rutin işlemler otomatik olarak çalışır; yerel dosyaları değiştirme, üzerine yazma veya kod çalıştırma gibi hassas işlemler öncesinde yetki ister
+  - **Manuel olarak izin ver**: işlem yapmadan önce yetkilendirme ister
   - **Tümüne izin ver**: yetkilendirme istemeden doğrudan çalışır
 - İki yürütme modu arasında geçiş yapın: "Agent" ve "Agent Swarm".
 

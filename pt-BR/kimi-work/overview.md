@@ -35,8 +35,9 @@ O Kimi Code atende desenvolvedores que escrevem código; o Kimi Work atende prof
 
 - O cliente tem dois modos, "Work" e "Chat". A barra lateral do modo Work inclui: Nova tarefa, Painel, Plugins, Skills, Tarefas agendadas, WebBridge, Projetos e Chat.
 - Digite "/" na caixa de entrada para usar Skills rapidamente, e "@" para adicionar contexto.
-- Há controle de permissões, e você pode escolher como autorizar:
-  - **Solicitar permissão**: pedir autorização antes de agir
+- Há controle de permissões em três níveis, e você pode escolher como autorizar:
+  - **Padrão**: as operações de rotina são executadas automaticamente; operações sensíveis, como modificar, sobrescrever arquivos locais ou executar código, exigem autorização prévia
+  - **Permitir manualmente**: pedir autorização antes de agir
   - **Permitir tudo**: executar diretamente sem pedir autorização
 - Alterne entre dois modos de execução: "Agent" e "Agent Swarm".
 

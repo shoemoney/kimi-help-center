@@ -19,12 +19,13 @@ La app web de Kimi es perfecta para chats y consultas rápidas; Kimi Work, en ca
 
 ## ¿Cómo protege Kimi Work mi privacidad al acceder a archivos locales?
 
-Tú tienes control absoluto sobre tus archivos. Kimi Work ofrece control de permisos y tú eliges cómo autorizar:
+Tú tienes control absoluto sobre tus archivos. Kimi Work ofrece control de permisos de tres niveles y tú eliges cómo autorizar:
 
-- **Solicitar permiso**: pedir autorización antes de actuar — Kimi te pedirá autorización explícita antes de modificar, sobrescribir o ejecutar código dentro de tus archivos locales;
+- **Predeterminado**: las operaciones rutinarias se ejecutan automáticamente — Kimi te pedirá autorización explícita antes de operaciones sensibles como modificar, sobrescribir o ejecutar código dentro de tus archivos locales;
+- **Permitir manualmente**: pedir autorización antes de actuar;
 - **Permitir todo**: ejecutar directamente sin pedir autorización.
 
-Cuando eliges "Solicitar permiso", no ocurre nada sin tu consentimiento.
+Cuando eliges "Permitir manualmente", no ocurre nada sin tu consentimiento.
 
 ## ¿Qué puede hacer exactamente WebBridge (automatización del navegador) por mí?
 

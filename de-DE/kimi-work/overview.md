@@ -35,9 +35,10 @@ Kimi Code richtet sich an Entwickler, die Code schreiben; Kimi Work unterstützt
 
 - Der Client verfügt über zwei Modi: „Work“ und „Chat“. Die Seitenleiste im Work-Modus umfasst: Neue Aufgabe, Dashboard, Plugins, Skills, Geplante Aufgaben, WebBridge, Projekte und Chat.
 - Geben Sie „/“ in das Eingabefeld ein, um Skills schnell zu verwenden, und „@“, um Kontext hinzuzufügen.
-- Eine Berechtigungssteuerung ist vorhanden; Sie können auswählen, wie autorisiert werden soll:
-  - **Berechtigung anfordern**: Vor der Ausführung um Autorisierung bitten
-  - **Alles erlauben**: Direkt ohne Autorisierungsanfrage ausführen
+- Eine Berechtigungssteuerung mit drei Stufen ist vorhanden; Sie können auswählen, wie autorisiert werden soll:
+  - **Standard**: Routinemäßige Vorgänge laufen automatisch; bei sensiblen Vorgängen wie dem Ändern oder Überschreiben lokaler Dateien oder dem Ausführen von Code wird vorher um Autorisierung gebeten
+  - **Manuell erlauben**: Vor der Ausführung um Autorisierung bitten
+  - **Alle**: Direkt ohne Autorisierungsanfrage ausführen
 - Wechseln Sie zwischen zwei Ausführungsmodi: „Agent“ und „Agent Swarm“.
 
 ## Versionshinweise

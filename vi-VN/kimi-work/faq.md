@@ -19,12 +19,13 @@ preview: false
 
 ## Kimi Work bảo vệ quyền riêng tư của tôi thế nào khi truy cập tệp cục bộ?
 
-Bạn toàn quyền kiểm soát các tệp của mình. Kimi Work cung cấp cơ chế kiểm soát quyền, và bạn được chọn cách cấp quyền:
+Bạn toàn quyền kiểm soát các tệp của mình. Kimi Work cung cấp cơ chế kiểm soát quyền ba cấp, và bạn được chọn cách cấp quyền:
 
-- **Yêu cầu quyền**: hỏi ý kiến trước khi hành động — Kimi sẽ yêu cầu bạn cấp quyền rõ ràng trước khi sửa đổi, ghi đè hoặc chạy mã trong các tệp cục bộ của bạn;
+- **Mặc định**: các thao tác thông thường chạy tự động — Kimi sẽ yêu cầu bạn cấp quyền rõ ràng trước các thao tác nhạy cảm như sửa đổi, ghi đè hoặc chạy mã trong các tệp cục bộ của bạn;
+- **Cho phép thủ công**: hỏi ý kiến trước khi hành động;
 - **Cho phép tất cả**: chạy trực tiếp mà không cần hỏi quyền.
 
-Khi bạn chọn "Yêu cầu quyền", sẽ không có thao tác nào diễn ra nếu chưa có sự đồng ý của bạn.
+Khi bạn chọn "Cho phép thủ công", sẽ không có thao tác nào diễn ra nếu chưa có sự đồng ý của bạn.
 
 ## Chính xác thì WebBridge (tự động hóa trình duyệt) có thể làm gì cho tôi?
 

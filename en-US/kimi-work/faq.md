@@ -19,12 +19,13 @@ While the Kimi web app is perfect for quick chat and queries, Kimi Work is a loc
 
 ## How does Kimi Work protect my privacy when accessing local files?
 
-You have absolute control over your files. Kimi Work provides permission control, and you choose how to authorize:
+You have absolute control over your files. Kimi Work provides three levels of permission control, and you choose how to authorize:
 
-- **Request permission**: ask for authorization before acting — Kimi prompts you for explicit authorization before it modifies, overwrites, or runs code within your local files;
-- **Allow all**: run directly without asking for authorization.
+- **Default**: routine operations run automatically — Kimi prompts you for explicit authorization before sensitive operations such as modifying, overwriting, or running code on your local files;
+- **Manual approval**: ask for authorization before acting;
+- **Fully automatic**: run directly without asking for authorization.
 
-When you choose "Request permission", nothing happens without your consent.
+When you choose "Manual approval", nothing happens without your consent.
 
 ## What exactly can WebBridge (browser automation) do for me?
 

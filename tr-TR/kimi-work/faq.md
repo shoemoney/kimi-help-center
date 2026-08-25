@@ -19,12 +19,13 @@ Kimi web uygulaması hızlı sohbetler ve sorgular için idealdir; Kimi Work ise
 
 ## Kimi Work yerel dosyalara erişirken gizliliğimi nasıl korur?
 
-Dosyalarınız üzerinde tam denetim sizdedir. Kimi Work izin denetimi sunar; yetkilendirmeyi nasıl yapacağınızı siz seçersiniz:
+Dosyalarınız üzerinde tam denetim sizdedir. Kimi Work üç seviyeli izin denetimi sunar; yetkilendirmeyi nasıl yapacağınızı siz seçersiniz:
 
-- **İzin iste**: işlemden önce yetki ister — Kimi, yerel dosyalarınızda değişiklik yapmadan, dosyaların üzerine yazmadan veya kod çalıştırmadan önce sizden açık yetki ister;
+- **Varsayılan**: rutin işlemler otomatik olarak çalışır — Kimi, yerel dosyalarınızda değişiklik yapma, dosyaların üzerine yazma veya kod çalıştırma gibi hassas işlemlerden önce sizden açık yetki ister;
+- **Manuel olarak izin ver**: işlemden önce yetki ister;
 - **Tümüne izin ver**: yetki sormadan doğrudan çalışır.
 
-"İzin iste" seçeneğini belirlediğinizde, onayınız olmadan hiçbir işlem yapılmaz.
+"Manuel olarak izin ver" seçeneğini belirlediğinizde, onayınız olmadan hiçbir işlem yapılmaz.
 
 ## WebBridge (tarayıcı otomasyonu) benim için tam olarak ne yapabilir?
 

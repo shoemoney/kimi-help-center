@@ -35,8 +35,9 @@ Kimi Code phục vụ các nhà phát triển viết code; Kimi Work phục vụ
 
 - Client có hai chế độ, "Work" và "Chat". Thanh bên của chế độ Work gồm: Tác vụ mới, bảng, Plugin, Skills, Tác vụ đã lên lịch, WebBridge, Dự án và Chat.
 - Nhập "/" vào ô nhập liệu để dùng nhanh Skills, và "@" để thêm ngữ cảnh.
-- Có kiểm soát quyền, và bạn có thể chọn cách cấp quyền:
-  - **Yêu cầu quyền**: hỏi xin quyền trước khi thực hiện
+- Có kiểm soát quyền với ba cấp, và bạn có thể chọn cách cấp quyền:
+  - **Mặc định**: các thao tác thông thường chạy tự động; các thao tác nhạy cảm như sửa đổi, ghi đè tệp cục bộ hoặc chạy mã sẽ hỏi xin quyền trước
+  - **Cho phép thủ công**: hỏi xin quyền trước khi thực hiện
   - **Cho phép tất cả**: chạy trực tiếp mà không hỏi xin quyền
 - Chuyển đổi giữa hai chế độ thực thi: "Agent" và "Agent Swarm".
 

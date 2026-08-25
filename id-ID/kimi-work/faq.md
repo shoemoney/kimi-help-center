@@ -19,12 +19,13 @@ Aplikasi web Kimi sangat cocok untuk chat dan kueri cepat, sedangkan Kimi Work a
 
 ## Bagaimana Kimi Work melindungi privasi saya saat mengakses file lokal?
 
-Anda memegang kendali penuh atas file Anda. Kimi Work menyediakan kontrol izin, dan Anda dapat memilih cara memberikan otorisasi:
+Anda memegang kendali penuh atas file Anda. Kimi Work menyediakan kontrol izin tiga tingkat, dan Anda dapat memilih cara memberikan otorisasi:
 
-- **Minta izin**: meminta otorisasi sebelum bertindak — Kimi akan meminta otorisasi eksplisit dari Anda sebelum mengubah, menimpa, atau menjalankan kode di dalam file lokal Anda;
+- **Default**: operasi rutin berjalan otomatis — Kimi akan meminta otorisasi eksplisit dari Anda sebelum operasi sensitif seperti mengubah, menimpa, atau menjalankan kode di dalam file lokal Anda;
+- **Izinkan manual**: meminta otorisasi sebelum bertindak;
 - **Izinkan semua**: berjalan langsung tanpa meminta otorisasi.
 
-Saat Anda memilih "Minta izin", tidak ada tindakan yang dilakukan tanpa persetujuan Anda.
+Saat Anda memilih "Izinkan manual", tidak ada tindakan yang dilakukan tanpa persetujuan Anda.
 
 ## Apa saja yang sebenarnya bisa dilakukan WebBridge (otomatisasi browser) untuk saya?
 

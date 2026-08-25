@@ -19,12 +19,13 @@ Die Kimi Web-App ist ideal für kurze Chats und schnelle Anfragen. Kimi Work dag
 
 ## Wie schützt Kimi Work meine Privatsphäre beim Zugriff auf lokale Dateien?
 
-Sie behalten die volle Kontrolle über Ihre Dateien. Kimi Work bietet eine Berechtigungssteuerung, und Sie entscheiden, wie Sie Zugriffe autorisieren:
+Sie behalten die volle Kontrolle über Ihre Dateien. Kimi Work bietet eine Berechtigungssteuerung mit drei Stufen, und Sie entscheiden, wie Sie Zugriffe autorisieren:
 
-- **Berechtigung anfordern**: vor dem Ausführen um Freigabe bitten — Kimi fordert Ihre ausdrückliche Zustimmung an, bevor es lokale Dateien ändert, überschreibt oder darin Code ausführt;
-- **Alle zulassen**: direkt ausführen, ohne zuvor nach einer Freigabe zu fragen.
+- **Standard**: Routinemäßige Vorgänge laufen automatisch — Kimi fordert Ihre ausdrückliche Zustimmung an, bevor es lokale Dateien ändert, überschreibt oder darin Code ausführt;
+- **Manuell erlauben**: vor dem Ausführen um Freigabe bitten;
+- **Alle**: direkt ausführen, ohne zuvor nach einer Freigabe zu fragen.
 
-Wenn Sie „Berechtigung anfordern“ wählen, geschieht nichts ohne Ihre Zustimmung.
+Wenn Sie „Manuell erlauben“ wählen, geschieht nichts ohne Ihre Zustimmung.
 
 ## Was genau kann WebBridge (Browser-Automatisierung) für mich tun?
 

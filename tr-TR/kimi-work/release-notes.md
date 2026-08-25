@@ -21,18 +21,16 @@ Bu sayfa, Kimi Work sürüm güncellemelerini (yeni özellikler, değişiklikler
 
 - Yeni masaüstü evcil hayvanı: Kimi, masaüstü evcil hayvanı olarak size eşlik eder ve sizinle etkileşime girer
 - Yeni Slash komutları: giriş kutusu artık compact (bağlamı sıkıştır), fork (sohbeti dallandır) ve goal (hedef) komutlarını destekliyor
-- Yeni geçici çalışma alanı sohbetleri: önce proje oluşturmadan hızlıca sohbete başlayın
-- Çalışma alanında daha fazla önizleme formatı: csv / tsv, ses ve video, ico ve daha fazla metin formatı desteği
+- Çalıştırma izinleri için yeni “Varsayılan” seçeneği: artık genel olarak üç izin seviyesi kullanılabilir — “Varsayılan”, “Manuel olarak izin ver” ve “Tümüne izin ver”
 
 **Değişiklikler**
 
 - Yerleşik tarayıcının Agent kontrolü artık varsayılan olarak açık
+- Sohbet alanındaki sohbetler artık bir kök dizini paylaşmıyor: her sohbet artık kendi çalışma dizinini alıyor
 
 **Düzeltmeler**
 
 - İlk mesajın gönderildikten sonra kısa süreliğine boş durum göstermesine neden olan sorun düzeltildi
-- Sıradaki mesajların seçilen izin seviyesini doğru şekilde korumamasına neden olan sorun düzeltildi
-- Launcher’ın bazı klavye düzenlerinde macOS “Input Monitoring” izin istemini yanlışlıkla tetiklemesine neden olan sorun düzeltildi
 - Bazı hatalar düzeltildi ve bazı etkileşimler ile kararlılık iyileştirildi
 
 ## 3.2.1 (2026-08-21)

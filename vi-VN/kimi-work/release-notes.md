@@ -21,18 +21,16 @@ Trang này ghi lại nội dung cập nhật theo phiên bản của Kimi Work, 
 
 - Ra mắt thú cưng trên desktop: Kimi đồng hành và tương tác với bạn dưới dạng thú cưng trên desktop
 - Lệnh Slash mới: hộp nhập hiện hỗ trợ các lệnh compact (nén ngữ cảnh), fork (tách cuộc trò chuyện) và goal (mục tiêu)
-- Cuộc trò chuyện với workspace tạm thời: bắt đầu trò chuyện nhanh mà không cần tạo dự án trước
-- Thêm định dạng xem trước trong workspace: hỗ trợ csv / tsv, âm thanh và video, ico cùng nhiều định dạng văn bản khác
+- Thêm tùy chọn “Mặc định” cho quyền chạy: hiện hỗ trợ toàn cục ba cấp quyền — “Mặc định”, “Cho phép thủ công” và “Cho phép tất cả”
 
 **Thay đổi**
 
 - Quyền điều khiển trình duyệt tích hợp của Agent giờ được bật theo mặc định
+- Các cuộc trò chuyện trong khu vực “Chat” không còn chia sẻ thư mục gốc: mỗi cuộc trò chuyện giờ sẽ có một thư mục làm việc riêng
 
 **Sửa lỗi**
 
 - Đã sửa lỗi tin nhắn đầu tiên thoáng hiện trạng thái trống sau khi gửi
-- Đã sửa lỗi tin nhắn trong hàng đợi không giữ đúng cấp quyền đã chọn
-- Đã sửa lỗi Launcher có thể vô tình kích hoạt hộp thoại quyền “Input Monitoring” của macOS trên một số bố cục bàn phím
 - Đã sửa một số lỗi và cải thiện một số tương tác cùng độ ổn định
 
 ## 3.2.1 (2026-08-21)

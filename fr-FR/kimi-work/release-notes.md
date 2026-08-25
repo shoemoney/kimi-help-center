@@ -21,18 +21,16 @@ Cette page consigne les mises à jour de Kimi Work (nouvelles fonctionnalités, 
 
 - Nouvel animal de compagnie de bureau : Kimi vous accompagne et interagit avec vous sous la forme d’un animal de compagnie de bureau
 - Nouvelles commandes Slash : le champ de saisie prend désormais en charge les commandes compact (compresser le contexte), fork (créer une branche de conversation) et goal (objectif)
-- Nouvelles conversations avec espace de travail temporaire : discutez rapidement sans créer de projet au préalable
-- Davantage de formats d’aperçu dans l’espace de travail : prise en charge des formats csv / tsv, audio et vidéo, ico et d’autres formats texte
+- Nouvelle option « Par défaut » pour les permissions d’exécution : trois niveaux d’autorisation sont désormais disponibles globalement — « Par défaut », « Autorisation manuelle » et « Tout autoriser »
 
 **Modifications**
 
 - Le contrôle du navigateur intégré par l’Agent est désormais activé par défaut
+- Les conversations de la zone Chat ne partagent plus de répertoire racine : chaque conversation dispose désormais de son propre répertoire de travail
 
 **Corrections**
 
 - Correction d’un problème où le premier message affichait brièvement un état vide après l’envoi
-- Correction d’un problème où les messages en file d’attente ne conservaient pas correctement le niveau d’autorisation sélectionné
-- Correction d’un problème où Launcher pouvait déclencher par erreur l’invite d’autorisation « Input Monitoring » de macOS avec certaines dispositions de clavier
 - Correction de plusieurs bugs et amélioration de certaines interactions et de la stabilité
 
 ## 3.2.1 (2026-08-21)

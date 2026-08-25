@@ -21,18 +21,16 @@ This page tracks Kimi Work version updates, including new features, changes, and
 
 - Added a desktop pet: Kimi accompanies and interacts with you as a desktop pet
 - Added Slash shortcuts: the input box now supports the compact, fork, and goal commands
-- Added temporary workspace conversations: start chatting quickly without creating a project first
-- More preview formats in the workspace: support for csv / tsv, audio and video, ico, and more text formats
+- Added a “Default” option for run permissions: three permission levels are now available globally — “Default”, “Manual approval”, and “Fully automatic”
 
 **Changed**
 
 - Agent control of the built-in browser is now on by default
+- Chat conversations no longer share a root directory: each conversation now gets its own working directory
 
 **Fixed**
 
 - Fixed an issue where the first message briefly flashed an empty state after sending
-- Fixed an issue where queued messages did not correctly keep the selected permission level
-- Fixed an issue where Launcher could mistakenly trigger the macOS “Input Monitoring” permission prompt under some keyboard layouts
 - Fixed several bugs and improved some interactions and stability
 
 ## 3.2.1 (2026-08-21)

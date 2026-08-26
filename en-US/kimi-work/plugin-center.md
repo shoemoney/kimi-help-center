@@ -13,6 +13,10 @@ preview: false
 
 # Plugin Center
 
+The Kimi Work Plugin Center brings together professional database plugins provided by Kimi and curated plugins for popular external apps. Use them to quickly access specialized information, operate familiar tools, or extend Kimi’s capabilities in your conversations.
+
+In addition to the plugins available in the Plugin Center, you can create and test personal custom plugins in Kimi Work to connect tools and services that fit your work.
+
 ## Built-in Professional Database Plugins
 
 Kimi Work comes with built-in professional database plugins across finance, law, and academic fields, giving professionals authoritative and trustworthy sources, spanning both domestic and global data:
@@ -30,10 +34,18 @@ The Plugin Center offers optional, officially curated plugins, including:
 - **Web development**: Cloudflare
 - **Others**: Kimi Computer Use (AI controls the desktop for system-level operations), GitHub, Neon (a cloud PostgreSQL database platform), Supabase (an open-source backend and database platform), and more
 
-Once a plugin is installed, Kimi Work can operate these common office tools directly, replacing repetitive actions with a single natural-language instruction.
+Once a plugin is installed, Kimi Work can directly call the relevant apps and services. Simply describe your task in natural language, and Kimi can select the appropriate plugin to reduce repetitive work and improve efficiency.
 
-## How to Enable
+## How to Enable Plugins
 
 1. Open the latest Kimi desktop client, switch to "Work" mode in the left sidebar, and click "Plugins" to enter the Plugin Center;
-2. Find and install the plugins you need under "Installed" and "Featured plugins";
+2. Find and install the plugin you need under "Installed" or "Featured plugins";
 3. Type a slash "/" in the input box and select the plugin you want to call.
+
+## Create a Custom Plugin in Kimi Work
+
+In addition to the official plugins in the Plugin Center, you can use Plugin Builder in Kimi Work to create a personal custom plugin that connects your workflows, domain knowledge, or external services to Kimi.
+
+After creating the plugin, install it under "Plugins" → "Personal", then invoke and test it in a new conversation by typing "/".
+
+For detailed creation and usage instructions, see the [Plugins](https://www.kimi.com/help/features/plugins) article section "Create a custom plugin in Kimi Work".

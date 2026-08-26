@@ -16,6 +16,26 @@ preview_content: "Connect external tools to Kimi so it can use apps and services
 
 Plugins connect external tools to Kimi so it can use apps and services to complete tasks. Once you install a plugin, Kimi can directly call the corresponding third-party capability while completing a task — for example, querying financial data, operating office software, or using design tools. You can explicitly ask to use a specific plugin, and Kimi will also call one automatically when appropriate.
 
+## What is a Kimi plugin?
+
+Kimi Plugin follows the [Kimi Code plugin definition](https://www.kimi.com/code/docs/kimi-code-cli/customization/plugins.html#plugin-manifest) and can include one or more of the following components:
+
+| Component | Purpose |
+| --- | --- |
+| Skills | Provide the knowledge, steps, and usage guidance needed to complete tasks |
+| MCP | Connect external software, services, databases, or APIs |
+| Agents | Delegate complex tasks to specialized sub-agents |
+| Hooks | Automatically run predefined actions when specific events occur |
+| Commands | Provide clear, reusable command-based entry points |
+| System Prompt | Add system instructions to the main Agent while the plugin is enabled |
+
+The Kimi web experience currently supports MCP and Skills in plugins. Kimi Work and Kimi Code follow the full plugin definition above and support more complete combinations of plugin components.
+
+**Examples:**
+
+- **Notion Plugin** = Notion MCP + usage guidance Skill
+- **Financial research Plugin** = multiple financial MCPs + multiple analysis Skills + a custom Agent
+
 ## Where you can use plugins
 
 You can use plugins when you switch the model to **K3** or **K3 Swarm**, and in the **Deep Research, Websites, and PPT** scenarios.
@@ -60,6 +80,14 @@ Some plugins call tools or services to complete a task and **consume your member
 - If a plugin is provided by a third party, its data-processing rules are set independently by that company, and the data is subject to its terms of service and privacy policy — we recommend reviewing them before authorizing.
 - You can **uninstall a plugin or revoke authorization at any time**. After uninstalling, the related OAuth authorization is revoked; to use the plugin again, you'll need to reinstall and re-authorize.
 
+## Create a custom plugin in Kimi Work
+
+Download and install [Kimi Work](https://www.kimi.com/products/kimi-work), then follow these steps to create and test a personal plugin:
+
+1. **Create the plugin.** In a Kimi Work conversation, invoke the **Plugin Builder** skill with slash, describe the plugin you want to create, and provide the relevant information. If you already have a ChatGPT, Claude, or other platform plugin, you can provide its source files or project link to Plugin Builder and follow the instructions to convert it into a Kimi plugin.
+2. **Install the plugin.** After creation, go to **Plugins → Personal**, find the plugin you just created, and install it.
+3. **Use the plugin in a conversation.** In a new conversation, invoke the plugin with slash and make a natural-language request. Confirm that the plugin is invoked correctly and completes the expected task. We recommend testing both normal and edge-case scenarios.
+
 ## FAQ
 
 ### Do plugins consume my membership credits?
@@ -70,3 +98,9 @@ Yes. You can invoke multiple plugins at once via "/" or **+**.
 
 ### Why can't I see a certain plugin?
 The available plugins vary by region (domestic / overseas) and surface; in addition, some plugins are available only to enterprise users.
+
+### Can I use plugins from Codex, Claude, or other platforms?
+Yes. When creating a plugin, provide the existing plugin files or project link to Plugin Builder and follow the instructions to convert it into a Kimi plugin.
+
+### What does the OAuth authorization flow look like?
+For an OAuth-enabled MCP Server, Plugin Builder identifies the relevant authorization information from the MCP Server address. After the plugin is created, the first installation opens the third-party authorization page. Once authorization is complete, you can use the plugin's capabilities.

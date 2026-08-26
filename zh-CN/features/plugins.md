@@ -124,8 +124,3 @@ Kimi Claw、Kimi Plus 会话中暂不支持插件。
 
 ### 可以在 Kimi 中使用 ChatGPT、Claude 或其他平台的插件吗？
 你可以参考【在 Kimi Work 自定义插件】部分，将其他平台的已有插件文件或项目链接提供给 Plugin Builder，按照引导将其转换为 Kimi 插件。
-
-### OAuth 授权流程是什么样的？
-对于支持 OAuth 的 MCP Server，Plugin Builder 会根据 MCP Server 地址识别相关授权信息。插件创建完成后，首次安装时会进入第三方产品的授权页面。以下为 Canva 插件示例：
-
-完成授权后，请确认插件能够正常调用核心功能。

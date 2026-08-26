@@ -82,7 +82,7 @@ Kimi Claw、Kimi Plus 会话中暂不支持插件。
 
 ## 如何在 Kimi Work 中自定义插件
 
-请先下载并安装 [Kimi Work](https://www.kimi.com/products/kimi-work)，然后按照以下步骤创建和测试个人插件：
+请先下载并安装 [Kimi Work](https://www.kimi.ai/products/kimi-work)，然后按照以下步骤创建和测试个人插件：
 
 1. <strong>创建插件。</strong>打开 Kimi Work，在会话中通过 slash 唤起 <strong>Plugin Builder 技能</strong>，描述希望创建的插件并提供相关信息，然后按照引导完成创建。如果你已有 ChatGPT、Claude 或其他平台的插件，也可以将原始插件文件提供给 Plugin Builder，请它转换为 Kimi 插件。
 

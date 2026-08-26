@@ -82,7 +82,7 @@ Some plugins call tools or services to complete a task and **consume your member
 
 ## Create a custom plugin in Kimi Work
 
-Download and install [Kimi Work](https://www.kimi.com/products/kimi-work), then follow these steps to create and test a personal plugin:
+Download and install [Kimi Work](https://www.kimi.ai/products/kimi-work), then follow these steps to create and test a personal plugin:
 
 1. **Create the plugin.** In a Kimi Work conversation, invoke the **Plugin Builder** skill with slash, describe the plugin you want to create, and provide the relevant information. If you already have a ChatGPT, Claude, or other platform plugin, you can provide its source files or project link to Plugin Builder and follow the instructions to convert it into a Kimi plugin.
 2. **Install the plugin.** After creation, go to **Plugins → Personal**, find the plugin you just created, and install it.

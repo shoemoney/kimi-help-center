@@ -97,10 +97,12 @@ Some do. When Kimi calls a plugin's tools or services to complete a task, credit
 Yes. You can invoke multiple plugins at once via "/" or **+**.
 
 ### Why can't I see a certain plugin?
-The available plugins vary by region (domestic / overseas) and surface; in addition, some plugins are available only to enterprise users.
+The available plugins vary by region (domestic / overseas) and surface; in addition, some plugins are available only to personal or enterprise users.
 
 ### Can I use plugins from Codex, Claude, or other platforms?
-Yes. When creating a plugin, provide the existing plugin files or project link to Plugin Builder and follow the instructions to convert it into a Kimi plugin.
+You can refer to **Create a custom plugin in Kimi Work**, provide the existing plugin files or project link from another platform to Plugin Builder, and follow the instructions to convert it into a Kimi plugin.
 
 ### What does the OAuth authorization flow look like?
-For an OAuth-enabled MCP Server, Plugin Builder identifies the relevant authorization information from the MCP Server address. After the plugin is created, the first installation opens the third-party authorization page. Once authorization is complete, you can use the plugin's capabilities.
+For an OAuth-enabled MCP Server, Plugin Builder identifies the relevant authorization information from the MCP Server address. After the plugin is created, the first installation opens the third-party authorization page. The Canva plugin is shown below as an example.
+
+Once authorization is complete, confirm that the plugin can successfully call its core capabilities.

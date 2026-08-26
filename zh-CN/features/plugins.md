@@ -84,7 +84,7 @@ Kimi Claw、Kimi Plus 会话中暂不支持插件。
 
 请先下载并安装 [Kimi Work](https://www.kimi.com/products/kimi-work)，然后按照以下步骤创建和测试个人插件：
 
-1. **创建插件。**打开 Kimi Work，在会话中通过 slash 唤起 **Plugin Builder 技能**，描述希望创建的插件并提供相关信息，然后按照引导完成创建。如果你已有 ChatGPT、Claude 或其他平台的插件，也可以将原始插件文件提供给 Plugin Builder，请它转换为 Kimi 插件。
+1. <strong>创建插件。</strong>打开 Kimi Work，在会话中通过 slash 唤起 <strong>Plugin Builder 技能</strong>，描述希望创建的插件并提供相关信息，然后按照引导完成创建。如果你已有 ChatGPT、Claude 或其他平台的插件，也可以将原始插件文件提供给 Plugin Builder，请它转换为 Kimi 插件。
 
 <Frames
   src="./images/plugins/custom-plugin-1.png"
@@ -93,7 +93,7 @@ Kimi Claw、Kimi Plus 会话中暂不支持插件。
   height={256}
 />
 
-2. **安装插件。**创建完成后，进入「插件」→「个人」，找到刚刚创建的插件并安装。
+2. <strong>安装插件。</strong>创建完成后，进入「插件」→「个人」，找到刚刚创建的插件并安装。
 
 <Frames
   src="./images/plugins/custom-plugin-2.png"
@@ -102,7 +102,7 @@ Kimi Claw、Kimi Plus 会话中暂不支持插件。
   height={400}
 />
 
-3. **在会话中使用。**在新会话中通过 slash 唤起插件，使用自然语言提出任务请求，确认插件能够被正确唤起并完成预期操作。建议同时覆盖正常功能和异常或边界情况。
+3. <strong>在会话中使用。</strong>在新会话中通过 slash 唤起插件，使用自然语言提出任务请求，确认插件能够被正确唤起并完成预期操作。建议同时覆盖正常功能和异常或边界情况。
 
 <Frames
   src="./images/plugins/custom-plugin-3.png"

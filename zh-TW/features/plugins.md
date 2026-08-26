@@ -86,9 +86,15 @@ Kimi Claw、Kimi Plus 會話中暫不支援外掛。
 
 1. <strong>建立外掛。</strong>開啟 Kimi Work，在會話中透過 slash 喚起 <strong>Plugin Builder 技能</strong>，描述希望建立的外掛並提供相關資訊，然後按照引導完成建立。如果你已有 ChatGPT、Claude 或其他平台的外掛，也可以將原始外掛檔案提供給 Plugin Builder，請它轉換為 Kimi 外掛。
 
+<Frames src="./images/plugins/custom-plugin-1.png" alt="在 Kimi Work 中建立外掛" width={1312} height={256} />
+
 2. <strong>安裝外掛。</strong>建立完成後，進入「外掛」→「個人」，找到剛剛建立的外掛並安裝。
 
+<Frames src="./images/plugins/custom-plugin-2.png" alt="在個人外掛中安裝外掛" width={1384} height={400} />
+
 3. <strong>在會話中使用。</strong>在新會話中透過 slash 喚起外掛，使用自然語言提出任務請求，確認外掛能夠被正確喚起並完成預期操作。建議同時涵蓋正常功能和異常或邊界情況。
+
+<Frames src="./images/plugins/custom-plugin-3.png" alt="在會話中透過 slash 喚起外掛" width={1306} height={244} />
 
 ## 常見問題
 

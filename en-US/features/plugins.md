@@ -48,7 +48,7 @@ Plugins are not yet supported in Kimi Claw or Kimi Plus conversations.
 
 ## Installing plugins
 
-- **Entry points**: on the web, the **Plugins** tab in the sidebar, the **+** in the input box, or type "/"; on mobile, the **+** in the input box or "/".
+- **Entry points**: use the **+** in the input box or type "/"; on mobile, use the **+** in the input box or "/".
 - Search or browse in the plugin marketplace, open a plugin's details, and click install.
 - Some plugins require **OAuth authorization** (you are taken to the third-party sign-in; once authorized, you can use it); some plugins are **pre-installed** and need no manual installation.
 - **Enterprise-only plugins**: non-enterprise users can see them, but the "Install" button is greyed out.

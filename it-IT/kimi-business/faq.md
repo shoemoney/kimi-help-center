@@ -17,6 +17,14 @@ preview: false
 
 Kimi Business è pensato per le piccole e medie imprese con esigenze di collaborazione in team, in particolare per chi necessita di gestione delle postazioni, limiti d'uso più elevati e protezione della sicurezza dei dati.
 
+## Cos'è una postazione e a cosa è vincolata?
+
+Una «postazione» può essere intesa come uno slot d'uso del piano aziendale. Ogni postazione corrisponde a un account membro dell'azienda che utilizza i vantaggi di Kimi Business. Le postazioni sono generalmente vincolate agli account dei membri dell'organizzazione aziendale e gli amministratori possono assegnare e gestire le postazioni tra i membri dell'organizzazione.
+
+## Qual è la differenza tra il piano aziendale e un piano personale?
+
+Il piano aziendale è pensato principalmente per l'acquisto da parte di team e aziende. Rispetto a un piano personale, le differenze principali sono: un impegno sulla sicurezza dei dati — i dati aziendali non vengono utilizzati per l'addestramento dei modelli — e il supporto per i processi di acquisto aziendali, i contratti e la fatturazione.
+
 ## Un utente può aderire a più aziende?
 
 Sì. Ogni utente può aderire fino a 10 organizzazioni aziendali, occupando in modo indipendente una postazione in ciascuna di esse.

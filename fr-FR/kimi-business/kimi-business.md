@@ -16,7 +16,7 @@ preview: false
 Kimi Business est une solution d'espace de travail intelligent conçue pour les équipes d'entreprise. Elle offre l'ensemble des capacités d'IA tout en garantissant la sécurité des données de l'entreprise et en facilitant la collaboration au sein des équipes.
 
 <Callout type="tip">
-Kimi Business propose des abonnements annuels à partir de 5 sièges, parfaitement adaptés aux petites et moyennes entreprises ayant des besoins de collaboration en équipe.
+Kimi Business propose des abonnements annuels à partir de 2 sièges (jusqu'à 150 sièges par achat), parfaitement adaptés aux petites et moyennes entreprises ayant des besoins de collaboration en équipe.
 </Callout>
 
 ## Comment acheter
@@ -32,14 +32,14 @@ Kimi Business propose des abonnements annuels à partir de 5 sièges, parfaiteme
 | Élément | Détails |
 |------|---------|
 | Prix | 600 $/siège/an (environ 50 $/siège/mois) |
-| Achat minimum | 5 sièges, à partir de 3 000 $/an |
+| Achat minimum | 2 sièges, à partir de 1 200 $/an ; jusqu'à 150 sièges par achat |
 | Facturation | Abonnement annuel, ajout de sièges possible en cours d'abonnement |
 
 Les sièges supplémentaires achetés en cours d'abonnement sont facturés au prorata des jours restants et expirent à la même date que l'abonnement initial.
 
 ## Avantages principaux
 
-- Commande minimale de 5 sièges
+- Commande minimale de 2 sièges
 - Vos contenus ne sont pas utilisés pour l'entraînement des modèles par défaut
 - Jusqu'à 1 million de tokens de contexte pour les longues conversations
 - Débloquez toutes les fonctionnalités avancées : Kimi Work / Swarm / Dashboard / Plugins

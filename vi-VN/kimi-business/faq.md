@@ -17,6 +17,14 @@ preview: false
 
 Kimi Business phù hợp với các doanh nghiệp vừa và nhỏ có nhu cầu cộng tác nhóm, đặc biệt là những đơn vị cần quản lý suất người dùng, giới hạn sử dụng cao hơn và bảo vệ an toàn dữ liệu.
 
+## "Suất người dùng" là gì, và nó được gắn với cái gì?
+
+"Suất người dùng" có thể được hiểu là một vị trí sử dụng của gói doanh nghiệp. Mỗi suất người dùng tương ứng với một tài khoản thành viên doanh nghiệp sử dụng các quyền lợi Kimi Business. Suất người dùng thường được gắn với các tài khoản thành viên thuộc tổ chức doanh nghiệp, và quản trị viên có thể phân bổ cũng như quản lý suất người dùng giữa các thành viên trong tổ chức.
+
+## Gói doanh nghiệp khác gì so với gói cá nhân?
+
+Gói doanh nghiệp chủ yếu dành cho việc mua sắm của các nhóm và công ty. So với gói cá nhân, các khác biệt cốt lõi là: cam kết an toàn dữ liệu — dữ liệu doanh nghiệp không được dùng để huấn luyện mô hình; và hỗ trợ các quy trình mua sắm, hợp đồng và hóa đơn của doanh nghiệp.
+
 ## Một người dùng có thể tham gia nhiều doanh nghiệp không?
 
 Có. Mỗi người dùng có thể tham gia tối đa 10 tổ chức doanh nghiệp, chiếm suất người dùng độc lập tại từng tổ chức khác nhau.

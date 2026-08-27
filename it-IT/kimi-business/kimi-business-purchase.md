@@ -15,12 +15,12 @@ preview: false
 
 ## Acquisto online
 
-Nella tua homepage personale, fai clic su "Piano di abbonamento" e seleziona "Ottieni Enterprise" per scegliere il numero di postazioni e completare l'acquisto.
+Nella tua homepage personale, fai clic su "Piano di abbonamento" e seleziona "Ottieni Enterprise" per scegliere il numero di postazioni (il selettore delle postazioni è impostato su 5 per impostazione predefinita e può essere regolato tra 2 e 150) e completare l'acquisto.
 
 Puoi anche andare direttamente alla [pagina di acquisto per le aziende](https://www.kimi.com/membership/pricing?from=help&tab=business) per completare l'acquisto.
 
 <Callout type="tip">
-Kimi Business parte da 5 postazioni con una sottoscrizione annuale e puoi aggiungere altre postazioni durante il periodo di abbonamento.
+Kimi Business parte da 2 postazioni (fino a 150 postazioni per acquisto) con una sottoscrizione annuale e puoi aggiungere altre postazioni durante il periodo di abbonamento.
 </Callout>
 
 ## Contatta l'assistenza

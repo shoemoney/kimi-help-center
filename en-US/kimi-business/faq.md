@@ -17,6 +17,14 @@ preview: false
 
 Kimi Business is suitable for small and medium-sized businesses with team collaboration needs, particularly those requiring seat management, higher usage limits, and data security protection.
 
+## What is a seat, and what is it bound to?
+
+A "seat" can be understood as a usage slot for the enterprise plan. Each seat corresponds to one enterprise member account using Kimi Business benefits. Seats are typically bound to member accounts under the enterprise organization, and administrators can allocate and manage seats across the organization's members.
+
+## What is the difference between the enterprise plan and a personal plan?
+
+The enterprise plan is mainly intended for procurement by teams and companies. Compared with a personal plan, the core differences are: a data security commitment — enterprise data is not used for model training; and support for enterprise procurement processes, contracts, and invoicing.
+
 ## Can a user join multiple enterprises?
 
 Yes. Each user can join up to 10 enterprise organizations, independently occupying seats in different organizations.

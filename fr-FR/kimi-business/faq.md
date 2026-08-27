@@ -17,6 +17,14 @@ preview: false
 
 Kimi Business convient aux petites et moyennes entreprises ayant des besoins de collaboration en équipe, en particulier celles qui requièrent une gestion des sièges, des limites d'utilisation plus élevées et une protection de la sécurité des données.
 
+## Qu'est-ce qu'un siège et à quoi est-il lié ?
+
+Un « siège » peut être compris comme un emplacement d'utilisation de la formule entreprise. Chaque siège correspond à un compte de membre de l'entreprise profitant des avantages Kimi Business. Les sièges sont généralement liés aux comptes des membres au sein de l'organisation d'entreprise, et les administrateurs peuvent attribuer et gérer les sièges entre les membres de l'organisation.
+
+## Quelle est la différence entre la formule entreprise et un abonnement personnel ?
+
+La formule entreprise est principalement destinée aux achats effectués par les équipes et les entreprises. Par rapport à un abonnement personnel, les différences essentielles sont les suivantes : un engagement en matière de sécurité des données — les données de l'entreprise ne sont pas utilisées pour l'entraînement des modèles — et la prise en charge des processus d'achat, des contrats et de la facturation propres aux entreprises.
+
 ## Un utilisateur peut-il rejoindre plusieurs entreprises ?
 
 Oui. Chaque utilisateur peut rejoindre jusqu'à 10 organisations d'entreprise, en occupant indépendamment des sièges au sein de chacune.

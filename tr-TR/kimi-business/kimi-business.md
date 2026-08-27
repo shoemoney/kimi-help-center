@@ -16,7 +16,7 @@ preview: false
 Kimi Business, kurumsal ekipler için tasarlanmış akıllı bir çalışma alanı çözümüdür. Kurumsal veri güvenliğini sağlarken eksiksiz yapay zekâ yeteneklerini sunar ve ekip iş birliğini destekler.
 
 <Callout type="tip">
-Kimi Business, en az 5 koltuktan başlayan yıllık abonelikler sunar; ekip iş birliği ihtiyacı olan küçük ve orta ölçekli işletmeler için idealdir.
+Kimi Business, en az 2 koltuktan başlayan yıllık abonelikler sunar (satın alma başına en fazla 150 koltuk); ekip iş birliği ihtiyacı olan küçük ve orta ölçekli işletmeler için idealdir.
 </Callout>
 
 ## Nasıl satın alınır
@@ -32,14 +32,14 @@ Kimi Business, en az 5 koltuktan başlayan yıllık abonelikler sunar; ekip iş 
 | Öğe | Ayrıntılar |
 |------|---------|
 | Fiyat | 600 $/koltuk/yıl (yaklaşık 50 $/koltuk/ay) |
-| Minimum Satın Alma | 5 koltuk, yılda 3.000 $'dan başlayan |
+| Minimum Satın Alma | 2 koltuk, yılda 1.200 $'dan başlayan; satın alma başına en fazla 150 koltuk |
 | Faturalandırma | Yıllık abonelik, abonelik süresi boyunca koltuk eklemeyi destekler |
 
 Abonelik süresi içinde satın alınan ek koltuklar, kalan gün sayısına göre orantılı olarak ücretlendirilir ve mevcut aboneliğle aynı sona erme tarihine sahip olur.
 
 ## Temel Avantajlar
 
-- En az 5 koltukluk minimum sipariş
+- En az 2 koltukluk minimum sipariş
 - İçeriğiniz varsayılan olarak model eğitiminde kullanılmaz
 - Uzun konuşmalar için 1 milyon tokena kadar bağlam
 - Tüm gelişmiş özelliklerin kilidini açın: Kimi Work / Swarm / Dashboard / Plugins

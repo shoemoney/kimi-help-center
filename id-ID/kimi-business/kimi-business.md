@@ -16,7 +16,7 @@ preview: false
 Kimi Business adalah solusi ruang kerja cerdas yang dirancang untuk tim enterprise, menghadirkan kemampuan AI lengkap sekaligus menjaga keamanan data enterprise dan mendukung kolaborasi tim.
 
 <Callout type="tip">
-Kimi Business menawarkan langganan tahunan mulai dari 5 seat, cocok untuk usaha kecil dan menengah yang membutuhkan kolaborasi tim.
+Kimi Business menawarkan langganan tahunan mulai dari 2 seat (hingga 150 seat per pembelian), cocok untuk usaha kecil dan menengah yang membutuhkan kolaborasi tim.
 </Callout>
 
 ## Cara membeli
@@ -32,14 +32,14 @@ Kimi Business menawarkan langganan tahunan mulai dari 5 seat, cocok untuk usaha 
 | Item | Detail |
 |------|---------|
 | Harga | $600/seat/tahun (sekitar $50/seat/bulan) |
-| Pembelian Minimum | 5 seat, mulai dari $3.000/tahun |
+| Pembelian Minimum | 2 seat, mulai dari $1.200/tahun; hingga 150 seat per pembelian |
 | Penagihan | Langganan tahunan, mendukung penambahan seat selama periode langganan |
 
 Seat tambahan yang dibeli selama periode langganan dihitung secara proporsional berdasarkan sisa hari, dengan tanggal kedaluwarsa yang sama dengan langganan awal.
 
 ## Manfaat Utama
 
-- Pemesanan minimum 5 seat
+- Pemesanan minimum 2 seat
 - Konten Anda tidak digunakan untuk melatih model secara default
 - Konteks hingga 1 juta token untuk percakapan panjang
 - Buka semua fitur lanjutan: Kimi Work / Swarm / Dashboard / Plugins

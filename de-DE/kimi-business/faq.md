@@ -17,6 +17,14 @@ preview: false
 
 Kimi Business eignet sich für kleine und mittlere Unternehmen mit Bedarf an Teamzusammenarbeit, insbesondere für solche, die Platzverwaltung, höhere Nutzungslimits und Datensicherheit benötigen.
 
+## Was ist ein Platz, und woran ist er gebunden?
+
+Ein „Platz“ kann als Nutzungsslot für den Unternehmenstarif verstanden werden. Jeder Platz entspricht einem Unternehmensmitgliedskonto, das die Leistungen von Kimi Business nutzt. Plätze sind in der Regel an Mitgliedskonten innerhalb der Unternehmensorganisation gebunden, und Administratoren können die Plätze den Mitgliedern der Organisation zuweisen und verwalten.
+
+## Was ist der Unterschied zwischen dem Unternehmenstarif und einem persönlichen Tarif?
+
+Der Unternehmenstarif ist hauptsächlich für die Beschaffung durch Teams und Unternehmen vorgesehen. Im Vergleich zu einem persönlichen Tarif sind die wichtigsten Unterschiede: eine Zusicherung zur Datensicherheit – Unternehmensdaten werden nicht für das Modelltraining verwendet – sowie die Unterstützung von Unternehmensbeschaffungsprozessen, Verträgen und Rechnungsstellung.
+
 ## Kann ein Nutzer mehreren Unternehmen beitreten?
 
 Ja. Jeder Nutzer kann bis zu 10 Unternehmensorganisationen beitreten und belegt in jeder Organisation unabhängig einen eigenen Platz.

@@ -15,12 +15,12 @@ preview: false
 
 ## Compra en línea
 
-En tu página principal personal, haz clic en «Plan de membresía» y selecciona «Obtener Enterprise» para elegir la cantidad de puestos y completar tu compra.
+En tu página principal personal, haz clic en «Plan de membresía» y selecciona «Obtener Enterprise» para ajustar la cantidad de puestos directamente en la página de suscripción (el selector de puestos muestra 5 de forma predeterminada y se puede configurar entre 2 y 150) y completar tu compra.
 
 También puedes ir directamente a la [página de compra para empresas](https://www.kimi.com/membership/pricing?from=help&tab=business) para completar la compra.
 
 <Callout type="tip">
-Kimi Business comienza con 5 puestos y una suscripción anual, y puedes agregar más puestos durante el periodo de la suscripción.
+Kimi Business comienza con 2 puestos (hasta 150 puestos por compra) con una suscripción anual, y puedes agregar más puestos durante el periodo de la suscripción.
 </Callout>
 
 ## Contactar al soporte

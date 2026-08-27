@@ -16,7 +16,7 @@ preview: false
 Kimi Business là giải pháp không gian làm việc thông minh dành cho các nhóm doanh nghiệp, mang đến đầy đủ năng lực AI đồng thời đảm bảo an toàn dữ liệu doanh nghiệp và hỗ trợ cộng tác theo nhóm.
 
 <Callout type="tip">
-Kimi Business cung cấp gói đăng ký theo năm với số lượng tối thiểu 5 chỗ, lý tưởng cho các doanh nghiệp vừa và nhỏ có nhu cầu cộng tác nhóm.
+Kimi Business cung cấp gói đăng ký theo năm với số lượng tối thiểu 2 chỗ (tối đa 150 chỗ cho mỗi lần mua), lý tưởng cho các doanh nghiệp vừa và nhỏ có nhu cầu cộng tác nhóm.
 </Callout>
 
 ## Cách mua
@@ -32,14 +32,14 @@ Kimi Business cung cấp gói đăng ký theo năm với số lượng tối thi
 | Mục | Chi tiết |
 |------|---------|
 | Giá | 600 USD/chỗ/năm (khoảng 50 USD/chỗ/tháng) |
-| Số lượng mua tối thiểu | 5 chỗ, từ 3.000 USD/năm |
+| Số lượng mua tối thiểu | 2 chỗ, từ 1.200 USD/năm; tối đa 150 chỗ cho mỗi lần mua |
 | Thanh toán | Đăng ký theo năm, hỗ trợ thêm chỗ trong suốt thời gian đăng ký |
 
 Các chỗ mua thêm trong thời gian đăng ký sẽ được tính theo tỷ lệ số ngày còn lại và có cùng ngày hết hạn với gói đăng ký ban đầu.
 
 ## Quyền lợi cốt lõi
 
-- Số lượng đặt mua tối thiểu 5 chỗ
+- Số lượng đặt mua tối thiểu 2 chỗ
 - Nội dung của bạn không được dùng để huấn luyện mô hình theo mặc định
 - Lên đến 1 triệu token ngữ cảnh cho các cuộc trò chuyện dài
 - Mở khóa tất cả tính năng nâng cao: Kimi Work / Swarm / Dashboard / Plugins

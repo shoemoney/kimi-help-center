@@ -15,7 +15,7 @@ preview: false
 
 ## Purchase online
 
-On your personal homepage, click "Membership Plan" and select "Get Enterprise" to choose the number of seats and complete your purchase. You can also go directly to the [enterprise purchase page](https://www.kimi.com/membership/pricing?from=help&tab=business) to complete your purchase.
+On your personal homepage, click "Membership Plan" and select "Get Enterprise" to adjust the number of seats directly on the subscription page (the seat selector defaults to 5 and can be set between 2 and 150) and complete your purchase. You can also go directly to the [enterprise purchase page](https://www.kimi.com/membership/pricing?from=help&tab=business) to complete your purchase.
 
 <Frames
   src="./images/kimi-business-purchase/subscription-page.png"
@@ -30,7 +30,7 @@ On your personal homepage, click "Membership Plan" and select "Get Enterprise" t
 />
 
 <Callout type="tip">
-Kimi Business starts at 5 seats with an annual subscription, and you can add more seats during the subscription period.
+Kimi Business starts at 2 seats (up to 150 seats per purchase) with an annual subscription, and you can add more seats during the subscription period.
 </Callout>
 
 ## Contact support

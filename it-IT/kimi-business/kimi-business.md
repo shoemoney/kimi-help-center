@@ -16,7 +16,7 @@ preview: false
 Kimi Business è una soluzione di workspace intelligente progettata per i team aziendali, che offre funzionalità AI complete garantendo al contempo la sicurezza dei dati aziendali e il supporto alla collaborazione tra team.
 
 <Callout type="tip">
-Kimi Business prevede abbonamenti annuali a partire da 5 postazioni, ideali per le piccole e medie imprese con esigenze di collaborazione tra team.
+Kimi Business prevede abbonamenti annuali a partire da 2 postazioni (fino a 150 postazioni per acquisto), ideali per le piccole e medie imprese con esigenze di collaborazione tra team.
 </Callout>
 
 ## Come acquistare
@@ -32,14 +32,14 @@ Kimi Business prevede abbonamenti annuali a partire da 5 postazioni, ideali per 
 | Voce | Dettagli |
 |------|---------|
 | Prezzo | 600 $/postazione/anno (circa 50 $/postazione/mese) |
-| Acquisto minimo | 5 postazioni, a partire da 3.000 $/anno |
+| Acquisto minimo | 2 postazioni, a partire da 1.200 $/anno; fino a 150 postazioni per acquisto |
 | Fatturazione | Abbonamento annuale, con possibilità di aggiungere postazioni durante il periodo di abbonamento |
 
 Le postazioni aggiuntive acquistate durante il periodo di abbonamento vengono calcolate in proporzione ai giorni rimanenti e condividono la stessa data di scadenza dell'abbonamento originale.
 
 ## Vantaggi principali
 
-- Ordine minimo di 5 postazioni
+- Ordine minimo di 2 postazioni
 - I tuoi contenuti non vengono utilizzati per l'addestramento dei modelli per impostazione predefinita
 - Fino a 1 milione di token di contesto per conversazioni lunghe
 - Sblocca tutte le funzionalità avanzate: Kimi Work / Swarm / Dashboard / Plugins

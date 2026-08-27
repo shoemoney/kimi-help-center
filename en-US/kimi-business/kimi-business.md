@@ -16,7 +16,7 @@ preview: false
 Kimi Business is an intelligent workspace solution designed for enterprise teams, providing complete AI capabilities while ensuring enterprise data security and supporting team collaboration.
 
 <Callout type="tip">
-Kimi Business offers annual subscriptions starting from 5 seats, ideal for small and medium-sized businesses with team collaboration needs.
+Kimi Business offers annual subscriptions starting from 2 seats (up to 150 seats per purchase), ideal for small and medium-sized businesses with team collaboration needs.
 </Callout>
 
 ## How to purchase
@@ -32,14 +32,14 @@ Kimi Business offers annual subscriptions starting from 5 seats, ideal for small
 | Item | Details |
 |------|---------|
 | Price | $600/seat/year (approx. $50/seat/month) |
-| Minimum Purchase | 5 seats, starting from $3,000/year |
+| Minimum Purchase | 2 seats, starting from $1,200/year; up to 150 seats per purchase |
 | Billing | Annual subscription, supports adding seats during subscription period |
 
 Additional seats purchased during the subscription period are prorated based on remaining days, with the same expiration date as the original subscription.
 
 ## Core Benefits
 
-- Minimum order of 5 seats
+- Minimum order of 2 seats
 - No model training on your content by default
 - Up to 1M tokens of context for long conversations
 - Unlock all advanced features: Kimi Work / Swarm / Dashboard / Plugins

@@ -15,12 +15,12 @@ preview: false
 
 ## Compra on-line
 
-Na sua página inicial pessoal, clique em "Plano de assinatura" e selecione "Obter o plano Enterprise" para escolher o número de assentos e concluir a compra.
+Na sua página inicial pessoal, clique em "Plano de assinatura" e selecione "Obter o plano Enterprise" para ajustar o número de assentos diretamente na página de assinatura (o seletor de assentos começa em 5 por padrão e pode ser definido entre 2 e 150) e concluir a compra.
 
 Você também pode acessar diretamente a [página de compra empresarial](https://www.kimi.com/membership/pricing?from=help&tab=business) para concluir a compra.
 
 <Callout type="tip">
-O Kimi Business começa com 5 assentos em assinatura anual, e você pode adicionar mais assentos durante o período de vigência.
+O Kimi Business começa com 2 assentos (até 150 assentos por compra) em assinatura anual, e você pode adicionar mais assentos durante o período de vigência.
 </Callout>
 
 ## Falar com o suporte

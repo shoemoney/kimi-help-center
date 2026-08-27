@@ -17,6 +17,14 @@ preview: false
 
 Kimi Business, ekip iş birliğine ihtiyaç duyan küçük ve orta ölçekli işletmeler için uygundur; özellikle koltuk yönetimi, daha yüksek kullanım limitleri ve veri güvenliği koruması gerektirenler için idealdir.
 
+## Koltuk nedir ve neye bağlıdır?
+
+"Koltuk", kurumsal plan için bir kullanım slotu olarak anlaşılabilir. Her koltuk, Kimi Business avantajlarından yararlanan bir kurumsal üye hesabına karşılık gelir. Koltuklar genellikle kurumsal organizasyon altındaki üye hesaplarına bağlanır ve yöneticiler, organizasyondaki üyeler arasında koltuk tahsisi ve yönetimi yapabilir.
+
+## Kurumsal plan ile bireysel plan arasındaki fark nedir?
+
+Kurumsal plan esas olarak ekiplerin ve şirketlerin satın alması amaçlanmıştır. Bireysel planla karşılaştırıldığında temel farklar şunlardır: veri güvenliği taahhüdü — kurumsal veriler model eğitiminde kullanılmaz; ve kurumsal satın alma süreçleri, sözleşmeler ile faturalandırma desteği.
+
 ## Bir kullanıcı birden fazla işletmeye katılabilir mi?
 
 Evet. Her kullanıcı en fazla 10 kurumsal kuruluşa katılabilir ve farklı kuruluşlarda birbirinden bağımsız olarak koltuk kullanabilir.

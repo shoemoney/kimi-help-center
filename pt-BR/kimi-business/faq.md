@@ -17,6 +17,14 @@ preview: false
 
 O Kimi Business é indicado para pequenas e médias empresas com necessidades de colaboração em equipe, especialmente aquelas que precisam de gerenciamento de assentos, limites de uso mais altos e proteção da segurança de dados.
 
+## O que é um assento e a que ele está vinculado?
+
+Um "assento" pode ser entendido como uma vaga de uso do plano empresarial. Cada assento corresponde a uma conta de membro da empresa usando os benefícios do Kimi Business. Os assentos geralmente estão vinculados às contas de membros da organização corporativa, e os administradores podem alocar e gerenciar os assentos entre os membros da organização.
+
+## Qual é a diferença entre o plano empresarial e um plano pessoal?
+
+O plano empresarial é voltado principalmente para aquisição por equipes e empresas. Em comparação com um plano pessoal, as principais diferenças são: um compromisso de segurança de dados — os dados da empresa não são usados para treinar modelos; e suporte aos processos de compra corporativa, contratos e faturamento.
+
 ## Um usuário pode participar de várias empresas?
 
 Sim. Cada usuário pode participar de até 10 organizações corporativas, ocupando assentos de forma independente em cada uma delas.

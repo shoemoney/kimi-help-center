@@ -16,7 +16,7 @@ preview: false
 Kimi Business ist eine intelligente Workspace-Lösung für Unternehmensteams. Sie bietet den vollen Funktionsumfang der KI, gewährleistet die Sicherheit von Unternehmensdaten und unterstützt die Zusammenarbeit im Team.
 
 <Callout type="tip">
-Kimi Business bietet Jahresabonnements ab 5 Plätzen – ideal für kleine und mittlere Unternehmen mit Bedarf an Teamzusammenarbeit.
+Kimi Business bietet Jahresabonnements ab 2 Plätzen (bis zu 150 Plätzen pro Kauf) – ideal für kleine und mittlere Unternehmen mit Bedarf an Teamzusammenarbeit.
 </Callout>
 
 ## So kaufen Sie
@@ -32,14 +32,14 @@ Kimi Business bietet Jahresabonnements ab 5 Plätzen – ideal für kleine und m
 | Position | Details |
 |------|---------|
 | Preis | 600 $/Platz/Jahr (ca. 50 $/Platz/Monat) |
-| Mindestabnahme | 5 Plätze, ab 3.000 $/Jahr |
+| Mindestabnahme | 2 Plätze, ab 1.200 $/Jahr; bis zu 150 Plätzen pro Kauf |
 | Abrechnung | Jahresabonnement, Hinzufügen weiterer Plätze während der Laufzeit möglich |
 
 Weitere Plätze, die während der Laufzeit hinzugekauft werden, werden anteilig nach den verbleibenden Tagen berechnet und haben dasselbe Ablaufdatum wie das ursprüngliche Abonnement.
 
 ## Wichtigste Vorteile
 
-- Mindestabnahme von 5 Plätzen
+- Mindestabnahme von 2 Plätzen
 - Ihre Inhalte werden standardmäßig nicht zum Training von Modellen verwendet
 - Bis zu 1 Mio. Tokens Kontext für lange Unterhaltungen
 - Alle erweiterten Funktionen freischalten: Kimi Work / Swarm / Dashboard / Plugins

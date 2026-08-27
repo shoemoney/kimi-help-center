@@ -17,6 +17,14 @@ preview: false
 
 Kimi Business cocok untuk usaha kecil dan menengah yang membutuhkan kolaborasi tim, terutama yang memerlukan pengelolaan kursi, batas penggunaan lebih tinggi, dan perlindungan keamanan data.
 
+## Apa itu kursi, dan kursi terikat pada apa?
+
+"Kursi" dapat dipahami sebagai slot penggunaan untuk paket enterprise. Setiap kursi berkorespondensi dengan satu akun anggota enterprise yang menggunakan manfaat Kimi Business. Kursi biasanya terikat pada akun anggota di bawah organisasi enterprise, dan administrator dapat mengalokasikan serta mengelola kursi di antara anggota organisasi.
+
+## Apa perbedaan antara paket enterprise dan paket pribadi?
+
+Paket enterprise terutama ditujukan untuk pengadaan oleh tim dan perusahaan. Dibandingkan dengan paket pribadi, perbedaan utamanya adalah: komitmen keamanan data — data enterprise tidak digunakan untuk pelatihan model; serta dukungan untuk proses pengadaan, kontrak, dan faktur enterprise.
+
 ## Bisakah satu pengguna bergabung ke beberapa perusahaan?
 
 Bisa. Setiap pengguna dapat bergabung hingga 10 organisasi enterprise, dengan menempati kursi secara terpisah di masing-masing organisasi.

@@ -17,6 +17,14 @@ preview: false
 
 Kimi Business is designed for small and medium-sized businesses that need team collaboration, especially teams that require seat management, higher usage credit, and data security protection.
 
+## What is a seat, and what is it bound to?
+
+A "seat" can be understood as a usage slot for the enterprise plan. Each seat corresponds to one enterprise member account using Kimi Business benefits. Seats are typically bound to member accounts under the enterprise organization, and administrators can allocate and manage seats across the organization's members.
+
+## What is the difference between the enterprise plan and a personal plan?
+
+The enterprise plan is mainly intended for procurement by teams and companies. Compared with a personal plan, the core differences are: a data security commitment — enterprise data is not used for model training; and support for enterprise procurement processes, contracts, and invoicing.
+
 ## Can one user join multiple enterprises?
 
 Yes. Each user can join up to 10 enterprise organizations and occupies a separate seat in each organization.
@@ -34,6 +42,10 @@ Yes. Administrators can buy additional seats at any time. The price is prorated 
 The current version does not support self-service administrator transfer. If you need to make a change, please contact customer support.
 
 **Support email:** [sales@kimi.ai](mailto:sales@kimi.ai)
+
+## Can the enterprise plan be billed monthly? Are there any discounts? Is invoicing supported, and what invoice types are available?
+
+The enterprise plan is currently billed annually, with no discounts or promotional offers. Invoicing is supported, and both general VAT invoices and special VAT invoices are available.
 
 ## How do I request an invoice for a Kimi Business subscription?
 

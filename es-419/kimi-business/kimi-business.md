@@ -16,7 +16,7 @@ preview: false
 Kimi Business es una solución de espacio de trabajo inteligente diseñada para equipos empresariales, que ofrece capacidades completas de IA, garantiza la seguridad de los datos de la empresa y facilita la colaboración en equipo.
 
 <Callout type="tip">
-Kimi Business ofrece suscripciones anuales a partir de 5 asientos, ideales para pequeñas y medianas empresas con necesidades de colaboración en equipo.
+Kimi Business ofrece suscripciones anuales a partir de 2 asientos (hasta 150 asientos por compra), ideales para pequeñas y medianas empresas con necesidades de colaboración en equipo.
 </Callout>
 
 ## Cómo comprar
@@ -32,14 +32,14 @@ Kimi Business ofrece suscripciones anuales a partir de 5 asientos, ideales para 
 | Concepto | Detalles |
 |------|---------|
 | Precio | $600/asiento/año (aprox. $50/asiento/mes) |
-| Compra mínima | 5 asientos, a partir de $3,000/año |
+| Compra mínima | 2 asientos, a partir de $1,200/año; hasta 150 asientos por compra |
 | Facturación | Suscripción anual; permite agregar asientos durante el periodo de suscripción |
 
 Los asientos adicionales comprados durante el periodo de suscripción se prorratean según los días restantes y tienen la misma fecha de vencimiento que la suscripción original.
 
 ## Beneficios principales
 
-- Pedido mínimo de 5 asientos
+- Pedido mínimo de 2 asientos
 - Tu contenido no se utiliza para entrenar modelos de forma predeterminada
 - Hasta 1 millón de tokens de contexto para conversaciones largas
 - Desbloquea todas las funciones avanzadas: Kimi Work / Swarm / Dashboard / Plugins

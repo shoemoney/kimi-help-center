@@ -27,11 +27,11 @@ Các tính năng hội viên Kimi cùng dùng chung một quỹ credit, áp dụ
 | **Kimi Claw** | Trợ lý AI cá nhân của bạn, được triển khai trên đám mây |
 | **Tính năng khác** | Tạo hình ảnh và nhiều tính năng khác |
 
-> **K2.6**: Trong Chat, K2.6 miễn phí cho mọi người dùng và không tiêu hao credit; khi dùng dưới dạng K2.6 Agent trong Kimi Work, tính năng này vẫn tiêu hao credit hội viên.
+> **K2.6**: Trong Chat, K2.6 cũng tiêu hao credit hội viên, được tính phí giống như khi dùng dưới dạng K2.6 Agent trong Kimi Work.
 > **Kimi Code**: Sử dụng cùng quỹ credit dùng chung, nhưng có rate limit riêng theo mốc 5 giờ / hằng tuần, chỉ áp dụng cho Kimi Code.
 
 <Callout type="tip">
-Điều này có nghĩa là bạn có thể phân bổ credit trong quỹ dùng chung theo cách mình muốn — tháng này dành nhiều hơn cho nghiên cứu, tháng sau dành nhiều hơn cho tài liệu. Trong Chat, K2.6 không tiêu hao credit.
+Điều này có nghĩa là bạn có thể phân bổ credit trong quỹ dùng chung theo cách mình muốn — tháng này dành nhiều hơn cho nghiên cứu, tháng sau dành nhiều hơn cho tài liệu.
 </Callout>
 
 ## Credit được tính như thế nào?

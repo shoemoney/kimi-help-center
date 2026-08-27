@@ -37,7 +37,7 @@ Kimi では複数のモデルを利用できます。入力ボックス上部の
 | **K3 Swarm** | 低 / 高 / 最大 | 大規模検索やバッチ処理を一気に完了したい場合 |
 
 <Callout type="tip">
-Chat で K2.6 を使う場合、credit（クレジット）は消費されません（Kimi Work 内で K2.6 Agent として使う場合は、membership credit（会員向けクレジット）を消費します）。K3 と K3 Swarm は credit（クレジット）課金です。詳しくは [membership benefits](https://www.kimi.com/help/membership/membership-overview) をご覧ください。
+K2.6、K3、K3 Swarm はいずれも credit（クレジット）課金です。詳しくは [membership benefits](https://www.kimi.com/help/membership/membership-overview) をご覧ください。
 </Callout>
 
 ### Kimi K3 について

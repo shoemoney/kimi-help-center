@@ -63,7 +63,7 @@ Kimi는 네 가지 멤버십 등급을 제공하며, 각 등급은 월간 또는
 
 ## credit 배정
 
-모든 Kimi 멤버십 기능은 하나의 credit 풀을 공유하며, token 사용량을 기준으로 차감됩니다. Kimi Code에는 Kimi Code에만 적용되는 별도의 5시간/주간 rate limit이 있으며, 다른 기능에는 영향을 주지 않습니다. Chat에서 K2.6은 무료로 제공되며 credit을 사용하지 않습니다. 상위 등급일수록 비례해 더 큰 credit 풀이 제공되어, 더 자주 그리고 더 복잡한 워크플로를 실행할 수 있습니다. 자세한 내용은 [Credit Update & Usage Rules](/membership/update-rules)를 참고하세요.
+모든 Kimi 멤버십 기능은 하나의 credit 풀을 공유하며, token 사용량을 기준으로 차감됩니다. Kimi Code에는 Kimi Code에만 적용되는 별도의 5시간/주간 rate limit이 있으며, 다른 기능에는 영향을 주지 않습니다. Chat에서의 K2.6 대화도 credit 기준으로 과금됩니다. 상위 등급일수록 비례해 더 큰 credit 풀이 제공되어, 더 자주 그리고 더 복잡한 워크플로를 실행할 수 있습니다. 자세한 내용은 [Credit Update & Usage Rules](/membership/update-rules)를 참고하세요.
 
 ## credit 자주 묻는 질문
 

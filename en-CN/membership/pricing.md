@@ -99,7 +99,7 @@ The Agent usage figures above are estimates based on typical task token consumpt
 ## Credit Details
 
 <Callout type="info">
-All Kimi membership features share one credit pool and are calculated based on actual token consumption, so you do not need to manage usage for each feature separately. K2.6 used from the chat entry point is free and does not consume credits. Kimi Code also has a separate limit of 5 hours per week, which applies only to Kimi Code and does not affect other membership features. Higher-tier plans provide more credits for more frequent and complex use cases.
+All Kimi membership features share one credit pool and are calculated based on actual token consumption, so you do not need to manage usage for each feature separately. K2.6 used from the chat entry point is also billed against credits. Kimi Code also has a separate limit of 5 hours per week, which applies only to Kimi Code and does not affect other membership features. Higher-tier plans provide more credits for more frequent and complex use cases.
 </Callout>
 
 - **Credit pool**: All membership features, including website deployment, Deep Research, PPT, Kimi Code, Kimi Work, Kimi Claw, K3, and K3 Agent Swarm, share one credit pool. Credits are deducted based on actual token consumption. If any feature uses up the credits, other features will also be affected.

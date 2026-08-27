@@ -37,7 +37,7 @@ Kimi มีโมเดลให้เลือกหลายแบบ คล�
 | **K3 Swarm** | ต่ำ / สูง / สูงสุด | การค้นหาขนาดใหญ่และการประมวลผลแบบชุด ทำเสร็จในครั้งเดียว |
 
 <Callout type="tip">
-K2.6 ไม่ใช้ credit ใน Chat (แต่เมื่อใช้เป็น K2.6 Agent ภายใน Kimi Work จะยังใช้ credit สมาชิก); K3 และ K3 Swarm คิดค่าบริการด้วย credit ดูรายละเอียดได้ที่ [สิทธิประโยชน์สมาชิก](https://www.kimi.com/help/membership/membership-overview)
+K2.6, K3 และ K3 Swarm ล้วนคิดค่าบริการด้วย credit ดูรายละเอียดได้ที่ [สิทธิประโยชน์สมาชิก](https://www.kimi.com/help/membership/membership-overview)
 </Callout>
 
 ### เกี่ยวกับ Kimi K3

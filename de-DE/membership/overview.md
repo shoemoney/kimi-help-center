@@ -16,7 +16,7 @@ preview_content: "Vergleiche die vier Kimi-Mitgliedschaftsstufen, das Credit-Sys
 
 Kimi bietet vier Mitgliedschaftsstufen, die mit deinen Anforderungen mitwachsen – von alltäglicher Produktivität bis hin zu Workflows für Power-User.
 
-Alle Funktionen der Kimi-Mitgliedschaft nutzen einen gemeinsamen Credit-Pool. Website-Bereitstellung, Deep Research, Slides, Kimi Code, Kimi Work, Kimi Claw und weitere Mitgliedschaftsfunktionen verbrauchen Mitgliedschafts-Credits. Im Chat ist K2.6 für alle Nutzer kostenlos und verbraucht keine Credits.
+Alle Funktionen der Kimi-Mitgliedschaft nutzen einen gemeinsamen Credit-Pool. Website-Bereitstellung, Deep Research, Slides, Kimi Code, Kimi Work, Kimi Claw und weitere Mitgliedschaftsfunktionen verbrauchen Mitgliedschafts-Credits, einschließlich K2.6-Unterhaltungen im Chat.
 
 ## Tarifvergleich
 

@@ -37,7 +37,7 @@ Kimi menyediakan beberapa model. Klik tombol pengalih model di atas kotak input 
 | **K3 Swarm** | Rendah / Tinggi / Maks | Pencarian skala besar dan pemrosesan batch, selesai dalam satu kali jalan |
 
 <Callout type="tip">
-K2.6 tidak memakai credit di Chat (saat digunakan sebagai K2.6 Agent di dalam Kimi Work, tetap memakai credit keanggotaan); K3 dan K3 Swarm ditagih dengan credit. Lihat [manfaat keanggotaan](https://www.kimi.com/help/membership/membership-overview) untuk detailnya.
+K2.6, K3, dan K3 Swarm semuanya ditagih dengan credit. Lihat [manfaat keanggotaan](https://www.kimi.com/help/membership/membership-overview) untuk detailnya.
 </Callout>
 
 ### Tentang Kimi K3

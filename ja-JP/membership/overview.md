@@ -16,7 +16,7 @@ preview_content: "Kimi の4つのメンバーシップ階層、credit（クレ�
 
 Kimi には、日常の生産性向上からヘビーユーザー向けのワークフローまで、ニーズに合わせて選べる4つのメンバーシップ階層があります。
 
-Kimi のメンバーシップ機能はすべて、共通の credit（クレジット）プールを使用します。Webサイトのデプロイ、Deep Research、スライド、Kimi Code、Kimi Work、Kimi Claw などのメンバーシップ機能は、いずれもメンバーシップ credit を消費します。チャットでは、K2.6 はすべてのユーザーが無料で利用でき、credit は消費されません。
+Kimi のメンバーシップ機能はすべて、共通の credit（クレジット）プールを使用します。Webサイトのデプロイ、Deep Research、スライド、Kimi Code、Kimi Work、Kimi Claw などのメンバーシップ機能は、Chat での K2.6 の会話も含め、いずれもメンバーシップ credit を消費します。
 
 ## プラン比較
 

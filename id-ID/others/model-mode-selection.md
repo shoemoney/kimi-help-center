@@ -21,7 +21,7 @@ Gunakan pemilih model di atas kotak input untuk memilih:
 
 | Model | Intensitas berpikir | Paling cocok untuk | Credit |
 |---|---|---|---|
-| **K2.6** | Standar / Lanjutan | Percakapan cepat dan tanya jawab, dengan respons yang lebih cepat | **Tidak memakai credit keanggotaan di Chat** |
+| **K2.6** | Standar / Lanjutan | Percakapan cepat dan tanya jawab, dengan respons yang lebih cepat | Ditagihkan ke credit |
 | **K3** | Standar / Lanjutan / Ekstrem | Percakapan dan tugas Agent, dengan kemampuan keseluruhan paling kuat | Ditagihkan ke credit |
 | **K3 Cluster** | Standar / Lanjutan / Ekstrem | Pencarian skala besar, pemrosesan batch, dan penyelesaian tugas bervolume tinggi sekaligus | Ditagihkan ke credit |
 
@@ -29,7 +29,7 @@ Gunakan pemilih model di atas kotak input untuk memilih:
 - Untuk **pembuatan gambar / video / audio**, klik “+” → Plugins, lalu pilih fitur yang relevan dan gunakan bersama **K3**.
 
 <Callout type="info">
-K2.6 yang gratis dan tidak memakai credit hanya berlaku di Chat (pemilih model di atas kotak input). Saat digunakan sebagai K2.6 Agent di dalam Kimi Work, credit keanggotaan tetap dipakai.
+K2.6 memakai credit keanggotaan baik di Chat (pemilih model di atas kotak input) maupun saat digunakan sebagai K2.6 Agent di dalam Kimi Work.
 </Callout>
 
 ## Intensitas berpikir: Standar / Lanjutan / Ekstrem
@@ -46,10 +46,10 @@ Semakin tinggi intensitas berpikir, semakin menyeluruh penalaran model dan, seca
 
 ## Pilihan sesuai skenario
 
-- **Tanya jawab cepat dan percakapan sehari-hari** → K2.6 (tidak memakai credit di Chat).
+- **Tanya jawab cepat dan percakapan sehari-hari** → K2.6.
 - **Percakapan kompleks, penulisan dokumen / pembuatan PPT dan spreadsheet / tugas multi-langkah** → K3.
 - **Pencarian skala besar, pemrosesan batch, dan penulisan yang sangat panjang** → K3 Cluster.
-- **Untuk menghemat credit** → gunakan K2.6, atau atur intensitas berpikir ke “Standar”.
+- **Untuk menghemat credit** → atur intensitas berpikir ke “Standar”.
 
 ## FAQ
 
@@ -57,7 +57,7 @@ Semakin tinggi intensitas berpikir, semakin menyeluruh penalaran model dan, seca
 Kimi telah menggabungkan “percakapan” dan “Agent” ke dalam satu pengalaman, sehingga keduanya tidak lagi menjadi mode terpisah. “Berpikir” kini dikendalikan dengan **memilih model dan intensitas berpikir**—misalnya, menggunakan K3 dengan intensitas berpikir yang lebih tinggi akan memberi Anda penalaran yang lebih mendalam.
 
 ### Apa perbedaan antara K2.6 dan K3?
-K2.6 dioptimalkan untuk tanya jawab cepat, merespons lebih cepat, dan tidak memakai credit keanggotaan di Chat. K3 memiliki kemampuan keseluruhan paling kuat, unggul dalam percakapan kompleks dan tugas Agent, dapat menghasilkan dokumen yang dapat diedit secara end-to-end, dan ditagihkan ke credit.
+K2.6 dioptimalkan untuk tanya jawab cepat dan merespons lebih cepat. K3 memiliki kemampuan keseluruhan paling kuat, unggul dalam percakapan kompleks dan tugas Agent, serta dapat menghasilkan dokumen yang dapat diedit secara end-to-end. Keduanya ditagihkan ke credit.
 
 ### Apa perbedaan antara K3 dan K3 Cluster?
 K3 cocok untuk percakapan reguler dan tugas Agent. K3 Cluster menggunakan paralelisme skala besar—ribuan pemanggilan tool dan ratusan sub-agent—untuk menangani tugas bervolume tinggi seperti **pencarian skala besar, pemrosesan batch, dan penulisan yang sangat panjang**.

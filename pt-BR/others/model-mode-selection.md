@@ -21,7 +21,7 @@ Use o seletor de modelo acima da caixa de entrada para escolher:
 
 | Modelo | Intensidade de raciocínio | Ideal para | Créditos |
 |---|---|---|---|
-| **K2.6** | Padrão / Avançado | Conversas rápidas e perguntas e respostas, com respostas mais ágeis | **Não usa créditos da assinatura no Chat** |
+| **K2.6** | Padrão / Avançado | Conversas rápidas e perguntas e respostas, com respostas mais ágeis | Cobrado em créditos |
 | **K3** | Padrão / Avançado / Extremo | Conversas e tarefas com Agent, com a maior capacidade geral | Cobrado em créditos |
 | **K3 Cluster** | Padrão / Avançado / Extremo | Busca em larga escala, processamento em lote e conclusão de grandes volumes de tarefas de uma só vez | Cobrado em créditos |
 
@@ -29,7 +29,7 @@ Use o seletor de modelo acima da caixa de entrada para escolher:
 - Para **geração de imagem / vídeo / áudio**, clique em “+” → Plugins, escolha o recurso correspondente e use-o com **K3**.
 
 <Callout type="info">
-O fato de o K2.6 ser gratuito e não consumir créditos vale apenas no Chat (o seletor de modelo acima da caixa de entrada). Quando usado como um Agent K2.6 dentro do Kimi Work, ele ainda consome créditos da assinatura.
+O K2.6 consome créditos da assinatura tanto no Chat (o seletor de modelo acima da caixa de entrada) quanto quando usado como um K2.6 Agent dentro do Kimi Work.
 </Callout>
 
 ## Intensidade de raciocínio: Padrão / Avançado / Extremo
@@ -46,10 +46,10 @@ Quanto maior a intensidade de raciocínio, mais completo é o raciocínio do mod
 
 ## O que escolher em cada cenário
 
-- **Perguntas e respostas rápidas e conversas do dia a dia** → K2.6 (não usa créditos no Chat).
+- **Perguntas e respostas rápidas e conversas do dia a dia** → K2.6.
 - **Conversas complexas, redação de documentos / criação de PPT e planilhas / tarefas em várias etapas** → K3.
 - **Busca em larga escala, processamento em lote e redação de textos muito longos** → K3 Cluster.
-- **Para economizar créditos** → use K2.6 ou defina a intensidade de raciocínio como “Padrão”.
+- **Para economizar créditos** → defina a intensidade de raciocínio como “Padrão”.
 
 ## FAQ
 
@@ -57,7 +57,7 @@ Quanto maior a intensidade de raciocínio, mais completo é o raciocínio do mod
 O Kimi integrou “conversa” e “Agent” em uma única experiência, então eles não são mais modos separados. Agora, o “raciocínio” é controlado pela **escolha do modelo e da intensidade de raciocínio** — por exemplo, usar K3 com uma intensidade de raciocínio mais alta oferece um raciocínio mais aprofundado.
 
 ### Qual é a diferença entre K2.6 e K3?
-K2.6 é otimizado para perguntas e respostas rápidas, responde com mais agilidade e não usa créditos da assinatura no Chat. K3 tem a maior capacidade geral, destaca-se em conversas complexas e tarefas com Agent, consegue produzir documentos editáveis de ponta a ponta e é cobrado em créditos.
+K2.6 é otimizado para perguntas e respostas rápidas e responde com mais agilidade. K3 tem a maior capacidade geral, destaca-se em conversas complexas e tarefas com Agent e consegue produzir documentos editáveis de ponta a ponta. Ambos são cobrados em créditos.
 
 ### Qual é a diferença entre K3 e K3 Cluster?
 K3 é adequado para conversas comuns e tarefas com Agent. K3 Cluster usa paralelismo em larga escala — milhares de chamadas de ferramentas e centenas de sub-agents — para lidar com tarefas de grande volume, como **busca em larga escala, processamento em lote e redação de textos muito longos**.

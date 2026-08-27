@@ -27,11 +27,11 @@ Les fonctionnalités de l’abonnement Kimi partagent une réserve unique de cre
 | **Kimi Claw** | Votre assistant IA personnel déployé dans le cloud |
 | **Autres fonctionnalités** | Génération d’images, et plus encore |
 
-> **K2.6** : dans Chat, K2.6 est gratuit pour tous les utilisateurs et ne consomme pas de credits ; utilisé comme Agent K2.6 dans Kimi Work, il consomme toutefois les credits de l’abonnement.
+> **K2.6** : dans Chat, K2.6 consomme également des credits d’abonnement, facturés de la même manière que lorsqu’il est utilisé comme Agent K2.6 dans Kimi Work.
 > **Kimi Code** : puise dans la même réserve de credits commune, mais dispose de son propre rate limit de 5 heures / hebdomadaire, applicable uniquement à Kimi Code.
 
 <Callout type="tip">
-Vous pouvez donc répartir vos credits comme vous le souhaitez dans la réserve commune : davantage pour la recherche un mois, davantage pour les documents le mois suivant. Dans Chat, K2.6 ne consomme pas de credits.
+Vous pouvez donc répartir vos credits comme vous le souhaitez dans la réserve commune : davantage pour la recherche un mois, davantage pour les documents le mois suivant.
 </Callout>
 
 ## Comment les credits sont-ils calculés ?

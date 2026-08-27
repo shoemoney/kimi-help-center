@@ -63,7 +63,7 @@ Kimi oferece quatro níveis de assinatura, todos disponíveis nos planos mensal 
 
 ## Alocação de créditos
 
-Todos os recursos da assinatura Kimi compartilham um único saldo de créditos, medido pelo uso de token. Kimi Code também tem seu próprio rate limit de 5 horas por semana, que se aplica apenas ao Kimi Code e não afeta outros recursos. No Chat, K2.6 é gratuito e não consome créditos. Os níveis mais altos incluem um saldo de créditos proporcionalmente maior, permitindo fluxos de trabalho mais frequentes e complexos. Consulte [Atualização de créditos e regras de uso](/membership/update-rules) para ver os detalhes.
+Todos os recursos da assinatura Kimi compartilham um único saldo de créditos, medido pelo uso de token. Kimi Code também tem seu próprio rate limit de 5 horas por semana, que se aplica apenas ao Kimi Code e não afeta outros recursos. As conversas com o K2.6 no Chat também são cobradas em créditos. Os níveis mais altos incluem um saldo de créditos proporcionalmente maior, permitindo fluxos de trabalho mais frequentes e complexos. Consulte [Atualização de créditos e regras de uso](/membership/update-rules) para ver os detalhes.
 
 ## Perguntas frequentes sobre credits
 

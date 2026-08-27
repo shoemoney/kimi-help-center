@@ -16,7 +16,7 @@ preview_content: "Compare os quatro níveis de assinatura da Kimi, o sistema de 
 
 A Kimi oferece quatro níveis de assinatura — pensados para acompanhar suas necessidades, da produtividade do dia a dia aos fluxos de trabalho de usuários avançados.
 
-Todos os recursos da assinatura Kimi compartilham um único pool de créditos. Implantação de sites, Deep Research, Slides, Kimi Code, Kimi Work, Kimi Claw e outros recursos da assinatura consomem os créditos da assinatura. No Chat, o K2.6 é gratuito para todos os usuários e não consome créditos.
+Todos os recursos da assinatura Kimi compartilham um único pool de créditos. Implantação de sites, Deep Research, Slides, Kimi Code, Kimi Work, Kimi Claw e outros recursos da assinatura consomem os créditos da assinatura, incluindo as conversas com o K2.6 no Chat.
 
 ## Comparação dos planos
 

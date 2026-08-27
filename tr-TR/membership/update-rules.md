@@ -27,11 +27,11 @@ Kimi üyelik özellikleri, her yerde geçerli tek bir ortak credit havuzunu kull
 | **Kimi Claw** | Bulutta dağıtılan kişisel AI asistanınız |
 | **Diğer özellikler** | Görsel oluşturma ve daha fazlası |
 
-> **K2.6**: Chat içinde K2.6 tüm kullanıcılar için ücretsizdir ve credit tüketmez; Kimi Work içinde K2.6 Agent olarak kullanıldığında ise üyelik credit hakkını tüketmeye devam eder.
+> **K2.6**: Chat içinde K2.6 da üyelik credit’i tüketir; Kimi Work içinde K2.6 Agent olarak kullanıldığı durumla aynı şekilde ücretlendirilir.
 > **Kimi Code**: Aynı ortak credit havuzundan kullanır; ancak yalnızca Kimi Code için geçerli olan kendine ait 5 saatlik / haftalık rate limit sınırı vardır.
 
 <Callout type="tip">
-Bu, ortak havuzdaki credit hakkınızı dilediğiniz gibi dağıtabileceğiniz anlamına gelir — bir ay araştırmaya, sonraki ay belgelere daha fazla ayırabilirsiniz. Chat içinde K2.6 credit tüketmez.
+Bu, ortak havuzdaki credit hakkınızı dilediğiniz gibi dağıtabileceğiniz anlamına gelir — bir ay araştırmaya, sonraki ay belgelere daha fazla ayırabilirsiniz.
 </Callout>
 
 ## Credit nasıl hesaplanır?

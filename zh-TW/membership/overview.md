@@ -16,7 +16,7 @@ preview_content: "比較 Kimi 的四種會員等級、credit（點數）制度�
 
 Kimi 提供四種會員等級，從日常生產力到重度使用者工作流程，都能隨你的需求彈性升級。
 
-所有 Kimi 會員功能共用同一個 credit（點數）池。網站部署、Deep Research、Slides、Kimi Code、Kimi Work、Kimi Claw 等會員功能都會消耗會員 credit（點數）。在 Chat 中，K2.6 對所有使用者免費，且不會消耗 credit（點數）。
+所有 Kimi 會員功能共用同一個 credit（點數）池。網站部署、Deep Research、Slides、Kimi Code、Kimi Work、Kimi Claw 等會員功能，以及 Chat 中的 K2.6 對話，都會消耗會員 credit（點數）。
 
 ## 方案比較
 

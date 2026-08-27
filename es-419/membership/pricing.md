@@ -63,7 +63,7 @@ Kimi ofrece cuatro niveles de membresía, todos disponibles con suscripción men
 
 ## Asignación de créditos
 
-Todas las funciones de la membresía de Kimi comparten un único saldo de créditos, medido según el uso de tokens. Kimi Code también tiene su propio rate limit de 5 horas por semana, que se aplica únicamente a Kimi Code y no afecta a otras funciones. En Chat, K2.6 es gratis y no consume créditos. Los niveles superiores incluyen un saldo de créditos proporcionalmente mayor, lo que permite flujos de trabajo más frecuentes y complejos. Consulta [Reglas de actualización y uso de créditos](/membership/update-rules) para más detalles.
+Todas las funciones de la membresía de Kimi comparten un único saldo de créditos, medido según el uso de tokens. Kimi Code también tiene su propio rate limit de 5 horas por semana, que se aplica únicamente a Kimi Code y no afecta a otras funciones. Las conversaciones de K2.6 en Chat también se facturan con créditos. Los niveles superiores incluyen un saldo de créditos proporcionalmente mayor, lo que permite flujos de trabajo más frecuentes y complejos. Consulta [Reglas de actualización y uso de créditos](/membership/update-rules) para más detalles.
 
 ## Preguntas frecuentes sobre los credits
 

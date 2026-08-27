@@ -18,7 +18,7 @@ Kimi offers four membership subscription plans to meet needs ranging from everyd
 
 All products share one credit pool. You can view your usage details under My → Membership Plan → Credits and Invoices → My Credits → Usage Details.
 
-Kimi membership features such as website deployment, Deep Research, PPT, Kimi Code, Kimi Work, and Kimi Claw will deduct membership credits. At the chat entry, K2.6 is free for all users and does not consume membership credits.
+Kimi membership features such as website deployment, Deep Research, PPT, Kimi Code, Kimi Work, and Kimi Claw will deduct membership credits. K2.6 conversations at the chat entry point are also billed against membership credits.
 
 ## Plan Comparison
 

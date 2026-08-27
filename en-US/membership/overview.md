@@ -16,7 +16,7 @@ preview_content: "Compare Kimi's four membership tiers, credit system, and billi
 
 Kimi offers four membership tiers — designed to scale with your needs, from everyday productivity to power-user workflows.
 
-All Kimi membership features share a single credit pool. Website deployment, Deep Research, Slides, Kimi Code, Kimi Work, Kimi Claw, and other membership features all draw down membership credits. In Chat, K2.6 is free for all users and does not consume credits.
+All Kimi membership features share a single credit pool. Website deployment, Deep Research, Slides, Kimi Code, Kimi Work, Kimi Claw, and other membership features all draw down membership credits, including K2.6 conversations in Chat.
 
 ## Plan comparison
 

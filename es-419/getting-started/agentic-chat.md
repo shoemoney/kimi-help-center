@@ -37,7 +37,7 @@ Kimi ofrece varios modelos. Haz clic en el botón para cambiar de modelo que est
 | **K3 Swarm** | Bajo / Alto / Máximo | Búsqueda a gran escala y procesamiento por lotes, de una sola vez |
 
 <Callout type="tip">
-K2.6 no consume credits en Chat (cuando se usa como K2.6 Agent dentro de Kimi Work, sí consume credits de membresía); K3 y K3 Swarm se facturan con credits. Consulta los [beneficios de la membresía](https://www.kimi.com/help/membership/membership-overview) para obtener más detalles.
+K2.6, K3 y K3 Swarm se facturan con credits. Consulta los [beneficios de la membresía](https://www.kimi.com/help/membership/membership-overview) para obtener más detalles.
 </Callout>
 
 ### Acerca de Kimi K3

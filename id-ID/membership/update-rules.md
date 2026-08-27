@@ -27,11 +27,11 @@ Fitur keanggotaan Kimi menggunakan satu kumpulan credit bersama yang berlaku di 
 | **Kimi Claw** | Asisten AI pribadi Anda yang diterapkan di cloud |
 | **Fitur lainnya** | Pembuatan gambar dan lainnya |
 
-> **K2.6**: Di Chat, K2.6 gratis untuk semua pengguna dan tidak memakai credit; jika digunakan sebagai Agent K2.6 di dalam Kimi Work, credit keanggotaan tetap dipakai.
+> **K2.6**: Di Chat, K2.6 juga memakai credit keanggotaan, ditagih dengan cara yang sama seperti saat digunakan sebagai Agent K2.6 di dalam Kimi Work.
 > **Kimi Code**: Mengambil credit dari kumpulan credit bersama yang sama, tetapi memiliki rate limit tersendiri per 5 jam / mingguan yang hanya berlaku untuk Kimi Code.
 
 <Callout type="tip">
-Artinya, Anda bebas mengalokasikan credit di seluruh kumpulan bersama ini — misalnya lebih banyak untuk riset bulan ini, lalu lebih banyak untuk dokumen bulan berikutnya. Di Chat, K2.6 tidak memakai credit.
+Artinya, Anda bebas mengalokasikan credit di seluruh kumpulan bersama ini — misalnya lebih banyak untuk riset bulan ini, lalu lebih banyak untuk dokumen bulan berikutnya.
 </Callout>
 
 ## Bagaimana credit dihitung?

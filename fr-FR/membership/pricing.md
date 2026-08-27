@@ -63,7 +63,7 @@ Kimi propose quatre formules d’abonnement, chacune disponible au mois ou à l�
 
 ## Attribution des credits
 
-Toutes les fonctionnalités incluses dans les abonnements Kimi partagent une même réserve de credits, décomptée selon l’utilisation de tokens. Kimi Code dispose également de son propre rate limit de 5 heures par semaine, qui s’applique uniquement à Kimi Code et n’affecte pas les autres fonctionnalités. Dans Chat, K2.6 est gratuit et ne consomme pas de credits. Les formules supérieures incluent une réserve de credits proportionnellement plus importante, pour des workflows plus fréquents et plus complexes. Consultez [Mise à jour des credits et règles d’utilisation](/membership/update-rules) pour en savoir plus.
+Toutes les fonctionnalités incluses dans les abonnements Kimi partagent une même réserve de credits, décomptée selon l’utilisation de tokens. Kimi Code dispose également de son propre rate limit de 5 heures par semaine, qui s’applique uniquement à Kimi Code et n’affecte pas les autres fonctionnalités. Les conversations K2.6 dans Chat sont également décomptées des credits. Les formules supérieures incluent une réserve de credits proportionnellement plus importante, pour des workflows plus fréquents et plus complexes. Consultez [Mise à jour des credits et règles d’utilisation](/membership/update-rules) pour en savoir plus.
 
 ## FAQ sur les credits
 

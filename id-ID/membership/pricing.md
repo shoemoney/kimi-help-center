@@ -63,7 +63,7 @@ Kimi menawarkan empat tingkat keanggotaan, masing-masing tersedia sebagai langga
 
 ## Alokasi credit
 
-Semua fitur keanggotaan Kimi berbagi satu pool credit, yang dihitung berdasarkan penggunaan token. Kimi Code juga memiliki rate limit tersendiri 5 jam / mingguan yang hanya berlaku untuk Kimi Code dan tidak memengaruhi fitur lain. Di Chat, K2.6 gratis dan tidak mengonsumsi credit. Tingkat yang lebih tinggi menyertakan pool credit yang lebih besar secara proporsional, sehingga mendukung workflow yang lebih sering dan kompleks. Lihat [Pembaruan Credit & Aturan Penggunaan](/membership/update-rules) untuk detailnya.
+Semua fitur keanggotaan Kimi berbagi satu pool credit, yang dihitung berdasarkan penggunaan token. Kimi Code juga memiliki rate limit tersendiri 5 jam / mingguan yang hanya berlaku untuk Kimi Code dan tidak memengaruhi fitur lain. Percakapan K2.6 di Chat juga ditagihkan ke credit. Tingkat yang lebih tinggi menyertakan pool credit yang lebih besar secara proporsional, sehingga mendukung workflow yang lebih sering dan kompleks. Lihat [Pembaruan Credit & Aturan Penggunaan](/membership/update-rules) untuk detailnya.
 
 ## FAQ Credit
 

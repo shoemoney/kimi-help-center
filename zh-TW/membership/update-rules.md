@@ -27,11 +27,11 @@ Kimi 會員功能共用一個可在各處使用的 credit（用量額度）池�
 | **Kimi Claw** | 你的個人雲端部署 AI 助理 |
 | **其他功能** | 圖片生成等更多功能 |
 
-> **K2.6**：在 Chat 中，K2.6 對所有使用者免費，且不會消耗 credit（用量額度）；若在 Kimi Work 內作為 K2.6 Agent 使用，仍會消耗會員 credit（用量額度）。
+> **K2.6**：在 Chat 中，K2.6 同樣會消耗會員 credit（用量額度），計費方式與在 Kimi Work 內作為 K2.6 Agent 使用時相同。
 > **Kimi Code**：會從同一個共用 credit（用量額度）池扣除，但有僅適用於 Kimi Code 的專屬 5 小時／每週 rate limit（速率限制）。
 
 <Callout type="tip">
-這表示你可以在共用池中自由分配 credit（用量額度）：這個月多用於研究，下個月多用於文件。在 Chat 中，K2.6 不會消耗 credit（用量額度）。
+這表示你可以在共用池中自由分配 credit（用量額度）：這個月多用於研究，下個月多用於文件。
 </Callout>
 
 ## Credit（用量額度）如何計算？

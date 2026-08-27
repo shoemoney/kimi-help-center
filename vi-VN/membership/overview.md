@@ -16,7 +16,7 @@ preview_content: "So sánh bốn hạng thành viên của Kimi, hệ thống cr
 
 Kimi cung cấp bốn hạng thành viên, được thiết kế để đáp ứng nhiều nhu cầu khác nhau, từ năng suất hằng ngày đến quy trình làm việc chuyên sâu của người dùng cao cấp.
 
-Tất cả tính năng thành viên của Kimi đều dùng chung một quỹ credit. Triển khai website, Deep Research, Slides, Kimi Code, Kimi Work, Kimi Claw và các tính năng thành viên khác đều tiêu hao credit thành viên. Trong Chat, K2.6 miễn phí cho mọi người dùng và không tiêu hao credit.
+Tất cả tính năng thành viên của Kimi đều dùng chung một quỹ credit. Triển khai website, Deep Research, Slides, Kimi Code, Kimi Work, Kimi Claw và các tính năng thành viên khác đều tiêu hao credit thành viên, bao gồm cả các cuộc trò chuyện K2.6 trong Chat.
 
 ## So sánh gói
 

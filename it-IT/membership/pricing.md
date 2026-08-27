@@ -63,7 +63,7 @@ Kimi offre quattro livelli di abbonamento, ciascuno disponibile con sottoscrizio
 
 ## Allocazione dei credit
 
-Tutte le funzionalità dell’abbonamento Kimi condividono un unico pool di credit, misurato in base all’utilizzo dei token. Kimi Code ha inoltre un proprio rate limit settimanale di 5 ore, valido solo per Kimi Code e senza effetto sulle altre funzionalità. In Chat, K2.6 è gratuito e non consuma credit. I livelli superiori includono un pool di credit proporzionalmente più ampio, adatto a workflow più frequenti e complessi. Per i dettagli, consulta [Aggiornamento dei credit e regole d’uso](/membership/update-rules).
+Tutte le funzionalità dell’abbonamento Kimi condividono un unico pool di credit, misurato in base all’utilizzo dei token. Kimi Code ha inoltre un proprio rate limit settimanale di 5 ore, valido solo per Kimi Code e senza effetto sulle altre funzionalità. Anche le conversazioni con K2.6 in Chat sono addebitate sui credit. I livelli superiori includono un pool di credit proporzionalmente più ampio, adatto a workflow più frequenti e complessi. Per i dettagli, consulta [Aggiornamento dei credit e regole d’uso](/membership/update-rules).
 
 ## Domande frequenti sui credit
 

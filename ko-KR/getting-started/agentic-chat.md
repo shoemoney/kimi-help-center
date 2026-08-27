@@ -37,7 +37,7 @@ Kimi는 여러 모델을 제공합니다. 입력 상자 위의 모델 전환 버
 | **K3 Swarm** | 낮음 / 높음 / 최대 | 대규모 검색과 일괄 처리, 한 번에 완료 |
 
 <Callout type="tip">
-K2.6은 Chat에서 credit을 소모하지 않습니다(Kimi Work 안에서 K2.6 Agent로 사용할 때는 멤버십 credit을 소모합니다). K3와 K3 Swarm은 credit 기준으로 과금됩니다. 자세한 내용은 [멤버십 혜택](https://www.kimi.com/help/membership/membership-overview)을 참고하세요.
+K2.6, K3, K3 Swarm은 모두 credit 기준으로 과금됩니다. 자세한 내용은 [멤버십 혜택](https://www.kimi.com/help/membership/membership-overview)을 참고하세요.
 </Callout>
 
 ### Kimi K3 소개

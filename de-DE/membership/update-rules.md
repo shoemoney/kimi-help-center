@@ -27,11 +27,11 @@ Die Funktionen der Kimi-Mitgliedschaft nutzen einen gemeinsamen Credit-Pool, der
 | **Kimi Claw** | Dein persönlicher, in der Cloud bereitgestellter KI-Assistent |
 | **Weitere Funktionen** | Bilderzeugung und mehr |
 
-> **K2.6**: Im Chat ist K2.6 für alle Nutzer kostenlos und verbraucht keine Credits; wenn es als K2.6 Agent in Kimi Work verwendet wird, verbraucht es weiterhin Credits der Mitgliedschaft.
+> **K2.6**: Im Chat verbraucht K2.6 ebenfalls Credits der Mitgliedschaft, abgerechnet genauso wie bei der Verwendung als K2.6 Agent in Kimi Work.
 > **Kimi Code**: Greift auf denselben gemeinsamen Credit-Pool zu, hat aber ein eigenes rate limit (5 Stunden / wöchentlich), das nur für Kimi Code gilt.
 
 <Callout type="tip">
-Das bedeutet: Du kannst deine Credits im gemeinsamen Pool frei verteilen — in einem Monat mehr für Recherche ausgeben, im nächsten mehr für Dokumente. Im Chat verbraucht K2.6 keine Credits.
+Das bedeutet: Du kannst deine Credits im gemeinsamen Pool frei verteilen — in einem Monat mehr für Recherche ausgeben, im nächsten mehr für Dokumente.
 </Callout>
 
 ## Wie werden Credits berechnet?

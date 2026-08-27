@@ -21,7 +21,7 @@ Use the model switcher above the input box to choose:
 
 | Model | Reasoning effort | Best for | Credits |
 |---|---|---|---|
-| **K2.6** | Standard / Advanced | Fast dialogue and Q&A, with faster responses | **Does not consume member credits in chats** |
+| **K2.6** | Standard / Advanced | Fast dialogue and Q&A, with faster responses | Billed against credits |
 | **K3** | Standard / Advanced / Extreme | Conversations and Agent tasks, with the strongest overall capability | Billed against credits |
 | **K3 Cluster** | Standard / Advanced / Extreme | Large-scale search, batch processing, and completing high-volume tasks in one go | Billed against credits |
 
@@ -29,7 +29,7 @@ Use the model switcher above the input box to choose:
 - To generate **images / videos / audio**, click “+” → Plugins, select the corresponding feature, and use it with **K3**.
 
 <Callout type="info">
-K2.6 is free and does not consume credits only when used from the **chat entry point** (the model selector above the input box). When used as a K2.6 Agent in **Kimi Work**, it still consumes member credits.
+K2.6 consumes member credits both at the **chat entry point** (the model selector above the input box) and when used as a K2.6 Agent in **Kimi Work**.
 </Callout>
 
 ## Reasoning Effort: Standard / Advanced / Extreme
@@ -46,10 +46,10 @@ The higher the reasoning effort, the more thoroughly the model reasons and, in g
 
 ## Which One Should I Choose?
 
-- **fast Q&A and everyday chat** → K2.6 (does not consume credits in chats).
+- **fast Q&A and everyday chat** → K2.6.
 - **Complex conversations, writing documents / creating PPTs and spreadsheets / multi-step tasks** → K3.
 - **Large-scale search, batch processing, and ultra-long-form writing** → K3 Cluster.
-- **To save credits** → use K2.6, or set reasoning effort to “Standard”.
+- **To save credits** → set reasoning effort to “Standard”.
 
 ## FAQ
 
@@ -57,7 +57,7 @@ The higher the reasoning effort, the more thoroughly the model reasons and, in g
 Kimi has merged “chat” and “Agent” into one experience and no longer separates them into different modes. “Thinking” is now reflected through your **choice of model and reasoning effort**—for example, using K3 with a higher reasoning effort gives you more thorough reasoning.
 
 ### What is the difference between K2.6 and K3?
-K2.6 is better suited for fast Q&A, responds faster, and does not consume member credits in chats. K3 has the strongest overall capability, excels at complex conversations and Agent tasks, can produce end-to-end editable documents, and is billed against credits.
+K2.6 is better suited for fast Q&A and responds faster. K3 has the strongest overall capability, excels at complex conversations and Agent tasks, and can produce end-to-end editable documents. Both are billed against credits.
 
 ### What is the difference between K3 and K3 Cluster?
 K3 is suitable for general conversations and Agent tasks. K3 Cluster uses large-scale parallelism—thousands of tool calls and hundreds of subagents—to handle high-volume tasks such as **large-scale search, batch processing, and ultra-long-form content**.

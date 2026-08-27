@@ -21,7 +21,7 @@ Wähle das gewünschte Modell über den Modellumschalter oberhalb des Eingabefel
 
 | Modell | Denkintensität | Am besten geeignet für | Credit |
 |---|---|---|---|
-| **K2.6** | Standard / Erweitert | Schnelle Unterhaltungen und Q&A mit kürzeren Antwortzeiten | **In Chat werden keine Membership-Credits verbraucht** |
+| **K2.6** | Standard / Erweitert | Schnelle Unterhaltungen und Q&A mit kürzeren Antwortzeiten | Wird mit credits abgerechnet |
 | **K3** | Standard / Erweitert / Extrem | Unterhaltungen und Agent-Aufgaben mit der insgesamt stärksten Leistungsfähigkeit | Wird mit credits abgerechnet |
 | **K3 Cluster** | Standard / Erweitert / Extrem | groß angelegte Suche, Stapelverarbeitung und das Erledigen umfangreicher Aufgaben in einem Durchlauf | Wird mit credits abgerechnet |
 
@@ -29,7 +29,7 @@ Wähle das gewünschte Modell über den Modellumschalter oberhalb des Eingabefel
 - Für die **Bild- / Video- / Audioerzeugung** klicke auf „+“ → Plugins, wähle dann die passende Funktion aus und verwende sie mit **K3**.
 
 <Callout type="info">
-Dass K2.6 kostenlos ist und keine credits verbraucht, gilt nur in Chat (über den Modellumschalter oberhalb des Eingabefelds). Wird es in Kimi Work als K2.6 Agent verwendet, verbraucht es weiterhin Membership-Credits.
+K2.6 verbraucht Membership-Credits sowohl im Chat (über den Modellumschalter oberhalb des Eingabefelds) als auch bei der Verwendung als K2.6 Agent in Kimi Work.
 </Callout>
 
 ## Denkintensität: Standard / Erweitert / Extrem
@@ -46,10 +46,10 @@ Je höher die Denkintensität, desto gründlicher schlussfolgert das Modell und 
 
 ## Was du je nach Szenario wählen solltest
 
-- **Schnelles Q&A und Alltagsunterhaltungen** → K2.6 (in Chat werden keine credits verbraucht).
+- **Schnelles Q&A und Alltagsunterhaltungen** → K2.6.
 - **Komplexe Unterhaltungen, Dokumenterstellung / PPT- und Tabellenerstellung / mehrstufige Aufgaben** → K3.
 - **Groß angelegte Suche, Stapelverarbeitung und sehr lange Texte** → K3 Cluster.
-- **credits sparen** → Verwende K2.6 oder stelle die Denkintensität auf „Standard“.
+- **credits sparen** → Stelle die Denkintensität auf „Standard“.
 
 ## FAQ
 
@@ -57,7 +57,7 @@ Je höher die Denkintensität, desto gründlicher schlussfolgert das Modell und 
 Kimi hat „Unterhaltung“ und „Agent“ zu einer einheitlichen Erfahrung zusammengeführt; es handelt sich also nicht mehr um getrennte Modi. „Denken“ steuerst du jetzt über **die Auswahl von Modell und Denkintensität** – wenn du zum Beispiel K3 mit höherer Denkintensität verwendest, erhältst du gründlicheres Reasoning.
 
 ### Worin unterscheiden sich K2.6 und K3?
-K2.6 ist für schnelles Q&A optimiert, antwortet schneller und verbraucht in Chat keine Membership-Credits. K3 bietet die insgesamt stärkste Leistungsfähigkeit, ist besonders gut bei komplexen Unterhaltungen und Agent-Aufgaben, kann bearbeitbare Dokumente durchgängig erstellen und wird mit credits abgerechnet.
+K2.6 ist für schnelles Q&A optimiert und antwortet schneller. K3 bietet die insgesamt stärkste Leistungsfähigkeit, ist besonders gut bei komplexen Unterhaltungen und Agent-Aufgaben und kann bearbeitbare Dokumente durchgängig erstellen. Beide werden mit credits abgerechnet.
 
 ### Worin unterscheiden sich K3 und K3 Cluster?
 K3 eignet sich für normale Unterhaltungen und Agent-Aufgaben. K3 Cluster nutzt groß angelegte Parallelisierung – Tausende von Tool-Aufrufen und Hunderte von Sub-agents –, um umfangreiche Aufgaben wie **groß angelegte Suche, Stapelverarbeitung und sehr lange Texte** zu bewältigen.

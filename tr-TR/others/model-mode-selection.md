@@ -21,7 +21,7 @@ Seçim yapmak için giriş kutusunun üzerindeki model seçiciyi kullanın:
 
 | Model | Düşünme yoğunluğu | En uygun olduğu durumlar | Credit |
 |---|---|---|---|
-| **K2.6** | Standart / Gelişmiş | Hızlı sohbetler ve soru-cevap; daha hızlı yanıtlar | **Chat’te üyelik credit’i kullanılmaz** |
+| **K2.6** | Standart / Gelişmiş | Hızlı sohbetler ve soru-cevap; daha hızlı yanıtlar | Credit’lerden düşülür |
 | **K3** | Standart / Gelişmiş / Ekstrem | Sohbetler ve Agent görevleri; en güçlü genel yetenek | Credit’lerden düşülür |
 | **K3 Cluster** | Standart / Gelişmiş / Ekstrem | Büyük ölçekli arama, toplu işleme ve yüksek hacimli görevleri tek seferde tamamlama | Credit’lerden düşülür |
 
@@ -29,7 +29,7 @@ Seçim yapmak için giriş kutusunun üzerindeki model seçiciyi kullanın:
 - **Görsel / video / ses üretimi** için “+” → Plugins’e tıklayın, ilgili özelliği seçin ve **K3** ile kullanın.
 
 <Callout type="info">
-K2.6’nın ücretsiz olması ve credit tüketmemesi yalnızca Chat için geçerlidir (giriş kutusunun üzerindeki model seçici). Kimi Work içinde K2.6 Agent olarak kullanıldığında yine üyelik credit’i tüketir.
+K2.6 hem Chat’te (giriş kutusunun üzerindeki model seçici) hem de Kimi Work içinde K2.6 Agent olarak kullanıldığında üyelik credit’i tüketir.
 </Callout>
 
 ## Düşünme yoğunluğu: Standart / Gelişmiş / Ekstrem
@@ -46,10 +46,10 @@ Düşünme yoğunluğu yükseldikçe model daha kapsamlı akıl yürütür ve ge
 
 ## Senaryoya göre ne seçmeli?
 
-- **Hızlı soru-cevap ve günlük sohbetler** → K2.6 (Chat’te credit kullanılmaz).
+- **Hızlı soru-cevap ve günlük sohbetler** → K2.6.
 - **Karmaşık sohbetler, belge yazımı / PPT ve elektronik tablo oluşturma / çok adımlı görevler** → K3.
 - **Büyük ölçekli arama, toplu işleme ve çok uzun biçimli yazım** → K3 Cluster.
-- **Credit tasarrufu için** → K2.6 kullanın veya düşünme yoğunluğunu “Standart” olarak ayarlayın.
+- **Credit tasarrufu için** → düşünme yoğunluğunu “Standart” olarak ayarlayın.
 
 ## SSS
 
@@ -57,7 +57,7 @@ Düşünme yoğunluğu yükseldikçe model daha kapsamlı akıl yürütür ve ge
 Kimi, “sohbet” ve “Agent” deneyimlerini tek bir yapıda birleştirdi; bu yüzden artık ayrı modlar değiller. “Thinking” artık **model ve düşünme yoğunluğu seçimiyle** kontrol edilir. Örneğin K3’ü daha yüksek bir düşünme yoğunluğuyla kullanmak daha kapsamlı akıl yürütme sağlar.
 
 ### K2.6 ile K3 arasındaki fark nedir?
-K2.6 hızlı soru-cevap için optimize edilmiştir, daha hızlı yanıt verir ve Chat’te üyelik credit’i kullanmaz. K3 en güçlü genel yeteneğe sahiptir; karmaşık sohbetlerde ve Agent görevlerinde öne çıkar, düzenlenebilir belgeleri baştan sona üretebilir ve kullanımı credit’lerden düşülür.
+K2.6 hızlı soru-cevap için optimize edilmiştir ve daha hızlı yanıt verir. K3 en güçlü genel yeteneğe sahiptir; karmaşık sohbetlerde ve Agent görevlerinde öne çıkar ve düzenlenebilir belgeleri baştan sona üretebilir. Her ikisi de credit’lerden düşülür.
 
 ### K3 ile K3 Cluster arasındaki fark nedir?
 K3, sıradan sohbetler ve Agent görevleri için uygundur. K3 Cluster ise binlerce araç çağrısı ve yüzlerce sub-agent ile büyük ölçekli paralellik kullanarak **büyük ölçekli arama, toplu işleme ve çok uzun biçimli yazım** gibi yüksek hacimli görevleri yönetir.

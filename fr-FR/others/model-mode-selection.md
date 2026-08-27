@@ -21,7 +21,7 @@ Utilisez le sélecteur de modèle situé au-dessus de la zone de saisie pour cho
 
 | Modèle | Intensité de réflexion | Idéal pour | Crédits |
 |---|---|---|---|
-| **K2.6** | Standard / Avancé | Conversations rapides et questions-réponses, avec des réponses plus rapides | **Aucun crédit d’abonnement consommé dans Chat** |
+| **K2.6** | Standard / Avancé | Conversations rapides et questions-réponses, avec des réponses plus rapides | Décompté des crédits |
 | **K3** | Standard / Avancé / Extrême | Conversations et tâches Agent, avec les meilleures capacités globales | Décompté des crédits |
 | **K3 Cluster** | Standard / Avancé / Extrême | Recherche à grande échelle, traitement par lots et exécution en une seule fois de tâches très volumineuses | Décompté des crédits |
 
@@ -29,7 +29,7 @@ Utilisez le sélecteur de modèle situé au-dessus de la zone de saisie pour cho
 - Pour la **génération d’images, de vidéos ou d’audio**, cliquez sur « + » → Plugins, puis choisissez la fonctionnalité correspondante et utilisez-la avec **K3**.
 
 <Callout type="info">
-La gratuité de K2.6 et l’absence de consommation de crédits ne s’appliquent que dans Chat (le sélecteur de modèle au-dessus de la zone de saisie). Utilisé comme Agent K2.6 dans Kimi Work, il consomme tout de même des crédits d’abonnement.
+K2.6 consomme des crédits d’abonnement à la fois dans Chat (le sélecteur de modèle au-dessus de la zone de saisie) et lorsqu’il est utilisé comme Agent K2.6 dans Kimi Work.
 </Callout>
 
 ## Intensité de réflexion : Standard / Avancé / Extrême
@@ -46,10 +46,10 @@ Plus l’intensité de réflexion est élevée, plus le modèle raisonne en prof
 
 ## Que choisir selon le cas d’usage
 
-- **Questions-réponses rapides et conversations du quotidien** → K2.6 (aucun crédit consommé dans Chat).
+- **Questions-réponses rapides et conversations du quotidien** → K2.6.
 - **Conversations complexes, rédaction de documents / création de PPT et de feuilles de calcul / tâches en plusieurs étapes** → K3.
 - **Recherche à grande échelle, traitement par lots et rédaction très longue** → K3 Cluster.
-- **Pour économiser des crédits** → utilisez K2.6, ou réglez l’intensité de réflexion sur « Standard ».
+- **Pour économiser des crédits** → réglez l’intensité de réflexion sur « Standard ».
 
 ## FAQ
 
@@ -57,7 +57,7 @@ Plus l’intensité de réflexion est élevée, plus le modèle raisonne en prof
 Kimi a intégré la « conversation » et « Agent » dans une même expérience : il ne s’agit donc plus de modes séparés. La « réflexion » se règle désormais en **choisissant le modèle et l’intensité de réflexion** — par exemple, utiliser K3 avec une intensité de réflexion plus élevée permet d’obtenir un raisonnement plus approfondi.
 
 ### Quelle est la différence entre K2.6 et K3 ?
-K2.6 est optimisé pour les questions-réponses rapides, répond plus vite et ne consomme pas de crédits d’abonnement dans Chat. K3 offre les meilleures capacités globales, excelle dans les conversations complexes et les tâches Agent, peut produire de bout en bout des documents modifiables et est décompté des crédits.
+K2.6 est optimisé pour les questions-réponses rapides et répond plus vite. K3 offre les meilleures capacités globales, excelle dans les conversations complexes et les tâches Agent et peut produire de bout en bout des documents modifiables. Tous deux sont décomptés des crédits.
 
 ### Quelle est la différence entre K3 et K3 Cluster ?
 K3 convient aux conversations courantes et aux tâches Agent. K3 Cluster s’appuie sur un parallélisme à grande échelle — des milliers d’appels d’outils et des centaines de sous-agents — pour traiter des tâches volumineuses comme la **recherche à grande échelle, le traitement par lots et la rédaction très longue**.

@@ -27,11 +27,11 @@ Kimi membership features share a single credit pool that works everywhere. Agent
 | **Kimi Claw** | Your personal cloud-deployed AI assistant |
 | **Other features** | Image generation and more |
 
-> **K2.6**: In Chat, K2.6 is free for all users and does not consume credits; when used as a K2.6 Agent inside Kimi Work, it still consumes membership credits.
+> **K2.6**: In Chat, K2.6 also consumes membership credits, billed the same way as when it is used as a K2.6 Agent inside Kimi Work.
 > **Kimi Code**: Draws from the same shared credit pool, but has its own 5-hour / weekly rate limit that applies only to Kimi Code.
 
 <Callout type="tip">
-This means you can allocate credits however you like across the shared pool — spend more on research one month, more on documents the next. In Chat, K2.6 does not consume credits.
+This means you can allocate credits however you like across the shared pool — spend more on research one month, more on documents the next.
 </Callout>
 
 ## How are credits calculated?

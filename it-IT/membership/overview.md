@@ -16,7 +16,7 @@ preview_content: "Confronta i quattro livelli di abbonamento Kimi, il sistema di
 
 Kimi offre quattro livelli di abbonamento, pensati per crescere insieme alle tue esigenze: dalla produttività quotidiana ai flussi di lavoro più intensivi.
 
-Tutte le funzionalità incluse negli abbonamenti Kimi condividono un unico pool di crediti. Distribuzione di siti web, Deep Research, Slides, Kimi Code, Kimi Work, Kimi Claw e le altre funzionalità dell'abbonamento consumano tutte i crediti dell'abbonamento. In Chat, K2.6 è gratuito per tutti gli utenti e non consuma crediti.
+Tutte le funzionalità incluse negli abbonamenti Kimi condividono un unico pool di crediti. Distribuzione di siti web, Deep Research, Slides, Kimi Code, Kimi Work, Kimi Claw e le altre funzionalità dell'abbonamento consumano tutte i crediti dell'abbonamento, comprese le conversazioni con K2.6 in Chat.
 
 ## Confronto dei piani
 

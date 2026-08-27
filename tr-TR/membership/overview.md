@@ -16,7 +16,7 @@ preview_content: "Kimi'nin dört üyelik kademesini, credit sistemini ve fatural
 
 Kimi, günlük verimlilikten yoğun kullanıcı iş akışlarına kadar ihtiyaçlarınıza göre ölçeklenen dört üyelik kademesi sunar.
 
-Tüm Kimi üyelik özellikleri tek bir credit havuzunu paylaşır. Web sitesi dağıtımı, Deep Research, Slaytlar, Kimi Code, Kimi Work, Kimi Claw ve diğer üyelik özelliklerinin tümü üyelik credit'lerini kullanır. Chat'te K2.6 tüm kullanıcılar için ücretsizdir ve credit tüketmez.
+Tüm Kimi üyelik özellikleri tek bir credit havuzunu paylaşır. Web sitesi dağıtımı, Deep Research, Slaytlar, Kimi Code, Kimi Work, Kimi Claw ve diğer üyelik özelliklerinin tümü, Chat'teki K2.6 sohbetleri de dahil olmak üzere, üyelik credit'lerini kullanır.
 
 ## Plan karşılaştırması
 

@@ -39,7 +39,7 @@ Kimi offers multiple model options. Click the model switcher above the input box
 | **K3 Cluster** | Standard / Advanced / Max | Large-scale search and batch processing, completing massive tasks in one go |
 
 <Callout type="tip">
-K2.6 does not consume membership credits in chat sessions (it still consumes credits when used as a K2.6 Agent in Kimi Work); K3 and K3 Cluster are billed by credit. For details, see [Membership Benefits](https://www.kimi.com/help/membership/membership-overview).
+K2.6, K3, and K3 Cluster are all billed by credit. For details, see [Membership Benefits](https://www.kimi.com/help/membership/membership-overview).
 </Callout>
 
 ### About Kimi K3

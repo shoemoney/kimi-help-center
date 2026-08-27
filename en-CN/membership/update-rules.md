@@ -28,7 +28,7 @@ Kimi membership features draw from the same credit pool and are deducted based o
 
 **Kimi Code** shares the same credit pool as other membership features, but it also has a separate usage limit of 5 hours per week. This limit applies only to Kimi Code and does not affect other membership features.
 
-> **K2.6**: K2.6 in the chat entry point is free for all users and does not consume membership credits. When used as a K2.6 Agent in Kimi Work, it still consumes membership credits.
+> **K2.6**: K2.6 in the chat entry point also consumes membership credits, billed the same as when used as a K2.6 Agent in Kimi Work.
 
 ## How are credits calculated?
 

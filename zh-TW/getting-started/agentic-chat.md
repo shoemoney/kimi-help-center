@@ -37,7 +37,7 @@ Kimi 提供多種模型。點擊輸入框上方的模型切換按鈕即可切換
 | **K3 Swarm** | 低 / 高 / Max | 大規模搜尋與批次處理，一次完成 |
 
 <Callout type="tip">
-K2.6 在 Chat 中不消耗 credit（在 Kimi Work 中作為 K2.6 Agent 使用時，仍會消耗會員 credit）；K3 與 K3 Swarm 會依 credit 計費。詳情請參閱[會員權益](https://www.kimi.com/help/membership/membership-overview)。
+K2.6、K3 與 K3 Swarm 都會依 credit 計費。詳情請參閱[會員權益](https://www.kimi.com/help/membership/membership-overview)。
 </Callout>
 
 ### 關於 Kimi K3

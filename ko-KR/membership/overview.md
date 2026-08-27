@@ -16,7 +16,7 @@ preview_content: "Kimi의 네 가지 멤버십 등급, credit 시스템, 결제 
 
 Kimi는 일상적인 생산성 작업부터 파워 유저의 워크플로까지, 필요에 맞게 확장할 수 있도록 네 가지 멤버십 등급을 제공합니다.
 
-모든 Kimi 멤버십 기능은 하나의 credit 풀을 공유합니다. 웹사이트 배포, Deep Research, Slides, Kimi Code, Kimi Work, Kimi Claw 및 기타 멤버십 기능은 모두 멤버십 credit을 사용합니다. Chat에서는 K2.6이 모든 사용자에게 무료로 제공되며 credit을 소모하지 않습니다.
+모든 Kimi 멤버십 기능은 하나의 credit 풀을 공유합니다. 웹사이트 배포, Deep Research, Slides, Kimi Code, Kimi Work, Kimi Claw 및 기타 멤버십 기능은 모두 멤버십 credit을 사용하며, Chat에서의 K2.6 대화도 멤버십 credit을 소모합니다.
 
 ## 플랜 비교
 

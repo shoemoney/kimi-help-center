@@ -37,7 +37,7 @@ Kimi cung cấp nhiều mô hình. Nhấp vào nút chuyển mô hình phía tr�
 | **K3 Swarm** | Thấp / Cao / Tối đa | Tìm kiếm quy mô lớn và xử lý hàng loạt, hoàn tất trong một lượt |
 
 <Callout type="tip">
-K2.6 không tiêu thụ credit trong Chat (khi dùng làm K2.6 Agent trong Kimi Work, vẫn tiêu thụ credit hội viên); K3 và K3 Swarm được tính phí bằng credit. Xem [quyền lợi hội viên](https://www.kimi.com/help/membership/membership-overview) để biết chi tiết.
+K2.6, K3 và K3 Swarm đều được tính phí bằng credit. Xem [quyền lợi hội viên](https://www.kimi.com/help/membership/membership-overview) để biết chi tiết.
 </Callout>
 
 ### Về Kimi K3

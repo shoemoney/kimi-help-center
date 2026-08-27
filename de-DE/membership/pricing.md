@@ -63,7 +63,7 @@ Kimi bietet vier Mitgliedschaftsstufen, jeweils als Monats- oder Jahresabo. Bei 
 
 ## Credit-Zuteilung
 
-Alle Kimi-Mitgliedschaftsfunktionen greifen auf einen gemeinsamen Credit-Pool zu, abgerechnet nach token-Nutzung. Kimi Code hat zusätzlich ein eigenes wöchentliches rate limit von 5 Stunden, das nur für Kimi Code gilt und andere Funktionen nicht beeinflusst. Im Chat ist K2.6 kostenlos und verbraucht keine Credits. Höhere Stufen enthalten einen entsprechend größeren Credit-Pool und unterstützen dadurch häufigere und komplexere Workflows. Details finden Sie unter [Credit-Update und Nutzungsregeln](/membership/update-rules).
+Alle Kimi-Mitgliedschaftsfunktionen greifen auf einen gemeinsamen Credit-Pool zu, abgerechnet nach token-Nutzung. Kimi Code hat zusätzlich ein eigenes wöchentliches rate limit von 5 Stunden, das nur für Kimi Code gilt und andere Funktionen nicht beeinflusst. K2.6-Unterhaltungen im Chat werden ebenfalls über Credits abgerechnet. Höhere Stufen enthalten einen entsprechend größeren Credit-Pool und unterstützen dadurch häufigere und komplexere Workflows. Details finden Sie unter [Credit-Update und Nutzungsregeln](/membership/update-rules).
 
 ## Häufige Fragen zu Credits
 

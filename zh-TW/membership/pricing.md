@@ -63,7 +63,7 @@ Kimi 提供四種會員方案，每種都可選擇月繳或年繳。選擇年繳
 
 ## credit 分配
 
-所有 Kimi 會員功能共用同一個 credit 池，並依 token 使用量計量。Kimi Code 另有專屬的 5 小時／每週 rate limit，僅適用於 Kimi Code，不影響其他功能。在 Chat 中，K2.6 免費使用，不會消耗 credit。較高級方案包含更大的 credit 池，可支援更頻繁、更複雜的工作流程。詳情請參閱 [credit 更新與使用規則](/membership/update-rules)。
+所有 Kimi 會員功能共用同一個 credit 池，並依 token 使用量計量。Kimi Code 另有專屬的 5 小時／每週 rate limit，僅適用於 Kimi Code，不影響其他功能。在 Chat 中的 K2.6 對話也會依 credit 計費。較高級方案包含更大的 credit 池，可支援更頻繁、更複雜的工作流程。詳情請參閱 [credit 更新與使用規則](/membership/update-rules)。
 
 ## credit 常見問題
 

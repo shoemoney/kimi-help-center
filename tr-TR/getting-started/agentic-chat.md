@@ -37,7 +37,7 @@ Kimi birden fazla model sunar. Geçiş yapmak için giriş kutusunun üzerindeki
 | **K3 Swarm** | Düşük / Yüksek / Maksimum | Büyük ölçekli arama ve toplu işlem; tek seferde tamamlanır |
 
 <Callout type="tip">
-K2.6, Chat içinde credit tüketmez (Kimi Work içinde K2.6 Agent olarak kullanıldığında yine üyelik credit’leri tüketir); K3 ve K3 Swarm credit ile ücretlendirilir. Ayrıntılar için [üyelik avantajlarına](https://www.kimi.com/help/membership/membership-overview) bakın.
+K2.6, K3 ve K3 Swarm’ın tümü credit ile ücretlendirilir. Ayrıntılar için [üyelik avantajlarına](https://www.kimi.com/help/membership/membership-overview) bakın.
 </Callout>
 
 ### Kimi K3 hakkında

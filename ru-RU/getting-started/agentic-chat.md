@@ -37,7 +37,7 @@ Kimi предлагает несколько моделей. Чтобы пере
 | **K3 Swarm** | Низкая / высокая / максимальная | Масштабного поиска и пакетной обработки с выполнением за один запуск |
 
 <Callout type="tip">
-K2.6 не расходует credits в Chat (при использовании как K2.6 Agent внутри Kimi Work она по-прежнему расходует credits подписки); K3 и K3 Swarm оплачиваются в credits. Подробнее см. в разделе [о преимуществах подписки](https://www.kimi.com/help/membership/membership-overview).
+K2.6, K3 и K3 Swarm оплачиваются в credits. Подробнее см. в разделе [о преимуществах подписки](https://www.kimi.com/help/membership/membership-overview).
 </Callout>
 
 ### О Kimi K3

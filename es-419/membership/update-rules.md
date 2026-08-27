@@ -27,11 +27,11 @@ Las funciones de la membresía de Kimi comparten una sola bolsa de créditos que
 | **Kimi Claw** | Tu asistente personal de IA desplegado en la nube |
 | **Otras funciones** | Generación de imágenes y más |
 
-> **K2.6**: En Chat, K2.6 es gratis para todos los usuarios y no consume créditos; cuando se usa como K2.6 Agent dentro de Kimi Work, sí consume créditos de la membresía.
+> **K2.6**: En Chat, K2.6 también consume créditos de la membresía, facturados de la misma manera que cuando se usa como K2.6 Agent dentro de Kimi Work.
 > **Kimi Code**: Usa la misma bolsa compartida de créditos, pero tiene su propio rate limit de 5 horas / semanal, que aplica únicamente a Kimi Code.
 
 <Callout type="tip">
-Esto significa que puedes distribuir tus créditos como quieras dentro de la bolsa compartida: dedicar más a investigación un mes y más a documentos al siguiente. En Chat, K2.6 no consume créditos.
+Esto significa que puedes distribuir tus créditos como quieras dentro de la bolsa compartida: dedicar más a investigación un mes y más a documentos al siguiente.
 </Callout>
 
 ## ¿Cómo se calculan los créditos?

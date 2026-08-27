@@ -16,7 +16,7 @@ preview_content: "对比 Kimi 的四档会员方案、额度体系与计费选�
 
 Kimi 提供四档会员方案，可满足从日常效率提升到高强度工作流等不同需求。
 
-所有 Kimi 会员功能共用同一个额度池。网站部署、Deep Research（深度研究）、幻灯片、Kimi Code、Kimi Work、Kimi Claw 及其他会员功能都会消耗会员额度。在聊天中，K2.6 对所有用户免费，且不消耗额度。
+所有 Kimi 会员功能共用同一个额度池。网站部署、Deep Research（深度研究）、幻灯片、Kimi Code、Kimi Work、Kimi Claw 及其他会员功能都会消耗会员额度，包括聊天中的 K2.6 对话。
 
 ## 方案对比
 

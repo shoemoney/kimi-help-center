@@ -16,7 +16,7 @@ preview_content: "Compara los cuatro niveles de membresía de Kimi, el sistema d
 
 Kimi ofrece cuatro niveles de membresía, pensados para crecer contigo: desde la productividad diaria hasta los flujos de trabajo de usuarios avanzados.
 
-Todas las funciones de la membresía de Kimi comparten una sola bolsa de créditos. La implementación de sitios web, Deep Research, Slides, Kimi Code, Kimi Work, Kimi Claw y otras funciones de membresía consumen créditos de esa misma bolsa. En el chat, K2.6 es gratis para todos los usuarios y no consume créditos.
+Todas las funciones de la membresía de Kimi comparten una sola bolsa de créditos. La implementación de sitios web, Deep Research, Slides, Kimi Code, Kimi Work, Kimi Claw y otras funciones de membresía consumen créditos de esa misma bolsa, incluidas las conversaciones de K2.6 en Chat.
 
 ## Comparación de planes
 

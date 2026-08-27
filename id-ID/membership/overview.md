@@ -16,7 +16,7 @@ preview_content: "Bandingkan empat tingkat keanggotaan Kimi, sistem credit, dan 
 
 Kimi menawarkan empat tingkat keanggotaan — dirancang untuk mengikuti kebutuhan Anda, mulai dari produktivitas harian hingga alur kerja pengguna tingkat lanjut.
 
-Semua fitur keanggotaan Kimi menggunakan satu kumpulan credit yang sama. Deployment situs web, Deep Research, Slides, Kimi Code, Kimi Work, Kimi Claw, dan fitur keanggotaan lainnya semuanya memakai credit keanggotaan. Di Chat, K2.6 gratis untuk semua pengguna dan tidak mengonsumsi credit.
+Semua fitur keanggotaan Kimi menggunakan satu kumpulan credit yang sama. Deployment situs web, Deep Research, Slides, Kimi Code, Kimi Work, Kimi Claw, dan fitur keanggotaan lainnya semuanya memakai credit keanggotaan, termasuk percakapan K2.6 di Chat.
 
 ## Perbandingan paket
 

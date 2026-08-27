@@ -63,7 +63,7 @@ Kimi cung cấp bốn hạng thành viên, mỗi hạng đều có lựa chọn 
 
 ## Phân bổ credit
 
-Tất cả tính năng thành viên Kimi cùng dùng chung một quỹ credit, được tính theo mức sử dụng token. Kimi Code cũng có rate limit riêng 5 giờ / hằng tuần, chỉ áp dụng cho Kimi Code và không ảnh hưởng đến các tính năng khác. Trong Chat, K2.6 miễn phí và không tiêu thụ credit. Các hạng cao hơn có quỹ credit lớn hơn tương ứng, hỗ trợ quy trình làm việc thường xuyên và phức tạp hơn. Xem [Cập nhật credit & Quy tắc sử dụng](/membership/update-rules) để biết chi tiết.
+Tất cả tính năng thành viên Kimi cùng dùng chung một quỹ credit, được tính theo mức sử dụng token. Kimi Code cũng có rate limit riêng 5 giờ / hằng tuần, chỉ áp dụng cho Kimi Code và không ảnh hưởng đến các tính năng khác. Các cuộc trò chuyện K2.6 trong Chat cũng được tính vào credit. Các hạng cao hơn có quỹ credit lớn hơn tương ứng, hỗ trợ quy trình làm việc thường xuyên và phức tạp hơn. Xem [Cập nhật credit & Quy tắc sử dụng](/membership/update-rules) để biết chi tiết.
 
 ## Câu hỏi thường gặp về credit
 

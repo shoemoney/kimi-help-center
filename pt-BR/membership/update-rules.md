@@ -27,11 +27,11 @@ Os recursos da assinatura Kimi compartilham um único saldo de créditos, válid
 | **Kimi Claw** | Seu assistente pessoal de IA implantado na nuvem |
 | **Outros recursos** | Geração de imagens e muito mais |
 
-> **K2.6**: No Chat, o K2.6 é gratuito para todos os usuários e não consome créditos; quando usado como K2.6 Agent dentro do Kimi Work, ele ainda consome créditos da assinatura.
+> **K2.6**: No Chat, o K2.6 também consome créditos da assinatura, cobrados da mesma forma que quando é usado como um K2.6 Agent dentro do Kimi Work.
 > **Kimi Code**: Usa o mesmo saldo compartilhado de créditos, mas tem seu próprio rate limit (limite de frequência) de 5 horas / semanal, que se aplica apenas ao Kimi Code.
 
 <Callout type="tip">
-Isso significa que você pode distribuir seus créditos como quiser dentro do saldo compartilhado — gastar mais com pesquisa em um mês, mais com documentos no seguinte. No Chat, o K2.6 não consome créditos.
+Isso significa que você pode distribuir seus créditos como quiser dentro do saldo compartilhado — gastar mais com pesquisa em um mês, mais com documentos no seguinte.
 </Callout>
 
 ## Como os créditos são calculados?

@@ -16,7 +16,7 @@ preview_content: "Comparez les quatre formules d’abonnement Kimi, le système 
 
 Kimi propose quatre formules d’abonnement, pensées pour s’adapter à vos besoins, de la productivité au quotidien aux flux de travail les plus avancés.
 
-Toutes les fonctionnalités incluses dans l’abonnement Kimi partagent une même réserve de credits. Le déploiement de sites web, Deep Research, Slides, Kimi Code, Kimi Work, Kimi Claw et les autres fonctionnalités d’abonnement consomment toutes des credits d’abonnement. Dans Chat, K2.6 est gratuit pour tous les utilisateurs et ne consomme pas de credits.
+Toutes les fonctionnalités incluses dans l’abonnement Kimi partagent une même réserve de credits. Le déploiement de sites web, Deep Research, Slides, Kimi Code, Kimi Work, Kimi Claw et les autres fonctionnalités d’abonnement consomment toutes des credits d’abonnement, y compris les conversations K2.6 dans Chat.
 
 ## Comparaison des formules
 

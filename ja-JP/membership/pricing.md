@@ -63,7 +63,7 @@ Kimiでは4つのメンバーシッププランをご用意しており、それ
 
 ## credit配分
 
-Kimiのメンバーシップ機能はすべて1つのcreditプールを共有し、token使用量に応じて計測されます。Kimi Codeには、Kimi Codeのみに適用される独自の5時間ごと／週ごとのrate limitもあり、他の機能には影響しません。ChatではK2.6を無料で利用でき、creditは消費されません。上位プランほどcreditプールが比例して大きくなり、より頻繁で複雑なワークフローに対応できます。詳しくは[Credit更新・利用ルール](/membership/update-rules)をご覧ください。
+Kimiのメンバーシップ機能はすべて1つのcreditプールを共有し、token使用量に応じて計測されます。Kimi Codeには、Kimi Codeのみに適用される独自の5時間ごと／週ごとのrate limitもあり、他の機能には影響しません。ChatでのK2.6の会話もcreditから課金されます。上位プランほどcreditプールが比例して大きくなり、より頻繁で複雑なワークフローに対応できます。詳しくは[Credit更新・利用ルール](/membership/update-rules)をご覧ください。
 
 ## credit に関するよくある質問
 

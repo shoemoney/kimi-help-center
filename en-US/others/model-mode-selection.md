@@ -21,7 +21,7 @@ Use the model switcher above the input box to choose:
 
 | Model | Thinking intensity | Best for | Credit |
 |---|---|---|---|
-| **K2.6** | Standard / Advanced | Fast conversations and Q&A, with faster responses | **No membership credits used in Chat** |
+| **K2.6** | Standard / Advanced | Fast conversations and Q&A, with faster responses | Billed against credits |
 | **K3** | Standard / Advanced / Extreme | Conversations and Agent tasks, with the strongest overall capability | Billed against credits |
 | **K3 Cluster** | Standard / Advanced / Extreme | Large-scale search, batch processing, and completing high-volume tasks in one go | Billed against credits |
 
@@ -29,7 +29,7 @@ Use the model switcher above the input box to choose:
 - For **image / video / audio generation**, click “+” → Plugins, then choose the relevant feature and use it with **K3**.
 
 <Callout type="info">
-K2.6 being free and not consuming credits applies only in Chat (the model switcher above the input box). When used as a K2.6 Agent inside Kimi Work, it still consumes membership credits.
+K2.6 consumes membership credits both in Chat (the model switcher above the input box) and when used as a K2.6 Agent inside Kimi Work.
 </Callout>
 
 ## Thinking intensity: Standard / Advanced / Extreme
@@ -46,10 +46,10 @@ The higher the thinking intensity, the more fully the model reasons and, in gene
 
 ## What to choose by scenario
 
-- **Fast Q&A and everyday conversations** → K2.6 (no credits used in Chat).
+- **Fast Q&A and everyday conversations** → K2.6.
 - **Complex conversations, document writing / PPT and spreadsheet creation / multi-step tasks** → K3.
 - **Large-scale search, batch processing, and very long-form writing** → K3 Cluster.
-- **To save credits** → use K2.6, or set the thinking intensity to “Standard”.
+- **To save credits** → set the thinking intensity to “Standard”.
 
 ## FAQ
 
@@ -57,7 +57,7 @@ The higher the thinking intensity, the more fully the model reasons and, in gene
 Kimi has integrated “conversation” and “Agent” into one experience, so they are no longer separate modes. “Thinking” is now controlled by **choosing the model and thinking intensity**—for example, using K3 with a higher thinking intensity gives you more thorough reasoning.
 
 ### What is the difference between K2.6 and K3?
-K2.6 is optimized for fast Q&A, responds faster, and does not use membership credits in Chat. K3 has the strongest overall capability, excels at complex conversations and Agent tasks, can produce editable documents end to end, and is billed against credits.
+K2.6 is optimized for fast Q&A and responds faster. K3 has the strongest overall capability, excels at complex conversations and Agent tasks, and can produce editable documents end to end. Both are billed against credits.
 
 ### What is the difference between K3 and K3 Cluster?
 K3 is suitable for regular conversations and Agent tasks. K3 Cluster uses large-scale parallelism—thousands of tool calls and hundreds of sub-agents—to handle high-volume tasks such as **large-scale search, batch processing, and very long-form writing**.

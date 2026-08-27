@@ -27,11 +27,11 @@ Le funzionalità dell’abbonamento Kimi condividono un unico pool di credit uti
 | **Kimi Claw** | Il tuo assistente AI personale distribuito nel cloud |
 | **Altre funzionalità** | Generazione di immagini e altro |
 
-> **K2.6**: In Chat, K2.6 è gratuito per tutti gli utenti e non consuma credit; quando viene usato come Agent K2.6 all’interno di Kimi Work, continua invece a consumare i credit dell’abbonamento.
+> **K2.6**: In Chat, K2.6 consuma i credit dell’abbonamento, con lo stesso addebito di quando viene usato come Agent K2.6 all’interno di Kimi Work.
 > **Kimi Code**: Attinge allo stesso pool di credit condiviso, ma ha un proprio rate limit di 5 ore / settimanale valido solo per Kimi Code.
 
 <Callout type="tip">
-Questo significa che puoi distribuire i credit come preferisci all’interno del pool condiviso: un mese puoi spenderne di più per la ricerca, quello successivo per i documenti. In Chat, K2.6 non consuma credit.
+Questo significa che puoi distribuire i credit come preferisci all’interno del pool condiviso: un mese puoi spenderne di più per la ricerca, quello successivo per i documenti.
 </Callout>
 
 ## Come vengono calcolati i credit?

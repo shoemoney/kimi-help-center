@@ -63,7 +63,7 @@ Kimi, her biri aylık veya yıllık abonelik olarak sunulan dört üyelik paketi
 
 ## Credit dağıtımı
 
-Tüm Kimi üyelik özellikleri, token kullanımına göre ölçülen tek bir credit havuzunu paylaşır. Kimi Code ayrıca yalnızca Kimi Code için geçerli olan ve diğer özellikleri etkilemeyen, haftalık 5 saatlik kendi rate limit sınırına sahiptir. Chat’te K2.6 ücretsizdir ve credit tüketmez. Daha üst paketler, daha sık ve karmaşık iş akışlarını destekleyen orantılı olarak daha büyük bir credit havuzu içerir. Ayrıntılar için [Credit Güncellemesi ve Kullanım Kuralları](/membership/update-rules) bölümüne bakın.
+Tüm Kimi üyelik özellikleri, token kullanımına göre ölçülen tek bir credit havuzunu paylaşır. Kimi Code ayrıca yalnızca Kimi Code için geçerli olan ve diğer özellikleri etkilemeyen, haftalık 5 saatlik kendi rate limit sınırına sahiptir. Chat'teki K2.6 sohbetleri de credit'lerden düşülür. Daha üst paketler, daha sık ve karmaşık iş akışlarını destekleyen orantılı olarak daha büyük bir credit havuzu içerir. Ayrıntılar için [Credit Güncellemesi ve Kullanım Kuralları](/membership/update-rules) bölümüne bakın.
 
 ## Credit Hakkında Sıkça Sorulan Sorular
 

@@ -21,7 +21,7 @@ Dùng bộ chọn mô hình phía trên ô nhập để chọn:
 
 | Mô hình | Cường độ suy nghĩ | Phù hợp nhất cho | Credit |
 |---|---|---|---|
-| **K2.6** | Tiêu chuẩn / Nâng cao | Trò chuyện và hỏi đáp nhanh, phản hồi nhanh hơn | **Không dùng credit hội viên trong Chat** |
+| **K2.6** | Tiêu chuẩn / Nâng cao | Trò chuyện và hỏi đáp nhanh, phản hồi nhanh hơn | Tính vào credit |
 | **K3** | Tiêu chuẩn / Nâng cao / Cực cao | Trò chuyện và tác vụ Agent, với năng lực tổng thể mạnh nhất | Tính vào credit |
 | **K3 Cluster** | Tiêu chuẩn / Nâng cao / Cực cao | Tìm kiếm quy mô lớn, xử lý hàng loạt và hoàn thành khối lượng lớn tác vụ trong một lần | Tính vào credit |
 
@@ -29,7 +29,7 @@ Dùng bộ chọn mô hình phía trên ô nhập để chọn:
 - Với **tạo hình ảnh / video / âm thanh**, hãy nhấn “+” → Tiện ích, rồi chọn tính năng liên quan và sử dụng với **K3**.
 
 <Callout type="info">
-Việc K2.6 miễn phí và không tiêu tốn credit chỉ áp dụng trong Chat (bộ chọn mô hình phía trên ô nhập). Khi được dùng làm K2.6 Agent bên trong Kimi Work, mô hình này vẫn tiêu tốn credit hội viên.
+K2.6 tiêu tốn credit hội viên cả trong Chat (bộ chọn mô hình phía trên ô nhập) lẫn khi được dùng làm K2.6 Agent bên trong Kimi Work.
 </Callout>
 
 ## Cường độ suy nghĩ: Tiêu chuẩn / Nâng cao / Cực cao
@@ -46,10 +46,10 @@ Cường độ suy nghĩ càng cao, mô hình suy luận càng đầy đủ và 
 
 ## Nên chọn gì theo từng tình huống
 
-- **Hỏi đáp nhanh và trò chuyện hằng ngày** → K2.6 (không dùng credit trong Chat).
+- **Hỏi đáp nhanh và trò chuyện hằng ngày** → K2.6.
 - **Trò chuyện phức tạp, viết tài liệu / tạo PPT và bảng tính / tác vụ nhiều bước** → K3.
 - **Tìm kiếm quy mô lớn, xử lý hàng loạt và viết nội dung rất dài** → K3 Cluster.
-- **Muốn tiết kiệm credit** → dùng K2.6, hoặc đặt cường độ suy nghĩ thành “Tiêu chuẩn”.
+- **Muốn tiết kiệm credit** → đặt cường độ suy nghĩ thành “Tiêu chuẩn”.
 
 ## Câu hỏi thường gặp
 
@@ -57,7 +57,7 @@ Cường độ suy nghĩ càng cao, mô hình suy luận càng đầy đủ và 
 Kimi đã hợp nhất “trò chuyện” và “Agent” thành một trải nghiệm duy nhất, nên chúng không còn là các chế độ riêng biệt. Việc “suy nghĩ” hiện được kiểm soát bằng **cách chọn mô hình và cường độ suy nghĩ**—ví dụ, dùng K3 với cường độ suy nghĩ cao hơn sẽ cho khả năng suy luận kỹ lưỡng hơn.
 
 ### K2.6 và K3 khác nhau ở điểm nào?
-K2.6 được tối ưu cho hỏi đáp nhanh, phản hồi nhanh hơn và không dùng credit hội viên trong Chat. K3 có năng lực tổng thể mạnh nhất, vượt trội ở các cuộc trò chuyện phức tạp và tác vụ Agent, có thể tạo tài liệu có thể chỉnh sửa từ đầu đến cuối và được tính vào credit.
+K2.6 được tối ưu cho hỏi đáp nhanh và phản hồi nhanh hơn. K3 có năng lực tổng thể mạnh nhất, vượt trội ở các cuộc trò chuyện phức tạp và tác vụ Agent, có thể tạo tài liệu có thể chỉnh sửa từ đầu đến cuối. Cả hai đều được tính vào credit.
 
 ### K3 và K3 Cluster khác nhau ở điểm nào?
 K3 phù hợp với trò chuyện thông thường và tác vụ Agent. K3 Cluster dùng khả năng song song quy mô lớn—hàng nghìn lượt gọi công cụ và hàng trăm sub-agent—để xử lý các tác vụ khối lượng lớn như **tìm kiếm quy mô lớn, xử lý hàng loạt và viết nội dung rất dài**.

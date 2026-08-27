@@ -17,7 +17,7 @@ preview: false
 
 Klicken Sie auf Ihrer persönlichen Startseite auf „Mitgliedschaftsplan“ und wählen Sie „Enterprise holen“, um die Anzahl der Plätze festzulegen und den Kauf abzuschließen.
 
-Sie können den Kauf auch direkt auf der [Kaufseite für Unternehmen](https://www.kimi.com/membership/pricing?from=help&open=business) abschließen.
+Sie können den Kauf auch direkt auf der [Kaufseite für Unternehmen](https://www.kimi.com/membership/pricing?from=help&tab=business) abschließen.
 
 <Callout type="tip">
 Kimi Business beginnt bei 5 Plätzen mit einem Jahresabonnement, und Sie können während der Abonnementlaufzeit weitere Plätze hinzufügen.

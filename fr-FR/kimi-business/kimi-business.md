@@ -23,8 +23,8 @@ Kimi Business propose des abonnements annuels à partir de 5 sièges, parfaiteme
 
 | Taille de l'entreprise | Parcours recommandé | Comment acheter | Contact commercial |
 |---|---|---|---|
-| 1–20 | Acheter le plan Business | [Acheter en ligne](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
-| 20+ | Passer des commandes en ligne séparées | [Acheter en ligne](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
+| 1–20 | Acheter le plan Business | [Acheter en ligne](https://www.kimi.com/membership/pricing?from=help&tab=business) | sales@kimi.ai |
+| 20+ | Passer des commandes en ligne séparées | [Acheter en ligne](https://www.kimi.com/membership/pricing?from=help&tab=business) | sales@kimi.ai |
 | Utilisation à grande échelle d'API Tokens | Acheter l'API sur la plateforme ouverte | [Kimi API Platform](https://platform.kimi.ai/) | [Contacter le service commercial (formulaire)](https://platform.kimi.ai/contact-sales) |
 
 ## Tarification

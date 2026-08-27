@@ -17,7 +17,7 @@ preview: false
 
 在个人主页点击“会员方案”，选择“开通企业版”，即可选择席位数量并完成购买。
 
-也可直接前往[企业版购买页](https://www.kimi.com/membership/pricing?from=help&open=business)完成购买。
+也可直接前往[企业版购买页](https://www.kimi.com/membership/pricing?from=help&tab=business)完成购买。
 
 <Callout type="tip">
 Kimi Business 起购为 5 个席位，按年订阅，订阅期内可随时增购席位。

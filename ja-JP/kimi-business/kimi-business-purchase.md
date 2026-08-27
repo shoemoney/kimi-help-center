@@ -17,7 +17,7 @@ preview: false
 
 個人ホームページで「メンバーシッププラン」をクリックし、「エンタープライズを申し込む」を選択すると、シート数を選んで購入を完了できます。
 
-[法人版の購入ページ](https://www.kimi.com/membership/pricing?from=help&open=business)から直接購入することもできます。
+[法人版の購入ページ](https://www.kimi.com/membership/pricing?from=help&tab=business)から直接購入することもできます。
 
 <Callout type="tip">
 Kimi Business は年間サブスクリプションで5シートからご利用いただけます。サブスクリプション期間中にシートを追加することもできます。

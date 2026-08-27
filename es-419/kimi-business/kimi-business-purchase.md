@@ -17,7 +17,7 @@ preview: false
 
 En tu página principal personal, haz clic en «Plan de membresía» y selecciona «Obtener Enterprise» para elegir la cantidad de puestos y completar tu compra.
 
-También puedes ir directamente a la [página de compra para empresas](https://www.kimi.com/membership/pricing?from=help&open=business) para completar la compra.
+También puedes ir directamente a la [página de compra para empresas](https://www.kimi.com/membership/pricing?from=help&tab=business) para completar la compra.
 
 <Callout type="tip">
 Kimi Business comienza con 5 puestos y una suscripción anual, y puedes agregar más puestos durante el periodo de la suscripción.

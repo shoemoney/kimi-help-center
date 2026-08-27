@@ -23,8 +23,8 @@ Kimi Business 提供年付訂閱，5 席起購，非常適合有團隊協作需�
 
 | 企業規模 | 建議路徑 | 購買方式 | 銷售聯絡方式 |
 |---|---|---|---|
-| 1～20 人 | 購買 Business 版 | [線上購買](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
-| 20 人以上 | 分筆購買 | [線上購買](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
+| 1～20 人 | 購買 Business 版 | [線上購買](https://www.kimi.com/membership/pricing?from=help&tab=business) | sales@kimi.ai |
+| 20 人以上 | 分筆購買 | [線上購買](https://www.kimi.com/membership/pricing?from=help&tab=business) | sales@kimi.ai |
 | 大規模使用 API Tokens | 到開放平台購買 API | [Kimi API Platform](https://platform.kimi.ai/) | [聯絡銷售（填寫表單）](https://platform.kimi.ai/contact-sales) |
 
 ## 價格

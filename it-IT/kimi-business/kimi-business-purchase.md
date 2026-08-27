@@ -17,7 +17,7 @@ preview: false
 
 Nella tua homepage personale, fai clic su "Piano di abbonamento" e seleziona "Ottieni Enterprise" per scegliere il numero di postazioni e completare l'acquisto.
 
-Puoi anche andare direttamente alla [pagina di acquisto per le aziende](https://www.kimi.com/membership/pricing?from=help&open=business) per completare l'acquisto.
+Puoi anche andare direttamente alla [pagina di acquisto per le aziende](https://www.kimi.com/membership/pricing?from=help&tab=business) per completare l'acquisto.
 
 <Callout type="tip">
 Kimi Business parte da 5 postazioni con una sottoscrizione annuale e puoi aggiungere altre postazioni durante il periodo di abbonamento.

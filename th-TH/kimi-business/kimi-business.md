@@ -23,8 +23,8 @@ Kimi Business เปิดให้สมัครสมาชิกรายป
 
 | ขนาดองค์กร | เส้นทางที่แนะนำ | วิธีซื้อ | ติดต่อฝ่ายขาย |
 |---|---|---|---|
-| 1–20 | ซื้อแพ็กเกจ Business | [ซื้อออนไลน์](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
-| 20+ | สั่งซื้อออนไลน์แยกรายการ | [ซื้อออนไลน์](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
+| 1–20 | ซื้อแพ็กเกจ Business | [ซื้อออนไลน์](https://www.kimi.com/membership/pricing?from=help&tab=business) | sales@kimi.ai |
+| 20+ | สั่งซื้อออนไลน์แยกรายการ | [ซื้อออนไลน์](https://www.kimi.com/membership/pricing?from=help&tab=business) | sales@kimi.ai |
 | การใช้ API Tokens ปริมาณมาก | ซื้อ API บนแพลตฟอร์มเปิด | [Kimi API Platform](https://platform.kimi.ai/) | [ติดต่อฝ่ายขาย (กรอกแบบฟอร์ม)](https://platform.kimi.ai/contact-sales) |
 
 ## ราคา

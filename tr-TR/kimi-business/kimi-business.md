@@ -23,8 +23,8 @@ Kimi Business, en az 5 koltuktan başlayan yıllık abonelikler sunar; ekip iş 
 
 | Şirket büyüklüğü | Önerilen yol | Nasıl satın alınır | Satış iletişimi |
 |---|---|---|---|
-| 1–20 | Business planını satın alın | [Çevrimiçi satın al](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
-| 20+ | Ayrı çevrimiçi siparişler verin | [Çevrimiçi satın al](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
+| 1–20 | Business planını satın alın | [Çevrimiçi satın al](https://www.kimi.com/membership/pricing?from=help&tab=business) | sales@kimi.ai |
+| 20+ | Ayrı çevrimiçi siparişler verin | [Çevrimiçi satın al](https://www.kimi.com/membership/pricing?from=help&tab=business) | sales@kimi.ai |
 | Büyük ölçekli API Tokens kullanımı | API'yi açık platformdan satın alın | [Kimi API Platform](https://platform.kimi.ai/) | [Satışla iletişime geçin (form doldurun)](https://platform.kimi.ai/contact-sales) |
 
 ## Fiyatlandırma

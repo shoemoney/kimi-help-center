@@ -17,7 +17,7 @@ preview: false
 
 在個人首頁點擊「會員方案」，並選擇「開通企業版」，即可選擇席位數量並完成購買。
 
-也可直接前往[企業版購買頁](https://www.kimi.com/membership/pricing?from=help&open=business)完成購買。
+也可直接前往[企業版購買頁](https://www.kimi.com/membership/pricing?from=help&tab=business)完成購買。
 
 <Callout type="tip">
 Kimi Business 採年付訂閱，5 席起購，且可在訂閱期間加購席位。

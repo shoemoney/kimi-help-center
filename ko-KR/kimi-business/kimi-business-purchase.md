@@ -17,7 +17,7 @@ preview: false
 
 개인 홈페이지에서 "멤버십 플랜"을 클릭하고 "엔터프라이즈 시작하기"를 선택해 시트 수를 정하고 구매를 완료하세요.
 
-[기업용 구매 페이지](https://www.kimi.com/membership/pricing?from=help&open=business)에서 바로 구매할 수도 있습니다.
+[기업용 구매 페이지](https://www.kimi.com/membership/pricing?from=help&tab=business)에서 바로 구매할 수도 있습니다.
 
 <Callout type="tip">
 Kimi Business는 5개 시트부터 연간 구독으로 시작하며, 구독 기간 중에 시트를 추가할 수 있습니다.

@@ -17,7 +17,7 @@ preview: false
 
 Trên trang chủ cá nhân của bạn, nhấp vào "Gói thành viên" và chọn "Nhận gói Doanh nghiệp" để chọn số suất người dùng và hoàn tất việc mua hàng.
 
-Bạn cũng có thể truy cập trực tiếp [trang mua bản doanh nghiệp](https://www.kimi.com/membership/pricing?from=help&open=business) để hoàn tất việc mua.
+Bạn cũng có thể truy cập trực tiếp [trang mua bản doanh nghiệp](https://www.kimi.com/membership/pricing?from=help&tab=business) để hoàn tất việc mua.
 
 <Callout type="tip">
 Kimi Business bắt đầu từ 5 suất người dùng với đăng ký theo năm, và bạn có thể thêm suất người dùng trong suốt thời gian đăng ký.

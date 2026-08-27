@@ -23,8 +23,8 @@ Kimi Business cung cấp gói đăng ký theo năm với số lượng tối thi
 
 | Quy mô doanh nghiệp | Lộ trình đề xuất | Cách mua | Liên hệ kinh doanh |
 |---|---|---|---|
-| 1–20 | Mua gói Business | [Mua trực tuyến](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
-| 20+ | Đặt các đơn hàng trực tuyến riêng | [Mua trực tuyến](https://www.kimi.com/membership/pricing?from=help&open=business) | sales@kimi.ai |
+| 1–20 | Mua gói Business | [Mua trực tuyến](https://www.kimi.com/membership/pricing?from=help&tab=business) | sales@kimi.ai |
+| 20+ | Đặt các đơn hàng trực tuyến riêng | [Mua trực tuyến](https://www.kimi.com/membership/pricing?from=help&tab=business) | sales@kimi.ai |
 | Sử dụng API Tokens quy mô lớn | Mua API trên nền tảng mở | [Kimi API Platform](https://platform.kimi.ai/) | [Liên hệ kinh doanh (điền biểu mẫu)](https://platform.kimi.ai/contact-sales) |
 
 ## Giá cả

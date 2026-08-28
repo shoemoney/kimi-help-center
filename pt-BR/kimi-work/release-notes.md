@@ -15,6 +15,19 @@ preview: false
 
 Esta página registra as atualizações de versão do Kimi Work, incluindo novos recursos, alterações e correções, e é atualizada continuamente. Baixe a versão mais recente: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.3 (2026-08-28)
+
+**Novidades**
+
+- Nova entrada “Criar plugin” no marketplace de plugins: crie plugins diretamente no marketplace
+
+**Correções**
+
+- Ajustes finos do pet de desktop: comportamento de janela aprimorado, e o idioma agora acompanha as mudanças do app em tempo real
+- Correção de um problema de consistência do estado da conversa ao editar e reenviar uma mensagem após um erro
+- Consumo de energia otimizado dos recursos sempre ativos
+- Correção de alguns bugs e melhoria de algumas interações e da estabilidade
+
 ## 3.2.2 (2026-08-26)
 
 **Novidades**

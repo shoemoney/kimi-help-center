@@ -15,6 +15,19 @@ preview: false
 
 Bu sayfa, Kimi Work sürüm güncellemelerini (yeni özellikler, değişiklikler ve düzeltmeler) kaydeder ve sürekli güncellenir. En son sürümü indirin: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.3 (2026-08-28)
+
+**Yeni**
+
+- Eklenti mağazasına “Eklenti oluştur” girişi eklendi: eklentileri doğrudan mağazada oluşturun
+
+**Düzeltmeler**
+
+- Masaüstü evcil hayvanı ince ayarı: pencere davranışı iyileştirildi ve dil artık uygulama geçişlerini gerçek zamanlı takip ediyor
+- Hata sonrası bir mesajı düzenleyip yeniden gönderirken sohbet durumu tutarlılığının bozulmasına neden olan sorun düzeltildi
+- Her zaman açık özelliklerin güç tüketimi optimize edildi
+- Bazı hatalar düzeltildi ve bazı etkileşimler ile kararlılık iyileştirildi
+
 ## 3.2.2 (2026-08-26)
 
 **Yeni**

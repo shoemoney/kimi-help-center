@@ -15,6 +15,19 @@ preview: false
 
 Trang này ghi lại nội dung cập nhật theo phiên bản của Kimi Work, bao gồm tính năng mới, thay đổi và bản sửa lỗi, và được cập nhật liên tục. Tải xuống phiên bản mới nhất: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.3 (2026-08-28)
+
+**Mới**
+
+- Thêm mục “Tạo plugin” trong cửa hàng plugin: tạo plugin trực tiếp trong cửa hàng
+
+**Sửa lỗi**
+
+- Tinh chỉnh thú cưng trên desktop: cải thiện hành vi cửa sổ, và ngôn ngữ giờ sẽ thay đổi theo ứng dụng theo thời gian thực
+- Đã sửa lỗi mất nhất quán trạng thái cuộc trò chuyện khi chỉnh sửa và gửi lại tin nhắn sau lỗi
+- Tối ưu hóa mức tiêu thụ điện của các tính năng thường trực
+- Đã sửa một số lỗi và cải thiện một số tương tác cùng độ ổn định
+
 ## 3.2.2 (2026-08-26)
 
 **Mới**

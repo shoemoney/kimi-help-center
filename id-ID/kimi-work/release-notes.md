@@ -15,6 +15,19 @@ preview: false
 
 Halaman ini mencatat pembaruan versi Kimi Work, termasuk fitur baru, perubahan, dan perbaikan, dan terus diperbarui. Unduh versi terbaru: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.3 (2026-08-28)
+
+**Baru**
+
+- Entri “Buat plugin” baru di marketplace plugin: buat plugin langsung di marketplace
+
+**Perbaikan**
+
+- Polesan peliharaan desktop: perilaku jendela yang lebih baik, dan bahasa kini mengikuti peralihan aplikasi secara real-time
+- Memperbaiki masalah konsistensi status percakapan saat mengedit dan mengirim ulang pesan setelah terjadi kesalahan
+- Konsumsi daya fitur yang selalu aktif dioptimalkan
+- Memperbaiki beberapa bug dan meningkatkan beberapa interaksi dan stabilitas
+
 ## 3.2.2 (2026-08-26)
 
 **Baru**

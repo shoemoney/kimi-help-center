@@ -85,8 +85,8 @@ Kimi Claw、Kimi Plus 会话中暂不支持插件。
 <Frames
   src="./images/plugins/custom-plugin-1.png"
   alt="在 Kimi Work 中创建插件"
-  width={1312}
-  height={256}
+  width={1742}
+  height={402}
 />
 
 <Frames src="./images/plugins/custom-plugin-2.png" alt="在 Kimi Work 会话中使用 Plugin Builder" width={1312} height={256} />

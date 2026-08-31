@@ -83,13 +83,13 @@ Download and install [Kimi Work](https://www.kimi.ai/products/kimi-work), then f
 1. **Create the plugin.** Open Kimi Work, go to **Plugins** → **New Plugin** in the upper-right corner, and follow the instructions to create a plugin. You can also invoke the **Plugin Builder** skill with slash in a conversation, describe the plugin you want to create, and provide the relevant information. If you already have a ChatGPT, Claude, or other platform plugin, provide its source files or project link to Plugin Builder and follow the instructions to convert it into a Kimi plugin.
 
 <Frames src="./images/plugins/custom-plugin-1.png" alt="Create a plugin in Kimi Work" width={1756} height={376} />
-<Frames src="./images/plugins/custom-plugin-2.jpg" alt="Use Plugin Builder in a Kimi Work conversation" width={1230} height={228} />
+<Frames src="./images/plugins/custom-plugin-2.jpg" alt="Find and install a personal plugin" width={1230} height={228} />
 2. **Install the plugin.** After creation, go to **Plugins → Personal**, find the plugin you just created, and install it.
 
-<Frames src="./images/plugins/custom-plugin-3.png" alt="Install a personal plugin" width={1750} height={636} />
+<Frames src="./images/plugins/custom-plugin-3.png" alt="Use a plugin in a conversation" width={1750} height={636} />
 3. **Use the plugin in a conversation.** In a conversation, invoke the plugin with slash at any time and make a natural-language request.
 
-<Frames src="./images/plugins/custom-plugin-4.png" alt="Invoke a plugin in a conversation" width={1242} height={230} />
+<Frames src="./images/plugins/custom-plugin-4.png" alt="Submit a plugin to the official marketplace" width={1242} height={230} />
 
 ## How to Apply for Official Marketplace Publication
 

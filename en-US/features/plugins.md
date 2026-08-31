@@ -85,8 +85,24 @@ Some plugins call tools or services to complete a task and **consume your member
 Download and install [Kimi Work](https://www.kimi.ai/products/kimi-work), then follow these steps to create and test a personal plugin:
 
 1. **Create the plugin.** In a Kimi Work conversation, invoke the **Plugin Builder** skill with slash, describe the plugin you want to create, and provide the relevant information. If you already have a ChatGPT, Claude, or other platform plugin, you can provide its source files or project link to Plugin Builder and follow the instructions to convert it into a Kimi plugin.
+
+<Frames src="./images/plugins/custom-plugin-1.png" alt="Create a plugin in Kimi Work" width={1756} height={376} />
+<Frames src="./images/plugins/custom-plugin-2.jpg" alt="Use Plugin Builder in a Kimi Work conversation" width={1230} height={228} />
 2. **Install the plugin.** After creation, go to **Plugins → Personal**, find the plugin you just created, and install it.
+
+<Frames src="./images/plugins/custom-plugin-3.png" alt="Install a personal plugin" width={1750} height={636} />
 3. **Use the plugin in a conversation.** In a new conversation, invoke the plugin with slash and make a natural-language request. Confirm that the plugin is invoked correctly and completes the expected task. We recommend testing both normal and edge-case scenarios.
+
+<Frames src="./images/plugins/custom-plugin-4.png" alt="Invoke a plugin in a conversation" width={1242} height={230} />
+
+## How to Apply for Official Marketplace Publication
+
+If you would like to submit a personal plugin that you have created and basic-tested to the Kimi official plugin marketplace, open the plugin details page, click the "✉️" button in the upper-right corner, select "Apply for official marketplace publication" in the feedback form, and provide your email address.
+
+After submission, the application will be shared with the Kimi review team. We will evaluate the plugin based on its content and test results and contact you by email if additional materials or discussion are needed.
+
+<Frames src="./images/plugins/market-submit-1.jpg" alt="Apply for official marketplace publication" width={1344} height={476} />
+<Frames src="./images/plugins/market-submit-2.jpg" alt="Complete the plugin publication application form" width={1026} height={736} />
 
 ## FAQ
 

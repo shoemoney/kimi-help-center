@@ -86,15 +86,25 @@ Kimi Claw、Kimi Plus 會話中暫不支援外掛。
 
 1. <strong>建立外掛。</strong>開啟 Kimi Work，在會話中透過 slash 喚起 <strong>Plugin Builder 技能</strong>，描述希望建立的外掛並提供相關資訊，然後按照引導完成建立。如果你已有 ChatGPT、Claude 或其他平台的外掛，也可以將原始外掛檔案提供給 Plugin Builder，請它轉換為 Kimi 外掛。
 
-<Frames src="./images/plugins/custom-plugin-1.png" alt="在 Kimi Work 中建立外掛" width={1312} height={256} />
+<Frames src="./images/plugins/custom-plugin-1.png" alt="在 Kimi Work 中建立外掛" width={1742} height={402} />
+<Frames src="./images/plugins/custom-plugin-2.png" alt="在 Kimi Work 會話中使用 Plugin Builder" width={1312} height={256} />
 
 2. <strong>安裝外掛。</strong>建立完成後，進入「外掛」→「個人」，找到剛剛建立的外掛並安裝。
 
-<Frames src="./images/plugins/custom-plugin-2.png" alt="在個人外掛中安裝外掛" width={1384} height={400} />
+<Frames src="./images/plugins/custom-plugin-3.png" alt="在個人外掛中安裝外掛" width={1740} height={566} />
 
 3. <strong>在會話中使用。</strong>在新會話中透過 slash 喚起外掛，使用自然語言提出任務請求，確認外掛能夠被正確喚起並完成預期操作。建議同時涵蓋正常功能和異常或邊界情況。
 
-<Frames src="./images/plugins/custom-plugin-3.png" alt="在會話中透過 slash 喚起外掛" width={1306} height={244} />
+<Frames src="./images/plugins/custom-plugin-4.png" alt="在會話中透過 slash 喚起外掛" width={1232} height={224} />
+
+## 如何申請發佈到官方市場
+
+如果你希望將建立並完成基礎測試的個人外掛提交至 Kimi 官方外掛市場，可以進入外掛詳情頁，點擊右上角「✉️」按鈕，在用戶反饋表單中選擇「申請發佈到官方市場」，並填寫聯絡電郵。
+
+提交後，申請資訊會同步至 Kimi 審核團隊。我們會根據外掛內容和測試情況進行評估；如需補充材料或進一步溝通，團隊會透過你填寫的電郵與你聯絡。
+
+<Frames src="./images/plugins/market-submit-1.png" alt="申請發佈到官方市場" width={1752} height={646} />
+<Frames src="./images/plugins/market-submit-2.png" alt="填寫外掛發佈申請表單" width={1020} height={738} />
 
 ## 常見問題
 

@@ -78,9 +78,9 @@ Kimi Claw、Kimi Plus 会话中暂不支持插件。
 
 ## 如何在 Kimi Work 中自定义插件
 
-请先下载并安装 [Kimi Work](https://www.kimi.ai/products/kimi-work)，。你按照以下步骤，在 Kimi Work 中定制你的个人插件：
+请先下载并安装 [Kimi Work](https://www.kimi.ai/products/kimi-work)。你按照以下步骤，在 Kimi Work 中定制你的个人插件：
 
-1. <strong>创建插件。</strong>打开 Kimi Work，进入「插件」→右上角「新建插件」，按照引导完成插件创建。你也可以在会话中通过 slash 唤起 <strong>Plugin Builder 技能</strong>，描述希望创建的插件并提供相关信息，然后按照引导完成创建。如果你已有 ChatGPT、Claude 或其他平台的插件，也可以将原始插件文件或项目链接提供给 Plugin Builder，按照引导将其转换为 Kimi 插件。
+1. <strong>创建插件。</strong>打开 Kimi Work，进入「插件」→ 右上角「新建插件」，按照引导完成插件创建。你也可以在会话中通过 slash 唤起 <strong>Plugin Builder 技能</strong>，描述希望创建的插件并提供相关信息，然后按照引导完成创建。如果你已有 ChatGPT、Claude 或其他平台的插件，也可以将原始插件文件或项目链接提供给 Plugin Builder，按照引导将其转换为 Kimi 插件。
 
 <Frames
   src="./images/plugins/custom-plugin-1.png"
@@ -113,7 +113,7 @@ Kimi Claw、Kimi Plus 会话中暂不支持插件。
 
 如果你希望将创建并完成基础测试的个人插件提交至 Kimi 官方插件市场，可以进入插件详情页，点击右上角「✉️」按钮，在用户反馈表单中选择「申请发布到官方市场」，并填写联系邮箱。
 
-提交后，申请信息会同步至 Kimi 审核团队。我们会根据插件内容和测试情况进行评估；如需补充材料或进一步沟通，团队会通过你填写的邮箱与你联系。
+提交后，申请信息会同步至 Kimi 审核团队。我们会根据插件内容和测试情况进行评估；如需补充材料或进一步沟通，团队会通过填写的邮箱与您联系。
 
 <Frames src="./images/plugins/market-submit-1.png" alt="申请发布到官方市场" width={1752} height={646} />
 

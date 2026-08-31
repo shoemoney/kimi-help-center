@@ -78,7 +78,7 @@ Kimi Claw、Kimi Plus 會話中暫不支援外掛。
 
 ## 如何在 Kimi Work 中自訂外掛
 
-請先下載並安裝 [Kimi Work](https://www.kimi.ai/products/kimi-work)，。你按照以下步驟，在 Kimi Work 中自訂你的個人外掛：
+請先下載並安裝 [Kimi Work](https://www.kimi.ai/products/kimi-work)。你按照以下步驟，在 Kimi Work 中自訂你的個人外掛：
 
 1. <strong>建立外掛。</strong>開啟 Kimi Work，進入「外掛」→右上角「新建外掛」，按照引導完成外掛建立。你也可以在會話中透過 slash 喚起 <strong>Plugin Builder 技能</strong>，描述希望建立的外掛並提供相關資訊，然後按照引導完成建立。如果你已有 ChatGPT、Claude 或其他平台的外掛，也可以將原始外掛檔案或專案連結提供給 Plugin Builder，按照引導將其轉換為 Kimi 外掛。
 
@@ -97,7 +97,7 @@ Kimi Claw、Kimi Plus 會話中暫不支援外掛。
 
 如果你希望將建立並完成基礎測試的個人外掛提交至 Kimi 官方外掛市場，可以進入外掛詳情頁，點擊右上角「✉️」按鈕，在用戶反饋表單中選擇「申請發佈到官方市場」，並填寫聯絡電郵。
 
-提交後，申請資訊會同步至 Kimi 審核團隊。我們會根據外掛內容和測試情況進行評估；如需補充材料或進一步溝通，團隊會透過你填寫的電郵與你聯絡。
+提交後，申請資訊會同步至 Kimi 審核團隊。我們會根據外掛內容和測試情況進行評估；如需補充材料或進一步溝通，團隊會透過填寫的電郵與您聯絡。
 
 <Frames src="./images/plugins/market-submit-1.png" alt="申請發佈到官方市場" width={1752} height={646} />
 <Frames src="./images/plugins/market-submit-2.png" alt="填寫外掛發佈申請表單" width={1020} height={738} />

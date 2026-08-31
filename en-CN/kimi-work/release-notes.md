@@ -15,6 +15,19 @@ preview: false
 
 This page tracks Kimi Work version updates, including new features, changes, and fixes, and is updated regularly. Download the latest version: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.4 (2026-08-31)
+
+**Changed**
+
+- Optimized how sources such as web search and local files are cited in message replies
+- Optimized font size and line spacing in message replies
+
+**Fixed**
+
+- Fixed several experience issues in dark mode
+- Optimized process guarding on Windows
+- Fixed several bugs and improved some interactions and stability
+
 ## 3.2.3 (2026-08-28)
 
 **New**

@@ -15,6 +15,19 @@ preview: false
 
 Trang này ghi lại nội dung cập nhật theo phiên bản của Kimi Work, bao gồm tính năng mới, thay đổi và bản sửa lỗi, và được cập nhật liên tục. Tải xuống phiên bản mới nhất: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.4 (2026-08-31)
+
+**Thay đổi**
+
+- Tối ưu cách hiển thị trích dẫn các nguồn như tìm kiếm web và tệp cục bộ trong phản hồi tin nhắn
+- Tối ưu cỡ chữ và khoảng cách dòng trong phản hồi tin nhắn
+
+**Sửa lỗi**
+
+- Đã sửa một số vấn đề trải nghiệm trong chế độ tối
+- Tối ưu hóa giám sát tiến trình trên Windows
+- Đã sửa một số lỗi và cải thiện một số tương tác cùng độ ổn định
+
 ## 3.2.3 (2026-08-28)
 
 **Mới**

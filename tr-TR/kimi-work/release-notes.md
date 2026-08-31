@@ -15,6 +15,19 @@ preview: false
 
 Bu sayfa, Kimi Work sürüm güncellemelerini (yeni özellikler, değişiklikler ve düzeltmeler) kaydeder ve sürekli güncellenir. En son sürümü indirin: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.4 (2026-08-31)
+
+**Değişiklikler**
+
+- Web araması ve yerel dosyalar gibi kaynakların mesaj yanıtlarında alıntı olarak gösterimi optimize edildi
+- Mesaj yanıtlarındaki yazı tipi boyutu ve satır aralıkları optimize edildi
+
+**Düzeltmeler**
+
+- Koyu modda bazı deneyim sorunları düzeltildi
+- Windows'ta işlem koruması optimize edildi
+- Bazı hatalar düzeltildi ve bazı etkileşimler ile kararlılık iyileştirildi
+
 ## 3.2.3 (2026-08-28)
 
 **Yeni**

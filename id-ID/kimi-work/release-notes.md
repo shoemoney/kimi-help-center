@@ -15,6 +15,19 @@ preview: false
 
 Halaman ini mencatat pembaruan versi Kimi Work, termasuk fitur baru, perubahan, dan perbaikan, dan terus diperbarui. Unduh versi terbaru: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.4 (2026-08-31)
+
+**Perubahan**
+
+- Tampilan kutipan sumber seperti pencarian web dan file lokal di balasan pesan dioptimalkan
+- Ukuran font dan spasi baris di balasan pesan dioptimalkan
+
+**Perbaikan**
+
+- Memperbaiki beberapa masalah pengalaman dalam mode gelap
+- Pengawasan proses di Windows dioptimalkan
+- Memperbaiki beberapa bug dan meningkatkan beberapa interaksi dan stabilitas
+
 ## 3.2.3 (2026-08-28)
 
 **Baru**

@@ -70,10 +70,6 @@ Kimi Claw、Kimi Plus 会话中暂不支持插件。
 - **创意设计**：灵感池、图像生成、视频生成、音频生成、Canva 可画
 - **通用工具**：灵动报告
 
-## 会员额度
-
-部分插件在完成任务时会调用相应的工具或服务，并**按实际调用情况消耗会员额度**；没有调用成本的插件不额外收费。
-
 ## 数据与权限
 
 - 当你选择或明确要求使用某个插件时，Kimi 会优先调用该插件提供的工具，并基于工具返回的结果生成回答；连接插件后，Kimi 会在你授权的范围内访问相关内容。
@@ -82,9 +78,9 @@ Kimi Claw、Kimi Plus 会话中暂不支持插件。
 
 ## 如何在 Kimi Work 中自定义插件
 
-请先下载并安装 [Kimi Work](https://www.kimi.ai/products/kimi-work)，然后按照以下步骤创建和测试个人插件：
+请先下载并安装 [Kimi Work](https://www.kimi.ai/products/kimi-work)，。你按照以下步骤，在 Kimi Work 中定制你的个人插件：
 
-1. <strong>创建插件。</strong>打开 Kimi Work，在会话中通过 slash 唤起 <strong>Plugin Builder 技能</strong>，描述希望创建的插件并提供相关信息，然后按照引导完成创建。如果你已有 ChatGPT、Claude 或其他平台的插件，也可以将原始插件文件提供给 Plugin Builder，请它转换为 Kimi 插件。
+1. <strong>创建插件。</strong>打开 Kimi Work，进入「插件」→右上角「新建插件」，按照引导完成插件创建。你也可以在会话中通过 slash 唤起 <strong>Plugin Builder 技能</strong>，描述希望创建的插件并提供相关信息，然后按照引导完成创建。如果你已有 ChatGPT、Claude 或其他平台的插件，也可以将原始插件文件或项目链接提供给 Plugin Builder，按照引导将其转换为 Kimi 插件。
 
 <Frames
   src="./images/plugins/custom-plugin-1.png"
@@ -104,7 +100,7 @@ Kimi Claw、Kimi Plus 会话中暂不支持插件。
   height={566}
 />
 
-3. <strong>在会话中使用。</strong>在新会话中通过 slash 唤起插件，使用自然语言提出任务请求，确认插件能够被正确唤起并完成预期操作。建议同时覆盖正常功能和异常或边界情况。
+3. <strong>在会话中使用。</strong>在会话中可以随时通过 slash 唤起插件，使用自然语言提出任务请求。
 
 <Frames
   src="./images/plugins/custom-plugin-4.png"

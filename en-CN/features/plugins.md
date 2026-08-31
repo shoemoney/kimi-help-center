@@ -70,10 +70,6 @@ The plugin marketplace is organized into the categories below. The plugins you a
 - **Creative**: Inspiration Pool, Image Generation, Video Generation, Audio Generation, Canva
 - **General**: Vivify
 
-## Credits
-
-Some plugins call tools or services to complete a task and **consume your membership credits based on actual usage**; plugins with no call cost don't incur extra charges.
-
 ## Data and permissions
 
 - When you select or explicitly ask to use a plugin, Kimi prioritizes the tools that plugin provides and generates its answer based on the results those tools return; after connecting a plugin, Kimi accesses relevant content within the scope you authorize.
@@ -82,16 +78,16 @@ Some plugins call tools or services to complete a task and **consume your member
 
 ## Create a custom plugin in Kimi Work
 
-Download and install [Kimi Work](https://www.kimi.ai/products/kimi-work), then follow these steps to create and test a personal plugin:
+Download and install [Kimi Work](https://www.kimi.ai/products/kimi-work), then follow these steps to customize your personal plugin:
 
-1. **Create the plugin.** In a Kimi Work conversation, invoke the **Plugin Builder** skill with slash, describe the plugin you want to create, and provide the relevant information. If you already have a ChatGPT, Claude, or other platform plugin, you can provide its source files or project link to Plugin Builder and follow the instructions to convert it into a Kimi plugin.
+1. **Create the plugin.** Open Kimi Work, go to **Plugins** → **New Plugin** in the upper-right corner, and follow the instructions to create a plugin. You can also invoke the **Plugin Builder** skill with slash in a conversation, describe the plugin you want to create, and provide the relevant information. If you already have a ChatGPT, Claude, or other platform plugin, provide its source files or project link to Plugin Builder and follow the instructions to convert it into a Kimi plugin.
 
 <Frames src="./images/plugins/custom-plugin-1.png" alt="Create a plugin in Kimi Work" width={1756} height={376} />
 <Frames src="./images/plugins/custom-plugin-2.jpg" alt="Use Plugin Builder in a Kimi Work conversation" width={1230} height={228} />
 2. **Install the plugin.** After creation, go to **Plugins → Personal**, find the plugin you just created, and install it.
 
 <Frames src="./images/plugins/custom-plugin-3.png" alt="Install a personal plugin" width={1750} height={636} />
-3. **Use the plugin in a conversation.** In a new conversation, invoke the plugin with slash and make a natural-language request. Confirm that the plugin is invoked correctly and completes the expected task. We recommend testing both normal and edge-case scenarios.
+3. **Use the plugin in a conversation.** In a conversation, invoke the plugin with slash at any time and make a natural-language request.
 
 <Frames src="./images/plugins/custom-plugin-4.png" alt="Invoke a plugin in a conversation" width={1242} height={230} />
 

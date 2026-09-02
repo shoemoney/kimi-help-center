@@ -25,7 +25,7 @@ Penerapan satu klik akan menangani semua hal berikut untuk Anda:
 
 - **Penerapan otomatis** — Kimi menerapkan OpenClaw di perangkat Anda secara otomatis. Jika Anda sudah memiliki OpenClaw lain yang terpasang secara lokal, Kimi dapat menyalin persona, memori, dan skill-nya dengan izin Anda — sehingga migrasi berjalan mulus.
 - **Konfigurasi model otomatis** — Kimi akan mengonfigurasi model **Kimi K2.6** secara otomatis dan menautkan ke **hak serta kredit keanggotaan Kimi**, tanpa perlu mengonfigurasi API tambahan. Kimi juga akan mengonfigurasi layanan Kimi Web Search secara otomatis untuk memberikan kemampuan pencarian internet kepada AI.
-- Jika ingin beralih ke model **Kimi K3**, Anda dapat menyesuaikan konfigurasi model di pengaturan Kimi Claw, atau lihat [Beralih ke model Kimi K3](overview#switch-to-k3).
+- Jika ingin beralih ke model **Kimi K3**, Anda dapat menyesuaikan konfigurasi model di pengaturan Kimi Claw, atau lihat [Beralih ke model Kimi K3](/kimi-claw/overview#switch-to-k3).
 - **Syarat keanggotaan** — Penerapan satu klik membutuhkan paket Allegretto atau yang lebih tinggi.
 - **Batas instance** — Setiap akun mendukung maksimal 1 Kimi Claw Desktop dalam satu waktu. Jika Anda berganti perangkat dan menerapkannya di perangkat baru, Anda akan diminta untuk memutus tautan instance sebelumnya terlebih dahulu.
 

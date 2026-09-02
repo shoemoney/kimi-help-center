@@ -25,7 +25,7 @@ Die Ein-Klick-Bereitstellung erledigt all das für Sie:
 
 - **Automatische Bereitstellung** – Kimi richtet OpenClaw automatisch auf Ihrem Gerät ein. Falls bereits eine andere OpenClaw lokal installiert ist, kann Kimi mit Ihrer Erlaubnis deren Persönlichkeit, Gedächtnis und Skills übernehmen – so gelingt der Umzug nahtlos.
 - **Automatische Modellkonfiguration** – Kimi richtet automatisch das **Kimi K2.6-Modell** ein und verknüpft es mit Ihren **Kimi-Mitgliedschafts-Credits** – eine API-Einrichtung ist nicht erforderlich. Außerdem wird Kimi Web Search für den Internetzugriff konfiguriert.
-- Um zum **Kimi K3**-Modell zu wechseln, passen Sie die Modellkonfiguration in den Kimi-Claw-Einstellungen an oder folgen Sie der Anleitung [Zu Kimi K3 wechseln](overview#switch-to-k3).
+- Um zum **Kimi K3**-Modell zu wechseln, passen Sie die Modellkonfiguration in den Kimi-Claw-Einstellungen an oder folgen Sie der Anleitung [Zu Kimi K3 wechseln](/kimi-claw/overview#switch-to-k3).
 - **Mitgliedschaftsvoraussetzung** – Die Ein-Klick-Bereitstellung setzt einen Allegretto-Tarif oder höher voraus.
 - **Instanz-Limit** – Pro Konto ist gleichzeitig höchstens 1 Kimi Claw Desktop möglich. Wenn Sie das Gerät wechseln und auf einem neuen bereitstellen, werden Sie aufgefordert, die vorherige Instanz zunächst zu trennen.
 

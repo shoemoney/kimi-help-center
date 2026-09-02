@@ -25,7 +25,7 @@ OpenClaw 是一款具備獨特個性與長期記憶的 AI 助理。在 Kimi 桌�
 
 - **自動部署** — Kimi 會自動在你的電腦上部署 OpenClaw。如果你已在本機安裝其他 OpenClaw，經你授權後，Kimi 可以複製它的人格設定、記憶與技能，讓遷移過程順暢無縫。
 - **自動模型設定** — Kimi 會幫你自動配置 **Kimi K2.6 模型**並自動關聯 **Kimi 會員權益額度**，無需額外配置 API。同時會自動配置 Kimi Web Search 服務，為 AI 提供聯網搜索能力。
-- 如需切換為 **Kimi K3** 模型，可在 Kimi Claw 設定中調整模型配置，或參考 [切換為 Kimi K3 模型](overview#switch-to-k3)。
+- 如需切換為 **Kimi K3** 模型，可在 Kimi Claw 設定中調整模型配置，或參考 [切換為 Kimi K3 模型](/kimi-claw/overview#switch-to-k3)。
 - **會員資格要求** — 一鍵部署需要 Allegretto 方案或以上等級。
 - **執行個體限制** — 每個帳號同一時間最多支援 1 個 Kimi Claw Desktop。如果你更換電腦並在新裝置上部署，系統會先提示你解除先前執行個體的連結。
 

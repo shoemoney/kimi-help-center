@@ -25,7 +25,7 @@ Le déploiement en un clic prend tout en charge pour vous :
 
 - **Déploiement automatique** — Kimi déploie OpenClaw automatiquement sur votre machine. Si un autre OpenClaw est déjà installé localement, Kimi peut, avec votre autorisation, cloner sa personnalité, sa mémoire et ses compétences, pour une migration sans accroc.
 - **Configuration automatique du modèle** — Kimi configure automatiquement le modèle **Kimi K2.6**, associe les crédits et avantages de votre **Kimi membership** et active Kimi Web Search pour l'accès à Internet. Aucune configuration d'API requise.
-- Pour passer au modèle **Kimi K3**, ajustez la configuration du modèle dans les paramètres de Kimi Claw, ou consultez [Passer au modèle Kimi K3](overview#switch-to-k3).
+- Pour passer au modèle **Kimi K3**, ajustez la configuration du modèle dans les paramètres de Kimi Claw, ou consultez [Passer au modèle Kimi K3](/kimi-claw/overview#switch-to-k3).
 - **Abonnement requis** — Le déploiement en un clic nécessite un forfait Allegretto ou supérieur.
 - **Limite d'instances** — Chaque compte ne prend en charge qu'un seul Kimi Claw Desktop à la fois. Si vous changez de machine et déployez sur une nouvelle, vous serez invité à dissocier d'abord l'instance précédente.
 

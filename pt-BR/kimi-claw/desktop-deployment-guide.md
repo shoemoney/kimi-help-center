@@ -25,7 +25,7 @@ A implantação com um clique cuida de tudo isto para você:
 
 - **Implantação automática** — O Kimi implanta o OpenClaw na sua máquina automaticamente. Se você já tiver outro OpenClaw instalado localmente, o Kimi pode clonar a persona, a memória e as habilidades dele com a sua permissão — tornando a migração perfeita.
 - **Configuração automática do modelo** — O Kimi pré-configura o modelo **Kimi K2.6**, vincula os créditos e benefícios da sua **assinatura Kimi** e configura o Kimi Web Search para acesso à internet. Não é necessária nenhuma configuração de API.
-- Se desejar usar o modelo **Kimi K3**, ajuste a configuração do modelo nas configurações do Kimi Claw ou consulte [Mudar para o modelo Kimi K3](overview#switch-to-k3).
+- Se desejar usar o modelo **Kimi K3**, ajuste a configuração do modelo nas configurações do Kimi Claw ou consulte [Mudar para o modelo Kimi K3](/kimi-claw/overview#switch-to-k3).
 - **Requisito de assinatura** — A implantação com um clique exige o plano Allegretto ou superior.
 - **Limite de instâncias** — Cada conta suporta no máximo 1 Kimi Claw Desktop por vez. Se você trocar de máquina e implantar em uma nova, será solicitado que desvincule a instância anterior primeiro.
 

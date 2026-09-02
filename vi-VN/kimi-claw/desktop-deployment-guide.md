@@ -25,7 +25,7 @@ Việc triển khai chỉ với một cú nhấp chuột sẽ tự động lo li
 
 - **Triển khai tự động** — Kimi tự động triển khai OpenClaw trên máy của bạn. Nếu bạn đã cài đặt một OpenClaw khác trên máy, Kimi có thể sao chép cá tính, trí nhớ và kỹ năng của nó khi được bạn cho phép — giúp việc chuyển đổi diễn ra liền mạch.
 - **Cấu hình mô hình tự động** — Kimi tự động cấu hình **mô hình Kimi K2.6**, liên kết **quyền lợi tín dụng thành viên Kimi** của bạn và thiết lập Kimi Web Search để truy cập internet. Không cần thiết lập API.
-- Nếu muốn chuyển sang **mô hình Kimi K3**, bạn có thể điều chỉnh cấu hình mô hình trong cài đặt Kimi Claw, hoặc tham khảo [Chuyển sang mô hình Kimi K3](overview#switch-to-k3).
+- Nếu muốn chuyển sang **mô hình Kimi K3**, bạn có thể điều chỉnh cấu hình mô hình trong cài đặt Kimi Claw, hoặc tham khảo [Chuyển sang mô hình Kimi K3](/kimi-claw/overview#switch-to-k3).
 - **Yêu cầu thành viên** — Việc triển khai một cú nhấp chuột yêu cầu gói Allegretto trở lên.
 - **Giới hạn phiên bản** — Mỗi tài khoản chỉ hỗ trợ tối đa 1 Kimi Claw Desktop tại một thời điểm. Nếu bạn đổi máy và triển khai trên máy mới, bạn sẽ được nhắc hủy liên kết phiên bản trước đó.
 

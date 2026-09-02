@@ -25,7 +25,7 @@ Tek tıkla dağıtım, aşağıdakilerin tümünü sizin için halleder:
 
 - **Otomatik dağıtım** — Kimi, OpenClaw'ı makinenize otomatik olarak dağıtır. Yerelinizde önceden kurulu başka bir OpenClaw varsa, Kimi izninizle onun kişiliğini, belleğini ve becerilerini klonlayabilir; böylece geçiş kusursuz hale gelir.
 - **Otomatik model yapılandırması** — Kimi sizin için **Kimi K2.6 modelini** otomatik olarak yapılandırır, **Kimi üyelik kredilerinizi** otomatik olarak bağlar ve internet erişimi için Kimi Web Search'ü kurar. Herhangi bir API kurulumuna gerek yoktur.
-- **Kimi K3** modeline geçmek isterseniz, Kimi Claw ayarlarından model yapılandırmasını değiştirebilir veya [Kimi K3 modeline geçiş](overview#switch-to-k3) bölümüne bakabilirsiniz.
+- **Kimi K3** modeline geçmek isterseniz, Kimi Claw ayarlarından model yapılandırmasını değiştirebilir veya [Kimi K3 modeline geçiş](/kimi-claw/overview#switch-to-k3) bölümüne bakabilirsiniz.
 - **Üyelik gereksinimi** — Tek tıkla dağıtım, Allegretto veya üzeri bir plan gerektirir.
 - **Örnek sınırı** — Her hesap aynı anda en fazla 1 Kimi Claw Desktop destekler. Makine değiştirip yenisinde dağıtım yaparsanız, önce önceki örneğin bağlantısını kaldırmanız istenir.
 

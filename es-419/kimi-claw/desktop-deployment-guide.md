@@ -25,7 +25,7 @@ La implementación con un solo clic se encarga de todo lo siguiente por ti:
 
 - **Implementación automática** — Kimi implementa OpenClaw en tu equipo de forma automática. Si ya tienes otro OpenClaw instalado localmente, Kimi puede clonar su personalidad, memoria y habilidades con tu permiso, lo que hace que la migración sea totalmente fluida.
 - **Configuración automática del modelo** — Kimi configura automáticamente el modelo **Kimi K2.6**, vincula los créditos de tu **membresía de Kimi** y configura Kimi Web Search para el acceso a internet. No necesitas configurar ninguna API.
-- Para cambiar al modelo **Kimi K3**, ajusta la configuración del modelo en los ajustes de Kimi Claw o consulta la guía [Cambiar al modelo Kimi K3](overview#switch-to-k3).
+- Para cambiar al modelo **Kimi K3**, ajusta la configuración del modelo en los ajustes de Kimi Claw o consulta la guía [Cambiar al modelo Kimi K3](/kimi-claw/overview#switch-to-k3).
 - **Requisito de membresía** — La implementación con un solo clic requiere un plan Allegretto o superior.
 - **Límite de instancias** — Cada cuenta admite un máximo de 1 Kimi Claw Desktop a la vez. Si cambias de equipo e implementas en uno nuevo, se te pedirá que desvincules primero la instancia anterior.
 

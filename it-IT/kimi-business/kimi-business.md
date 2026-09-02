@@ -13,7 +13,7 @@ preview: false
 
 # Kimi Business
 
-Kimi Business è una soluzione di workspace intelligente progettata per i team aziendali, che offre funzionalità AI complete garantendo al contempo la sicurezza dei dati aziendali e il supporto alla collaborazione tra team.
+Kimi Business è una soluzione di workspace intelligente progettata per i team aziendali, che offre funzionalità IA complete garantendo al contempo la sicurezza dei dati aziendali e il supporto alla collaborazione tra team.
 
 <Callout type="tip">
 Kimi Business prevede abbonamenti annuali a partire da 2 postazioni (fino a 150 postazioni per acquisto), ideali per le piccole e medie imprese con esigenze di collaborazione tra team.

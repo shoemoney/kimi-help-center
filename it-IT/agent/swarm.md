@@ -26,11 +26,11 @@ Agent Swarm è attualmente basato su Kimi K3 (K3 Swarm), che migliora ulteriorme
 
 ## Come è nato
 
-Nel 2025 la narrativa dominante del settore AI si concentrava sulla scalabilità verticale — modelli più grandi, più parametri. Ma questo approccio incontra un limite strutturale: il collo di bottiglia dell'esecuzione sequenziale singola.
+Nel 2025 la narrativa dominante del settore IA si concentrava sulla scalabilità verticale — modelli più grandi, più parametri. Ma questo approccio incontra un limite strutturale: il collo di bottiglia dell'esecuzione sequenziale singola.
 
 Agent Swarm è nato da uno scenario reale: quando una persona del team ha provato ad automatizzare la raccolta quotidiana di informazioni azionarie e si è ritrovata con 100 righe di codice if-else, ha capito: "Sto scrivendo a mano un sistema multi-agente". Se i modelli sanno usare gli strumenti, perché non possono progettare da soli la propria architettura?
 
-Agent Swarm è una struttura organizzativa autoprogettata — concepita dall'AI, non dagli esseri umani. L'Agent principale (orchestratore) dirige in autonomia fino a 300 sub-agent, eseguendo fino a 4.000 passaggi di workflow in parallelo.
+Agent Swarm è una struttura organizzativa autoprogettata — concepita dall'IA, non dagli esseri umani. L'Agent principale (orchestratore) dirige in autonomia fino a 300 sub-agent, eseguendo fino a 4.000 passaggi di workflow in parallelo.
 
 <Frames
   src="./images/swarm/swarm.png"

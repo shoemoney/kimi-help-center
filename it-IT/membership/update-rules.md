@@ -22,9 +22,9 @@ Le funzionalità dell’abbonamento Kimi condividono un unico pool di credit uti
 | Funzionalità | Descrizione |
 |---------|-------------|
 | **Attività Agent** | Siti web, documenti, presentazioni, fogli di calcolo, Deep Research |
-| **Kimi Code** | Assistente di programmazione basato su AI per sviluppatori |
+| **Kimi Code** | Assistente di programmazione basato su IA per sviluppatori |
 | **Kimi Work** | App desktop Kimi |
-| **Kimi Claw** | Il tuo assistente AI personale distribuito nel cloud |
+| **Kimi Claw** | Il tuo assistente IA personale distribuito nel cloud |
 | **Altre funzionalità** | Generazione di immagini e altro |
 
 > **K2.6**: In Chat, K2.6 consuma i credit dell’abbonamento, con lo stesso addebito di quando viene usato come Agent K2.6 all’interno di Kimi Work.

@@ -49,7 +49,7 @@ Se fai clic su **Pubblica** per distribuire pubblicamente il sito web, il link g
 
 ## Mancano contenuti, dati o record?
 
-> Ad esempio: "Il contenuto della mia homepage è scomparso", "Le conoscenze che ho caricato nel database non ci sono più", "Le informazioni che ho caricato mancano" oppure "L'AI dice che i dati sono persi definitivamente".
+> Ad esempio: "Il contenuto della mia homepage è scomparso", "Le conoscenze che ho caricato nel database non ci sono più", "Le informazioni che ho caricato mancano" oppure "L'IA dice che i dati sono persi definitivamente".
 
 Nella maggior parte dei casi, i dati non sono stati realmente persi. Verifica in quest'ordine:
 

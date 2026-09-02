@@ -14,7 +14,7 @@ preview: false
 
 # Usare le skill in Kimi Claw
 
-Kimi Claw è un assistente AI dotato di personalità propria e di memoria a lungo termine, capace di eseguire attività pianificate in background, collaborare tra piattaforme diverse, conservare il contesto e automatizzare le operazioni più ripetitive come la raccolta di informazioni, il monitoraggio e le notifiche.
+Kimi Claw è un assistente IA dotato di personalità propria e di memoria a lungo termine, capace di eseguire attività pianificate in background, collaborare tra piattaforme diverse, conservare il contesto e automatizzare le operazioni più ripetitive come la raccolta di informazioni, il monitoraggio e le notifiche.
 
 ## Ottenere e gestire le skill
 

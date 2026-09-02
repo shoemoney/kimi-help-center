@@ -27,7 +27,7 @@ Dire a Kimi chi sei e in quale situazione ti trovi lo aiuta a calibrare il livel
 
 | Prompt vago | Prompt migliore |
 |-------------|--------------|
-| Scrivi un articolo sull'AI | Sono un redattore di una testata tecnologica. Mi serve un articolo divulgativo sull'AI di 2.000 parole per un pubblico generalista, scritto in uno stile accessibile e coinvolgente |
+| Scrivi un articolo sull'IA | Sono un redattore di una testata tecnologica. Mi serve un articolo divulgativo sull'IA di 2.000 parole per un pubblico generalista, scritto in uno stile accessibile e coinvolgente |
 | Aiutami ad analizzare dei dati | Sono un analista di mercato. Analizza i tassi di conversione per canale in questo file Excel, concentrandoti sulle variazioni mese su mese |
 
 ### 2. Descrivi l'attività in modo specifico
@@ -111,7 +111,7 @@ In questo modo non dovrai ripeterti: Kimi applicherà automaticamente queste pre
 | Stipare più attività non correlate in un unico messaggio | Avvia una nuova sessione per ogni attività indipendente per mantenere il contesto pulito |
 | Prompt troppo vaghi (es. "scrivimi qualcosa") | Specifica cosa scrivere, per chi, in quale stile e di che lunghezza |
 | Aspettarsi un output perfetto al primo tentativo | Genera prima una bozza, poi affina con domande di follow-up |
-| Non verificare i fatti nell'output dell'AI | Verifica sempre date, dati e affermazioni di fatto |
+| Non verificare i fatti nell'output dell'IA | Verifica sempre date, dati e affermazioni di fatto |
 
 ## Modelli per iniziare subito
 Ecco alcuni modelli di prompt pronti all'uso: copia, personalizza e via:
@@ -152,5 +152,5 @@ Ecco alcuni modelli di prompt pronti all'uso: copia, personalizza e via:
 />
 
 <Callout type="info">
-Padroneggia questi concetti e queste tecniche fondamentali e collaborerai con Kimi in modo molto più efficace, trasformando l'AI in un vero strumento di produttività.
+Padroneggia questi concetti e queste tecniche fondamentali e collaborerai con Kimi in modo molto più efficace, trasformando l'IA in un vero strumento di produttività.
 </Callout>

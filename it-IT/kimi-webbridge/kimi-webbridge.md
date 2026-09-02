@@ -8,13 +8,13 @@ preview: false
 
 <SeoMeta
   title="Introduzione a Kimi WebBridge - Centro assistenza Kimi"
-  description="Kimi WebBridge è un'estensione per browser pensata per gli AI Agent. Funziona direttamente nel tuo browser Chrome o Edge e sfrutta le sessioni di accesso già attive per consentire agli Agent di interagire con le pagine web come farebbe una persona."
+  description="Kimi WebBridge è un'estensione per browser pensata per gli agenti IA. Funziona direttamente nel tuo browser Chrome o Edge e sfrutta le sessioni di accesso già attive per consentire agli Agent di interagire con le pagine web come farebbe una persona."
   ogType="article"
 />
 
 # Introduzione a Kimi WebBridge
 
-Kimi WebBridge è un'estensione per browser pensata per gli AI Agent. A differenza delle soluzioni di automazione del browser basate sul cloud, Kimi WebBridge funziona direttamente nel tuo browser Chrome o Edge e sfrutta automaticamente le sessioni di accesso già attive per consentire agli Agent di interagire con le pagine web come farebbe una persona.
+Kimi WebBridge è un'estensione per browser pensata per gli agenti IA. A differenza delle soluzioni di automazione del browser basate sul cloud, Kimi WebBridge funziona direttamente nel tuo browser Chrome o Edge e sfrutta automaticamente le sessioni di accesso già attive per consentire agli Agent di interagire con le pagine web come farebbe una persona.
 
 <VideoList
   column={1}

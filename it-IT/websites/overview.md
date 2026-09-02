@@ -16,7 +16,7 @@ preview_content: "Crea e distribuisci siti web full-stack a partire da descrizio
 
 ## Che cos’è Kimi Websites
 
-Kimi Websites è il prodotto di Kimi Agent per creare siti web full-stack, basato su Kimi K3, un modello AI multimodale, visivo e agentic. La sua funzione principale è la programmazione visuale (Vibe Coding): puoi generare un sito web full-stack completo partendo dal linguaggio naturale, da un mockup di design o da una registrazione dello schermo, quindi visualizzarlo online in anteprima e pubblicarlo con un clic.
+Kimi Websites è il prodotto di Kimi Agent per creare siti web full-stack, basato su Kimi K3, un modello IA multimodale, visivo e agentic. La sua funzione principale è la programmazione visuale (Vibe Coding): puoi generare un sito web full-stack completo partendo dal linguaggio naturale, da un mockup di design o da una registrazione dello schermo, quindi visualizzarlo online in anteprima e pubblicarlo con un clic.
 
 I siti generati da Kimi Websites possono includere:
 
@@ -28,12 +28,12 @@ I siti generati da Kimi Websites possono includere:
 
 | Funzionalità        | Descrizione                                                  |
 |----------------|--------------------------------------------------------------|
-| Creazione conversazionale di siti web | Descrivi in linguaggio naturale ciò di cui hai bisogno e l’AI genera automaticamente un sito web full-stack |
-| Comprensione di immagini/video | Carica un mockup di design, uno screenshot o una registrazione dello schermo: l’AI li analizza automaticamente e genera le pagine |
+| Creazione conversazionale di siti web | Descrivi in linguaggio naturale ciò di cui hai bisogno e l’IA genera automaticamente un sito web full-stack |
+| Comprensione di immagini/video | Carica un mockup di design, uno screenshot o una registrazione dello schermo: l’IA li analizza automaticamente e genera le pagine |
 | Archiviazione persistente | Crea automaticamente un database backend, con lettura, scrittura e gestione persistenti dei dati |
 | Gestione del database | Offre un pannello visuale del database per operazioni di base sui dati, come visualizzare, modificare ed eliminare |
 | Login utente | Supporta il login con account Kimi e può anche creare, tramite database, un sistema di accesso con nome utente/password |
-| Gestione delle versioni | L’AI crea automaticamente commit di versione (git commit) e supporta il ripristino a qualsiasi versione precedente |
+| Gestione delle versioni | L’IA crea automaticamente commit di versione (git commit) e supporta il ripristino a qualsiasi versione precedente |
 | Anteprima full-stack | Supporta l’anteprima completa di frontend e backend; in alcuni scenari è necessario avviare manualmente l’ambiente sandbox |
 | Modifiche multi-turn | Supporta modifiche iterative tramite conversazioni multi-turn e consente di confrontare versioni diverse |
 | Modifica visuale | Annota gli elementi nella pagina di anteprima cerchiandoli o contrassegnandoli, poi invia tutti i suggerimenti a Kimi in una sola volta |
@@ -90,8 +90,8 @@ Descrivi in linguaggio naturale ciò di cui hai bisogno nella casella di input: 
 
 | Metodo             | Descrizione                              |
 |--------------------|------------------------------------------|
-| Descrizione testuale   | Inserisci direttamente i requisiti del sito web e l’AI genera automaticamente il sito |
-| Analisi di un mockup di design | Carica un mockup di design: l’AI lo riconosce e lo ricrea come pagina web |
+| Descrizione testuale   | Inserisci direttamente i requisiti del sito web e l’IA genera automaticamente il sito |
+| Analisi di un mockup di design | Carica un mockup di design: l’IA lo riconosce e lo ricrea come pagina web |
 | Creazione rapida di siti web standard | Scegli un template preimpostato e modifica i contenuti |
 
 ### Esempio pratico
@@ -101,7 +101,7 @@ Descrivi in linguaggio naturale ciò di cui hai bisogno nella casella di input: 
     {
       name: "prompt.txt",
       language: "text",
-      content: "Inserisci un compito di creazione sito web\nCrea un sito web per cuccioli di West Highland White Terrier, con una palette principale in bianco e nero. Includi tre sezioni:\n1. Un calendario di ritratti in qualità studio con visualizzazioni di immagini generate dall’AI;\n2. Un’enciclopedia di cura \"Curly-Coat Lab\";\n3. Un negozio di merchandising che venda felpe con avatar di Westie e poster in foil argentato in edizione limitata.\nLa pagina di checkout deve includere un modulo benefico: dona $1 per ogni articolo venduto al salvataggio dei cuccioli randagi.",
+      content: "Inserisci un compito di creazione sito web\nCrea un sito web per cuccioli di West Highland White Terrier, con una palette principale in bianco e nero. Includi tre sezioni:\n1. Un calendario di ritratti in qualità studio con visualizzazioni di immagini generate dall’IA;\n2. Un’enciclopedia di cura \"Curly-Coat Lab\";\n3. Un negozio di merchandising che venda felpe con avatar di Westie e poster in foil argentato in edizione limitata.\nLa pagina di checkout deve includere un modulo benefico: dona $1 per ogni articolo venduto al salvataggio dei cuccioli randagi.",
     },
   ]}
 />
@@ -247,6 +247,6 @@ Quando confermi il risultato, scarica il codice HTML/CSS/JS completo e distribui
 | Ricreare un sito web da video | [Carica una registrazione dello schermo] Ricrea il sito web mostrato nel video e conserva le interazioni originali |
 | Ricreare da screenshot | [Carica un mockup di design] Implementa questo design come codice di pagina web eseguibile |
 | Portfolio personale | Aiutami a creare un sito portfolio personale per un fotografo, con uno stile minimalista in bianco e nero e supporto per un layout di immagini masonry |
-| Pagina di visualizzazione dati | Crea una pagina web di visualizzazione che mostri i dati di finanziamento delle aziende AI nel 2025, con grafici e filtri |
+| Pagina di visualizzazione dati | Crea una pagina web di visualizzazione che mostri i dati di finanziamento delle aziende IA nel 2025, con grafici e filtri |
 | Sito web di brand | Aiutami a creare il sito ufficiale di un brand di caffè, usando una palette Morandi, con homepage, pagine prodotto e pagine dei punti vendita |
 | Strumento/calcolatore | Crea una pagina web con calcolatore BMI dotata di interfaccia pulita, cambio unità e suggerimenti sul livello di salute |

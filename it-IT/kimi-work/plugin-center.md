@@ -28,7 +28,7 @@ Il Centro plugin offre plugin opzionali selezionati ufficialmente, tra cui:
 - **Design**: Canva
 - **Note**: Notion
 - **Sviluppo web**: Cloudflare
-- **Altri**: Kimi Computer Use (l’AI controlla il desktop per operazioni a livello di sistema), GitHub, Neon (una piattaforma di database PostgreSQL nel cloud), Supabase (una piattaforma backend e database open-source) e altro ancora
+- **Altri**: Kimi Computer Use (l’IA controlla il desktop per operazioni a livello di sistema), GitHub, Neon (una piattaforma di database PostgreSQL nel cloud), Supabase (una piattaforma backend e database open-source) e altro ancora
 
 Una volta installato un plugin, Kimi Work può usare direttamente questi strumenti d’ufficio comuni, sostituendo le azioni ripetitive con un’unica istruzione in linguaggio naturale.
 

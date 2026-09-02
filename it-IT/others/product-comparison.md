@@ -19,7 +19,7 @@ Kimi include un assistente online pronto all’uso, oltre a diversi prodotti pen
 
 | Product | What it is | Best for / scenarios | Where to use it |
 |---|---|---|---|
-| **Kimi** (web / App) | Un assistente AI online che combina chat e Agent | Domande e risposte quotidiane, scrittura, ricerca, creazione di siti web / PPT / documenti e fogli, Deep Research e altro ancora | Web, App mobile |
+| **Kimi** (web / App) | Un assistente IA online che combina chat e Agent | Domande e risposte quotidiane, scrittura, ricerca, creazione di siti web / PPT / documenti e fogli, Deep Research e altro ancora | Web, App mobile |
 | **Kimi Work** | Un **Agent locale** per professionisti della conoscenza (desktop) | Lavorare con file locali sul computer, automatizzare attività tra app desktop, portare a termine attività di lunga durata | client Mac / Windows |
 | **Kimi Code** | Una suite di assistenza alla programmazione per **sviluppatori** | Scrivere codice e mantenere codebase | CLI, estensione VS Code |
 | **Kimi Claw** | Una piattaforma di **automazione cloud senza deployment** | Automazione cloud sempre attiva 7×24, bot integrati con Feishu / WeChat e altro ancora | Cloud (nessun server richiesto) |

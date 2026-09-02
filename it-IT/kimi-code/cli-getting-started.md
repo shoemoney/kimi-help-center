@@ -14,7 +14,7 @@ preview_content: "Guida all'installazione, all'accesso e ai primi passi con Kimi
 
 # Per iniziare con Kimi Code CLI
 
-Kimi Code CLI è un AI agent che gira nel terminale e ti aiuta a portare a termine attività di sviluppo software e operazioni quotidiane da riga di comando: legge e modifica codice, esegue comandi shell, cerca file, recupera pagine web e pianifica autonomamente i passi successivi, adattandoli in base ai riscontri man mano che procede.
+Kimi Code CLI è un agent IA che gira nel terminale e ti aiuta a portare a termine attività di sviluppo software e operazioni quotidiane da riga di comando: legge e modifica codice, esegue comandi shell, cerca file, recupera pagine web e pianifica autonomamente i passi successivi, adattandoli in base ai riscontri man mano che procede.
 
 È adatto a scenari come:
 
@@ -229,7 +229,7 @@ Esegui il comando `/init` nella directory del tuo progetto. Kimi Code CLI analiz
   ]}
 />
 
-`AGENTS.md` serve a fornire all'AI informazioni di contesto sul progetto, passaggi di build, convenzioni di codice e altre informazioni utili affinché l'AI comprenda il tuo progetto con maggiore precisione.
+`AGENTS.md` serve a fornire all'IA informazioni di contesto sul progetto, passaggi di build, convenzioni di codice e altre informazioni utili affinché l'IA comprenda il tuo progetto con maggiore precisione.
 
 ## La tua prima conversazione
 

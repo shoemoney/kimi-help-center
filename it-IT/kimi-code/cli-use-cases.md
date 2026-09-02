@@ -17,7 +17,7 @@ Ecco alcuni scenari tipici di utilizzo di Kimi Code CLI nello sviluppo quotidian
 
 ## Implementare nuove funzionalità
 
-Descrivi le tue esigenze in linguaggio naturale: l'AI leggerà automaticamente il codice pertinente, scriverà nuovo codice e verificherà i risultati.
+Descrivi le tue esigenze in linguaggio naturale: l'IA leggerà automaticamente il codice pertinente, scriverà nuovo codice e verificherà i risultati.
 
 <CodePreview
   files={[
@@ -41,7 +41,7 @@ Descrivi le tue esigenze in linguaggio naturale: l'AI leggerà automaticamente i
 
 ## Correggere bug
 
-Incolla direttamente il messaggio di errore all'AI: individuerà automaticamente la causa principale e proporrà una correzione.
+Incolla direttamente il messaggio di errore all'IA: individuerà automaticamente la causa principale e proporrà una correzione.
 
 <CodePreview
   files={[

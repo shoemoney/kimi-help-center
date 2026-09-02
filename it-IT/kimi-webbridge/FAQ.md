@@ -70,7 +70,7 @@ Kimi WebBridge supporta il sistema operativo Windows e il comando di installazio
 
 Se WebBridge riesce ad aprire le pagine normalmente, ma azioni come `snapshot`, `evaluate`, `screenshot` o `click` continuano a fallire, la causa più frequente è **un conflitto con altre estensioni del browser**.
 
-Questo è particolarmente comune con strumenti di scraping, estensioni di assistenza ai siti web, estensioni di registrazione dello schermo ed estensioni di assistenti AI.
+Questo è particolarmente comune con strumenti di scraping, estensioni di assistenza ai siti web, estensioni di registrazione dello schermo ed estensioni di assistenti IA.
 
 Ti consigliamo i seguenti passaggi per risolvere il problema:
 

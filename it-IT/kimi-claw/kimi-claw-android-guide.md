@@ -8,13 +8,13 @@ preview: false
 
 <SeoMeta
   title="Panoramica di Kimi Claw Android - Centro assistenza Kimi"
-  description="Scopri come distribuire OpenClaw sul tuo telefono Android e trasformarlo in un assistente remoto AI attivo 24/7."
+  description="Scopri come distribuire OpenClaw sul tuo telefono Android e trasformarlo in un assistente remoto IA attivo 24/7."
   ogType="article"
 />
 
 # Panoramica di Kimi Claw Android
 
-Questo articolo spiega come distribuire OpenClaw su telefoni Android e trasformare un telefono inutilizzato nel tuo assistente remoto AI attivo 24/7. Potrai controllare il telefono da remoto, usare app, collegarti alla smart home e creare un assistente personalizzato tramite app di messaggistica come Kimi, Feishu e WeChat.
+Questo articolo spiega come distribuire OpenClaw su telefoni Android e trasformare un telefono inutilizzato nel tuo assistente remoto IA attivo 24/7. Potrai controllare il telefono da remoto, usare app, collegarti alla smart home e creare un assistente personalizzato tramite app di messaggistica come Kimi, Feishu e WeChat.
 
 Si consiglia di distribuire Kimi Claw Android su telefoni inutilizzati, così da evitare conflitti di autorizzazioni con l’uso quotidiano. Non aggiornare manualmente la versione di OpenClaw: gli aggiornamenti ufficialmente adattati saranno distribuiti tramite gli aggiornamenti di versione in-app.
 

@@ -15,7 +15,7 @@ preview_content: "Integra la CLI di Kimi Code nel tuo IDE tramite ACP."
 # Usare la CLI di Kimi Code negli IDE
 
 <Callout type="info">
-La CLI di Kimi Code supporta l'integrazione negli IDE tramite l'[Agent Client Protocol (ACP)](https://agentclientprotocol.com/get-started/introduction), consentendoti di sfruttare la programmazione assistita dall'AI direttamente nel tuo editor.
+La CLI di Kimi Code supporta l'integrazione negli IDE tramite l'[Agent Client Protocol (ACP)](https://agentclientprotocol.com/get-started/introduction), consentendoti di sfruttare la programmazione assistita dall'IA direttamente nel tuo editor.
 </Callout>
 
 ## Prerequisiti
@@ -55,11 +55,11 @@ Dopo aver salvato, apri una nuova conversazione nel pannello Agent di Zed: verr�
 
 ## Usare la CLI di Kimi Code negli IDE JetBrains
 
-Gli IDE JetBrains (IntelliJ IDEA, PyCharm, WebStorm, ecc.) supportano ACP tramite il plugin di chat AI.
+Gli IDE JetBrains (IntelliJ IDEA, PyCharm, WebStorm, ecc.) supportano ACP tramite il plugin di chat IA.
 
-Se non disponi di un abbonamento JetBrains AI, puoi abilitare `llm.enable.mock.response` nel Registry per accedere al pannello di chat AI negli scenari limitati ad ACP. Premi due volte Shift e cerca "Registry" per aprirlo.
+Se non disponi di un abbonamento JetBrains AI, puoi abilitare `llm.enable.mock.response` nel Registry per accedere al pannello di chat IA negli scenari limitati ad ACP. Premi due volte Shift e cerca "Registry" per aprirlo.
 
-Nel menu del pannello di chat AI, fai clic su **Configure ACP agents** e aggiungi la seguente configurazione:
+Nel menu del pannello di chat IA, fai clic su **Configure ACP agents** e aggiungi la seguente configurazione:
 
 <CodePreview
   files={[
@@ -71,7 +71,7 @@ Nel menu del pannello di chat AI, fai clic su **Configure ACP agents** e aggiung
   ]}
 />
 
-JetBrains è rigoroso riguardo al campo `command`: usa sempre un **percorso assoluto**, che puoi ottenere eseguendo `which kimi` in un terminale. Dopo aver salvato, `Kimi Code CLI` comparirà nel selettore di agenti della chat AI.
+JetBrains è rigoroso riguardo al campo `command`: usa sempre un **percorso assoluto**, che puoi ottenere eseguendo `which kimi` in un terminale. Dopo aver salvato, `Kimi Code CLI` comparirà nel selettore di agenti della chat IA.
 
 <CodePreview
   files={[

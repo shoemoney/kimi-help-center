@@ -14,7 +14,7 @@ preview_content: "Inizia a usare la piattaforma Kimi API per generazione di test
 
 # Panoramica di Kimi API
 
-La piattaforma Kimi API offre agli sviluppatori potenti capacità basate su modelli linguistici di grandi dimensioni, aiutandoti a integrare rapidamente l’AI nei tuoi prodotti e servizi.
+La piattaforma Kimi API offre agli sviluppatori potenti capacità basate su modelli linguistici di grandi dimensioni, aiutandoti a integrare rapidamente l’IA nei tuoi prodotti e servizi.
 
 ## Panoramica della piattaforma
 
@@ -24,9 +24,9 @@ Kimi API si basa sui modelli linguistici di grandi dimensioni proprietari di Moo
 
 ## Destinatari
 
-- **Sviluppatori indipendenti**: crea rapidamente progetti e strumenti personali basati sull’AI.
-- **Team di ingegneria aziendali**: integra funzionalità AI nei prodotti aziendali per migliorare l’esperienza utente e l’efficienza operativa.
-- **Startup**: accedi a capacità AI di alto livello a costi contenuti per accelerare l’iterazione del prodotto.
+- **Sviluppatori indipendenti**: crea rapidamente progetti e strumenti personali basati sull’IA.
+- **Team di ingegneria aziendali**: integra funzionalità IA nei prodotti aziendali per migliorare l’esperienza utente e l’efficienza operativa.
+- **Startup**: accedi a capacità IA di alto livello a costi contenuti per accelerare l’iterazione del prodotto.
 
 ## Principali casi d’uso
 

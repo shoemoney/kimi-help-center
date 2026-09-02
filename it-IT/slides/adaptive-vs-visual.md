@@ -8,12 +8,12 @@ preview: false
 
 <SeoMeta
   title="Come genera le presentazioni Kimi Slides? - Centro assistenza Kimi"
-  description="Scopri come Kimi Slides genera presentazioni con layout e stile progettati dall'AI e come scegliere lo scenario e il modello più adatti alla tua presentazione."
+  description="Scopri come Kimi Slides genera presentazioni con layout e stile progettati dall'IA e come scegliere lo scenario e il modello più adatti alla tua presentazione."
 />
 
 # Come Kimi Slides genera le presentazioni
 
-Kimi Slides progetta in modo intelligente layout e stile. L'AI abbina automaticamente colori, font, icone e stili dei grafici al tuo contenuto, con il supporto di numerosi preset di stile (business, accademico, tech, minimalista, ecc.). È la scelta ideale quando serve un'identità visiva unica e una presentazione su misura. La generazione richiede in genere 30–60 minuti.
+Kimi Slides progetta in modo intelligente layout e stile. L'IA abbina automaticamente colori, font, icone e stili dei grafici al tuo contenuto, con il supporto di numerosi preset di stile (business, accademico, tech, minimalista, ecc.). È la scelta ideale quando serve un'identità visiva unica e una presentazione su misura. La generazione richiede in genere 30–60 minuti.
 
 <Frames
   src="./images/adaptive.png"

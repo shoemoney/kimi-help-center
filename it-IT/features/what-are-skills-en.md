@@ -19,7 +19,7 @@ preview: false
   alt="what_is_skill"
 />
 
-Le Skill sono pacchetti di conoscenza riutilizzabili pensati per estendere i confini delle capacità di un agente AI. Ogni Skill comprende:
+Le Skill sono pacchetti di conoscenza riutilizzabili pensati per estendere i confini delle capacità di un agente IA. Ogni Skill comprende:
 
 - **Metodi di lavoro e linee guida operative** — Metodologie su misura per tipologie di attività specifiche.
 - **Best practice e standard** — Standard di settore e protocolli interni da rispettare.
@@ -79,12 +79,12 @@ Tra le Skill consigliate più comuni:
 
 Scarica o installa Skill adatte dalle community open source, combinandole con i Local Agent (come Kimi Code) o i Cloud Agent (come Kimi Claw).
 
-**Principali piattaforme di Skill Hub per l'AI**
+**Principali piattaforme di Skill Hub per l'IA**
 
 | Piattaforma | URL | Descrizione |
 |----------|-----|-------------|
-| SkillsMP | https://skillsmp.com | Un marketplace di Skill per agenti AI che raccoglie pacchetti SKILL.md da GitHub, compatibile con Claude Code e OpenAI Codex CLI |
-| SkillsLLM | https://skillsllm.com | Un marketplace open source di Skill per agenti AI con oltre 1.600 Skill verificate sul piano della sicurezza per Claude Code, Codex CLI e ChatGPT |
+| SkillsMP | https://skillsmp.com | Un marketplace di Skill per agenti IA che raccoglie pacchetti SKILL.md da GitHub, compatibile con Claude Code e OpenAI Codex CLI |
+| SkillsLLM | https://skillsllm.com | Un marketplace open source di Skill per agenti IA con oltre 1.600 Skill verificate sul piano della sicurezza per Claude Code, Codex CLI e ChatGPT |
 | LobeHub Skills | https://lobehub.com/skills | Sfoglia e distribuisci pacchetti SKILL.md compatibili con Claude Code, Codex CLI e ChatGPT |
 
 ### (3) Skill personalizzate

@@ -8,16 +8,16 @@ preview: false
 
 <SeoMeta
   title="Interazione e input - Centro assistenza Kimi"
-  description="La CLI di Kimi Code offre diversi metodi di interazione per collaborare con l'AI in modo efficiente."
+  description="La CLI di Kimi Code offre diversi metodi di interazione per collaborare con l'IA in modo efficiente."
 />
 
 # Interazione e input
 
-La CLI di Kimi Code offre diversi metodi di interazione per collaborare con l'AI in modo efficiente.
+La CLI di Kimi Code offre diversi metodi di interazione per collaborare con l'IA in modo efficiente.
 
 ## Thinking mode
 
-La Thinking Mode permette all'AI di ragionare più a fondo prima di rispondere, ideale per i problemi complessi.
+La Thinking Mode permette all'IA di ragionare più a fondo prima di rispondere, ideale per i problemi complessi.
 
 - Usa il comando `/model` per cambiare modello e attivare la Thinking Mode.
 - Puoi anche abilitare la Thinking Mode all'avvio con il flag `--thinking`.
@@ -28,7 +28,7 @@ Premi **Ctrl-J** per inserire una nuova riga e scrivere su più righe. È utile 
 
 ## Incolla dagli appunti
 
-Premi **Ctrl-V** per incollare contenuti dagli appunti: sono supportati sia il testo sia le immagini. Quando incolli un'immagine, l'AI può interpretarne direttamente il contenuto (ad esempio screenshot, mockup di design o schermate di errore).
+Premi **Ctrl-V** per incollare contenuti dagli appunti: sono supportati sia il testo sia le immagini. Quando incolli un'immagine, l'IA può interpretarne direttamente il contenuto (ad esempio screenshot, mockup di design o schermate di errore).
 
 ## Comandi slash
 
@@ -61,15 +61,15 @@ Usa il simbolo `@` nell'input per fare riferimento a percorsi di file o cartelle
   ]}
 />
 
-L'AI leggerà automaticamente il contenuto del file di riferimento come contesto.
+L'IA leggerà automaticamente il contenuto del file di riferimento come contesto.
 
 ## Domande e risposte strutturate
 
-In alcuni casi l'AI presenta opzioni strutturate per il tuo input. Usa i **tasti freccia** per selezionare un'opzione e premi **Invio** per confermare.
+In alcuni casi l'IA presenta opzioni strutturate per il tuo input. Usa i **tasti freccia** per selezionare un'opzione e premi **Invio** per confermare.
 
 ## Conferma di approvazione
 
-Quando l'AI deve eseguire modifiche ai file, comandi shell o altre operazioni, ti chiederà conferma. Puoi scegliere tra:
+Quando l'IA deve eseguire modifiche ai file, comandi shell o altre operazioni, ti chiederà conferma. Puoi scegliere tra:
 
 | Opzione | Descrizione |
 | --- | --- |
@@ -79,7 +79,7 @@ Quando l'AI deve eseguire modifiche ai file, comandi shell o altre operazioni, t
 
 ### YOLO mode
 
-Se ti fidi delle operazioni dell'AI, puoi usare la YOLO Mode per saltare tutte le conferme:
+Se ti fidi delle operazioni dell'IA, puoi usare la YOLO Mode per saltare tutte le conferme:
 
 <CodePreview
   files={[
@@ -91,4 +91,4 @@ Se ti fidi delle operazioni dell'AI, puoi usare la YOLO Mode per saltare tutte l
   ]}
 />
 
-> In YOLO Mode l'AI eseguirà automaticamente tutte le operazioni: usala con cautela. È consigliata solo in ambienti di sviluppo controllati.
+> In YOLO Mode l'IA eseguirà automaticamente tutte le operazioni: usala con cautela. È consigliata solo in ambienti di sviluppo controllati.

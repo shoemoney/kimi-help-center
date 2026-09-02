@@ -4,18 +4,18 @@ slug: "overview"
 order: 1
 extract_headings: false
 preview: true
-preview_content: "Esplora i modelli di Kimi, gli agenti AI, la gestione dei file e la guida all'interfaccia per iniziare."
+preview_content: "Esplora i modelli di Kimi, gli agenti IA, la gestione dei file e la guida all'interfaccia per iniziare."
 ---
 
 <SeoMeta
   title="Panoramica di Kimi - Centro assistenza Kimi"
-  description="Esplora i modelli di Kimi, gli agenti AI, la gestione dei file e la guida all'interfaccia per iniziare."
+  description="Esplora i modelli di Kimi, gli agenti IA, la gestione dei file e la guida all'interfaccia per iniziare."
 />
 
 # Panoramica di Kimi
 
 <Callout type="info">
-Kimi è un assistente AI sviluppato da Moonshot AI, con web search integrata, ragionamento approfondito, ragionamento multimodale e conversazioni dal contesto ultra esteso.
+Kimi è un assistente IA sviluppato da Moonshot AI, con web search integrata, ragionamento approfondito, ragionamento multimodale e conversazioni dal contesto ultra esteso.
 </Callout>
 
 Visita [Kimi.com](https://www.kimi.com/) o scarica l'app Kimi per iniziare a chattare, creare, fare ricerche e sviluppare. Gli sviluppatori possono visitare la [Piattaforma aperta di Kimi](https://platform.kimi.ai/) per accedere ad API e strumenti con cui integrare le funzionalità di Kimi nelle proprie applicazioni.
@@ -31,14 +31,14 @@ Kimi offre più modelli. Fai clic sul pulsante di selezione del modello sopra la
 Se effettuare o meno una ricerca online viene deciso automaticamente da Kimi in base alla tua domanda, senza bisogno di alcuna attivazione manuale.
 </Callout>
 
-## Agenti AI
-Kimi è molto più di un assistente di chat: è un agente AI capace di pianificare ed eseguire attività in modo autonomo:
+## Agenti IA
+Kimi è molto più di un assistente di chat: è un agente IA capace di pianificare ed eseguire attività in modo autonomo:
 | Agente | Descrizione | Link |
 |-------|-------------|------|
 | **General Agent** | Pianifica e completa automaticamente le attività, tra cui la generazione di siti web, la creazione di slide, la Deep Research e l'elaborazione di documenti e fogli di calcolo | [kimi.com/agent](https://www.kimi.com/agent) |
 | **Agent Swarm** | Supporta oltre 4.000 chiamate parallele agli strumenti, coordinando fino a 300 sub-agent per ricerche su larga scala, scrittura di testi lunghi ed elaborazione in batch | [kimi.com/agent-swarm](https://www.kimi.com/agent-swarm) |
 | **Kimi Code** | Suite di assistenti alla programmazione dedicata agli sviluppatori, comprensiva di strumento CLI ed estensione per VS Code | [kimi.com/code](https://www.kimi.com/code) |
-| **Kimi Claw** | Piattaforma di automazione cloud senza deployment: avvia un agente AI persistente in meno di 30 secondi, con oltre 5.000 skill integrate (ClawHub) | [kimi.com/bot](https://www.kimi.com/bot) |
+| **Kimi Claw** | Piattaforma di automazione cloud senza deployment: avvia un agente IA persistente in meno di 30 secondi, con oltre 5.000 skill integrate (ClawHub) | [kimi.com/bot](https://www.kimi.com/bot) |
 | **Kimi Work** | Un Agent locale generico per i knowledge worker, basato su Kimi Code, che offre le funzionalità di base di un Agent locale (skill, attività pianificate) oltre alle capacità dell'Agent Kimi online per la creazione di siti web, PPT e database professionali | [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work) |
 
 ## Altre funzionalità principali

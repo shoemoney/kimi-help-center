@@ -45,7 +45,7 @@ Sì. Kimi può generare immagini, video e audio tramite plugin di progettazione 
 
 ## Kimi può scrivere codice, creare siti web, PPT e fogli di calcolo?
 
-Sì. Come agente AI in grado di eseguire attività in autonomia, Kimi supporta la creazione di siti web, la realizzazione di PPT, l’elaborazione di documenti e fogli di calcolo, Deep Research e molto altro.
+Sì. Come agente IA in grado di eseguire attività in autonomia, Kimi supporta la creazione di siti web, la realizzazione di PPT, l’elaborazione di documenti e fogli di calcolo, Deep Research e molto altro.
 
 ## Quali file può elaborare Kimi?
 

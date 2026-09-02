@@ -8,13 +8,13 @@ preview: false
 
 <SeoMeta
   title="Guida all'abbonamento Kimi Code - Centro assistenza Kimi"
-  description="Kimi Code è un vantaggio pensato per gli sviluppatori incluso nel piano di abbonamento Kimi, che offre funzionalità di codifica AI ad alte prestazioni. Puoi usufruire di questo vantaggio tramite..."
+  description="Kimi Code è un vantaggio pensato per gli sviluppatori incluso nel piano di abbonamento Kimi, che offre funzionalità di codifica IA ad alte prestazioni. Puoi usufruire di questo vantaggio tramite..."
 />
 
 # Guida all'abbonamento Kimi Code
 
 <Callout type="info">
-Kimi Code è un vantaggio pensato per gli sviluppatori incluso nel piano di abbonamento Kimi, che offre funzionalità di codifica AI ad alte prestazioni. Puoi usufruire di questo vantaggio tramite Kimi Code CLI, Claude Code, Roo Code e altri strumenti supportati.
+Kimi Code è un vantaggio pensato per gli sviluppatori incluso nel piano di abbonamento Kimi, che offre funzionalità di codifica IA ad alte prestazioni. Puoi usufruire di questo vantaggio tramite Kimi Code CLI, Claude Code, Roo Code e altri strumenti supportati.
 </Callout>
 
 ## Vantaggi principali

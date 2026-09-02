@@ -14,7 +14,7 @@ preview: false
 />
 
 <Callout type="info">
-**Kimi Agent** è un assistente basato su AI che esegue in autonomia attività complesse tramite ragionamento multi-step e integrazione di strumenti. Questa guida raccoglie buone pratiche, limiti e FAQ per aiutarti a sfruttare al meglio la modalità Agent.
+**Kimi Agent** è un assistente basato su IA che esegue in autonomia attività complesse tramite ragionamento multi-step e integrazione di strumenti. Questa guida raccoglie buone pratiche, limiti e FAQ per aiutarti a sfruttare al meglio la modalità Agent.
 </Callout>
 
 ## Consigli d'uso

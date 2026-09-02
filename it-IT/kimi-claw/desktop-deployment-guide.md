@@ -4,7 +4,7 @@ slug: "desktop-deployment-guide"
 order: 4
 extract_headings: true
 preview: true
-preview_content: "Distribuisci un'istanza locale di OpenClaw con un solo clic nell'app desktop di Kimi e crea il tuo assistente AI personale."
+preview_content: "Distribuisci un'istanza locale di OpenClaw con un solo clic nell'app desktop di Kimi e crea il tuo assistente IA personale."
 ---
 
 <SeoMeta
@@ -15,7 +15,7 @@ preview_content: "Distribuisci un'istanza locale di OpenClaw con un solo clic ne
  
 # Panoramica di Kimi Claw Desktop
 
-OpenClaw è un assistente AI dotato di una personalità unica e di una memoria a lungo termine. Nell'app desktop di Kimi puoi distribuire un'istanza locale di OpenClaw con un solo clic e iniziare subito a chattare con lui.
+OpenClaw è un assistente IA dotato di una personalità unica e di una memoria a lungo termine. Nell'app desktop di Kimi puoi distribuire un'istanza locale di OpenClaw con un solo clic e iniziare subito a chattare con lui.
 
 <Callout type="info">
 Se non hai ancora un OpenClaw locale, vai alla pagina Kimi Claw nell'app desktop di Kimi per crearne uno tuo.
@@ -76,5 +76,5 @@ Una volta completata la distribuzione, dai al tuo Kimi Claw Desktop il soprannom
 Una volta impostato il soprannome, il tuo Kimi Claw Desktop è pronto: puoi iniziare a chattare con lui in qualsiasi momento.
 
 <Callout type="tip">
-Dopo la distribuzione, puoi personalizzare ulteriormente il tuo Kimi Claw Desktop configurandone la persona, installando competenze e impostando attività pianificate, per costruire un assistente AI ancora più su misura.
+Dopo la distribuzione, puoi personalizzare ulteriormente il tuo Kimi Claw Desktop configurandone la persona, installando competenze e impostando attività pianificate, per costruire un assistente IA ancora più su misura.
 </Callout>

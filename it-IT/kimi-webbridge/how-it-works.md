@@ -8,7 +8,7 @@ preview: false
 
 <SeoMeta
   title="Come funziona Kimi WebBridge - Centro assistenza Kimi"
-  description="Scopri come Kimi WebBridge collega il tuo browser agli AI Agent in locale, abilitando navigazione web sicura, clic, screenshot e altro ancora."
+  description="Scopri come Kimi WebBridge collega il tuo browser agli agenti IA in locale, abilitando navigazione web sicura, clic, screenshot e altro ancora."
   ogType="article"
 />
 

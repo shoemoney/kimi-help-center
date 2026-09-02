@@ -83,7 +83,7 @@ Eseguire comandi in un terminale o in PowerShell è semplice:
 
 **CLI** sta per **C**ommand-**L**ine **I**nterface, cioè interfaccia a riga di comando. Significa usare uno strumento digitando comandi testuali invece di fare clic su pulsanti in un’interfaccia grafica.
 
-Kimi Code CLI è uno strumento a riga di comando: inserisci `kimi` nel terminale per avviarlo, quindi interagisci con l’AI tramite comandi testuali affinché ti aiuti a leggere codice, modificare file, eseguire comandi e altro ancora.
+Kimi Code CLI è uno strumento a riga di comando: inserisci `kimi` nel terminale per avviarlo, quindi interagisci con l’IA tramite comandi testuali affinché ti aiuti a leggere codice, modificare file, eseguire comandi e altro ancora.
 
 ## Ambiente di rete
 
@@ -95,7 +95,7 @@ Per usare Kimi Code devi poter accedere ai server Kimi. Se il tuo ambiente di re
 
 ## Considerazioni sulla sicurezza
 
-Kimi Code CLI è un potente agente AI. Può:
+Kimi Code CLI è un potente agente IA. Può:
 
 - **Leggere** il contenuto dei file sul tuo computer
 - **Modificare** il codice e i file di configurazione

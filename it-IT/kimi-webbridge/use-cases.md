@@ -22,7 +22,7 @@ Quando usi WebBridge, più la descrizione dell’attività è precisa, più l’
 
 In pratica, WebBridge viene spesso usato insieme a Skill e CLI: Skill registra l’esperienza operativa, cioè quali siti visitare, quali passaggi seguire per raccogliere le informazioni e come organizzare i risultati; CLI fornisce capacità concrete, come cercare, leggere pagine, scaricare file e interrogare dati strutturati.
 
-Dì all’agente AI, in una sola frase, cosa fai ripetutamente sul web. Può generare per te una CLI che usa direttamente la tua vera sessione di accesso in Chrome: niente API e nessun token API da configurare o gestire.
+Dì all’agente IA, in una sola frase, cosa fai ripetutamente sul web. Può generare per te una CLI che usa direttamente la tua vera sessione di accesso in Chrome: niente API e nessun token API da configurare o gestire.
 
 Le Skill e le CLI usate negli scenari qui sotto sono state create in questo modo. Puoi installarle e usarle direttamente, oppure considerarle esempi di riferimento.
 
@@ -102,7 +102,7 @@ Strumenti correlati:
     {
       name: "prompt.txt",
       language: "text",
-      content: "Fai una ricerca sugli articoli rappresentativi degli ultimi due anni sulla memoria degli agenti AI, organizza titoli, autori, abstract, metodi principali e link open-source, e riassumi la traiettoria della ricerca.",
+      content: "Fai una ricerca sugli articoli rappresentativi degli ultimi due anni sulla memoria degli agenti IA, organizza titoli, autori, abstract, metodi principali e link open-source, e riassumi la traiettoria della ricerca.",
     },
   ]}
 />
@@ -128,7 +128,7 @@ Strumenti correlati:
     {
       name: "prompt.txt",
       language: "text",
-      content: "Cerca modelli AI locali che valga la pena usare nel 2025 e recupera il testo completo dei primi 10 risultati.",
+      content: "Cerca modelli IA locali che valga la pena usare nel 2025 e recupera il testo completo dei primi 10 risultati.",
     },
   ]}
 />

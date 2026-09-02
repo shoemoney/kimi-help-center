@@ -14,7 +14,7 @@ preview_content: "Scopri l'esecuzione autonoma delle attività di Kimi Agent, gl
 
 # Panoramica di Kimi Agent
 
-Kimi Agent è un assistente AI autonomo che gestisce attività complesse dall'inizio alla fine. Basato su Kimi K3, sfrutta oltre 20 strumenti per creare siti web, generare documenti, analizzare dati e molto altro.
+Kimi Agent è un assistente IA autonomo che gestisce attività complesse dall'inizio alla fine. Basato su Kimi K3, sfrutta oltre 20 strumenti per creare siti web, generare documenti, analizzare dati e molto altro.
 
 ## Evoluzione del prodotto
 - **5 settembre 2025**: rilascio di Kimi K2 — 32B di parametri attivi / 1T di parametri totali

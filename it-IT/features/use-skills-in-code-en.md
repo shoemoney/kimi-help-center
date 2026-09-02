@@ -14,7 +14,7 @@ preview: false
 
 # Usare le Skill in Kimi Code
 
-Kimi Code è un assistente di programmazione basato sull'AI pensato appositamente per gli sviluppatori: si esegue direttamente nel terminale o nell'editor per scrivere codice, correggere bug e generare documentazione. Kimi Code consente di fornire indicazioni basate sulla conoscenza tramite file `SKILL.md`. Dopo averli letti, l'AI segue gli standard definiti al loro interno. Ideale per definire stili di codice, flussi di lavoro e best practice.
+Kimi Code è un assistente di programmazione basato sull'IA pensato appositamente per gli sviluppatori: si esegue direttamente nel terminale o nell'editor per scrivere codice, correggere bug e generare documentazione. Kimi Code consente di fornire indicazioni basate sulla conoscenza tramite file `SKILL.md`. Dopo averli letti, l'IA segue gli standard definiti al loro interno. Ideale per definire stili di codice, flussi di lavoro e best practice.
 
 <Frames
   src="./images/skills/kimi-code-skill.png"

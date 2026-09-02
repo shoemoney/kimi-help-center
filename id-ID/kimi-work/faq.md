@@ -27,6 +27,18 @@ Anda memegang kendali penuh atas file Anda. Kimi Work menyediakan kontrol izin t
 
 Saat Anda memilih "Izinkan manual", tidak ada tindakan yang dilakukan tanpa persetujuan Anda.
 
+<Callout type="exclamation">
+Saat izin "Izinkan semua" (sepenuhnya otomatis) diaktifkan, AI akan langsung membaca dan menulis file, menjalankan kode, dan mengubah konfigurasi sistem, serta secara otomatis menangani langkah yang seharusnya memerlukan keputusan Anda. Hal ini dapat menyebabkan:
+
+- File tertimpa, terhapus secara keliru, atau rusak;
+- Konfigurasi sistem berubah, menyebabkan perangkat lunak bermasalah;
+- Perubahan enkripsi disk, partisi, atau firmware, yang menyebabkan perangkat terbatas atau tidak dapat booting.
+
+Sebagian operasi bersifat permanen dan data dapat hilang selamanya serta tidak dapat dipulihkan. Pahami risiko mode ini, gunakan dengan hati-hati, dan buat cadangan data Anda.
+
+Mengaktifkan izin "Izinkan semua" (sepenuhnya otomatis) dianggap sebagai bentuk bahwa Anda mengetahui dan menerima risiko di atas, serta memberi wewenang kepada AI untuk menjalankan operasi terkait secara mandiri; hasil dari operasi yang dijalankan berdasarkan wewenang Anda menjadi tanggung jawab Anda.
+</Callout>
+
 ## Apa saja yang sebenarnya bisa dilakukan WebBridge (otomatisasi browser) untuk saya?
 
 WebBridge memungkinkan Kimi menggunakan browser layaknya manusia. Anda bisa memintanya memeriksa berita terbaru di sebuah situs web lalu merangkumnya, atau mengambil data historis saham ke Excel lokal Anda. WebBridge dapat mengklik, menggulir, dan mengekstrak data secara mandiri, sehingga menghemat berjam-jam pekerjaan manual.

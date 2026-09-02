@@ -27,6 +27,18 @@ Dosyalarınız üzerinde tam denetim sizdedir. Kimi Work üç seviyeli izin dene
 
 "Manuel olarak izin ver" seçeneğini belirlediğinizde, onayınız olmadan hiçbir işlem yapılmaz.
 
+<Callout type="exclamation">
+"Tümüne izin ver" (tam otomatik) izni etkinleştirildiğinde, yapay zekâ dosyaları doğrudan okuyup yazacak, kod çalıştıracak ve sistem yapılandırmalarını değiştirecek, aksi takdirde sizin kararınızı gerektirecek adımları da otomatik olarak gerçekleştirecektir. Bu durum şunlara yol açabilir:
+
+- Dosyaların üzerine yazılması, yanlışlıkla silinmesi veya bozulması;
+- Sistem yapılandırmalarının değiştirilmesi ve yazılım arızalarına yol açılması;
+- Disk şifreleme, bölüm veya ürün yazılımı değişiklikleri sonucunda cihazın kısıtlanması veya açılamaması.
+
+Bazı işlemler geri alınamaz ve veriler kalıcı olarak kaybolup kurtarılamayabilir. Lütfen bu modun risklerini bilin, dikkatli kullanın ve verilerinizi yedekleyin.
+
+"Tümüne izin ver" (tam otomatik) iznini etkinleştirmeniz, yukarıdaki riskleri bildiğiniz ve kabul ettiğiniz ve yapay zekânın ilgili işlemleri otonom olarak gerçekleştirmesine izin verdiğiniz anlamına gelir; izninize dayanılarak gerçekleştirilen işlemlerin sonuçları size aittir.
+</Callout>
+
 ## WebBridge (tarayıcı otomasyonu) benim için tam olarak ne yapabilir?
 
 WebBridge, Kimi’ye tarayıcıyı bir insan gibi kullanma yeteneği kazandırır. Ondan bir web sitesindeki son haberleri kontrol edip özetlemesini ya da geçmiş hisse senedi verilerini yerel Excel dosyanıza aktarmasını isteyebilirsiniz. Tıklar, kaydırır ve verileri otonom biçimde çıkarır; böylece saatler sürecek manuel işten tasarruf edersiniz.

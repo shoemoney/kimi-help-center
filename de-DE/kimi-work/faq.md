@@ -27,6 +27,18 @@ Sie behalten die volle Kontrolle über Ihre Dateien. Kimi Work bietet eine Berec
 
 Wenn Sie „Manuell erlauben“ wählen, geschieht nichts ohne Ihre Zustimmung.
 
+<Callout type="exclamation">
+Wenn die Berechtigung „Alle“ (vollautomatisch) aktiviert ist, liest und schreibt die KI direkt Dateien, führt Code aus und ändert Systemkonfigurationen und erledigt automatisch Schritte, die sonst Ihre Entscheidung erfordern würden. Dies kann zu Folgendem führen:
+
+- Dateien werden überschrieben, versehentlich gelöscht oder beschädigt;
+- Systemkonfigurationen werden geändert, was zu Softwarefehlern führt;
+- Änderungen an Festplattenverschlüsselung, Partitionen oder Firmware machen das Gerät eingeschränkt oder unbootbar.
+
+Einige Vorgänge sind unwiderruflich, und Daten können dauerhaft verloren gehen und nicht wiederhergestellt werden. Bitte beachten Sie die Risiken dieses Modus, verwenden Sie ihn mit Vorsicht und sichern Sie Ihre Daten.
+
+Mit dem Aktivieren der Berechtigung „Alle“ (vollautomatisch) erklären Sie, dass Sie die oben genannten Risiken kennen und akzeptieren und die KI zur autonomen Ausführung der entsprechenden Vorgänge autorisieren. Die Ergebnisse der aufgrund Ihrer Autorisierung ausgeführten Vorgänge tragen Sie selbst.
+</Callout>
+
 ## Was genau kann WebBridge (Browser-Automatisierung) für mich tun?
 
 WebBridge gibt Kimi die Fähigkeit, einen Browser wie ein Mensch zu bedienen. Sie können Kimi etwa bitten, die neuesten Nachrichten auf einer Website zu prüfen und zusammenzufassen oder historische Aktienkurse in Ihre lokale Excel-Datei zu übernehmen. WebBridge klickt, scrollt und extrahiert Daten selbstständig – und spart Ihnen so stundenlange Handarbeit.

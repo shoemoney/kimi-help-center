@@ -27,6 +27,18 @@ Bạn toàn quyền kiểm soát các tệp của mình. Kimi Work cung cấp c�
 
 Khi bạn chọn "Cho phép thủ công", sẽ không có thao tác nào diễn ra nếu chưa có sự đồng ý của bạn.
 
+<Callout type="exclamation">
+Khi bật quyền "Cho phép tất cả" (hoàn toàn tự động), AI sẽ trực tiếp đọc và ghi tệp, chạy mã và thay đổi cấu hình hệ thống, đồng thời tự động xử lý các bước vốn cần bạn quyết định. Điều này có thể dẫn đến:
+
+- Tệp bị ghi đè, bị xóa nhầm hoặc bị hỏng;
+- Cấu hình hệ thống bị thay đổi, khiến phần mềm gặp sự cố;
+- Thay đổi mã hóa đĩa, phân vùng hoặc firmware, khiến thiết bị bị hạn chế hoặc không thể khởi động.
+
+Một số thao tác không thể hoàn tác và dữ liệu có thể bị mất vĩnh viễn, không thể khôi phục. Hãy nắm rõ các rủi ro của chế độ này, sử dụng thận trọng và sao lưu dữ liệu của bạn.
+
+Việc bật quyền "Cho phép tất cả" (hoàn toàn tự động) được xem là bạn đã nắm rõ và chấp nhận các rủi ro trên, đồng thời ủy quyền cho AI tự thực hiện các thao tác liên quan; kết quả của các thao tác được thực hiện dựa trên ủy quyền của bạn sẽ do bạn tự chịu trách nhiệm.
+</Callout>
+
 ## Chính xác thì WebBridge (tự động hóa trình duyệt) có thể làm gì cho tôi?
 
 WebBridge cho Kimi khả năng sử dụng trình duyệt như con người. Bạn có thể yêu cầu WebBridge xem tin mới nhất trên một trang web rồi tóm tắt lại, hoặc thu thập dữ liệu cổ phiếu lịch sử vào tệp Excel cục bộ. WebBridge tự bấm, cuộn và trích xuất dữ liệu, giúp bạn tiết kiệm hàng giờ thao tác thủ công.

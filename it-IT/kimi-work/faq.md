@@ -27,6 +27,18 @@ Hai il pieno controllo sui tuoi file. Kimi Work offre il controllo delle autoriz
 
 Quando scegli "Consenti manualmente", non accade nulla senza il tuo consenso.
 
+<Callout type="exclamation">
+Con il permesso "Consenti tutto" (completamente automatico) attivato, l'IA legge e scrive direttamente i file, esegue codice e modifica le configurazioni di sistema, e gestisce automaticamente i passaggi che altrimenti richiederebbero la tua decisione. Ciò può causare:
+
+- la sovrascrittura, l'eliminazione accidentale o il danneggiamento di file;
+- la modifica delle configurazioni di sistema, con conseguenti malfunzionamenti del software;
+- modifiche alla crittografia del disco, alle partizioni o al firmware, che rendono il dispositivo limitato o non avviabile.
+
+Alcune operazioni sono irreversibili e i dati possono andare persi definitivamente senza possibilità di recupero. Ti invitiamo a conoscere i rischi di questa modalità, a usarla con cautela e a eseguire il backup dei tuoi dati.
+
+Attivando il permesso "Consenti tutto" (completamente automatico), dichiari di conoscere e accettare i rischi sopra indicati e autorizzi l'IA a eseguire autonomamente le operazioni correlate; i risultati delle operazioni eseguite sulla base della tua autorizzazione sono a tuo carico.
+</Callout>
+
 ## Che cosa può fare esattamente WebBridge (automazione del browser) per me?
 
 WebBridge consente a Kimi di usare un browser come farebbe una persona. Puoi chiedergli di controllare le ultime notizie su un sito e riassumerle, oppure di estrarre dati azionari storici e salvarli nel tuo Excel locale. Clicca, scorre le pagine ed estrae dati in autonomia, facendoti risparmiare ore di lavoro manuale.

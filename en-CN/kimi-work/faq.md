@@ -27,6 +27,18 @@ You have absolute control over your files. Kimi Work provides three levels of pe
 
 When you choose "Manual approval", nothing happens without your consent.
 
+<Callout type="exclamation">
+With the "Fully automatic" permission enabled, the AI will directly read and write files, execute code, and modify system configurations, and will automatically handle steps that would otherwise require your decision. This may result in:
+
+- Files being overwritten, deleted by mistake, or corrupted;
+- System configurations being changed, causing software malfunctions;
+- Disk encryption, partition, or firmware changes, resulting in a restricted or unbootable device.
+
+Some operations are irreversible, and data may be permanently lost and unrecoverable. Please be aware of the risks of this mode, use it with caution, and back up your data.
+
+Enabling the "Fully automatic" permission is deemed as your acknowledgment and acceptance of the above risks, and your authorization for the AI to perform related operations autonomously. You shall bear the results of operations performed based on your authorization.
+</Callout>
+
 ## What exactly can WebBridge (browser automation) do for me?
 
 WebBridge gives Kimi the ability to use a browser like a human. You can tell it to check the latest news on a website and summarize it, or scrape historical stock data to your local Excel. It clicks, scrolls, and extracts data autonomously, saving you hours of manual work.

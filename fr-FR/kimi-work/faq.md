@@ -27,6 +27,18 @@ Vous gardez un contrôle total sur vos fichiers. Kimi Work propose un contrôle 
 
 Lorsque vous choisissez « Autorisation manuelle », rien ne se passe sans votre consentement.
 
+<Callout type="exclamation">
+Lorsque l’autorisation « Tout autoriser » (entièrement automatique) est activée, l’IA lit et écrit directement des fichiers, exécute du code et modifie la configuration du système, et traite automatiquement les étapes qui nécessiteraient autrement votre décision. Cela peut entraîner :
+
+- l’écrasement, la suppression par erreur ou la corruption de fichiers ;
+- la modification de la configuration du système, provoquant des dysfonctionnements logiciels ;
+- des modifications du chiffrement du disque, des partitions ou du firmware, rendant l’appareil limité ou incapable de démarrer.
+
+Certaines opérations sont irréversibles et les données peuvent être définitivement perdues sans possibilité de récupération. Veuillez prendre connaissance des risques de ce mode, l’utiliser avec prudence et sauvegarder vos données.
+
+L’activation de l’autorisation « Tout autoriser » (entièrement automatique) vaut reconnaissance et acceptation des risques ci-dessus et autorisation donnée à l’IA d’exécuter les opérations concernées de manière autonome ; les résultats des opérations effectuées sur la base de votre autorisation sont à votre charge.
+</Callout>
+
 ## Que peut faire WebBridge (automatisation du navigateur) pour moi, concrètement ?
 
 WebBridge permet à Kimi d’utiliser un navigateur comme le ferait une personne. Vous pouvez lui demander de consulter les dernières actualités sur un site et d’en faire la synthèse, ou encore d’extraire des données boursières historiques vers votre fichier Excel local. Il clique, fait défiler les pages et extrait les données de façon autonome, vous évitant des heures de travail manuel.

@@ -1,9 +1,9 @@
 meta:
   version: 1.0.0
-  last_updated: '2026-08-13'
+  last_updated: '2026-09-02'
   description: Kimi Help Center 多语言专有名词对照表
   source_repo: git@dev.msh.team:search-engine/kimi-helpcenter-doc.git
-  total_terms: 173
+  total_terms: 174
   locales:
   - zh-CN
   - en-US
@@ -2156,3 +2156,24 @@ terms:
     ru-RU: живой виджет
     th-TH: ไลฟ์วิดเจ็ต
     vi-VN: widget động
+- id: T1-013
+  category: T1
+  zh_form: AI
+  en_form: AI
+  alias:
+  - 人工智能
+  - artificial intelligence
+  translation_strategy: keep_original_with_note
+  case_sensitive: true
+  region_note: global
+  context_example: Kimi 是 Moonshot AI 推出的多模态 AI 对话产品
+  source_article: zh-CN/getting-started/overview.md
+  notes: 普通正文按语言本地化缩写：意大利语 IA（agenti IA、basato sull'IA、assistente IA、l'IA），其他罗曼语同样 IA（fr/es/pt），德语 KI。正式产品名与品牌名保留原写法（Moonshot AI、JetBrains AI、Kimi AI 等）。ja/ko/th/tr/id/vi 现状保留 AI；ru-RU 存在 AI/ИИ 混用，待专项统一。
+  status: confirmed
+  localized_forms:
+    it-IT: IA
+    fr-FR: IA
+    es-419: IA
+    pt-BR: IA
+    de-DE: KI
+  it_note: Nella prosa comune italiana si usa sempre «IA» (agenti IA, basato sull'IA, assistente IA, l'IA). I nomi ufficiali di prodotto e di marca restano invariati (Moonshot AI, JetBrains AI, Kimi AI).

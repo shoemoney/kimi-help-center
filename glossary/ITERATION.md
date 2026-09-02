@@ -71,3 +71,20 @@
   - 各语言发布日志的**历史条目**（3.1.7 及更早）未回改，部分语言旧译
     （id `papan`、ko `보드`、ru `доска`、th `บอร์ด`）与新标准形不一致，如需统一另行处理。
   - 尚**未**对齐 Lokalise（checklist 第 1 条）；若产品 UI 后续多语言化，按钮标签策略需重估。
+
+### 2026-09-02 · 新增 T1-013 `AI`：意大利语正文统一 IA
+
+- **起因**：it-IT 帮助中心分类说明与正文混用 AI/IA（如 `agenti AI`、`basato sull'AI`、
+  `assistente AI`），而 es/fr/pt 均已用 IA、de 用 KI，it-IT 是罗曼语族唯一例外。
+- **结论**：普通意大利语正文一律用 `IA`（`agenti IA`、`basato sull'IA`、`assistente IA`、
+  `l'IA`）；正式产品名与品牌名保留原写法（`Moonshot AI`、`JetBrains AI`、`Kimi AI` 等）。
+  新增 T1-013，`translation_strategy: keep_original_with_note`，
+  `localized_forms`：it/fr/es/pt = `IA`，de = `KI`。
+- **落地**：it-IT 全量替换 35 个文件共 90 处（含 `_category.json`、正文、SeoMeta、
+  preview_content；`AI agent`/`AI Agent` 按意语语序调整为 `agent IA`/`agenti IA`）；
+  白名单 7 处品牌名未动。commit `b3a8373`。
+- **提示 / 待办**：
+  - es-419 仍有约 25 处 `AI` 残留（对照 112 处 `IA`）、ru-RU 存在 `AI`/`ИИ` 混用，
+    如需统一另行专项处理。
+  - 线上帮助页头部/页脚与产品卡中的 "AI" 文案属主站内容，不在本仓库，需转主站团队。
+  - 尚**未**对齐 Lokalise（checklist 第 1 条）。

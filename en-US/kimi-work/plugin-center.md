@@ -48,4 +48,4 @@ In addition to the official plugins in the Plugin Center, you can use Plugin Bui
 
 After creating the plugin, install it under "Plugins" → "Personal", then invoke and test it in a new conversation by typing "/".
 
-For detailed creation and usage instructions, see [How to Create a Personal Plugin](/plugins/create).
+For detailed creation and usage instructions, see [How to Create a Personal Plugin](/plugins-and-skills/create).

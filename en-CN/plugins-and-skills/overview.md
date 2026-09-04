@@ -88,4 +88,4 @@ Yes. You can invoke multiple plugins at once via "/" or **+**.
 The available plugins vary by region (domestic / overseas) and surface; in addition, some plugins are available only to personal or enterprise users.
 
 ### Can I use plugins from ChatGPT, Claude, or other platforms?
-Yes. See [How to Create a Personal Plugin](/plugins/create): provide the existing plugin files or project link from another platform to Plugin Builder, and follow the instructions to convert it into a Kimi plugin.
+Yes. See [How to Create a Personal Plugin](/plugins-and-skills/create): provide the existing plugin files or project link from another platform to Plugin Builder, and follow the instructions to convert it into a Kimi plugin.

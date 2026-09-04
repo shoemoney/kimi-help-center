@@ -88,4 +88,4 @@ Kimi Claw、Kimi Plus 会话中暂不支持插件。
 可用的插件会因地区（国内 / 海外）和使用端而不同；此外部分插件仅对个人版/企业版用户开放。
 
 ### 可以在 Kimi 中使用 ChatGPT、Claude 或其他平台的插件吗？
-可以。你可以参考[如何创建个人插件](/plugins/create)，将其他平台的已有插件文件或项目链接提供给 Plugin Builder，按照引导将其转换为 Kimi 插件。
+可以。你可以参考[如何创建个人插件](/plugins-and-skills/create)，将其他平台的已有插件文件或项目链接提供给 Plugin Builder，按照引导将其转换为 Kimi 插件。

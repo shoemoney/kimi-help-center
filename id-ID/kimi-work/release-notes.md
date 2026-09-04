@@ -20,11 +20,12 @@ Halaman ini mencatat pembaruan versi Kimi Work, termasuk fitur baru, perubahan, 
 **Baru**
 
 - Fitur kendali jarak jauh baru: kendalikan Kimi Work di desktop dari ponsel Anda
-- Pengoperasian browser melalui WebMCP, dengan kompatibilitas yang lebih baik dan batas operasi yang lebih tinggi
+- Fitur Apps baru: meningkatkan kemampuan pengoperasian web Agent dan visibilitas hasil
 - Pencarian dalam percakapan baru: temukan catatan dengan cepat di dalam percakapan
 
 **Perubahan**
 
+- Marketplace plugin dan skill diperbarui: logika tampilan yang dioptimalkan, dengan dukungan pencarian plugin dan skill
 - Pusat Pengaturan diperbarui, kini kompatibel antara mode Chat dan Work
 
 **Perbaikan**

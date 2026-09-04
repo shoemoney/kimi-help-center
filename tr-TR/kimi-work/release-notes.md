@@ -20,11 +20,12 @@ Bu sayfa, Kimi Work sürüm güncellemelerini (yeni özellikler, değişiklikler
 **Yeni**
 
 - Yeni uzaktan kontrol özelliği: telefonunuzdan masaüstündeki Kimi Work’ü kontrol edin
-- WebMCP ile tarayıcı kontrolü: geliştirilmiş uyumluluk ve daha yüksek işlem sınırları
+- Yeni Apps özelliği: Agent’ın web üzerinde işlem yapma yeteneğini ve sonuç görünürlüğünü artırır
 - Yeni sohbet içi arama: kayıtları sohbet içinde hızla bulun
 
 **Değişiklikler**
 
+- Eklenti ve skill mağazası güncellendi: görüntüleme mantığı optimize edildi, eklenti ve skill araması destekleniyor
 - Ayarlar merkezi yenilendi, Chat ve Work modları arasında uyumlu hale getirildi
 
 **Düzeltmeler**

@@ -20,11 +20,12 @@ Trang này ghi lại nội dung cập nhật theo phiên bản của Kimi Work, 
 **Mới**
 
 - Thêm tính năng điều khiển từ xa: điều khiển Kimi Work trên máy tính từ điện thoại của bạn
-- Hỗ trợ thao tác trình duyệt qua WebMCP: cải thiện khả năng tương thích và giới hạn thao tác
+- Thêm tính năng Apps: nâng cao khả năng thao tác web của Agent và khả năng hiển thị hiệu quả
 - Thêm tìm kiếm trong cuộc trò chuyện: tìm nhanh nội dung trong cuộc trò chuyện
 
 **Thay đổi**
 
+- Cập nhật cửa hàng plugin/skill: tối ưu logic hiển thị, hỗ trợ tìm kiếm plugin/skill
 - Trung tâm cài đặt được làm mới, tương thích giữa chế độ Chat và Work
 
 **Sửa lỗi**

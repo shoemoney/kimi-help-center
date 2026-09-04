@@ -20,11 +20,12 @@ This page tracks Kimi Work version updates, including new features, changes, and
 **New**
 
 - Added remote control: control Kimi Work on your desktop from your phone
-- Added browser operation via WebMCP, with improved compatibility and higher operation limits
+- Added the Apps feature, improving the Agent's web operation capability and visibility of results
 - Added in-conversation search: quickly find records within a conversation
 
 **Changed**
 
+- Plugin and skill marketplace updated: improved display logic, with plugin and skill search support
 - Settings Center revamped, now compatible across Chat and Work modes
 
 **Fixed**

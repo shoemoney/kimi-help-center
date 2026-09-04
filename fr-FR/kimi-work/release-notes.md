@@ -20,11 +20,12 @@ Cette page consigne les mises à jour de Kimi Work (nouvelles fonctionnalités, 
 **Nouveautés**
 
 - Nouvelle fonction de contrôle à distance : contrôlez Kimi Work sur votre bureau depuis votre téléphone
-- Opération du navigateur via WebMCP, avec une compatibilité améliorée et des limites d’opération plus élevées
+- Nouvelle fonction Apps : améliore la capacité d’opération web de l’Agent et la visibilité des résultats
 - Nouvelle recherche dans la conversation : retrouvez rapidement des éléments dans une conversation
 
 **Modifications**
 
+- Place de marché des plugins et skills mise à jour : logique d’affichage optimisée, avec recherche de plugins et skills
 - Centre de paramètres repensé, désormais compatible entre les modes Chat et Work
 
 **Corrections**

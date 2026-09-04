@@ -1,7 +1,7 @@
 ---
-title: "插件（Plugins）"
-slug: "plugins"
-order: 6
+title: "插件是什么"
+slug: "overview"
+order: 1
 extract_headings: false
 preview: true
 preview_content: "将外部工具接入 Kimi，使它可以使用应用和服务完成任务。安装插件后，Kimi 就能调用金融数据、办公软件、设计工具等第三方能力来帮你完成任务。"
@@ -12,7 +12,7 @@ preview_content: "将外部工具接入 Kimi，使它可以使用应用和服务
   description="了解 Kimi 的插件（Plugins）：把金融数据、办公软件、设计工具等外部服务接入 Kimi，安装后即可在完成任务时直接调用。含可用场景、安装授权、唤起方式、插件分类清单与会员额度说明。"
 />
 
-# 插件（Plugins）
+# 插件是什么
 
 插件（Plugins）将外部工具接入 Kimi，使它可以使用应用和服务完成任务。安装一个插件后，Kimi 就能在完成任务时直接调用对应的第三方能力——比如查询金融数据、操作办公软件、调用设计工具等。你可以在需要时主动指定使用某个插件，Kimi 也会在合适的时候自动调用它。
 
@@ -76,49 +76,6 @@ Kimi Claw、Kimi Plus 会话中暂不支持插件。
 - 如使用第三方提供的插件，其数据处理规则由该公司独立制定，相关数据受其服务条款和隐私政策约束，建议你在授权前查阅。
 - 你可以**随时卸载插件或撤销授权**。卸载后相关 OAuth 授权会失效；再次使用需重新安装并授权。
 
-## 如何在 Kimi Work 中自定义插件
-
-请先下载并安装 [Kimi Work](https://www.kimi.ai/products/kimi-work)。你按照以下步骤，在 Kimi Work 中定制你的个人插件：
-
-1. <strong>创建插件。</strong>打开 Kimi Work，进入「插件」→ 右上角「新建插件」，按照引导完成插件创建。你也可以在会话中通过 slash 唤起 <strong>Plugin Builder 技能</strong>，描述希望创建的插件并提供相关信息，然后按照引导完成创建。如果你已有 ChatGPT、Claude 或其他平台的插件，也可以将原始插件文件或项目链接提供给 Plugin Builder，按照引导将其转换为 Kimi 插件。
-
-<Frames
-  src="./images/plugins/custom-plugin-1.png"
-  alt="在 Kimi Work 中创建插件"
-  width={1742}
-  height={402}
-/>
-
-<Frames src="./images/plugins/custom-plugin-2.png" alt="在 Kimi Work 会话中使用 Plugin Builder" width={1312} height={256} />
-
-2. <strong>安装插件。</strong>创建完成后，进入「插件」→「个人」，找到刚刚创建的插件并安装。
-
-<Frames
-  src="./images/plugins/custom-plugin-3.png"
-  alt="在个人插件中安装插件"
-  width={1740}
-  height={566}
-/>
-
-3. <strong>在会话中使用。</strong>在会话中可以随时通过 slash 唤起插件，使用自然语言提出任务请求。
-
-<Frames
-  src="./images/plugins/custom-plugin-4.png"
-  alt="在会话中通过 slash 唤起插件"
-  width={1232}
-  height={224}
-/>
-
-## 如何申请发布到官方市场
-
-如果你希望将创建并完成基础测试的个人插件提交至 Kimi 官方插件市场，可以进入插件详情页，点击右上角「✉️」按钮，在用户反馈表单中选择「申请发布到官方市场」，并填写联系邮箱。
-
-提交后，申请信息会同步至 Kimi 审核团队。我们会根据插件内容和测试情况进行评估；如需补充材料或进一步沟通，团队会通过填写的邮箱与您联系。
-
-<Frames src="./images/plugins/market-submit-1.png" alt="申请发布到官方市场" width={1752} height={646} />
-
-<Frames src="./images/plugins/market-submit-2.png" alt="填写插件发布申请表单" width={1020} height={738} />
-
 ## 常见问题
 
 ### 使用插件会消耗会员额度吗？
@@ -131,4 +88,4 @@ Kimi Claw、Kimi Plus 会话中暂不支持插件。
 可用的插件会因地区（国内 / 海外）和使用端而不同；此外部分插件仅对个人版/企业版用户开放。
 
 ### 可以在 Kimi 中使用 ChatGPT、Claude 或其他平台的插件吗？
-你可以参考【在 Kimi Work 自定义插件】部分，将其他平台的已有插件文件或项目链接提供给 Plugin Builder，按照引导将其转换为 Kimi 插件。
+可以。你可以参考[如何创建个人插件](/plugins/create)，将其他平台的已有插件文件或项目链接提供给 Plugin Builder，按照引导将其转换为 Kimi 插件。

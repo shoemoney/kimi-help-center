@@ -6,6 +6,6 @@
     "description": "Create presentations with AI-powered design"
   },
   "icon": "slides",
-  "order": 6,
+  "order": 7,
   "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
 }

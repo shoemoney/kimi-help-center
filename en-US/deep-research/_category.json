@@ -6,6 +6,6 @@
     "description": "In-depth research, search tips, report generation, download and save"
   },
   "icon": "deep-research",
-  "order": 8,
+  "order": 9,
   "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
 }

@@ -6,6 +6,6 @@
     "description": "Plans, billing, credits, upgrades, invoices, and common questions"
   },
   "icon": "membership",
-  "order": 10,
+  "order": 11,
   "note": "extract_headings: true/false in each md front matter controls whether ## headings are shown as sub-items on list pages"
 }

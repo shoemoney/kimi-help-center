@@ -1,0 +1,10 @@
+{
+  "title": "插件",
+  "description": "安装、创建和发布 Kimi 插件",
+  "seo": {
+    "title": "插件",
+    "description": "安装、创建和发布 Kimi 插件"
+  },
+  "icon": "kimi-work",
+  "order": 3
+}

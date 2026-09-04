@@ -2,5 +2,5 @@
   "title": "Plugins",
   "description": "Install, create, and publish Kimi plugins",
   "icon": "kimi-work",
-  "order": 3
+  "order": 5
 }

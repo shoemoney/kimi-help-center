@@ -2,7 +2,7 @@
 title: "How to Create a Personal Plugin"
 slug: "create"
 order: 2
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "Use the built-in Plugin Builder skill in Kimi Work to turn a one-sentence idea, an external plugin repository, or any webpage into a plugin of your own."
 ---

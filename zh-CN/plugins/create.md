@@ -2,7 +2,7 @@
 title: "如何创建个人插件"
 slug: "create"
 order: 2
-extract_headings: false
+extract_headings: true
 preview: true
 preview_content: "在 Kimi Work 中通过内置的 Plugin Builder 技能，把一句话想法、外部插件仓库或任意网页变成自己的插件。"
 ---

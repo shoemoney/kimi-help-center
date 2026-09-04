@@ -1,7 +1,7 @@
 ---
 title: "在 Kimi Code 中使用技能"
 slug: "use-skills-in-code"
-order: 11
+order: 7
 extract_headings: false
 preview: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "在 Agent 模式中使用技能"
 slug: "use-skills-in-agent"
-order: 9
+order: 5
 extract_headings: false
 preview: false
 ---

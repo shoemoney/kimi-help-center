@@ -1,7 +1,7 @@
 ---
 title: "Using Skills in Kimi Claw"
 slug: "use-skills-in-claw"
-order: 10
+order: 6
 extract_headings: false
 preview: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Use Skills in Agent Mode"
 slug: "use-skills-in-agent"
-order: 9
+order: 5
 extract_headings: false
 preview: false
 ---

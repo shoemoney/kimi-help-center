@@ -1,7 +1,7 @@
 ---
 title: "What are Skills?"
 slug: "what-are-skills"
-order: 8
+order: 4
 extract_headings: true
 preview: false
 ---

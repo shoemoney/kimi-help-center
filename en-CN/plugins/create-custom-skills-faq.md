@@ -1,7 +1,7 @@
 ---
 title: "FAQ: Creating Skills"
 slug: "create-custom-skills-faq"
-order: 12
+order: 8
 extract_headings: true
 preview: false
 ---

@@ -6,6 +6,6 @@
     "description": "Kimi WebBridge product overview, usage steps, and FAQ"
   },
   "icon": "Kimi-WebBridge",
-  "order": 5,
+  "order": 6,
   "note": "In the front matter of each md file, extract_headings: true/false controls whether ## headings are expanded on the list page"
 }

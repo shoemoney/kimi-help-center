@@ -6,6 +6,6 @@
     "description": "Benefits, Kimi Code CLI guide, and third-party use"
   },
   "icon": "kimi-code",
-  "order": 11,
+  "order": 12,
   "note": "In each md file’s front matter, extract_headings: true/false controls whether ## headings are expanded on the list page"
 }

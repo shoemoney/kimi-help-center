@@ -6,6 +6,6 @@
     "description": "Build webpages with Agent: deploy, share, and iterate"
   },
   "icon": "websites",
-  "order": 9,
+  "order": 10,
   "note": "In each md file's front matter, extract_headings: true/false controls whether ## headings are expanded on the listing page"
 }

@@ -6,6 +6,6 @@
     "description": "Kimi FAQ: capabilities, product differences, choosing models and modes, contacting support, and conversation and account questions."
   },
   "icon": "others",
-  "order": 16,
+  "order": 17,
   "note": "In each md file, extract_headings: true/false in the front matter controls whether ## headings are expanded on the list page"
 }

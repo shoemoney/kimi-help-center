@@ -29,39 +29,11 @@ preview_content: "在 Kimi Work 中通过内置的 Plugin Builder 技能，把�
 
 适合「我有一个想法，但没有现成代码」的场景。你只需描述想要的能力，Plugin Builder 会自动完成脚手架搭建、字段填写、本地校验和登记，全程无需手写任何文件。
 
-1. **描述需求。**在会话中唤起 Plugin Builder，用一句话说明插件要做什么，例如「帮我做一个能查公司工商信息的插件」。名称、简介、分类等能自动推断的字段都会自动填好，只有 MCP 服务地址、图标这类无法推断的信息才会向你确认。
+1. <strong>描述需求。</strong>在会话中唤起 Plugin Builder，用一句话说明插件要做什么，例如「帮我做一个能查公司工商信息的插件」。名称、简介、分类等能自动推断的字段都会自动填好，只有 MCP 服务地址、图标这类无法推断的信息才会向你确认。
 
-<Frames
-  src="./images/create/describe-plugin-need.png"
-  alt="向 Plugin Builder 描述插件需求"
-  width={2652}
-  height={1918}
-/>
+2. <strong>等待创建完成。</strong>Plugin Builder 会在本地生成插件文件，自动通过结构与规范校验，随后登记进你的个人插件市场。
 
-2. **等待创建完成。**Plugin Builder 会在本地生成插件文件，自动通过结构与规范校验，随后登记进你的个人插件市场。
-
-<Frames
-  src="./images/create/plugin-builder-progress.png"
-  alt="Plugin Builder 创建插件的过程"
-  width={1850}
-  height={1590}
-/>
-
-3. **安装使用。**打开「插件」→「个人」页签，找到刚创建的插件，点击 ＋ 安装。安装后当前会话立即可用，也可以通过「/」随时唤起。
-
-<Frames
-  src="./images/create/plugin-registered.png"
-  alt="插件登记成功"
-  width={1280}
-  height={746}
-/>
-
-<Frames
-  src="./images/create/use-plugin-in-chat.png"
-  alt="在会话中使用插件"
-  width={1280}
-  height={925}
-/>
+3. <strong>安装使用。</strong>打开「插件」→「个人」页签，找到刚创建的插件，点击 ＋ 安装。安装后当前会话立即可用，也可以通过「/」随时唤起。
 
 **一段话 Prompt：**
 
@@ -79,7 +51,7 @@ preview_content: "在 Kimi Work 中通过内置的 Plugin Builder 技能，把�
 
 把插件仓库链接丢给 Plugin Builder，它会自动识别、转换格式并安装到你的「个人插件」页签。导入的插件与官方市场互不影响，可以随时卸载。
 
-1. **支持哪些插件：**Plugin Builder 能识别以下来源的插件清单（manifest），并统一转换为 Kimi 原生格式 `kimi.plugin.json`：
+1. <strong>支持哪些插件：</strong>Plugin Builder 能识别以下来源的插件清单（manifest），并统一转换为 Kimi 原生格式 `kimi.plugin.json`：
 
 | 格式 | 说明 |
 | --- | --- |
@@ -88,14 +60,14 @@ preview_content: "在 Kimi Work 中通过内置的 Plugin Builder 技能，把�
 | `server.json` | MCP 官方 registry 格式：转换为仅含 MCP 服务的插件 |
 | 通用 `plugin.json` | 位于插件根目录的通用清单格式 |
 
-2. **如何导入插件：**把仓库链接发给 Plugin Builder，会自动识别以下几种仓库形态：
+2. <strong>如何导入插件：</strong>把仓库链接发给 Plugin Builder，会自动识别以下几种仓库形态：
 
 - **单插件仓库**：整个仓库转换为一个插件；
 - **多插件仓库（monorepo）**：每个子目录各转换为一个插件；
 - **插件市场 / 索引仓库**（带 plugins.json 或 marketplace.json 索引的仓库）：按索引逐条展开、批量转换；
 - **纯技能仓库**：没有插件清单、只有技能文件的仓库，整体打包为技能型插件。
 
-3. **去个人插件页安装：**处理完后，Plugin Builder 会告诉你哪些可用，进入「插件 → 个人」页，点击对应卡片的「安装」，即可在会话中使用。
+3. <strong>去个人插件页安装：</strong>处理完后，Plugin Builder 会告诉你哪些可用，进入「插件 → 个人」页，点击对应卡片的「安装」，即可在会话中使用。
 
 <Frames
   src="./images/create/import-plugin-done.png"
@@ -157,9 +129,9 @@ preview_content: "在 Kimi Work 中通过内置的 Plugin Builder 技能，把�
 | **内置浏览器（默认）** | 大多数网站；用 Kimi Work 自带的浏览器分析网站、运行插件 | 无需安装任何东西；需要登录时在内置浏览器里登录一次 |
 | **WebBridge（wb）** | 想直接复用你 Chrome 里已登录的账号 | 先安装 WebBridge 插件，通过它操作你的 Chrome |
 
-1. **分析网站。**Plugin Builder 会用你选的浏览器打开该网址。如果页面需要登录，会请你在浏览器里登录一次——全程不会向你索要密码、Cookie 或任何凭证。
-2. **反推接口并生成插件。**它会在页面上实际操作一遍核心功能、抓取网络请求，分析出网站内部的数据接口，然后生成一个自带查询脚本的技能型插件。
-3. **校验、登记、安装。**与前两种方式相同：插件通过校验后登记进「个人」页签，点 ＋ 安装即可使用。
+1. <strong>分析网站。</strong>Plugin Builder 会用你选的浏览器打开该网址。如果页面需要登录，会请你在浏览器里登录一次——全程不会向你索要密码、Cookie 或任何凭证。
+2. <strong>反推接口并生成插件。</strong>它会在页面上实际操作一遍核心功能、抓取网络请求，分析出网站内部的数据接口，然后生成一个自带查询脚本的技能型插件。
+3. <strong>校验、登记、安装。</strong>与前两种方式相同：插件通过校验后登记进「个人」页签，点 ＋ 安装即可使用。
 
 之后你只要说「帮我查一下 XX」，Kimi 就会通过该插件在浏览器里直接取数并整理好结果。如果网站接口变动导致插件失效，可以让 Plugin Builder 重新分析并更新插件。
 

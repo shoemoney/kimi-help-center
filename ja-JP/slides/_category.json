@@ -6,6 +6,6 @@
     "description": "AI を活用したデザインでプレゼンテーションを作成"
   },
   "icon": "slides",
-  "order": 6,
+  "order": 7,
   "note": "各 md の front matter にある extract_headings は、リストページで ## 見出しを展開可能な項目として表示するかどうかを制御します"
 }

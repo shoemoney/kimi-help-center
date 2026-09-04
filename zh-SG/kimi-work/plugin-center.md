@@ -48,4 +48,4 @@ Kimi Work 内置金融、法律、学术等领域的专业数据库插件，为�
 
 创建完成后，可以在「插件」→「个人」中安装插件，并在新会话中通过斜杠「/」唤起和测试。
 
-具体创建步骤和使用说明，请参考 [Plugins](https://www.kimi.com/help/features/plugins) 文章中的「如何在 Kimi Work 中自定义插件」部分。
+具体创建步骤和使用说明，请参考[如何创建个人插件](/plugins-and-skills/create)。

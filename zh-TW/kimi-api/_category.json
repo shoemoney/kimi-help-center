@@ -6,6 +6,6 @@
     "description": "API 介面說明、模型與定價、聯絡銷售團隊"
   },
   "icon": "api",
-  "order": 12,
+  "order": 13,
   "note": "每篇 md 的 front matter 中，透過 extract_headings: true/false 控制是否在列表頁展開 ## 標題"
 }

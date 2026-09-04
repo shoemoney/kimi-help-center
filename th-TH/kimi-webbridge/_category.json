@@ -6,6 +6,6 @@
     "description": "ส่วนขยายเบราว์เซอร์สำหรับ AI agent"
   },
   "icon": "kimi-webbridge",
-  "order": 5,
+  "order": 6,
   "note": "extract_headings: true/false in each md front matter controls whether ## headings are shown as sub-items on list pages"
 }

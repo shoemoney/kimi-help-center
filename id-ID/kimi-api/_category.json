@@ -6,6 +6,6 @@
     "description": "Penggunaan Kimi API, autentikasi, pemecahan masalah error, harga"
   },
   "icon": "api",
-  "order": 12,
+  "order": 13,
   "note": "extract_headings di front matter setiap md mengatur apakah heading ## muncul sebagai item yang dapat diperluas di halaman daftar"
 }

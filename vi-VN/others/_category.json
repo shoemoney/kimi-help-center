@@ -6,6 +6,6 @@
     "description": "Câu hỏi thường gặp về Kimi: tính năng, khác biệt giữa các sản phẩm, chọn mô hình và chế độ, liên hệ hỗ trợ, cùng các câu hỏi về hội thoại và tài khoản."
   },
   "icon": "others",
-  "order": 16,
+  "order": 17,
   "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
 }

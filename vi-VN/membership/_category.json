@@ -6,6 +6,6 @@
     "description": "Gói dịch vụ, thanh toán, tín dụng, nâng cấp, hóa đơn và các câu hỏi thường gặp"
   },
   "icon": "membership",
-  "order": 10,
+  "order": 11,
   "note": "extract_headings: true/false in each md front matter controls whether ## headings are shown as sub-items on list pages"
 }

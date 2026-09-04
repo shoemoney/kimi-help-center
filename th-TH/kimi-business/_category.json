@@ -6,6 +6,6 @@
     "description": "สิทธิประโยชน์ของแพ็กเกจสำหรับองค์กร ราคา การจัดการทีม พื้นที่ทำงาน และคำถามที่พบบ่อย"
   },
   "icon": "okcomputer",
-  "order": 13,
+  "order": 14,
   "note": "extract_headings: true/false in each md front matter controls whether ## headings are shown as sub-items on list pages"
 }

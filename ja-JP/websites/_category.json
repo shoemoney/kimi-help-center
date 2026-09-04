@@ -6,6 +6,6 @@
     "description": "エージェントでウェブページを作成し、デプロイ・共有して、繰り返し編集できます"
   },
   "icon": "websites",
-  "order": 9,
+  "order": 10,
   "note": "各mdのfront matterにあるextract_headingsは、リストページで##見出しを展開可能な項目として表示するかどうかを制御します"
 }

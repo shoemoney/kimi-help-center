@@ -6,6 +6,6 @@
     "description": "Kimi API kullanımı, kimlik doğrulama, sorun giderme, fiyatlandırma"
   },
   "icon": "api",
-  "order": 12,
+  "order": 13,
   "note": "Her md front matter içindeki extract_headings, liste sayfasında ## başlıklarının genişletilebilir öğeler olarak görünüp görünmeyeceğini belirler"
 }

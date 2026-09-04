@@ -6,6 +6,6 @@
     "description": "詳細な調査、検索のコツ、レポート作成、ダウンロード・保存"
   },
   "icon": "deep-research",
-  "order": 8,
+  "order": 9,
   "note": "各 md の front matter 内の extract_headings は、リストページで ## 見出しを展開可能な項目として表示するかどうかを制御します"
 }

@@ -6,6 +6,6 @@
     "description": "심층 조사, 검색 팁, 보고서 생성, 다운로드와 저장"
   },
   "icon": "deep-research",
-  "order": 8,
+  "order": 9,
   "note": "각 md front matter의 extract_headings는 목록 페이지에서 ## 제목을 펼칠 수 있는 항목으로 표시할지 여부를 제어합니다"
 }

@@ -6,6 +6,6 @@
     "description": "Preguntas frecuentes de Kimi: capacidades, diferencias entre productos, elección de modelos y modos, contacto con soporte, y preguntas sobre conversaciones y cuenta."
   },
   "icon": "others",
-  "order": 16,
+  "order": 17,
   "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
 }

@@ -6,6 +6,6 @@
     "description": "Kimi 常見問題：功能、產品差異、模型與模式選擇、聯絡客服、對話與帳號問題。"
   },
   "icon": "others",
-  "order": 16,
+  "order": 17,
   "note": "每個 md front matter 中的 extract_headings 會控制 ## 標題是否在列表頁顯示為可展開項目"
 }

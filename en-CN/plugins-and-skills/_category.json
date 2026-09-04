@@ -1,6 +1,10 @@
 {
   "title": "Plugins & Skills",
   "description": "Install, create, and publish Kimi plugins and Skills",
+  "seo": {
+    "title": "Plugins & Skills",
+    "description": "Install, create, and publish Kimi plugins and Skills"
+  },
   "icon": "kimi-work",
   "order": 5
 }

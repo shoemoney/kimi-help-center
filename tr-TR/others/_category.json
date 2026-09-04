@@ -6,6 +6,6 @@
     "description": "Kimi SSS: özellikler, ürün farkları, model ve mod seçimi, desteğe ulaşma ve sohbet ile hesap soruları."
   },
   "icon": "others",
-  "order": 16,
+  "order": 17,
   "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
 }

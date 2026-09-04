@@ -6,6 +6,6 @@
     "description": "Kişisel yapay zekâ asistanınız — kurulum, sohbet platformları, hafıza ve sorun giderme"
   },
   "icon": "kimi-claw",
-  "order": 14,
+  "order": 15,
   "note": "extract_headings: true/false in each md front matter controls whether ## headings are shown as sub-items on list pages"
 }

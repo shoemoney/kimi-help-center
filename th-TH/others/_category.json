@@ -6,6 +6,6 @@
     "description": "คำถามที่พบบ่อยเกี่ยวกับ Kimi: ความสามารถ ความแตกต่างของผลิตภัณฑ์ การเลือกโมเดลและโหมด การติดต่อฝ่ายสนับสนุน และคำถามเกี่ยวกับการสนทนาและบัญชี"
   },
   "icon": "others",
-  "order": 16,
+  "order": 17,
   "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
 }

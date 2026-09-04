@@ -6,6 +6,6 @@
     "description": "Asisten AI pribadi Anda — penyiapan, platform chat, memori, dan pemecahan masalah"
   },
   "icon": "kimi-claw",
-  "order": 14,
+  "order": 15,
   "note": "extract_headings: true/false in each md front matter controls whether ## headings are shown as sub-items on list pages"
 }

@@ -6,6 +6,6 @@
     "description": "나만의 AI 비서 — 설정, 채팅 플랫폼, 메모리, 문제 해결"
   },
   "icon": "kimi-claw",
-  "order": 14,
+  "order": 15,
   "note": "extract_headings: true/false in each md front matter controls whether ## headings are shown as sub-items on list pages"
 }

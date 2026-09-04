@@ -6,6 +6,6 @@
     "description": "プラン、請求、クレジット、アップグレード、請求書、よくある質問"
   },
   "icon": "membership",
-  "order": 10,
+  "order": 11,
   "note": "各 md のフロントマターにある extract_headings: true/false で、リストページに ## 見出しをサブ項目として表示するかどうかを制御します"
 }

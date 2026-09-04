@@ -48,4 +48,4 @@ Kimi Work 內建金融、法律、學術等領域的專業資料庫外掛，為�
 
 建立完成後，可以在「外掛」→「個人」中安裝外掛，並在新會話中透過斜線「/」喚起和測試。
 
-具體建立步驟和使用說明，請參考 [Plugins](https://www.kimi.com/help/features/plugins) 文章中的「如何在 Kimi Work 中自訂外掛」部分。
+具體建立步驟和使用說明，請參考[如何建立個人外掛](/plugins-and-skills/create)。

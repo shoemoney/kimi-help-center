@@ -6,6 +6,6 @@
     "description": "方案、計費、額度、升級、發票與常見問題"
   },
   "icon": "membership",
-  "order": 10,
+  "order": 11,
   "note": "每個 md front matter 中的 extract_headings: true/false 會控制是否在列表頁將 ## 標題顯示為子項目"
 }

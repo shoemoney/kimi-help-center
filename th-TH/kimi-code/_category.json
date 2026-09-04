@@ -6,6 +6,6 @@
     "description": "เอเจนต์ CLI, ส่วนขยาย VS Code, การผสานรวมกับ IDE, เอเจนต์จากภายนอก"
   },
   "icon": "kimi-code",
-  "order": 11,
+  "order": 12,
   "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
 }

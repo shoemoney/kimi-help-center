@@ -6,6 +6,6 @@
     "description": "Uso da Kimi API, autenticação, solução de erros e preços"
   },
   "icon": "api",
-  "order": 12,
+  "order": 13,
   "note": "extract_headings em cada front matter de md controla se os títulos ## aparecem como itens expansíveis na página de listagem"
 }

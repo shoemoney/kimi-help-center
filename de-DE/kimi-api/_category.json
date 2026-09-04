@@ -6,6 +6,6 @@
     "description": "Nutzung, Authentifizierung, Fehlerbehebung und Preise der Kimi API"
   },
   "icon": "api",
-  "order": 12,
+  "order": 13,
   "note": "extract_headings im md-Front Matter steuert, ob ##-Überschriften auf der Listenseite als ausklappbare Elemente angezeigt werden"
 }

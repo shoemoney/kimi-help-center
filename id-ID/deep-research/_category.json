@@ -6,6 +6,6 @@
     "description": "Riset mendalam, tips pencarian, pembuatan laporan, unduh dan simpan"
   },
   "icon": "deep-research",
-  "order": 8,
+  "order": 9,
   "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
 }

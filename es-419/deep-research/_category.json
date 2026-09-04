@@ -6,6 +6,6 @@
     "description": "Investigación a fondo, consejos de búsqueda, generación de informes, descarga y guardado"
   },
   "icon": "deep-research",
-  "order": 8,
+  "order": 9,
   "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
 }

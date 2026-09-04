@@ -6,6 +6,6 @@
     "description": "Rédaction de documents, traitement Excel, conversion de formats, visualisation de données"
   },
   "icon": "docs-sheets",
-  "order": 7,
+  "order": 8,
   "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
 }

@@ -6,6 +6,6 @@
     "description": "FAQ Kimi : fonctionnalités, différences entre produits, choix des modèles et modes, contact du support, et questions sur les conversations et le compte."
   },
   "icon": "others",
-  "order": 16,
+  "order": 17,
   "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
 }

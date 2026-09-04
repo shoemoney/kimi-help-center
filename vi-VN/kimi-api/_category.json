@@ -6,6 +6,6 @@
     "description": "Cách sử dụng Kimi API, xác thực, xử lý lỗi và giá"
   },
   "icon": "api",
-  "order": 12,
+  "order": 13,
   "note": "extract_headings trong front matter của từng md kiểm soát việc các tiêu đề ## có xuất hiện dưới dạng mục có thể mở rộng trên trang danh sách hay không"
 }

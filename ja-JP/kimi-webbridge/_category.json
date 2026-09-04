@@ -6,6 +6,6 @@
     "description": "AIエージェント向けのブラウザ拡張機能"
   },
   "icon": "kimi-webbridge",
-  "order": 5,
+  "order": 6,
   "note": "各 md の front matter の extract_headings: true/false で、リストページに ## 見出しをサブ項目として表示するかどうかを制御します"
 }

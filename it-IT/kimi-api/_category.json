@@ -6,6 +6,6 @@
     "description": "Utilizzo di Kimi API, autenticazione, risoluzione degli errori, prezzi"
   },
   "icon": "api",
-  "order": 12,
+  "order": 13,
   "note": "extract_headings nel front matter di ogni md controlla se le intestazioni ## compaiono come elementi espandibili nella pagina elenco"
 }

@@ -6,6 +6,6 @@
     "description": "AI 에이전트를 위한 브라우저 확장 프로그램"
   },
   "icon": "kimi-webbridge",
-  "order": 5,
+  "order": 6,
   "note": "extract_headings: true/false in each md front matter controls whether ## headings are shown as sub-items on list pages"
 }

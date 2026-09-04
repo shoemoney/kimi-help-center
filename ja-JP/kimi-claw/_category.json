@@ -6,6 +6,6 @@
     "description": "あなた専用のAIアシスタント — セットアップ、チャットプラットフォーム、メモリ、トラブルシューティング"
   },
   "icon": "kimi-claw",
-  "order": 14,
+  "order": 15,
   "note": "各mdフロントマターのextract_headings: true/falseで、リストページに##見出しをサブ項目として表示するかどうかを制御します"
 }

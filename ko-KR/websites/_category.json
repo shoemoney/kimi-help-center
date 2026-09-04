@@ -6,6 +6,6 @@
     "description": "Agent로 웹페이지를 만들고, 배포·공유하며 반복 편집하세요"
   },
   "icon": "websites",
-  "order": 9,
+  "order": 10,
   "note": "extract_headings in each md front matter controls whether ## headings appear as expandable items on the list page"
 }

@@ -6,6 +6,6 @@
     "description": "透過 AI 驅動的設計建立簡報"
   },
   "icon": "slides",
-  "order": 6,
+  "order": 7,
   "note": "每個 md front matter 中的 extract_headings 會控制 ## 標題是否在列表頁面上顯示為可展開項目"
 }

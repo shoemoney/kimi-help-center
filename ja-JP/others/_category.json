@@ -6,6 +6,6 @@
     "description": "Kimi のよくある質問：機能、製品の違い、モデルとモードの選び方、サポートへの問い合わせ、会話とアカウントに関する質問。"
   },
   "icon": "others",
-  "order": 16,
+  "order": 17,
   "note": "各 md の front matter にある extract_headings は、## 見出しをリストページで展開可能な項目として表示するかどうかを制御します"
 }

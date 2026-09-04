@@ -6,6 +6,6 @@
     "description": "深入研究、搜索技巧、报告生成、下载与保存"
   },
   "icon": "deep-research",
-  "order": 8,
+  "order": 9,
   "note": "每个 md front matter 中的 extract_headings 用于控制 ## 标题是否在列表页显示为可展开项"
 }

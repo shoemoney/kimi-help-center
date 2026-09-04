@@ -6,6 +6,6 @@
     "description": "用智能体构建网页、部署并分享，支持迭代编辑"
   },
   "icon": "websites",
-  "order": 9,
+  "order": 10,
   "note": "每个 md front matter 中的 extract_headings 控制 ## 标题是否在列表页显示为可展开项"
 }

@@ -1,9 +1,9 @@
 {
   "title": "插件和技能",
-  "description": "安装、创建和发布 Kimi 插件与技能（Skills）",
+  "description": "安装、创建和发布 Kimi 插件与技能",
   "seo": {
     "title": "插件和技能",
-    "description": "安装、创建和发布 Kimi 插件与技能（Skills）"
+    "description": "安装、创建和发布 Kimi 插件与技能"
   },
   "icon": "kimi-work",
   "order": 5

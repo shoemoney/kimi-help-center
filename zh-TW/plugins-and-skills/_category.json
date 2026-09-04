@@ -1,9 +1,9 @@
 {
   "title": "外掛和技能",
-  "description": "安裝、建立和發布 Kimi 外掛與技能（Skills）",
+  "description": "安裝、建立和發布 Kimi 外掛與技能",
   "seo": {
     "title": "外掛和技能",
-    "description": "安裝、建立和發布 Kimi 外掛與技能（Skills）"
+    "description": "安裝、建立和發布 Kimi 外掛與技能"
   },
   "icon": "kimi-work",
   "order": 5

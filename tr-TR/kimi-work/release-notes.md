@@ -15,6 +15,23 @@ preview: false
 
 Bu sayfa, Kimi Work sürüm güncellemelerini (yeni özellikler, değişiklikler ve düzeltmeler) kaydeder ve sürekli güncellenir. En son sürümü indirin: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.5 (2026-09-04)
+
+**Yeni**
+
+- Yeni uzaktan kontrol özelliği: telefonunuzdan masaüstündeki Kimi Work’ü kontrol edin
+- WebMCP ile tarayıcı kontrolü: geliştirilmiş uyumluluk ve daha yüksek işlem sınırları
+- Yeni sohbet içi arama: kayıtları sohbet içinde hızla bulun
+
+**Değişiklikler**
+
+- Ayarlar merkezi yenilendi, Chat ve Work modları arasında uyumlu hale getirildi
+
+**Düzeltmeler**
+
+- Bazı kullanıcıların oturum açma durumunu anormal görmesine neden olan sorun düzeltildi
+- Bazı hatalar düzeltildi ve bazı etkileşimler ile kararlılık iyileştirildi
+
 ## 3.2.4 (2026-08-31)
 
 **Değişiklikler**

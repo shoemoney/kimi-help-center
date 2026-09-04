@@ -15,6 +15,23 @@ preview: false
 
 Halaman ini mencatat pembaruan versi Kimi Work, termasuk fitur baru, perubahan, dan perbaikan, dan terus diperbarui. Unduh versi terbaru: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.5 (2026-09-04)
+
+**Baru**
+
+- Fitur kendali jarak jauh baru: kendalikan Kimi Work di desktop dari ponsel Anda
+- Pengoperasian browser melalui WebMCP, dengan kompatibilitas yang lebih baik dan batas operasi yang lebih tinggi
+- Pencarian dalam percakapan baru: temukan catatan dengan cepat di dalam percakapan
+
+**Perubahan**
+
+- Pusat Pengaturan diperbarui, kini kompatibel antara mode Chat dan Work
+
+**Perbaikan**
+
+- Memperbaiki masalah sebagian pengguna yang melihat tampilan status login tidak normal
+- Memperbaiki beberapa bug dan meningkatkan beberapa interaksi dan stabilitas
+
 ## 3.2.4 (2026-08-31)
 
 **Perubahan**

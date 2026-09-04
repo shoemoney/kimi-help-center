@@ -15,6 +15,23 @@ preview: false
 
 Cette page consigne les mises à jour de Kimi Work (nouvelles fonctionnalités, modifications et corrections) et est actualisée en continu. Télécharger la dernière version : [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.5 (2026-09-04)
+
+**Nouveautés**
+
+- Nouvelle fonction de contrôle à distance : contrôlez Kimi Work sur votre bureau depuis votre téléphone
+- Opération du navigateur via WebMCP, avec une compatibilité améliorée et des limites d’opération plus élevées
+- Nouvelle recherche dans la conversation : retrouvez rapidement des éléments dans une conversation
+
+**Modifications**
+
+- Centre de paramètres repensé, désormais compatible entre les modes Chat et Work
+
+**Corrections**
+
+- Correction d’un problème où certains utilisateurs voyaient un affichage anormal de l’état de connexion
+- Correction de plusieurs bugs et amélioration de certaines interactions et de la stabilité
+
 ## 3.2.4 (2026-08-31)
 
 **Modifications**

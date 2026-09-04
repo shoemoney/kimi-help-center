@@ -15,6 +15,23 @@ preview: false
 
 Esta página registra las actualizaciones de versión de Kimi Work, incluidas nuevas funciones, cambios y correcciones, y se actualiza constantemente. Descarga la versión más reciente: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.5 (2026-09-04)
+
+**Novedades**
+
+- Nueva función de control remoto: controla Kimi Work en tu escritorio desde tu teléfono
+- Operación del navegador mediante WebMCP, con compatibilidad mejorada y mayores límites de operación
+- Nueva búsqueda dentro de la conversación: encuentra registros rápidamente dentro de una conversación
+
+**Cambios**
+
+- Centro de configuración renovado, ahora compatible entre los modos Chat y Work
+
+**Correcciones**
+
+- Se corrigió un problema por el que algunos usuarios veían una visualización anormal del estado de inicio de sesión
+- Se corrigieron varios errores y se mejoraron algunas interacciones y la estabilidad
+
 ## 3.2.4 (2026-08-31)
 
 **Cambios**

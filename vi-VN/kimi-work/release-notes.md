@@ -15,6 +15,23 @@ preview: false
 
 Trang này ghi lại nội dung cập nhật theo phiên bản của Kimi Work, bao gồm tính năng mới, thay đổi và bản sửa lỗi, và được cập nhật liên tục. Tải xuống phiên bản mới nhất: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.5 (2026-09-04)
+
+**Mới**
+
+- Thêm tính năng điều khiển từ xa: điều khiển Kimi Work trên máy tính từ điện thoại của bạn
+- Hỗ trợ thao tác trình duyệt qua WebMCP: cải thiện khả năng tương thích và giới hạn thao tác
+- Thêm tìm kiếm trong cuộc trò chuyện: tìm nhanh nội dung trong cuộc trò chuyện
+
+**Thay đổi**
+
+- Trung tâm cài đặt được làm mới, tương thích giữa chế độ Chat và Work
+
+**Sửa lỗi**
+
+- Đã sửa lỗi một số người dùng thấy trạng thái đăng nhập hiển thị bất thường
+- Đã sửa một số lỗi và cải thiện một số tương tác cùng độ ổn định
+
 ## 3.2.4 (2026-08-31)
 
 **Thay đổi**

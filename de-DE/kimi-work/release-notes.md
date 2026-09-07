@@ -24,7 +24,6 @@ Diese Seite dokumentiert die Versionsupdates von Kimi Work, einschließlich neue
 
 **Fehlerbehebungen**
 
-- Ein Problem wurde behoben, bei dem “Zurück” nach dem Öffnen bestimmter Seiten in den Einstellungen nicht reagierte
 - Ein Problem wurde behoben, bei dem die Installation über eine bestehende Installation unter macOS fälschlich blockiert wurde und CAD-Dateien unter Windows fälschlich mit Notepad geöffnet wurden
 - Probleme mit einigen Seitenfarben im Dark Mode, doppelte Launcher-Nachrichten und die DOCX-Vorschaubreite wurden behoben
 - Einige Fehler wurden behoben und einige Interaktionen sowie die Stabilität verbessert

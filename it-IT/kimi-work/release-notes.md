@@ -24,7 +24,6 @@ Questa pagina raccoglie gli aggiornamenti di versione di Kimi Work, tra cui nuov
 
 **Correzioni**
 
-- Risolto un problema per cui “Indietro” non rispondeva dopo essere entrati in determinate pagine delle Impostazioni
 - Risolto un problema per cui la reinstallazione su un'installazione esistente veniva bloccata per errore su macOS, e i file CAD venivano aperti per errore con Blocco note su Windows
 - Risolti problemi con i colori di alcune pagine in modalità scura, messaggi Launcher duplicati e adattamento della larghezza dell'anteprima DOCX
 - Sono stati corretti alcuni bug e migliorate alcune interazioni e la stabilità

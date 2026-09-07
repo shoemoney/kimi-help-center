@@ -24,7 +24,6 @@ Trang này ghi lại nội dung cập nhật theo phiên bản của Kimi Work, 
 
 **Sửa lỗi**
 
-- Đã sửa lỗi nút “Quay lại” không phản hồi sau khi vào một số trang nhất định trong Cài đặt
 - Đã sửa lỗi cài đặt đè lên bản cài sẵn có bị chặn nhầm trên macOS, và tệp CAD bị mở nhầm bằng Notepad trên Windows
 - Đã sửa các vấn đề về màu một số trang trong chế độ tối, tin nhắn Launcher bị trùng, và độ rộng xem trước DOCX
 - Đã sửa một số lỗi và cải thiện một số tương tác cùng độ ổn định

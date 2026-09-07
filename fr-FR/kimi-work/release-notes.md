@@ -24,7 +24,6 @@ Cette page consigne les mises à jour de Kimi Work (nouvelles fonctionnalités, 
 
 **Corrections**
 
-- Correction d’un problème où « Retour » ne répondait plus après l’ouverture de certaines pages dans les Paramètres
 - Correction d’un problème où la réinstallation par-dessus une installation existante était bloquée par erreur sous macOS, et où les fichiers CAD s’ouvraient par erreur avec le Bloc-notes sous Windows
 - Correction de problèmes de couleurs de certaines pages en mode sombre, de messages Launcher en double et d’adaptation de la largeur d’aperçu DOCX
 - Correction de plusieurs bugs et amélioration de certaines interactions et de la stabilité

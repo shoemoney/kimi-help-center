@@ -17,6 +17,11 @@ Cette page consigne les mises à jour de Kimi Work (nouvelles fonctionnalités, 
 
 ## 3.2.6 (2026-09-07)
 
+**Nouveautés**
+
+- Nouvelle recommandation et installation de plugins dans le stream : recommande automatiquement des plugins adaptés à votre tâche et vous invite à les installer
+- Installez désormais des plugins via des liens GitHub, pour intégrer plus facilement des plugins partagés
+
 **Modifications**
 
 - La page de détail du plugin affiche désormais l’état de connexion MCP et permet de gérer la connexion

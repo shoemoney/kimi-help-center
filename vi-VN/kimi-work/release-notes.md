@@ -17,11 +17,6 @@ Trang này ghi lại nội dung cập nhật theo phiên bản của Kimi Work, 
 
 ## 3.2.6 (2026-09-07)
 
-**Mới**
-
-- Thêm đề xuất và cài đặt plugin trong stream: tự động đề xuất plugin phù hợp với tác vụ của bạn và nhắc bạn cài đặt
-- Hỗ trợ cài đặt plugin qua liên kết GitHub, giúp dễ dàng đưa vào các plugin được chia sẻ
-
 **Thay đổi**
 
 - Trang chi tiết plugin giờ hiển thị trạng thái kết nối MCP và hỗ trợ quản lý kết nối

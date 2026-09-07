@@ -17,11 +17,6 @@ Halaman ini mencatat pembaruan versi Kimi Work, termasuk fitur baru, perubahan, 
 
 ## 3.2.6 (2026-09-07)
 
-**Baru**
-
-- Rekomendasi dan instalasi plugin dalam stream baru: secara otomatis merekomendasikan plugin yang sesuai untuk tugas Anda dan meminta Anda menginstalnya
-- Kini mendukung instalasi plugin melalui tautan GitHub, memudahkan penambahan plugin bersama
-
 **Perubahan**
 
 - Halaman detail plugin kini menampilkan status koneksi MCP dan mendukung pengelolaan koneksi

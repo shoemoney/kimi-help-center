@@ -17,10 +17,15 @@ This page tracks Kimi Work version updates, including new features, changes, and
 
 ## 3.2.6 (2026-09-07)
 
+**New**
+
+- Added stream plugin recommendation and installation: automatically recommends plugins suitable for your task and ask you to install them
+- Added support for installing plugins via GitHub links, making it easier to bring in shared plugins
+
 **Changed**
 
 - The plugin detail page now shows MCP connection status and supports connection management
-- You will now be asked to confirm any still-running scheduled tasks before quitting the app
+- Users will now be asked to confirm any still-running scheduled tasks before quitting the app
 
 **Fixed**
 

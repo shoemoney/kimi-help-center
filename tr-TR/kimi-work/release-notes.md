@@ -17,6 +17,11 @@ Bu sayfa, Kimi Work sürüm güncellemelerini (yeni özellikler, değişiklikler
 
 ## 3.2.6 (2026-09-07)
 
+**Yeni**
+
+- Akışta eklenti önerisi ve kurulumu eklendi: görevinize uygun eklentileri otomatik olarak önerir ve kurmanızı ister
+- Artık eklentileri GitHub bağlantılarıyla kurabilirsiniz; paylaşılan eklentileri eklemek kolaylaştı
+
 **Değişiklikler**
 
 - Eklenti detay sayfası artık MCP bağlantı durumunu gösteriyor ve bağlantı yönetimini destekliyor

@@ -15,6 +15,19 @@ preview: false
 
 Bu sayfa, Kimi Work sürüm güncellemelerini (yeni özellikler, değişiklikler ve düzeltmeler) kaydeder ve sürekli güncellenir. En son sürümü indirin: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.6 (2026-09-07)
+
+**Değişiklikler**
+
+- Eklenti detay sayfası artık MCP bağlantı durumunu gösteriyor ve bağlantı yönetimini destekliyor
+- Uygulamadan çıkmadan önce hâlâ çalışmakta olan zamanlanmış görevleri onaylamanız istenecek
+
+**Düzeltmeler**
+
+- macOS'te mevcut kurulumun üzerine yeniden kurulumun yanlışlıkla engellenmesi ve CAD dosyalarının Windows'ta yanlışlıkla Not Defteri ile açılması sorunları düzeltildi
+- Koyu modda bazı sayfa renkleri, yinelenen Launcher mesajları ve DOCX önizleme genişliği uyarlama sorunları düzeltildi
+- Bazı hatalar düzeltildi ve bazı etkileşimler ile kararlılık iyileştirildi
+
 ## 3.2.5 (2026-09-04)
 
 **Yeni**

@@ -15,6 +15,19 @@ preview: false
 
 Halaman ini mencatat pembaruan versi Kimi Work, termasuk fitur baru, perubahan, dan perbaikan, dan terus diperbarui. Unduh versi terbaru: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.6 (2026-09-07)
+
+**Perubahan**
+
+- Halaman detail plugin kini menampilkan status koneksi MCP dan mendukung pengelolaan koneksi
+- Anda kini akan diminta mengonfirmasi tugas terjadwal yang masih berjalan sebelum keluar dari aplikasi
+
+**Perbaikan**
+
+- Memperbaiki masalah instalasi ulang di atas instalasi yang ada yang keliru diblokir di macOS, dan file CAD yang keliru dibuka dengan Notepad di Windows
+- Memperbaiki masalah warna beberapa halaman dalam mode gelap, pesan Launcher duplikat, dan penyesuaian lebar pratinjau DOCX
+- Memperbaiki beberapa bug dan meningkatkan beberapa interaksi dan stabilitas
+
 ## 3.2.5 (2026-09-04)
 
 **Baru**

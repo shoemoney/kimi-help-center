@@ -15,19 +15,6 @@ preview: false
 
 Esta página registra as atualizações de versão do Kimi Work, incluindo novos recursos, alterações e correções, e é atualizada continuamente. Baixe a versão mais recente: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
-## 3.2.6 (2026-09-07)
-
-**Alterações**
-
-- A página de detalhes do plugin agora mostra o status de conexão MCP e permite gerenciar a conexão
-- Agora você precisará confirmar as tarefas agendadas ainda em execução antes de sair do app
-
-**Correções**
-
-- Correção de um problema em que a reinstalação sobre uma instalação existente era bloqueada por engano no macOS, e arquivos CAD eram abertos por engano com o Bloco de Notas no Windows
-- Correção de problemas com as cores de algumas páginas no modo escuro, mensagens duplicadas do Launcher e adaptação da largura de visualização de DOCX
-- Correção de alguns bugs e melhoria de algumas interações e da estabilidade
-
 ## 3.2.5 (2026-09-04)
 
 **Novidades**

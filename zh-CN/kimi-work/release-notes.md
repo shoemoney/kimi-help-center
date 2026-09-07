@@ -15,6 +15,19 @@ preview: false
 
 本文记录 Kimi Work 的版本更新内容，包括新增功能、变更与修复，并持续更新。最新版本下载：[kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.6（2026-09-07）
+
+**变更**
+
+- 插件详情页新增 MCP 连接状态展示与连接管理
+- 退出应用前将确认仍在运行的定时任务
+
+**修复**
+
+- 修复 macOS 覆盖安装被误拦截、Windows 端 CAD 文件误用记事本打开的问题
+- 修复暗色模式部分页面配色、Launcher 消息重复、DOCX 预览宽度适配等问题
+- 修复了一些 Bug，优化了一些交互与稳定性
+
 ## 3.2.5（2026-09-04）
 
 **新增**

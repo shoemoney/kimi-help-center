@@ -24,6 +24,7 @@ Esta página registra as atualizações de versão do Kimi Work, incluindo novos
 
 **Correções**
 
+- Correção de um problema em que “Voltar” não respondia após entrar em determinadas páginas das Configurações
 - Correção de um problema em que a reinstalação sobre uma instalação existente era bloqueada por engano no macOS, e arquivos CAD eram abertos por engano com o Bloco de Notas no Windows
 - Correção de problemas com as cores de algumas páginas no modo escuro, mensagens duplicadas do Launcher e adaptação da largura de visualização de DOCX
 - Correção de alguns bugs e melhoria de algumas interações e da estabilidade

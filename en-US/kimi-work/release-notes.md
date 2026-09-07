@@ -24,6 +24,7 @@ This page tracks Kimi Work version updates, including new features, changes, and
 
 **Fixed**
 
+- Fixed an issue where clicking “Back” was unresponsive after entering certain pages in Settings
 - Fixed an issue where reinstalling over an existing installation was mistakenly blocked on macOS, and CAD files were mistakenly opened with Notepad on Windows
 - Fixed issues with some page colors in dark mode, duplicate Launcher messages, and DOCX preview width adaptation
 - Fixed several bugs and improved some interactions and stability

@@ -24,6 +24,7 @@ Bu sayfa, Kimi Work sürüm güncellemelerini (yeni özellikler, değişiklikler
 
 **Düzeltmeler**
 
+- Ayarlar’da belirli sayfalara girdikten sonra “Geri” düğmesinin yanıt vermemesine neden olan sorun düzeltildi
 - macOS'te mevcut kurulumun üzerine yeniden kurulumun yanlışlıkla engellenmesi ve CAD dosyalarının Windows'ta yanlışlıkla Not Defteri ile açılması sorunları düzeltildi
 - Koyu modda bazı sayfa renkleri, yinelenen Launcher mesajları ve DOCX önizleme genişliği uyarlama sorunları düzeltildi
 - Bazı hatalar düzeltildi ve bazı etkileşimler ile kararlılık iyileştirildi

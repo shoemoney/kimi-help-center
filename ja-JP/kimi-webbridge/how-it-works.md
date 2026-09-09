@@ -33,8 +33,8 @@ Kimi ブラウザ拡張機能は、**サイドバーでのチャット**と**ロ
 ブラウザのツールバーにある Kimi ブラウザ拡張機能のアイコンをクリックすると、サイドバーを開いてタスクを送信できます。
 
 <Frames
-  src="./images/connection.png"
-  alt="Kimi ブラウザ拡張機能の接続"
+  src="./images/sidebar.png"
+  alt="Kimi Browser Extension sidebar"
 />
 
 ## 機能

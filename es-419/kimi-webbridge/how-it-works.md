@@ -33,8 +33,8 @@ La Extensión de navegador Kimi admite dos formas de uso — **chat en la barra 
 Haz clic en el ícono de la Extensión de navegador Kimi en la barra de herramientas del navegador para expandir la barra lateral y enviar una tarea.
 
 <Frames
-  src="./images/connection.png"
-  alt="Extensión de navegador Kimi Connection"
+  src="./images/sidebar.png"
+  alt="Kimi Browser Extension sidebar"
 />
 
 ## Funciones

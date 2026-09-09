@@ -33,8 +33,8 @@ A Extensão de navegador Kimi oferece duas formas de uso — **conversa na barra
 Clique no ícone da Extensão de navegador Kimi na barra de ferramentas do navegador para expandir a barra lateral e enviar uma tarefa.
 
 <Frames
-  src="./images/connection.png"
-  alt="Conexão da Extensão de navegador Kimi"
+  src="./images/sidebar.png"
+  alt="Kimi Browser Extension sidebar"
 />
 
 ## Recursos

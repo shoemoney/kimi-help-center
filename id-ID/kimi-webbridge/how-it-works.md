@@ -33,8 +33,8 @@ Ekstensi Browser Kimi mendukung dua cara penggunaan — **percakapan sidebar** d
 Klik ikon Ekstensi Browser Kimi di bilah alat browser untuk membuka sidebar dan mengirim tugas.
 
 <Frames
-  src="./images/connection.png"
-  alt="Ekstensi Browser Kimi Connection"
+  src="./images/sidebar.png"
+  alt="Kimi Browser Extension sidebar"
 />
 
 ## Fitur

@@ -33,8 +33,8 @@ Kimi 浏览器扩展支持**侧边栏对话**和**本地 Agent 远程控制**两
 点击浏览器工具栏的 Kimi 浏览器扩展图标，即可展开侧边栏并发送任务。
 
 <Frames
-  src="./images/connection.png"
-  alt="Kimi 浏览器扩展连接"
+  src="./images/sidebar.png"
+  alt="Kimi 浏览器扩展侧边栏"
 />
 
 ## 功能

@@ -33,8 +33,8 @@ Kimi Tarayıcı Uzantısı **yan çubuk sohbeti** ve **yerel Agent ile uzaktan k
 Yan çubuğu açmak ve görev göndermek için tarayıcı araç çubuğundaki Kimi Tarayıcı Uzantısı simgesine tıklayın.
 
 <Frames
-  src="./images/connection.png"
-  alt="Kimi Tarayıcı Uzantısı Connection"
+  src="./images/sidebar.png"
+  alt="Kimi Browser Extension sidebar"
 />
 
 ## Özellikler

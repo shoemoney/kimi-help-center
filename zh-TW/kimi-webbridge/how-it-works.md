@@ -33,8 +33,8 @@ Kimi 瀏覽器擴充功能支援**側邊欄對話**與**本機 Agent 遠端控�
 點擊瀏覽器工具列中的 Kimi 瀏覽器擴充功能圖示，即可展開側邊欄並發送任務。
 
 <Frames
-  src="./images/connection.png"
-  alt="Kimi 瀏覽器擴充功能連線"
+  src="./images/sidebar.png"
+  alt="Kimi 瀏覽器擴充功能側邊欄"
 />
 
 ## 功能

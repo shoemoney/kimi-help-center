@@ -33,8 +33,8 @@ L'Estensione del browser Kimi supporta due modalità d'uso — **chat nella barr
 Fai clic sull'icona dell'Estensione del browser Kimi nella barra degli strumenti del browser per espandere la barra laterale e inviare un'attività.
 
 <Frames
-  src="./images/connection.png"
-  alt="Connessione dell'Estensione del browser Kimi"
+  src="./images/sidebar.png"
+  alt="Kimi Browser Extension sidebar"
 />
 
 ## Funzionalità

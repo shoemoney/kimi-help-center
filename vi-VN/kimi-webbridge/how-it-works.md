@@ -33,8 +33,8 @@ Tiện ích mở rộng trình duyệt Kimi hỗ trợ hai cách sử dụng —
 Nhấp vào biểu tượng Tiện ích mở rộng trình duyệt Kimi trên thanh công cụ của trình duyệt để mở rộng thanh bên và gửi tác vụ.
 
 <Frames
-  src="./images/connection.png"
-  alt="Tiện ích mở rộng trình duyệt Kimi Connection"
+  src="./images/sidebar.png"
+  alt="Kimi Browser Extension sidebar"
 />
 
 ## Tính năng

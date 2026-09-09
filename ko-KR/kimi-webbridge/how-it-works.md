@@ -33,8 +33,8 @@ Kimi 브라우저 확장 프로그램은 **사이드바 대화**와 **로컬 에
 브라우저 도구 모음에서 Kimi 브라우저 확장 프로그램 아이콘을 클릭하면 사이드바가 열리고 작업을 전송할 수 있습니다.
 
 <Frames
-  src="./images/connection.png"
-  alt="Kimi 브라우저 확장 프로그램 Connection"
+  src="./images/sidebar.png"
+  alt="Kimi Browser Extension sidebar"
 />
 
 ## 기능

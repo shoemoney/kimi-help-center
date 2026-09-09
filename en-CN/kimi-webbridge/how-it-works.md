@@ -33,8 +33,8 @@ Kimi Browser Extension supports two ways of use — **sidebar chat** and **remot
 Click the Kimi Browser Extension icon in the browser toolbar to expand the sidebar and send a task.
 
 <Frames
-  src="./images/插件状态.png"
-  alt="Extension status"
+  src="./images/sidebar.png"
+  alt="Kimi Browser Extension sidebar"
 />
 
 ## Use Cases

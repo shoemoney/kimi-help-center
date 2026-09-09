@@ -33,8 +33,8 @@ Kimi Browsererweiterung unterstützt zwei Nutzungsarten – **Seitenleisten-Chat
 Klicken Sie auf das Symbol der Kimi Browsererweiterung in der Browser-Symbolleiste, um die Seitenleiste zu öffnen und eine Aufgabe zu senden.
 
 <Frames
-  src="./images/connection.png"
-  alt="Kimi Browsererweiterung Connection"
+  src="./images/sidebar.png"
+  alt="Kimi Browser Extension sidebar"
 />
 
 ## Funktionen

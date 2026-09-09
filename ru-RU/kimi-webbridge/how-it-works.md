@@ -33,8 +33,8 @@ preview: false
 Нажмите значок Расширения браузера Kimi на панели инструментов браузера, чтобы развернуть боковую панель и отправить задачу.
 
 <Frames
-  src="./images/connection.png"
-  alt="Подключение Расширения браузера Kimi"
+  src="./images/sidebar.png"
+  alt="Kimi Browser Extension sidebar"
 />
 
 ## Возможности

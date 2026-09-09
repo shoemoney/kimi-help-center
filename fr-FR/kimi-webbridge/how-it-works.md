@@ -33,8 +33,8 @@ L'Extension de navigateur Kimi prend en charge deux modes d'utilisation — la *
 Cliquez sur l'icône de l'Extension de navigateur Kimi dans la barre d'outils du navigateur pour déplier la barre latérale et envoyer une tâche.
 
 <Frames
-  src="./images/connection.png"
-  alt="Extension de navigateur Kimi Connection"
+  src="./images/sidebar.png"
+  alt="Kimi Browser Extension sidebar"
 />
 
 ## Fonctionnalités

@@ -33,8 +33,8 @@ preview: false
 คลิกไอคอน ส่วนขยายเบราว์เซอร์ Kimi ในแถบเครื่องมือของเบราว์เซอร์เพื่อขยายแถบด้านข้างและส่งงาน.
 
 <Frames
-  src="./images/connection.png"
-  alt="ส่วนขยายเบราว์เซอร์ Kimi Connection"
+  src="./images/sidebar.png"
+  alt="Kimi Browser Extension sidebar"
 />
 
 ## คุณสมบัติ

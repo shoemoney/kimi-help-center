@@ -7,12 +7,18 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi WebBridge 常見問題 - Kimi 說明中心"
-  description="關於 Kimi WebBridge 的安裝、連線，以及搭配多種瀏覽器與本機 Agent 使用時的常見問題。"
+  title="Kimi 瀏覽器擴充功能常見問題 - Kimi 說明中心"
+  description="關於 Kimi 瀏覽器擴充功能的安裝、連線，以及搭配多種瀏覽器與本機 Agent 使用時的常見問題。"
   ogType="article"
 />
 
 # 常見問題
+
+## 產品版本
+
+### Kimi WebBridge 和 Kimi 瀏覽器擴充功能是什麼關係？
+
+Kimi WebBridge 更名為 Kimi 瀏覽器擴充功能，並新增了瀏覽器側邊欄入口、錄製網頁操作、拆解網頁生成指令等功能。透過本機 Agent 呼叫擴充功能的方式保持不變，可繼續使用；新增的側邊欄入口需登入 Kimi 會員帳號後使用。
 
 ## 安裝與設定
 
@@ -36,7 +42,7 @@ Kimi Claw Desktop 是部署在你本機電腦上的 Kimi Claw。開啟 Kimi Desk
 
 ### 擴充功能狀態顯示「已中斷連線」？
 
-請先確認 Kimi WebBridge 瀏覽器擴充功能已成功安裝，然後依照你的設定方式執行以下步驟：
+請先確認 Kimi 瀏覽器擴充功能已成功安裝，然後依照你的設定方式執行以下步驟：
 
 - **Kimi Desktop**：重新啟動 Kimi Desktop 後再試一次
 
@@ -52,9 +58,9 @@ Kimi Claw Desktop 是部署在你本機電腦上的 Kimi Claw。開啟 Kimi Desk
   ]}
 />
 
-### 在 Windows 安裝 WebBridge 時出現錯誤：Installation failed
+### 在 Windows 安裝 Kimi 瀏覽器擴充功能時出現錯誤：Installation failed
 
-Kimi WebBridge 支援 Windows 作業系統，安裝指令可在 Linux 環境中執行：
+Kimi 瀏覽器擴充功能支援 Windows 作業系統，安裝指令可在 Linux 環境中執行：
 
 <CodePreview
   files={[
@@ -66,9 +72,9 @@ Kimi WebBridge 支援 Windows 作業系統，安裝指令可在 Linux 環境中�
   ]}
 />
 
-### WebBridge 安裝後顯示 Chrome 相容性警告，這代表什麼？
+### Kimi 瀏覽器擴充功能安裝後顯示 Chrome 相容性警告，這代表什麼？
 
-如果 WebBridge 可以正常開啟頁面，但 `snapshot`、`evaluate`、`screenshot` 或 `click` 等操作持續失敗，較常見的原因是**與其他瀏覽器擴充功能衝突**。
+如果 Kimi 瀏覽器擴充功能可以正常開啟頁面，但 `snapshot`、`evaluate`、`screenshot` 或 `click` 等操作持續失敗，較常見的原因是**與其他瀏覽器擴充功能衝突**。
 
 這種情況尤其常見於網頁擷取工具、網站輔助擴充功能、螢幕錄影擴充功能，以及 AI 助理擴充功能。
 
@@ -76,12 +82,12 @@ Kimi WebBridge 支援 Windows 作業系統，安裝指令可在 Linux 環境中�
 
 1. 開啟瀏覽器的擴充功能管理頁面
 2. 暫時停用其他擴充功能
-3. 只保留 Kimi WebBridge 啟用
+3. 只保留 Kimi 瀏覽器擴充功能啟用
 4. 重新啟動瀏覽器後再試一次
-5. 如果 WebBridge 可以正常運作，請逐一重新啟用其他擴充功能，以找出造成衝突的擴充功能
+5. 如果 Kimi 瀏覽器擴充功能可以正常運作，請逐一重新啟用其他擴充功能，以找出造成衝突的擴充功能
 
 
-### WebBridge 會洩漏我的登入資訊嗎？
+### Kimi 瀏覽器擴充功能會洩漏我的登入資訊嗎？
 
 不會。所有執行都在你的裝置本機完成——登入狀態與網頁內容都不會離開你的電腦。Agent 只能存取你授權的操作結果。
 
@@ -97,7 +103,7 @@ Kimi WebBridge 支援 Windows 作業系統，安裝指令可在 Linux 環境中�
 
 ### 支援哪些其他 Agent？
 
-WebBridge 支援所有本機 Agent，包括 Claude Code、Codex、Cursor、Kimi Code、Hermes Claw 等。
+Kimi 瀏覽器擴充功能支援所有本機 Agent，包括 Claude Code、Codex、Cursor、Kimi Code、Hermes Claw 等。
 
 ### 不同 Agent 的設定方式一樣嗎？
 

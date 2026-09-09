@@ -1,5 +1,5 @@
 ---
-title: "Kimi WebBridge 작동 방식"
+title: "Kimi 브라우저 확장 프로그램 작동 방식"
 slug: "kimi-webbridge-how-it-works"
 order: 2
 extract_headings: true
@@ -7,20 +7,21 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi WebBridge 작동 방식 - Kimi 헬프 센터"
-  description="Kimi WebBridge가 브라우저를 AI 에이전트와 로컬에서 연결하여 안전한 웹 탐색, 클릭, 스크린샷 등을 가능하게 하는 방식을 알아보세요."
+  title="Kimi 브라우저 확장 프로그램 작동 방식 - Kimi 헬프 센터"
+  description="Kimi 브라우저 확장 프로그램이 브라우저를 AI 에이전트와 로컬에서 연결하여 안전한 웹 탐색, 클릭, 스크린샷 등을 가능하게 하는 방식을 알아보세요."
   ogType="article"
 />
 
-# Kimi WebBridge 작동 방식
+# Kimi 브라우저 확장 프로그램 작동 방식
 
 ## 작동 흐름
 
-Kimi WebBridge는 다음과 같이 작동합니다:
+Kimi 브라우저 확장 프로그램은 **사이드바 대화**와 **로컬 에이전트 원격 제어** 두 가지 사용 방식을 지원하며, 다음과 같이 작동합니다:
 
-1. **로컬 브리지 서비스**: 컴퓨터에서 로컬 서비스가 실행되어 에이전트로부터 명령을 받습니다
-2. **브라우저 확장 프로그램**: Chrome DevTools Protocol을 기반으로 브라우저에서 특정 작업을 실행합니다
-3. **보안 격리**: 모든 실행이 로컬에서 이루어지며, 로그인 상태와 웹 페이지 내용은 기기를 벗어나지 않습니다
+1. **브라우저 사이드바**: 도구 모음에서 Kimi 아이콘을 클릭해 사이드바를 열고, Kimi 멤버로 로그인하면 바로 대화할 수 있습니다
+2. **로컬 브리지 서비스**: 컴퓨터에서 로컬 서비스가 실행되어 에이전트로부터 명령을 받습니다
+3. **브라우저 확장 프로그램**: Chrome DevTools Protocol을 기반으로 브라우저에서 특정 작업을 실행합니다
+4. **보안 격리**: 모든 실행이 로컬에서 이루어지며, 로그인 상태와 웹 페이지 내용은 기기를 벗어나지 않습니다
 
 <Frames
   src="./images/workflow.png"
@@ -29,15 +30,11 @@ Kimi WebBridge는 다음과 같이 작동합니다:
 
 ## 확장 프로그램 인터페이스
 
-브라우저 도구 모음에서 WebBridge 아이콘을 클릭하면 현재 연결 상태를 확인할 수 있습니다:
-
-**연결됨**: WebBridge가 정상적으로 작동하며 에이전트와 협업할 수 있습니다.
-
-**연결 끊김**: 설정을 확인하거나 연결 명령을 다시 실행하세요.
+브라우저 도구 모음에서 Kimi 브라우저 확장 프로그램 아이콘을 클릭하면 사이드바가 열리고 작업을 전송할 수 있습니다.
 
 <Frames
   src="./images/connection.png"
-  alt="WebBridge Connection"
+  alt="Kimi 브라우저 확장 프로그램 Connection"
 />
 
 ## 기능
@@ -58,4 +55,4 @@ Kimi WebBridge는 다음과 같이 작동합니다:
 - 양식 작성: 다양한 온라인 양식을 자동으로 작성합니다
 - 데이터 입력: 웹 데이터를 지정한 형식으로 자동 정리하고 입력합니다
 
-더 많은 활용 사례는 [Kimi WebBridge 공식 웹사이트](https://www.kimi.com/features/webbridge)를 참고하세요.
+더 많은 활용 사례는 [Kimi 브라우저 확장 프로그램 공식 웹사이트](https://www.kimi.com/features/webbridge)를 참고하세요.

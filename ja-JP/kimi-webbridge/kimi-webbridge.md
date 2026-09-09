@@ -1,5 +1,5 @@
 ---
-title: "Kimi WebBridgeの紹介"
+title: "Kimi ブラウザ拡張機能の紹介"
 slug: "kimi-webbridge-introduction"
 order: 1
 extract_headings: false
@@ -7,14 +7,21 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi WebBridgeの紹介 - Kimi ヘルプセンター"
-  description="Kimi WebBridgeは、AI エージェント向けに設計されたブラウザ拡張機能です。ChromeまたはEdgeブラウザ上で直接動作し、既存のログインセッションを活用して、エージェントが人間のようにウェブページを操作できるようにします。"
+  title="Kimi ブラウザ拡張機能の紹介 - Kimi ヘルプセンター"
+  description="Kimi ブラウザ拡張機能（旧称 Kimi WebBridge）は AI Agent 向けのブラウザプラグインで、ページの表示、ボタンのクリック、フォーム入力、情報抽出を人間のように自動で行います。"
   ogType="article"
 />
 
-# Kimi WebBridgeの紹介
+# Kimi ブラウザ拡張機能の紹介
 
-Kimi WebBridgeは、AI エージェント向けに設計されたブラウザ拡張機能です。クラウド型のブラウザ自動化ソリューションとは異なり、Kimi WebBridgeはお使いのChromeまたはEdgeブラウザ上で直接動作します。既存のログインセッションを自動的に活用し、エージェントが人間のようにウェブページを操作できるようにします。
+Kimi ブラウザ拡張機能（旧称 Kimi WebBridge）は、AI Agent 向けのブラウザプラグインです。ページを開く、ボタンをクリック、フォームへの入力、情報の抽出を通じて、人間のように面倒なウェブ操作を自動でこなします。よく使うウェブページを CLI に分解したり、録画したウェブ操作を Skill に変換したりして、Agent がいつでも再利用できます。
+
+## 2通りの使い方
+
+Kimi ブラウザ拡張機能には2通りの使い方があります:
+
+- **ブラウザサイドバー**: ツールバーの Kimi アイコンをクリックしてサイドバーを開き、Kimi メンバーとしてログインすると、直接チャットでき、Kimi に現在のページの操作を任せられます。
+- **ローカルエージェントによるリモート操作**: Kimi Work や Claude Code などの AI エージェントが拡張機能をリモートで駆動し、ウェブタスクを自動化します。
 
 <VideoList
   column={1}
@@ -22,25 +29,14 @@ Kimi WebBridgeは、AI エージェント向けに設計されたブラウザ拡
     {
       url: "./videos/H265_LoRes_WebBridge_用户教程_EN.mp4",
       type: "video",
-      caption: "Kimi WebBridgeチュートリアル",
+      caption: "Kimi ブラウザ拡張機能のチュートリアル",
     },
   ]}
 />
 
-<Callout type="tip">
-ブラウザ自動化を最も快適に利用するには、普段業務で使っているメインのコンピューターにKimi WebBridgeを導入することをおすすめします。
-</Callout>
+## ダウンロードとインストール
 
-<Callout type="info">
-WebBridgeは、ローカルブリッジサービスとブラウザ拡張機能を通じて動作します。すべての実行処理はお使いのデバイス上でローカルに行われるため、ログイン状態やウェブページの内容が端末の外へ出ることはありません。
-</Callout>
-
-<Frames
-  src="./images/introduction.png"
-  alt="WebBridgeの紹介"
-/>
-
-## ステップ1：Kimi WebBridge拡張機能をダウンロードする
+### ステップ1：Kimi ブラウザ拡張機能をダウンロードする
 
 以下の方法でダウンロードできます。
 
@@ -57,7 +53,7 @@ Webストアにアクセスできない場合は、手動インストールを�
 
 **Chrome:**
 
-1. [Kimi WebBridge公式サイト](https://www.kimi.com/features/webbridge)から拡張機能パッケージをダウンロードします。
+1. [Kimi ブラウザ拡張機能の公式サイト](https://www.kimi.com/features/webbridge)から拡張機能パッケージをダウンロードします。
 2. ダウンロードしたファイルを展開します
 3. アドレスバーで`chrome://extensions/`を開きます
 4. 右上の「デベロッパー モード」を有効にします
@@ -71,7 +67,7 @@ Webストアにアクセスできない場合は、手動インストールを�
 
 **Edge:**
 
-1. [Kimi WebBridge公式サイト](https://www.kimi.com/features/webbridge)から拡張機能パッケージをダウンロードします。
+1. [Kimi ブラウザ拡張機能の公式サイト](https://www.kimi.com/features/webbridge)から拡張機能パッケージをダウンロードします。
 2. ダウンロードしたファイルを展開します
 3. アドレスバーで`edge://extensions/`を開きます
 4. 左下の「開発者モード」を有効にします
@@ -83,31 +79,31 @@ Webストアにアクセスできない場合は、手動インストールを�
   alt="installation_edge_en"
 />
 
-インストール後、ブラウザの拡張機能一覧にWebBridgeが表示されます。すぐに使えるよう、ブラウザのツールバーにピン留めしておくことをおすすめします。
+インストール後、ブラウザの拡張機能一覧にKimi ブラウザ拡張機能が表示されます。すぐに使えるよう、ブラウザのツールバーにピン留めしておくことをおすすめします。
 
-## ステップ2：セットアップ方法を選び、設定を完了する
+### ステップ2：セットアップ方法を選び、設定を完了する
 
-### 方法1：Kimi Work Desktopで使用する
+#### 方法1：Kimi Work Desktopで使用する
 
 1. [公式サイト](https://www.kimi.com/products/kimi-work)からKimi Workをダウンロードします
 
-2. インストール後、Kimi Workでたとえば次のような指示を送信できます。
+2. インストール後、拡張機能のサイドバーを開き、たとえば次のような指示を送信できます。
 
 <CodePreview
   files={[
     {
       name: "prompt.txt",
       language: "text",
-      content: "Kimi WebBridgeを使ってXiaohongshuを開き、Kimi K2.6のリリースに関する投稿を検索してください",
+      content: "Kimi ブラウザ拡張機能を使ってXiaohongshuを開き、Kimi K3のリリースに関する投稿を検索してください",
     },
   ]}
 />
 
-### 方法2：ローカルエージェントと連携する
+#### 方法2：ローカルエージェントと連携する
 
 Claude Code、Codex、Cursor、Kimi Code、Hermes Clawなどに対応しています。
 
-1. エージェント内で以下のコマンドを直接送信すると、WebBridgeが自動的にインストールされます。エージェントはお使いのOSに応じて適切なセットアップを実行します。
+1. エージェント内で以下のコマンドを直接送信すると、Kimi ブラウザ拡張機能が自動的にインストールされます。エージェントはお使いのOSに応じて適切なセットアップを実行します。
 
 macOSユーザーは、以下のコマンドを使用してください。
 
@@ -144,7 +140,7 @@ Windowsユーザーは、以下のコマンドを使用してください。
     {
       name: "prompt.txt",
       language: "text",
-      content: "Kimi WebBridgeを使ってX.comを開き、Kimi K2.6のリリースに関する投稿を検索してください",
+      content: "Kimi ブラウザ拡張機能を使ってX.comを開き、Kimi K3のリリースに関する投稿を検索してください",
     },
   ]}
 />

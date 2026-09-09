@@ -1,5 +1,5 @@
 ---
-title: "Kimi WebBridge 的工作原理"
+title: "Kimi 浏览器扩展的工作原理"
 slug: "kimi-webbridge-how-it-works"
 order: 2
 extract_headings: true
@@ -7,20 +7,21 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi WebBridge 的工作原理 - Kimi 帮助中心"
-  description="了解 Kimi WebBridge 如何在本地将你的浏览器连接到 AI Agent，安全完成网页导航、点击、截图等操作。"
+  title="Kimi 浏览器扩展的工作原理 - Kimi 帮助中心"
+  description="了解 Kimi 浏览器扩展如何在本地将你的浏览器连接到 AI Agent，安全完成网页导航、点击、截图等操作。"
   ogType="article"
 />
 
-# Kimi WebBridge 的工作原理
+# Kimi 浏览器扩展的工作原理
 
 ## 工作流程
 
-Kimi WebBridge 的运行方式如下：
+Kimi 浏览器扩展支持**侧边栏对话**和**本地 Agent 远程控制**两种用法，通过以下方式工作：
 
-1. **本地桥接服务**：在你的电脑上运行本地服务，用于接收来自 Agent 的指令
-2. **浏览器扩展程序**：基于 Chrome DevTools Protocol，在浏览器中执行具体操作
-3. **安全隔离**：所有执行过程都在本地完成——登录状态和网页内容都不会离开你的设备
+1. **浏览器侧边栏**：点击工具栏的 Kimi 图标打开侧边栏，登录 Kimi 会员即可直接对话
+2. **本地桥接服务**：在你的电脑上运行本地服务，用于接收来自 Agent 的指令
+3. **浏览器扩展程序**：基于 Chrome DevTools Protocol，在浏览器中执行具体操作
+4. **安全隔离**：所有执行过程都在本地完成——登录状态和网页内容都不会离开你的设备
 
 <Frames
   src="./images/workflow.png"
@@ -29,15 +30,11 @@ Kimi WebBridge 的运行方式如下：
 
 ## 扩展程序界面
 
-点击浏览器工具栏中的 WebBridge 图标，即可查看当前连接状态：
-
-**已连接**：WebBridge 运行正常，可与 Agent 协同工作。
-
-**未连接**：请检查你的配置，或重新运行连接命令。
+点击浏览器工具栏的 Kimi 浏览器扩展图标，即可展开侧边栏并发送任务。
 
 <Frames
   src="./images/connection.png"
-  alt="WebBridge 连接"
+  alt="Kimi 浏览器扩展连接"
 />
 
 ## 功能
@@ -58,4 +55,4 @@ Kimi WebBridge 的运行方式如下：
 - 表单填写：自动填写各类在线表单
 - 数据录入：自动整理网页数据，并按指定格式录入
 
-更多使用场景，请参阅 [Kimi WebBridge 官方网站](https://www.kimi.com/features/webbridge)。
+更多使用场景，请参阅 [Kimi 浏览器扩展官方网站](https://www.kimi.com/features/webbridge)。

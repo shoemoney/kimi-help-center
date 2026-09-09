@@ -7,12 +7,18 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi WebBridge 常见问题 - Kimi 帮助中心"
-  description="关于 Kimi WebBridge 安装、连接，以及在多个浏览器和本地 Agent 中使用的常见问题。"
+  title="Kimi 浏览器扩展常见问题 - Kimi 帮助中心"
+  description="关于 Kimi 浏览器扩展安装、连接，以及在多个浏览器和本地 Agent 中使用的常见问题。"
   ogType="article"
 />
 
 # 常见问题
+
+## 产品版本
+
+### Kimi WebBridge 和 Kimi 浏览器扩展是什么关系？
+
+Kimi WebBridge 更名为 Kimi 浏览器扩展，并新增了浏览器侧边栏入口、录制网页操作、拆解网页生成指令等功能。通过本地 Agent 调用扩展的方式保持不变，可继续使用；新增的侧边栏入口需登录 Kimi 会员账号后使用。
 
 ## 安装与配置
 
@@ -36,7 +42,7 @@ Kimi Claw Desktop 是部署在你本地电脑上的 Kimi Claw。打开 Kimi Desk
 
 ### 扩展程序状态显示“已断开连接”？
 
-请确认 Kimi WebBridge 浏览器扩展程序已成功安装，然后根据你的设置方式按以下步骤操作：
+请确认 Kimi 浏览器扩展程序已成功安装，然后根据你的设置方式按以下步骤操作：
 
 - **Kimi Desktop**：重启 Kimi Desktop 后再试
 
@@ -52,9 +58,9 @@ Kimi Claw Desktop 是部署在你本地电脑上的 Kimi Claw。打开 Kimi Desk
   ]}
 />
 
-### 在 Windows 中安装 WebBridge，报错：安装失败
+### 在 Windows 中安装 Kimi 浏览器扩展，报错：安装失败
 
-Kimi WebBridge 支持 Windows 操作系统，安装命令可以在 Linux 环境中运行：
+Kimi 浏览器扩展支持 Windows 操作系统，安装命令可以在 Linux 环境中运行：
 
 <CodePreview
   files={[
@@ -66,9 +72,9 @@ Kimi WebBridge 支持 Windows 操作系统，安装命令可以在 Linux 环境�
   ]}
 />
 
-### WebBridge 安装后显示 Chrome 兼容性警告。这是什么意思？
+### Kimi 浏览器扩展安装后显示 Chrome 兼容性警告。这是什么意思？
 
-如果 WebBridge 可以正常打开页面，但 `snapshot`、`evaluate`、`screenshot` 或 `click` 等操作一直失败，更常见的原因是**与其他浏览器扩展程序发生冲突**。
+如果 Kimi 浏览器扩展可以正常打开页面，但 `snapshot`、`evaluate`、`screenshot` 或 `click` 等操作一直失败，更常见的原因是**与其他浏览器扩展程序发生冲突**。
 
 这种情况在网页抓取工具、网站辅助扩展、录屏扩展和 AI 助手扩展中尤其常见。
 
@@ -76,12 +82,12 @@ Kimi WebBridge 支持 Windows 操作系统，安装命令可以在 Linux 环境�
 
 1. 打开浏览器的扩展程序管理页面
 2. 暂时停用其他扩展程序
-3. 仅保留 Kimi WebBridge 启用
+3. 仅保留 Kimi 浏览器扩展启用
 4. 重启浏览器后再试
-5. 如果 WebBridge 可以正常使用，再逐个重新启用其他扩展程序，找出发生冲突的扩展程序
+5. 如果 Kimi 浏览器扩展可以正常使用，再逐个重新启用其他扩展程序，找出发生冲突的扩展程序
 
 
-### WebBridge 会泄露我的登录信息吗？
+### Kimi 浏览器扩展会泄露我的登录信息吗？
 
 不会。所有执行都在你的设备本地完成——登录状态和网页内容都不会离开你的电脑。Agent 只能访问你授权的操作结果。
 
@@ -97,7 +103,7 @@ Kimi WebBridge 支持 Windows 操作系统，安装命令可以在 Linux 环境�
 
 ### 支持哪些其他 Agent？
 
-WebBridge 支持所有本地 Agent，包括 Claude Code、Codex、Cursor、Kimi Code、Hermes Claw 等。
+Kimi 浏览器扩展支持所有本地 Agent，包括 Claude Code、Codex、Cursor、Kimi Code、Hermes Claw 等。
 
 ### 不同 Agent 的配置是否相同？
 

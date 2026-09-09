@@ -1,5 +1,5 @@
 ---
-title: "Come funziona Kimi WebBridge"
+title: "Come funziona l'Estensione del browser Kimi"
 slug: "kimi-webbridge-how-it-works"
 order: 2
 extract_headings: true
@@ -7,20 +7,21 @@ preview: false
 ---
 
 <SeoMeta
-  title="Come funziona Kimi WebBridge - Centro assistenza Kimi"
-  description="Scopri come Kimi WebBridge collega il tuo browser agli agenti IA in locale, abilitando navigazione web sicura, clic, screenshot e altro ancora."
+  title="Come funziona l'Estensione del browser Kimi - Centro assistenza Kimi"
+  description="Scopri come l'Estensione del browser Kimi collega il tuo browser agli agenti IA in locale, abilitando navigazione web sicura, clic, screenshot e altro ancora."
   ogType="article"
 />
 
-# Come funziona Kimi WebBridge
+# Come funziona l'Estensione del browser Kimi
 
 ## Flusso di lavoro
 
-Kimi WebBridge funziona così:
+L'Estensione del browser Kimi supporta due modalità d'uso — **chat nella barra laterale** e **controllo remoto tramite un Agent locale** — e funziona così:
 
-1. **Servizio Bridge locale**: un servizio locale viene eseguito sul tuo computer per ricevere le istruzioni dall'Agent
-2. **Estensione del browser**: esegue azioni specifiche nel browser basandosi sul Chrome DevTools Protocol
-3. **Isolamento di sicurezza**: tutta l'esecuzione avviene in locale: gli stati di accesso e il contenuto delle pagine web non lasciano mai il tuo dispositivo
+1. **Barra laterale del browser**: fai clic sull'icona di Kimi nella barra degli strumenti per aprire la barra laterale, quindi accedi con un account Kimi con abbonamento per chattare direttamente
+2. **Servizio Bridge locale**: un servizio locale viene eseguito sul tuo computer per ricevere le istruzioni dall'Agent
+3. **Estensione del browser**: esegue azioni specifiche nel browser basandosi sul Chrome DevTools Protocol
+4. **Isolamento di sicurezza**: tutta l'esecuzione avviene in locale: gli stati di accesso e il contenuto delle pagine web non lasciano mai il tuo dispositivo
 
 <Frames
   src="./images/workflow.png"
@@ -29,15 +30,11 @@ Kimi WebBridge funziona così:
 
 ## Interfaccia dell'estensione
 
-Fai clic sull'icona di WebBridge nella barra degli strumenti del browser per verificare lo stato attuale della connessione:
-
-**Connesso**: WebBridge funziona correttamente e può collaborare con l'Agent.
-
-**Disconnesso**: controlla la configurazione o esegui di nuovo il comando di connessione.
+Fai clic sull'icona dell'Estensione del browser Kimi nella barra degli strumenti del browser per espandere la barra laterale e inviare un'attività.
 
 <Frames
   src="./images/connection.png"
-  alt="Connessione WebBridge"
+  alt="Connessione dell'Estensione del browser Kimi"
 />
 
 ## Funzionalità
@@ -58,4 +55,4 @@ Casi d'uso:
 - Compilazione di moduli: compila automaticamente vari moduli online
 - Inserimento dati: organizza e inserisce automaticamente i dati web in un formato specifico
 
-Per altri casi d'uso, consulta il [sito ufficiale di Kimi WebBridge](https://www.kimi.com/features/webbridge).
+Per altri casi d'uso, consulta il [sito ufficiale dell'Estensione del browser Kimi](https://www.kimi.com/features/webbridge).

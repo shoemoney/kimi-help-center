@@ -7,12 +7,18 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi WebBridge SSS - Kimi Yardım Merkezi"
-  description="Kimi WebBridge'in kurulumu, bağlantısı ve çeşitli tarayıcılar ile Yerel Agent'larla kullanımı hakkında sıkça sorulan sorular."
+  title="Kimi Tarayıcı Uzantısı SSS - Kimi Yardım Merkezi"
+  description="Kimi Tarayıcı Uzantısı'nın kurulumu, bağlantısı ve çeşitli tarayıcılar ile Yerel Agent'larla kullanımı hakkında sıkça sorulan sorular."
   ogType="article"
 />
 
 # SSS
+
+## Ürün sürümü
+
+### Kimi WebBridge ile Kimi Tarayıcı Uzantısı arasındaki ilişki nedir?
+
+Kimi WebBridge, Kimi Tarayıcı Uzantısı olarak yeniden adlandırıldı; tarayıcı yan çubuğu girişi, web işlemlerini kaydetme ve web sayfalarını talimatlara ayırma gibi yeni özellikler eklendi. Yerel Agent'ların uzantıyı çağırma yöntemi değişmedi ve kullanılmaya devam edilebilir; yeni yan çubuk girişi için Kimi üyelik hesabıyla oturum açmanız gerekir.
 
 ## Kurulum ve yapılandırma
 
@@ -36,7 +42,7 @@ Kimi Claw Desktop, yerel bilgisayarınıza dağıtılmış bir Kimi Claw'dur. Ki
 
 ### Uzantı durumu "Bağlantı kesildi" mi gösteriyor?
 
-Lütfen Kimi WebBridge tarayıcı uzantısının başarıyla kurulduğundan emin olun, ardından kurulum yönteminize göre adımları izleyin:
+Lütfen Kimi Tarayıcı Uzantısı'nın başarıyla kurulduğundan emin olun, ardından kurulum yönteminize göre adımları izleyin:
 
 - **Kimi Desktop**: Kimi Desktop'ı yeniden başlatıp tekrar deneyin
 
@@ -52,9 +58,9 @@ Lütfen Kimi WebBridge tarayıcı uzantısının başarıyla kurulduğundan emin
   ]}
 />
 
-### Windows'ta WebBridge kurulurken "Kurulum başarısız oldu" hatası alınıyor
+### Windows'ta Kimi Tarayıcı Uzantısı kurulurken "Kurulum başarısız oldu" hatası alınıyor
 
-Kimi WebBridge, Windows işletim sistemini destekler ve kurulum komutu Linux ortamında çalıştırılabilir:
+Kimi Tarayıcı Uzantısı, Windows işletim sistemini destekler ve kurulum komutu Linux ortamında çalıştırılabilir:
 
 <CodePreview
   files={[
@@ -66,9 +72,9 @@ Kimi WebBridge, Windows işletim sistemini destekler ve kurulum komutu Linux ort
   ]}
 />
 
-### Kurulumdan sonra WebBridge bir Chrome uyumluluk uyarısı gösteriyor. Bu ne anlama geliyor?
+### Kurulumdan sonra Kimi Tarayıcı Uzantısı bir Chrome uyumluluk uyarısı gösteriyor. Bu ne anlama geliyor?
 
-WebBridge sayfaları normal şekilde açabiliyor ancak `snapshot`, `evaluate`, `screenshot` veya `click` gibi işlemler sürekli başarısız oluyorsa, daha yaygın neden **diğer tarayıcı uzantılarıyla bir çakışmadır**.
+Kimi Tarayıcı Uzantısı sayfaları normal şekilde açabiliyor ancak `snapshot`, `evaluate`, `screenshot` veya `click` gibi işlemler sürekli başarısız oluyorsa, daha yaygın neden **diğer tarayıcı uzantılarıyla bir çakışmadır**.
 
 Bu durum özellikle veri kazıma araçlarında, web sitesi yardımcı uzantılarında, ekran kaydı uzantılarında ve yapay zeka asistanı uzantılarında sık görülür.
 
@@ -76,12 +82,12 @@ Sorunu gidermek için aşağıdaki adımları öneririz:
 
 1. Tarayıcınızın uzantı yönetim sayfasını açın
 2. Diğer uzantıları geçici olarak devre dışı bırakın
-3. Yalnızca Kimi WebBridge'i etkin tutun
+3. Yalnızca Kimi Tarayıcı Uzantısı'nı etkin tutun
 4. Tarayıcıyı yeniden başlatıp tekrar deneyin
-5. WebBridge normal şekilde çalışıyorsa, çakışan uzantıyı belirlemek için diğer uzantıları tek tek yeniden etkinleştirin
+5. Kimi Tarayıcı Uzantısı normal şekilde çalışıyorsa, çakışan uzantıyı belirlemek için diğer uzantıları tek tek yeniden etkinleştirin
 
 
-### WebBridge oturum açma bilgilerimi sızdırır mı?
+### Kimi Tarayıcı Uzantısı oturum açma bilgilerimi sızdırır mı?
 
 Hayır. Tüm işlemler cihazınızda yerel olarak gerçekleşir; oturum açma durumları ve web sayfası içeriği makinenizden asla ayrılmaz. Agent yalnızca yetkilendirdiğiniz işlem sonuçlarına erişebilir.
 
@@ -97,7 +103,7 @@ Karmaşık sayfa yapıları veya dinamik yükleme işlemlerin başarısız olmas
 
 ### Hangi diğer Agent'lar destekleniyor?
 
-WebBridge; Claude Code, Codex, Cursor, Kimi Code, Hermes Claw ve daha fazlası dahil tüm Yerel Agent'ları destekler.
+Kimi Tarayıcı Uzantısı; Claude Code, Codex, Cursor, Kimi Code, Hermes Claw ve daha fazlası dahil tüm Yerel Agent'ları destekler.
 
 ### Yapılandırma farklı Agent'lar için aynı mı?
 

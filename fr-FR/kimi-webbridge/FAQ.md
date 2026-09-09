@@ -7,12 +7,18 @@ preview: false
 ---
 
 <SeoMeta
-  title="FAQ Kimi WebBridge - Centre d'aide Kimi"
-  description="Questions fréquentes sur l'installation, la connexion et l'utilisation de Kimi WebBridge avec plusieurs navigateurs et des Local Agents."
+  title="FAQ Extension de navigateur Kimi - Centre d'aide Kimi"
+  description="Questions fréquentes sur l'installation, la connexion et l'utilisation de l'Extension de navigateur Kimi avec plusieurs navigateurs et des Local Agents."
   ogType="article"
 />
 
 # FAQ
+
+## Version du produit
+
+### Quelle est la relation entre Kimi WebBridge et l'Extension de navigateur Kimi ?
+
+Kimi WebBridge a été renommé Extension de navigateur Kimi, avec de nouvelles fonctionnalités, notamment une entrée via la barre latérale du navigateur, l'enregistrement des actions web et la décomposition des pages web en instructions. La manière dont les Agents locaux appellent l'extension reste inchangée et peut continuer à être utilisée ; la nouvelle entrée via la barre latérale nécessite de se connecter avec un compte membre Kimi.
 
 ## Installation et configuration
 
@@ -36,7 +42,7 @@ Kimi Claw Desktop est un Kimi Claw déployé sur votre ordinateur local. Ouvrez 
 
 ### L'état de l'extension indique « Déconnecté » ?
 
-Vérifiez que l'extension de navigateur Kimi WebBridge est correctement installée, puis suivez les étapes correspondant à votre méthode de configuration :
+Vérifiez que l'Extension de navigateur Kimi est correctement installée, puis suivez les étapes correspondant à votre méthode de configuration :
 
 - **Kimi Desktop** : redémarrez Kimi Desktop et réessayez
 
@@ -52,9 +58,9 @@ Vérifiez que l'extension de navigateur Kimi WebBridge est correctement install�
   ]}
 />
 
-### Sous Windows, l'installation de WebBridge échoue avec l'erreur « Échec de l'installation »
+### Sous Windows, l'installation de l'Extension de navigateur Kimi échoue avec l'erreur « Échec de l'installation »
 
-Kimi WebBridge prend en charge le système d'exploitation Windows, et la commande d'installation peut s'exécuter dans un environnement Linux :
+L'Extension de navigateur Kimi prend en charge le système d'exploitation Windows, et la commande d'installation peut s'exécuter dans un environnement Linux :
 
 <CodePreview
   files={[
@@ -66,9 +72,9 @@ Kimi WebBridge prend en charge le système d'exploitation Windows, et la command
   ]}
 />
 
-### WebBridge affiche un avertissement de compatibilité Chrome après l'installation. Qu'est-ce que cela signifie ?
+### L'Extension de navigateur Kimi affiche un avertissement de compatibilité Chrome après l'installation. Qu'est-ce que cela signifie ?
 
-Si WebBridge ouvre les pages normalement, mais que des actions telles que `snapshot`, `evaluate`, `screenshot` ou `click` échouent systématiquement, la cause la plus fréquente est **un conflit avec d'autres extensions de navigateur**.
+Si l'Extension de navigateur Kimi ouvre les pages normalement, mais que des actions telles que `snapshot`, `evaluate`, `screenshot` ou `click` échouent systématiquement, la cause la plus fréquente est **un conflit avec d'autres extensions de navigateur**.
 
 C'est particulièrement courant avec les outils de scraping, les extensions d'assistance aux sites web, les extensions d'enregistrement d'écran et les extensions d'assistant IA.
 
@@ -76,12 +82,12 @@ Nous recommandons les étapes suivantes pour diagnostiquer le problème :
 
 1. Ouvrez la page de gestion des extensions de votre navigateur
 2. Désactivez temporairement les autres extensions
-3. Ne conservez que Kimi WebBridge activé
+3. Ne conservez que l'Extension de navigateur Kimi activée
 4. Redémarrez le navigateur et réessayez
-5. Si WebBridge fonctionne normalement, réactivez les autres extensions une par une pour identifier celle qui pose problème
+5. Si l'Extension de navigateur Kimi fonctionne normalement, réactivez les autres extensions une par une pour identifier celle qui pose problème
 
 
-### WebBridge risque-t-il de divulguer mes informations de connexion ?
+### L'Extension de navigateur Kimi risque-t-elle de divulguer mes informations de connexion ?
 
 Non. Toute l'exécution se déroule localement sur votre appareil : les états de connexion et le contenu des pages web ne quittent jamais votre machine. L'Agent ne peut accéder qu'aux résultats d'opération que vous autorisez.
 
@@ -97,7 +103,7 @@ Actuellement, Chrome et Edge sont pris en charge. Nous recommandons d'utiliser l
 
 ### Quels autres Agents sont pris en charge ?
 
-WebBridge prend en charge tous les Local Agents, notamment Claude Code, Codex, Cursor, Kimi Code, Hermes Claw, et bien d'autres.
+L'Extension de navigateur Kimi prend en charge tous les Local Agents, notamment Claude Code, Codex, Cursor, Kimi Code, Hermes Claw, et bien d'autres.
 
 ### La configuration est-elle la même pour les différents Agents ?
 

@@ -1,5 +1,5 @@
 ---
-title: "Demo Kasus Penggunaan Kimi WebBridge"
+title: "Demo Kasus Penggunaan Ekstensi Browser Kimi"
 slug: "kimi-webbridge-use-cases"
 order: 3
 extract_headings: true
@@ -7,41 +7,22 @@ preview: false
 ---
 
 <SeoMeta
-  title="Demo Kasus Penggunaan Kimi WebBridge - Pusat Bantuan Kimi"
-  description="Jelajahi berbagai kasus penggunaan umum Kimi WebBridge, termasuk contoh Skill dan CLI untuk perencanaan perjalanan, pencarian tempat sewa, riset literatur, dan lainnya."
+  title="Demo Kasus Penggunaan Ekstensi Browser Kimi - Pusat Bantuan Kimi"
+  description="Jelajahi kasus penggunaan umum Ekstensi Browser Kimi: perencanaan perjalanan, pencarian tempat sewa, riset literatur, perbandingan harga, dan lainnya, dengan contoh prompt yang siap disalin."
   ogType="article"
 />
 
-# Demo Kasus Penggunaan Kimi WebBridge
+# Demo Kasus Penggunaan Ekstensi Browser Kimi
 
-Kimi WebBridge memungkinkan Agen mengoperasikan browser seperti manusia sungguhan, memanfaatkan situs web tempat Anda sudah login untuk menavigasi, mengekstrak, dan menyusun informasi secara otomatis.
-
-<Callout type="tip">
-Saat menggunakan WebBridge, semakin spesifik deskripsi tugas Anda, semakin akurat Agen dapat menyelesaikannya. Sebaiknya tentukan situs web tujuan, filter, dan format keluaran yang diinginkan. Jika struktur halaman cukup kompleks, Anda juga dapat meminta Agen mengambil screenshot terlebih dahulu untuk memastikan kondisi halaman sebelum melanjutkan.
-</Callout>
-
-Dalam praktiknya, WebBridge sering digunakan bersama Skill dan CLI: Skill merekam pengalaman tugas—situs web mana yang perlu dikunjungi, langkah apa yang harus diikuti untuk mengumpulkan informasi, dan bagaimana hasil disusun; CLI menyediakan kemampuan konkret seperti mencari, membaca halaman, mengunduh file, dan mengueri data terstruktur.
-
-Beri tahu Agen AI, dalam satu kalimat, apa yang berulang kali Anda lakukan di web. Agen dapat membuat CLI untuk Anda yang langsung memakai sesi login Chrome asli Anda—tanpa API, dan tanpa perlu mengonfigurasi atau mengelola token API.
-
-Skills dan CLI yang digunakan dalam skenario di bawah dibuat dengan cara ini. Anda dapat langsung menginstal dan menggunakannya, atau menjadikannya contoh referensi.
-
-<Callout type="warning">
-Skills dan CLI yang disediakan di halaman ini hanya untuk pembelajaran dan pertukaran teknis. Jika Anda memiliki pertanyaan atau kekhawatiran, hubungi <a href="mailto:support@moonshot.ai">support@moonshot.ai</a>.
-</Callout>
+Semua tugas di bawah ini dapat langsung diserahkan kepada Kimi: mengobrol di sidebar, atau biarkan Agent lokal menjalankannya.
 
 ## Pencarian dan Pengorganisasian Informasi
 
-Saat Anda perlu mencari di beberapa situs web sekaligus, WebBridge dapat membuat Agen otomatis membuka halaman target, mengekstrak konten utama, lalu menyusunnya menjadi keluaran terstruktur, sehingga Anda tidak perlu repot membuka halaman satu per satu serta menyalin dan menempel secara manual.
+Saat Anda perlu mencari di beberapa situs web sekaligus, Ekstensi Browser Kimi dapat membuat Agen otomatis membuka halaman target, mengekstrak konten utama, lalu menyusunnya menjadi keluaran terstruktur, sehingga Anda tidak perlu repot membuka halaman satu per satu serta menyalin dan menempel secara manual.
 
 ### Perencanaan Perjalanan
 
 Berpindah di antara platform penerbangan, situs pemesanan hotel, dan komunitas perjalanan untuk membandingkan harga dan jadwal, lalu menyusun rencana perjalanan, tabel anggaran, dan rekomendasi akomodasi.
-
-Alat terkait:
-
-- Skill: [travel-planning](https://github.com/better-world-ai/x-cli/tree/main/skills/travel-planning)
-- CLI: [ctrip-cli](https://github.com/better-world-ai/x-cli/tree/main/ctrip-cli), [booking-cli](https://github.com/better-world-ai/x-cli/tree/main/booking-cli)
 
 <CodePreview
   files={[
@@ -53,20 +34,9 @@ Alat terkait:
   ]}
 />
 
-Instalasi dan penggunaan:
-
-1. Unduh ctrip-cli dan booking-cli dari [Releases](https://github.com/better-world-ai/x-cli/releases)
-2. Jalankan `npx skills add better-world-ai/x-cli --skill travel-planning`
-3. Buka Agen lokal, seperti klien yang kompatibel dengan Skill seperti Kimi Code, Claude Code, Codex CLI, atau Cursor, lalu kirim prompt di atas
-
 ### Penyaringan Iklan Sewa
 
 Cari di beberapa platform sewa sekaligus, filter iklan berdasarkan biaya sewa, waktu komuter, tipe unit, dan kriteria lain, gabungkan informasinya, lalu urutkan rekomendasi.
-
-Alat terkait:
-
-- Skill: [rental-assistant](https://github.com/better-world-ai/x-cli/tree/main/skills/rental-assistant)
-- CLI: [58-cli](https://github.com/better-world-ai/x-cli/tree/main/58-cli), [anjuke-cli](https://github.com/better-world-ai/x-cli/tree/main/anjuke-cli), [apartments-cli](https://github.com/better-world-ai/x-cli/tree/main/apartments-cli), [rightmove-cli](https://github.com/better-world-ai/x-cli/tree/main/rightmove-cli), [idealista-cli](https://github.com/better-world-ai/x-cli/tree/main/idealista-cli)
 
 <CodePreview
   files={[
@@ -78,24 +48,13 @@ Alat terkait:
   ]}
 />
 
-Instalasi dan penggunaan:
-
-1. Unduh 58-cli, anjuke-cli, apartments-cli, rightmove-cli, dan idealista-cli dari [Releases](https://github.com/better-world-ai/x-cli/releases)
-2. Jalankan `npx skills add better-world-ai/x-cli --skill rental-assistant`
-3. Buka Agen lokal, seperti klien yang kompatibel dengan Skill seperti Kimi Code, Claude Code, Codex CLI, atau Cursor, lalu kirim prompt di atas
-
 ## Riset dan Analisis Konten
 
-WebBridge dapat membantu Agen otomatis menelusuri hasil pencarian, membuka halaman detail, mengekstrak judul, data, komentar, dan informasi lain, lalu menganalisis serta merangkumnya. Ini sangat cocok untuk tugas riset yang perlu menelusuri banyak halaman web.
+Ekstensi Browser Kimi dapat membantu Agen otomatis menelusuri hasil pencarian, membuka halaman detail, mengekstrak judul, data, komentar, dan informasi lain, lalu menganalisis serta merangkumnya. Ini sangat cocok untuk tugas riset yang perlu menelusuri banyak halaman web.
 
 ### Riset Literatur
 
 Cari literatur akademik, ekstrak abstrak paper, metode inti, kesimpulan eksperimen, dan relasi sitasi, lalu keluarkan ulasan terstruktur.
-
-Alat terkait:
-
-- Skill: [paper-research](https://github.com/better-world-ai/x-cli/tree/main/skills/paper-research)
-- CLI: [scholar-cli](https://github.com/better-world-ai/x-cli/tree/main/scholar-cli)
 
 <CodePreview
   files={[
@@ -107,21 +66,9 @@ Alat terkait:
   ]}
 />
 
-Instalasi dan penggunaan:
-
-1. Unduh scholar-cli dari [Releases](https://github.com/better-world-ai/x-cli/releases)
-2. Jalankan `npx skills add better-world-ai/x-cli --skill paper-research`
-3. Buka Agen lokal, seperti klien yang kompatibel dengan Skill seperti Kimi Code, Claude Code, Codex CLI, atau Cursor, lalu kirim prompt di atas
-
 ### Pencarian Topik Mendalam
 
-Saat ingin memahami topik yang belum familier, cara lama adalah membuka mesin pencari, mengeklik setiap hasil dan membacanya sampai tuntas, menyalin poin-poin penting, lalu menyusunnya menjadi catatan—setengah hari pun habis.
-
-Biarkan AI menjalankan proses ini untuk Anda: AI mencari secara otomatis, mengikuti hasil untuk mengambil teks lengkap, lalu dapat menyintesis ringkasan untuk Anda atau menyimpan teks asli agar Anda baca sendiri. Untuk topik riset, memantau perkembangan baru di suatu bidang, atau mengumpulkan bahan tulisan, gunakan ini terlebih dahulu agar semua informasi terkumpul di satu tempat.
-
-Alat terkait:
-
-- CLI: [google-cli](https://github.com/better-world-ai/x-cli/tree/main/google-cli), [baidu-cli](https://github.com/better-world-ai/x-cli/tree/main/baidu-cli)
+Ingin memahami topik yang belum familier? Biarkan Kimi mencari secara otomatis, membaca hasilnya satu per satu, dan merangkum semuanya menjadi sebuah ringkasan.
 
 <CodePreview
   files={[
@@ -133,14 +80,9 @@ Alat terkait:
   ]}
 />
 
-Instalasi dan penggunaan:
-
-1. Unduh google-cli atau baidu-cli dari [Releases](https://github.com/better-world-ai/x-cli/releases)
-2. Buka Agen lokal, seperti klien yang kompatibel dengan Skill seperti Kimi Code, Claude Code, Codex CLI, atau Cursor, lalu kirim prompt di atas
-
 ## Bantuan Kantor Sehari-hari
 
-Gunakan kemampuan otomasi WebBridge untuk menangani operasi web berulang dan meningkatkan efisiensi kerja.
+Gunakan kemampuan otomasi Ekstensi Browser Kimi untuk menangani operasi web berulang dan meningkatkan efisiensi kerja.
 
 ### Perbandingan Harga E-commerce
 
@@ -170,4 +112,29 @@ Ekstrak data terstruktur seperti tabel dan daftar dari halaman web, lalu susun o
   ]}
 />
 
-Untuk kasus penggunaan lainnya, lihat [situs web resmi Kimi WebBridge](https://www.kimi.com/zh-cn/features/webbridge).
+## Ubah alur kerja berulang menjadi Skill
+
+Saat alur kerja yang sama perlu dijalankan berulang kali, Anda tidak perlu mengetik ulang instruksinya setiap kali. Kimi dapat mempelajari prosesnya dan menyimpannya sebagai Skill—setelah itu, cukup ketik `/` untuk memanggilnya kapan saja.
+
+### Rekam aksi menjadi Skill
+
+Cocok untuk rutinitas web dengan langkah-langkah tetap, seperti membuka dasbor untuk mengekspor data setiap hari atau mengisi formulir yang sama.
+
+1. Ketik `/` di sidebar dan pilih "Rekam aksi menjadi Skill"
+2. Lakukan langkah-langkahnya sekali seperti biasa—Kimi merekam setiap aksi
+3. Klik "Berhenti & hasilkan", dan Kimi akan merangkum proses tersebut menjadi Skill
+4. Periksa nama, langkah, dan parameter Skill, lalu simpan (informasi sensitif seperti kata sandi dapat ditandai sebagai parameter rahasia dan diisi saat dijalankan ulang)
+
+Nantinya, ketik `/` dan pilih Skill tersebut agar Kimi mengulanginya untuk Anda. Anda dapat mengedit langkah dan konten Skill kapan saja.
+
+### Ubah situs menjadi Skill
+
+Cocok untuk situs web yang sering Anda gunakan, seperti dasbor data rutin atau sistem internal.
+
+Ketik `/` di sidebar dan pilih "Ubah situs menjadi Skill". Kimi secara otomatis menganalisis struktur dan cara kerja situs tersebut, mengemasnya menjadi Skill siap pakai, dan setelah disimpan Anda dapat memanggilnya kapan saja dengan `/`.
+
+### Simpan sesi ini sebagai Skill
+
+Jika Kimi sudah menyelesaikan proses yang bagus dalam percakapan saat ini, Anda dapat langsung menyimpannya untuk digunakan kembali: ketik `/` dan pilih "Simpan sesi ini sebagai Skill".
+
+Untuk kasus penggunaan lainnya, lihat [situs web resmi Ekstensi Browser Kimi](https://www.kimi.com/zh-cn/features/webbridge).

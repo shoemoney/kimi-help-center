@@ -7,12 +7,18 @@ preview: false
 ---
 
 <SeoMeta
-  title="Perguntas frequentes do Kimi WebBridge - Central de Ajuda Kimi"
-  description="Perguntas frequentes sobre instalação, conexão e uso do Kimi WebBridge com vários navegadores e Local Agents."
+  title="Perguntas frequentes da Extensão de navegador Kimi - Central de Ajuda Kimi"
+  description="Perguntas frequentes sobre instalação, conexão e uso da Extensão de navegador Kimi com vários navegadores e Local Agents."
   ogType="article"
 />
 
 # Perguntas frequentes
+
+## Versão do produto
+
+### Qual é a relação entre o Kimi WebBridge e a Extensão de navegador Kimi?
+
+O Kimi WebBridge foi renomeado para Extensão de navegador Kimi e ganhou novos recursos, incluindo a entrada pela barra lateral do navegador, a gravação de operações web e a decomposição de páginas da web em instruções. A forma como os Local Agents chamam a extensão permanece inalterada e pode continuar sendo usada; a nova entrada pela barra lateral exige login com uma conta de assinante do Kimi.
 
 ## Instalação e configuração
 
@@ -36,7 +42,7 @@ O Kimi Claw Desktop é um Kimi Claw implantado no seu computador local. Abra o K
 
 ### O status da extensão mostra "Desconectado"?
 
-Confirme se a extensão de navegador Kimi WebBridge foi instalada com sucesso e, em seguida, siga os passos correspondentes ao seu método de configuração:
+Confirme se a Extensão de navegador Kimi foi instalada com sucesso e, em seguida, siga os passos correspondentes ao seu método de configuração:
 
 - **Kimi Desktop**: reinicie o Kimi Desktop e tente novamente
 
@@ -52,9 +58,9 @@ Confirme se a extensão de navegador Kimi WebBridge foi instalada com sucesso e,
   ]}
 />
 
-### No Windows, ao instalar o WebBridge, ocorre o erro: Falha na instalação
+### No Windows, ao instalar a Extensão de navegador Kimi, ocorre o erro: Falha na instalação
 
-O Kimi WebBridge é compatível com o sistema operacional Windows, e o comando de instalação pode ser executado em um ambiente Linux:
+A Extensão de navegador Kimi é compatível com o sistema operacional Windows, e o comando de instalação pode ser executado em um ambiente Linux:
 
 <CodePreview
   files={[
@@ -66,9 +72,9 @@ O Kimi WebBridge é compatível com o sistema operacional Windows, e o comando d
   ]}
 />
 
-### O WebBridge exibe um aviso de compatibilidade com o Chrome após a instalação. O que isso significa?
+### A Extensão de navegador Kimi exibe um aviso de compatibilidade com o Chrome após a instalação. O que isso significa?
 
-Se o WebBridge consegue abrir páginas normalmente, mas ações como `snapshot`, `evaluate`, `screenshot` ou `click` continuam falhando, a causa mais comum é **um conflito com outras extensões do navegador**.
+Se a Extensão de navegador Kimi consegue abrir páginas normalmente, mas ações como `snapshot`, `evaluate`, `screenshot` ou `click` continuam falhando, a causa mais comum é **um conflito com outras extensões do navegador**.
 
 Isso é especialmente comum com ferramentas de scraping, extensões auxiliares de sites, extensões de gravação de tela e extensões de assistentes de IA.
 
@@ -76,12 +82,12 @@ Recomendamos os seguintes passos para investigar:
 
 1. Abra a página de gerenciamento de extensões do seu navegador
 2. Desative temporariamente as outras extensões
-3. Mantenha apenas o Kimi WebBridge ativado
+3. Mantenha apenas a Extensão de navegador Kimi ativada
 4. Reinicie o navegador e tente novamente
-5. Se o WebBridge funcionar normalmente, reative as outras extensões uma a uma para identificar a extensão em conflito
+5. Se a Extensão de navegador Kimi funcionar normalmente, reative as outras extensões uma a uma para identificar a extensão em conflito
 
 
-### O WebBridge vai vazar minhas informações de login?
+### A Extensão de navegador Kimi vai vazar minhas informações de login?
 
 Não. Toda a execução acontece localmente no seu dispositivo — estados de login e conteúdo das páginas nunca saem da sua máquina. O Agent só pode acessar os resultados das operações que você autorizar.
 
@@ -97,7 +103,7 @@ Atualmente, são compatíveis o Chrome e o Edge. Recomendamos usar a versão mai
 
 ### Quais outros Agents são compatíveis?
 
-O WebBridge é compatível com todos os Local Agents, incluindo Claude Code, Codex, Cursor, Kimi Code, Hermes Claw e muitos outros.
+A Extensão de navegador Kimi é compatível com todos os Local Agents, incluindo Claude Code, Codex, Cursor, Kimi Code, Hermes Claw e muitos outros.
 
 ### A configuração é a mesma para diferentes Agents?
 

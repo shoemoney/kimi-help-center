@@ -1,8 +1,8 @@
 {
-  "title": "Kimi WebBridge",
+  "title": "Extensión de navegador Kimi",
   "description": "Una extensión de navegador para agentes de IA",
   "seo": {
-    "title": "Kimi WebBridge",
+    "title": "Extensión de navegador Kimi",
     "description": "Una extensión de navegador para agentes de IA"
   },
   "icon": "kimi-webbridge",

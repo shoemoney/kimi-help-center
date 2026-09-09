@@ -1,5 +1,5 @@
 ---
-title: "How Kimi WebBridge Works"
+title: "How Kimi Browser Extension Works"
 slug: "kimi-webbridge-how-it-works"
 order: 2
 extract_headings: true
@@ -7,20 +7,21 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi WebBridge Product Introduction - Kimi Help Center"
-  description="Kimi WebBridge is a browser extension designed for AI Agent, supporting Chrome and Edge so Agent can interact with web pages like a real person."
+  title="Kimi Browser Extension Product Introduction - Kimi Help Center"
+  description="Kimi Browser Extension is a browser extension designed for AI Agent, supporting Chrome and Edge so Agent can interact with web pages like a real person."
   ogType="article"
 />
 
-# How Kimi WebBridge Works
+# How Kimi Browser Extension Works
 
 ## How It Works
 
-Kimi WebBridge works in the following way:
+Kimi Browser Extension supports two ways of use — **sidebar chat** and **remote control by a local Agent** — and works as follows:
 
-1. **Local bridge service**: Runs a local service on your computer to receive instructions from Agent
-2. **Browser extension**: Performs specific actions in the browser based on Chrome DevTools Protocol
-3. **Security isolation**: All execution happens locally, so your login sessions and web page content never leave your device
+1. **Browser Sidebar**: Click the Kimi icon in the toolbar to open the sidebar, then sign in with a Kimi membership account to chat directly
+2. **Local Bridge Service**: A local service runs on your computer to receive instructions from the Agent
+3. **Browser Extension**: Executes specific actions in the browser based on the Chrome DevTools Protocol
+4. **Security Isolation**: All execution happens locally—login states and web page content never leave your device
 
 <Frames
   src="./images/工作原理.png"
@@ -29,11 +30,7 @@ Kimi WebBridge works in the following way:
 
 ## Extension Interface
 
-Click the WebBridge icon in the browser toolbar to view the current connection status:
-
-**Connected**: WebBridge is working properly and can collaborate with Agent
-
-**Not connected**: Check your configuration or rerun the connection command
+Click the Kimi Browser Extension icon in the browser toolbar to expand the sidebar and send a task.
 
 <Frames
   src="./images/插件状态.png"
@@ -56,4 +53,4 @@ Click the WebBridge icon in the browser toolbar to view the current connection s
 - Form filling: Automatically complete various online forms
 - Data entry: Automatically organize web data and enter it in a specified format
 
-For more examples, see the [Kimi WebBridge official website](https://www.kimi.com/zh-cn/features/webbridge).
+For more examples, see the [Kimi Browser Extension official website](https://www.kimi.com/zh-cn/features/webbridge).

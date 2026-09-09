@@ -1,5 +1,5 @@
 ---
-title: "Kimi WebBridge 사용 사례 데모"
+title: "Kimi 브라우저 확장 프로그램 사용 사례 데모"
 slug: "kimi-webbridge-use-cases"
 order: 3
 extract_headings: true
@@ -7,41 +7,22 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi WebBridge 사용 사례 데모 - Kimi Help Center"
-  description="여행 계획, 임대 매물 검색, 문헌 조사 등 Kimi WebBridge의 대표적인 사용 사례를 Skill 및 CLI 예시와 함께 살펴보세요."
+  title="Kimi 브라우저 확장 프로그램 사용 사례 데모 - Kimi Help Center"
+  description="여행 계획, 임대 매물 검색, 문헌 조사, 가격 비교 등 Kimi 브라우저 확장 프로그램의 대표적인 사용 사례를 바로 복사해 사용할 수 있는 프롬프트 예시와 함께 확인해 보세요."
   ogType="article"
 />
 
-# Kimi WebBridge 사용 사례 데모
+# Kimi 브라우저 확장 프로그램 사용 사례 데모
 
-Kimi WebBridge를 사용하면 에이전트가 실제 사람처럼 브라우저를 조작해, 이미 로그인된 웹사이트에서 자동으로 탐색하고 정보를 추출·정리할 수 있습니다.
-
-<Callout type="tip">
-WebBridge를 사용할 때는 작업 설명이 구체적일수록 에이전트가 더 정확하게 작업을 완료할 수 있습니다. 대상 웹사이트, 필터 조건, 원하는 출력 형식을 명시하는 것이 좋습니다. 페이지 구조가 복잡하다면 먼저 에이전트에게 스크린샷을 찍어 페이지 상태를 확인한 뒤 진행하도록 요청할 수도 있습니다.
-</Callout>
-
-실무에서는 WebBridge를 Skill 및 CLI와 함께 사용하는 경우가 많습니다. Skill은 어떤 웹사이트를 방문할지, 어떤 단계로 정보를 수집할지, 결과를 어떻게 정리할지 같은 작업 경험을 담고, CLI는 검색, 페이지 읽기, 파일 다운로드, 구조화된 데이터 조회 같은 구체적인 기능을 제공합니다.
-
-웹에서 반복적으로 하는 일을 AI 에이전트에게 한 문장으로 알려 주세요. 그러면 실제 Chrome 로그인 세션을 직접 사용하는 CLI를 생성할 수 있습니다. API도 필요 없고, API Token을 설정하거나 관리할 필요도 없습니다.
-
-아래 시나리오에서 사용한 Skills와 CLIs는 모두 이런 방식으로 만들었습니다. 그대로 설치해 사용해도 되고, 참고 예시로 활용해도 됩니다.
-
-<Callout type="warning">
-이 페이지에서 제공하는 Skills와 CLIs는 교육 및 기술 교류용으로만 제공됩니다. 문의 사항이 있으면 <a href="mailto:support@moonshot.ai">support@moonshot.ai</a>으로 연락해 주세요.
-</Callout>
+아래 작업들은 모두 Kimi에게 바로 맡길 수 있습니다. 사이드바에서 대화하거나, 로컬 에이전트가 실행하도록 하세요.
 
 ## 정보 검색 및 정리
 
-여러 웹사이트를 동시에 검색해야 할 때 WebBridge를 사용하면 에이전트가 대상 페이지를 자동으로 열고 핵심 내용을 추출한 뒤 구조화된 결과로 정리할 수 있습니다. 페이지를 하나씩 열어 수동으로 복사하고 붙여 넣는 번거로운 작업을 줄여 줍니다.
+여러 웹사이트를 동시에 검색해야 할 때 Kimi 브라우저 확장 프로그램을 사용하면 에이전트가 대상 페이지를 자동으로 열고 핵심 내용을 추출한 뒤 구조화된 결과로 정리할 수 있습니다. 페이지를 하나씩 열어 수동으로 복사하고 붙여 넣는 번거로운 작업을 줄여 줍니다.
 
 ### 여행 계획
 
 항공권 플랫폼, 호텔 예약 사이트, 여행 커뮤니티를 오가며 가격과 일정을 비교한 뒤 여행 일정표, 예산 표, 숙소 추천을 정리합니다.
-
-관련 도구:
-
-- Skill: [travel-planning](https://github.com/better-world-ai/x-cli/tree/main/skills/travel-planning)
-- CLI: [ctrip-cli](https://github.com/better-world-ai/x-cli/tree/main/ctrip-cli), [booking-cli](https://github.com/better-world-ai/x-cli/tree/main/booking-cli)
 
 <CodePreview
   files={[
@@ -53,20 +34,9 @@ WebBridge를 사용할 때는 작업 설명이 구체적일수록 에이전트�
   ]}
 />
 
-설치 및 사용 방법:
-
-1. [릴리스](https://github.com/better-world-ai/x-cli/releases)에서 ctrip-cli와 booking-cli를 다운로드합니다
-2. `npx skills add better-world-ai/x-cli --skill travel-planning`을 실행합니다
-3. Kimi Code, Claude Code, Codex CLI, Cursor처럼 Skill과 호환되는 클라이언트 등 로컬 에이전트를 열고 위 프롬프트를 보냅니다
-
 ### 임대 매물 선별
 
 여러 임대 플랫폼을 동시에 검색하고, 월세, 통근 시간, 주거 형태 등 조건으로 매물을 필터링한 뒤 정보를 통합해 추천 우선순위를 매깁니다.
-
-관련 도구:
-
-- Skill: [rental-assistant](https://github.com/better-world-ai/x-cli/tree/main/skills/rental-assistant)
-- CLI: [58-cli](https://github.com/better-world-ai/x-cli/tree/main/58-cli), [anjuke-cli](https://github.com/better-world-ai/x-cli/tree/main/anjuke-cli), [apartments-cli](https://github.com/better-world-ai/x-cli/tree/main/apartments-cli), [rightmove-cli](https://github.com/better-world-ai/x-cli/tree/main/rightmove-cli), [idealista-cli](https://github.com/better-world-ai/x-cli/tree/main/idealista-cli)
 
 <CodePreview
   files={[
@@ -78,24 +48,13 @@ WebBridge를 사용할 때는 작업 설명이 구체적일수록 에이전트�
   ]}
 />
 
-설치 및 사용 방법:
-
-1. [릴리스](https://github.com/better-world-ai/x-cli/releases)에서 58-cli, anjuke-cli, apartments-cli, rightmove-cli, idealista-cli를 다운로드합니다
-2. `npx skills add better-world-ai/x-cli --skill rental-assistant`를 실행합니다
-3. Kimi Code, Claude Code, Codex CLI, Cursor처럼 Skill과 호환되는 클라이언트 등 로컬 에이전트를 열고 위 프롬프트를 보냅니다
-
 ## 콘텐츠 조사 및 분석
 
-WebBridge는 에이전트가 검색 결과를 자동으로 탐색하고, 상세 페이지를 열어 제목, 데이터, 댓글 등 정보를 추출한 뒤 분석·요약하도록 도와줍니다. 많은 웹페이지를 훑어야 하는 조사 작업에 특히 적합합니다.
+Kimi 브라우저 확장 프로그램은 에이전트가 검색 결과를 자동으로 탐색하고, 상세 페이지를 열어 제목, 데이터, 댓글 등 정보를 추출한 뒤 분석·요약하도록 도와줍니다. 많은 웹페이지를 훑어야 하는 조사 작업에 특히 적합합니다.
 
 ### 문헌 조사
 
 학술 문헌을 검색하고 논문 초록, 핵심 방법론, 실험 결론, 인용 관계를 추출해 구조화된 리뷰를 출력합니다.
-
-관련 도구:
-
-- Skill: [paper-research](https://github.com/better-world-ai/x-cli/tree/main/skills/paper-research)
-- CLI: [scholar-cli](https://github.com/better-world-ai/x-cli/tree/main/scholar-cli)
 
 <CodePreview
   files={[
@@ -107,21 +66,9 @@ WebBridge는 에이전트가 검색 결과를 자동으로 탐색하고, 상세 
   ]}
 />
 
-설치 및 사용 방법:
-
-1. [릴리스](https://github.com/better-world-ai/x-cli/releases)에서 scholar-cli를 다운로드합니다
-2. `npx skills add better-world-ai/x-cli --skill paper-research`를 실행합니다
-3. Kimi Code, Claude Code, Codex CLI, Cursor처럼 Skill과 호환되는 클라이언트 등 로컬 에이전트를 열고 위 프롬프트를 보냅니다
-
 ### 심층 주제 검색
 
-낯선 주제를 이해하려면 예전에는 검색 엔진을 열고, 결과를 하나씩 클릭해 끝까지 읽고, 핵심 내용을 복사한 뒤 노트로 정리해야 했습니다. 그렇게 하다 보면 반나절이 훌쩍 지나갑니다.
-
-이 과정을 AI에게 맡겨 보세요. AI가 자동으로 검색하고, 결과를 따라가며 전문을 가져온 뒤, 요약본을 만들어 주거나 원문을 그대로 남겨 읽을 수 있게 해 줍니다. 연구 주제를 조사하거나, 특정 분야의 최신 동향을 추적하거나, 글쓰기 자료를 모을 때 먼저 사용해 정보를 한곳에 모아 보세요.
-
-관련 도구:
-
-- CLI: [google-cli](https://github.com/better-world-ai/x-cli/tree/main/google-cli), [baidu-cli](https://github.com/better-world-ai/x-cli/tree/main/baidu-cli)
+낯선 주제를 알고 싶으신가요? Kimi가 자동으로 검색하고, 결과를 하나씩 읽은 뒤, 모든 내용을 모아 요약본으로 정리해 드립니다.
 
 <CodePreview
   files={[
@@ -133,14 +80,9 @@ WebBridge는 에이전트가 검색 결과를 자동으로 탐색하고, 상세 
   ]}
 />
 
-설치 및 사용 방법:
-
-1. [릴리스](https://github.com/better-world-ai/x-cli/releases)에서 google-cli 또는 baidu-cli를 다운로드합니다
-2. Kimi Code, Claude Code, Codex CLI, Cursor처럼 Skill과 호환되는 클라이언트 등 로컬 에이전트를 열고 위 프롬프트를 보냅니다
-
 ## 일상 업무 지원
 
-WebBridge의 자동화 기능으로 반복적인 웹 작업을 처리하고 업무 효율을 높일 수 있습니다.
+Kimi 브라우저 확장 프로그램의 자동화 기능으로 반복적인 웹 작업을 처리하고 업무 효율을 높일 수 있습니다.
 
 ### 이커머스 가격 비교
 
@@ -170,4 +112,29 @@ WebBridge의 자동화 기능으로 반복적인 웹 작업을 처리하고 업�
   ]}
 />
 
-더 많은 사용 사례는 [Kimi WebBridge 공식 웹사이트](https://www.kimi.com/zh-cn/features/webbridge)에서 확인하세요.
+## 반복되는 작업 흐름을 Skill로 만들기
+
+같은 작업 흐름을 반복해서 실행해야 할 때는 매번 지시를 다시 입력할 필요가 없습니다. Kimi가 작업 과정을 학습해 Skill로 저장해 두면, 이후에는 `/`를 입력하는 것만으로 언제든 호출할 수 있습니다.
+
+### 작업을 녹화해 Skill로 만들기
+
+매일 대시보드를 열어 데이터를 내보내거나 같은 양식을 작성하는 것처럼, 정해진 단계가 있는 웹 작업에 적합합니다.
+
+1. 사이드바에서 `/`를 입력하고 "작업을 녹화해 Skill로 만들기"를 선택합니다
+2. 평소처럼 한 번 직접 조작하면 Kimi가 모든 단계를 기록합니다
+3. "중지하고 생성"을 클릭하면 Kimi가 이번 실행 과정을 Skill로 정리합니다
+4. Skill의 이름, 단계, 매개변수를 확인한 뒤 저장합니다(비밀번호 같은 민감한 정보는 비밀 매개변수로 설정하고 재생할 때 입력할 수 있습니다)
+
+이후 `/`를 입력하고 해당 Skill을 선택하면 Kimi가 같은 작업을 그대로 수행합니다. Skill의 단계와 내용은 언제든 수정할 수 있습니다.
+
+### 웹페이지를 Skill로 만들기
+
+고정된 데이터 대시보드나 내부 시스템처럼 자주 사용하는 웹사이트에 적합합니다.
+
+사이드바에서 `/`를 입력하고 "웹페이지를 Skill로 만들기"를 선택하세요. Kimi가 해당 사이트의 구조와 사용법을 자동으로 분석해 바로 호출할 수 있는 Skill로 만들어 주며, 저장한 후에는 `/`로 언제든 사용할 수 있습니다.
+
+### 세션을 Skill로 저장하기
+
+Kimi가 이번 대화에서 이미 만족스러운 작업 흐름을 완료했다면, 그대로 저장해 재사용할 수도 있습니다. `/`를 입력하고 "세션을 Skill로 저장하기"를 선택하세요.
+
+더 많은 사용 사례는 [Kimi 브라우저 확장 프로그램 공식 웹사이트](https://www.kimi.com/zh-cn/features/webbridge)에서 확인하세요.

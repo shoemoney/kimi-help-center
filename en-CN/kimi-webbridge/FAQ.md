@@ -7,12 +7,18 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi WebBridge Product Introduction - Kimi Help Center"
-  description="Kimi WebBridge is a browser extension built for AI Agents. It supports Chrome and Edge, enabling Agents to interact with web pages like a real person."
+  title="Kimi Browser Extension Product Introduction - Kimi Help Center"
+  description="Kimi Browser Extension is a browser extension built for AI Agents. It supports Chrome and Edge, enabling Agents to interact with web pages like a real person."
   ogType="article"
 />
 
 # FAQ
+
+## Product version
+
+### What's the relationship between Kimi WebBridge and Kimi Browser Extension?
+
+Kimi WebBridge has been renamed to Kimi Browser Extension, with new features including a browser sidebar entry, web action recording, and breaking down web pages into instructions. The way local Agents call the extension remains unchanged and can continue to be used; the new sidebar entry requires signing in with a Kimi membership account.
 
 ## Installation and Setup
 
@@ -26,7 +32,7 @@ Check whether your network connection is working properly. If the issue persists
 
 ### Can I use it on multiple computers?
 
-Yes. WebBridge needs to be installed and configured separately on each computer.
+Yes. Kimi Browser Extension needs to be installed and configured separately on each computer.
 
 ### Can’t find Kimi Claw Desktop?
 
@@ -36,7 +42,7 @@ Kimi Claw Desktop is Kimi Claw deployed on your local computer. Open Kimi Deskto
 
 ### The extension status shows not connected?
 
-Please confirm that the Kimi WebBridge browser extension has been installed successfully, then follow the steps for your setup:
+Please confirm that the Kimi Browser Extension has been installed successfully, then follow the steps for your setup:
 
 - **Kimi Desktop**: Restart Kimi Desktop and try again
 - **Other Local Agents**: Send the following command again in your Agent, then restart the Agent after running it:
@@ -51,8 +57,8 @@ Please confirm that the Kimi WebBridge browser extension has been installed succ
   ]}
 />
 
-### Installing WebBridge on Windows reports: installation failed
-Kimi WebBridge supports Windows. You can run the installation command in a Linux environment:
+### Installing Kimi Browser Extension on Windows reports: installation failed
+Kimi Browser Extension supports Windows. You can run the installation command in a Linux environment:
 
 <CodePreview
   files={[
@@ -66,19 +72,19 @@ Kimi WebBridge supports Windows. You can run the installation command in a Linux
 
 ### I’ve completed the installation steps, but it says it’s incompatible with Chrome when I use it. What’s going on?
 
-If WebBridge can open web pages normally, but operations such as `snapshot`, `evaluate`, `screenshot`, and `click` keep failing, the more common cause is **a conflict with other browser extensions**.
+If Kimi Browser Extension can open web pages normally, but operations such as `snapshot`, `evaluate`, `screenshot`, and `click` keep failing, the more common cause is **a conflict with other browser extensions**.
 
-Crawler, website assistant, screen recording, and AI assistant extensions are especially likely to affect WebBridge.
+Crawler, website assistant, screen recording, and AI assistant extensions are especially likely to affect Kimi Browser Extension.
 
 Try the following troubleshooting steps:
 
 1. Open your browser’s extensions management page
 2. Temporarily disable other extensions
-3. Keep only Kimi WebBridge enabled
+3. Keep only Kimi Browser Extension enabled
 4. Restart the browser and try again
 5. If everything works again, re-enable the other extensions one by one to identify the conflicting extension
 
-### Will WebBridge leak my login information?
+### Will Kimi Browser Extension leak my login information?
 
 No. Everything runs locally on your device. Your login state and web page content do not leave your device. The Agent can only access the operation results you authorize.
 
@@ -94,7 +100,7 @@ Chrome and Edge are currently supported. We recommend using the latest version f
 
 ### Besides Kimi, which Agents are supported?
 
-WebBridge supports all Local Agents, including Claude Code, Codex, Cursor, Kimi Code, Hermes Claw, and more.
+Kimi Browser Extension supports all Local Agents, including Claude Code, Codex, Cursor, Kimi Code, Hermes Claw, and more.
 
 ### Is the setup the same for different Agents?
 
@@ -110,13 +116,13 @@ The more complete your feedback, the faster we can locate and resolve the issue.
 
 <Frames
   src="./images/FAQ/用户群.png"
-  alt="Kimi WebBridge user group"
+  alt="Kimi Browser Extension user group"
 />
 
 When sending feedback, please include:
 
 - **Browser version**: for example, Chrome 124.0.6367.82
-- **WebBridge extension version**: available on the browser extensions management page
+- **Kimi Browser Extension version**: available on the browser extensions management page
 - **The AI Agent you use**: for example, Kimi Desktop, Claude Code, Cursor, etc.
 - **Issue description and screenshots**: please describe the steps to reproduce the issue as clearly as possible
 - **Relevant logs (if any)**: available in the extension UI or the browser console

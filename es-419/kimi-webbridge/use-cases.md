@@ -1,5 +1,5 @@
 ---
-title: "Demo de casos de uso de Kimi WebBridge"
+title: "Demo de casos de uso de la Extensión de navegador Kimi"
 slug: "kimi-webbridge-use-cases"
 order: 3
 extract_headings: true
@@ -7,41 +7,22 @@ preview: false
 ---
 
 <SeoMeta
-  title="Demo de casos de uso de Kimi WebBridge - Centro de ayuda de Kimi"
-  description="Explora casos de uso típicos de Kimi WebBridge, incluidos ejemplos de Skill y CLI para planificar viajes, buscar rentas, investigar literatura académica y más."
+  title="Demo de casos de uso de la Extensión de navegador Kimi - Centro de ayuda de Kimi"
+  description="Explora casos de uso típicos de la Extensión de navegador Kimi: planificación de viajes, búsqueda de rentas, investigación de literatura académica, comparación de precios y más, con ejemplos de prompts listos para copiar."
   ogType="article"
 />
 
-# Demo de casos de uso de Kimi WebBridge
+# Demo de casos de uso de la Extensión de navegador Kimi
 
-Kimi WebBridge permite que un agente opere el navegador como una persona real: usa sitios web donde ya iniciaste sesión para navegar, extraer y organizar información automáticamente.
-
-<Callout type="tip">
-Al usar WebBridge, cuanto más específica sea la descripción de tu tarea, con mayor precisión podrá completarla el agente. Te recomendamos indicar el sitio web de destino, los filtros y el formato de salida esperado. Si la estructura de la página es compleja, también puedes pedirle al agente que primero tome una captura de pantalla para confirmar el estado de la página antes de continuar.
-</Callout>
-
-En la práctica, WebBridge suele usarse junto con Skill y CLI: Skill captura la experiencia de la tarea —qué sitios visitar, qué pasos seguir para recopilar información y cómo organizar los resultados—; CLI aporta capacidades concretas como buscar, leer páginas, descargar archivos y consultar datos estructurados.
-
-Dile al agente de IA, en una sola frase, qué haces repetidamente en la web. Puede generarte una CLI que use directamente tu sesión real de Chrome, sin API y sin necesidad de configurar ni administrar API Token.
-
-Las Skills y CLI usadas en los escenarios siguientes se crearon de esta manera. Puedes instalarlas y usarlas directamente, o tomarlas como ejemplos de referencia.
-
-<Callout type="warning">
-Las Skills y CLI que se proporcionan en esta página son solo para fines educativos y de intercambio técnico. Si tienes alguna inquietud, comunícate con <a href="mailto:support@moonshot.ai">support@moonshot.ai</a>.
-</Callout>
+Todas las tareas siguientes se pueden dejar directamente en manos de Kimi: chatea en la barra lateral o deja que un Agent local las ejecute.
 
 ## Búsqueda y organización de información
 
-Cuando necesitas buscar en varios sitios web, WebBridge permite que el agente abra automáticamente las páginas de destino, extraiga el contenido clave y lo organice en una salida estructurada, evitándote el trabajo tedioso de abrir páginas una por una y copiar y pegar manualmente.
+Cuando necesitas buscar en varios sitios web, la Extensión de navegador Kimi permite que el agente abra automáticamente las páginas de destino, extraiga el contenido clave y lo organice en una salida estructurada, evitándote el trabajo tedioso de abrir páginas una por una y copiar y pegar manualmente.
 
 ### Planificación de viajes
 
 Salta entre plataformas de vuelos, sitios de reserva de hoteles y comunidades de viaje para comparar precios y horarios; luego organiza itinerarios, tablas de presupuesto y sugerencias de alojamiento.
-
-Herramientas relacionadas:
-
-- Skill: [travel-planning](https://github.com/better-world-ai/x-cli/tree/main/skills/travel-planning)
-- CLI: [ctrip-cli](https://github.com/better-world-ai/x-cli/tree/main/ctrip-cli), [booking-cli](https://github.com/better-world-ai/x-cli/tree/main/booking-cli)
 
 <CodePreview
   files={[
@@ -53,20 +34,9 @@ Herramientas relacionadas:
   ]}
 />
 
-Instalación y uso:
-
-1. Descarga ctrip-cli y booking-cli desde [Releases](https://github.com/better-world-ai/x-cli/releases)
-2. Ejecuta `npx skills add better-world-ai/x-cli --skill travel-planning`
-3. Abre un agente local, por ejemplo un cliente compatible con Skill como Kimi Code, Claude Code, Codex CLI o Cursor, y envía el prompt anterior
-
 ### Filtrado de anuncios de renta
 
 Busca al mismo tiempo en varias plataformas de renta, filtra anuncios por renta, tiempo de traslado, tipo de vivienda y otros criterios, consolida la información y ordena las recomendaciones.
-
-Herramientas relacionadas:
-
-- Skill: [rental-assistant](https://github.com/better-world-ai/x-cli/tree/main/skills/rental-assistant)
-- CLI: [58-cli](https://github.com/better-world-ai/x-cli/tree/main/58-cli), [anjuke-cli](https://github.com/better-world-ai/x-cli/tree/main/anjuke-cli), [apartments-cli](https://github.com/better-world-ai/x-cli/tree/main/apartments-cli), [rightmove-cli](https://github.com/better-world-ai/x-cli/tree/main/rightmove-cli), [idealista-cli](https://github.com/better-world-ai/x-cli/tree/main/idealista-cli)
 
 <CodePreview
   files={[
@@ -78,24 +48,13 @@ Herramientas relacionadas:
   ]}
 />
 
-Instalación y uso:
-
-1. Descarga 58-cli, anjuke-cli, apartments-cli, rightmove-cli e idealista-cli desde [Releases](https://github.com/better-world-ai/x-cli/releases)
-2. Ejecuta `npx skills add better-world-ai/x-cli --skill rental-assistant`
-3. Abre un agente local, por ejemplo un cliente compatible con Skill como Kimi Code, Claude Code, Codex CLI o Cursor, y envía el prompt anterior
-
 ## Investigación y análisis de contenido
 
-WebBridge ayuda al agente a explorar automáticamente resultados de búsqueda, abrir páginas de detalle, extraer títulos, datos, comentarios y otra información, y después analizarla y resumirla. Es ideal para tareas de investigación que requieren revisar muchas páginas web.
+La Extensión de navegador Kimi ayuda al agente a explorar automáticamente resultados de búsqueda, abrir páginas de detalle, extraer títulos, datos, comentarios y otra información, y después analizarla y resumirla. Es ideal para tareas de investigación que requieren revisar muchas páginas web.
 
 ### Investigación de literatura académica
 
 Busca literatura académica, extrae resúmenes de artículos, métodos principales, conclusiones experimentales y relaciones de citación, y genera una revisión estructurada.
-
-Herramientas relacionadas:
-
-- Skill: [paper-research](https://github.com/better-world-ai/x-cli/tree/main/skills/paper-research)
-- CLI: [scholar-cli](https://github.com/better-world-ai/x-cli/tree/main/scholar-cli)
 
 <CodePreview
   files={[
@@ -107,21 +66,9 @@ Herramientas relacionadas:
   ]}
 />
 
-Instalación y uso:
-
-1. Descarga scholar-cli desde [Releases](https://github.com/better-world-ai/x-cli/releases)
-2. Ejecuta `npx skills add better-world-ai/x-cli --skill paper-research`
-3. Abre un agente local, por ejemplo un cliente compatible con Skill como Kimi Code, Claude Code, Codex CLI o Cursor, y envía el prompt anterior
-
 ### Búsqueda temática en profundidad
 
-Cuando quieres entender un tema desconocido, la forma tradicional es abrir un buscador, entrar en cada resultado y leerlo completo, copiar los puntos clave y organizarlos en notas: medio día perdido.
-
-Deja que la IA haga ese proceso por ti: busca automáticamente, sigue los resultados para capturar el texto completo y puede sintetizarte un resumen o conservar el texto original para que lo leas. Para temas de investigación, seguimiento de novedades en un campo o recopilación de material para escribir, úsalo primero para reunir la información en un solo lugar.
-
-Herramientas relacionadas:
-
-- CLI: [google-cli](https://github.com/better-world-ai/x-cli/tree/main/google-cli), [baidu-cli](https://github.com/better-world-ai/x-cli/tree/main/baidu-cli)
+¿Quieres entender un tema que no conoces? Deja que Kimi busque automáticamente, lea los resultados uno por uno y reúna todo en un resumen.
 
 <CodePreview
   files={[
@@ -133,14 +80,9 @@ Herramientas relacionadas:
   ]}
 />
 
-Instalación y uso:
-
-1. Descarga google-cli o baidu-cli desde [Releases](https://github.com/better-world-ai/x-cli/releases)
-2. Abre un agente local, por ejemplo un cliente compatible con Skill como Kimi Code, Claude Code, Codex CLI o Cursor, y envía el prompt anterior
-
 ## Asistencia cotidiana de oficina
 
-Usa las capacidades de automatización de WebBridge para encargarte de operaciones web repetitivas y mejorar la eficiencia en el trabajo.
+Usa las capacidades de automatización de la Extensión de navegador Kimi para encargarte de operaciones web repetitivas y mejorar la eficiencia en el trabajo.
 
 ### Comparación de precios en e-commerce
 
@@ -170,4 +112,29 @@ Extrae de páginas web datos estructurados como tablas y listas, y organízalos 
   ]}
 />
 
-Para ver más casos de uso, consulta el [sitio web oficial de Kimi WebBridge](https://www.kimi.com/zh-cn/features/webbridge).
+## Convertir flujos de trabajo repetitivos en Skills
+
+Cuando un mismo flujo de trabajo debe ejecutarse una y otra vez, no hace falta reescribir la instrucción cada vez. Kimi puede "aprender" el proceso y guardarlo como una Skill; después, basta con escribir `/` para invocarla en cualquier momento.
+
+### Grabar acciones como Skill
+
+Ideal para rutinas web con pasos fijos, como abrir un panel todos los días para exportar datos o llenar siempre el mismo formulario.
+
+1. Escribe `/` en la barra lateral y elige "Grabar acciones como Skill"
+2. Realiza los pasos una vez como de costumbre: Kimi registrará cada acción
+3. Haz clic en "Detener y generar" y Kimi convertirá la ejecución en una Skill
+4. Revisa el nombre, los pasos y los parámetros de la Skill y guárdala (la información sensible, como las contraseñas, se puede marcar como parámetros secretos para completarla al reproducirla)
+
+Después, escribe `/` y elige esa Skill para que Kimi la repita por ti. Puedes editar los pasos y el contenido de la Skill en cualquier momento.
+
+### Convertir un sitio web en Skill
+
+Ideal para sitios web que usas con frecuencia, como un panel de datos habitual o un sistema interno.
+
+Escribe `/` en la barra lateral y elige "Convertir un sitio web en Skill". Kimi analiza automáticamente la estructura y el funcionamiento del sitio, lo empaqueta como una Skill lista para usar y, una vez guardada, puedes invocarla en cualquier momento con `/`.
+
+### Guardar esta sesión como Skill
+
+Si Kimi ya completó una buena ejecución en esta conversación, también puedes guardarla directamente para reutilizarla: escribe `/` y elige "Guardar esta sesión como Skill".
+
+Para ver más casos de uso, consulta el [sitio web oficial de la Extensión de navegador Kimi](https://www.kimi.com/zh-cn/features/webbridge).

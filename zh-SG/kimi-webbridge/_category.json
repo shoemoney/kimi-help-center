@@ -1,8 +1,8 @@
 {
-  "title": "Kimi WebBridge",
+  "title": "Kimi 浏览器扩展",
   "description": "面向 AI 智能体的浏览器扩展",
   "seo": {
-    "title": "Kimi WebBridge",
+    "title": "Kimi 浏览器扩展",
     "description": "面向 AI 智能体的浏览器扩展"
   },
   "icon": "kimi-webbridge",

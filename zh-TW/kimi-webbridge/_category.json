@@ -1,8 +1,8 @@
 {
-  "title": "Kimi WebBridge",
+  "title": "Kimi 瀏覽器擴充功能",
   "description": "專為 AI Agent 設計的瀏覽器擴充功能",
   "seo": {
-    "title": "Kimi WebBridge",
+    "title": "Kimi 瀏覽器擴充功能",
     "description": "專為 AI Agent 設計的瀏覽器擴充功能"
   },
   "icon": "kimi-webbridge",

@@ -7,12 +7,18 @@ preview: false
 ---
 
 <SeoMeta
-  title="Câu hỏi thường gặp về Kimi WebBridge - Trung tâm trợ giúp Kimi"
-  description="Những câu hỏi thường gặp về việc cài đặt, kết nối và sử dụng Kimi WebBridge với nhiều trình duyệt và Local Agent."
+  title="Câu hỏi thường gặp về Tiện ích mở rộng trình duyệt Kimi - Trung tâm trợ giúp Kimi"
+  description="Những câu hỏi thường gặp về việc cài đặt, kết nối và sử dụng Tiện ích mở rộng trình duyệt Kimi với nhiều trình duyệt và Local Agent."
   ogType="article"
 />
 
 # Câu hỏi thường gặp
+
+## Phiên bản sản phẩm
+
+### Kimi WebBridge và Tiện ích mở rộng trình duyệt Kimi có mối quan hệ gì?
+
+Kimi WebBridge đã được đổi tên thành Tiện ích mở rộng trình duyệt Kimi, đồng thời bổ sung các tính năng mới như lối vào thanh bên của trình duyệt, ghi lại thao tác web và tách trang web thành chỉ dẫn. Cách Local Agent gọi tiện ích mở rộng vẫn giữ nguyên và có thể tiếp tục sử dụng; lối vào thanh bên mới cần đăng nhập bằng tài khoản thành viên Kimi để sử dụng.
 
 ## Cài đặt và cấu hình
 
@@ -36,7 +42,7 @@ Kimi Claw Desktop là một Kimi Claw được triển khai ngay trên máy tín
 
 ### Trạng thái tiện ích mở rộng hiển thị "Đã ngắt kết nối"?
 
-Hãy xác nhận rằng tiện ích mở rộng trình duyệt Kimi WebBridge đã được cài đặt thành công, sau đó làm theo các bước tương ứng với cách thiết lập của bạn:
+Hãy xác nhận rằng Tiện ích mở rộng trình duyệt Kimi đã được cài đặt thành công, sau đó làm theo các bước tương ứng với cách thiết lập của bạn:
 
 - **Kimi Desktop**: Khởi động lại Kimi Desktop rồi thử lại
 
@@ -52,9 +58,9 @@ Hãy xác nhận rằng tiện ích mở rộng trình duyệt Kimi WebBridge đ
   ]}
 />
 
-### Trên Windows, khi cài đặt WebBridge gặp lỗi: Cài đặt thất bại
+### Trên Windows, khi cài đặt Tiện ích mở rộng trình duyệt Kimi gặp lỗi: Cài đặt thất bại
 
-Kimi WebBridge hỗ trợ hệ điều hành Windows, và lệnh cài đặt có thể chạy trong môi trường Linux:
+Tiện ích mở rộng trình duyệt Kimi hỗ trợ hệ điều hành Windows, và lệnh cài đặt có thể chạy trong môi trường Linux:
 
 <CodePreview
   files={[
@@ -66,9 +72,9 @@ Kimi WebBridge hỗ trợ hệ điều hành Windows, và lệnh cài đặt có
   ]}
 />
 
-### Sau khi cài đặt, WebBridge hiển thị cảnh báo về tính tương thích với Chrome. Điều đó nghĩa là gì?
+### Sau khi cài đặt, Tiện ích mở rộng trình duyệt Kimi hiển thị cảnh báo về tính tương thích với Chrome. Điều đó nghĩa là gì?
 
-Nếu WebBridge mở được trang bình thường, nhưng các thao tác như `snapshot`, `evaluate`, `screenshot` hay `click` liên tục thất bại, thì nguyên nhân phổ biến hơn cả là **xung đột với các tiện ích mở rộng khác của trình duyệt**.
+Nếu Tiện ích mở rộng trình duyệt Kimi mở được trang bình thường, nhưng các thao tác như `snapshot`, `evaluate`, `screenshot` hay `click` liên tục thất bại, thì nguyên nhân phổ biến hơn cả là **xung đột với các tiện ích mở rộng khác của trình duyệt**.
 
 Điều này đặc biệt hay xảy ra với các công cụ thu thập dữ liệu, tiện ích hỗ trợ trang web, tiện ích quay màn hình và tiện ích trợ lý AI.
 
@@ -76,12 +82,12 @@ Chúng tôi khuyên bạn làm theo các bước sau để khắc phục:
 
 1. Mở trang quản lý tiện ích mở rộng của trình duyệt
 2. Tạm thời tắt các tiện ích mở rộng khác
-3. Chỉ giữ lại Kimi WebBridge ở trạng thái bật
+3. Chỉ giữ lại Tiện ích mở rộng trình duyệt Kimi ở trạng thái bật
 4. Khởi động lại trình duyệt và thử lại
-5. Nếu WebBridge hoạt động bình thường, hãy bật lại từng tiện ích còn lại để tìm ra tiện ích đang gây xung đột
+5. Nếu Tiện ích mở rộng trình duyệt Kimi hoạt động bình thường, hãy bật lại từng tiện ích còn lại để tìm ra tiện ích đang gây xung đột
 
 
-### WebBridge có làm lộ thông tin đăng nhập của tôi không?
+### Tiện ích mở rộng trình duyệt Kimi có làm lộ thông tin đăng nhập của tôi không?
 
 Không. Mọi thao tác đều diễn ra cục bộ trên thiết bị của bạn—trạng thái đăng nhập và nội dung trang web không bao giờ rời khỏi máy. Agent chỉ có thể truy cập những kết quả thao tác mà bạn cho phép.
 
@@ -97,7 +103,7 @@ Hiện hỗ trợ Chrome và Edge. Chúng tôi khuyên bạn dùng phiên bản 
 
 ### Những Agent nào khác được hỗ trợ?
 
-WebBridge hỗ trợ mọi Local Agent, bao gồm Claude Code, Codex, Cursor, Kimi Code, Hermes Claw cùng nhiều công cụ khác.
+Tiện ích mở rộng trình duyệt Kimi hỗ trợ mọi Local Agent, bao gồm Claude Code, Codex, Cursor, Kimi Code, Hermes Claw cùng nhiều công cụ khác.
 
 ### Cách cấu hình có giống nhau giữa các Agent không?
 

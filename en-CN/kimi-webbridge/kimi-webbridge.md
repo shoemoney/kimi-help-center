@@ -1,5 +1,5 @@
 ---
-title: "Kimi WebBridge Product Introduction"
+title: "Kimi Browser Extension Product Introduction"
 slug: "kimi-webbridge-introduction"
 order: 1
 extract_headings: false
@@ -7,14 +7,21 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi WebBridge Product Introduction - Kimi Help Center"
-  description="Kimi WebBridge is a browser extension designed for AI Agent. It supports Chrome and Edge, enabling Agent to interact with web pages just like a real person."
+  title="Kimi Browser Extension Product Introduction - Kimi Help Center"
+  description="Kimi Browser Extension (formerly Kimi WebBridge) is a browser extension built for AI agents. It can open pages, click buttons, fill out forms, and extract information, letting agents handle tedious web tasks like a human."
   ogType="article"
 />
 
-# Kimi WebBridge Product Introduction
+# Kimi Browser Extension Product Introduction
 
-Kimi WebBridge is a browser extension designed for AI Agent. Unlike cloud-based browser automation solutions, Kimi WebBridge runs directly in the Chrome or Edge browser you are already using. It can automatically access your signed-in sessions, enabling Agent to interact with web pages just like a real person.
+Kimi Browser Extension (formerly Kimi WebBridge) is a browser extension built for AI agents. It can open pages, click buttons, fill out forms, and extract information, letting an agent handle tedious web tasks just like a person would. You can also break down frequently used websites into CLIs and turn recorded web operations into Skills for your agent to reuse.
+
+## Two ways to use
+
+Kimi Browser Extension offers two ways to use it:
+
+- **Browser sidebar**: Click the Kimi icon in the toolbar to open the sidebar, then sign in with a Kimi membership account to chat directly and let Kimi operate the current page for you.
+- **Remote control by a local Agent**: Let AI agents like Kimi Work or Claude Code drive the extension remotely to automate web tasks.
 
 <VideoList
   column={1}
@@ -22,24 +29,10 @@ Kimi WebBridge is a browser extension designed for AI Agent. Unlike cloud-based 
     {
       url: "./videos/H265_LoRes_WebBridge_用户教程_CN.mp4",
       type: "video",
-      caption: "Kimi WebBridge Video Tutorial",
+      caption: "Kimi Browser Extension Video Tutorial",
     },
   ]}
 />
-
-<Frames
-  src="./images/introduction-cn.png"
-  alt="introduction-cn"
-/>
-
-<Callout type="tip">
-For the best browser automation experience, we recommend deploying Kimi WebBridge on your primary work computer.
-</Callout>
-
-<Callout type="info">
-WebBridge works through a local bridge service and a browser extension. All execution happens locally, and your signed-in sessions and web page content never leave your device.
-</Callout>
-
 
 | Item | System Requirement |
 |------|------|
@@ -48,7 +41,9 @@ WebBridge works through a local bridge service and a browser extension. All exec
 | Network | A stable network connection is required |
 | Companion app | Kimi Work or another Local Agent |
 
-## Step 1: Download the Kimi WebBridge Extension
+## Download and install
+
+### Step 1: Download the Kimi Browser Extension
 
 You can download it in either of the following ways:
 
@@ -65,7 +60,7 @@ Then complete the installation according to the browser you use:
 
 **Chrome:**
 
-1. Go to the [Kimi WebBridge official website](https://www.kimi.com/zh-cn/features/webbridge) to download the extension installation package.
+1. Go to the [Kimi Browser Extension official website](https://www.kimi.com/zh-cn/features/webbridge) to download the extension installation package.
 2. Extract the downloaded file.
 3. Enter `chrome://extensions/` in the browser address bar.
 4. Turn on “Developer mode” in the upper-right corner.
@@ -79,7 +74,7 @@ Then complete the installation according to the browser you use:
 
 **Edge:**
 
-1. Go to the [Kimi WebBridge official website](https://www.kimi.com/zh-cn/features/webbridge) to download the extension installation package.
+1. Go to the [Kimi Browser Extension official website](https://www.kimi.com/zh-cn/features/webbridge) to download the extension installation package.
 2. Extract the downloaded file.
 3. Enter `edge://extensions/` in the browser address bar.
 4. Turn on “Developer mode” in the lower-left corner.
@@ -91,32 +86,32 @@ Then complete the installation according to the browser you use:
   alt="installation_chrome_cn"
 />
 
-After installation, you will see WebBridge in your browser’s extension list. For easier access later, we recommend pinning it to the browser toolbar.
+After installation, you will see Kimi Browser Extension in your browser’s extension list. For easier access later, we recommend pinning it to the browser toolbar.
 
-## Step 2: Choose a Usage Method and Complete Setup
+### Step 2: Choose a Usage Method and Complete Setup
 
-### Option 1: Use with Kimi Work Desktop
+#### Option 1: Use with Kimi Work Desktop
 
 1. Download Kimi Work from the [official website](https://www.kimi.com/products/kimi-work)
 
-2. After installation, you can send instructions in Kimi Work, for example:
+2. Once installed, you can open the extension sidebar and send instructions, for example:
 
 <CodePreview
   files={[
     {
       name: "prompt.txt",
       language: "text",
-      content: "Use Kimi WebBridge to open Xiaohongshu and search for posts about the Kimi K2.6 release",
+      content: "Use Kimi Browser Extension to open Xiaohongshu and search for posts about the Kimi K3 release",
     },
   ]}
 />
 
-### Option 2: Use with a Local Agent
+#### Option 2: Use with a Local Agent
 
 Supports Claude Code, Codex, Cursor, Kimi Code, Hermes Claw, and more.
 
 
-1. Send the following instruction directly in Agent to automatically complete the WebBridge installation. Agent will run the appropriate installation process based on your operating system.
+1. Send the following instruction directly in Agent to automatically complete the Kimi Browser Extension installation. Agent will run the appropriate installation process based on your operating system.
 
 If you are a macOS user, use the following command:
 
@@ -153,7 +148,7 @@ After the extension is connected, you can send instructions such as:
     {
       name: "prompt.txt",
       language: "text",
-      content: "Use Kimi WebBridge to open Xiaohongshu and search for posts about the Kimi K2.6 release",
+      content: "Use Kimi Browser Extension to open Xiaohongshu and search for posts about the Kimi K3 release",
     },
   ]}
 />

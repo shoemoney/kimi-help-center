@@ -1,5 +1,5 @@
 ---
-title: "Kimi WebBridge Nasıl Çalışır?"
+title: "Kimi Tarayıcı Uzantısı Nasıl Çalışır?"
 slug: "kimi-webbridge-how-it-works"
 order: 2
 extract_headings: true
@@ -7,20 +7,21 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi WebBridge Nasıl Çalışır? - Kimi Yardım Merkezi"
-  description="Kimi WebBridge'in tarayıcınızı yerel olarak yapay zeka Agent'larına nasıl bağladığını, güvenli web gezintisi, tıklamalar, ekran görüntüleri ve daha fazlasını nasıl mümkün kıldığını öğrenin."
+  title="Kimi Tarayıcı Uzantısı Nasıl Çalışır? - Kimi Yardım Merkezi"
+  description="Kimi Tarayıcı Uzantısı'nın tarayıcınızı yerel olarak yapay zeka Agent'larına nasıl bağladığını, güvenli web gezintisi, tıklamalar, ekran görüntüleri ve daha fazlasını nasıl mümkün kıldığını öğrenin."
   ogType="article"
 />
 
-# Kimi WebBridge Nasıl Çalışır?
+# Kimi Tarayıcı Uzantısı Nasıl Çalışır?
 
 ## Çalışma Akışı
 
-Kimi WebBridge şu şekilde çalışır:
+Kimi Tarayıcı Uzantısı **yan çubuk sohbeti** ve **yerel Agent ile uzaktan kontrol** olmak üzere iki kullanım şeklini destekler ve şu şekilde çalışır:
 
-1. **Yerel Köprü Hizmeti**: Agent'tan talimatları almak için bilgisayarınızda yerel bir hizmet çalışır
-2. **Tarayıcı Uzantısı**: Chrome DevTools Protokolü'ne dayanarak tarayıcıda belirli işlemleri gerçekleştirir
-3. **Güvenlik İzolasyonu**: Tüm işlemler yerel olarak gerçekleşir; oturum açma durumlarınız ve web sayfası içeriğiniz asla cihazınızdan çıkmaz
+1. **Tarayıcı Yan Çubuğu**: Araç çubuğundaki Kimi simgesine tıklayarak yan çubuğu açın, ardından Kimi üyelik hesabınızla oturum açıp doğrudan sohbet edin
+2. **Yerel Köprü Hizmeti**: Agent'tan talimatları almak için bilgisayarınızda yerel bir hizmet çalışır
+3. **Tarayıcı Uzantısı**: Chrome DevTools Protokolü'ne dayanarak tarayıcıda belirli işlemleri gerçekleştirir
+4. **Güvenlik İzolasyonu**: Tüm işlemler yerel olarak gerçekleşir; oturum açma durumlarınız ve web sayfası içeriğiniz asla cihazınızdan çıkmaz
 
 <Frames
   src="./images/workflow.png"
@@ -29,15 +30,11 @@ Kimi WebBridge şu şekilde çalışır:
 
 ## Uzantı Arayüzü
 
-Mevcut bağlantı durumunu kontrol etmek için tarayıcı araç çubuğundaki WebBridge simgesine tıklayın:
-
-**Bağlı**: WebBridge düzgün çalışıyor ve Agent ile birlikte çalışabilir.
-
-**Bağlantı Kesildi**: Yapılandırmanızı kontrol edin veya bağlantı komutunu yeniden çalıştırın.
+Yan çubuğu açmak ve görev göndermek için tarayıcı araç çubuğundaki Kimi Tarayıcı Uzantısı simgesine tıklayın.
 
 <Frames
   src="./images/connection.png"
-  alt="WebBridge Connection"
+  alt="Kimi Tarayıcı Uzantısı Connection"
 />
 
 ## Özellikler
@@ -58,4 +55,4 @@ Kullanım senaryoları:
 - Form doldurma: Çeşitli çevrimiçi formları otomatik olarak doldurur
 - Veri girişi: Web verilerini otomatik olarak düzenler ve belirtilen bir biçimde girer
 
-Daha fazla kullanım senaryosu için lütfen [Kimi WebBridge resmi web sitesine](https://www.kimi.com/features/webbridge) bakın.
+Daha fazla kullanım senaryosu için lütfen [Kimi Tarayıcı Uzantısı resmi web sitesine](https://www.kimi.com/features/webbridge) bakın.

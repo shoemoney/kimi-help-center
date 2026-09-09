@@ -7,12 +7,18 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi WebBridge FAQ - Kimi Hilfecenter"
-  description="Häufig gestellte Fragen zu Installation, Verbindung und Nutzung von Kimi WebBridge mit verschiedenen Browsern und Local Agents."
+  title="Kimi Browsererweiterung FAQ - Kimi Hilfecenter"
+  description="Häufig gestellte Fragen zu Installation, Verbindung und Nutzung von Kimi Browsererweiterung mit verschiedenen Browsern und Local Agents."
   ogType="article"
 />
 
 # FAQ
+
+## Produktversion
+
+### Wie ist das Verhältnis zwischen Kimi WebBridge und Kimi Browsererweiterung?
+
+Kimi WebBridge wurde in Kimi Browsererweiterung umbenannt und bietet neue Funktionen, darunter einen Einstieg über die Browser-Seitenleiste, das Aufzeichnen von Webvorgängen und das Zerlegen von Webseiten in Anweisungen. Die Art und Weise, wie Local Agents die Erweiterung aufrufen, bleibt unverändert und kann weiterhin genutzt werden; der neue Einstieg über die Seitenleiste erfordert die Anmeldung mit einer Kimi-Mitgliedschaft.
 
 ## Installation und Konfiguration
 
@@ -36,7 +42,7 @@ Kimi Claw Desktop ist ein Kimi Claw, der auf Ihrem lokalen Computer bereitgestel
 
 ### Der Status der Erweiterung zeigt „Disconnected“ an?
 
-Bitte vergewissern Sie sich, dass die Kimi WebBridge-Browsererweiterung erfolgreich installiert ist, und folgen Sie dann den Schritten für Ihre Einrichtungsmethode:
+Bitte vergewissern Sie sich, dass die Kimi Browsererweiterung erfolgreich installiert ist, und folgen Sie dann den Schritten für Ihre Einrichtungsmethode:
 
 - **Kimi Desktop**: Starten Sie Kimi Desktop neu und versuchen Sie es erneut
 
@@ -52,9 +58,9 @@ Bitte vergewissern Sie sich, dass die Kimi WebBridge-Browsererweiterung erfolgre
   ]}
 />
 
-### Unter Windows schlägt die Installation von WebBridge mit dem Fehler „Installation failed“ fehl
+### Unter Windows schlägt die Installation von Kimi Browsererweiterung mit dem Fehler „Installation failed“ fehl
 
-Kimi WebBridge unterstützt das Betriebssystem Windows, und der Installationsbefehl kann in einer Linux-Umgebung ausgeführt werden:
+Kimi Browsererweiterung unterstützt das Betriebssystem Windows, und der Installationsbefehl kann in einer Linux-Umgebung ausgeführt werden:
 
 <CodePreview
   files={[
@@ -66,9 +72,9 @@ Kimi WebBridge unterstützt das Betriebssystem Windows, und der Installationsbef
   ]}
 />
 
-### Nach der Installation zeigt WebBridge eine Chrome-Kompatibilitätswarnung an. Was bedeutet das?
+### Nach der Installation zeigt Kimi Browsererweiterung eine Chrome-Kompatibilitätswarnung an. Was bedeutet das?
 
-Wenn WebBridge Seiten zwar normal öffnen kann, Aktionen wie `snapshot`, `evaluate`, `screenshot` oder `click` jedoch immer wieder fehlschlagen, liegt die häufigere Ursache in **einem Konflikt mit anderen Browser-Erweiterungen**.
+Wenn Kimi Browsererweiterung Seiten zwar normal öffnen kann, Aktionen wie `snapshot`, `evaluate`, `screenshot` oder `click` jedoch immer wieder fehlschlagen, liegt die häufigere Ursache in **einem Konflikt mit anderen Browser-Erweiterungen**.
 
 Besonders häufig tritt dies bei Scraping-Tools, Website-Hilfserweiterungen, Bildschirmaufnahme-Erweiterungen und KI-Assistenten-Erweiterungen auf.
 
@@ -76,12 +82,12 @@ Wir empfehlen folgende Schritte zur Fehlersuche:
 
 1. Öffnen Sie die Verwaltungsseite für Erweiterungen Ihres Browsers
 2. Deaktivieren Sie andere Erweiterungen vorübergehend
-3. Lassen Sie nur Kimi WebBridge aktiviert
+3. Lassen Sie nur Kimi Browsererweiterung aktiviert
 4. Starten Sie den Browser neu und versuchen Sie es erneut
-5. Wenn WebBridge normal funktioniert, aktivieren Sie die anderen Erweiterungen nacheinander wieder, um die konfliktverursachende Erweiterung zu ermitteln
+5. Wenn Kimi Browsererweiterung normal funktioniert, aktivieren Sie die anderen Erweiterungen nacheinander wieder, um die konfliktverursachende Erweiterung zu ermitteln
 
 
-### Gibt WebBridge meine Anmeldedaten preis?
+### Gibt Kimi Browsererweiterung meine Anmeldedaten preis?
 
 Nein. Sämtliche Ausführung erfolgt lokal auf Ihrem Gerät – Anmeldestatus und Seiteninhalte verlassen Ihren Rechner nie. Der Agent kann nur auf die von Ihnen autorisierten Ergebnisse der Operationen zugreifen.
 
@@ -97,7 +103,7 @@ Derzeit werden Chrome und Edge unterstützt. Für das beste Erlebnis empfehlen w
 
 ### Welche anderen Agents werden unterstützt?
 
-WebBridge unterstützt alle Local Agents, darunter Claude Code, Codex, Cursor, Kimi Code, Hermes Claw und weitere.
+Kimi Browsererweiterung unterstützt alle Local Agents, darunter Claude Code, Codex, Cursor, Kimi Code, Hermes Claw und weitere.
 
 ### Ist die Konfiguration für verschiedene Agents identisch?
 

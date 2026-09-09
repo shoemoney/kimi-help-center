@@ -1,5 +1,5 @@
 ---
-title: "Pengenalan Kimi WebBridge"
+title: "Pengenalan Ekstensi Browser Kimi"
 slug: "kimi-webbridge-introduction"
 order: 1
 extract_headings: false
@@ -7,14 +7,21 @@ preview: false
 ---
 
 <SeoMeta
-  title="Pengenalan Kimi WebBridge - Pusat Bantuan Kimi"
-  description="Kimi WebBridge adalah ekstensi peramban yang dirancang untuk AI Agent. Ekstensi ini berjalan langsung di peramban Chrome atau Edge Anda, memanfaatkan sesi login yang sudah ada agar Agent dapat berinteraksi dengan halaman web layaknya manusia."
+  title="Pengenalan Ekstensi Browser Kimi - Pusat Bantuan Kimi"
+  description="Ekstensi Browser Kimi (sebelumnya Kimi WebBridge) adalah plugin browser untuk AI Agent yang dapat membuka halaman, mengklik tombol, mengisi formulir, dan mengekstrak informasi."
   ogType="article"
 />
 
-# Pengenalan Kimi WebBridge
+# Pengenalan Ekstensi Browser Kimi
 
-Kimi WebBridge adalah ekstensi peramban yang dirancang untuk AI Agent. Berbeda dengan solusi otomatisasi peramban berbasis cloud, Kimi WebBridge berjalan langsung di peramban Chrome atau Edge Anda, secara otomatis memanfaatkan sesi login yang sudah ada agar Agent dapat berinteraksi dengan halaman web layaknya manusia.
+Ekstensi Browser Kimi (sebelumnya Kimi WebBridge) adalah plugin browser untuk AI Agent. Ekstensi ini dapat membuka halaman, mengklik tombol, mengisi formulir, dan mengekstrak informasi, sehingga Agent dapat menyelesaikan tugas web yang membosankan secara otomatis seperti manusia. Anda juga dapat memecah halaman web yang sering digunakan menjadi CLI dan mengubah rekaman operasi web menjadi Skill yang dapat digunakan kembali oleh Agent kapan saja.
+
+## Dua cara penggunaan
+
+Ekstensi Browser Kimi menawarkan dua cara penggunaan:
+
+- **Sidebar browser**: Klik ikon Kimi di bilah alat untuk membuka sidebar, lalu masuk dengan akun keanggotaan Kimi untuk langsung mengobrol dan biarkan Kimi mengoperasikan halaman saat ini untuk Anda.
+- **Kontrol jarak jauh oleh Agent lokal**: Biarkan AI Agent seperti Kimi Work atau Claude Code mengendalikan ekstensi dari jarak jauh untuk mengotomatiskan tugas web.
 
 <VideoList
   column={1}
@@ -22,25 +29,14 @@ Kimi WebBridge adalah ekstensi peramban yang dirancang untuk AI Agent. Berbeda d
     {
       url: "./videos/H265_LoRes_WebBridge_用户教程_EN.mp4",
       type: "video",
-      caption: "Tutorial Kimi WebBridge",
+      caption: "Tutorial Ekstensi Browser Kimi",
     },
   ]}
 />
 
-<Callout type="tip">
-Kami menyarankan untuk memasang Kimi WebBridge di komputer kerja utama Anda demi pengalaman otomatisasi peramban yang terbaik.
-</Callout>
+## Unduh dan pasang
 
-<Callout type="info">
-WebBridge bekerja melalui layanan bridge lokal dan ekstensi peramban. Semua eksekusi berlangsung secara lokal di perangkat Anda—status login dan konten halaman web tidak pernah meninggalkan komputer Anda.
-</Callout>
-
-<Frames
-  src="./images/introduction.png"
-  alt="WebBridge Introduction"
-/>
-
-## Langkah 1: unduh ekstensi Kimi WebBridge
+### Langkah 1: unduh Ekstensi Browser Kimi
 
 Anda dapat mengunduhnya melalui cara berikut:
 
@@ -57,7 +53,7 @@ Kemudian ikuti langkah-langkah sesuai peramban Anda:
 
 **Chrome:**
 
-1. Unduh paket ekstensi dari [situs resmi Kimi WebBridge](https://www.kimi.com/features/webbridge).
+1. Unduh paket ekstensi dari [situs resmi Ekstensi Browser Kimi](https://www.kimi.com/features/webbridge).
 2. Ekstrak file yang sudah diunduh
 3. Buka `chrome://extensions/` di bilah alamat
 4. Aktifkan "Developer mode" di pojok kanan atas
@@ -71,7 +67,7 @@ Kemudian ikuti langkah-langkah sesuai peramban Anda:
 
 **Edge:**
 
-1. Unduh paket ekstensi dari [situs resmi Kimi WebBridge](https://www.kimi.com/features/webbridge).
+1. Unduh paket ekstensi dari [situs resmi Ekstensi Browser Kimi](https://www.kimi.com/features/webbridge).
 2. Ekstrak file yang sudah diunduh
 3. Buka `edge://extensions/` di bilah alamat
 4. Aktifkan "Developer mode" di pojok kiri bawah
@@ -83,31 +79,31 @@ Kemudian ikuti langkah-langkah sesuai peramban Anda:
   alt="installation_edge_en"
 />
 
-Setelah pemasangan, WebBridge akan muncul di daftar ekstensi peramban Anda. Agar lebih mudah diakses, kami menyarankan untuk menyematkannya ke bilah alat peramban.
+Setelah pemasangan, Ekstensi Browser Kimi akan muncul di daftar ekstensi peramban Anda. Agar lebih mudah diakses, kami menyarankan untuk menyematkannya ke bilah alat peramban.
 
-## Langkah 2: Pilih metode penyiapan dan selesaikan konfigurasi
+### Langkah 2: Pilih metode penyiapan dan selesaikan konfigurasi
 
-### Cara 1: Menggunakan dengan Kimi Work Desktop
+#### Cara 1: Menggunakan dengan Kimi Work Desktop
 
 1. Unduh Kimi Work dari [situs resmi](https://www.kimi.com/products/kimi-work)
 
-2. Setelah terpasang, Anda dapat mengirim instruksi di Kimi Work, misalnya:
+2. Setelah terpasang, Anda dapat membuka bilah samping ekstensi dan mengirim instruksi, misalnya:
 
 <CodePreview
   files={[
     {
       name: "prompt.txt",
       language: "text",
-      content: "Gunakan Kimi Webbridge dan buka Xiaohongshu, cari postingan tentang rilis Kimi K2.6",
+      content: "Gunakan Ekstensi Browser Kimi dan buka Xiaohongshu, cari postingan tentang rilis Kimi K3",
     },
   ]}
 />
 
-### Cara 2: Pasangkan dengan Local Agent
+#### Cara 2: Pasangkan dengan Local Agent
 
 Mendukung Claude Code, Codex, Cursor, Kimi Code, Hermes Claw, dan lainnya.
 
-1. Kirim perintah berikut langsung di Agent untuk memasang WebBridge secara otomatis. Agent akan menjalankan penyiapan yang sesuai dengan sistem operasi Anda.
+1. Kirim perintah berikut langsung di Agent untuk memasang Ekstensi Browser Kimi secara otomatis. Agent akan menjalankan penyiapan yang sesuai dengan sistem operasi Anda.
 
 Jika Anda pengguna macOS, gunakan perintah berikut:
 
@@ -144,7 +140,7 @@ Setelah ekstensi terhubung, Anda dapat mengirim instruksi.
     {
       name: "prompt.txt",
       language: "text",
-      content: "Gunakan Kimi WebBridge buka X.com dan cari postingan tentang rilis Kimi K2.6",
+      content: "Gunakan Ekstensi Browser Kimi buka X.com dan cari postingan tentang rilis Kimi K3",
     },
   ]}
 />

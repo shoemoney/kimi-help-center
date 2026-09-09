@@ -1,5 +1,5 @@
 ---
-title: "Kimi WebBridge Use Case Demo"
+title: "Kimi Browser Extension Use Case Demo"
 slug: "kimi-webbridge-use-cases"
 order: 3
 extract_headings: true
@@ -7,41 +7,22 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi WebBridge Use Case Demo - Kimi Help Center"
-  description="Explore typical Kimi WebBridge use cases, including Skill and CLI examples for travel planning, rental search, literature research, and more."
+  title="Kimi Browser Extension Use Case Demo - Kimi Help Center"
+  description="Explore typical Kimi Browser Extension use cases: travel planning, rental search, literature research, price comparison, and more, with ready-to-copy prompt examples."
   ogType="article"
 />
 
-# Kimi WebBridge Use Case Demo
+# Kimi Browser Extension Use Case Demo
 
-Kimi WebBridge lets an Agent operate the browser like a real person, using websites where you are already signed in to automatically navigate, extract, and organize information.
-
-<Callout type="tip">
-When using WebBridge, the more specific your task description is, the more accurately the Agent can complete it. We recommend specifying the target website, filters, and desired output format. If the page structure is complex, you can also ask the Agent to take a screenshot first to confirm the page state before proceeding.
-</Callout>
-
-In practice, WebBridge is often used together with Skill and CLI: Skill captures task experience—which websites to visit, what steps to follow to collect information, and how to organize results; CLI provides concrete capabilities such as searching, reading pages, downloading files, and querying structured data.
-
-Tell the AI Agent, in one sentence, what you repeatedly do on the web. It can generate a CLI for you that directly uses your real Chrome login session—no API, and no need to configure or manage API Token.
-
-The Skills and CLIs used in the scenarios below were created this way. You can install and use them directly, or treat them as reference examples.
-
-<Callout type="warning">
-The Skills and CLIs provided on this page are for teaching and technical exchange only. If you have any concerns, please contact <a href="mailto:support@moonshot.ai">support@moonshot.ai</a>.
-</Callout>
+All of the tasks below can be handed directly to Kimi: chat in the sidebar, or let a local Agent run them.
 
 ## Information Lookup and Organization
 
-When you need to search across multiple websites, WebBridge can let the Agent automatically open target pages, extract key content, and organize it into structured output, saving you the tedious work of opening pages one by one and copying and pasting manually.
+When you need to search across multiple websites, Kimi can automatically open target pages, extract key content, and organize it into structured output, saving you the tedious work of opening pages one by one and copying and pasting manually.
 
 ### Travel Planning
 
-Jump between flight platforms, hotel booking sites, and travel communities to compare prices and schedules, then organize itineraries, budget tables, and accommodation suggestions.
-
-Related tools:
-
-- Skill: [travel-planning](https://github.com/better-world-ai/x-cli/tree/main/skills/travel-planning)
-- CLI: [ctrip-cli](https://github.com/better-world-ai/x-cli/tree/main/ctrip-cli), [booking-cli](https://github.com/better-world-ai/x-cli/tree/main/booking-cli)
+Jump between flight platforms, hotel booking sites, and travel communities to compare prices and schedules, then organize an itinerary and budget table.
 
 <CodePreview
   files={[
@@ -53,20 +34,9 @@ Related tools:
   ]}
 />
 
-Installation and usage:
-
-1. Download ctrip-cli and booking-cli from [Releases](https://github.com/better-world-ai/x-cli/releases)
-2. Run `npx skills add better-world-ai/x-cli --skill travel-planning`
-3. Open a local Agent, such as a Skill-compatible client like Kimi Code, Claude Code, Codex CLI, or Cursor, and send the prompt above
-
 ### Rental Listing Screening
 
-Search across multiple rental platforms at the same time, filter listings by rent, commute, unit type, and other criteria, consolidate the information, and rank recommendations.
-
-Related tools:
-
-- Skill: [rental-assistant](https://github.com/better-world-ai/x-cli/tree/main/skills/rental-assistant)
-- CLI: [58-cli](https://github.com/better-world-ai/x-cli/tree/main/58-cli), [anjuke-cli](https://github.com/better-world-ai/x-cli/tree/main/anjuke-cli), [apartments-cli](https://github.com/better-world-ai/x-cli/tree/main/apartments-cli), [rightmove-cli](https://github.com/better-world-ai/x-cli/tree/main/rightmove-cli), [idealista-cli](https://github.com/better-world-ai/x-cli/tree/main/idealista-cli)
+Search across multiple rental platforms at the same time, filter listings by rent, commute, and unit type, then consolidate the information and rank recommendations.
 
 <CodePreview
   files={[
@@ -78,24 +48,13 @@ Related tools:
   ]}
 />
 
-Installation and usage:
-
-1. Download 58-cli, anjuke-cli, apartments-cli, rightmove-cli, and idealista-cli from [Releases](https://github.com/better-world-ai/x-cli/releases)
-2. Run `npx skills add better-world-ai/x-cli --skill rental-assistant`
-3. Open a local Agent, such as a Skill-compatible client like Kimi Code, Claude Code, Codex CLI, or Cursor, and send the prompt above
-
 ## Content Research and Analysis
 
-WebBridge can help the Agent automatically browse search results, open detail pages, extract titles, data, comments, and other information, then analyze and summarize it. It is well suited to research tasks that require browsing many web pages.
+Kimi can automatically browse search results, open detail pages, extract titles, data, comments, and other information, then analyze and summarize it. It is well suited to research tasks that require browsing many web pages.
 
 ### Literature Research
 
-Search academic literature, extract paper abstracts, core methods, experimental conclusions, and citation relationships, and output a structured review.
-
-Related tools:
-
-- Skill: [paper-research](https://github.com/better-world-ai/x-cli/tree/main/skills/paper-research)
-- CLI: [scholar-cli](https://github.com/better-world-ai/x-cli/tree/main/scholar-cli)
+Search academic literature, extract paper abstracts, core methods, and conclusions, and output a structured review.
 
 <CodePreview
   files={[
@@ -107,21 +66,9 @@ Related tools:
   ]}
 />
 
-Installation and usage:
-
-1. Download scholar-cli from [Releases](https://github.com/better-world-ai/x-cli/releases)
-2. Run `npx skills add better-world-ai/x-cli --skill paper-research`
-3. Open a local Agent, such as a Skill-compatible client like Kimi Code, Claude Code, Codex CLI, or Cursor, and send the prompt above
-
 ### In-depth Topic Search
 
-When you want to understand an unfamiliar topic, the old way is to open a search engine, click into every result and read it through, copy the key points, and organize them into notes—half a day gone.
-
-Let AI run this process for you: it searches automatically, follows the results to capture the full text, and can either synthesize a summary for you or keep the original text for you to read. For research topics, tracking new developments in a field, or gathering material for writing, use it first to bring the information together in one place.
-
-Related tools:
-
-- CLI: [google-cli](https://github.com/better-world-ai/x-cli/tree/main/google-cli), [baidu-cli](https://github.com/better-world-ai/x-cli/tree/main/baidu-cli)
+Want to understand an unfamiliar topic? Let Kimi search automatically, read through the results one by one, and pull everything together into a summary.
 
 <CodePreview
   files={[
@@ -133,18 +80,13 @@ Related tools:
   ]}
 />
 
-Installation and usage:
-
-1. Download google-cli or baidu-cli from [Releases](https://github.com/better-world-ai/x-cli/releases)
-2. Open a local Agent, such as a Skill-compatible client like Kimi Code, Claude Code, Codex CLI, or Cursor, and send the prompt above
-
 ## Everyday Office Assistance
 
-Use WebBridge’s automation capabilities to handle repetitive web operations and improve work efficiency.
+Handle repetitive web operations and improve work efficiency.
 
 ### E-commerce Price Comparison
 
-Search for the same product across multiple e-commerce platforms, compare prices, specifications, and user reviews, and organize the best purchase options.
+Search for the same product across multiple e-commerce platforms, compare prices, specifications, and user reviews, and get a purchase recommendation.
 
 <CodePreview
   files={[
@@ -170,4 +112,29 @@ Extract structured data such as tables and lists from web pages and automaticall
   ]}
 />
 
-For more use cases, see the [Kimi WebBridge official website](https://www.kimi.com/zh-cn/features/webbridge).
+## Turn repeated workflows into skills
+
+When the same workflow needs to run over and over, you don't have to retype the instruction every time. Kimi can learn the process and save it as a skill—after that, just type `/` to invoke it anytime.
+
+### Record actions as a skill
+
+Great for web routines with fixed steps, like opening a dashboard to export data every day or filling out the same form.
+
+1. Type `/` in the sidebar and choose "Record actions as a skill"
+2. Perform the steps once as usual—Kimi records every action
+3. Click "Stop & generate", and Kimi distills the run into a skill
+4. Review the skill's name, steps, and parameters, then save it (sensitive info like passwords can be marked as secret parameters and filled in at replay time)
+
+Later, type `/` and pick the skill to have Kimi repeat it for you. You can edit the skill's steps and content anytime.
+
+### Turn a site into a skill
+
+Great for websites you use all the time, like a regular data dashboard or an internal system.
+
+Type `/` in the sidebar and choose "Turn a site into a skill". Kimi automatically analyzes how the site is structured and how it works, packages it as a ready-to-use skill, and once saved you can invoke it anytime with `/`.
+
+### Save this session as a skill
+
+If Kimi has already completed a great run in the current conversation, you can save it directly for reuse: type `/` and choose "Save this session as a skill".
+
+For more use cases, see the [Kimi Browser Extension official website](https://www.kimi.com/zh-cn/features/webbridge).

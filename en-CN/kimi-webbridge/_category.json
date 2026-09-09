@@ -1,9 +1,9 @@
 {
-  "title": "Kimi WebBridge",
-  "description": "Kimi WebBridge product overview, usage steps, and FAQ",
+  "title": "Kimi Browser Extension",
+  "description": "Kimi Browser Extension product overview, usage steps, and FAQ",
   "seo": {
-    "title": "Kimi WebBridge",
-    "description": "Kimi WebBridge product overview, usage steps, and FAQ"
+    "title": "Kimi Browser Extension",
+    "description": "Kimi Browser Extension product overview, usage steps, and FAQ"
   },
   "icon": "Kimi-WebBridge",
   "order": 6,

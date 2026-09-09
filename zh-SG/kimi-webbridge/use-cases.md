@@ -1,5 +1,5 @@
 ---
-title: "Kimi WebBridge 使用案例演示"
+title: "Kimi 浏览器扩展使用案例演示"
 slug: "kimi-webbridge-use-cases"
 order: 3
 extract_headings: true
@@ -7,41 +7,22 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi WebBridge 使用案例演示 - Kimi Help Center"
-  description="了解 Kimi WebBridge 的典型使用场景，包括旅游攻略、租房、文献调研等多种场景下的 Skill 和 CLI 使用示例。"
+  title="Kimi 浏览器扩展使用案例演示 - Kimi Help Center"
+  description="了解 Kimi 浏览器扩展的典型使用场景：旅游攻略、租房筛选、文献调研、电商比价等，附可直接复制的指令示例。"
   ogType="article"
 />
 
-# Kimi WebBridge 使用案例演示
+# Kimi 浏览器扩展使用案例演示
 
-Kimi WebBridge 让 Agent 像真人一样操作浏览器，沿用你已经登录的网站，自动完成导航、提取和整理。
-
-<Callout type="tip">
-使用 WebBridge 时，任务描述越具体，Agent 完成得越准确。建议明确指定目标网站、筛选条件和期望的输出格式。如果页面结构复杂，也可以让 Agent 先截图确认页面状态，再执行后续操作。
-</Callout>
-
-实际使用时常配合 Skill 和 CLI：Skill 沉淀任务经验——访问哪些网站、按什么步骤收集信息、如何整理结果；CLI 提供具体能力——搜索、读取页面、下载文件、查询结构化数据。
-
-把你在网页上反复做的事，一句话告诉 AI Agent，它就能帮你生成一个 CLI，直接使用你真实的 Chrome 登录态，不走 API，也不用配置和管理 API Token。
-
-下面这些场景用到的 Skill 和 CLI 都是这样做出来的，可以直接安装使用，也可以作为参考案例。
-
-<Callout type="warning">
-本页面提供的 Skill 与 CLI 仅供教学与技术交流，如有异议，可以联系 <a href="mailto:support@moonshot.ai">support@moonshot.ai</a> 进行沟通。
-</Callout>
+下面这些任务都可以直接交给 Kimi：在侧边栏中对话，或让本地 Agent 执行。
 
 ## 信息查询与整理
 
-当你需要在多个网站之间来回查找信息时，WebBridge 可以让 Agent 自动打开目标页面，提取关键内容并整理成结构化输出，省去你逐个打开页面、复制粘贴的繁琐工作。
+当你需要在多个网站之间来回查找信息时，Kimi 浏览器扩展可以让 Agent 自动打开目标页面，提取关键内容并整理成结构化输出，省去你逐个打开页面、复制粘贴的繁琐工作。
 
 ### 旅游攻略规划
 
 在机票平台、酒店预订网站、攻略社区之间跳转，对比价格和时间，整理行程安排、预算表和住宿建议。
-
-相关工具：
-
-- Skill：[travel-planning](https://github.com/better-world-ai/x-cli/tree/main/skills/travel-planning)
-- CLI：[ctrip-cli](https://github.com/better-world-ai/x-cli/tree/main/ctrip-cli)、[booking-cli](https://github.com/better-world-ai/x-cli/tree/main/booking-cli)
 
 <CodePreview
   files={[
@@ -53,20 +34,9 @@ Kimi WebBridge 让 Agent 像真人一样操作浏览器，沿用你已经登录�
   ]}
 />
 
-安装与使用：
-
-1. 从 [Releases](https://github.com/better-world-ai/x-cli/releases) 下载 ctrip-cli、booking-cli
-2. 运行 `npx skills add better-world-ai/x-cli --skill travel-planning`
-3. 打开本地 Agent（如 Kimi Code、Claude Code、Codex CLI、Cursor 等支持 Skill 的客户端），发上面的 prompt
-
 ### 租房信息筛选
 
 在多个租房平台同时搜索，按租金、通勤、户型等条件筛选房源，统一整理信息并给出推荐排序。
-
-相关工具：
-
-- Skill：[rental-assistant](https://github.com/better-world-ai/x-cli/tree/main/skills/rental-assistant)
-- CLI：[58-cli](https://github.com/better-world-ai/x-cli/tree/main/58-cli)、[anjuke-cli](https://github.com/better-world-ai/x-cli/tree/main/anjuke-cli)、[apartments-cli](https://github.com/better-world-ai/x-cli/tree/main/apartments-cli)、[rightmove-cli](https://github.com/better-world-ai/x-cli/tree/main/rightmove-cli)、[idealista-cli](https://github.com/better-world-ai/x-cli/tree/main/idealista-cli)
 
 <CodePreview
   files={[
@@ -78,24 +48,13 @@ Kimi WebBridge 让 Agent 像真人一样操作浏览器，沿用你已经登录�
   ]}
 />
 
-安装与使用：
-
-1. 从 [Releases](https://github.com/better-world-ai/x-cli/releases) 下载 58-cli、anjuke-cli、apartments-cli、rightmove-cli、idealista-cli
-2. 运行 `npx skills add better-world-ai/x-cli --skill rental-assistant`
-3. 打开本地 Agent（如 Kimi Code、Claude Code、Codex CLI、Cursor 等支持 Skill 的客户端），发上面的 prompt
-
 ## 内容调研与分析
 
-WebBridge 可以帮助 Agent 自动浏览搜索结果、进入详情页，提取标题、数据、评论等信息并做分析总结，适合需要大量浏览网页的调研类任务。
+Kimi 浏览器扩展可以帮助 Agent 自动浏览搜索结果、进入详情页，提取标题、数据、评论等信息并做分析总结，适合需要大量浏览网页的调研类任务。
 
 ### 文献调研
 
 搜索学术文献，提取论文摘要、核心方法、实验结论和引用关系，输出结构化综述。
-
-相关工具：
-
-- Skill：[paper-research](https://github.com/better-world-ai/x-cli/tree/main/skills/paper-research)
-- CLI：[scholar-cli](https://github.com/better-world-ai/x-cli/tree/main/scholar-cli)
 
 <CodePreview
   files={[
@@ -107,21 +66,9 @@ WebBridge 可以帮助 Agent 自动浏览搜索结果、进入详情页，提取
   ]}
 />
 
-安装与使用：
-
-1. 从 [Releases](https://github.com/better-world-ai/x-cli/releases) 下载 scholar-cli
-2. 运行 `npx skills add better-world-ai/x-cli --skill paper-research`
-3. 打开本地 Agent（如 Kimi Code、Claude Code、Codex CLI、Cursor 等支持 Skill 的客户端），发上面的 prompt
-
 ### 话题深度搜索
 
-想了解一个不熟悉的话题，老办法是打开搜索引擎、每个结果点进去读完、复制重点、整理成笔记，一上午没了。
-
-让 AI 替你跑完这个流程：它自动搜索、顺着结果抓取正文，你可以直接让它综合成一份摘要，也可以保留原文自己看。研究选题、追踪领域新进展、找资料写文章，先用它把信息汇总到一处。
-
-相关工具：
-
-- CLI：[google-cli](https://github.com/better-world-ai/x-cli/tree/main/google-cli)、[baidu-cli](https://github.com/better-world-ai/x-cli/tree/main/baidu-cli)
+想了解一个不熟悉的话题？让 Kimi 自动搜索、逐篇读取正文，直接汇总成一份摘要。
 
 <CodePreview
   files={[
@@ -133,14 +80,9 @@ WebBridge 可以帮助 Agent 自动浏览搜索结果、进入详情页，提取
   ]}
 />
 
-安装与使用：
-
-1. 从 [Releases](https://github.com/better-world-ai/x-cli/releases) 下载 google-cli 或 baidu-cli
-2. 打开本地 Agent（如 Kimi Code、Claude Code、Codex CLI、Cursor 等支持 Skill 的客户端），发上面的 prompt
-
 ## 日常办公辅助
 
-利用 WebBridge 的自动化能力，处理重复性的网页操作任务，提升工作效率。
+利用 Kimi 浏览器扩展的自动化能力，处理重复性的网页操作任务，提升工作效率。
 
 ### 电商比价
 
@@ -170,4 +112,29 @@ WebBridge 可以帮助 Agent 自动浏览搜索结果、进入详情页，提取
   ]}
 />
 
-更多使用案例请参考 [Kimi WebBridge 官网](https://www.kimi.com/zh-cn/features/webbridge)。
+## 把重复流程变成技能
+
+同一个流程需要反复执行时，不用每次重发指令。Kimi 可以把操作过程「学」下来存成技能，之后输入 `/` 即可随时调用。
+
+### 把操作录成技能
+
+适合有固定步骤的网页操作，比如每天打开后台导出数据、填写固定表单。
+
+1. 在侧边栏输入 `/`，选择「把操作录成技能」
+2. 像平常一样手动操作一遍，Kimi 会记录你的每一步
+3. 点击「停止并生成」，Kimi 会把这次过程提炼成技能
+4. 确认技能的名称、步骤和参数后保存（密码等敏感信息可设为保密参数，回放时再填写）
+
+之后输入 `/` 选择该技能，Kimi 就会照着做一遍；技能的步骤和内容随时可以修改。
+
+### 把网页变成技能
+
+适合经常使用的网站，比如固定的数据看板或内部系统。
+
+在侧边栏输入 `/`，选择「把网页变成技能」，Kimi 会自动分析这个网站的结构和用法，封装成可调用的技能，保存后即可通过 `/` 使用。
+
+### 把会话存成技能
+
+如果 Kimi 在本次会话中已经完成过一遍不错的流程，也可以直接存下来复用：输入 `/`，选择「把会话存成技能」。
+
+更多使用案例请参考 [Kimi 浏览器扩展官网](https://www.kimi.com/zh-cn/features/webbridge)。

@@ -1,5 +1,5 @@
 ---
-title: "Giới thiệu Kimi WebBridge"
+title: "Giới thiệu Tiện ích mở rộng trình duyệt Kimi"
 slug: "kimi-webbridge-introduction"
 order: 1
 extract_headings: false
@@ -7,14 +7,21 @@ preview: false
 ---
 
 <SeoMeta
-  title="Giới thiệu Kimi WebBridge - Trung tâm trợ giúp Kimi"
-  description="Kimi WebBridge là tiện ích mở rộng trình duyệt được thiết kế cho các AI Agent. Nó chạy trực tiếp trên trình duyệt Chrome hoặc Edge của bạn, tận dụng các phiên đăng nhập sẵn có để giúp Agent tương tác với trang web như một con người."
+  title="Giới thiệu Tiện ích mở rộng trình duyệt Kimi - Trung tâm trợ giúp Kimi"
+  description="Tiện ích mở rộng trình duyệt Kimi (trước đây là Kimi WebBridge) là plugin trình duyệt dành cho AI Agent, có thể mở trang web, nhấp nút, điền biểu mẫu và trích xuất thông tin."
   ogType="article"
 />
 
-# Giới thiệu Kimi WebBridge
+# Giới thiệu Tiện ích mở rộng trình duyệt Kimi
 
-Kimi WebBridge là tiện ích mở rộng trình duyệt được thiết kế cho các AI Agent. Khác với các giải pháp tự động hóa trình duyệt trên đám mây, Kimi WebBridge chạy trực tiếp trên trình duyệt Chrome hoặc Edge của bạn, tự động tận dụng các phiên đăng nhập sẵn có để giúp Agent tương tác với trang web như một con người.
+Tiện ích mở rộng trình duyệt Kimi (trước đây là Kimi WebBridge) là một plugin trình duyệt dành cho AI Agent, có thể mở trang web, nhấp vào nút, điền biểu mẫu và trích xuất thông tin, giúp Agent tự động hoàn thành các thao tác web tẻ nhạt như con người. Bạn cũng có thể tách các trang web thường dùng thành CLI và biến các thao tác web đã ghi lại thành Skill để Agent tái sử dụng bất cứ lúc nào.
+
+## Hai cách sử dụng
+
+Tiện ích mở rộng trình duyệt Kimi có hai cách sử dụng:
+
+- **Thanh bên của trình duyệt**: Nhấp vào biểu tượng Kimi trên thanh công cụ để mở thanh bên, sau đó đăng nhập bằng tài khoản thành viên Kimi để trò chuyện trực tiếp và để Kimi thao tác trang hiện tại giúp bạn.
+- **Điều khiển từ xa bằng Local Agent**: Để các AI Agent như Kimi Work hay Claude Code điều khiển tiện ích mở rộng từ xa, tự động hóa các tác vụ web.
 
 <VideoList
   column={1}
@@ -22,25 +29,14 @@ Kimi WebBridge là tiện ích mở rộng trình duyệt được thiết kế 
     {
       url: "./videos/H265_LoRes_WebBridge_用户教程_EN.mp4",
       type: "video",
-      caption: "Hướng dẫn sử dụng Kimi WebBridge",
+      caption: "Hướng dẫn sử dụng Tiện ích mở rộng trình duyệt Kimi",
     },
   ]}
 />
 
-<Callout type="tip">
-Chúng tôi khuyên bạn nên cài đặt Kimi WebBridge trên máy tính làm việc chính để có trải nghiệm tự động hóa trình duyệt tốt nhất.
-</Callout>
+## Tải xuống và cài đặt
 
-<Callout type="info">
-WebBridge hoạt động thông qua một dịch vụ cầu nối cục bộ và một tiện ích mở rộng trình duyệt. Mọi thao tác đều diễn ra cục bộ trên thiết bị của bạn—trạng thái đăng nhập và nội dung trang web không bao giờ rời khỏi máy của bạn.
-</Callout>
-
-<Frames
-  src="./images/introduction.png"
-  alt="WebBridge Introduction"
-/>
-
-## Bước 1: tải tiện ích mở rộng Kimi WebBridge
+### Bước 1: tải Tiện ích mở rộng trình duyệt Kimi
 
 Bạn có thể tải về theo các cách sau:
 
@@ -57,7 +53,7 @@ Sau đó làm theo các bước tương ứng với trình duyệt của bạn:
 
 **Chrome:**
 
-1. Tải gói tiện ích mở rộng từ [trang web chính thức của Kimi WebBridge](https://www.kimi.com/features/webbridge).
+1. Tải gói tiện ích mở rộng từ [trang web chính thức của Tiện ích mở rộng trình duyệt Kimi](https://www.kimi.com/features/webbridge).
 2. Giải nén tệp đã tải về
 3. Mở `chrome://extensions/` trên thanh địa chỉ
 4. Bật "Chế độ dành cho nhà phát triển" ở góc trên bên phải
@@ -71,7 +67,7 @@ Sau đó làm theo các bước tương ứng với trình duyệt của bạn:
 
 **Edge:**
 
-1. Tải gói tiện ích mở rộng từ [trang web chính thức của Kimi WebBridge](https://www.kimi.com/features/webbridge).
+1. Tải gói tiện ích mở rộng từ [trang web chính thức của Tiện ích mở rộng trình duyệt Kimi](https://www.kimi.com/features/webbridge).
 2. Giải nén tệp đã tải về
 3. Mở `edge://extensions/` trên thanh địa chỉ
 4. Bật "Chế độ dành cho nhà phát triển" ở góc dưới bên trái
@@ -83,31 +79,31 @@ Sau đó làm theo các bước tương ứng với trình duyệt của bạn:
   alt="installation_edge_en"
 />
 
-Sau khi cài đặt, bạn sẽ thấy WebBridge trong danh sách tiện ích mở rộng của trình duyệt. Để truy cập dễ dàng hơn, chúng tôi khuyên bạn nên ghim nó lên thanh công cụ trình duyệt.
+Sau khi cài đặt, bạn sẽ thấy Tiện ích mở rộng trình duyệt Kimi trong danh sách tiện ích mở rộng của trình duyệt. Để truy cập dễ dàng hơn, chúng tôi khuyên bạn nên ghim nó lên thanh công cụ trình duyệt.
 
-## Bước 2: Chọn cách thiết lập và hoàn tất cấu hình
+### Bước 2: Chọn cách thiết lập và hoàn tất cấu hình
 
-### Cách 1: Sử dụng cùng Kimi Work Desktop
+#### Cách 1: Sử dụng cùng Kimi Work Desktop
 
 1. Tải Kimi Work từ [trang web chính thức](https://www.kimi.com/products/kimi-work)
 
-2. Sau khi cài đặt, bạn có thể gửi yêu cầu trong Kimi Work, ví dụ:
+2. Sau khi cài đặt thành công, bạn có thể mở thanh bên của tiện ích mở rộng và gửi yêu cầu, ví dụ:
 
 <CodePreview
   files={[
     {
       name: "prompt.txt",
       language: "text",
-      content: "Dùng Kimi Webbridge mở Xiaohongshu và tìm các bài viết về bản phát hành Kimi K2.6",
+      content: "Dùng Tiện ích mở rộng trình duyệt Kimi mở Xiaohongshu và tìm các bài viết về bản phát hành Kimi K3",
     },
   ]}
 />
 
-### Cách 2: Ghép nối với Agent cục bộ
+#### Cách 2: Ghép nối với Agent cục bộ
 
 Hỗ trợ Claude Code, Codex, Cursor, Kimi Code, Hermes Claw cùng nhiều công cụ khác.
 
-1. Gửi lệnh sau trực tiếp trong Agent để tự động cài đặt WebBridge. Agent sẽ chạy quy trình thiết lập phù hợp với hệ điều hành của bạn.
+1. Gửi lệnh sau trực tiếp trong Agent để tự động cài đặt Tiện ích mở rộng trình duyệt Kimi. Agent sẽ chạy quy trình thiết lập phù hợp với hệ điều hành của bạn.
 
 Nếu bạn dùng macOS, hãy dùng lệnh dưới đây:
 
@@ -144,7 +140,7 @@ Khi tiện ích mở rộng đã được kết nối, bạn có thể gửi yê
     {
       name: "prompt.txt",
       language: "text",
-      content: "Dùng Kimi WebBridge mở X.com và tìm các bài viết về bản phát hành Kimi K2.6",
+      content: "Dùng Tiện ích mở rộng trình duyệt Kimi mở X.com và tìm các bài viết về bản phát hành Kimi K3",
     },
   ]}
 />

@@ -7,12 +7,18 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi WebBridge 자주 묻는 질문 - Kimi 헬프 센터"
-  description="여러 브라우저와 Local Agent에서 Kimi WebBridge를 설치, 연결, 사용하는 방법에 관한 자주 묻는 질문입니다."
+  title="Kimi 브라우저 확장 프로그램 자주 묻는 질문 - Kimi 헬프 센터"
+  description="여러 브라우저와 Local Agent에서 Kimi 브라우저 확장 프로그램을 설치, 연결, 사용하는 방법에 관한 자주 묻는 질문입니다."
   ogType="article"
 />
 
 # 자주 묻는 질문
+
+## 제품 버전
+
+### Kimi WebBridge와 Kimi 브라우저 확장 프로그램은 어떤 관계인가요?
+
+Kimi WebBridge가 Kimi 브라우저 확장 프로그램으로 이름이 변경되었고, 브라우저 사이드바 진입점, 웹 작업 녹화, 웹페이지를 분해해 지시문을 생성하는 기능이 새로 추가되었습니다. Local Agent에서 확장 프로그램을 호출하는 방식은 그대로 유지되므로 계속 사용할 수 있으며, 새로 추가된 사이드바 진입점은 Kimi 멤버로 로그인한 후 사용할 수 있습니다.
 
 ## 설치 및 설정
 
@@ -36,7 +42,7 @@ Kimi Claw Desktop은 로컬 컴퓨터에 배포된 Kimi Claw입니다. Kimi Desk
 
 ### 확장 프로그램 상태가 "연결 끊김"으로 표시됩니다.
 
-Kimi WebBridge 브라우저 확장 프로그램이 정상적으로 설치되었는지 확인한 다음, 설정 방식에 맞는 단계를 따르세요.
+Kimi 브라우저 확장 프로그램이 정상적으로 설치되었는지 확인한 다음, 설정 방식에 맞는 단계를 따르세요.
 
 - **Kimi Desktop**: Kimi Desktop을 다시 시작한 후 다시 시도하세요.
 
@@ -52,9 +58,9 @@ Kimi WebBridge 브라우저 확장 프로그램이 정상적으로 설치되었�
   ]}
 />
 
-### Windows에서 WebBridge를 설치할 때 "설치 실패" 오류가 발생합니다.
+### Windows에서 Kimi 브라우저 확장 프로그램을 설치할 때 "설치 실패" 오류가 발생합니다.
 
-Kimi WebBridge는 Windows 운영 체제를 지원하며, 설치 명령은 Linux 환경에서 실행할 수 있습니다.
+Kimi 브라우저 확장 프로그램은 Windows 운영 체제를 지원하며, 설치 명령은 Linux 환경에서 실행할 수 있습니다.
 
 <CodePreview
   files={[
@@ -66,9 +72,9 @@ Kimi WebBridge는 Windows 운영 체제를 지원하며, 설치 명령은 Linux 
   ]}
 />
 
-### 설치 후 WebBridge에 Chrome 호환성 경고가 표시됩니다. 무슨 의미인가요?
+### 설치 후 Kimi 브라우저 확장 프로그램에 Chrome 호환성 경고가 표시됩니다. 무슨 의미인가요?
 
-WebBridge가 페이지는 정상적으로 열지만 `snapshot`, `evaluate`, `screenshot`, `click` 같은 동작이 계속 실패한다면, 가장 흔한 원인은 **다른 브라우저 확장 프로그램과의 충돌**입니다.
+Kimi 브라우저 확장 프로그램이 페이지는 정상적으로 열지만 `snapshot`, `evaluate`, `screenshot`, `click` 같은 동작이 계속 실패한다면, 가장 흔한 원인은 **다른 브라우저 확장 프로그램과의 충돌**입니다.
 
 특히 스크래핑 도구, 웹사이트 도우미 확장 프로그램, 화면 녹화 확장 프로그램, AI 비서 확장 프로그램에서 자주 발생합니다.
 
@@ -76,12 +82,12 @@ WebBridge가 페이지는 정상적으로 열지만 `snapshot`, `evaluate`, `scr
 
 1. 브라우저의 확장 프로그램 관리 페이지를 엽니다.
 2. 다른 확장 프로그램을 일시적으로 비활성화합니다.
-3. Kimi WebBridge만 활성화 상태로 둡니다.
+3. Kimi 브라우저 확장 프로그램만 활성화 상태로 둡니다.
 4. 브라우저를 다시 시작한 후 다시 시도합니다.
-5. WebBridge가 정상적으로 작동하면 다른 확장 프로그램을 하나씩 다시 활성화하여 충돌을 일으키는 확장 프로그램을 찾아냅니다.
+5. Kimi 브라우저 확장 프로그램이 정상적으로 작동하면 다른 확장 프로그램을 하나씩 다시 활성화하여 충돌을 일으키는 확장 프로그램을 찾아냅니다.
 
 
-### WebBridge가 제 로그인 정보를 유출하지는 않나요?
+### Kimi 브라우저 확장 프로그램이 제 로그인 정보를 유출하지는 않나요?
 
 그렇지 않습니다. 모든 실행은 사용자 기기에서 로컬로 이루어지며, 로그인 상태와 웹 페이지 콘텐츠는 절대 기기 밖으로 나가지 않습니다. Agent는 사용자가 승인한 작업 결과에만 접근할 수 있습니다.
 
@@ -97,7 +103,7 @@ WebBridge가 페이지는 정상적으로 열지만 `snapshot`, `evaluate`, `scr
 
 ### 어떤 다른 Agent를 지원하나요?
 
-WebBridge는 Claude Code, Codex, Cursor, Kimi Code, Hermes Claw 등을 비롯한 모든 Local Agent를 지원합니다.
+Kimi 브라우저 확장 프로그램은 Claude Code, Codex, Cursor, Kimi Code, Hermes Claw 등을 비롯한 모든 Local Agent를 지원합니다.
 
 ### Agent마다 설정 방법이 같나요?
 

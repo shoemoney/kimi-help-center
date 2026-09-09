@@ -1,5 +1,5 @@
 ---
-title: "Kimi WebBridge hoạt động như thế nào"
+title: "Tiện ích mở rộng trình duyệt Kimi hoạt động như thế nào"
 slug: "kimi-webbridge-how-it-works"
 order: 2
 extract_headings: true
@@ -7,20 +7,21 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi WebBridge hoạt động như thế nào - Trung tâm trợ giúp Kimi"
-  description="Tìm hiểu cách Kimi WebBridge kết nối trình duyệt của bạn với các AI Agent ngay trên máy, cho phép điều hướng web, nhấp chuột, chụp màn hình an toàn và nhiều nội dung khác."
+  title="Tiện ích mở rộng trình duyệt Kimi hoạt động như thế nào - Trung tâm trợ giúp Kimi"
+  description="Tìm hiểu cách Tiện ích mở rộng trình duyệt Kimi kết nối trình duyệt của bạn với các AI Agent ngay trên máy, cho phép điều hướng web, nhấp chuột, chụp màn hình an toàn và nhiều nội dung khác."
   ogType="article"
 />
 
-# Kimi WebBridge hoạt động như thế nào
+# Tiện ích mở rộng trình duyệt Kimi hoạt động như thế nào
 
 ## Quy trình hoạt động
 
-Kimi WebBridge vận hành như sau:
+Tiện ích mở rộng trình duyệt Kimi hỗ trợ hai cách sử dụng — **trò chuyện qua thanh bên** và **điều khiển từ xa bằng Local Agent** — và vận hành như sau:
 
-1. **Dịch vụ cầu nối cục bộ**: Một dịch vụ cục bộ chạy trên máy tính của bạn để nhận lệnh từ Agent
-2. **Tiện ích mở rộng trình duyệt**: Thực thi các hành động cụ thể trong trình duyệt dựa trên Chrome DevTools Protocol
-3. **Cách ly bảo mật**: Mọi thao tác đều diễn ra cục bộ—trạng thái đăng nhập và nội dung trang web không bao giờ rời khỏi thiết bị của bạn
+1. **Thanh bên của trình duyệt**: Nhấp vào biểu tượng Kimi trên thanh công cụ để mở thanh bên, sau đó đăng nhập bằng tài khoản thành viên Kimi để trò chuyện trực tiếp
+2. **Dịch vụ cầu nối cục bộ**: Một dịch vụ cục bộ chạy trên máy tính của bạn để nhận lệnh từ Agent
+3. **Tiện ích mở rộng trình duyệt**: Thực thi các hành động cụ thể trong trình duyệt dựa trên Chrome DevTools Protocol
+4. **Cách ly bảo mật**: Mọi thao tác đều diễn ra cục bộ—trạng thái đăng nhập và nội dung trang web không bao giờ rời khỏi thiết bị của bạn
 
 <Frames
   src="./images/workflow.png"
@@ -29,15 +30,11 @@ Kimi WebBridge vận hành như sau:
 
 ## Giao diện tiện ích mở rộng
 
-Nhấp vào biểu tượng WebBridge trên thanh công cụ trình duyệt để kiểm tra trạng thái kết nối hiện tại:
-
-**Đã kết nối**: WebBridge đang hoạt động bình thường và có thể phối hợp với Agent.
-
-**Mất kết nối**: Hãy kiểm tra cấu hình hoặc chạy lại lệnh kết nối.
+Nhấp vào biểu tượng Tiện ích mở rộng trình duyệt Kimi trên thanh công cụ của trình duyệt để mở rộng thanh bên và gửi tác vụ.
 
 <Frames
   src="./images/connection.png"
-  alt="WebBridge Connection"
+  alt="Tiện ích mở rộng trình duyệt Kimi Connection"
 />
 
 ## Tính năng
@@ -58,4 +55,4 @@ Các trường hợp sử dụng:
 - Điền biểu mẫu: Tự động điền nhiều loại biểu mẫu trực tuyến
 - Nhập liệu: Tự động sắp xếp và nhập dữ liệu web vào định dạng được chỉ định
 
-Để biết thêm các trường hợp sử dụng, vui lòng tham khảo [trang web chính thức của Kimi WebBridge](https://www.kimi.com/features/webbridge).
+Để biết thêm các trường hợp sử dụng, vui lòng tham khảo [trang web chính thức của Tiện ích mở rộng trình duyệt Kimi](https://www.kimi.com/features/webbridge).

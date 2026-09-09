@@ -1,5 +1,5 @@
 ---
-title: "Introduzione a Kimi WebBridge"
+title: "Introduzione all'Estensione del browser Kimi"
 slug: "kimi-webbridge-introduction"
 order: 1
 extract_headings: false
@@ -7,14 +7,21 @@ preview: false
 ---
 
 <SeoMeta
-  title="Introduzione a Kimi WebBridge - Centro assistenza Kimi"
-  description="Kimi WebBridge è un'estensione per browser pensata per gli agenti IA. Funziona direttamente nel tuo browser Chrome o Edge e sfrutta le sessioni di accesso già attive per consentire agli Agent di interagire con le pagine web come farebbe una persona."
+  title="Introduzione all'Estensione del browser Kimi - Centro assistenza Kimi"
+  description="L'Estensione del browser Kimi (precedentemente Kimi WebBridge) è un plugin per browser per agenti IA che apre pagine, fa clic sui pulsanti, compila moduli ed estrae informazioni."
   ogType="article"
 />
 
-# Introduzione a Kimi WebBridge
+# Introduzione all'Estensione del browser Kimi
 
-Kimi WebBridge è un'estensione per browser pensata per gli agenti IA. A differenza delle soluzioni di automazione del browser basate sul cloud, Kimi WebBridge funziona direttamente nel tuo browser Chrome o Edge e sfrutta automaticamente le sessioni di accesso già attive per consentire agli Agent di interagire con le pagine web come farebbe una persona.
+L'Estensione del browser Kimi (precedentemente Kimi WebBridge) è un plugin per browser progettato per gli agenti IA. Può aprire pagine, fare clic sui pulsanti, compilare moduli ed estrarre informazioni, consentendo all'agente di completare automaticamente le operazioni web più noiose come farebbe una persona. Puoi anche scomporre le pagine web che usi più spesso in CLI e trasformare le operazioni web registrate in Skill che l'agente può riutilizzare in qualsiasi momento.
+
+## Due modalità d'uso
+
+L'Estensione del browser Kimi offre due modalità d'uso:
+
+- **Barra laterale del browser**: fai clic sull'icona di Kimi nella barra degli strumenti per aprire la barra laterale, quindi accedi con un account Kimi con abbonamento per chattare direttamente e lasciare che Kimi operi sulla pagina corrente per te.
+- **Controllo remoto tramite un Agent locale**: lascia che agenti IA come Kimi Work o Claude Code pilotino l'estensione da remoto per automatizzare le attività web.
 
 <VideoList
   column={1}
@@ -22,25 +29,14 @@ Kimi WebBridge è un'estensione per browser pensata per gli agenti IA. A differe
     {
       url: "./videos/H265_LoRes_WebBridge_用户教程_EN.mp4",
       type: "video",
-      caption: "Tutorial di Kimi WebBridge",
+      caption: "Tutorial dell'Estensione del browser Kimi",
     },
   ]}
 />
 
-<Callout type="tip">
-Ti consigliamo di installare Kimi WebBridge sul computer di lavoro principale per ottenere la migliore esperienza di automazione del browser.
-</Callout>
+## Scarica e installa
 
-<Callout type="info">
-WebBridge funziona tramite un servizio bridge locale e un'estensione per browser. Tutta l'esecuzione avviene localmente sul tuo dispositivo: gli stati di accesso e i contenuti delle pagine web non lasciano mai la tua macchina.
-</Callout>
-
-<Frames
-  src="./images/introduction.png"
-  alt="WebBridge Introduction"
-/>
-
-## Passaggio 1: scarica l'estensione Kimi WebBridge
+### Passaggio 1: scarica l'Estensione del browser Kimi
 
 Puoi scaricarla con i metodi seguenti:
 
@@ -57,7 +53,7 @@ Segui poi i passaggi relativi al tuo browser:
 
 **Chrome:**
 
-1. Scarica il pacchetto dell'estensione dal [sito ufficiale di Kimi WebBridge](https://www.kimi.com/features/webbridge).
+1. Scarica il pacchetto dell'estensione dal [sito ufficiale dell'Estensione del browser Kimi](https://www.kimi.com/features/webbridge).
 2. Estrai il file scaricato
 3. Apri `chrome://extensions/` nella barra degli indirizzi
 4. Attiva la "Modalità sviluppatore" nell'angolo in alto a destra
@@ -71,7 +67,7 @@ Segui poi i passaggi relativi al tuo browser:
 
 **Edge:**
 
-1. Scarica il pacchetto dell'estensione dal [sito ufficiale di Kimi WebBridge](https://www.kimi.com/features/webbridge).
+1. Scarica il pacchetto dell'estensione dal [sito ufficiale dell'Estensione del browser Kimi](https://www.kimi.com/features/webbridge).
 2. Estrai il file scaricato
 3. Apri `edge://extensions/` nella barra degli indirizzi
 4. Attiva la "Modalità sviluppatore" nell'angolo in basso a sinistra
@@ -83,31 +79,31 @@ Segui poi i passaggi relativi al tuo browser:
   alt="installation_edge_en"
 />
 
-Dopo l'installazione, dovresti vedere WebBridge nell'elenco delle estensioni del browser. Per un accesso più rapido, ti consigliamo di fissarla alla barra degli strumenti del browser.
+Dopo l'installazione, dovresti vedere l'Estensione del browser Kimi nell'elenco delle estensioni del browser. Per un accesso più rapido, ti consigliamo di fissarla alla barra degli strumenti del browser.
 
-## Passaggio 2: scegli il metodo di configurazione e completa l'impostazione
+### Passaggio 2: scegli il metodo di configurazione e completa l'impostazione
 
-### Metodo 1: utilizzo con Kimi Work Desktop
+#### Metodo 1: utilizzo con Kimi Work Desktop
 
 1. Scarica Kimi Work dal [sito ufficiale](https://www.kimi.com/products/kimi-work)
 
-2. Una volta installato, puoi inviare istruzioni in Kimi Work, ad esempio:
+2. Una volta installato, puoi aprire la barra laterale dell'estensione e inviare istruzioni, ad esempio:
 
 <CodePreview
   files={[
     {
       name: "prompt.txt",
       language: "text",
-      content: "Usa Kimi Webbridge e apri Xiaohongshu, cerca i post sul rilascio di Kimi K2.6",
+      content: "Usa l'Estensione del browser Kimi e apri Xiaohongshu, cerca i post sul rilascio di Kimi K3",
     },
   ]}
 />
 
-### Metodo 2: abbinamento con gli Agent locali
+#### Metodo 2: abbinamento con gli Agent locali
 
 Supporta Claude Code, Codex, Cursor, Kimi Code, Hermes Claw e altri.
 
-1. Invia direttamente all'Agent il comando seguente per installare automaticamente WebBridge. L'Agent eseguirà la configurazione appropriata in base al tuo sistema operativo.
+1. Invia direttamente all'Agent il comando seguente per installare automaticamente l'Estensione del browser Kimi. L'Agent eseguirà la configurazione appropriata in base al tuo sistema operativo.
 
 Se usi macOS, utilizza il comando qui sotto:
 
@@ -144,7 +140,7 @@ Una volta collegata l'estensione, puoi inviare istruzioni.
     {
       name: "prompt.txt",
       language: "text",
-      content: "Usa Kimi WebBridge apri X.com e cerca i post sul rilascio di Kimi K2.6",
+      content: "Usa l'Estensione del browser Kimi apri X.com e cerca i post sul rilascio di Kimi K3",
     },
   ]}
 />

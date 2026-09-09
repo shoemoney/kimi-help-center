@@ -7,12 +7,18 @@ preview: false
 ---
 
 <SeoMeta
-  title="FAQ Kimi WebBridge - Pusat Bantuan Kimi"
-  description="Pertanyaan yang sering diajukan tentang instalasi, koneksi, dan penggunaan Kimi WebBridge dengan berbagai browser dan Local Agent."
+  title="FAQ Ekstensi Browser Kimi - Pusat Bantuan Kimi"
+  description="Pertanyaan yang sering diajukan tentang instalasi, koneksi, dan penggunaan Ekstensi Browser Kimi dengan berbagai browser dan Local Agent."
   ogType="article"
 />
 
 # FAQ
+
+## Versi produk
+
+### Apa hubungan antara Kimi WebBridge dan Ekstensi Browser Kimi?
+
+Kimi WebBridge telah berganti nama menjadi Ekstensi Browser Kimi, dengan fitur baru termasuk entri sidebar browser, perekaman aksi web, dan kemampuan memecah halaman web menjadi instruksi. Cara Local Agent memanggil ekstensi tetap sama dan dapat terus digunakan; entri sidebar baru mengharuskan Anda masuk dengan akun keanggotaan Kimi.
 
 ## Instalasi dan konfigurasi
 
@@ -36,7 +42,7 @@ Kimi Claw Desktop adalah Kimi Claw yang diterapkan di komputer lokal Anda. Buka 
 
 ### Status ekstensi menampilkan "Disconnected"?
 
-Pastikan ekstensi browser Kimi WebBridge sudah berhasil dipasang, lalu ikuti langkah sesuai metode pengaturan Anda:
+Pastikan Ekstensi Browser Kimi sudah berhasil dipasang, lalu ikuti langkah sesuai metode pengaturan Anda:
 
 - **Kimi Desktop**: Mulai ulang Kimi Desktop dan coba lagi
 
@@ -52,9 +58,9 @@ Pastikan ekstensi browser Kimi WebBridge sudah berhasil dipasang, lalu ikuti lan
   ]}
 />
 
-### Di Windows, saat memasang WebBridge muncul error: Installation failed
+### Di Windows, saat memasang Ekstensi Browser Kimi muncul error: Installation failed
 
-Kimi WebBridge mendukung sistem operasi Windows, dan perintah instalasinya dapat dijalankan di lingkungan Linux:
+Ekstensi Browser Kimi mendukung sistem operasi Windows, dan perintah instalasinya dapat dijalankan di lingkungan Linux:
 
 <CodePreview
   files={[
@@ -66,9 +72,9 @@ Kimi WebBridge mendukung sistem operasi Windows, dan perintah instalasinya dapat
   ]}
 />
 
-### WebBridge menampilkan peringatan kompatibilitas Chrome setelah instalasi. Apa artinya?
+### Ekstensi Browser Kimi menampilkan peringatan kompatibilitas Chrome setelah instalasi. Apa artinya?
 
-Jika WebBridge bisa membuka halaman dengan normal, tetapi tindakan seperti `snapshot`, `evaluate`, `screenshot`, atau `click` terus gagal, penyebab yang lebih umum adalah **konflik dengan ekstensi browser lain**.
+Jika Ekstensi Browser Kimi bisa membuka halaman dengan normal, tetapi tindakan seperti `snapshot`, `evaluate`, `screenshot`, atau `click` terus gagal, penyebab yang lebih umum adalah **konflik dengan ekstensi browser lain**.
 
 Hal ini terutama sering terjadi pada alat scraping, ekstensi pembantu situs web, ekstensi perekam layar, dan ekstensi asisten AI.
 
@@ -76,12 +82,12 @@ Kami menyarankan langkah-langkah berikut untuk mengatasinya:
 
 1. Buka halaman pengelolaan ekstensi browser Anda
 2. Nonaktifkan sementara ekstensi lain
-3. Biarkan hanya Kimi WebBridge yang aktif
+3. Biarkan hanya Ekstensi Browser Kimi yang aktif
 4. Mulai ulang browser dan coba lagi
-5. Jika WebBridge berjalan normal, aktifkan kembali ekstensi lain satu per satu untuk menemukan ekstensi yang menyebabkan konflik
+5. Jika Ekstensi Browser Kimi berjalan normal, aktifkan kembali ekstensi lain satu per satu untuk menemukan ekstensi yang menyebabkan konflik
 
 
-### Apakah WebBridge akan membocorkan informasi login saya?
+### Apakah Ekstensi Browser Kimi akan membocorkan informasi login saya?
 
 Tidak. Semua eksekusi berlangsung secara lokal di perangkat Anda—status login dan konten halaman web tidak pernah keluar dari komputer Anda. Agent hanya dapat mengakses hasil operasi yang Anda izinkan.
 
@@ -97,7 +103,7 @@ Saat ini mendukung Chrome dan Edge. Kami menyarankan penggunaan versi terbaru un
 
 ### Agent lain apa saja yang didukung?
 
-WebBridge mendukung semua Local Agent, termasuk Claude Code, Codex, Cursor, Kimi Code, Hermes Claw, dan lainnya.
+Ekstensi Browser Kimi mendukung semua Local Agent, termasuk Claude Code, Codex, Cursor, Kimi Code, Hermes Claw, dan lainnya.
 
 ### Apakah konfigurasinya sama untuk Agent yang berbeda?
 

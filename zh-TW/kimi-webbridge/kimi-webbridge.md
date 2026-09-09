@@ -1,5 +1,5 @@
 ---
-title: "Kimi WebBridge 介紹"
+title: "Kimi 瀏覽器擴充功能介紹"
 slug: "kimi-webbridge-introduction"
 order: 1
 extract_headings: false
@@ -7,14 +7,21 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi WebBridge 介紹 - Kimi 說明中心"
-  description="Kimi WebBridge 是專為 AI Agent 設計的瀏覽器擴充功能。它直接在你的 Chrome 或 Edge 瀏覽器中執行，並利用你現有的登入工作階段，讓 Agent 像真人一樣與網頁互動。"
+  title="Kimi 瀏覽器擴充功能介紹 - Kimi 說明中心"
+  description="Kimi 瀏覽器擴充功能（原 Kimi WebBridge）是為 AI Agent 設計的瀏覽器外掛，可開啟網頁、點擊按鈕、填寫表單和擷取資訊，由 Agent 像真人一樣自動完成繁瑣的網頁操作。"
   ogType="article"
 />
 
-# Kimi WebBridge 介紹
+# Kimi 瀏覽器擴充功能介紹
 
-Kimi WebBridge 是專為 AI Agent 設計的瀏覽器擴充功能。不同於雲端瀏覽器自動化方案，Kimi WebBridge 會直接在你的 Chrome 或 Edge 瀏覽器中執行，自動利用你現有的登入工作階段，讓 Agent 像真人一樣與網頁互動。
+Kimi 瀏覽器擴充功能（原 Kimi WebBridge）是為 AI Agent 設計的瀏覽器外掛，可開啟網頁、點擊按鈕、填寫表單和擷取資訊，由 Agent 像真人一樣自動完成繁瑣的網頁操作。你還可以把常用網頁拆解成 CLI、將錄製的網頁操作變成 Skill，讓 Agent 隨時重複使用這些能力。
+
+## 產品入口
+
+Kimi 瀏覽器擴充功能有兩種用法：
+
+- **瀏覽器側邊欄**：點擊工具列的 Kimi 圖示開啟側邊欄，登入 Kimi 會員即可直接對話，讓 Kimi 幫你操作當前網頁。
+- **本機 Agent 遠端控制**：讓 Kimi Work、Claude Code 等 AI 助手遠端驅動擴充功能，自動完成網頁任務。
 
 <VideoList
   column={1}
@@ -22,25 +29,14 @@ Kimi WebBridge 是專為 AI Agent 設計的瀏覽器擴充功能。不同於雲�
     {
       url: "./videos/H265_LoRes_WebBridge_用户教程_EN.mp4",
       type: "video",
-      caption: "Kimi WebBridge 教學",
+      caption: "Kimi 瀏覽器擴充功能教學",
     },
   ]}
 />
 
-<Callout type="tip">
-為獲得最佳瀏覽器自動化體驗，建議將 Kimi WebBridge 部署在你的主要工作電腦上。
-</Callout>
+## 下載安裝
 
-<Callout type="info">
-WebBridge 透過本機橋接服務與瀏覽器擴充功能運作。所有執行都在你的裝置本機完成——登入狀態與網頁內容都不會離開你的電腦。
-</Callout>
-
-<Frames
-  src="./images/introduction.png"
-  alt="WebBridge 介紹"
-/>
-
-## 步驟 1：下載 Kimi WebBridge 擴充功能
+### 步驟 1：下載 Kimi 瀏覽器擴充功能
 
 你可以透過以下方式下載：
 
@@ -57,7 +53,7 @@ WebBridge 透過本機橋接服務與瀏覽器擴充功能運作。所有執行�
 
 **Chrome：**
 
-1. 從 [Kimi WebBridge 官方網站](https://www.kimi.com/features/webbridge)下載擴充功能套件。
+1. 從 [Kimi 瀏覽器擴充功能官方網站](https://www.kimi.com/features/webbridge)下載擴充功能套件。
 2. 解壓縮下載的檔案
 3. 在網址列開啟 `chrome://extensions/`
 4. 在右上角啟用「Developer mode」
@@ -71,7 +67,7 @@ WebBridge 透過本機橋接服務與瀏覽器擴充功能運作。所有執行�
 
 **Edge：**
 
-1. 從 [Kimi WebBridge 官方網站](https://www.kimi.com/features/webbridge)下載擴充功能套件。
+1. 從 [Kimi 瀏覽器擴充功能官方網站](https://www.kimi.com/features/webbridge)下載擴充功能套件。
 2. 解壓縮下載的檔案
 3. 在網址列開啟 `edge://extensions/`
 4. 在左下角啟用「Developer mode」
@@ -83,31 +79,31 @@ WebBridge 透過本機橋接服務與瀏覽器擴充功能運作。所有執行�
   alt="installation_edge_en"
 />
 
-安裝完成後，你應該會在瀏覽器的擴充功能清單中看到 WebBridge。為了方便使用，建議將它釘選到瀏覽器工具列。
+安裝完成後，你應該會在瀏覽器的擴充功能清單中看到 Kimi 瀏覽器擴充功能。為了方便使用，建議將它釘選到瀏覽器工具列。
 
-## 步驟 2：選擇設定方式並完成設定
+### 步驟 2：選擇設定方式並完成設定
 
-### 方法 1：搭配 Kimi Work Desktop 使用
+#### 方法 1：搭配 Kimi Work Desktop 使用
 
 1. 從[官方網站](https://www.kimi.com/products/kimi-work)下載 Kimi Work
 
-2. 安裝完成後，你可以在 Kimi Work 中傳送指令，例如：
+2. 安裝成功後即可開啟擴充功能側邊欄傳送指令，例如：
 
 <CodePreview
   files={[
     {
       name: "prompt.txt",
       language: "text",
-      content: "使用 Kimi Webbridge 開啟 Xiaohongshu，搜尋關於 Kimi K2.6 發布的貼文",
+      content: "使用 Kimi 瀏覽器擴充功能開啟 Xiaohongshu，搜尋關於 Kimi K3 發布的貼文",
     },
   ]}
 />
 
-### 方法 2：搭配本機 Agent
+#### 方法 2：搭配本機 Agent
 
 支援 Claude Code、Codex、Cursor、Kimi Code、Hermes Claw 等。
 
-1. 直接在 Agent 中傳送以下指令，即可自動安裝 WebBridge。Agent 會依據你的作業系統執行對應的設定。
+1. 直接在 Agent 中傳送以下指令，即可自動安裝 Kimi 瀏覽器擴充功能。Agent 會依據你的作業系統執行對應的設定。
 
 如果你是 macOS 使用者，請使用以下指令：
 
@@ -144,7 +140,7 @@ WebBridge 透過本機橋接服務與瀏覽器擴充功能運作。所有執行�
     {
       name: "prompt.txt",
       language: "text",
-      content: "使用 Kimi WebBridge 開啟 X.com，並搜尋關於 Kimi K2.6 發布的貼文",
+      content: "使用 Kimi 瀏覽器擴充功能開啟 X.com，並搜尋關於 Kimi K3 發布的貼文",
     },
   ]}
 />

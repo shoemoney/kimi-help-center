@@ -1,5 +1,5 @@
 ---
-title: "Kimi WebBridge 的運作方式"
+title: "Kimi 瀏覽器擴充功能的運作方式"
 slug: "kimi-webbridge-how-it-works"
 order: 2
 extract_headings: true
@@ -7,20 +7,21 @@ preview: false
 ---
 
 <SeoMeta
-  title="Kimi WebBridge 的運作方式 - Kimi 說明中心"
-  description="了解 Kimi WebBridge 如何在本機將你的瀏覽器連接至 AI Agent，安全地進行網頁瀏覽、點擊、截圖等操作。"
+  title="Kimi 瀏覽器擴充功能的運作方式 - Kimi 說明中心"
+  description="了解 Kimi 瀏覽器擴充功能如何在本機將你的瀏覽器連接至 AI Agent，安全地進行網頁瀏覽、點擊、截圖等操作。"
   ogType="article"
 />
 
-# Kimi WebBridge 的運作方式
+# Kimi 瀏覽器擴充功能的運作方式
 
 ## 工作流程
 
-Kimi WebBridge 的運作流程如下：
+Kimi 瀏覽器擴充功能支援**側邊欄對話**與**本機 Agent 遠端控制**兩種用法，透過以下方式運作：
 
-1. **本機橋接服務**：在你的電腦上執行本機服務，用來接收 Agent 的指令
-2. **瀏覽器擴充功能**：基於 Chrome DevTools Protocol，在瀏覽器中執行指定操作
-3. **安全隔離**：所有執行都在本機完成——登入狀態與網頁內容絕不會離開你的裝置
+1. **瀏覽器側邊欄**：點擊工具列的 Kimi 圖示開啟側邊欄，登入 Kimi 會員即可直接對話
+2. **本機橋接服務**：在你的電腦上執行本機服務，用來接收 Agent 的指令
+3. **瀏覽器擴充功能**：基於 Chrome DevTools Protocol，在瀏覽器中執行指定操作
+4. **安全隔離**：所有執行都在本機完成——登入狀態與網頁內容絕不會離開你的裝置
 
 <Frames
   src="./images/workflow.png"
@@ -29,15 +30,11 @@ Kimi WebBridge 的運作流程如下：
 
 ## 擴充功能介面
 
-點擊瀏覽器工具列中的 WebBridge 圖示，即可查看目前連線狀態：
-
-**已連線**：WebBridge 運作正常，可與 Agent 協作。
-
-**未連線**：請檢查你的設定，或重新執行連線指令。
+點擊瀏覽器工具列中的 Kimi 瀏覽器擴充功能圖示，即可展開側邊欄並發送任務。
 
 <Frames
   src="./images/connection.png"
-  alt="WebBridge 連線"
+  alt="Kimi 瀏覽器擴充功能連線"
 />
 
 ## 功能
@@ -58,4 +55,4 @@ Kimi WebBridge 的運作流程如下：
 - 表單填寫：自動填寫各類線上表單
 - 資料輸入：自動整理網頁資料，並依指定格式輸入
 
-更多使用情境，請參閱 [Kimi WebBridge 官方網站](https://www.kimi.com/features/webbridge)。
+更多使用情境，請參閱 [Kimi 瀏覽器擴充功能官方網站](https://www.kimi.com/features/webbridge)。

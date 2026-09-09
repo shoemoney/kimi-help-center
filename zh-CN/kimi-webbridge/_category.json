@@ -1,9 +1,9 @@
 {
-  "title": "Kimi WebBridge",
-  "description": "Kimi WebBridge产品介绍、使用步骤、常见问题",
+  "title": "Kimi 浏览器扩展",
+  "description": "Kimi 浏览器扩展产品介绍、使用步骤、常见问题",
   "seo": {
-    "title": "Kimi WebBridge",
-    "description": "Kimi WebBridge产品介绍、使用步骤、常见问题"
+    "title": "Kimi 浏览器扩展",
+    "description": "Kimi 浏览器扩展产品介绍、使用步骤、常见问题"
   },
   "icon": "Kimi-WebBridge",
   "order": 6,

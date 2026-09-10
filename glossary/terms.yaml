@@ -1,6 +1,6 @@
 meta:
   version: 1.0.0
-  last_updated: '2026-09-02'
+  last_updated: '2026-09-10'
   description: Kimi Help Center 多语言专有名词对照表
   source_repo: git@dev.msh.team:search-engine/kimi-helpcenter-doc.git
   total_terms: 174
@@ -163,16 +163,35 @@ terms:
   status: confirmed
 - id: P1-010
   category: P1
-  zh_form: Kimi WebBridge
-  en_form: Kimi WebBridge
+  zh_form: Kimi 浏览器扩展
+  en_form: Kimi Browser Extension
   alias:
+  - Kimi WebBridge
   - WebBridge
-  translation_strategy: keep_original
+  translation_strategy: localize
   case_sensitive: true
   region_note: global
-  context_example: Kimi WebBridge 允许 AI 控制真实浏览器
+  context_example: Kimi 浏览器扩展（原 Kimi WebBridge）允许 AI 控制真实浏览器
   source_article: zh-CN/kimi-webbridge/kimi-webbridge.md
   status: confirmed
+  localized_forms:
+    zh-CN: Kimi 浏览器扩展
+    zh-SG: Kimi 浏览器扩展
+    zh-TW: Kimi 瀏覽器擴充功能
+    en-US: Kimi Browser Extension
+    en-CN: Kimi Browser Extension
+    de-DE: Kimi Browsererweiterung
+    es-419: Extensión de navegador Kimi
+    fr-FR: Extension de navigateur Kimi
+    id-ID: Ekstensi Browser Kimi
+    it-IT: Estensione del browser Kimi
+    ja-JP: Kimi ブラウザ拡張機能
+    ko-KR: Kimi 브라우저 확장 프로그램
+    pt-BR: Extensão de navegador Kimi
+    ru-RU: Расширение браузера Kimi
+    th-TH: ส่วนขยายเบราว์เซอร์ Kimi
+    tr-TR: Kimi Tarayıcı Uzantısı
+    vi-VN: Tiện ích mở rộng trình duyệt Kimi
 - id: P1-011
   category: P1
   zh_form: OK Computer

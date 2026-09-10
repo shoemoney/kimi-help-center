@@ -47,12 +47,10 @@ Anda dapat mengunduhnya melalui cara berikut:
 
 **Cara 2: pemasangan manual**
 
-Jika Anda tidak dapat mengakses toko web, gunakan cara pemasangan manual. Langkah-langkahnya sama untuk Chrome dan Edge:
+Jika Anda tidak dapat mengakses toko web, gunakan cara pemasangan manual:
 
 1. Unduh paket ekstensi dari [situs resmi Ekstensi Browser Kimi](https://www.kimi.com/features/webbridge) dan ekstrak file tersebut
-2. Buka halaman ekstensi di bilah alamat:
-   - Chrome: `chrome://extensions/`
-   - Edge: `edge://extensions/`
+2. Buka halaman ekstensi di bilah alamat (Chrome: `chrome://extensions/`; Edge: `edge://extensions/`)
 3. Aktifkan "Developer mode" (di pojok kanan atas pada Chrome, di pojok kiri bawah pada Edge)
 4. Klik "Load unpacked"
 5. Di pemilih file, pilih folder WebBridge yang sudah diekstrak

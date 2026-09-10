@@ -47,12 +47,10 @@ Puoi scaricarla con i metodi seguenti:
 
 **Metodo 2: installazione manuale**
 
-Se non riesci ad accedere allo store web, puoi usare il metodo di installazione manuale. I passaggi sono gli stessi per Chrome ed Edge:
+Se non riesci ad accedere allo store web, puoi usare il metodo di installazione manuale:
 
 1. Scarica il pacchetto dell'estensione dal [sito ufficiale dell'Estensione del browser Kimi](https://www.kimi.com/features/webbridge) ed estrailo
-2. Apri la pagina delle estensioni nella barra degli indirizzi:
-   - Chrome: `chrome://extensions/`
-   - Edge: `edge://extensions/`
+2. Apri la pagina delle estensioni nella barra degli indirizzi (Chrome: `chrome://extensions/`; Edge: `edge://extensions/`)
 3. Attiva la "Modalità sviluppatore" (in alto a destra in Chrome, in basso a sinistra in Edge)
 4. Fai clic su "Carica estensione non pacchettizzata"
 5. Nel selettore di file, scegli la cartella WebBridge estratta

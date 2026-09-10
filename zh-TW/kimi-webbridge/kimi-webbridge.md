@@ -47,12 +47,10 @@ Kimi 瀏覽器擴充功能有兩種用法：
 
 **方法 2：手動安裝**
 
-如果無法存取線上商店，可以使用手動安裝方式。Chrome 和 Edge 的步驟一致：
+如果無法存取線上商店，可以使用手動安裝方式：
 
 1. 前往 [Kimi 瀏覽器擴充功能官方網站](https://www.kimi.com/features/webbridge) 下載擴充功能套件，並解壓縮下載好的檔案
-2. 在網址列輸入擴充功能管理頁網址：
-   - Chrome：`chrome://extensions/`
-   - Edge：`edge://extensions/`
+2. 在網址列輸入擴充功能管理頁網址（Chrome：`chrome://extensions/`；Edge：`edge://extensions/`）
 3. 啟用「Developer mode」（Chrome 在頁面右上角，Edge 在頁面左下角）
 4. 按一下「Load unpacked」
 5. 在檔案選擇器中，選取解壓縮後的 WebBridge 資料夾

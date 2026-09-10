@@ -47,36 +47,19 @@ Kimi 브라우저 확장 프로그램에는 두 가지 사용 방법이 있습�
 
 **방법 2: 수동 설치**
 
-웹 스토어에 접근할 수 없는 경우 수동 설치 방법을 사용할 수 있습니다.
+웹 스토어에 접근할 수 없는 경우 수동 설치 방법을 사용할 수 있습니다. Chrome과 Edge의 단계는 동일합니다.
 
-그런 다음 사용 중인 브라우저에 맞는 단계를 따르세요.
-
-**Chrome:**
-
-1. [Kimi 브라우저 확장 프로그램 공식 웹사이트](https://www.kimi.com/features/webbridge)에서 확장 프로그램 패키지를 다운로드합니다.
-2. 다운로드한 파일의 압축을 풉니다
-3. 주소창에 `chrome://extensions/`를 입력해 엽니다
-4. 우측 상단의 "개발자 모드"를 켭니다
-5. "압축해제된 확장 프로그램을 로드합니다"를 클릭합니다
-6. 파일 선택 창에서 압축을 푼 WebBridge 폴더를 선택합니다
+1. [Kimi 브라우저 확장 프로그램 공식 웹사이트](https://www.kimi.com/features/webbridge)에서 확장 프로그램 패키지를 다운로드하고 압축을 풉니다
+2. 주소창에 확장 프로그램 관리 페이지 주소를 입력합니다:
+   - Chrome: `chrome://extensions/`
+   - Edge: `edge://extensions/`
+3. "개발자 모드"를 켭니다(Chrome은 페이지 우측 상단, Edge는 좌측 하단)
+4. "압축해제된 확장 프로그램을 로드합니다"를 클릭합니다
+5. 파일 선택 창에서 압축을 푼 WebBridge 폴더를 선택합니다
 
 <Frames
   src="./images/installation_chrome_en.png"
-  alt="installation_chrome_en"
-/>
-
-**Edge:**
-
-1. [Kimi 브라우저 확장 프로그램 공식 웹사이트](https://www.kimi.com/features/webbridge)에서 확장 프로그램 패키지를 다운로드합니다.
-2. 다운로드한 파일의 압축을 풉니다
-3. 주소창에 `edge://extensions/`를 입력해 엽니다
-4. 좌측 하단의 "개발자 모드"를 켭니다
-5. "압축해제된 확장 프로그램을 로드합니다"를 클릭합니다
-6. 파일 선택 창에서 압축을 푼 WebBridge 폴더를 선택합니다
-
-<Frames
-  src="./images/installation_edge_en.png"
-  alt="installation_edge_en"
+  alt="Chrome을 예로 한 수동 설치 과정; Edge 인터페이스도 거의 동일합니다"
 />
 
 설치가 완료되면 브라우저의 확장 프로그램 목록에서 Kimi 브라우저 확장 프로그램을 확인할 수 있습니다. 더 쉽게 접근할 수 있도록 브라우저 도구 모음에 고정하는 것을 권장합니다.

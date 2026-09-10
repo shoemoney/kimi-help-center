@@ -54,36 +54,19 @@ You can download it in either of the following ways:
 
 **Option 2: Install manually**
 
-If you cannot access the browser store for the time being, you can install it manually.
+If you cannot access the browser store for the time being, you can install it manually. The steps are the same for Chrome and Edge:
 
-Then complete the installation according to the browser you use:
-
-**Chrome:**
-
-1. Go to the [Kimi Browser Extension official website](https://www.kimi.com/zh-cn/features/webbridge) to download the extension installation package.
-2. Extract the downloaded file.
-3. Enter `chrome://extensions/` in the browser address bar.
-4. Turn on “Developer mode” in the upper-right corner.
-5. Click “Load unpacked”.
-6. In the file selection window, select the extracted WebBridge folder.
+1. Go to the [Kimi Browser Extension official website](https://www.kimi.com/zh-cn/features/webbridge) to download the extension installation package, and extract the downloaded file.
+2. Enter the extensions page address in the browser address bar:
+   - Chrome: `chrome://extensions/`
+   - Edge: `edge://extensions/`
+3. Turn on “Developer mode” (in the upper-right corner in Chrome, in the lower-left corner in Edge).
+4. Click “Load unpacked”.
+5. In the file selection window, select the extracted WebBridge folder.
 
 <Frames
   src="./images/installation_chrome_cn.png"
-  alt="installation_chrome_cn"
-/>
-
-**Edge:**
-
-1. Go to the [Kimi Browser Extension official website](https://www.kimi.com/zh-cn/features/webbridge) to download the extension installation package.
-2. Extract the downloaded file.
-3. Enter `edge://extensions/` in the browser address bar.
-4. Turn on “Developer mode” in the lower-left corner.
-5. Click “Load unpacked”.
-6. In the file selection window, select the extracted WebBridge folder.
-
-<Frames
-  src="./images/installation_edge_cn.png"
-  alt="installation_chrome_cn"
+  alt="Manual installation steps shown in Chrome; the Edge interface is essentially the same"
 />
 
 After installation, you will see Kimi Browser Extension in your browser’s extension list. For easier access later, we recommend pinning it to the browser toolbar.

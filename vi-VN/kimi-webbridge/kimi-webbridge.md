@@ -47,36 +47,19 @@ Bạn có thể tải về theo các cách sau:
 
 **Cách 2: cài đặt thủ công**
 
-Nếu bạn không thể truy cập kho ứng dụng, bạn có thể dùng cách cài đặt thủ công.
+Nếu bạn không thể truy cập kho ứng dụng, bạn có thể dùng cách cài đặt thủ công. Các bước thực hiện giống nhau trên Chrome và Edge:
 
-Sau đó làm theo các bước tương ứng với trình duyệt của bạn:
-
-**Chrome:**
-
-1. Tải gói tiện ích mở rộng từ [trang web chính thức của Tiện ích mở rộng trình duyệt Kimi](https://www.kimi.com/features/webbridge).
-2. Giải nén tệp đã tải về
-3. Mở `chrome://extensions/` trên thanh địa chỉ
-4. Bật "Chế độ dành cho nhà phát triển" ở góc trên bên phải
-5. Nhấp vào "Tải tiện ích đã giải nén"
-6. Trong hộp chọn tệp, chọn thư mục WebBridge đã giải nén
+1. Tải gói tiện ích mở rộng từ [trang web chính thức của Tiện ích mở rộng trình duyệt Kimi](https://www.kimi.com/features/webbridge) và giải nén tệp đã tải về
+2. Mở trang quản lý tiện ích mở rộng trên thanh địa chỉ:
+   - Chrome: `chrome://extensions/`
+   - Edge: `edge://extensions/`
+3. Bật "Chế độ dành cho nhà phát triển" (góc trên bên phải trên Chrome, góc dưới bên trái trên Edge)
+4. Nhấp vào "Tải tiện ích đã giải nén"
+5. Trong hộp chọn tệp, chọn thư mục WebBridge đã giải nén
 
 <Frames
   src="./images/installation_chrome_en.png"
-  alt="installation_chrome_en"
-/>
-
-**Edge:**
-
-1. Tải gói tiện ích mở rộng từ [trang web chính thức của Tiện ích mở rộng trình duyệt Kimi](https://www.kimi.com/features/webbridge).
-2. Giải nén tệp đã tải về
-3. Mở `edge://extensions/` trên thanh địa chỉ
-4. Bật "Chế độ dành cho nhà phát triển" ở góc dưới bên trái
-5. Nhấp vào "Tải tiện ích đã giải nén"
-6. Trong hộp chọn tệp, chọn thư mục WebBridge đã giải nén
-
-<Frames
-  src="./images/installation_edge_en.png"
-  alt="installation_edge_en"
+  alt="Quy trình cài đặt thủ công minh họa trên Chrome; giao diện Edge về cơ bản giống hệt"
 />
 
 Sau khi cài đặt, bạn sẽ thấy Tiện ích mở rộng trình duyệt Kimi trong danh sách tiện ích mở rộng của trình duyệt. Để truy cập dễ dàng hơn, chúng tôi khuyên bạn nên ghim nó lên thanh công cụ trình duyệt.

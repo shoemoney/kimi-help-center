@@ -47,36 +47,19 @@ Aşağıdaki yöntemlerle indirebilirsiniz:
 
 **Yöntem 2: el ile kurulum**
 
-Web mağazasına erişemiyorsanız el ile kurulum yöntemini kullanabilirsiniz.
+Web mağazasına erişemiyorsanız el ile kurulum yöntemini kullanabilirsiniz. Chrome ve Edge için adımlar aynıdır:
 
-Ardından tarayıcınıza uygun adımları izleyin:
-
-**Chrome:**
-
-1. [Kimi Tarayıcı Uzantısı resmi web sitesinden](https://www.kimi.com/features/webbridge) eklenti paketini indirin.
-2. İndirilen dosyayı çıkarın
-3. Adres çubuğunda `chrome://extensions/` adresini açın
-4. Sağ üst köşedeki "Geliştirici modu"nu etkinleştirin
-5. "Paketlenmemiş öğe yükle"ye tıklayın
-6. Dosya seçicide çıkardığınız WebBridge klasörünü seçin
+1. [Kimi Tarayıcı Uzantısı resmi web sitesinden](https://www.kimi.com/features/webbridge) eklenti paketini indirin ve çıkarın
+2. Adres çubuğuna uzantı yönetim sayfasının adresini girin:
+   - Chrome: `chrome://extensions/`
+   - Edge: `edge://extensions/`
+3. "Geliştirici modu"nu etkinleştirin (Chrome'da sayfanın sağ üstünde, Edge'de sayfanın sol altında)
+4. "Paketlenmemiş öğe yükle"ye tıklayın
+5. Dosya seçicide çıkardığınız WebBridge klasörünü seçin
 
 <Frames
   src="./images/installation_chrome_en.png"
-  alt="installation_chrome_en"
-/>
-
-**Edge:**
-
-1. [Kimi Tarayıcı Uzantısı resmi web sitesinden](https://www.kimi.com/features/webbridge) eklenti paketini indirin.
-2. İndirilen dosyayı çıkarın
-3. Adres çubuğunda `edge://extensions/` adresini açın
-4. Sol alt köşedeki "Geliştirici modu"nu etkinleştirin
-5. "Paketlenmemiş öğe yükle"ye tıklayın
-6. Dosya seçicide çıkardığınız WebBridge klasörünü seçin
-
-<Frames
-  src="./images/installation_edge_en.png"
-  alt="installation_edge_en"
+  alt="Chrome'da gösterilen el ile kurulum adımları; Edge arayüzü büyük ölçüde aynıdır"
 />
 
 Kurulumun ardından Kimi Tarayıcı Uzantısı'nı tarayıcınızın eklentiler listesinde görmelisiniz. Daha kolay erişim için tarayıcı araç çubuğuna sabitlemenizi öneririz.

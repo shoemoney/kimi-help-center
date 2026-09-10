@@ -47,36 +47,19 @@ Sie können sie auf folgende Weise herunterladen:
 
 **Methode 2: Manuelle Installation**
 
-Wenn Sie nicht auf den Web Store zugreifen können, nutzen Sie die manuelle Installationsmethode.
+Wenn Sie nicht auf den Web Store zugreifen können, nutzen Sie die manuelle Installationsmethode. Die Schritte sind für Chrome und Edge identisch:
 
-Folgen Sie dann den Schritten für Ihren Browser:
-
-**Chrome:**
-
-1. Laden Sie das Erweiterungspaket von der [offiziellen Website der Kimi Browsererweiterung](https://www.kimi.com/features/webbridge) herunter.
-2. Entpacken Sie die heruntergeladene Datei
-3. Öffnen Sie `chrome://extensions/` in der Adresszeile
-4. Aktivieren Sie den „Entwicklermodus“ oben rechts
-5. Klicken Sie auf „Entpackte Erweiterung laden“
-6. Wählen Sie im Dateiauswahldialog den entpackten WebBridge-Ordner aus
+1. Laden Sie das Erweiterungspaket von der [offiziellen Website der Kimi Browsererweiterung](https://www.kimi.com/features/webbridge) herunter und entpacken Sie die heruntergeladene Datei
+2. Öffnen Sie die Erweiterungsverwaltungsseite in der Adresszeile:
+   - Chrome: `chrome://extensions/`
+   - Edge: `edge://extensions/`
+3. Aktivieren Sie den „Entwicklermodus“ (in Chrome oben rechts, in Edge unten links)
+4. Klicken Sie auf „Entpackte Erweiterung laden“
+5. Wählen Sie im Dateiauswahldialog den entpackten WebBridge-Ordner aus
 
 <Frames
   src="./images/installation_chrome_en.png"
-  alt="installation_chrome_en"
-/>
-
-**Edge:**
-
-1. Laden Sie das Erweiterungspaket von der [offiziellen Website der Kimi Browsererweiterung](https://www.kimi.com/features/webbridge) herunter.
-2. Entpacken Sie die heruntergeladene Datei
-3. Öffnen Sie `edge://extensions/` in der Adresszeile
-4. Aktivieren Sie den „Entwicklermodus“ unten links
-5. Klicken Sie auf „Entpackte Erweiterung laden“
-6. Wählen Sie im Dateiauswahldialog den entpackten WebBridge-Ordner aus
-
-<Frames
-  src="./images/installation_edge_en.png"
-  alt="installation_edge_en"
+  alt="Manuelle Installation am Beispiel von Chrome; die Edge-Oberfläche ist im Wesentlichen identisch"
 />
 
 Nach der Installation sollte Kimi Browsererweiterung in der Erweiterungsliste Ihres Browsers erscheinen. Für einen schnelleren Zugriff empfehlen wir, es an die Browser-Symbolleiste anzuheften.

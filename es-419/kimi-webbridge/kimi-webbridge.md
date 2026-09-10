@@ -47,36 +47,19 @@ Puedes descargarla mediante los siguientes métodos:
 
 **Método 2: instalación manual**
 
-Si no puedes acceder a la tienda web, puedes usar el método de instalación manual.
+Si no puedes acceder a la tienda web, puedes usar el método de instalación manual. Los pasos son los mismos para Chrome y Edge:
 
-Luego sigue los pasos correspondientes a tu navegador:
-
-**Chrome:**
-
-1. Descarga el paquete de la extensión desde el [sitio oficial de la Extensión de navegador Kimi](https://www.kimi.com/features/webbridge).
-2. Extrae el archivo descargado
-3. Abre `chrome://extensions/` en la barra de direcciones
-4. Activa el "Modo de desarrollador" en la esquina superior derecha
-5. Haz clic en "Cargar descomprimida"
-6. En el selector de archivos, elige la carpeta WebBridge extraída
+1. Descarga el paquete de la extensión desde el [sitio oficial de la Extensión de navegador Kimi](https://www.kimi.com/features/webbridge) y extráelo
+2. Abre la página de extensiones en la barra de direcciones:
+   - Chrome: `chrome://extensions/`
+   - Edge: `edge://extensions/`
+3. Activa el "Modo de desarrollador" (en la esquina superior derecha en Chrome; en la esquina inferior izquierda en Edge)
+4. Haz clic en "Cargar descomprimida"
+5. En el selector de archivos, elige la carpeta WebBridge extraída
 
 <Frames
   src="./images/installation_chrome_en.png"
-  alt="installation_chrome_en"
-/>
-
-**Edge:**
-
-1. Descarga el paquete de la extensión desde el [sitio oficial de la Extensión de navegador Kimi](https://www.kimi.com/features/webbridge).
-2. Extrae el archivo descargado
-3. Abre `edge://extensions/` en la barra de direcciones
-4. Activa el "Modo de desarrollador" en la esquina inferior izquierda
-5. Haz clic en "Cargar descomprimida"
-6. En el selector de archivos, elige la carpeta WebBridge extraída
-
-<Frames
-  src="./images/installation_edge_en.png"
-  alt="installation_edge_en"
+  alt="Pasos de la instalación manual mostrados en Chrome; la interfaz de Edge es esencialmente la misma"
 />
 
 Después de la instalación, deberías ver la Extensión de navegador Kimi en la lista de extensiones de tu navegador. Para acceder más fácilmente, te recomendamos anclarla a la barra de herramientas del navegador.

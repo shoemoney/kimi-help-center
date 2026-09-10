@@ -47,36 +47,19 @@ Anda dapat mengunduhnya melalui cara berikut:
 
 **Cara 2: pemasangan manual**
 
-Jika Anda tidak dapat mengakses toko web, gunakan cara pemasangan manual.
+Jika Anda tidak dapat mengakses toko web, gunakan cara pemasangan manual. Langkah-langkahnya sama untuk Chrome dan Edge:
 
-Kemudian ikuti langkah-langkah sesuai peramban Anda:
-
-**Chrome:**
-
-1. Unduh paket ekstensi dari [situs resmi Ekstensi Browser Kimi](https://www.kimi.com/features/webbridge).
-2. Ekstrak file yang sudah diunduh
-3. Buka `chrome://extensions/` di bilah alamat
-4. Aktifkan "Developer mode" di pojok kanan atas
-5. Klik "Load unpacked"
-6. Di pemilih file, pilih folder WebBridge yang sudah diekstrak
+1. Unduh paket ekstensi dari [situs resmi Ekstensi Browser Kimi](https://www.kimi.com/features/webbridge) dan ekstrak file tersebut
+2. Buka halaman ekstensi di bilah alamat:
+   - Chrome: `chrome://extensions/`
+   - Edge: `edge://extensions/`
+3. Aktifkan "Developer mode" (di pojok kanan atas pada Chrome, di pojok kiri bawah pada Edge)
+4. Klik "Load unpacked"
+5. Di pemilih file, pilih folder WebBridge yang sudah diekstrak
 
 <Frames
   src="./images/installation_chrome_en.png"
-  alt="installation_chrome_en"
-/>
-
-**Edge:**
-
-1. Unduh paket ekstensi dari [situs resmi Ekstensi Browser Kimi](https://www.kimi.com/features/webbridge).
-2. Ekstrak file yang sudah diunduh
-3. Buka `edge://extensions/` di bilah alamat
-4. Aktifkan "Developer mode" di pojok kiri bawah
-5. Klik "Load unpacked"
-6. Di pemilih file, pilih folder WebBridge yang sudah diekstrak
-
-<Frames
-  src="./images/installation_edge_en.png"
-  alt="installation_edge_en"
+  alt="Langkah pemasangan manual ditampilkan di Chrome; antarmuka Edge pada dasarnya sama"
 />
 
 Setelah pemasangan, Ekstensi Browser Kimi akan muncul di daftar ekstensi peramban Anda. Agar lebih mudah diakses, kami menyarankan untuk menyematkannya ke bilah alat peramban.

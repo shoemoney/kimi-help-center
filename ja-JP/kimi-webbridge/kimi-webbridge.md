@@ -47,36 +47,19 @@ Kimi ブラウザ拡張機能には2通りの使い方があります:
 
 **方法2：手動でインストールする**
 
-Webストアにアクセスできない場合は、手動インストールを利用できます。
+Webストアにアクセスできない場合は、手動インストールを利用できます。Chrome と Edge で手順は同じです。
 
-お使いのブラウザに応じて、以下の手順を実行してください。
-
-**Chrome:**
-
-1. [Kimi ブラウザ拡張機能の公式サイト](https://www.kimi.com/features/webbridge)から拡張機能パッケージをダウンロードします。
-2. ダウンロードしたファイルを展開します
-3. アドレスバーで`chrome://extensions/`を開きます
-4. 右上の「デベロッパー モード」を有効にします
-5. 「パッケージ化されていない拡張機能を読み込む」をクリックします
-6. ファイル選択画面で、展開したWebBridgeフォルダを選択します
+1. [Kimi ブラウザ拡張機能の公式サイト](https://www.kimi.com/features/webbridge)から拡張機能パッケージをダウンロードし、ダウンロードしたファイルを展開します
+2. アドレスバーで拡張機能管理ページを開きます:
+   - Chrome: `chrome://extensions/`
+   - Edge: `edge://extensions/`
+3. 「デベロッパー モード」を有効にします（Chromeでは右上、Edgeでは左下）
+4. 「パッケージ化されていない拡張機能を読み込む」をクリックします
+5. ファイル選択画面で、展開したWebBridgeフォルダを選択します
 
 <Frames
   src="./images/installation_chrome_en.png"
-  alt="installation_chrome_en"
-/>
-
-**Edge:**
-
-1. [Kimi ブラウザ拡張機能の公式サイト](https://www.kimi.com/features/webbridge)から拡張機能パッケージをダウンロードします。
-2. ダウンロードしたファイルを展開します
-3. アドレスバーで`edge://extensions/`を開きます
-4. 左下の「開発者モード」を有効にします
-5. 「展開して読み込み」をクリックします
-6. ファイル選択画面で、展開したWebBridgeフォルダを選択します
-
-<Frames
-  src="./images/installation_edge_en.png"
-  alt="installation_edge_en"
+  alt="Chromeでの手動インストール手順。Edgeの画面もほぼ同じです"
 />
 
 インストール後、ブラウザの拡張機能一覧にKimi ブラウザ拡張機能が表示されます。すぐに使えるよう、ブラウザのツールバーにピン留めしておくことをおすすめします。

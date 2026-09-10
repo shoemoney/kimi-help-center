@@ -47,36 +47,19 @@ Kimi 浏览器扩展有两种用法：
 
 **方式 2：手动安装**
 
-如果你无法访问应用商店，可以使用手动安装方式。
+如果你无法访问应用商店，可以使用手动安装方式。Chrome 和 Edge 的流程一致：
 
-然后按你的浏览器完成以下步骤：
-
-**Chrome：**
-
-1. 从 [Kimi 浏览器扩展官方网站](https://www.kimi.com/features/webbridge)下载扩展安装包。
-2. 解压下载的文件
-3. 在地址栏中打开 `chrome://extensions/`
-4. 在右上角启用“Developer mode”
-5. 点击“Load unpacked”
-6. 在文件选择器中，选择解压后的 WebBridge 文件夹
+1. 前往 [Kimi 浏览器扩展官网](https://www.kimi.com/features/webbridge) 下载插件安装包，并解压下载好的文件
+2. 在浏览器地址栏输入扩展管理页地址：
+   - Chrome：`chrome://extensions/`
+   - Edge：`edge://extensions/`
+3. 打开「开发者模式」（Chrome 在页面右上角，Edge 在页面左下角）
+4. 点击「加载已解压的扩展程序」
+5. 在文件选择窗口中，选中解压后的 WebBridge 文件夹
 
 <Frames
   src="./images/installation_chrome_en.png"
-  alt="installation_chrome_en"
-/>
-
-**Edge：**
-
-1. 从 [Kimi 浏览器扩展官方网站](https://www.kimi.com/features/webbridge)下载扩展安装包。
-2. 解压下载的文件
-3. 在地址栏中打开 `edge://extensions/`
-4. 在左下角启用“Developer mode”
-5. 点击“Load unpacked”
-6. 在文件选择器中，选择解压后的 WebBridge 文件夹
-
-<Frames
-  src="./images/installation_edge_en.png"
-  alt="installation_edge_en"
+  alt="以 Chrome 为例的手动安装流程；Edge 界面基本一致"
 />
 
 安装完成后，你应该能在浏览器的扩展列表中看到 Kimi 浏览器扩展。为方便使用，建议将它固定到浏览器工具栏。

@@ -47,36 +47,19 @@ Puoi scaricarla con i metodi seguenti:
 
 **Metodo 2: installazione manuale**
 
-Se non riesci ad accedere allo store web, puoi usare il metodo di installazione manuale.
+Se non riesci ad accedere allo store web, puoi usare il metodo di installazione manuale. I passaggi sono gli stessi per Chrome ed Edge:
 
-Segui poi i passaggi relativi al tuo browser:
-
-**Chrome:**
-
-1. Scarica il pacchetto dell'estensione dal [sito ufficiale dell'Estensione del browser Kimi](https://www.kimi.com/features/webbridge).
-2. Estrai il file scaricato
-3. Apri `chrome://extensions/` nella barra degli indirizzi
-4. Attiva la "Modalità sviluppatore" nell'angolo in alto a destra
-5. Fai clic su "Carica estensione non pacchettizzata"
-6. Nel selettore di file, scegli la cartella WebBridge estratta
+1. Scarica il pacchetto dell'estensione dal [sito ufficiale dell'Estensione del browser Kimi](https://www.kimi.com/features/webbridge) ed estrailo
+2. Apri la pagina delle estensioni nella barra degli indirizzi:
+   - Chrome: `chrome://extensions/`
+   - Edge: `edge://extensions/`
+3. Attiva la "Modalità sviluppatore" (in alto a destra in Chrome, in basso a sinistra in Edge)
+4. Fai clic su "Carica estensione non pacchettizzata"
+5. Nel selettore di file, scegli la cartella WebBridge estratta
 
 <Frames
   src="./images/installation_chrome_en.png"
-  alt="installation_chrome_en"
-/>
-
-**Edge:**
-
-1. Scarica il pacchetto dell'estensione dal [sito ufficiale dell'Estensione del browser Kimi](https://www.kimi.com/features/webbridge).
-2. Estrai il file scaricato
-3. Apri `edge://extensions/` nella barra degli indirizzi
-4. Attiva la "Modalità sviluppatore" nell'angolo in basso a sinistra
-5. Fai clic su "Carica estensione non pacchettizzata"
-6. Nel selettore di file, scegli la cartella WebBridge estratta
-
-<Frames
-  src="./images/installation_edge_en.png"
-  alt="installation_edge_en"
+  alt="Passaggi dell'installazione manuale mostrati in Chrome; l'interfaccia di Edge è essenzialmente la stessa"
 />
 
 Dopo l'installazione, dovresti vedere l'Estensione del browser Kimi nell'elenco delle estensioni del browser. Per un accesso più rapido, ti consigliamo di fissarla alla barra degli strumenti del browser.

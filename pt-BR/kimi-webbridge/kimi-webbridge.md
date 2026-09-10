@@ -47,36 +47,19 @@ Você pode baixá-la das seguintes formas:
 
 **Método 2: instalação manual**
 
-Se você não conseguir acessar a loja de extensões, pode usar o método de instalação manual.
+Se você não conseguir acessar a loja de extensões, pode usar o método de instalação manual. Os passos são os mesmos para Chrome e Edge:
 
-Em seguida, siga os passos correspondentes ao seu navegador:
-
-**Chrome:**
-
-1. Baixe o pacote da extensão no [site oficial da Extensão de navegador Kimi](https://www.kimi.com/features/webbridge).
-2. Extraia o arquivo baixado
-3. Abra `chrome://extensions/` na barra de endereços
-4. Ative o "Modo do desenvolvedor" no canto superior direito
-5. Clique em "Carregar sem compactação"
-6. No seletor de arquivos, selecione a pasta extraída do WebBridge
+1. Baixe o pacote da extensão no [site oficial da Extensão de navegador Kimi](https://www.kimi.com/features/webbridge) e extraia o arquivo baixado
+2. Abra a página de extensões na barra de endereços:
+   - Chrome: `chrome://extensions/`
+   - Edge: `edge://extensions/`
+3. Ative o "Modo do desenvolvedor" (no Chrome, no canto superior direito; no Edge, no canto inferior esquerdo)
+4. Clique em "Carregar sem compactação"
+5. No seletor de arquivos, selecione a pasta extraída do WebBridge
 
 <Frames
   src="./images/installation_chrome_en.png"
-  alt="installation_chrome_en"
-/>
-
-**Edge:**
-
-1. Baixe o pacote da extensão no [site oficial da Extensão de navegador Kimi](https://www.kimi.com/features/webbridge).
-2. Extraia o arquivo baixado
-3. Abra `edge://extensions/` na barra de endereços
-4. Ative o "Modo do desenvolvedor" no canto inferior esquerdo
-5. Clique em "Carregar sem compactação"
-6. No seletor de arquivos, selecione a pasta extraída do WebBridge
-
-<Frames
-  src="./images/installation_edge_en.png"
-  alt="installation_edge_en"
+  alt="Passos da instalação manual mostrados no Chrome; a interface do Edge é essencialmente a mesma"
 />
 
 Após a instalação, você deverá ver a Extensão de navegador Kimi na lista de extensões do seu navegador. Para acessá-la com mais facilidade, recomendamos fixá-la na barra de ferramentas do navegador.

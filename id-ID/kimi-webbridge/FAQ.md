@@ -18,7 +18,7 @@ preview: false
 
 ### Apa hubungan antara Kimi WebBridge dan Ekstensi Browser Kimi?
 
-Kimi WebBridge telah berganti nama menjadi Ekstensi Browser Kimi, dengan fitur baru termasuk entri sidebar browser, perekaman aksi web, dan kemampuan memecah halaman web menjadi instruksi. Cara Local Agent memanggil ekstensi tetap sama dan dapat terus digunakan; entri sidebar baru mengharuskan Anda masuk dengan akun keanggotaan Kimi.
+Kimi WebBridge telah berganti nama menjadi Ekstensi Browser Kimi, dengan fitur baru termasuk entri sidebar browser, perekaman aksi web, dan kemampuan memecah halaman web menjadi instruksi. Cara Local Agent memanggil ekstensi tetap sama dan dapat terus digunakan; entri sidebar baru mengharuskan Anda masuk dengan akun Kimi.
 
 ## Instalasi dan konfigurasi
 

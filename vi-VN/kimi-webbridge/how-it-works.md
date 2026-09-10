@@ -18,7 +18,7 @@ preview: false
 
 Tiện ích mở rộng trình duyệt Kimi hỗ trợ hai cách sử dụng — **trò chuyện qua thanh bên** và **điều khiển từ xa bằng Local Agent** — và vận hành như sau:
 
-1. **Thanh bên của trình duyệt**: Nhấp vào biểu tượng Kimi trên thanh công cụ để mở thanh bên, sau đó đăng nhập bằng tài khoản thành viên Kimi để trò chuyện trực tiếp
+1. **Thanh bên của trình duyệt**: Nhấp vào biểu tượng Kimi trên thanh công cụ để mở thanh bên, sau đó đăng nhập bằng tài khoản Kimi để trò chuyện trực tiếp
 2. **Dịch vụ cầu nối cục bộ**: Một dịch vụ cục bộ chạy trên máy tính của bạn để nhận lệnh từ Agent
 3. **Tiện ích mở rộng trình duyệt**: Thực thi các hành động cụ thể trong trình duyệt dựa trên Chrome DevTools Protocol
 4. **Cách ly bảo mật**: Mọi thao tác đều diễn ra cục bộ—trạng thái đăng nhập và nội dung trang web không bao giờ rời khỏi thiết bị của bạn

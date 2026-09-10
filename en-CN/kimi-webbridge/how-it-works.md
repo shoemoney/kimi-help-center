@@ -18,7 +18,7 @@ preview: false
 
 Kimi Browser Extension supports two ways of use — **sidebar chat** and **remote control by a local Agent** — and works as follows:
 
-1. **Browser Sidebar**: Click the Kimi icon in the toolbar to open the sidebar, then sign in with a Kimi membership account to chat directly
+1. **Browser Sidebar**: Click the Kimi icon in the toolbar to open the sidebar, then sign in with your Kimi account to chat directly
 2. **Local Bridge Service**: A local service runs on your computer to receive instructions from the Agent
 3. **Browser Extension**: Executes specific actions in the browser based on the Chrome DevTools Protocol
 4. **Security Isolation**: All execution happens locally—login states and web page content never leave your device

@@ -20,7 +20,7 @@ Die Kimi Browsererweiterung (ehemals Kimi WebBridge) ist ein Browser-Plugin für
 
 Kimi Browsererweiterung bietet zwei Nutzungsarten:
 
-- **Browser-Seitenleiste**: Klicken Sie auf das Kimi-Symbol in der Symbolleiste, um die Seitenleiste zu öffnen, und melden Sie sich mit einer Kimi-Mitgliedschaft an, um direkt zu chatten und Kimi die aktuelle Seite für Sie bedienen zu lassen.
+- **Browser-Seitenleiste**: Klicken Sie auf das Kimi-Symbol in der Symbolleiste, um die Seitenleiste zu öffnen, und melden Sie sich mit Ihrem Kimi-Konto an, um direkt zu chatten und Kimi die aktuelle Seite für Sie bedienen zu lassen.
 - **Fernsteuerung durch einen lokalen Agenten**: Lassen Sie KI-Agenten wie Kimi Work oder Claude Code die Erweiterung fernsteuern, um Webaufgaben zu automatisieren.
 
 <VideoList

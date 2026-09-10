@@ -20,7 +20,7 @@ Tiện ích mở rộng trình duyệt Kimi (trước đây là Kimi WebBridge) 
 
 Tiện ích mở rộng trình duyệt Kimi có hai cách sử dụng:
 
-- **Thanh bên của trình duyệt**: Nhấp vào biểu tượng Kimi trên thanh công cụ để mở thanh bên, sau đó đăng nhập bằng tài khoản thành viên Kimi để trò chuyện trực tiếp và để Kimi thao tác trang hiện tại giúp bạn.
+- **Thanh bên của trình duyệt**: Nhấp vào biểu tượng Kimi trên thanh công cụ để mở thanh bên, sau đó đăng nhập bằng tài khoản Kimi để trò chuyện trực tiếp và để Kimi thao tác trang hiện tại giúp bạn.
 - **Điều khiển từ xa bằng Local Agent**: Để các AI Agent như Kimi Work hay Claude Code điều khiển tiện ích mở rộng từ xa, tự động hóa các tác vụ web.
 
 <VideoList

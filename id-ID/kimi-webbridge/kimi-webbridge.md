@@ -20,7 +20,7 @@ Ekstensi Browser Kimi (sebelumnya Kimi WebBridge) adalah plugin browser untuk AI
 
 Ekstensi Browser Kimi menawarkan dua cara penggunaan:
 
-- **Sidebar browser**: Klik ikon Kimi di bilah alat untuk membuka sidebar, lalu masuk dengan akun keanggotaan Kimi untuk langsung mengobrol dan biarkan Kimi mengoperasikan halaman saat ini untuk Anda.
+- **Sidebar browser**: Klik ikon Kimi di bilah alat untuk membuka sidebar, lalu masuk dengan akun Kimi untuk langsung mengobrol dan biarkan Kimi mengoperasikan halaman saat ini untuk Anda.
 - **Kontrol jarak jauh oleh Agent lokal**: Biarkan AI Agent seperti Kimi Work atau Claude Code mengendalikan ekstensi dari jarak jauh untuk mengotomatiskan tugas web.
 
 <VideoList

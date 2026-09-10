@@ -20,7 +20,7 @@ Kimi Tarayıcı Uzantısı (eski adıyla Kimi WebBridge), yapay zekâ Agent'lar�
 
 Kimi Tarayıcı Uzantısı iki kullanım şekli sunar:
 
-- **Tarayıcı yan çubuğu**: Araç çubuğundaki Kimi simgesine tıklayarak yan çubuğu açın, ardından Kimi üyelik hesabınızla oturum açıp doğrudan sohbet edin ve Kimi'nin geçerli sayfada sizin için işlem yapmasını sağlayın.
+- **Tarayıcı yan çubuğu**: Araç çubuğundaki Kimi simgesine tıklayarak yan çubuğu açın, ardından Kimi hesabınızla oturum açıp doğrudan sohbet edin ve Kimi'nin geçerli sayfada sizin için işlem yapmasını sağlayın.
 - **Yerel Agent ile uzaktan kontrol**: Kimi Work veya Claude Code gibi yapay zekâ Agent'larının uzantıyı uzaktan çalıştırmasını sağlayarak web görevlerini otomatik hale getirin.
 
 <VideoList

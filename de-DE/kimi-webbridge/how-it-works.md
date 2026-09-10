@@ -18,7 +18,7 @@ preview: false
 
 Kimi Browsererweiterung unterstützt zwei Nutzungsarten – **Seitenleisten-Chat** und **Fernsteuerung durch einen lokalen Agenten** – und arbeitet folgendermaßen:
 
-1. **Browser-Seitenleiste**: Klicken Sie auf das Kimi-Symbol in der Symbolleiste, um die Seitenleiste zu öffnen, und melden Sie sich mit einer Kimi-Mitgliedschaft an, um direkt zu chatten
+1. **Browser-Seitenleiste**: Klicken Sie auf das Kimi-Symbol in der Symbolleiste, um die Seitenleiste zu öffnen, und melden Sie sich mit Ihrem Kimi-Konto an, um direkt zu chatten
 2. **Lokaler Bridge-Dienst**: Ein lokaler Dienst läuft auf Ihrem Computer und empfängt Anweisungen vom Agenten
 3. **Browser-Erweiterung**: Führt bestimmte Aktionen im Browser auf Basis des Chrome DevTools Protocol aus
 4. **Sicherheitsisolierung**: Die gesamte Ausführung erfolgt lokal – Anmeldestatus und Webseiteninhalte verlassen niemals Ihr Gerät

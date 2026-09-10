@@ -18,7 +18,7 @@ preview: false
 
 La Extensión de navegador Kimi admite dos formas de uso — **chat en la barra lateral** y **control remoto por un Agent local** — y funciona de la siguiente manera:
 
-1. **Barra lateral del navegador**: haz clic en el ícono de Kimi en la barra de herramientas para abrir la barra lateral, luego inicia sesión con una cuenta de membresía de Kimi para chatear directamente
+1. **Barra lateral del navegador**: haz clic en el ícono de Kimi en la barra de herramientas para abrir la barra lateral, luego inicia sesión con tu cuenta de Kimi para chatear directamente
 2. **Servicio de puente local**: un servicio local se ejecuta en tu computadora para recibir instrucciones del Agent
 3. **Extensión del navegador**: ejecuta acciones específicas en el navegador con base en el Chrome DevTools Protocol
 4. **Aislamiento de seguridad**: todo se ejecuta localmente; los estados de inicio de sesión y el contenido de las páginas web nunca salen de tu dispositivo

@@ -18,7 +18,7 @@ preview: false
 
 L'Extension de navigateur Kimi prend en charge deux modes d'utilisation — la **discussion dans la barre latérale** et le **contrôle à distance par un Agent local** — et fonctionne de la manière suivante :
 
-1. **Barre latérale du navigateur** : cliquez sur l'icône Kimi dans la barre d'outils pour ouvrir la barre latérale, puis connectez-vous avec un compte membre Kimi pour discuter directement
+1. **Barre latérale du navigateur** : cliquez sur l'icône Kimi dans la barre d'outils pour ouvrir la barre latérale, puis connectez-vous avec votre compte Kimi pour discuter directement
 2. **Service de pont local** : un service local s'exécute sur votre ordinateur pour recevoir les instructions de l'Agent
 3. **Extension de navigateur** : exécute des actions précises dans le navigateur via le Chrome DevTools Protocol
 4. **Isolation de sécurité** : toute l'exécution se déroule en local — vos sessions de connexion et le contenu des pages web ne quittent jamais votre appareil

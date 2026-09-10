@@ -18,7 +18,7 @@ preview: false
 
 ### What's the relationship between Kimi WebBridge and Kimi Browser Extension?
 
-Kimi WebBridge has been renamed to Kimi Browser Extension, with new features including a browser sidebar entry, web action recording, and breaking down web pages into instructions. The way local Agents call the extension remains unchanged and can continue to be used; the new sidebar entry requires signing in with a Kimi membership account.
+Kimi WebBridge has been renamed to Kimi Browser Extension, with new features including a browser sidebar entry, web action recording, and breaking down web pages into instructions. The way local Agents call the extension remains unchanged and can continue to be used; the new sidebar entry requires signing in with your Kimi account.
 
 ## Installation and Setup
 

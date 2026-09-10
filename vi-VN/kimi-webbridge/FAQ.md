@@ -18,7 +18,7 @@ preview: false
 
 ### Kimi WebBridge và Tiện ích mở rộng trình duyệt Kimi có mối quan hệ gì?
 
-Kimi WebBridge đã được đổi tên thành Tiện ích mở rộng trình duyệt Kimi, đồng thời bổ sung các tính năng mới như lối vào thanh bên của trình duyệt, ghi lại thao tác web và tách trang web thành chỉ dẫn. Cách Local Agent gọi tiện ích mở rộng vẫn giữ nguyên và có thể tiếp tục sử dụng; lối vào thanh bên mới cần đăng nhập bằng tài khoản thành viên Kimi để sử dụng.
+Kimi WebBridge đã được đổi tên thành Tiện ích mở rộng trình duyệt Kimi, đồng thời bổ sung các tính năng mới như lối vào thanh bên của trình duyệt, ghi lại thao tác web và tách trang web thành chỉ dẫn. Cách Local Agent gọi tiện ích mở rộng vẫn giữ nguyên và có thể tiếp tục sử dụng; lối vào thanh bên mới cần đăng nhập bằng tài khoản Kimi để sử dụng.
 
 ## Cài đặt và cấu hình
 

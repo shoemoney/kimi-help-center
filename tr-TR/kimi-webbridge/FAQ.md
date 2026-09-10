@@ -18,7 +18,7 @@ preview: false
 
 ### Kimi WebBridge ile Kimi Tarayıcı Uzantısı arasındaki ilişki nedir?
 
-Kimi WebBridge, Kimi Tarayıcı Uzantısı olarak yeniden adlandırıldı; tarayıcı yan çubuğu girişi, web işlemlerini kaydetme ve web sayfalarını talimatlara ayırma gibi yeni özellikler eklendi. Yerel Agent'ların uzantıyı çağırma yöntemi değişmedi ve kullanılmaya devam edilebilir; yeni yan çubuk girişi için Kimi üyelik hesabıyla oturum açmanız gerekir.
+Kimi WebBridge, Kimi Tarayıcı Uzantısı olarak yeniden adlandırıldı; tarayıcı yan çubuğu girişi, web işlemlerini kaydetme ve web sayfalarını talimatlara ayırma gibi yeni özellikler eklendi. Yerel Agent'ların uzantıyı çağırma yöntemi değişmedi ve kullanılmaya devam edilebilir; yeni yan çubuk girişi için Kimi hesabıyla oturum açmanız gerekir.
 
 ## Kurulum ve yapılandırma
 

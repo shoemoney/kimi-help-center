@@ -20,7 +20,7 @@ A Extensão de navegador Kimi (anteriormente Kimi WebBridge) é um plugin de nav
 
 A Extensão de navegador Kimi oferece duas formas de uso:
 
-- **Barra lateral do navegador**: Clique no ícone do Kimi na barra de ferramentas para abrir a barra lateral e faça login com uma conta de assinante do Kimi para conversar diretamente, deixando o Kimi operar a página atual por você.
+- **Barra lateral do navegador**: Clique no ícone do Kimi na barra de ferramentas para abrir a barra lateral e faça login com sua conta Kimi para conversar diretamente, deixando o Kimi operar a página atual por você.
 - **Controle remoto por um Agent local**: Deixe agentes de IA como Kimi Work ou Claude Code controlarem a extensão remotamente para automatizar tarefas web.
 
 <VideoList

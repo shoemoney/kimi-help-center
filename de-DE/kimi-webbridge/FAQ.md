@@ -18,7 +18,7 @@ preview: false
 
 ### Wie ist das Verhältnis zwischen Kimi WebBridge und Kimi Browsererweiterung?
 
-Kimi WebBridge wurde in Kimi Browsererweiterung umbenannt und bietet neue Funktionen, darunter einen Einstieg über die Browser-Seitenleiste, das Aufzeichnen von Webvorgängen und das Zerlegen von Webseiten in Anweisungen. Die Art und Weise, wie Local Agents die Erweiterung aufrufen, bleibt unverändert und kann weiterhin genutzt werden; der neue Einstieg über die Seitenleiste erfordert die Anmeldung mit einer Kimi-Mitgliedschaft.
+Kimi WebBridge wurde in Kimi Browsererweiterung umbenannt und bietet neue Funktionen, darunter einen Einstieg über die Browser-Seitenleiste, das Aufzeichnen von Webvorgängen und das Zerlegen von Webseiten in Anweisungen. Die Art und Weise, wie Local Agents die Erweiterung aufrufen, bleibt unverändert und kann weiterhin genutzt werden; der neue Einstieg über die Seitenleiste erfordert die Anmeldung mit Ihrem Kimi-Konto.
 
 ## Installation und Konfiguration
 

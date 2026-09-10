@@ -20,7 +20,7 @@ Kimi 浏览器扩展（原 Kimi WebBridge）是面向 AI Agent 的浏览器插�
 
 Kimi 浏览器扩展有两种用法：
 
-- **浏览器侧边栏**：点击工具栏的 Kimi 图标打开侧边栏，登录 Kimi 会员即可直接对话，让 Kimi 帮你操作当前网页。
+- **浏览器侧边栏**：点击工具栏的 Kimi 图标打开侧边栏，登录 Kimi 账号即可直接对话，让 Kimi 帮你操作当前网页。
 - **本地 Agent 远程控制**：让 Kimi Work、Claude Code 等 AI 助手远程驱动扩展，自动完成网页任务。
 
 <VideoList

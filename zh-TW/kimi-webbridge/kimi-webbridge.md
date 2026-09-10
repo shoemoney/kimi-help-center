@@ -20,7 +20,7 @@ Kimi 瀏覽器擴充功能（原 Kimi WebBridge）是為 AI Agent 設計的瀏�
 
 Kimi 瀏覽器擴充功能有兩種用法：
 
-- **瀏覽器側邊欄**：點擊工具列的 Kimi 圖示開啟側邊欄，登入 Kimi 會員即可直接對話，讓 Kimi 幫你操作當前網頁。
+- **瀏覽器側邊欄**：點擊工具列的 Kimi 圖示開啟側邊欄，登入 Kimi 帳號即可直接對話，讓 Kimi 幫你操作當前網頁。
 - **本機 Agent 遠端控制**：讓 Kimi Work、Claude Code 等 AI 助手遠端驅動擴充功能，自動完成網頁任務。
 
 <VideoList

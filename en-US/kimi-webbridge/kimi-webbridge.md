@@ -20,7 +20,7 @@ Kimi Browser Extension, formerly Kimi WebBridge, is a browser extension built fo
 
 Kimi Browser Extension offers two ways to use it:
 
-- **Browser sidebar**: Click the Kimi icon in the toolbar to open the sidebar, then sign in with a Kimi membership account to chat directly and let Kimi operate the current page for you.
+- **Browser sidebar**: Click the Kimi icon in the toolbar to open the sidebar, then sign in with your Kimi account to chat directly and let Kimi operate the current page for you.
 - **Remote control by a local Agent**: Let AI agents like Kimi Work or Claude Code drive the extension remotely to automate web tasks.
 
 <VideoList

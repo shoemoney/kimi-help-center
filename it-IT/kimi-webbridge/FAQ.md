@@ -18,7 +18,7 @@ preview: false
 
 ### Qual è il rapporto tra Kimi WebBridge e l'Estensione del browser Kimi?
 
-Kimi WebBridge è stato rinominato Estensione del browser Kimi e ha introdotto nuove funzionalità, tra cui la barra laterale del browser, la registrazione delle azioni web e la scomposizione delle pagine web in istruzioni. La modalità con cui i Local Agent chiamano l'estensione resta invariata e può continuare a essere utilizzata; la nuova barra laterale richiede invece l'accesso con un account Kimi con abbonamento.
+Kimi WebBridge è stato rinominato Estensione del browser Kimi e ha introdotto nuove funzionalità, tra cui la barra laterale del browser, la registrazione delle azioni web e la scomposizione delle pagine web in istruzioni. La modalità con cui i Local Agent chiamano l'estensione resta invariata e può continuare a essere utilizzata; la nuova barra laterale richiede invece l'accesso con il tuo account Kimi.
 
 ## Installazione e configurazione
 

@@ -18,7 +18,7 @@ preview: false
 
 Kimi Tarayıcı Uzantısı **yan çubuk sohbeti** ve **yerel Agent ile uzaktan kontrol** olmak üzere iki kullanım şeklini destekler ve şu şekilde çalışır:
 
-1. **Tarayıcı Yan Çubuğu**: Araç çubuğundaki Kimi simgesine tıklayarak yan çubuğu açın, ardından Kimi üyelik hesabınızla oturum açıp doğrudan sohbet edin
+1. **Tarayıcı Yan Çubuğu**: Araç çubuğundaki Kimi simgesine tıklayarak yan çubuğu açın, ardından Kimi hesabınızla oturum açıp doğrudan sohbet edin
 2. **Yerel Köprü Hizmeti**: Agent'tan talimatları almak için bilgisayarınızda yerel bir hizmet çalışır
 3. **Tarayıcı Uzantısı**: Chrome DevTools Protokolü'ne dayanarak tarayıcıda belirli işlemleri gerçekleştirir
 4. **Güvenlik İzolasyonu**: Tüm işlemler yerel olarak gerçekleşir; oturum açma durumlarınız ve web sayfası içeriğiniz asla cihazınızdan çıkmaz

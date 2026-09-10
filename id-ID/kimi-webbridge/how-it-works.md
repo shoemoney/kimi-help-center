@@ -18,7 +18,7 @@ preview: false
 
 Ekstensi Browser Kimi mendukung dua cara penggunaan — **percakapan sidebar** dan **kontrol jarak jauh oleh Agent lokal** — dan bekerja sebagai berikut:
 
-1. **Sidebar Browser**: Klik ikon Kimi di bilah alat untuk membuka sidebar, lalu masuk dengan akun keanggotaan Kimi untuk langsung mengobrol
+1. **Sidebar Browser**: Klik ikon Kimi di bilah alat untuk membuka sidebar, lalu masuk dengan akun Kimi untuk langsung mengobrol
 2. **Layanan Bridge Lokal**: Sebuah layanan lokal berjalan di komputer Anda untuk menerima instruksi dari Agent
 3. **Ekstensi Browser**: Menjalankan tindakan tertentu di browser berdasarkan Chrome DevTools Protocol
 4. **Isolasi Keamanan**: Seluruh eksekusi berlangsung secara lokal—status login dan konten halaman web tidak pernah meninggalkan perangkat Anda

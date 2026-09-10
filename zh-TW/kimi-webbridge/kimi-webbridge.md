@@ -83,11 +83,11 @@ Kimi 瀏覽器擴充功能有兩種用法：
 
 ### 步驟 2：選擇設定方式並完成設定
 
-#### 方法 1：搭配 Kimi Work Desktop 使用
+**方法 1：搭配 Kimi Work Desktop 使用**
 
 1. 從[官方網站](https://www.kimi.com/products/kimi-work)下載 Kimi Work
 
-2. 安裝成功後即可開啟擴充功能側邊欄傳送指令，例如：
+2. 開啟下載的 Kimi Work 桌面端，切換到 Work 模式。在插件市場裡找到並安裝 Kimi 瀏覽器擴充功能外掛。可以在瀏覽器側邊欄，或 Kimi Work 中嘗試發送下方指令：
 
 <CodePreview
   files={[
@@ -99,7 +99,7 @@ Kimi 瀏覽器擴充功能有兩種用法：
   ]}
 />
 
-#### 方法 2：搭配本機 Agent
+**方法 2：搭配本機 Agent**
 
 支援 Claude Code、Codex、Cursor、Kimi Code、Hermes Claw 等。
 

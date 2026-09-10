@@ -83,11 +83,11 @@ Kimi 浏览器扩展有两种用法：
 
 ### 第 2 步：选择安装方式并完成配置
 
-#### 方式 1：配合 Kimi Work 桌面端使用
+**方式 1：配合 Kimi Work 桌面端使用**
 
 1. 从[官方网站](https://www.kimi.com/products/kimi-work)下载 Kimi Work
 
-2. 安装成功后即可打开扩展侧边栏发送指令，例如：
+2. 打开下载的 Kimi Work 桌面端，切换到 Work 模式。在插件市场里找到并安装 Kimi 浏览器扩展插件。可以在浏览器侧边栏，或 Kimi Work 中尝试发送下方指令：
 
 <CodePreview
   files={[
@@ -99,7 +99,7 @@ Kimi 浏览器扩展有两种用法：
   ]}
 />
 
-#### 方式 2：与本地 Agent 配对
+**方式 2：与本地 Agent 配对**
 
 支持 Claude Code、Codex、Cursor、Kimi Code、Hermes Claw 等。
 

@@ -8,13 +8,13 @@ preview: false
 
 <SeoMeta
   title="Kimi Browser Extension Introduction - Kimi Help Center"
-  description="Kimi Browser Extension (formerly Kimi WebBridge) is a browser extension built for AI agents. It can open pages, click buttons, fill out forms, and extract information, letting agents handle tedious web tasks like a human."
+  description="Kimi Browser Extension, formerly Kimi WebBridge, is a browser extension built for AI agents. It can open pages, click buttons, fill out forms, and extract information, letting agents handle tedious web tasks like a human."
   ogType="article"
 />
 
 # Kimi Browser Extension Introduction
 
-Kimi Browser Extension (formerly Kimi WebBridge) is a browser extension built for AI agents. It can open pages, click buttons, fill out forms, and extract information, letting an agent handle tedious web tasks just like a person would. You can also break down frequently used websites into CLIs and turn recorded web operations into Skills for your agent to reuse.
+Kimi Browser Extension, formerly Kimi WebBridge, is a browser extension built for AI agents. It can open pages, click buttons, fill out forms, and extract information, letting an agent handle tedious web tasks just like a person would. You can also break down frequently used websites into CLIs and turn recorded web operations into Skills for your agent to reuse.
 
 ## Two ways to use
 
@@ -83,11 +83,11 @@ After installation, you should see Kimi Browser Extension in your browser's exte
 
 ### Step 2: Choose your setup method and complete configuration
 
-#### Method 1: Using with Kimi Work Desktop
+**Method 1: Using with Kimi Work Desktop**
 
 1. Download Kimi Work from the [official website](https://www.kimi.com/products/kimi-work)
 
-2. Once installed, you can open the extension sidebar and send instructions, for example:
+2. Open the downloaded Kimi Work Desktop app and switch to Work mode. Find and install Kimi Browser Extension in the plugin marketplace. Then try sending the instruction below in the browser sidebar or in Kimi Work:
 
 <CodePreview
   files={[
@@ -99,7 +99,7 @@ After installation, you should see Kimi Browser Extension in your browser's exte
   ]}
 />
 
-#### Method 2: Pair with Local Agents
+**Method 2: Pair with Local Agents**
 
 Supports Claude Code, Codex, Cursor, Kimi Code, Hermes Claw, and more.
 

@@ -83,11 +83,11 @@ Nach der Installation sollte Kimi Browsererweiterung in der Erweiterungsliste Ih
 
 ### Schritt 2: Einrichtungsmethode wählen und Konfiguration abschließen
 
-#### Methode 1: Verwendung mit Kimi Work Desktop
+**Methode 1: Verwendung mit Kimi Work Desktop**
 
 1. Laden Sie Kimi Work von der [offiziellen Website](https://www.kimi.com/products/kimi-work) herunter
 
-2. Nach der Installation können Sie die Seitenleiste der Erweiterung öffnen und Anweisungen erteilen, zum Beispiel:
+2. Öffnen Sie die heruntergeladene Kimi Work Desktop-App und wechseln Sie in den Work mode. Finden und installieren Sie Kimi Browsererweiterung im Plugin-Marktplatz. Versuchen Sie dann, die folgende Anweisung in der Browser-Seitenleiste oder in Kimi Work zu senden:
 
 <CodePreview
   files={[
@@ -99,7 +99,7 @@ Nach der Installation sollte Kimi Browsererweiterung in der Erweiterungsliste Ih
   ]}
 />
 
-#### Methode 2: Kopplung mit lokalen Agenten
+**Methode 2: Kopplung mit lokalen Agenten**
 
 Unterstützt Claude Code, Codex, Cursor, Kimi Code, Hermes Claw und mehr.
 

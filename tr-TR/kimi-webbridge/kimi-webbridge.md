@@ -83,11 +83,11 @@ Kurulumun ardından Kimi Tarayıcı Uzantısı'nı tarayıcınızın eklentiler 
 
 ### 2. Adım: Kurulum yönteminizi seçin ve yapılandırmayı tamamlayın
 
-#### Yöntem 1: Kimi Work Masaüstü ile kullanma
+**Yöntem 1: Kimi Work Masaüstü ile kullanma**
 
 1. Kimi Work'ü [resmi web sitesinden](https://www.kimi.com/products/kimi-work) indirin
 
-2. Kurulumdan sonra uzantının kenar çubuğunu açıp talimatlar gönderebilirsiniz; örneğin:
+2. İndirdiğiniz Kimi Work Masaüstü uygulamasını açın ve Work mode'a geçin. Eklenti Merkezi'nde Kimi Tarayıcı Uzantısı'nı bulup yükleyin. Ardından aşağıdaki talimatı tarayıcı yan çubuğunda veya Kimi Work'te göndermeyi deneyin:
 
 <CodePreview
   files={[
@@ -99,7 +99,7 @@ Kurulumun ardından Kimi Tarayıcı Uzantısı'nı tarayıcınızın eklentiler 
   ]}
 />
 
-#### Yöntem 2: Yerel Agent'larla eşleştirme
+**Yöntem 2: Yerel Agent'larla eşleştirme**
 
 Claude Code, Codex, Cursor, Kimi Code, Hermes Claw ve daha fazlasını destekler.
 

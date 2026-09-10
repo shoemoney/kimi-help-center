@@ -83,11 +83,11 @@ Sau khi cài đặt, bạn sẽ thấy Tiện ích mở rộng trình duyệt Ki
 
 ### Bước 2: Chọn cách thiết lập và hoàn tất cấu hình
 
-#### Cách 1: Sử dụng cùng Kimi Work Desktop
+**Cách 1: Sử dụng cùng Kimi Work Desktop**
 
 1. Tải Kimi Work từ [trang web chính thức](https://www.kimi.com/products/kimi-work)
 
-2. Sau khi cài đặt thành công, bạn có thể mở thanh bên của tiện ích mở rộng và gửi yêu cầu, ví dụ:
+2. Mở ứng dụng Kimi Work Desktop đã tải về và chuyển sang chế độ Work. Tìm và cài đặt Tiện ích mở rộng trình duyệt Kimi trong chợ plugin. Sau đó thử gửi yêu cầu bên dưới trên thanh bên của trình duyệt hoặc trong Kimi Work:
 
 <CodePreview
   files={[
@@ -99,7 +99,7 @@ Sau khi cài đặt, bạn sẽ thấy Tiện ích mở rộng trình duyệt Ki
   ]}
 />
 
-#### Cách 2: Ghép nối với Agent cục bộ
+**Cách 2: Ghép nối với Agent cục bộ**
 
 Hỗ trợ Claude Code, Codex, Cursor, Kimi Code, Hermes Claw cùng nhiều công cụ khác.
 

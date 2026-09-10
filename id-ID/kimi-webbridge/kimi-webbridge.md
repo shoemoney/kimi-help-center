@@ -83,11 +83,11 @@ Setelah pemasangan, Ekstensi Browser Kimi akan muncul di daftar ekstensi peramba
 
 ### Langkah 2: Pilih metode penyiapan dan selesaikan konfigurasi
 
-#### Cara 1: Menggunakan dengan Kimi Work Desktop
+**Cara 1: Menggunakan dengan Kimi Work Desktop**
 
 1. Unduh Kimi Work dari [situs resmi](https://www.kimi.com/products/kimi-work)
 
-2. Setelah terpasang, Anda dapat membuka bilah samping ekstensi dan mengirim instruksi, misalnya:
+2. Buka aplikasi Kimi Work Desktop yang sudah diunduh dan beralih ke Work mode. Temukan dan pasang Ekstensi Browser Kimi di marketplace plugin. Anda dapat mencoba mengirim instruksi di bawah ini di sidebar browser atau di Kimi Work:
 
 <CodePreview
   files={[
@@ -99,7 +99,7 @@ Setelah pemasangan, Ekstensi Browser Kimi akan muncul di daftar ekstensi peramba
   ]}
 />
 
-#### Cara 2: Pasangkan dengan Local Agent
+**Cara 2: Pasangkan dengan Local Agent**
 
 Mendukung Claude Code, Codex, Cursor, Kimi Code, Hermes Claw, dan lainnya.
 

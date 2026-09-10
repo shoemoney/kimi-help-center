@@ -83,11 +83,11 @@ Después de la instalación, deberías ver la Extensión de navegador Kimi en la
 
 ### Paso 2: elige tu método de configuración y complétala
 
-#### Método 1: usar con Kimi Work Desktop
+**Método 1: usar con Kimi Work Desktop**
 
 1. Descarga Kimi Work desde el [sitio oficial](https://www.kimi.com/products/kimi-work)
 
-2. Una vez instalado, puedes abrir la barra lateral de la extensión y enviar instrucciones, por ejemplo:
+2. Abre la aplicación Kimi Work Desktop descargada y cambia al modo Work. Busca e instala la Extensión de navegador Kimi en el mercado de plugins. Puedes probar a enviar la siguiente instrucción en la barra lateral del navegador o en Kimi Work:
 
 <CodePreview
   files={[
@@ -99,7 +99,7 @@ Después de la instalación, deberías ver la Extensión de navegador Kimi en la
   ]}
 />
 
-#### Método 2: combinar con agentes locales
+**Método 2: combinar con agentes locales**
 
 Compatible con Claude Code, Codex, Cursor, Kimi Code, Hermes Claw y más.
 

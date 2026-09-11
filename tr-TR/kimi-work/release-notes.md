@@ -15,19 +15,18 @@ preview: false
 
 Bu sayfa, Kimi Work sürüm güncellemelerini (yeni özellikler, değişiklikler ve düzeltmeler) kaydeder ve sürekli güncellenir. En son sürümü indirin: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
-## 3.2.7 (2026-09-10)
+## 3.2.7 (2026-09-11)
 
 **Yeni**
 
 - Ekran görüntüsü yükseltmesi: Launcher’da kaydırmalı uzun ekran görüntüleri; ekran görüntüsü düzenleyicide tek tıklamayla OCR metin çıkarma; ekran görüntülerini masaüstünde her zaman üstte küçük pencereler olarak sabitleyin
-- Sohbet ayarları enjeksiyonu: yeni Work sohbetleri sohbet ayarlarınızı (sistem istemi) otomatik olarak taşır
+- Sohbet ayarları enjeksiyonu: yeni Work sohbetleri sohbet ayarlarınızı otomatik olarak taşır
 - Dosyaları pencerenin herhangi bir yerine sürükleyerek ekleyin, klasörler dahil
 - Yeni web sitesi dağıtım eklentisi: kurulduktan sonra yerel web sitesi projelerini tek adımda buluta dağıtın
 
 **Değişiklikler**
 
 - Windows otomatik başlatma artık yalnızca sistem tepsisinde kalıyor, ana pencere açılmıyor
-- “Otomatik kontrol” ayar akışı optimize edildi: daha net kurulum ve giriş rehberliği
 - Markdown tabloları yeniden tasarlandı, geniş tablolar yatay kaydırma destekli
 - Bildirim merkezi artık tek tıklamayla tümünü okundu işaretlemeyi destekliyor
 - Uzaktan kontrol mesajları artık segmentler halinde gösteriliyor, alt Agent kartları ve çıktı kartları masaüstüyle hizalandı

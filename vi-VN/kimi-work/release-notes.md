@@ -15,19 +15,18 @@ preview: false
 
 Trang này ghi lại nội dung cập nhật theo phiên bản của Kimi Work, bao gồm tính năng mới, thay đổi và bản sửa lỗi, và được cập nhật liên tục. Tải xuống phiên bản mới nhất: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
-## 3.2.7 (2026-09-10)
+## 3.2.7 (2026-09-11)
 
 **Mới**
 
 - Nâng cấp khả năng chụp màn hình: chụp màn hình dài bằng cách cuộn trong Launcher; trích xuất văn bản OCR bằng một cú nhấp trong trình chỉnh sửa ảnh chụp; ghim ảnh chụp lên desktop dưới dạng cửa sổ luôn ở trên cùng
-- Tiêm cài đặt cuộc trò chuyện: các cuộc trò chuyện Work mới tự động mang theo cài đặt cuộc trò chuyện của bạn (system prompt)
+- Tiêm cài đặt cuộc trò chuyện: các cuộc trò chuyện Work mới tự động mang theo cài đặt cuộc trò chuyện của bạn
 - Kéo tệp đến bất kỳ đâu trên cửa sổ để đính kèm, hỗ trợ cả thư mục
 - Thêm plugin triển khai website: sau khi cài đặt, dự án website trên máy có thể triển khai lên đám mây trong một bước
 
 **Thay đổi**
 
 - Khởi động tự động của Windows giờ chỉ nằm trong khay hệ thống, không còn bật cửa sổ chính
-- Tối ưu quy trình cài đặt “điều khiển tự động”: hướng dẫn cài đặt và đăng nhập rõ ràng hơn
 - Bảng Markdown được thiết kế lại, bảng rộng có thể cuộn ngang
 - Trung tâm thông báo hỗ trợ đánh dấu tất cả đã đọc bằng một cú nhấp
 - Tin nhắn điều khiển từ xa hiển thị theo phân đoạn, thẻ sub-Agent và thẻ kết quả đồng nhất với desktop

@@ -15,19 +15,18 @@ preview: false
 
 Questa pagina raccoglie gli aggiornamenti di versione di Kimi Work, tra cui nuove funzionalità, modifiche e correzioni, ed è aggiornata regolarmente. Scarica l’ultima versione: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
-## 3.2.7 (2026-09-10)
+## 3.2.7 (2026-09-11)
 
 **Novità**
 
 - Aggiornamento degli screenshot: screenshot lunghi con scorrimento nel Launcher; estrazione di testo OCR con un clic nell'editor di screenshot; fissa gli screenshot sul desktop come finestre sempre in primo piano
-- Iniezione delle impostazioni di conversazione: le nuove conversazioni Work riprendono automaticamente le tue impostazioni di conversazione (prompt di sistema)
+- Iniezione delle impostazioni di conversazione: le nuove conversazioni Work riprendono automaticamente le tue impostazioni di conversazione
 - Trascina file in qualsiasi punto della finestra per allegarli, incluse le cartelle
 - Nuovo plugin per il deployment di siti web: una volta installato, distribuisci i progetti web locali nel cloud in un solo passaggio
 
 **Modifiche**
 
 - L'avvio automatico di Windows ora resta solo nella barra delle applicazioni, senza aprire la finestra principale
-- Flusso di impostazione del "controllo automatico" ottimizzato: guida all'installazione e all'accesso più chiara
 - Tabelle Markdown ridisegnate, con scorrimento orizzontale per le tabelle larghe
 - Il centro notifiche ora supporta "segna tutto come letto" con un clic
 - I messaggi del controllo remoto ora vengono visualizzati in segmenti, con schede sub-Agent e deliverable allineate al desktop

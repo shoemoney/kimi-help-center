@@ -15,6 +15,32 @@ preview: false
 
 Questa pagina raccoglie gli aggiornamenti di versione di Kimi Work, tra cui nuove funzionalità, modifiche e correzioni, ed è aggiornata regolarmente. Scarica l’ultima versione: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.7 (2026-09-10)
+
+**Novità**
+
+- Grande aggiornamento degli screenshot: screenshot lunghi con scorrimento nel Launcher; estrazione di testo OCR con un clic nell'editor di screenshot; fissa gli screenshot sul desktop come finestre sempre in primo piano
+- Iniezione delle impostazioni di conversazione: le nuove conversazioni Work riprendono automaticamente le tue impostazioni di conversazione (prompt di sistema)
+- Trascina file in qualsiasi punto della finestra per allegarli, incluse le cartelle
+- Nuovo plugin per il deployment di siti web: una volta installato, distribuisci i progetti web locali nel cloud in un solo passaggio
+
+**Modifiche**
+
+- L'avvio automatico di Windows ora resta solo nella barra delle applicazioni, senza aprire la finestra principale
+- Flusso di impostazione del "controllo automatico" ottimizzato: guida all'installazione e all'accesso più chiara
+- Tabelle Markdown ridisegnate, con scorrimento orizzontale per le tabelle larghe
+- Il centro notifiche ora supporta "segna tutto come letto" con un clic
+- I messaggi del controllo remoto ora vengono visualizzati in segmenti, con schede sub-Agent e deliverable allineate al desktop
+
+**Correzioni**
+
+- L'input vocale ora viene disattivato automaticamente sui dispositivi senza microfono, e la dettatura si interrompe quando il microfono viene scollegato
+- Risolto un problema per cui la funzione di caricamento dei plugin era mancante
+- I link email e telefono ora mostrano un messaggio chiaro quando non possono essere aperti, senza più fallimenti silenziosi
+- Risolto un problema per cui la pagina delle attività pianificate si bloccava quando i crediti erano esauriti
+- Prestazioni e trascinamento dell'animale domestico da scrivania corretti
+- Sono stati corretti alcuni bug e migliorate alcune interazioni e la stabilità
+
 ## 3.2.6 (2026-09-07)
 
 **Novità**

@@ -15,6 +15,32 @@ preview: false
 
 Halaman ini mencatat pembaruan versi Kimi Work, termasuk fitur baru, perubahan, dan perbaikan, dan terus diperbarui. Unduh versi terbaru: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.7 (2026-09-10)
+
+**Baru**
+
+- Peningkatan besar kemampuan tangkapan layar: tangkapan layar panjang bergulir di Launcher; ekstraksi teks OCR sekali klik di editor tangkapan layar; sematkan tangkapan layar ke desktop sebagai jendela selalu di atas
+- Injeksi pengaturan percakapan: percakapan Work baru secara otomatis membawa pengaturan percakapan Anda (prompt sistem)
+- Seret file ke mana saja di jendela untuk menambahkan lampiran, termasuk folder
+- Plugin deployment situs web baru: setelah terpasang, proyek situs web lokal dapat di-deploy ke cloud dalam satu langkah
+
+**Perubahan**
+
+- Mulai otomatis Windows kini hanya berada di tray sistem, tidak lagi memunculkan jendela utama
+- Alur pengaturan "kendali otomatis" dioptimalkan: panduan instalasi dan login lebih jelas
+- Tabel Markdown didesain ulang, dengan gulir horizontal untuk tabel lebar
+- Pusat notifikasi kini mendukung tandai semua sebagai dibaca dengan satu klik
+- Pesan kendali jarak jauh kini ditampilkan tersegmentasi, dengan kartu sub-Agent dan kartu hasil selaras dengan desktop
+
+**Perbaikan**
+
+- Input suara kini otomatis dinonaktifkan pada perangkat tanpa mikrofon, dan dikte berhenti saat mikrofon dicabut
+- Memperbaiki masalah fitur unggah plugin yang hilang
+- Tautan email dan telepon kini menampilkan pesan yang jelas saat tidak dapat dibuka, tidak lagi gagal diam-diam
+- Memperbaiki masalah halaman tugas terjadwal yang macet saat kredit habis
+- Perbaikan performa dan seret-lepas peliharaan desktop
+- Memperbaiki beberapa bug dan meningkatkan beberapa interaksi dan stabilitas
+
 ## 3.2.6 (2026-09-07)
 
 **Baru**

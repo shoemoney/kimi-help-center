@@ -15,6 +15,32 @@ preview: false
 
 Esta página registra as atualizações de versão do Kimi Work, incluindo novos recursos, alterações e correções, e é atualizada continuamente. Baixe a versão mais recente: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.7 (2026-09-10)
+
+**Novidades**
+
+- Grande atualização de capturas de tela: capturas longas com rolagem no Launcher; extração de texto OCR com um clique no editor de capturas; fixe capturas na área de trabalho como janelas sempre no topo
+- Injeção de configurações de conversa: novas conversas do Work carregam automaticamente suas configurações de conversa (prompt do sistema)
+- Arraste arquivos para qualquer lugar da janela para anexá-los, incluindo pastas
+- Novo plugin de implantação de sites: uma vez instalado, implante projetos de sites locais na nuvem em uma única etapa
+
+**Alterações**
+
+- A inicialização automática do Windows agora fica apenas na bandeja do sistema, sem abrir a janela principal
+- Fluxo de configuração de "controle automático" otimizado: orientações de instalação e login mais claras
+- Tabelas Markdown redesenhadas, com rolagem horizontal para tabelas largas
+- A central de notificações agora permite marcar tudo como lido com um clique
+- As mensagens do controle remoto agora são exibidas em segmentos, com cartões de sub-Agent e de entregáveis alinhados ao desktop
+
+**Correções**
+
+- A entrada de voz agora é desativada automaticamente em dispositivos sem microfone, e o ditado para quando o microfone é desconectado
+- Correção de um problema em que a função de upload de plugins estava ausente
+- Links de e-mail e telefone agora mostram uma mensagem clara quando não podem ser abertos, sem falhas silenciosas
+- Correção de um problema em que a página de tarefas agendadas congelava quando os créditos acabavam
+- Desempenho e arrastar e soltar do pet de desktop corrigidos
+- Correção de alguns bugs e melhoria de algumas interações e da estabilidade
+
 ## 3.2.6 (2026-09-07)
 
 **Novidades**

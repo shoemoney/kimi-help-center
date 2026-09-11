@@ -15,6 +15,32 @@ preview: false
 
 Diese Seite dokumentiert die Versionsupdates von Kimi Work, einschließlich neuer Funktionen, Änderungen und Fehlerbehebungen, und wird laufend aktualisiert. Neueste Version herunterladen: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.7 (2026-09-10)
+
+**Neu**
+
+- Großes Screenshot-Upgrade: Scrollbare Lang-Screenshots im Launcher; OCR-Textextraktion per Klick im Screenshot-Editor; Screenshots als Always-on-top-Fenster an den Desktop anheften
+- Konversationseinstellungen-Injektion: Neue Work-Konversationen übernehmen automatisch Ihre Konversationseinstellungen (System-Prompt)
+- Ziehen Sie Dateien an beliebige Stelle im Fenster, um Anhänge hinzuzufügen — einschließlich Ordnern
+- Neues Website-Deployment-Plugin: Nach der Installation lassen sich lokale Website-Projekte mit einem Schritt in der Cloud bereitstellen
+
+**Änderungen**
+
+- Windows-Autostart bleibt jetzt nur noch im System-Tray, das Hauptfenster öffnet sich nicht mehr
+- Einstellungsablauf „Automatische Steuerung“ optimiert: klarere Installations- und Anmeldeführung
+- Markdown-Tabellen neu gestaltet, mit horizontalem Scrollen für breite Tabellen
+- Mitteilungszentrale unterstützt jetzt „Alle als gelesen markieren“ per Klick
+- Remote-Control-Nachrichten werden jetzt segmentiert angezeigt; Sub-Agent-Karten und Ergebniskarten entsprechen der Desktop-Darstellung
+
+**Fehlerbehebungen**
+
+- Spracheingabe wird auf Geräten ohne Mikrofon automatisch deaktiviert; Diktat stoppt beim Abziehen des Mikrofons
+- Ein Problem wurde behoben, bei dem die Plugin-Upload-Funktion fehlte
+- E-Mail- und Telefon-Links zeigen jetzt eine klare Meldung, wenn sie nicht geöffnet werden können — kein stilles Fehlschlagen mehr
+- Ein Problem wurde behoben, bei dem die Seite für geplante Aufgaben einfror, wenn die Credits aufgebraucht waren
+- Leistung und Drag-and-Drop des Desktop-Pets verbessert
+- Einige Fehler wurden behoben und einige Interaktionen sowie die Stabilität verbessert
+
 ## 3.2.6 (2026-09-07)
 
 **Neu**

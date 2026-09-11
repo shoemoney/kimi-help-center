@@ -15,6 +15,32 @@ preview: false
 
 Esta página registra las actualizaciones de versión de Kimi Work, incluidas nuevas funciones, cambios y correcciones, y se actualiza constantemente. Descarga la versión más reciente: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.7 (2026-09-10)
+
+**Novedades**
+
+- Gran actualización de capturas de pantalla: capturas largas con desplazamiento en Launcher; extracción de texto OCR con un clic en el editor de capturas; fija capturas en el escritorio como ventanas siempre visibles
+- Inyección de ajustes de conversación: las conversaciones nuevas de Work incorporan automáticamente tus ajustes de conversación (prompt del sistema)
+- Arrastra archivos a cualquier parte de la ventana para adjuntarlos, incluidas carpetas
+- Nuevo plugin de despliegue de sitios web: una vez instalado, despliega proyectos web locales en la nube en un solo paso
+
+**Cambios**
+
+- El inicio automático en Windows ahora solo permanece en la bandeja del sistema, sin abrir la ventana principal
+- Flujo de configuración de "control automático" optimizado: guía de instalación e inicio de sesión más clara
+- Tablas Markdown rediseñadas, con desplazamiento horizontal para tablas anchas
+- El centro de notificaciones ahora permite marcar todo como leído con un clic
+- Los mensajes del control remoto ahora se muestran en segmentos, con tarjetas de sub-Agent y de entregables alineadas con el escritorio
+
+**Correcciones**
+
+- La entrada de voz se desactiva automáticamente en dispositivos sin micrófono, y el dictado se detiene al desconectar el micrófono
+- Se corrigió un problema por el que faltaba la función de subida de plugins
+- Los enlaces de correo y teléfono ahora muestran un mensaje claro cuando no se pueden abrir, sin fallos silenciosos
+- Se corrigió un problema por el que la página de tareas programadas se congelaba cuando se agotaban los créditos
+- Rendimiento y arrastrar y soltar de la mascota de escritorio corregidos
+- Se corrigieron varios errores y se mejoraron algunas interacciones y la estabilidad
+
 ## 3.2.6 (2026-09-07)
 
 **Novedades**

@@ -19,7 +19,7 @@ Diese Seite dokumentiert die Versionsupdates von Kimi Work, einschließlich neue
 
 **Neu**
 
-- Großes Screenshot-Upgrade: Scrollbare Lang-Screenshots im Launcher; OCR-Textextraktion per Klick im Screenshot-Editor; Screenshots als Always-on-top-Fenster an den Desktop anheften
+- Screenshot-Upgrade: Scrollbare Lang-Screenshots im Launcher; OCR-Textextraktion per Klick im Screenshot-Editor; Screenshots als Always-on-top-Fenster an den Desktop anheften
 - Konversationseinstellungen-Injektion: Neue Work-Konversationen übernehmen automatisch Ihre Konversationseinstellungen (System-Prompt)
 - Ziehen Sie Dateien an beliebige Stelle im Fenster, um Anhänge hinzuzufügen — einschließlich Ordnern
 - Neues Website-Deployment-Plugin: Nach der Installation lassen sich lokale Website-Projekte mit einem Schritt in der Cloud bereitstellen

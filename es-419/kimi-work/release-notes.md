@@ -19,7 +19,7 @@ Esta página registra las actualizaciones de versión de Kimi Work, incluidas nu
 
 **Novedades**
 
-- Gran actualización de capturas de pantalla: capturas largas con desplazamiento en Launcher; extracción de texto OCR con un clic en el editor de capturas; fija capturas en el escritorio como ventanas siempre visibles
+- Actualización de capturas de pantalla: capturas largas con desplazamiento en Launcher; extracción de texto OCR con un clic en el editor de capturas; fija capturas en el escritorio como ventanas siempre visibles
 - Inyección de ajustes de conversación: las conversaciones nuevas de Work incorporan automáticamente tus ajustes de conversación (prompt del sistema)
 - Arrastra archivos a cualquier parte de la ventana para adjuntarlos, incluidas carpetas
 - Nuevo plugin de despliegue de sitios web: una vez instalado, despliega proyectos web locales en la nube en un solo paso

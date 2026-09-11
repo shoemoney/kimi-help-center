@@ -19,7 +19,7 @@ Halaman ini mencatat pembaruan versi Kimi Work, termasuk fitur baru, perubahan, 
 
 **Baru**
 
-- Peningkatan besar kemampuan tangkapan layar: tangkapan layar panjang bergulir di Launcher; ekstraksi teks OCR sekali klik di editor tangkapan layar; sematkan tangkapan layar ke desktop sebagai jendela selalu di atas
+- Peningkatan kemampuan tangkapan layar: tangkapan layar panjang bergulir di Launcher; ekstraksi teks OCR sekali klik di editor tangkapan layar; sematkan tangkapan layar ke desktop sebagai jendela selalu di atas
 - Injeksi pengaturan percakapan: percakapan Work baru secara otomatis membawa pengaturan percakapan Anda (prompt sistem)
 - Seret file ke mana saja di jendela untuk menambahkan lampiran, termasuk folder
 - Plugin deployment situs web baru: setelah terpasang, proyek situs web lokal dapat di-deploy ke cloud dalam satu langkah

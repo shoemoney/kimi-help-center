@@ -19,7 +19,7 @@ This page tracks Kimi Work version updates, including new features, changes, and
 
 **New**
 
-- Major screenshot upgrade: scrolling long screenshots in Launcher; one-click OCR text extraction in the screenshot editor; pin screenshots to the desktop as always-on-top windows
+- Screenshot upgrade: scrolling long screenshots in Launcher; one-click OCR text extraction in the screenshot editor; pin screenshots to the desktop as always-on-top windows
 - Conversation settings injection: new Work conversations automatically carry your conversation settings (system prompt)
 - Drag files anywhere onto the window to add attachments, including folders
 - Added a website deployment plugin: once installed, deploy local website projects to the cloud in one step

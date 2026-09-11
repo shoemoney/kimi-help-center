@@ -19,7 +19,7 @@ Bu sayfa, Kimi Work sürüm güncellemelerini (yeni özellikler, değişiklikler
 
 **Yeni**
 
-- Büyük ekran görüntüsü yükseltmesi: Launcher’da kaydırmalı uzun ekran görüntüleri; ekran görüntüsü düzenleyicide tek tıklamayla OCR metin çıkarma; ekran görüntülerini masaüstünde her zaman üstte küçük pencereler olarak sabitleyin
+- Ekran görüntüsü yükseltmesi: Launcher’da kaydırmalı uzun ekran görüntüleri; ekran görüntüsü düzenleyicide tek tıklamayla OCR metin çıkarma; ekran görüntülerini masaüstünde her zaman üstte küçük pencereler olarak sabitleyin
 - Sohbet ayarları enjeksiyonu: yeni Work sohbetleri sohbet ayarlarınızı (sistem istemi) otomatik olarak taşır
 - Dosyaları pencerenin herhangi bir yerine sürükleyerek ekleyin, klasörler dahil
 - Yeni web sitesi dağıtım eklentisi: kurulduktan sonra yerel web sitesi projelerini tek adımda buluta dağıtın

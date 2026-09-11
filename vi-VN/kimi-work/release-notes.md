@@ -19,7 +19,7 @@ Trang này ghi lại nội dung cập nhật theo phiên bản của Kimi Work, 
 
 **Mới**
 
-- Nâng cấp lớn khả năng chụp màn hình: chụp màn hình dài bằng cách cuộn trong Launcher; trích xuất văn bản OCR bằng một cú nhấp trong trình chỉnh sửa ảnh chụp; ghim ảnh chụp lên desktop dưới dạng cửa sổ luôn ở trên cùng
+- Nâng cấp khả năng chụp màn hình: chụp màn hình dài bằng cách cuộn trong Launcher; trích xuất văn bản OCR bằng một cú nhấp trong trình chỉnh sửa ảnh chụp; ghim ảnh chụp lên desktop dưới dạng cửa sổ luôn ở trên cùng
 - Tiêm cài đặt cuộc trò chuyện: các cuộc trò chuyện Work mới tự động mang theo cài đặt cuộc trò chuyện của bạn (system prompt)
 - Kéo tệp đến bất kỳ đâu trên cửa sổ để đính kèm, hỗ trợ cả thư mục
 - Thêm plugin triển khai website: sau khi cài đặt, dự án website trên máy có thể triển khai lên đám mây trong một bước

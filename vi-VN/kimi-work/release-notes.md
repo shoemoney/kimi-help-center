@@ -15,6 +15,19 @@ preview: false
 
 Trang này ghi lại nội dung cập nhật theo phiên bản của Kimi Work, bao gồm tính năng mới, thay đổi và bản sửa lỗi, và được cập nhật liên tục. Tải xuống phiên bản mới nhất: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.8 (2026-09-12)
+
+**Thay đổi**
+
+- Cài đặt chống ngủ giờ có ba tùy chọn: tiếp tục chạy khi màn hình tắt, giữ màn hình luôn sáng, và tắt
+
+**Sửa lỗi**
+
+- Đã sửa lỗi cửa sổ Cài đặt bị trắng sau khi khôi phục
+- Tối ưu hình thu nhỏ của ảnh chụp dài, giảm bộ nhớ dùng khi xem trước
+- Đã sửa lỗi race condition khi làm mới đăng nhập, tránh các yêu cầu cũ vô tình xóa trạng thái đăng nhập hoặc ghi đè thông tin xác thực mới
+- Đã sửa một số lỗi và cải thiện một số tương tác cùng độ ổn định
+
 ## 3.2.7 (2026-09-11)
 
 **Mới**

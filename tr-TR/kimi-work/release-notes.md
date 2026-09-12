@@ -15,6 +15,19 @@ preview: false
 
 Bu sayfa, Kimi Work sürüm güncellemelerini (yeni özellikler, değişiklikler ve düzeltmeler) kaydeder ve sürekli güncellenir. En son sürümü indirin: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.8 (2026-09-12)
+
+**Değişiklikler**
+
+- Uyku engelleme ayarı artık üç seçenek sunuyor: ekran kapalıyken çalışmaya devam et, ekranı açık tut ve kapalı
+
+**Düzeltmeler**
+
+- Ayarlar penceresinin geri yüklendikten sonra beyazlaşmasına neden olan sorun düzeltildi
+- Uzun ekran görüntüsü küçük resimleri, önizleme bellek kullanımını azaltacak şekilde optimize edildi
+- Oturum açma yenilemesindeki bir yarış durumu düzeltildi; eski isteklerin oturum durumunu yanlışlıkla temizlemesi veya yeni kimlik bilgilerinin üzerine yazması önlendi
+- Bazı hatalar düzeltildi ve bazı etkileşimler ile kararlılık iyileştirildi
+
 ## 3.2.7 (2026-09-11)
 
 **Yeni**

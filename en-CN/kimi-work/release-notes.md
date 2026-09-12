@@ -15,6 +15,19 @@ preview: false
 
 This page tracks Kimi Work version updates, including new features, changes, and fixes, and is updated regularly. Download the latest version: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.8 (2026-09-12)
+
+**Changed**
+
+- Anti-sleep setting now offers three options: keep running when the screen is off, keep the screen on, and off
+
+**Fixed**
+
+- Fixed an issue where the Settings window went blank after being restored
+- Optimized long-screenshot thumbnails to reduce preview memory usage
+- Fixed a login refresh race condition, preventing stale requests from mistakenly clearing the login state or overwriting new credentials
+- Fixed several bugs and improved some interactions and stability
+
 ## 3.2.7 (2026-09-11)
 
 **New**

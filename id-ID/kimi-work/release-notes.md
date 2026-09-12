@@ -15,6 +15,19 @@ preview: false
 
 Halaman ini mencatat pembaruan versi Kimi Work, termasuk fitur baru, perubahan, dan perbaikan, dan terus diperbarui. Unduh versi terbaru: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.8 (2026-09-12)
+
+**Perubahan**
+
+- Pengaturan anti-tidur kini menawarkan tiga opsi: tetap berjalan saat layar mati, jaga layar tetap menyala, dan mati
+
+**Perbaikan**
+
+- Memperbaiki masalah jendela Pengaturan yang menjadi kosong setelah dipulihkan
+- Thumbnail tangkapan layar panjang dioptimalkan untuk mengurangi penggunaan memori pratinjau
+- Memperbaiki kondisi balapan pada penyegaran login, mencegah permintaan lama keliru menghapus status login atau menimpa kredensial baru
+- Memperbaiki beberapa bug dan meningkatkan beberapa interaksi dan stabilitas
+
 ## 3.2.7 (2026-09-11)
 
 **Baru**

@@ -15,6 +15,19 @@ preview: false
 
 Questa pagina raccoglie gli aggiornamenti di versione di Kimi Work, tra cui nuove funzionalità, modifiche e correzioni, ed è aggiornata regolarmente. Scarica l’ultima versione: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.8 (2026-09-12)
+
+**Modifiche**
+
+- L'impostazione anti-sospensione ora offre tre opzioni: continua a funzionare con lo schermo spento, mantieni lo schermo acceso, e disattivata
+
+**Correzioni**
+
+- Risolto un problema per cui la finestra delle Impostazioni diventava bianca dopo essere stata ripristinata
+- Miniature degli screenshot lunghi ottimizzate per ridurre l'uso di memoria dell'anteprima
+- Risolta una race condition nell'aggiornamento dell'accesso, impedendo alle richieste obsolete di cancellare erroneamente lo stato di accesso o sovrascrivere le nuove credenziali
+- Sono stati corretti alcuni bug e migliorate alcune interazioni e la stabilità
+
 ## 3.2.7 (2026-09-11)
 
 **Novità**

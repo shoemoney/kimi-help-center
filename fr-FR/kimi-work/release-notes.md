@@ -15,6 +15,19 @@ preview: false
 
 Cette page consigne les mises à jour de Kimi Work (nouvelles fonctionnalités, modifications et corrections) et est actualisée en continu. Télécharger la dernière version : [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.8 (2026-09-12)
+
+**Modifications**
+
+- Le réglage anti-veille propose désormais trois options : continuer à fonctionner écran éteint, garder l’écran allumé, et désactivé
+
+**Corrections**
+
+- Correction d’un problème où la fenêtre des Paramètres devenait blanche après restauration
+- Vignettes de captures longues optimisées pour réduire la consommation mémoire de l’aperçu
+- Correction d’une condition de concurrence lors de l’actualisation de la connexion, empêchant d’anciennes requêtes d’effacer par erreur l’état de connexion ou d’écraser les nouveaux identifiants
+- Correction de plusieurs bugs et amélioration de certaines interactions et de la stabilité
+
 ## 3.2.7 (2026-09-11)
 
 **Nouveautés**

@@ -15,6 +15,19 @@ preview: false
 
 Diese Seite dokumentiert die Versionsupdates von Kimi Work, einschließlich neuer Funktionen, Änderungen und Fehlerbehebungen, und wird laufend aktualisiert. Neueste Version herunterladen: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.8 (2026-09-12)
+
+**Änderungen**
+
+- Ruhemodus-Schutz bietet jetzt drei Optionen: Bei ausgeschaltetem Bildschirm weiterlaufen, Bildschirm eingeschaltet lassen, Aus
+
+**Fehlerbehebungen**
+
+- Ein Problem wurde behoben, bei dem das Einstellungsfenster nach dem Wiederherstellen weiß blieb
+- Optimierte Lang-Screenshot-Miniaturen zur Reduzierung des Vorschau-Speicherverbrauchs
+- Eine Race Condition bei der Anmeldeaktualisierung wurde behoben, damit veraltete Anfragen den Anmeldestatus nicht mehr fälschlich löschen oder neue Anmeldedaten überschreiben
+- Einige Fehler wurden behoben und einige Interaktionen sowie die Stabilität verbessert
+
 ## 3.2.7 (2026-09-11)
 
 **Neu**

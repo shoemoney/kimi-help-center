@@ -15,6 +15,28 @@ preview: false
 
 Diese Seite dokumentiert die Versionsupdates von Kimi Work, einschließlich neuer Funktionen, Änderungen und Fehlerbehebungen, und wird laufend aktualisiert. Neueste Version herunterladen: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.9 (2026-09-14)
+
+**Neu**
+
+- Teilen und Öffnen mit Kimi wird jetzt für ausgewählte Dateiformate unterstützt:
+  - An Kimi teilen: Senden Sie Dateien und Inhalte direkt aus dem Teilen-Menü von Apps wie WeChat an Kimi
+  - Mit Kimi öffnen: Klicken Sie unterstützte Dateien mit der rechten Maustaste an und wählen Sie „Mit Kimi öffnen“
+- Desktop-Pet-Upgrade: Komplett erneuerte UI mit Schnellantworten direkt in der Konversationsblase — chatten Sie weiter, ohne das Hauptfenster zu öffnen
+- PDF-Viewer mit neuem Indexbereich aktualisiert, einschließlich Inhaltsverzeichnis und Seitenzahl-Sprung
+- Neue Energiemodus-Option „Nach Bildschirm-Aus wach halten“: Der Bildschirm kann sich ausschalten, während das System weiterläuft, sodass Fernsteuerung und Hintergrundaufgaben nicht unterbrochen werden
+
+**Änderungen**
+
+- Hochgeladene Dateien und über „@“ verknüpfte Dateien im Eingabefeld können jetzt angeklickt werden, um eine Vorschau im rechten Workspace zu öffnen
+- Bildvorschau unterstützt jetzt Kopieren / Speichern
+
+**Fehlerbehebungen**
+
+- Mehrere Race Conditions wurden behoben, darunter Wiederherstellung der Warteschlangen-Bearbeitung und Navigation-Freigabe nach Browser-Abstürzen
+- Darstellungsprobleme im Dark Mode für App-Funktionen wurden behoben
+- Einige Fehler wurden behoben und einige Interaktionen sowie die Stabilität verbessert
+
 ## 3.2.8 (2026-09-12)
 
 **Änderungen**

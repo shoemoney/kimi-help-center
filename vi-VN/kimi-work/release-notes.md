@@ -15,6 +15,28 @@ preview: false
 
 Trang này ghi lại nội dung cập nhật theo phiên bản của Kimi Work, bao gồm tính năng mới, thay đổi và bản sửa lỗi, và được cập nhật liên tục. Tải xuống phiên bản mới nhất: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.9 (2026-09-14)
+
+**Mới**
+
+- Hỗ trợ chia sẻ và mở tệp với Kimi cho một số định dạng tệp:
+  - Chia sẻ cho Kimi: gửi tệp và nội dung trực tiếp cho Kimi từ menu chia sẻ của các ứng dụng như WeChat
+  - Mở bằng Kimi: nhấp chuột phải vào tệp được hỗ trợ và chọn mở bằng Kimi
+- Nâng cấp thú cưng trên desktop: UI được làm mới hoàn toàn với trả lời nhanh ngay trong bong bóng trò chuyện — tiếp tục trò chuyện mà không cần mở cửa sổ chính
+- Trình xem PDF cập nhật bảng mục lục mới, bao gồm mục lục và nhảy theo số trang
+- Tùy chọn chế độ nguồn mới “Duy trì thức sau khi màn hình tắt”: màn hình có thể tắt trong khi hệ thống vẫn chạy, điều khiển từ xa và tác vụ nền không bị gián đoạn
+
+**Thay đổi**
+
+- Các tệp đã tải lên và tệp được liên kết bằng “@” trong ô nhập giờ có thể nhấp để mở xem trước trong workspace bên phải
+- Xem trước hình ảnh giờ hỗ trợ thao tác sao chép / lưu
+
+**Sửa lỗi**
+
+- Đã sửa một số race condition, bao gồm khôi phục chỉnh sửa hàng đợi và mở khóa điều hướng sau khi trình duyệt gặp sự cố
+- Đã sửa các vấn đề màu trong chế độ tối cho các tính năng của ứng dụng
+- Đã sửa một số lỗi và cải thiện một số tương tác cùng độ ổn định
+
 ## 3.2.8 (2026-09-12)
 
 **Thay đổi**

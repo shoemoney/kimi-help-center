@@ -15,6 +15,28 @@ preview: false
 
 Halaman ini mencatat pembaruan versi Kimi Work, termasuk fitur baru, perubahan, dan perbaikan, dan terus diperbarui. Unduh versi terbaru: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.9 (2026-09-14)
+
+**Baru**
+
+- Berbagi dan membuka file dengan Kimi kini didukung untuk format file tertentu:
+  - Bagikan ke Kimi: kirim file dan konten langsung ke Kimi dari menu berbagi aplikasi seperti WeChat
+  - Buka dengan Kimi: klik kanan file yang didukung dan pilih untuk membukanya dengan Kimi
+- Peningkatan peliharaan desktop: UI yang sepenuhnya diperbarui dengan balasan cepat langsung di gelembung percakapan — lanjutkan mengobrol tanpa membuka jendela utama
+- Penampil PDF diperbarui dengan panel indeks baru, termasuk daftar isi dan lompat nomor halaman
+- Opsi mode daya baru “Tetap terjaga setelah layar mati”: layar dapat mati sementara sistem tetap berjalan, sehingga kendali jarak jauh dan tugas latar belakang tidak terganggu
+
+**Perubahan**
+
+- File yang diunggah dan yang ditautkan melalui “@” di kotak input kini dapat diklik untuk membuka pratinjau di workspace kanan
+- Pratinjau gambar kini mendukung aksi salin / simpan
+
+**Perbaikan**
+
+- Memperbaiki beberapa kondisi balapan, termasuk pemulihan edit antrean dan pembukaan kunci navigasi setelah crash browser
+- Memperbaiki masalah warna mode gelap untuk fitur aplikasi
+- Memperbaiki beberapa bug dan meningkatkan beberapa interaksi dan stabilitas
+
 ## 3.2.8 (2026-09-12)
 
 **Perubahan**

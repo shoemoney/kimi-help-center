@@ -15,6 +15,28 @@ preview: false
 
 Bu sayfa, Kimi Work sürüm güncellemelerini (yeni özellikler, değişiklikler ve düzeltmeler) kaydeder ve sürekli güncellenir. En son sürümü indirin: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.9 (2026-09-14)
+
+**Yeni**
+
+- Belirli dosya biçimleri için Kimi ile paylaşma ve açma desteği:
+  - Kimi ile paylaş: WeChat gibi uygulamaların paylaşım menüsünden dosyaları ve içerikleri doğrudan Kimi’ye gönderin
+  - Kimi ile aç: desteklenen dosyalara sağ tıklayın ve Kimi ile açmayı seçin
+- Masaüstü evcil hayvanı yükseltmesi: sohbet balonunda hızlı yanıtlar sunan tamamen yenilenmiş bir UI — ana pencereyi açmadan sohbete devam edin
+- PDF görüntüleyici yeni dizin paneliyle güncellendi: içindekiler ve sayfa numarasına atlama desteği
+- Yeni güç modu seçeneği “Ekran kapandıktan sonra uyanık kal”: ekran kapanabilirken sistem çalışmaya devam eder, uzaktan kontrol ve arka plan görevleri kesintiye uğramaz
+
+**Değişiklikler**
+
+- Yüklenen dosyalar ve giriş kutusunda “@” ile bağlantılı dosyalar artık tıklanarak sağdaki çalışma alanında önizleme açılabilir
+- Görüntü önizlemesi artık kopyala / kaydet eylemlerini destekliyor
+
+**Düzeltmeler**
+
+- Kuyruk düzenleme kurtarma ve tarayıcı çökmeleri sonrası gezinme kilidi açma dahil çeşitli yarış durumları düzeltildi
+- Uygulama özellikleri için koyu mod renk sorunları düzeltildi
+- Bazı hatalar düzeltildi ve bazı etkileşimler ile kararlılık iyileştirildi
+
 ## 3.2.8 (2026-09-12)
 
 **Değişiklikler**

@@ -95,7 +95,6 @@ Turn on the "Extra Usage" toggle, and when your subscription credits run out, th
 - **Deduction priority**: time-limited credits such as your subscription are deducted first; **Extra Usage is deducted last** as a fallback. Once enabled, even if your subscription credits are maxed out, Extra Usage is consumed seamlessly and tasks don't stop or error out.
 - **Spending cap**: enable a "monthly spending cap" in settings to limit how much Extra Usage can be spent this month; without it, there is no cap.
 - **Validity and stacking**: the balance does not expire and stacks across top-ups; it remains usable after your subscription lapses, but you can't top up during the lapse — re-subscribe first to top up again.
-- **Refunds**: generally non-refundable, non-transferable, and non-redeemable.
 
 <Callout type="info">
 Billing example (for a rough sense of scale; actual rates per the platform): a simple request (e.g. "recommend a rock song") costs about **¥0.03**; a complex multi-step task (e.g. "plan a week-long road trip from Chengdu to western Sichuan") costs about **¥1.6**. Top-up limits: minimum ¥25 per top-up, up to 10 times and ¥3,000 per day, with a balance cap of ¥10,000.

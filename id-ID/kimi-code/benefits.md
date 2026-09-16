@@ -68,7 +68,6 @@ Aktifkan sakelar «Extra Usage»; ketika kredit langganan habis, sistem otomatis
 - **Prioritas pemotongan**: kredit berbatas waktu seperti langganan dipotong lebih dulu; **Extra Usage dipotong terakhir** sebagai cadangan. Setelah diaktifkan, meski kredit langganan habis, Extra Usage dikonsumsi tanpa hambatan dan tugas tidak berhenti atau error.
 - **Batas pengeluaran**: aktifkan «batas pengeluaran bulanan» di pengaturan untuk membatasi berapa banyak Extra Usage yang dapat dibelanjakan bulan ini; tanpa itu, tidak ada batas.
 - **Masa berlaku dan akumulasi**: saldo tidak kedaluwarsa dan terakumulasi antar pengisian ulang; tetap dapat digunakan setelah langganan berakhir, tetapi Anda tidak dapat mengisi ulang selama masa jeda — berlangganan kembali terlebih dahulu untuk mengisi ulang.
-- **Pengembalian dana**: umumnya tidak dapat dikembalikan, dialihkan, atau diuangkan.
 
 <Callout type="info">
 Contoh penagihan (hanya untuk gambaran besaran; tarif sebenarnya sesuai platform): permintaan sederhana (mis. «rekomendasikan lagu rock») berbiaya sekitar **¥0,03**; tugas kompleks multi-langkah (mis. «rencanakan perjalanan darat seminggu dari Chengdu ke Sichuan barat») berbiaya sekitar **¥1,6**. Batas pengisian ulang: minimum ¥25 per pengisian, hingga 10 kali dan ¥3.000 per hari, dengan saldo maksimum ¥10.000.

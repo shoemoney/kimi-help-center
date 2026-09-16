@@ -33,7 +33,6 @@ After your subscription credits run out, you can continue sending requests with 
 - **Deduction priority**: Time-limited credits, such as subscription credits, are deducted first, and the **Extra Usage Pack is deducted last** as a fallback. Once enabled, even if your subscription credits run out, your Extra Usage Pack balance can be used seamlessly, so tasks will not be interrupted or fail with an error.
 - **Spending control**: You can enable “Monthly spending cap” in Settings to set the maximum amount that can be spent from your Extra Usage Pack this month. If you do not enable it, there is no cap.
 - **Validity and stacking**: The balance does not expire and can be accumulated. After your subscription expires, the balance can still be used, but you cannot top up during the expired period. You need to renew your subscription before topping up again.
-- **Refunds**: In general, balances are non-refundable, non-transferable, and cannot be redeemed for cash.
 
 <Callout type="info">
 Billing examples (for scale only; actual charges are subject to the platform): a simple request, such as “recommend a rock song,” costs about **RMB 0.03**; a complex multi-step task, such as “plan a one-week self-driving itinerary from Chengdu to western Sichuan,” costs about **RMB 1.6**. Top-up limits: the minimum per top-up is RMB 25; up to 10 top-ups per day, with a daily total of RMB 3,000; the balance cap is RMB 10,000.

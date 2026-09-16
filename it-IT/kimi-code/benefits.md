@@ -68,7 +68,6 @@ Attiva l'interruttore «Extra Usage»; quando i crediti dell'abbonamento si esau
 - **Ordine di addebito**: vengono prelevati prima i crediti a tempo come l'abbonamento; **Extra Usage viene prelevato per ultimo** come riserva. Una volta attivato, anche con i crediti dell'abbonamento esauriti, Extra Usage viene consumato senza interruzioni e le attività non si fermano né vanno in errore.
 - **Limite di spesa**: attiva un «limite di spesa mensile» nelle impostazioni per limitare quanto Extra Usage può essere speso questo mese; senza di esso, non c'è limite.
 - **Validità e cumulo**: il saldo non scade e si cumula tra le ricariche; resta utilizzabile dopo la scadenza dell'abbonamento, ma non puoi ricaricare durante l'interruzione — riabbonati prima per ricaricare di nuovo.
-- **Rimborsi**: in genere non rimborsabile, non trasferibile e non convertibile.
 
 <Callout type="info">
 Esempio di fatturazione (ordine di grandezza indicativo; tariffe reali secondo la piattaforma): una richiesta semplice (ad es. «consiglia una canzone rock») costa circa **¥0,03**; un'attività complessa in più passaggi (ad es. «pianifica un viaggio in auto di una settimana da Chengdu al Sichuan occidentale») costa circa **¥1,6**. Limiti di ricarica: minimo ¥25 per ricarica, fino a 10 volte e ¥3.000 al giorno, con un saldo massimo di ¥10.000.

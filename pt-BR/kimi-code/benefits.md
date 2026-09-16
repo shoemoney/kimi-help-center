@@ -68,7 +68,6 @@ Ative a chave «Extra Usage»; quando os créditos da assinatura se esgotarem, o
 - **Ordem de dedução**: os créditos com prazo, como a assinatura, são deduzidos primeiro; o **Extra Usage é deduzido por último**, como reserva. Uma vez ativado, mesmo com os créditos da assinatura esgotados, o Extra Usage é consumido sem interrupções e as tarefas não param nem apresentam erro.
 - **Limite de gasto**: ative um «limite de gasto mensal» nas configurações para limitar quanto de Extra Usage pode ser gasto no mês; sem ele, não há limite.
 - **Validade e acúmulo**: o saldo não expira e acumula entre recargas; permanece utilizável após o vencimento da assinatura, mas não é possível recarregar durante a interrupção — reative a assinatura primeiro para recarregar novamente.
-- **Reembolsos**: em geral, não reembolsável, não transferível e não resgatável.
 
 <Callout type="info">
 Exemplo de cobrança (ordem de grandeza apenas; tarifas reais conforme a plataforma): uma solicitação simples (por ex., «recomende uma música de rock») custa cerca de **¥0,03**; uma tarefa complexa de várias etapas (por ex., «planeje uma viagem de carro de uma semana de Chengdu ao oeste de Sichuan») custa cerca de **¥1,6**. Limites de recarga: mínimo de ¥25 por recarga, até 10 vezes e ¥3.000 por dia, com saldo máximo de ¥10.000.

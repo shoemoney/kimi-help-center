@@ -68,7 +68,6 @@ Activez le commutateur « Extra Usage » ; lorsque les crédits de votre abonnem
 - **Ordre de prélèvement** : les crédits à durée limitée comme l'abonnement sont prélevés en premier ; **Extra Usage est prélevé en dernier**, en réserve. Une fois activé, même si vos crédits d'abonnement sont épuisés, Extra Usage est consommé sans interruption : les tâches ne s'arrêtent pas et n'échouent pas.
 - **Plafond de dépenses** : activez un « plafond de dépenses mensuel » dans les paramètres pour limiter le montant d'Extra Usage dépensé ce mois-ci ; sans cela, il n'y a pas de plafond.
 - **Validité et cumul** : le solde n'expire pas et se cumule au fil des recharges ; il reste utilisable après l'expiration de l'abonnement, mais vous ne pouvez pas recharger pendant l'interruption — réabonnez-vous d'abord pour recharger à nouveau.
-- **Remboursement** : généralement non remboursable, non transférable et non échangeable.
 
 <Callout type="info">
 Exemple de facturation (ordre de grandeur indicatif ; tarifs réels selon la plateforme) : une requête simple (par ex. « recommande une chanson rock ») coûte environ **¥0,03** ; une tâche complexe en plusieurs étapes (par ex. « planifie un road trip d'une semaine de Chengdu au Sichuan occidental ») coûte environ **¥1,6**. Limites de recharge : minimum ¥25 par recharge, jusqu'à 10 fois et ¥3 000 par jour, avec un solde plafonné à ¥10 000.

@@ -68,7 +68,6 @@ Abonelik kredileriniz tükendiğinde, yenilenmeyi beklemeden **Extra Usage** bak
 - **Düşme önceliği**: abonelik gibi süreli krediler önce düşülür; **Extra Usage en son** yedek olarak düşülür. Etkinleştirildikten sonra, abonelik krediniz dolsa bile Extra Usage kesintisiz tüketilir ve görevler durmaz veya hata vermez.
 - **Harcama sınırı**: Extra Usage'ın bu ay ne kadar harcanacağını sınırlamak için ayarlardan «aylık harcama sınırı»nı etkinleştirin; etkinleştirmezseniz sınır yoktur.
 - **Geçerlilik ve birikme**: bakiye süresiz geçerlidir ve yüklemeler boyunca birikir; abonelik sona erdikten sonra da kullanılabilir, ancak ara dönemde yükleme yapamazsınız — yeniden yükleme için önce tekrar abone olun.
-- **İade**: genellikle iade edilemez, devredilemez ve paraya çevrilemez.
 
 <Callout type="info">
 Faturalandırma örneği (yalnızca büyüklük fikri için; gerçek tarifeler platforma göre): basit bir istek (ör. «bir rock şarkısı öner») yaklaşık **¥0,03**; karmaşık, çok adımlı bir görev (ör. «Chengdu'dan batı Siçuan'a bir haftalık bir yol gezisi planla») yaklaşık **¥1,6** tutar. Yükleme sınırları: yükleme başına en az ¥25, günde en fazla 10 kez ve ¥3.000, bakiye üst sınırı ¥10.000.

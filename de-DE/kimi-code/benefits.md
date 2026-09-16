@@ -68,7 +68,6 @@ Aktivieren Sie den Schalter „Extra Usage"; wenn Ihre Abo-Credits aufgebraucht 
 - **Abzugsreihenfolge**: Zuerst werden zeitlich begrenzte Credits wie das Abo abgezogen; **Extra Usage wird zuletzt** als Reserve abgezogen. Einmal aktiviert, wird Extra Usage auch bei ausgeschöpftem Abo-Credit nahtlos verbraucht – Aufgaben stoppen nicht und brechen nicht ab.
 - **Ausgabenlimit**: Aktivieren Sie in den Einstellungen ein „monatliches Ausgabenlimit", um zu begrenzen, wie viel Extra Usage in diesem Monat ausgegeben werden kann; ohne Limit gibt es keine Obergrenze.
 - **Gültigkeit und Ansammlung**: Das Guthaben verfällt nicht und lässt sich über mehrere Aufladungen ansammeln; es bleibt nach Ablauf des Abos nutzbar, aber während der Unterbrechung können Sie nicht aufladen – schließen Sie zuerst wieder ein Abo ab.
-- **Rückerstattung**: in der Regel nicht erstattungsfähig, nicht übertragbar und nicht auszahlbar.
 
 <Callout type="info">
 Abrechnungsbeispiel (nur als grobe Größenordnung; tatsächliche Tarife gemäß Plattform): eine einfache Anfrage (z. B. „Empfiehl einen Rocksong") kostet etwa **¥0,03**; eine komplexe mehrstufige Aufgabe (z. B. „Plane einen einwöchigen Roadtrip von Chengdu nach West-Sichuan") kostet etwa **¥1,6**. Aufladelimits: mindestens ¥25 pro Aufladung, bis zu 10-mal und ¥3.000 pro Tag, mit einer Guthaben-Obergrenze von ¥10.000.

@@ -68,7 +68,6 @@ Activa el interruptor «Extra Usage»; cuando se agoten los créditos de tu susc
 - **Prioridad de descuento**: primero se descuentan los créditos con límite de tiempo, como la suscripción; **Extra Usage se descuenta al final** como reserva. Una vez activado, aunque tus créditos de suscripción estén agotados, Extra Usage se consume sin interrupciones y las tareas no se detienen ni fallan.
 - **Límite de gasto**: activa un «límite de gasto mensual» en la configuración para limitar cuánto Extra Usage se puede gastar este mes; sin él, no hay límite.
 - **Validez y acumulación**: el saldo no caduca y se acumula entre recargas; sigue siendo utilizable después de que venza la suscripción, pero no puedes recargar durante la interrupción: vuelve a suscribirte primero para recargar de nuevo.
-- **Reembolsos**: por lo general, no reembolsable, no transferible ni canjeable.
 
 <Callout type="info">
 Ejemplo de facturación (orden de magnitud aproximado; tarifas reales según la plataforma): una solicitud simple (p. ej., «recomienda una canción de rock») cuesta alrededor de **¥0,03**; una tarea compleja de varios pasos (p. ej., «planifica un viaje por carretera de una semana de Chengdu al oeste de Sichuan») cuesta alrededor de **¥1,6**. Límites de recarga: mínimo ¥25 por recarga, hasta 10 veces y ¥3000 por día, con un saldo máximo de ¥10 000.

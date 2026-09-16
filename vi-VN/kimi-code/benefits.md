@@ -68,7 +68,6 @@ Bật công tắc «Extra Usage»; khi tín dụng của gói đăng ký hết, 
 - **Thứ tự trừ**: các tín dụng có thời hạn như gói đăng ký được trừ trước; **Extra Usage được trừ sau cùng** như phần dự phòng. Sau khi bật, ngay cả khi tín dụng của gói đăng ký đã cạn, Extra Usage vẫn được dùng liền mạch, tác vụ không dừng hay báo lỗi.
 - **Hạn mức chi tiêu**: bật «hạn mức chi tiêu hằng tháng» trong cài đặt để giới hạn mức Extra Usage được chi trong tháng; nếu không bật thì không có giới hạn.
 - **Hiệu lực và tích lũy**: số dư không hết hạn và cộng dồn qua các lần nạp; vẫn dùng được sau khi gói đăng ký hết hạn, nhưng không thể nạp trong thời gian gián đoạn — hãy đăng ký lại trước rồi mới nạp tiếp.
-- **Hoàn tiền**: nhìn chung không hoàn tiền, không chuyển nhượng và không quy đổi thành tiền mặt.
 
 <Callout type="info">
 Ví dụ tính phí (chỉ để hình dung mức độ; mức giá thực tế theo nền tảng): một yêu cầu đơn giản (ví dụ «gợi ý một bài hát rock») có giá khoảng **¥0,03**; một tác vụ phức tạp nhiều bước (ví dụ «lập kế hoạch chuyến đi ô tô một tuần từ Thành Đô đến tây Tứ Xuyên») có giá khoảng **¥1,6**. Giới hạn nạp: tối thiểu ¥25 mỗi lần, tối đa 10 lần và ¥3.000 mỗi ngày, số dư tối đa ¥10.000.

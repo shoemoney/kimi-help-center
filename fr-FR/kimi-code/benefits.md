@@ -87,4 +87,3 @@ Exemple de facturation (ordre de grandeur indicatif ; tarifs réels selon la pla
 - **Puis-je continuer en cas d'atteinte d'une limite ou de limitation de débit ?** Oui. Une fois Extra Usage activé, vous n'êtes plus affecté par les limites d'abonnement — à chaque limite atteinte, le système bascule sans interruption sur le solde Extra Usage, les tâches ne s'arrêtent pas, et seul Extra Usage est débité sans affecter le renouvellement de vos crédits d'abonnement.
 - **Le solde inutilisé est-il reportable et cumulable ?** Oui — il n'expire pas et se cumule ; il reste utilisable après l'expiration de l'abonnement, mais aucune recharge n'est possible pendant l'interruption.
 - **Extra Usage est-il disponible pour Enterprise ?** Pas encore pris en charge.
-- **Le solde est-il remboursé après la fermeture de mon compte ?** Veuillez écrire à [membership@moonshot.ai](mailto:membership@moonshot.ai) pour demander un remboursement.

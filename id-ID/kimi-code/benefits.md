@@ -87,4 +87,3 @@ Contoh penagihan (hanya untuk gambaran besaran; tarif sebenarnya sesuai platform
 - **Jika saya mencapai batas atau dibatasi, bisakah saya melanjutkan?** Ya. Setelah Extra Usage aktif, Anda tidak terpengaruh oleh batas langganan: saat batas apa pun tercapai, sistem beralih tanpa hambatan ke saldo Extra Usage, tugas tidak berhenti, dan hanya Extra Usage yang dipotong tanpa memengaruhi pembaruan kredit keanggotaan Anda.
 - **Apakah saldo yang tidak terpakai dapat diteruskan dan diakumulasi?** Ya — tidak kedaluwarsa dan terakumulasi; tetap dapat digunakan setelah langganan berakhir, tetapi tidak dapat diisi ulang selama masa jeda.
 - **Apakah Extra Usage tersedia untuk Enterprise?** Belum didukung.
-- **Apakah saldo dikembalikan setelah saya menutup akun?** Silakan kirim email ke [membership@moonshot.ai](mailto:membership@moonshot.ai) untuk mengajukan pengembalian dana.

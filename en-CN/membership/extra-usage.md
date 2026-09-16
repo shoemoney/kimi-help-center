@@ -88,7 +88,3 @@ Not currently.
 ## Can I get an invoice for Extra Usage Pack top-ups?
 
 Yes. Go to “Settings → Subscription and invoices → Bills and Invoices”, find the corresponding top-up order, and click “Request Invoice”. Invoices are issued per top-up order. For the detailed process, see [How to request an invoice yourself](/membership/membership-invoice).
-
-## Will my balance be refunded after I close my account?
-
-Please email [membership@moonshot.cn](mailto:membership@moonshot.cn) to request a refund.

@@ -87,4 +87,3 @@ Billing example (for a rough sense of scale; actual rates per the platform): a s
 - **When I hit a limit or get rate-limited, can I keep going?** Yes. Once Extra Usage is enabled you're not affected by subscription limits — it seamlessly switches to the Extra Usage balance, so tasks don't stop, and only Extra Usage is deducted without affecting your membership credit refresh.
 - **Can unused balance roll over and stack?** Yes — it doesn't expire and stacks; it stays usable after the subscription lapses, but you can't top up during the lapse.
 - **Is Extra Usage available for Enterprise?** Not yet supported.
-- **After I close my account, is the balance refunded?** Please email [membership@moonshot.ai](mailto:membership@moonshot.ai) to request a refund.

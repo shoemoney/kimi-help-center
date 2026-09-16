@@ -88,7 +88,3 @@ preview: false
 ## 加油包充值可以开发票吗？
 
 可以。进入「我的 → 订阅 → 额度和发票 → 账单与发票」，找到对应充值订单，点击【开发票】即可，发票按单笔充值订单开具。详细流程请参阅 [用户如何自助开发票](/membership/membership-invoice)。
-
-## 注销账户后余额会退回吗？
-
-请邮件联系 [membership@moonshot.cn](mailto:membership@moonshot.cn) 申请退款。

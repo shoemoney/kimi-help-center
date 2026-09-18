@@ -15,6 +15,26 @@ preview: false
 
 Diese Seite dokumentiert die Versionsupdates von Kimi Work, einschließlich neuer Funktionen, Änderungen und Fehlerbehebungen, und wird laufend aktualisiert. Neueste Version herunterladen: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.11 (2026-09-17)
+
+**Änderungen**
+
+- Das Detail-Panel unterstützt jetzt die Anzeige des Sub-Agent-Ausführungsprozesses
+
+**Fehlerbehebungen**
+
+- Ein Problem wurde behoben, bei dem die Startmenü-Verknüpfung nach einem In-App-Update unter Windows ins Leere zeigte
+- Einige Fehler wurden behoben und einige Interaktionen sowie die Stabilität verbessert
+
+## 3.2.10 (2026-09-16)
+
+**Fehlerbehebungen**
+
+- Das Windows-Share-Target-Begleitpaket wurde kurzfristig entfernt, um einen Absturz beim Start zu beheben; die Teilen-Funktion kehrte in 3.2.11 nach der Behebung zurück
+- Anzeigenamen und Beschreibungen integrierter Skills werden jetzt an die Sprache der Benutzeroberfläche angepasst: Das „/“-Menü filtert nach lokalisierten Namen, bei nicht ausgelieferten Sprachen wird auf Englisch zurückgegriffen
+- Durch Klicken auf eine Ordner-Anhangskarte wird das entsprechende Verzeichnis im Workspace-Dateibaum lokalisiert
+- Einige Fehler wurden behoben und einige Interaktionen sowie die Stabilität verbessert
+
 ## 3.2.9 (2026-09-14)
 
 **Neu**

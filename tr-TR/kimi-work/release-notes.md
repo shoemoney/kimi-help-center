@@ -15,6 +15,26 @@ preview: false
 
 Bu sayfa, Kimi Work sürüm güncellemelerini (yeni özellikler, değişiklikler ve düzeltmeler) kaydeder ve sürekli güncellenir. En son sürümü indirin: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.11 (2026-09-17)
+
+**Değişiklikler**
+
+- Detay paneli artık alt Agent yürütme sürecini göstermeyi destekliyor
+
+**Düzeltmeler**
+
+- Windows'ta uygulama içi güncelleme sonrası Başlat menüsü kısayolunun boşa çıkmasına neden olan sorun düzeltildi
+- Bazı hatalar düzeltildi ve bazı etkileşimler ile kararlılık iyileştirildi
+
+## 3.2.10 (2026-09-16)
+
+**Düzeltmeler**
+
+- Başlangıçta çökmeye neden olan sorunu düzeltmek için Windows paylaşım hedefi yardımcı paketi acil olarak kaldırıldı; paylaşım özelliği 3.2.11'de düzeltmenin ardından geri döndü
+- Yerleşik skill görünen adları ve açıklamaları artık arayüz diline göre yerelleştiriliyor: “/” menüsü yerelleştirilmiş adlara göre filtreliyor, sunulmayan diller için İngilizceye geri dönülüyor
+- Bir klasör eki kartına tıklamak artık çalışma alanı dosya ağacında ilgili dizini buluyor
+- Bazı hatalar düzeltildi ve bazı etkileşimler ile kararlılık iyileştirildi
+
 ## 3.2.9 (2026-09-14)
 
 **Yeni**

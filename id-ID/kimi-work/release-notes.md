@@ -15,6 +15,26 @@ preview: false
 
 Halaman ini mencatat pembaruan versi Kimi Work, termasuk fitur baru, perubahan, dan perbaikan, dan terus diperbarui. Unduh versi terbaru: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.11 (2026-09-17)
+
+**Perubahan**
+
+- Panel detail kini mendukung menampilkan proses eksekusi sub-Agent
+
+**Perbaikan**
+
+- Memperbaiki masalah shortcut menu Start yang menggantung setelah pembaruan dalam aplikasi di Windows
+- Memperbaiki beberapa bug dan meningkatkan beberapa interaksi dan stabilitas
+
+## 3.2.10 (2026-09-16)
+
+**Perbaikan**
+
+- Paket pendamping target berbagi Windows dihapus secara darurat untuk memperbaiki masalah crash saat startup; kemampuan berbagi kembali di 3.2.11 setelah perbaikan
+- Nama tampilan dan deskripsi skill bawaan kini dilokalkan sesuai bahasa antarmuka: menu “/” memfilter berdasarkan nama terlokalkan, dengan fallback ke bahasa Inggris untuk bahasa yang belum tersedia
+- Mengklik kartu lampiran folder kini melokasikan direktori terkait di pohon file workspace
+- Memperbaiki beberapa bug dan meningkatkan beberapa interaksi dan stabilitas
+
 ## 3.2.9 (2026-09-14)
 
 **Baru**

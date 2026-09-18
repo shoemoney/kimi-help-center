@@ -15,6 +15,26 @@ preview: false
 
 This page tracks Kimi Work version updates, including new features, changes, and fixes, and is updated regularly. Download the latest version: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.11 (2026-09-17)
+
+**Changed**
+
+- The detail panel now supports showing the sub-agent execution process
+
+**Fixed**
+
+- Fixed an issue where the Start menu shortcut became dangling after an in-app update on Windows
+- Fixed several bugs and improved some interactions and stability
+
+## 3.2.10 (2026-09-16)
+
+**Fixed**
+
+- Urgently removed the Windows share-target companion package to fix a crash-on-launch issue; the share capability returned in 3.2.11 after the fix
+- Built-in skill display names and descriptions are now localized to the interface language: the “/” menu filters by localized names, with fallback to English for undelivered languages
+- Clicking a folder attachment card now locates the corresponding directory in the workbench file tree
+- Fixed several bugs and improved some interactions and stability
+
 ## 3.2.9 (2026-09-14)
 
 **New**

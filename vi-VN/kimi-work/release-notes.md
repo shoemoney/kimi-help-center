@@ -15,6 +15,26 @@ preview: false
 
 Trang này ghi lại nội dung cập nhật theo phiên bản của Kimi Work, bao gồm tính năng mới, thay đổi và bản sửa lỗi, và được cập nhật liên tục. Tải xuống phiên bản mới nhất: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.11 (2026-09-17)
+
+**Thay đổi**
+
+- Bảng chi tiết giờ hỗ trợ hiển thị quá trình thực thi của sub-Agent
+
+**Sửa lỗi**
+
+- Đã sửa lỗi shortcut menu Start bị hỏng sau khi cập nhật trong ứng dụng trên Windows
+- Đã sửa một số lỗi và cải thiện một số tương tác cùng độ ổn định
+
+## 3.2.10 (2026-09-16)
+
+**Sửa lỗi**
+
+- Gỡ khẩn gói đi kèm đích chia sẻ của Windows để khắc phục lỗi crash ngay khi khởi động; khả năng chia sẻ đã quay lại trong 3.2.11 sau khi sửa
+- Tên hiển thị và mô tả của skill tích hợp giờ được bản địa hóa theo ngôn ngữ giao diện: menu “/” lọc theo tên đã dịch, các ngôn ngữ chưa cung cấp sẽ dùng tiếng Anh
+- Nhấp vào thẻ đính kèm thư mục giờ sẽ định vị thư mục tương ứng trong cây tệp của workspace
+- Đã sửa một số lỗi và cải thiện một số tương tác cùng độ ổn định
+
 ## 3.2.9 (2026-09-14)
 
 **Mới**

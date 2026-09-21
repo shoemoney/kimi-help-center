@@ -15,6 +15,23 @@ preview: false
 
 Diese Seite dokumentiert die Versionsupdates von Kimi Work, einschließlich neuer Funktionen, Änderungen und Fehlerbehebungen, und wird laufend aktualisiert. Neueste Version herunterladen: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.12 (2026-09-21)
+
+**Neu**
+
+- Vorschau und Bearbeitung von Office-Dateien: PPT / DOCX / XLSX im Vorschaubereich ansehen und bearbeiten — Änderungen werden sofort gespeichert
+- Auswählen und fragen: Wählen Sie Inhalte in einem Dokument aus, um Kimi direkt zu fragen oder Änderungen anzufordern
+- Seite für archivierte Aufgaben überarbeitet: Suche, Sortierung, Filter und endgültiges Löschen werden unterstützt
+
+**Änderungen**
+
+- Die Größenbeschränkung für Anhänge im Eingabefeld wurde entfernt
+
+**Fehlerbehebungen**
+
+- Ein Problem wurde behoben, bei dem das Windows-Installationsprogramm den Autostart-Anmeldeeintrag fälschlich gelöscht hat
+- Einige Fehler wurden behoben und einige Interaktionen sowie die Stabilität verbessert
+
 ## 3.2.11 (2026-09-18)
 
 **Änderungen**

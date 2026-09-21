@@ -15,6 +15,23 @@ preview: false
 
 Bu sayfa, Kimi Work sürüm güncellemelerini (yeni özellikler, değişiklikler ve düzeltmeler) kaydeder ve sürekli güncellenir. En son sürümü indirin: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.12 (2026-09-21)
+
+**Yeni**
+
+- Office dosyalarını önizleme ve düzenleme: PPT / DOCX / XLSX dosyalarını önizleme panelinde önizleyin ve düzenleyin, değişiklikler anında kaydedilir
+- Seçip sor: bir belgede içerik seçerek Kimi’ye sorun veya yerinde değişiklik isteyin
+- Arşivlenmiş görevler sayfası yeniden oluşturuldu: arama, sıralama, filtreleme ve kalıcı silme destekleniyor
+
+**Değişiklikler**
+
+- Giriş kutusundaki ek boyut sınırı kaldırıldı
+
+**Düzeltmeler**
+
+- Windows yükleyicisinin otomatik başlatma giriş öğesini yanlışlıkla silmesine neden olan sorun düzeltildi
+- Bazı hatalar düzeltildi ve bazı etkileşimler ile kararlılık iyileştirildi
+
 ## 3.2.11 (2026-09-18)
 
 **Değişiklikler**

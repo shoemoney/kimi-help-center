@@ -15,6 +15,23 @@ preview: false
 
 Halaman ini mencatat pembaruan versi Kimi Work, termasuk fitur baru, perubahan, dan perbaikan, dan terus diperbarui. Unduh versi terbaru: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.12 (2026-09-21)
+
+**Baru**
+
+- Pratinjau dan pengeditan file Office: pratinjau dan edit file PPT / DOCX / XLSX di panel pratinjau, dengan perubahan langsung tersimpan
+- Pilih untuk bertanya: pilih konten dalam dokumen untuk bertanya pada Kimi atau meminta perubahan di tempat
+- Halaman tugas arsip dibangun ulang: mendukung pencarian, pengurutan, pemfilteran, dan penghapusan permanen
+
+**Perubahan**
+
+- Batas ukuran lampiran kotak input telah dihapus
+
+**Perbaikan**
+
+- Memperbaiki masalah installer Windows yang keliru menghapus item login mulai otomatis
+- Memperbaiki beberapa bug dan meningkatkan beberapa interaksi dan stabilitas
+
 ## 3.2.11 (2026-09-18)
 
 **Perubahan**

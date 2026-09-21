@@ -15,6 +15,23 @@ preview: false
 
 Trang này ghi lại nội dung cập nhật theo phiên bản của Kimi Work, bao gồm tính năng mới, thay đổi và bản sửa lỗi, và được cập nhật liên tục. Tải xuống phiên bản mới nhất: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
+## 3.2.12 (2026-09-21)
+
+**Mới**
+
+- Xem trước và chỉnh sửa tệp Office: xem trước và chỉnh sửa tệp PPT / DOCX / XLSX trong bảng xem trước, thay đổi được lưu ngay
+- Chọn để hỏi: chọn nội dung trong tài liệu để hỏi Kimi hoặc yêu cầu chỉnh sửa ngay tại chỗ
+- Trang tác vụ lưu trữ được làm lại: hỗ trợ tìm kiếm, sắp xếp, lọc và xóa vĩnh viễn
+
+**Thay đổi**
+
+- Đã bỏ giới hạn dung lượng tệp đính kèm trong ô nhập
+
+**Sửa lỗi**
+
+- Đã sửa lỗi trình cài đặt Windows vô tình xóa mục đăng nhập tự khởi động
+- Đã sửa một số lỗi và cải thiện một số tương tác cùng độ ổn định
+
 ## 3.2.11 (2026-09-18)
 
 **Thay đổi**

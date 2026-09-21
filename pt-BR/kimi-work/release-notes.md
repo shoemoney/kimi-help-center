@@ -19,7 +19,7 @@ Esta página registra as atualizações de versão do Kimi Work, incluindo novos
 
 **Novidades**
 
-- Visualização e edição de arquivos Office: visualize e edite arquivos PPT / DOCX / XLSX no painel de visualização, com alterações salvas em tempo real
+- Visualização e edição de arquivos Office: visualize e edite arquivos PPT / XLSX no painel de visualização, com alterações salvas em tempo real
 - Selecionar para perguntar: selecione conteúdo em um documento para perguntar ao Kimi ou solicitar alterações ali mesmo
 - Página de tarefas arquivadas reconstruída: suporte a pesquisa, ordenação, filtro e exclusão permanente
 

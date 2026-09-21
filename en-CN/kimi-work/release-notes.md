@@ -19,7 +19,7 @@ This page tracks Kimi Work version updates, including new features, changes, and
 
 **New**
 
-- Supported office files preview and editing: preview and edit PPT / DOCX / XLSX files in preview panel, with changes saved as you make them
+- Supported office files preview and editing: preview and edit PPT / XLSX files in preview panel, with changes saved as you make them
 - Select to ask: select content in a document to ask Kimi or request changes right where you are
 - Archived tasks page rebuilt: search, sort, filter, and permanently delete supported
 

@@ -19,7 +19,7 @@ Esta página registra las actualizaciones de versión de Kimi Work, incluidas nu
 
 **Novedades**
 
-- Vista previa y edición de archivos de Office: previsualiza y edita archivos PPT / DOCX / XLSX en el panel de vista previa, con cambios guardados al momento
+- Vista previa y edición de archivos de Office: previsualiza y edita archivos PPT / XLSX en el panel de vista previa, con cambios guardados al momento
 - Selecciona para preguntar: selecciona contenido en un documento para preguntar a Kimi o solicitar cambios ahí mismo
 - Página de tareas archivadas reconstruida: admite búsqueda, ordenación, filtrado y eliminación permanente
 

@@ -19,7 +19,7 @@ Bu sayfa, Kimi Work sürüm güncellemelerini (yeni özellikler, değişiklikler
 
 **Yeni**
 
-- Office dosyalarını önizleme ve düzenleme: PPT / DOCX / XLSX dosyalarını önizleme panelinde önizleyin ve düzenleyin, değişiklikler anında kaydedilir
+- Office dosyalarını önizleme ve düzenleme: PPT / XLSX dosyalarını önizleme panelinde önizleyin ve düzenleyin, değişiklikler anında kaydedilir
 - Seçip sor: bir belgede içerik seçerek Kimi’ye sorun veya yerinde değişiklik isteyin
 - Arşivlenmiş görevler sayfası yeniden oluşturuldu: arama, sıralama, filtreleme ve kalıcı silme destekleniyor
 

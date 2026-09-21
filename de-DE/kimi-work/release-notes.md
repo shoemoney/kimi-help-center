@@ -19,7 +19,7 @@ Diese Seite dokumentiert die Versionsupdates von Kimi Work, einschließlich neue
 
 **Neu**
 
-- Vorschau und Bearbeitung von Office-Dateien: PPT / DOCX / XLSX im Vorschaubereich ansehen und bearbeiten — Änderungen werden sofort gespeichert
+- Vorschau und Bearbeitung von Office-Dateien: PPT / XLSX im Vorschaubereich ansehen und bearbeiten — Änderungen werden sofort gespeichert
 - Auswählen und fragen: Wählen Sie Inhalte in einem Dokument aus, um Kimi direkt zu fragen oder Änderungen anzufordern
 - Seite für archivierte Aufgaben überarbeitet: Suche, Sortierung, Filter und endgültiges Löschen werden unterstützt
 

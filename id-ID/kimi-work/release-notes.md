@@ -19,7 +19,7 @@ Halaman ini mencatat pembaruan versi Kimi Work, termasuk fitur baru, perubahan, 
 
 **Baru**
 
-- Pratinjau dan pengeditan file Office: pratinjau dan edit file PPT / DOCX / XLSX di panel pratinjau, dengan perubahan langsung tersimpan
+- Pratinjau dan pengeditan file Office: pratinjau dan edit file PPT / XLSX di panel pratinjau, dengan perubahan langsung tersimpan
 - Pilih untuk bertanya: pilih konten dalam dokumen untuk bertanya pada Kimi atau meminta perubahan di tempat
 - Halaman tugas arsip dibangun ulang: mendukung pencarian, pengurutan, pemfilteran, dan penghapusan permanen
 

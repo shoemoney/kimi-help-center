@@ -19,7 +19,7 @@ Cette page consigne les mises à jour de Kimi Work (nouvelles fonctionnalités, 
 
 **Nouveautés**
 
-- Aperçu et édition des fichiers Office : prévisualisez et modifiez des fichiers PPT / DOCX / XLSX dans le panneau d’aperçu, avec enregistrement des modifications au fur et à mesure
+- Aperçu et édition des fichiers Office : prévisualisez et modifiez des fichiers PPT / XLSX dans le panneau d’aperçu, avec enregistrement des modifications au fur et à mesure
 - Sélectionner pour demander : sélectionnez du contenu dans un document pour interroger Kimi ou demander des modifications sur place
 - Page des tâches archivées reconstruite : recherche, tri, filtrage et suppression définitive pris en charge
 

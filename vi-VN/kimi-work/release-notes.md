@@ -19,7 +19,7 @@ Trang này ghi lại nội dung cập nhật theo phiên bản của Kimi Work, 
 
 **Mới**
 
-- Xem trước và chỉnh sửa tệp Office: xem trước và chỉnh sửa tệp PPT / DOCX / XLSX trong bảng xem trước, thay đổi được lưu ngay
+- Xem trước và chỉnh sửa tệp Office: xem trước và chỉnh sửa tệp PPT / XLSX trong bảng xem trước, thay đổi được lưu ngay
 - Chọn để hỏi: chọn nội dung trong tài liệu để hỏi Kimi hoặc yêu cầu chỉnh sửa ngay tại chỗ
 - Trang tác vụ lưu trữ được làm lại: hỗ trợ tìm kiếm, sắp xếp, lọc và xóa vĩnh viễn
 

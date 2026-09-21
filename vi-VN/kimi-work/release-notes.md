@@ -15,7 +15,7 @@ preview: false
 
 Trang này ghi lại nội dung cập nhật theo phiên bản của Kimi Work, bao gồm tính năng mới, thay đổi và bản sửa lỗi, và được cập nhật liên tục. Tải xuống phiên bản mới nhất: [kimi.com/products/kimi-work](https://www.kimi.com/products/kimi-work)
 
-## 3.2.12 (2026-09-21)
+## 3.2.12 (2026-09-22)
 
 **Mới**
 

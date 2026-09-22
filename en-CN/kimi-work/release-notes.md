@@ -19,13 +19,12 @@ This page tracks Kimi Work version updates, including new features, changes, and
 
 **New**
 
-- Supported office files preview and editing: preview and edit PPT / XLSX files in preview panel, with changes saved as you make them
-- Select to ask: select content in a document to ask Kimi or request changes right where you are
-- Archived tasks page rebuilt: search, sort, filter, and permanently delete supported
+- Select content in PPT, Excel, Word, or Markdown documents and ask Kimi to make precise edits
 
 **Changed**
 
-- The size limit for input box attachments has been removed
+- The original file size limit for input box attachments has been removed — you can now attach files of any size
+- Archived tasks tab in Settings rebuilt: easier to manage your archived tasks
 
 **Fixed**
 

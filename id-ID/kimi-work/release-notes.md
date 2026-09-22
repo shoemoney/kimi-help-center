@@ -19,13 +19,12 @@ Halaman ini mencatat pembaruan versi Kimi Work, termasuk fitur baru, perubahan, 
 
 **Baru**
 
-- Pratinjau dan pengeditan file Office: pratinjau dan edit file PPT / XLSX di panel pratinjau, dengan perubahan langsung tersimpan
-- Pilih untuk bertanya: pilih konten dalam dokumen untuk bertanya pada Kimi atau meminta perubahan di tempat
-- Halaman tugas arsip dibangun ulang: mendukung pencarian, pengurutan, pemfilteran, dan penghapusan permanen
+- Pilih langsung konten dalam dokumen PPT, Excel, Word, atau Markdown, lalu serahkan pada Kimi untuk diedit dengan presisi
 
 **Perubahan**
 
-- Batas ukuran lampiran kotak input telah dihapus
+- Batas ukuran file asli untuk lampiran kotak input telah dihapus — Anda kini dapat menambahkan lampiran dengan ukuran berapa pun
+- Tab Tugas arsip di Pengaturan dibangun ulang: lebih mudah mengelola tugas arsip Anda
 
 **Perbaikan**
 

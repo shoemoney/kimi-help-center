@@ -19,13 +19,12 @@ Cette page consigne les mises à jour de Kimi Work (nouvelles fonctionnalités, 
 
 **Nouveautés**
 
-- Aperçu et édition des fichiers Office : prévisualisez et modifiez des fichiers PPT / XLSX dans le panneau d’aperçu, avec enregistrement des modifications au fur et à mesure
-- Sélectionner pour demander : sélectionnez du contenu dans un document pour interroger Kimi ou demander des modifications sur place
-- Page des tâches archivées reconstruite : recherche, tri, filtrage et suppression définitive pris en charge
+- Sélectionnez directement du contenu dans des documents PPT, Excel, Word ou Markdown et confiez-le à Kimi pour une modification précise
 
 **Modifications**
 
-- La limite de taille des pièces jointes du champ de saisie a été supprimée
+- L’ancienne limite de taille des pièces jointes du champ de saisie a été supprimée : vous pouvez désormais joindre des fichiers de toute taille
+- L’onglet Tâches archivées des Paramètres a été repensé : gérez plus facilement vos tâches archivées
 
 **Corrections**
 

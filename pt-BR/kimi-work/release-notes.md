@@ -19,13 +19,12 @@ Esta página registra as atualizações de versão do Kimi Work, incluindo novos
 
 **Novidades**
 
-- Visualização e edição de arquivos Office: visualize e edite arquivos PPT / XLSX no painel de visualização, com alterações salvas em tempo real
-- Selecionar para perguntar: selecione conteúdo em um documento para perguntar ao Kimi ou solicitar alterações ali mesmo
-- Página de tarefas arquivadas reconstruída: suporte a pesquisa, ordenação, filtro e exclusão permanente
+- Selecione diretamente conteúdo em documentos PPT, Excel, Word ou Markdown e deixe o Kimi editá-lo com precisão
 
 **Alterações**
 
-- O limite de tamanho dos anexos na caixa de entrada foi removido
+- O limite de tamanho original dos anexos na caixa de entrada foi removido — agora você pode anexar arquivos de qualquer tamanho
+- A aba Tarefas arquivadas nas Configurações foi reconstruída: gerencie suas tarefas arquivadas com mais facilidade
 
 **Correções**
 

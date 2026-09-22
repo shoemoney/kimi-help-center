@@ -19,13 +19,12 @@ Bu sayfa, Kimi Work sürüm güncellemelerini (yeni özellikler, değişiklikler
 
 **Yeni**
 
-- Office dosyalarını önizleme ve düzenleme: PPT / XLSX dosyalarını önizleme panelinde önizleyin ve düzenleyin, değişiklikler anında kaydedilir
-- Seçip sor: bir belgede içerik seçerek Kimi’ye sorun veya yerinde değişiklik isteyin
-- Arşivlenmiş görevler sayfası yeniden oluşturuldu: arama, sıralama, filtreleme ve kalıcı silme destekleniyor
+- PPT, Excel, Word veya Markdown belgelerindeki içerikleri doğrudan seçin ve Kimi’nin hassas şekilde düzenlemesini sağlayın
 
 **Değişiklikler**
 
-- Giriş kutusundaki ek boyut sınırı kaldırıldı
+- Giriş kutusundaki eski dosya boyutu sınırı kaldırıldı — artık her boyutta ek ekleyebilirsiniz
+- Ayarlar’daki Arşivlenmiş görevler sekmesi yeniden oluşturuldu: geçmiş arşivlenmiş görevleri daha kolay yönetin
 
 **Düzeltmeler**
 

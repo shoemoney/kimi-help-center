@@ -19,13 +19,12 @@ Esta página registra las actualizaciones de versión de Kimi Work, incluidas nu
 
 **Novedades**
 
-- Vista previa y edición de archivos de Office: previsualiza y edita archivos PPT / XLSX en el panel de vista previa, con cambios guardados al momento
-- Selecciona para preguntar: selecciona contenido en un documento para preguntar a Kimi o solicitar cambios ahí mismo
-- Página de tareas archivadas reconstruida: admite búsqueda, ordenación, filtrado y eliminación permanente
+- Selecciona directamente contenido en documentos PPT, Excel, Word o Markdown y deja que Kimi lo modifique con precisión
 
 **Cambios**
 
-- Se eliminó el límite de tamaño de los archivos adjuntos del cuadro de entrada
+- Se eliminó el límite de tamaño original de los archivos adjuntos del cuadro de entrada: ahora puedes adjuntar archivos de cualquier tamaño
+- Pestaña de tareas archivadas en Configuración reconstruida: gestiona tus tareas archivadas más fácilmente
 
 **Correcciones**
 

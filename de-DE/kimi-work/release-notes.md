@@ -19,13 +19,12 @@ Diese Seite dokumentiert die Versionsupdates von Kimi Work, einschließlich neue
 
 **Neu**
 
-- Vorschau und Bearbeitung von Office-Dateien: PPT / XLSX im Vorschaubereich ansehen und bearbeiten — Änderungen werden sofort gespeichert
-- Auswählen und fragen: Wählen Sie Inhalte in einem Dokument aus, um Kimi direkt zu fragen oder Änderungen anzufordern
-- Seite für archivierte Aufgaben überarbeitet: Suche, Sortierung, Filter und endgültiges Löschen werden unterstützt
+- Wählen Sie Inhalte in PPT-, Excel-, Word- oder Markdown-Dokumenten direkt aus und lassen Sie sie von Kimi präzise bearbeiten
 
 **Änderungen**
 
-- Die Größenbeschränkung für Anhänge im Eingabefeld wurde entfernt
+- Die bisherige Größenbeschränkung für Dateianhänge im Eingabefeld wurde entfernt — Sie können jetzt Dateien beliebiger Größe anhängen
+- Der Tab „Archivierte Aufgaben“ in den Einstellungen wurde überarbeitet: Archivierte Aufgaben lassen sich leichter verwalten
 
 **Fehlerbehebungen**
 

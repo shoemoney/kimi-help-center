@@ -19,13 +19,12 @@ Questa pagina raccoglie gli aggiornamenti di versione di Kimi Work, tra cui nuov
 
 **Novità**
 
-- Anteprima e modifica di file Office: visualizza e modifica file PPT / XLSX nel pannello di anteprima, con salvataggio delle modifiche in tempo reale
-- Seleziona per chiedere: seleziona contenuto in un documento per chiedere a Kimi o richiedere modifiche sul posto
-- Pagina delle attività archiviate ricostruita: supporta ricerca, ordinamento, filtro ed eliminazione permanente
+- Seleziona direttamente contenuti in documenti PPT, Excel, Word o Markdown e affidali a Kimi per una modifica precisa
 
 **Modifiche**
 
-- Il limite di dimensione degli allegati nel campo di input è stato rimosso
+- Il precedente limite di dimensione dei file per gli allegati nel campo di input è stato rimosso — ora puoi allegare file di qualsiasi dimensione
+- La scheda Attività archiviate nelle Impostazioni è stata ricostruita: gestisci più facilmente le tue attività archiviate
 
 **Correzioni**
 

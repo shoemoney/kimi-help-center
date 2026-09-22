@@ -19,13 +19,12 @@ Trang này ghi lại nội dung cập nhật theo phiên bản của Kimi Work, 
 
 **Mới**
 
-- Xem trước và chỉnh sửa tệp Office: xem trước và chỉnh sửa tệp PPT / XLSX trong bảng xem trước, thay đổi được lưu ngay
-- Chọn để hỏi: chọn nội dung trong tài liệu để hỏi Kimi hoặc yêu cầu chỉnh sửa ngay tại chỗ
-- Trang tác vụ lưu trữ được làm lại: hỗ trợ tìm kiếm, sắp xếp, lọc và xóa vĩnh viễn
+- Chọn trực tiếp nội dung trong tài liệu PPT, Excel, Word hoặc Markdown và giao cho Kimi chỉnh sửa chính xác
 
 **Thay đổi**
 
-- Đã bỏ giới hạn dung lượng tệp đính kèm trong ô nhập
+- Đã bỏ giới hạn dung lượng tệp ban đầu của tệp đính kèm trong ô nhập — giờ bạn có thể đính kèm tệp với kích thước bất kỳ
+- Tab Tác vụ lưu trữ trong Cài đặt được làm lại: quản lý các tác vụ lưu trữ trước đây dễ dàng hơn
 
 **Sửa lỗi**
 

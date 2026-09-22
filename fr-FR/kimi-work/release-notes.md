@@ -46,8 +46,7 @@ Cette page consigne les mises à jour de Kimi Work (nouvelles fonctionnalités, 
 
 **Corrections**
 
-- Retrait d’urgence du package compagnon de destination de partage Windows pour corriger un plantage au démarrage ; la fonctionnalité de partage est revenue dans 3.2.11 après correction
-- Les noms et descriptions des skills intégrées sont désormais localisés selon la langue de l’interface : le menu « / » filtre par noms localisés, avec repli sur l’anglais pour les langues non disponibles
+- Correction d’un plantage au démarrage affectant certaines applications Windows
 - Cliquer sur une carte de dossier joint localise désormais le répertoire correspondant dans l’arborescence des fichiers de l’espace de travail
 - Correction de plusieurs bugs et amélioration de certaines interactions et de la stabilité
 

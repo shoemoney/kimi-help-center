@@ -46,8 +46,7 @@ Halaman ini mencatat pembaruan versi Kimi Work, termasuk fitur baru, perubahan, 
 
 **Perbaikan**
 
-- Paket pendamping target berbagi Windows dihapus secara darurat untuk memperbaiki masalah crash saat startup; kemampuan berbagi kembali di 3.2.11 setelah perbaikan
-- Nama tampilan dan deskripsi skill bawaan kini dilokalkan sesuai bahasa antarmuka: menu “/” memfilter berdasarkan nama terlokalkan, dengan fallback ke bahasa Inggris untuk bahasa yang belum tersedia
+- Memperbaiki masalah crash saat startup pada beberapa aplikasi Windows
 - Mengklik kartu lampiran folder kini melokasikan direktori terkait di pohon file workspace
 - Memperbaiki beberapa bug dan meningkatkan beberapa interaksi dan stabilitas
 

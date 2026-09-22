@@ -46,8 +46,7 @@ Diese Seite dokumentiert die Versionsupdates von Kimi Work, einschließlich neue
 
 **Fehlerbehebungen**
 
-- Das Windows-Share-Target-Begleitpaket wurde kurzfristig entfernt, um einen Absturz beim Start zu beheben; die Teilen-Funktion kehrte in 3.2.11 nach der Behebung zurück
-- Anzeigenamen und Beschreibungen integrierter Skills werden jetzt an die Sprache der Benutzeroberfläche angepasst: Das „/“-Menü filtert nach lokalisierten Namen, bei nicht ausgelieferten Sprachen wird auf Englisch zurückgegriffen
+- Ein Absturz beim Start bei einigen Windows-Anwendungen wurde behoben
 - Durch Klicken auf eine Ordner-Anhangskarte wird das entsprechende Verzeichnis im Workspace-Dateibaum lokalisiert
 - Einige Fehler wurden behoben und einige Interaktionen sowie die Stabilität verbessert
 

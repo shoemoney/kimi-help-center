@@ -46,8 +46,7 @@ This page tracks Kimi Work version updates, including new features, changes, and
 
 **Fixed**
 
-- Urgently removed the Windows share-target companion package to fix a crash-on-launch issue; the share capability returned in 3.2.11 after the fix
-- Built-in skill display names and descriptions are now localized to the interface language: the “/” menu filters by localized names, with fallback to English for undelivered languages
+- Fixed a crash-on-launch issue affecting some Windows applications
 - Clicking a folder attachment card now locates the corresponding directory in the workbench file tree
 - Fixed several bugs and improved some interactions and stability
 

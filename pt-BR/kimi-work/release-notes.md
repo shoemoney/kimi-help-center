@@ -46,8 +46,7 @@ Esta página registra as atualizações de versão do Kimi Work, incluindo novos
 
 **Correções**
 
-- Remoção urgente do pacote complementar de destino de compartilhamento do Windows para corrigir uma falha na inicialização; a capacidade de compartilhamento retornou na 3.2.11 após a correção
-- Os nomes de exibição e descrições das skills integradas agora são localizados conforme o idioma da interface: o menu “/” filtra por nomes localizados, com fallback para o inglês nos idiomas não disponíveis
+- Correção de uma falha na inicialização que afetava alguns aplicativos do Windows
 - Clicar em um cartão de anexo de pasta agora localiza o diretório correspondente na árvore de arquivos do workspace
 - Correção de alguns bugs e melhoria de algumas interações e da estabilidade
 

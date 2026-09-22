@@ -46,8 +46,7 @@ Trang này ghi lại nội dung cập nhật theo phiên bản của Kimi Work, 
 
 **Sửa lỗi**
 
-- Gỡ khẩn gói đi kèm đích chia sẻ của Windows để khắc phục lỗi crash ngay khi khởi động; khả năng chia sẻ đã quay lại trong 3.2.11 sau khi sửa
-- Tên hiển thị và mô tả của skill tích hợp giờ được bản địa hóa theo ngôn ngữ giao diện: menu “/” lọc theo tên đã dịch, các ngôn ngữ chưa cung cấp sẽ dùng tiếng Anh
+- Đã sửa lỗi crash ngay khi khởi động ảnh hưởng một số ứng dụng Windows
 - Nhấp vào thẻ đính kèm thư mục giờ sẽ định vị thư mục tương ứng trong cây tệp của workspace
 - Đã sửa một số lỗi và cải thiện một số tương tác cùng độ ổn định
 

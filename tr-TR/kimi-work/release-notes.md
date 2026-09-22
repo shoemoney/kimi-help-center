@@ -46,8 +46,7 @@ Bu sayfa, Kimi Work sürüm güncellemelerini (yeni özellikler, değişiklikler
 
 **Düzeltmeler**
 
-- Başlangıçta çökmeye neden olan sorunu düzeltmek için Windows paylaşım hedefi yardımcı paketi acil olarak kaldırıldı; paylaşım özelliği 3.2.11'de düzeltmenin ardından geri döndü
-- Yerleşik skill görünen adları ve açıklamaları artık arayüz diline göre yerelleştiriliyor: “/” menüsü yerelleştirilmiş adlara göre filtreliyor, sunulmayan diller için İngilizceye geri dönülüyor
+- Bazı Windows uygulamalarını etkileyen başlangıçta çökme sorunu düzeltildi
 - Bir klasör eki kartına tıklamak artık çalışma alanı dosya ağacında ilgili dizini buluyor
 - Bazı hatalar düzeltildi ve bazı etkileşimler ile kararlılık iyileştirildi
 

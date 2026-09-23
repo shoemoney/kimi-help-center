@@ -41,7 +41,7 @@ Kimi Business 適合有團隊協作需求的中小型企業，尤其是需要席
 
 目前版本不支援自助移轉管理員。如需更換管理員，請聯絡客服。
 
-**客服信箱：** [sales@kimi.com](mailto:sales@kimi.com)
+**客服信箱：** [sales@kimi.ai](mailto:sales@kimi.ai)
 
 ## 如何透過企業銀行轉帳付款？
 
@@ -65,7 +65,7 @@ Kimi Business 支援企業銀行轉帳。請依照下列步驟操作：
 
 <Callout type="warning">
 
-注意：收款帳號僅供本次轉帳使用，無需保存。轉帳金額必須與訂單金額一致（例如：$3,000）。若因轉帳資訊不符合要求而導致訂單失敗，款項將於 24 小時內退回。如有疑問，請透過 [sales@kimi.com](mailto:sales@kimi.com) 聯絡客服。
+注意：收款帳號僅供本次轉帳使用，無需保存。轉帳金額必須與訂單金額一致（例如：$3,000）。若因轉帳資訊不符合要求而導致訂單失敗，款項將於 24 小時內退回。如有疑問，請透過 [sales@kimi.ai](mailto:sales@kimi.ai) 聯絡客服。
 
 </Callout>
 

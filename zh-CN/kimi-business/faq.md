@@ -41,7 +41,7 @@ preview: false
 
 当前版本暂不支持管理员自助转让，如需变更请联系客服处理。
 
-**客服邮箱：** [sales@kimi.ai](mailto:sales@kimi.ai)
+**客服邮箱：** [sales@kimi.com](mailto:sales@kimi.com)
 
 ## 企业版能按月计费吗？是否有优惠或折扣？支持开票吗？开票类型是什么？
 
@@ -79,7 +79,7 @@ preview: false
    复制收款账号、账户名、收款行及金额等信息，前往银行 App 完成转账，1-5 分钟后返回页面查询支付结果。
 
 <Callout type="warning">
-注意：收款账号仅限本次转账使用，无需留存；转账金额须与订单金额一致（示例：¥21,000）；未按要求转账导致订单失败的，资金将在 24 小时内退回。如有疑问请联系客服邮箱 [sales@kimi.ai](mailto:sales@kimi.ai)。
+注意：收款账号仅限本次转账使用，无需留存；转账金额须与订单金额一致（示例：¥21,000）；未按要求转账导致订单失败的，资金将在 24 小时内退回。如有疑问请联系客服邮箱 [sales@kimi.com](mailto:sales@kimi.com)。
 
 </Callout>
 

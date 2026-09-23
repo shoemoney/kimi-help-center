@@ -41,7 +41,7 @@ Sì. Gli amministratori possono aggiungere postazioni in qualsiasi momento duran
 
 La versione attuale non supporta il trasferimento dell'amministratore in modalità self-service. Per cambiare l'amministratore, contatta l'assistenza clienti.
 
-**E-mail dell'assistenza clienti:** [sales@kimi.com](mailto:sales@kimi.com)
+**E-mail dell'assistenza clienti:** [sales@kimi.ai](mailto:sales@kimi.ai)
 
 ## Come si effettua il pagamento tramite bonifico bancario aziendale?
 
@@ -65,7 +65,7 @@ Il bonifico bancario aziendale è supportato. Segui questi passaggi:
 
 <Callout type="warning">
 
-Nota: il numero del conto beneficiario vale solo per questo bonifico e non deve essere conservato. L'importo del bonifico deve corrispondere all'importo dell'ordine (esempio: 3.000 $). I fondi relativi a ordini non andati a buon fine a causa di bonifici non conformi verranno rimborsati entro 24 ore. Per domande, contatta l'assistenza clienti all'indirizzo [sales@kimi.com](mailto:sales@kimi.com).
+Nota: il numero del conto beneficiario vale solo per questo bonifico e non deve essere conservato. L'importo del bonifico deve corrispondere all'importo dell'ordine (esempio: 3.000 $). I fondi relativi a ordini non andati a buon fine a causa di bonifici non conformi verranno rimborsati entro 24 ore. Per domande, contatta l'assistenza clienti all'indirizzo [sales@kimi.ai](mailto:sales@kimi.ai).
 
 </Callout>
 

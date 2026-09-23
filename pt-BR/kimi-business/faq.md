@@ -41,7 +41,7 @@ Sim. Os administradores podem adicionar assentos a qualquer momento durante o pe
 
 A versão atual não oferece transferência de administrador no modo autoatendimento. Entre em contato com o atendimento ao cliente caso precise alterar o administrador.
 
-**E-mail do atendimento ao cliente:** [sales@kimi.com](mailto:sales@kimi.com)
+**E-mail do atendimento ao cliente:** [sales@kimi.ai](mailto:sales@kimi.ai)
 
 ## Como faço o pagamento por transferência bancária corporativa?
 
@@ -65,7 +65,7 @@ A transferência bancária corporativa é suportada. Siga estes passos:
 
 <Callout type="warning">
 
-Observação: o número da conta de recebimento é válido apenas para esta transferência e não precisa ser guardado. O valor da transferência deve corresponder ao valor do pedido (exemplo: US$ 3.000). Os valores de pedidos que falharem devido a transferências em desacordo serão reembolsados em até 24 horas. Em caso de dúvidas, entre em contato com o atendimento ao cliente pelo e-mail [sales@kimi.com](mailto:sales@kimi.com).
+Observação: o número da conta de recebimento é válido apenas para esta transferência e não precisa ser guardado. O valor da transferência deve corresponder ao valor do pedido (exemplo: US$ 3.000). Os valores de pedidos que falharem devido a transferências em desacordo serão reembolsados em até 24 horas. Em caso de dúvidas, entre em contato com o atendimento ao cliente pelo e-mail [sales@kimi.ai](mailto:sales@kimi.ai).
 
 </Callout>
 

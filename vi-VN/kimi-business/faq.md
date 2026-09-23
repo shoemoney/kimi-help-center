@@ -41,7 +41,7 @@ Có. Quản trị viên có thể thêm suất người dùng bất cứ lúc n�
 
 Phiên bản hiện tại chưa hỗ trợ tự chuyển giao quản trị viên. Vui lòng liên hệ bộ phận chăm sóc khách hàng nếu bạn cần thay đổi quản trị viên.
 
-**Email chăm sóc khách hàng:** [sales@kimi.com](mailto:sales@kimi.com)
+**Email chăm sóc khách hàng:** [sales@kimi.ai](mailto:sales@kimi.ai)
 
 ## Làm thế nào để thanh toán qua chuyển khoản ngân hàng doanh nghiệp?
 
@@ -65,7 +65,7 @@ Chúng tôi hỗ trợ chuyển khoản ngân hàng doanh nghiệp. Hãy làm th
 
 <Callout type="warning">
 
-Lưu ý: Số tài khoản nhận chỉ dùng cho lần chuyển khoản này và không cần lưu lại. Số tiền chuyển khoản phải khớp với số tiền đơn hàng (ví dụ: 3.000 USD). Tiền của các đơn hàng thất bại do chuyển khoản không đúng quy định sẽ được hoàn trả trong vòng 24 giờ. Nếu có thắc mắc, vui lòng liên hệ bộ phận chăm sóc khách hàng tại [sales@kimi.com](mailto:sales@kimi.com).
+Lưu ý: Số tài khoản nhận chỉ dùng cho lần chuyển khoản này và không cần lưu lại. Số tiền chuyển khoản phải khớp với số tiền đơn hàng (ví dụ: 3.000 USD). Tiền của các đơn hàng thất bại do chuyển khoản không đúng quy định sẽ được hoàn trả trong vòng 24 giờ. Nếu có thắc mắc, vui lòng liên hệ bộ phận chăm sóc khách hàng tại [sales@kimi.ai](mailto:sales@kimi.ai).
 
 </Callout>
 

@@ -37,4 +37,4 @@ Your data is stored in a secure, standards-compliant server environment located 
 
 ## Will enterprise users' data be used for model training?
 
-A core commitment of Kimi Business (the enterprise plan) is that enterprise data does not enter the model training pipeline, and personal and enterprise workspaces are fully isolated. For enterprise contracts or a product demo, contact our enterprise sales team: [sales@kimi.ai](mailto:sales@kimi.ai).
+A core commitment of Kimi Business (the enterprise plan) is that enterprise data does not enter the model training pipeline, and personal and enterprise workspaces are fully isolated. For enterprise contracts or a product demo, contact our enterprise sales team: [sales@kimi.com](mailto:sales@kimi.com).

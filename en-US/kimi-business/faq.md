@@ -41,7 +41,7 @@ Yes. Administrators can add seats at any time during the subscription period, wi
 
 The current version does not support self-service administrator transfer. Please contact customer service if you need to change the administrator.
 
-**Customer Service Email:** [sales@kimi.com](mailto:sales@kimi.com)
+**Customer Service Email:** [sales@kimi.ai](mailto:sales@kimi.ai)
 
 ## How do I pay via enterprise bank transfer?
 
@@ -65,7 +65,7 @@ Enterprise bank transfer is supported. Follow these steps:
 
 <Callout type="warning">
 
-Note: The receiving account number is for this transfer only and does not need to be retained. The transfer amount must match the order amount (example: $3,000). Funds for failed orders due to non-compliant transfers will be refunded within 24 hours. For questions, please contact customer service at [sales@kimi.com](mailto:sales@kimi.com).
+Note: The receiving account number is for this transfer only and does not need to be retained. The transfer amount must match the order amount (example: $3,000). Funds for failed orders due to non-compliant transfers will be refunded within 24 hours. For questions, please contact customer service at [sales@kimi.ai](mailto:sales@kimi.ai).
 
 </Callout>
 

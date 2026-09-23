@@ -41,7 +41,7 @@ Bisa. Administrator dapat menambahkan kursi kapan saja selama masa langganan, de
 
 Versi saat ini belum mendukung pengalihan administrator secara mandiri. Silakan hubungi layanan pelanggan jika Anda perlu mengganti administrator.
 
-**Email Layanan Pelanggan:** [sales@kimi.com](mailto:sales@kimi.com)
+**Email Layanan Pelanggan:** [sales@kimi.ai](mailto:sales@kimi.ai)
 
 ## Bagaimana cara membayar melalui transfer bank perusahaan?
 
@@ -65,7 +65,7 @@ Transfer bank perusahaan didukung. Ikuti langkah-langkah berikut:
 
 <Callout type="warning">
 
-Catatan: Nomor rekening tujuan hanya berlaku untuk transfer ini dan tidak perlu disimpan. Jumlah transfer harus sesuai dengan jumlah pesanan (contoh: $3.000). Dana untuk pesanan yang gagal akibat transfer yang tidak sesuai akan dikembalikan dalam 24 jam. Jika ada pertanyaan, silakan hubungi layanan pelanggan di [sales@kimi.com](mailto:sales@kimi.com).
+Catatan: Nomor rekening tujuan hanya berlaku untuk transfer ini dan tidak perlu disimpan. Jumlah transfer harus sesuai dengan jumlah pesanan (contoh: $3.000). Dana untuk pesanan yang gagal akibat transfer yang tidak sesuai akan dikembalikan dalam 24 jam. Jika ada pertanyaan, silakan hubungi layanan pelanggan di [sales@kimi.ai](mailto:sales@kimi.ai).
 
 </Callout>
 

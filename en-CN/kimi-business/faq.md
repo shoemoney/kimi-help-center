@@ -41,7 +41,7 @@ Yes. Administrators can buy additional seats at any time. The price is prorated 
 
 The current version does not support self-service administrator transfer. If you need to make a change, please contact customer support.
 
-**Support email:** [sales@kimi.ai](mailto:sales@kimi.ai)
+**Support email:** [sales@kimi.com](mailto:sales@kimi.com)
 
 ## Can the enterprise plan be billed monthly? Are there any discounts? Is invoicing supported, and what invoice types are available?
 
@@ -79,7 +79,7 @@ Corporate bank transfer is supported. Follow these steps:
    Copy the receiving account number, account name, receiving bank, amount, and other information, then go to your bank App to complete the transfer. Return to the page after 1–5 minutes to check the payment result.
 
 <Callout type="warning">
-Note: The receiving account number is only for this transfer and does not need to be saved. The transfer amount must match the order amount exactly (example: ¥21,000). If the order fails because the transfer was not made as required, the funds will be returned within 24 hours. If you have any questions, please contact customer support at [sales@kimi.ai](mailto:sales@kimi.ai).
+Note: The receiving account number is only for this transfer and does not need to be saved. The transfer amount must match the order amount exactly (example: ¥21,000). If the order fails because the transfer was not made as required, the funds will be returned within 24 hours. If you have any questions, please contact customer support at [sales@kimi.com](mailto:sales@kimi.com).
 
 </Callout>
 

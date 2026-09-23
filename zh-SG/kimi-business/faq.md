@@ -41,7 +41,7 @@ Kimi Business 适合有团队协作需求的中小型企业，尤其适用于需
 
 当前版本暂不支持自助转移管理员。如需更换管理员，请联系客服。
 
-**客服邮箱：** [sales@kimi.com](mailto:sales@kimi.com)
+**客服邮箱：** [sales@kimi.ai](mailto:sales@kimi.ai)
 
 ## 如何通过企业银行转账付款？
 
@@ -65,7 +65,7 @@ Kimi Business 适合有团队协作需求的中小型企业，尤其适用于需
 
 <Callout type="warning">
 
-注意：收款账号仅用于本次转账，无需保存。转账金额必须与订单金额一致（示例：$3,000）。因转账信息不符合要求而导致订单失败的款项，将在 24 小时内原路退回。如有疑问，请通过 [sales@kimi.com](mailto:sales@kimi.com) 联系客服。
+注意：收款账号仅用于本次转账，无需保存。转账金额必须与订单金额一致（示例：$3,000）。因转账信息不符合要求而导致订单失败的款项，将在 24 小时内原路退回。如有疑问，请通过 [sales@kimi.ai](mailto:sales@kimi.ai) 联系客服。
 
 </Callout>
 

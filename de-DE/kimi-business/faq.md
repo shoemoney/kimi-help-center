@@ -41,7 +41,7 @@ Ja. Administratoren können jederzeit während der Abonnementlaufzeit Plätze hi
 
 Die aktuelle Version unterstützt keine selbstständige Übertragung der Administratorrolle. Bitte wenden Sie sich an den Kundenservice, wenn Sie den Administrator wechseln möchten.
 
-**E-Mail des Kundenservice:** [sales@kimi.com](mailto:sales@kimi.com)
+**E-Mail des Kundenservice:** [sales@kimi.ai](mailto:sales@kimi.ai)
 
 ## Wie zahle ich per Unternehmensüberweisung?
 
@@ -65,7 +65,7 @@ Die Zahlung per Unternehmensüberweisung wird unterstützt. Gehen Sie dabei wie 
 
 <Callout type="warning">
 
-Hinweis: Die Empfängerkontonummer gilt nur für diese Überweisung und muss nicht aufbewahrt werden. Der Überweisungsbetrag muss mit dem Bestellbetrag übereinstimmen (Beispiel: 3.000 $). Beträge fehlgeschlagener Bestellungen aufgrund nicht regelkonformer Überweisungen werden innerhalb von 24 Stunden erstattet. Bei Fragen wenden Sie sich bitte an den Kundenservice unter [sales@kimi.com](mailto:sales@kimi.com).
+Hinweis: Die Empfängerkontonummer gilt nur für diese Überweisung und muss nicht aufbewahrt werden. Der Überweisungsbetrag muss mit dem Bestellbetrag übereinstimmen (Beispiel: 3.000 $). Beträge fehlgeschlagener Bestellungen aufgrund nicht regelkonformer Überweisungen werden innerhalb von 24 Stunden erstattet. Bei Fragen wenden Sie sich bitte an den Kundenservice unter [sales@kimi.ai](mailto:sales@kimi.ai).
 
 </Callout>
 

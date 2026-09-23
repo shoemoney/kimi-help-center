@@ -28,7 +28,7 @@ Kimi 智能助手现已推出 Kimi Business 企业会员权益，请前往 [http
 
 ## 如何联系销售团队？
 
-请访问 [platform.kimi.com/contact-sales](https://platform.kimi.com/contact-sales) 填写联系表单，我们的销售团队将在 1-2 个工作日内与你取得联系。
+请访问 [platform.kimi.com/contact-sales](https://platform.kimi.com/contact-sales) 填写联系表单，或发送邮件至 [sales@moonshot.cn](mailto:sales@moonshot.cn)，我们的销售团队将在 1-2 个工作日内与你取得联系。
 
 你也可以在表单中注明以下信息，以便我们更快响应：
 

@@ -41,7 +41,7 @@ Oui. Les administrateurs peuvent ajouter des sièges à tout moment pendant la p
 
 La version actuelle ne prend pas en charge le transfert d'administrateur en libre-service. Veuillez contacter le service client si vous devez changer d'administrateur.
 
-**Adresse e-mail du service client :** [sales@kimi.com](mailto:sales@kimi.com)
+**Adresse e-mail du service client :** [sales@kimi.ai](mailto:sales@kimi.ai)
 
 ## Comment payer par virement bancaire d'entreprise ?
 
@@ -65,7 +65,7 @@ Le virement bancaire d'entreprise est pris en charge. Suivez ces étapes :
 
 <Callout type="warning">
 
-Remarque : le numéro de compte bénéficiaire ne vaut que pour ce virement et n'a pas besoin d'être conservé. Le montant du virement doit correspondre exactement au montant de la commande (exemple : 3 000 $). Les fonds des commandes échouées en raison de virements non conformes seront remboursés sous 24 heures. Pour toute question, veuillez contacter le service client à l'adresse [sales@kimi.com](mailto:sales@kimi.com).
+Remarque : le numéro de compte bénéficiaire ne vaut que pour ce virement et n'a pas besoin d'être conservé. Le montant du virement doit correspondre exactement au montant de la commande (exemple : 3 000 $). Les fonds des commandes échouées en raison de virements non conformes seront remboursés sous 24 heures. Pour toute question, veuillez contacter le service client à l'adresse [sales@kimi.ai](mailto:sales@kimi.ai).
 
 </Callout>
 

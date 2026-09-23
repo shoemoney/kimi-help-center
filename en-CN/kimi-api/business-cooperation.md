@@ -18,7 +18,7 @@ Kimi API offers a range of cooperation options for enterprise customers, designe
 
 ## How do I contact the sales team?
 
-Please visit [platform.kimi.com/contact-sales](https://platform.kimi.com/contact-sales) and fill out the contact form. Our sales team will get in touch with you within 1–2 business days.
+Please visit [platform.kimi.com/contact-sales](https://platform.kimi.com/contact-sales) and fill out the contact form, or email us at [sales@moonshot.cn](mailto:sales@moonshot.cn). Our sales team will get in touch with you within 1–2 business days.
 
 You can also include the following information in the form so we can respond more quickly:
 

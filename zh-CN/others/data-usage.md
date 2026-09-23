@@ -37,4 +37,4 @@ preview: false
 
 ## 企业用户的数据会用于模型训练吗？
 
-Kimi Business（企业版）的核心承诺之一是企业数据不进入模型训练流程，且个人空间与企业空间完全隔离。如需企业合同或产品演示，请联系企业销售团队：[sales@kimi.ai](mailto:sales@kimi.ai)。
+Kimi Business（企业版）的核心承诺之一是企业数据不进入模型训练流程，且个人空间与企业空间完全隔离。如需企业合同或产品演示，请联系企业销售团队：[sales@kimi.com](mailto:sales@kimi.com)。

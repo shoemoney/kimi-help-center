@@ -41,7 +41,7 @@ Evet. Yöneticiler abonelik süresi boyunca istedikleri zaman koltuk ekleyebilir
 
 Mevcut sürüm, self servis yönetici devrini desteklememektedir. Yöneticiyi değiştirmeniz gerekiyorsa lütfen müşteri hizmetleriyle iletişime geçin.
 
-**Müşteri Hizmetleri E-postası:** [sales@kimi.com](mailto:sales@kimi.com)
+**Müşteri Hizmetleri E-postası:** [sales@kimi.ai](mailto:sales@kimi.ai)
 
 ## Kurumsal banka havalesiyle nasıl ödeme yaparım?
 
@@ -65,7 +65,7 @@ Kurumsal banka havalesi desteklenmektedir. Aşağıdaki adımları izleyin:
 
 <Callout type="warning">
 
-Not: Alıcı hesap numarası yalnızca bu havale içindir ve saklanması gerekmez. Havale tutarı, sipariş tutarıyla eşleşmelidir (örnek: 3.000 $). Kurallara uymayan havaleler nedeniyle başarısız olan siparişlerin tutarları 24 saat içinde iade edilir. Sorularınız için lütfen müşteri hizmetleriyle [sales@kimi.com](mailto:sales@kimi.com) adresinden iletişime geçin.
+Not: Alıcı hesap numarası yalnızca bu havale içindir ve saklanması gerekmez. Havale tutarı, sipariş tutarıyla eşleşmelidir (örnek: 3.000 $). Kurallara uymayan havaleler nedeniyle başarısız olan siparişlerin tutarları 24 saat içinde iade edilir. Sorularınız için lütfen müşteri hizmetleriyle [sales@kimi.ai](mailto:sales@kimi.ai) adresinden iletişime geçin.
 
 </Callout>
 
